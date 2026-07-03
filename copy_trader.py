@@ -1,10 +1,11 @@
 # Paper copy-trader: mirror high-conviction positions of verified pro wallets.
 #
 # Entry:  leader's cumulative net cost in a token crosses CONVICTION_USD (aggregating
-#         their micro-orders) -> we buy STAKE_USD at the live CLOB best ask, unless the
-#         price ran away by more than MAX_CHASE vs their VWAP (recorded as a skip).
-# Exit:   leader unwinds below EXIT_FRACTION of their max shares -> sell at best bid;
-#         or market resolves -> redeem at $1/$0.
+#         their micro-orders) -> we buy STAKE_USD walking the live CLOB asks up to
+#         leader VWAP + MAX_CHASE; skip if even the best ask is past that (chase) or
+#         the book can't fill the full stake within it (thin_book).
+# Exit:   leader unwinds below EXIT_FRACTION of their max shares -> sell into the bids,
+#         waiting if depth can't absorb us; or market resolves -> redeem at $1/$0.
 # Every position records leader VWAP, our fill, and copy delay: the whole point of the
 # experiment is measuring what a copier actually gets.
 #
@@ -107,6 +108,22 @@ def best(book, side):
     if not lvls:
         return None, 0.0
     return (min(lvls) if side == "asks" else max(lvls))
+
+def sim_fill(book, side, budget=None, size=None, limit_px=None):
+    """Marketable-order fill against real depth: buy asks until `budget` USD is
+    spent, or sell `size` shares into bids. Returns (shares, usd) actually filled."""
+    lvls = [(float(x["price"]), float(x["size"])) for x in (book or {}).get(side) or []]
+    lvls.sort(reverse=(side == "bids"))
+    shares = usd = 0.0
+    for px, sz in lvls:
+        if limit_px is not None and (px > limit_px if side == "asks" else px < limit_px):
+            break
+        take = min(sz, (budget - usd) / px) if side == "asks" else min(sz, size - shares)
+        if take <= 0:
+            break
+        shares += take
+        usd += take * px
+    return shares, usd
 
 def clob_winner(condition_id, asset):
     """Gamma omits resolved markets from condition_ids queries; CLOB still serves
@@ -237,14 +254,15 @@ def cycle(st):
     books = get_books(need_books) if need_books else {}
 
     for asset in exit_assets:
-        bid, _ = best(books.get(asset), "bids")
         for p in list(st["positions"]):
             if p["asset"] != asset:
                 continue
-            if bid is None:
-                print(f"  [WARN] sense bid per sortir de {p['title'][:40]}, espero")
+            sold, proceeds = sim_fill(books.get(asset), "bids", size=p["shares"])
+            if sold < p["shares"] * 0.999:
+                print(f"  [WARN] bids insuficients per sortir de {p['title'][:40]} "
+                      f"({sold:.0f}/{p['shares']:.0f}), espero")
                 continue
-            proceeds = p["shares"] * bid
+            bid = round(proceeds / sold, 4)
             p.update(status="closed", closed_at=iso(), exit_price=bid,
                      pnl=round(proceeds - p["stake"], 4), close_reason="leader_exit")
             st["bankroll"] += proceeds
@@ -260,24 +278,29 @@ def cycle(st):
         if ask is None or not (MIN_PRICE <= ask <= MAX_PRICE):
             st["skips"].append({"at": iso(), "reason": "no_book_or_extreme", "ask": ask, **{x: lp[x] for x in ("leader", "title", "outcome")}})
             continue
-        if vwap is not None and ask - vwap > MAX_CHASE:
-            st["skips"].append({"at": iso(), "reason": "chase", "ask": ask, "leader_vwap": round(vwap, 4),
+        limit_px = min(MAX_PRICE, vwap + MAX_CHASE) if vwap is not None else MAX_PRICE
+        shares, cost = sim_fill(books.get(lp["asset"]), "asks", budget=STAKE_USD, limit_px=limit_px)
+        if cost < STAKE_USD * 0.999:
+            reason = "chase" if shares <= 0 else "thin_book"
+            st["skips"].append({"at": iso(), "reason": reason, "ask": ask, "fillable_usd": round(cost, 2),
+                                "leader_vwap": round(vwap, 4) if vwap is not None else None,
                                 **{x: lp[x] for x in ("leader", "title", "outcome")}})
-            print(f"  [SKIP chase] {lp['title'][:45]} ask {ask} vs vwap {vwap:.3f}")
+            vw = f"{vwap:.3f}" if vwap is not None else "?"
+            print(f"  [SKIP {reason}] {lp['title'][:45]} ask {ask} fillable ${cost:.0f} vs vwap {vw}")
             continue
-        shares = STAKE_USD / ask
+        fill_px = STAKE_USD / shares
         st["positions"].append({
             "leader": lp["leader"], "asset": lp["asset"], "condition_id": lp["condition_id"],
             "title": lp["title"], "outcome": lp["outcome"], "slug": lp["slug"],
-            "opened_at": iso(), "entry_price": ask, "shares": round(shares, 4),
+            "opened_at": iso(), "entry_price": round(fill_px, 4), "shares": round(shares, 4),
             "stake": STAKE_USD, "leader_vwap": round(vwap, 4) if vwap else None,
             "leader_cost": round(lp["cost"], 2),
             "copy_delay_min": round((t0 - lp["last_trade_ts"]) / 60, 1),
-            "ask_depth": ask_sz, "status": "open",
+            "best_ask": ask, "ask_depth": ask_sz, "status": "open",
         })
         st["bankroll"] -= STAKE_USD
-        print(f"  [COPY] {lp['leader']} {lp['title'][:45]} ({lp['outcome']}) @ {ask} "
-              f"(vwap líder {vwap:.3f}, retard {(t0 - lp['last_trade_ts'])/60:.0f}m)")
+        print(f"  [COPY] {lp['leader']} {lp['title'][:45]} ({lp['outcome']}) @ {fill_px:.4f} "
+              f"(millor ask {ask}, vwap líder {vwap:.3f}, retard {(t0 - lp['last_trade_ts'])/60:.0f}m)")
 
     resolve_positions(st)
 
