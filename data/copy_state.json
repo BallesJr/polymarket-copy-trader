@@ -1,0 +1,269 @@
+{
+ "created_at": "2026-07-03T14:51:38.407713+00:00",
+ "bankroll": 9500.0,
+ "last_seen": {
+  "jtwyslljy": 1783091000,
+  "0x53757615de": 1783086530
+ },
+ "seen_keys": [
+  [
+   "0x1631634a339c23877c3a89952299acb1bc97243b90775cd8291bfa05034f3b91",
+   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "BUY",
+   3048.43,
+   1783071980
+  ],
+  [
+   "0x5cf2db4cf4f76a1a6dd7052d8879111dd919487abb85bb663ebc724ed9ae8db4",
+   "39217053750206191523793193890880268288191824918303577917151382672703438693685",
+   "BUY",
+   7000,
+   1783072307
+  ],
+  [
+   "0xc9e7b4bd20d48e38f4cd0802265061a8906607e0f323a88dbb2679ec8c6dbbb4",
+   "85980654132312686246086834758692867239223848885154876906708533217968355155422",
+   "BUY",
+   6000,
+   1783074121
+  ],
+  [
+   "0x424601f4e5afc3e7a4caec1564d2df0f408e787634f93f11d3ff02f8d8df6dee",
+   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "BUY",
+   10000,
+   1783083496
+  ],
+  [
+   "0x32122755b44eef93912f7a23f8742890a11460455fb2972ee4aceaea28371594",
+   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "BUY",
+   10000,
+   1783084126
+  ],
+  [
+   "0x353d8065fef1c89f1cb336185c20519cc9a384f4956df650131af8ab5fa57bd2",
+   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "BUY",
+   10000,
+   1783085587
+  ],
+  [
+   "0xd0d1f847b5e64a4ab92104fac5aae729f6c5c3bf7c1546398cf61ceb1f180312",
+   "70262482744164175231713225135554897410646273200471533787598889900407116102049",
+   "BUY",
+   8000,
+   1783085845
+  ],
+  [
+   "0x277e1e4373c923dc721b6ed5d52321fd11e38e0189cf3bd29d25b9449b04d6cf",
+   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "BUY",
+   124,
+   1783089505
+  ],
+  [
+   "0xdcc1bf1934c5db9c2458714310b2827ca092a2f4317ee2bea6a0553d3129c1b2",
+   "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+   "BUY",
+   8769.7,
+   1783086367
+  ],
+  [
+   "0xa5029676f2fdbcd665a5b0f2c3f20310004cace669f53e9f1dc6eb7e8ffa34ef",
+   "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+   "BUY",
+   1323,
+   1783086431
+  ],
+  [
+   "0xcd9fa3ffcc0729e60505ee32e509f4518e35c03b4a5b545aac7d4817bd699689",
+   "51911548599887870208512834589104874988746646324647658251485676564237334602135",
+   "BUY",
+   29375,
+   1783086530
+  ],
+  [
+   "0x475f407a3ddf137af69ff115bf8af8dc52463cbbc0dcf4d84a1342661137952c",
+   "85980654132312686246086834758692867239223848885154876906708533217968355155422",
+   "BUY",
+   5000,
+   1783091000
+  ]
+ ],
+ "leader_pos": {
+  "jtwyslljy|30431643017166592030847362766058192620147083287695752275013317610723972957831": {
+   "leader": "jtwyslljy",
+   "asset": "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "condition_id": "0x092ed5b1fa0f8c26ec0fa838f427d5649c35a89da580654465858edc5fd53574",
+   "title": "Wimbledon ATP: Arthur Rinderknech vs Novak Djokovic",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-djokovi-2026-07-03",
+   "shares": 33172.43,
+   "cost": 4246.3633,
+   "max_shares": 33172.43,
+   "last_trade_ts": 1783089505
+  },
+  "jtwyslljy|39217053750206191523793193890880268288191824918303577917151382672703438693685": {
+   "leader": "jtwyslljy",
+   "asset": "39217053750206191523793193890880268288191824918303577917151382672703438693685",
+   "condition_id": "0x4a575a7cce7e0a3d40e3b92bb5ef3f00882c9e51e2ae41ac7d727d0ee5a10a9d",
+   "title": "Wimbledon ATP: Jan-Lennard Struff vs Daniil Medvedev",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-medvede-2026-07-03",
+   "shares": 7000.0,
+   "cost": 1260.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1783072307
+  },
+  "jtwyslljy|85980654132312686246086834758692867239223848885154876906708533217968355155422": {
+   "leader": "jtwyslljy",
+   "asset": "85980654132312686246086834758692867239223848885154876906708533217968355155422",
+   "condition_id": "0x081291a0366264baf9f644e8b2ddeaca18954628e6b63b4edac23d04977bd61f",
+   "title": "Wimbledon ATP: Rafael Jodar vs Shintaro Mochizuki",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-mochizu-2026-07-03",
+   "shares": 11000.0,
+   "cost": 6450.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1783091000
+  },
+  "jtwyslljy|70262482744164175231713225135554897410646273200471533787598889900407116102049": {
+   "leader": "jtwyslljy",
+   "asset": "70262482744164175231713225135554897410646273200471533787598889900407116102049",
+   "condition_id": "0x615605cc8a0bf8a138e85b87362e69dad877049fc99e72e67157ef10c16635f1",
+   "title": "Wimbledon WTA: Karolina Muchova vs Mananchaya Sawangkaew",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-sawangk-2026-07-03",
+   "shares": 8000.0,
+   "cost": 7200.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1783085845
+  },
+  "0x53757615de|45415751658241142530386585138386640503488308219341470020075667342738719018629": {
+   "leader": "0x53757615de",
+   "asset": "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+   "condition_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+   "title": "Will Portugal win the 2026 FIFA World Cup?",
+   "outcome": "Yes",
+   "slug": "world-cup-winner",
+   "shares": 10092.7,
+   "cost": 625.7474,
+   "max_shares": 10092.7,
+   "last_trade_ts": 1783086431
+  },
+  "0x53757615de|51911548599887870208512834589104874988746646324647658251485676564237334602135": {
+   "leader": "0x53757615de",
+   "asset": "51911548599887870208512834589104874988746646324647658251485676564237334602135",
+   "condition_id": "0x32046bdc03d13d916351bd2178cc20c5f268802d4ae60c0d8383ae91d2dd1d41",
+   "title": "Will Mexico win on 2026-07-05?",
+   "outcome": "Yes",
+   "slug": "fifwc-mex-eng-2026-07-05",
+   "shares": 29375.0,
+   "cost": 9106.25,
+   "max_shares": 29375.0,
+   "last_trade_ts": 1783086530
+  }
+ },
+ "positions": [
+  {
+   "leader": "0x53757615de",
+   "asset": "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+   "condition_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+   "title": "Will Portugal win the 2026 FIFA World Cup?",
+   "outcome": "Yes",
+   "slug": "world-cup-winner",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.061,
+   "shares": 1639.3443,
+   "stake": 100.0,
+   "leader_vwap": 0.062,
+   "leader_cost": 625.75,
+   "copy_delay_min": 64.5,
+   "ask_depth": 4443.66,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70262482744164175231713225135554897410646273200471533787598889900407116102049",
+   "condition_id": "0x615605cc8a0bf8a138e85b87362e69dad877049fc99e72e67157ef10c16635f1",
+   "title": "Wimbledon WTA: Karolina Muchova vs Mananchaya Sawangkaew",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-sawangk-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.91,
+   "shares": 109.8901,
+   "stake": 100.0,
+   "leader_vwap": 0.9,
+   "leader_cost": 7200.0,
+   "copy_delay_min": 74.2,
+   "ask_depth": 5573.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85980654132312686246086834758692867239223848885154876906708533217968355155422",
+   "condition_id": "0x081291a0366264baf9f644e8b2ddeaca18954628e6b63b4edac23d04977bd61f",
+   "title": "Wimbledon ATP: Rafael Jodar vs Shintaro Mochizuki",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-mochizu-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 4500.0,
+   "copy_delay_min": 269.6,
+   "ask_depth": 1148.39,
+   "status": "open"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "51911548599887870208512834589104874988746646324647658251485676564237334602135",
+   "condition_id": "0x32046bdc03d13d916351bd2178cc20c5f268802d4ae60c0d8383ae91d2dd1d41",
+   "title": "Will Mexico win on 2026-07-05?",
+   "outcome": "Yes",
+   "slug": "fifwc-mex-eng-2026-07-05",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 9106.25,
+   "copy_delay_min": 62.8,
+   "ask_depth": 319825.66,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "condition_id": "0x092ed5b1fa0f8c26ec0fa838f427d5649c35a89da580654465858edc5fd53574",
+   "title": "Wimbledon ATP: Arthur Rinderknech vs Novak Djokovic",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-djokovi-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.246549+00:00",
+   "entry_price": 0.243,
+   "shares": 411.5226,
+   "stake": 100.0,
+   "leader_vwap": 0.128,
+   "leader_cost": 4246.36,
+   "copy_delay_min": 13.2,
+   "ask_depth": 554.28,
+   "status": "open"
+  }
+ ],
+ "closed": [],
+ "skips": [
+  {
+   "at": "2026-07-03T14:51:41.245530+00:00",
+   "reason": "chase",
+   "ask": 0.34,
+   "leader_vwap": 0.18,
+   "leader": "jtwyslljy",
+   "title": "Wimbledon ATP: Jan-Lennard Struff vs Daniil Medvedev",
+   "outcome": "Jan-Lennard Struff"
+  }
+ ],
+ "total_pnl": 0.0,
+ "last_updated": "2026-07-03T15:43:46.567378+00:00"
+}

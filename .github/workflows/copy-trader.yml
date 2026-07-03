@@ -1,0 +1,31 @@
+name: copy-trader
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # every 30 min, off the top of the hour (less scheduler congestion)
+  workflow_dispatch:
+
+concurrency:
+  group: copy-trader
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python copy_trader.py --once
+      - name: Commit state
+        run: |
+          git config user.name "copy-bot"
+          git config user.email "actions@github.com"
+          git add data/copy_state.json
+          git diff --cached --quiet || git commit -m "bot: copy state $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
