@@ -357,23 +357,6 @@
    "copy_delay_min": 62.8,
    "ask_depth": 319825.66,
    "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
-   "asset": "19218048658101730019539889106656877390447154168057139089590999845424465420066",
-   "condition_id": "0x71b9be2e4558d3581e1023a0e0568a7a49fcca8c7f1ba1d1ca73fa1deb05e76f",
-   "title": "Will Australia vs. Egypt end in a draw?",
-   "outcome": "No",
-   "slug": "fifwc-aus-egy-2026-07-03",
-   "opened_at": "2026-07-03T19:41:34.417630+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 12546.88,
-   "copy_delay_min": 10.9,
-   "ask_depth": 16625.33,
-   "status": "open"
   }
  ],
  "closed": [
@@ -481,6 +464,27 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "19218048658101730019539889106656877390447154168057139089590999845424465420066",
+   "condition_id": "0x71b9be2e4558d3581e1023a0e0568a7a49fcca8c7f1ba1d1ca73fa1deb05e76f",
+   "title": "Will Australia vs. Egypt end in a draw?",
+   "outcome": "No",
+   "slug": "fifwc-aus-egy-2026-07-03",
+   "opened_at": "2026-07-03T19:41:34.417630+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 12546.88,
+   "copy_delay_min": 10.9,
+   "ask_depth": 16625.33,
+   "status": "lost",
+   "closed_at": "2026-07-03T22:37:17.922688+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -502,6 +506,6 @@
    "outcome": "Under"
   }
  ],
- "total_pnl": -238.7046,
- "last_updated": "2026-07-03T21:16:39.002562+00:00"
+ "total_pnl": -338.7046,
+ "last_updated": "2026-07-03T22:37:17.923572+00:00"
 }
