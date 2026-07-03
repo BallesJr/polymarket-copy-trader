@@ -108,6 +108,24 @@ def best(book, side):
         return None, 0.0
     return (min(lvls) if side == "asks" else max(lvls))
 
+def clob_winner(condition_id, asset):
+    """Gamma omits resolved markets from condition_ids queries; CLOB still serves
+    them per-condition with winner flags. None = not resolved yet / unknown."""
+    try:
+        r = requests.get(f"{CLOB}/markets/{condition_id}", timeout=20)
+        r.raise_for_status()
+        m = r.json()
+    except Exception as e:
+        print(f"  [ERR] clob market {condition_id[:10]}: {e}")
+        return None
+    toks = m.get("tokens") or []
+    if not m.get("closed") or not any(t.get("winner") for t in toks):
+        return None
+    for t in toks:
+        if t.get("token_id") == asset:
+            return bool(t.get("winner"))
+    return None
+
 def resolve_positions(st):
     """Check gamma for closed markets; settle our positions at $1/$0."""
     conds = sorted(set(p["condition_id"] for p in st["positions"]))
@@ -137,6 +155,9 @@ def resolve_positions(st):
                 won = prices[idx] > 0.5
             except (ValueError, IndexError, json.JSONDecodeError):
                 won = None
+        if won is None and (m is None or m.get("closed")):
+            won = clob_winner(p["condition_id"], p["asset"])
+            time.sleep(0.1)
         if won is None:
             still_open.append(p)
             continue

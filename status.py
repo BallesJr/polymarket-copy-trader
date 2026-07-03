@@ -4,6 +4,8 @@
 import json, os
 import requests
 
+from copy_trader import clob_winner
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 H = {"User-Agent": "Mozilla/5.0"}
 
@@ -50,11 +52,18 @@ def main():
                 state, cur = "sense book", gp
         except (ValueError, IndexError, json.JSONDecodeError):
             pass
-        mark = p["shares"] * cur if cur is not None else p["stake"]
+        if cur is None and not m:
+            won = clob_winner(p["condition_id"], p["asset"])
+            if won is not None:
+                state, cur = ("GUANYADA" if won else "PERDUDA"), (1.0 if won else 0.0)
+        if cur is None:
+            # sense book ni resolució: no assumim valor de cost, marquem a 0
+            state, cur = "sense dades", 0.0
+        mark = p["shares"] * cur
         tot_mark += mark
         d = mark - p["stake"]
         print(f"  {p['title'][:50]:50s} {p['outcome'][:14]:14s} @ {p['entry_price']:<6} "
-              f"ara {cur if cur is not None else '?':<7} {d:+7.2f}  [{state}] ({p['leader']})")
+              f"ara {cur:<7} {d:+7.2f}  [{state}] ({p['leader']})")
     print(f"\n  En joc: ${sum(p['stake'] for p in pos):.0f} | Mark: ${tot_mark:.2f} | "
           f"Unrealized: ${tot_mark - sum(p['stake'] for p in pos):+.2f}")
 
