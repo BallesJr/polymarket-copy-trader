@@ -223,6 +223,10 @@ def cycle(st):
             })
             usd = t.get("usdcSize") or (t.get("price") or 0) * (t.get("size") or 0)
             if t.get("side") == "BUY":
+                if lp["shares"] <= 0:
+                    # nou episodi: fora restes (cost residual d'un episodi tancat,
+                    # shares negatius per inventari previ al tracking)
+                    lp["shares"], lp["cost"], lp["max_shares"] = 0.0, 0.0, 0.0
                 lp["shares"] += t.get("size") or 0
                 lp["cost"] += usd
             else:
