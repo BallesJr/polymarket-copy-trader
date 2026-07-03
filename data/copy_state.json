@@ -342,23 +342,6 @@
    "status": "open"
   },
   {
-   "leader": "jtwyslljy",
-   "asset": "85980654132312686246086834758692867239223848885154876906708533217968355155422",
-   "condition_id": "0x081291a0366264baf9f644e8b2ddeaca18954628e6b63b4edac23d04977bd61f",
-   "title": "Wimbledon ATP: Rafael Jodar vs Shintaro Mochizuki",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-mochizu-2026-07-03",
-   "opened_at": "2026-07-03T14:51:41.245530+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 4500.0,
-   "copy_delay_min": 269.6,
-   "ask_depth": 1148.39,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "51911548599887870208512834589104874988746646324647658251485676564237334602135",
    "condition_id": "0x32046bdc03d13d916351bd2178cc20c5f268802d4ae60c0d8383ae91d2dd1d41",
@@ -373,23 +356,6 @@
    "leader_cost": 9106.25,
    "copy_delay_min": 62.8,
    "ask_depth": 319825.66,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "30431643017166592030847362766058192620147083287695752275013317610723972957831",
-   "condition_id": "0x092ed5b1fa0f8c26ec0fa838f427d5649c35a89da580654465858edc5fd53574",
-   "title": "Wimbledon ATP: Arthur Rinderknech vs Novak Djokovic",
-   "outcome": "Arthur Rinderknech",
-   "slug": "atp-rinderk-djokovi-2026-07-03",
-   "opened_at": "2026-07-03T14:51:41.246549+00:00",
-   "entry_price": 0.243,
-   "shares": 411.5226,
-   "stake": 100.0,
-   "leader_vwap": 0.128,
-   "leader_cost": 4246.36,
-   "copy_delay_min": 13.2,
-   "ask_depth": 554.28,
    "status": "open"
   },
   {
@@ -465,6 +431,48 @@
    "exit_price": 0.999,
    "pnl": 9.7802,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85980654132312686246086834758692867239223848885154876906708533217968355155422",
+   "condition_id": "0x081291a0366264baf9f644e8b2ddeaca18954628e6b63b4edac23d04977bd61f",
+   "title": "Wimbledon ATP: Rafael Jodar vs Shintaro Mochizuki",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-mochizu-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 4500.0,
+   "copy_delay_min": 269.6,
+   "ask_depth": 1148.39,
+   "status": "lost",
+   "closed_at": "2026-07-03T20:52:24.275623+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "30431643017166592030847362766058192620147083287695752275013317610723972957831",
+   "condition_id": "0x092ed5b1fa0f8c26ec0fa838f427d5649c35a89da580654465858edc5fd53574",
+   "title": "Wimbledon ATP: Arthur Rinderknech vs Novak Djokovic",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-djokovi-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.246549+00:00",
+   "entry_price": 0.243,
+   "shares": 411.5226,
+   "stake": 100.0,
+   "leader_vwap": 0.128,
+   "leader_cost": 4246.36,
+   "copy_delay_min": 13.2,
+   "ask_depth": 554.28,
+   "status": "lost",
+   "closed_at": "2026-07-03T20:52:24.564641+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -486,6 +494,6 @@
    "outcome": "Under"
   }
  ],
- "total_pnl": 9.7802,
- "last_updated": "2026-07-03T19:41:34.771716+00:00"
+ "total_pnl": -190.2198,
+ "last_updated": "2026-07-03T20:52:24.565750+00:00"
 }
