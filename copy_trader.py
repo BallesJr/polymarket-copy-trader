@@ -116,8 +116,9 @@ def resolve_positions(st):
     closed_info = {}
     for i in range(0, len(conds), 20):
         try:
+            # gamma expects condition_ids as repeated params; comma-joined returns []
             r = requests.get(f"{GAMMA}/markets",
-                             params={"condition_ids": ",".join(conds[i:i+20])}, headers=H, timeout=20)
+                             params={"condition_ids": conds[i:i+20]}, headers=H, timeout=20)
             r.raise_for_status()
             for m in r.json():
                 closed_info[m.get("conditionId")] = m
