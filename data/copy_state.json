@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9309.7802099,
+ "bankroll": 9461.2954099,
  "last_seen": {
   "jtwyslljy": 1783105235,
   "0x53757615de": 1783107041
@@ -359,40 +359,6 @@
    "status": "open"
   },
   {
-   "leader": "jtwyslljy",
-   "asset": "16415698089039949586017363680723942925804323821468440204688782253022929472043",
-   "condition_id": "0xad8da2c8230a640b2d67d3ff70fda0feca6749372dbf5f4bce0bc6cabd2aff46",
-   "title": "Egypt to win the second half?",
-   "outcome": "No",
-   "slug": "fifwc-aus-egy-2026-07-03-second-half-result",
-   "opened_at": "2026-07-03T17:59:14.792058+00:00",
-   "entry_price": 0.66,
-   "shares": 151.5152,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 1092.37,
-   "copy_delay_min": 51.4,
-   "ask_depth": 5.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "57836021651272201024395061362837544032492071651209432270165274711479547136494",
-   "condition_id": "0xa66b0dc5d126cd76a7434ff4782acfb59c267130afea696d71fefaea98beb381",
-   "title": "Australia vs. Egypt: O/U 2.5",
-   "outcome": "Over",
-   "slug": "fifwc-aus-egy-2026-07-03-more-markets",
-   "opened_at": "2026-07-03T19:41:34.417545+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.32,
-   "leader_cost": 19982.58,
-   "copy_delay_min": 41.0,
-   "ask_depth": 5901.82,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "19218048658101730019539889106656877390447154168057139089590999845424465420066",
    "condition_id": "0x71b9be2e4558d3581e1023a0e0568a7a49fcca8c7f1ba1d1ca73fa1deb05e76f",
@@ -473,6 +439,48 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16415698089039949586017363680723942925804323821468440204688782253022929472043",
+   "condition_id": "0xad8da2c8230a640b2d67d3ff70fda0feca6749372dbf5f4bce0bc6cabd2aff46",
+   "title": "Egypt to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-aus-egy-2026-07-03-second-half-result",
+   "opened_at": "2026-07-03T17:59:14.792058+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1092.37,
+   "copy_delay_min": 51.4,
+   "ask_depth": 5.0,
+   "status": "won",
+   "closed_at": "2026-07-03T21:16:38.783543+00:00",
+   "exit_price": 1.0,
+   "pnl": 51.5152,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "57836021651272201024395061362837544032492071651209432270165274711479547136494",
+   "condition_id": "0xa66b0dc5d126cd76a7434ff4782acfb59c267130afea696d71fefaea98beb381",
+   "title": "Australia vs. Egypt: O/U 2.5",
+   "outcome": "Over",
+   "slug": "fifwc-aus-egy-2026-07-03-more-markets",
+   "opened_at": "2026-07-03T19:41:34.417545+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 19982.58,
+   "copy_delay_min": 41.0,
+   "ask_depth": 5901.82,
+   "status": "lost",
+   "closed_at": "2026-07-03T21:16:39.001884+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -494,6 +502,6 @@
    "outcome": "Under"
   }
  ],
- "total_pnl": -190.2198,
- "last_updated": "2026-07-03T20:52:24.565750+00:00"
+ "total_pnl": -238.7046,
+ "last_updated": "2026-07-03T21:16:39.002562+00:00"
 }
