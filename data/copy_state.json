@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9500.0,
+ "bankroll": 9509.7802099,
  "last_seen": {
-  "jtwyslljy": 1783091000,
+  "jtwyslljy": 1783098472,
   "0x53757615de": 1783086530
  },
  "seen_keys": [
@@ -89,6 +89,41 @@
    "BUY",
    5000,
    1783091000
+  ],
+  [
+   "0xbca0631c18238dd9d774418a49249e74f5a6563f85a212490885d37e18cf2470",
+   "114074169337917217166213136744416799070410173143335793826021594453627489092182",
+   "BUY",
+   5923.39,
+   1783095772
+  ],
+  [
+   "0xde452a12b323e86505c3ce20ed4f816c0f8dc22b8bc1ed97b718cf2ff88dd511",
+   "114074169337917217166213136744416799070410173143335793826021594453627489092182",
+   "SELL",
+   2578.37,
+   1783096070
+  ],
+  [
+   "0xa1848e8f6519618f9a0d6e9eef4e95a2a43e3ba72929c9fa1e1813a975e37821",
+   "114074169337917217166213136744416799070410173143335793826021594453627489092182",
+   "SELL",
+   4421.63,
+   1783096111
+  ],
+  [
+   "0x1cee0763ec3c5ac48d5bec06b1e6e21be6152da86fc76a1c87fab0775c6e7107",
+   "70262482744164175231713225135554897410646273200471533787598889900407116102049",
+   "SELL",
+   8000,
+   1783097840
+  ],
+  [
+   "0x8518a89618ce1b0de3e27a7e0b24491738421a49c53e7cf4f6ccad2aca2f619a",
+   "16415698089039949586017363680723942925804323821468440204688782253022929472043",
+   "BUY",
+   1706.83,
+   1783098472
   ]
  ],
  "leader_pos": {
@@ -135,10 +170,10 @@
    "title": "Wimbledon WTA: Karolina Muchova vs Mananchaya Sawangkaew",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-sawangk-2026-07-03",
-   "shares": 8000.0,
-   "cost": 7200.0,
+   "shares": 0.0,
+   "cost": -336.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1783085845
+   "last_trade_ts": 1783097840
   },
   "0x53757615de|45415751658241142530386585138386640503488308219341470020075667342738719018629": {
    "leader": "0x53757615de",
@@ -163,6 +198,30 @@
    "cost": 9106.25,
    "max_shares": 29375.0,
    "last_trade_ts": 1783086530
+  },
+  "jtwyslljy|114074169337917217166213136744416799070410173143335793826021594453627489092182": {
+   "leader": "jtwyslljy",
+   "asset": "114074169337917217166213136744416799070410173143335793826021594453627489092182",
+   "condition_id": "0xe1ed7f1cf4cef48849e576de48652efb49de655da5824e440a2e823acdae9c21",
+   "title": "Wimbledon WTA: Claire Liu vs Coco Gauff",
+   "outcome": "Claire Liu",
+   "slug": "wta-liu-gauff-2026-07-03",
+   "shares": -1076.6099999999997,
+   "cost": 247.7424000000001,
+   "max_shares": 5923.39,
+   "last_trade_ts": 1783096111
+  },
+  "jtwyslljy|16415698089039949586017363680723942925804323821468440204688782253022929472043": {
+   "leader": "jtwyslljy",
+   "asset": "16415698089039949586017363680723942925804323821468440204688782253022929472043",
+   "condition_id": "0xad8da2c8230a640b2d67d3ff70fda0feca6749372dbf5f4bce0bc6cabd2aff46",
+   "title": "Egypt to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-aus-egy-2026-07-03-second-half-result",
+   "shares": 1706.83,
+   "cost": 1092.3712,
+   "max_shares": 1706.83,
+   "last_trade_ts": 1783098472
   }
  },
  "positions": [
@@ -181,23 +240,6 @@
    "leader_cost": 625.75,
    "copy_delay_min": 64.5,
    "ask_depth": 4443.66,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "70262482744164175231713225135554897410646273200471533787598889900407116102049",
-   "condition_id": "0x615605cc8a0bf8a138e85b87362e69dad877049fc99e72e67157ef10c16635f1",
-   "title": "Wimbledon WTA: Karolina Muchova vs Mananchaya Sawangkaew",
-   "outcome": "Karolina Muchova",
-   "slug": "wta-muchova-sawangk-2026-07-03",
-   "opened_at": "2026-07-03T14:51:41.245530+00:00",
-   "entry_price": 0.91,
-   "shares": 109.8901,
-   "stake": 100.0,
-   "leader_vwap": 0.9,
-   "leader_cost": 7200.0,
-   "copy_delay_min": 74.2,
-   "ask_depth": 5573.1,
    "status": "open"
   },
   {
@@ -250,9 +292,48 @@
    "copy_delay_min": 13.2,
    "ask_depth": 554.28,
    "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16415698089039949586017363680723942925804323821468440204688782253022929472043",
+   "condition_id": "0xad8da2c8230a640b2d67d3ff70fda0feca6749372dbf5f4bce0bc6cabd2aff46",
+   "title": "Egypt to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-aus-egy-2026-07-03-second-half-result",
+   "opened_at": "2026-07-03T17:59:14.792058+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1092.37,
+   "copy_delay_min": 51.4,
+   "ask_depth": 5.0,
+   "status": "open"
   }
  ],
- "closed": [],
+ "closed": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "70262482744164175231713225135554897410646273200471533787598889900407116102049",
+   "condition_id": "0x615605cc8a0bf8a138e85b87362e69dad877049fc99e72e67157ef10c16635f1",
+   "title": "Wimbledon WTA: Karolina Muchova vs Mananchaya Sawangkaew",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-sawangk-2026-07-03",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.91,
+   "shares": 109.8901,
+   "stake": 100.0,
+   "leader_vwap": 0.9,
+   "leader_cost": 7200.0,
+   "copy_delay_min": 74.2,
+   "ask_depth": 5573.1,
+   "status": "closed",
+   "closed_at": "2026-07-03T17:59:14.791989+00:00",
+   "exit_price": 0.999,
+   "pnl": 9.7802,
+   "close_reason": "leader_exit"
+  }
+ ],
  "skips": [
   {
    "at": "2026-07-03T14:51:41.245530+00:00",
@@ -264,6 +345,6 @@
    "outcome": "Jan-Lennard Struff"
   }
  ],
- "total_pnl": 0.0,
- "last_updated": "2026-07-03T16:08:04.528955+00:00"
+ "total_pnl": 9.7802,
+ "last_updated": "2026-07-03T17:59:15.128043+00:00"
 }
