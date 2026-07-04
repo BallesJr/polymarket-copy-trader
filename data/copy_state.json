@@ -1,9 +1,9 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8961.2954099,
+ "bankroll": 8861.2954099,
  "last_seen": {
-  "jtwyslljy": 1783176890,
-  "0x53757615de": 1783135090
+  "jtwyslljy": 1783182253,
+  "0x53757615de": 1783178048
  },
  "seen_keys": [
   [
@@ -460,6 +460,34 @@
    "BUY",
    18829.67,
    1783176890
+  ],
+  [
+   "0x41b2736a934b320c253e6b9f974b662fc2dd9c3ead505222faa859ba36ca30f2",
+   "23002723169104136639915491237010657526244120849292927113741289325188054448157",
+   "SELL",
+   734.13,
+   1783179443
+  ],
+  [
+   "0x33c2ee349938ec3bd7f03c4b718e68c9f08154a17806b1da4b680ac3919f1b96",
+   "23002723169104136639915491237010657526244120849292927113741289325188054448157",
+   "SELL",
+   2000,
+   1783182055
+  ],
+  [
+   "0x7777dcb793806f4be142d04b5cd5b98028a2990563fa9b67da12daf7933188a5",
+   "23002723169104136639915491237010657526244120849292927113741289325188054448157",
+   "SELL",
+   4000,
+   1783182253
+  ],
+  [
+   "0xf4c03ad3c78bb0fb312bef9d6fbf702a09f8a587e4dea0ca186bd6989c023c16",
+   "102051736436656560797672629859737891705962543111476656351708851920203673046762",
+   "BUY",
+   20000,
+   1783178048
   ]
  ],
  "leader_pos": {
@@ -698,10 +726,10 @@
    "title": "Wimbledon WTA: Sorana Cirstea vs Linda Noskova",
    "outcome": "Linda Noskova",
    "slug": "wta-cirstea-noskova-2026-07-04",
-   "shares": 36248.67,
-   "cost": 14450.1978,
+   "shares": 29514.54,
+   "cost": 9362.3785,
    "max_shares": 36248.67,
-   "last_trade_ts": 1783176890
+   "last_trade_ts": 1783182253
   },
   "jtwyslljy|97603640949200961937864972493579324959456055546123409145665200185996019277523": {
    "leader": "jtwyslljy",
@@ -714,6 +742,18 @@
    "cost": 1514.7615,
    "max_shares": 4327.89,
    "last_trade_ts": 1783175047
+  },
+  "0x53757615de|102051736436656560797672629859737891705962543111476656351708851920203673046762": {
+   "leader": "0x53757615de",
+   "asset": "102051736436656560797672629859737891705962543111476656351708851920203673046762",
+   "condition_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+   "title": "Will Morocco win on 2026-07-04?",
+   "outcome": "Yes",
+   "slug": "fifwc-can-mar-2026-07-04",
+   "shares": 20000.0,
+   "cost": 11000.0,
+   "max_shares": 20000.0,
+   "last_trade_ts": 1783178048
   }
  },
  "positions": [
@@ -789,24 +829,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "88405196969316843821453254374990609840780732394161782141651809067667941950810",
-   "condition_id": "0xee2eac71e2e1286ca3cc12d50d38d935f064951a4cb382a009dc3d2a347ce0ab",
-   "title": "Wimbledon WTA: Alexandra Eala vs Iga Swiatek",
-   "outcome": "Iga Swiatek",
-   "slug": "wta-eala-swiatek-2026-07-03",
-   "opened_at": "2026-07-04T13:52:15.850412+00:00",
-   "entry_price": 0.6085,
-   "shares": 164.3443,
-   "stake": 100.0,
-   "leader_vwap": 0.77,
-   "leader_cost": 6202.8,
-   "copy_delay_min": 49.7,
-   "best_ask": 0.6,
-   "ask_depth": 25.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97603640949200961937864972493579324959456055546123409145665200185996019277523",
    "condition_id": "0x59d59165b25a81e7dec8298c50311498153c47f2ca710c1259eede65c9fc0def",
    "title": "Kylian Mbapp\u00e9: 1+ goals",
@@ -839,6 +861,24 @@
    "copy_delay_min": 19.5,
    "best_ask": 0.41,
    "ask_depth": 51.2,
+   "status": "open"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "102051736436656560797672629859737891705962543111476656351708851920203673046762",
+   "condition_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+   "title": "Will Morocco win on 2026-07-04?",
+   "outcome": "Yes",
+   "slug": "fifwc-can-mar-2026-07-04",
+   "opened_at": "2026-07-04T16:34:17.947499+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 11000.0,
+   "copy_delay_min": 80.2,
+   "best_ask": 0.54,
+   "ask_depth": 3758788.78,
    "status": "open"
   }
  ],
@@ -968,6 +1008,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88405196969316843821453254374990609840780732394161782141651809067667941950810",
+   "condition_id": "0xee2eac71e2e1286ca3cc12d50d38d935f064951a4cb382a009dc3d2a347ce0ab",
+   "title": "Wimbledon WTA: Alexandra Eala vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-eala-swiatek-2026-07-03",
+   "opened_at": "2026-07-04T13:52:15.850412+00:00",
+   "entry_price": 0.6085,
+   "shares": 164.3443,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 6202.8,
+   "copy_delay_min": 49.7,
+   "best_ask": 0.6,
+   "ask_depth": 25.0,
+   "status": "lost",
+   "closed_at": "2026-07-04T16:34:18.486484+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1029,6 +1091,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -338.7046,
- "last_updated": "2026-07-04T15:14:19.542961+00:00"
+ "total_pnl": -438.7046,
+ "last_updated": "2026-07-04T16:34:18.487713+00:00"
 }
