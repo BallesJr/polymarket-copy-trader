@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9361.2954099,
+ "bankroll": 9261.2954099,
  "last_seen": {
-  "jtwyslljy": 1783130089,
+  "jtwyslljy": 1783163153,
   "0x53757615de": 1783135090
  },
  "seen_keys": [
@@ -369,6 +369,27 @@
    "BUY",
    2005,
    1783135090
+  ],
+  [
+   "0x3ca7c5de23b9d10712d419d8d60f523da5be49a68dec25d27f4bd7c6feba7247",
+   "42188668576720861566047242491361406918800785996841855587021061155156808083019",
+   "BUY",
+   10173.97,
+   1783159312
+  ],
+  [
+   "0x7e87684f0d91a5daf7dd844802ffc68f0eaa7ee5872a31c2eb95c2352c4130a9",
+   "62084735331273717448771183986515479149280784400903153357300304679343623869619",
+   "BUY",
+   86741.51,
+   1783162640
+  ],
+  [
+   "0xa15dd8926101d3c4847afd275b585fad95d0abdec8ea106683b7e1193ad86b7a",
+   "62084735331273717448771183986515479149280784400903153357300304679343623869619",
+   "BUY",
+   252,
+   1783163153
   ]
  ],
  "leader_pos": {
@@ -563,6 +584,30 @@
    "cost": 6265.81,
    "max_shares": 8894.0,
    "last_trade_ts": 1783135090
+  },
+  "jtwyslljy|42188668576720861566047242491361406918800785996841855587021061155156808083019": {
+   "leader": "jtwyslljy",
+   "asset": "42188668576720861566047242491361406918800785996841855587021061155156808083019",
+   "condition_id": "0xac6dd0094fb0f6384507e950ff971e2a80b1bd4cd2b32b37a5a7b5dc888e1e59",
+   "title": "LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-blg-t1-2026-07-04",
+   "shares": 10173.97,
+   "cost": 4374.8071,
+   "max_shares": 10173.97,
+   "last_trade_ts": 1783159312
+  },
+  "jtwyslljy|62084735331273717448771183986515479149280784400903153357300304679343623869619": {
+   "leader": "jtwyslljy",
+   "asset": "62084735331273717448771183986515479149280784400903153357300304679343623869619",
+   "condition_id": "0x82432810ecd0ab27644c38e90fcf406fa06798b286d889bf27406b6a22648520",
+   "title": "Wimbledon ATP: Jiri Lehecka vs Jaume Munar",
+   "outcome": "Jaume Munar",
+   "slug": "atp-lehecka-munar-2026-07-04",
+   "shares": 86993.51,
+   "cost": 20880.962399999997,
+   "max_shares": 86993.51,
+   "last_trade_ts": 1783163153
   }
  },
  "positions": [
@@ -616,6 +661,24 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62084735331273717448771183986515479149280784400903153357300304679343623869619",
+   "condition_id": "0x82432810ecd0ab27644c38e90fcf406fa06798b286d889bf27406b6a22648520",
+   "title": "Wimbledon ATP: Jiri Lehecka vs Jaume Munar",
+   "outcome": "Jaume Munar",
+   "slug": "atp-lehecka-munar-2026-07-04",
+   "opened_at": "2026-07-04T11:40:24.397354+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 20880.96,
+   "copy_delay_min": 34.5,
+   "best_ask": 0.25,
+   "ask_depth": 17783.62,
    "status": "open"
   }
  ],
@@ -796,8 +859,16 @@
    "leader": "jtwyslljy",
    "title": "Colombia vs. Ghana: O/U 2.5",
    "outcome": "Under"
+  },
+  {
+   "at": "2026-07-04T11:40:24.397402+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs T1 (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Bilibili Gaming"
   }
  ],
  "total_pnl": -338.7046,
- "last_updated": "2026-07-04T09:39:24.626632+00:00"
+ "last_updated": "2026-07-04T11:40:24.729910+00:00"
 }
