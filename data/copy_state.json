@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9000.6097099,
+ "bankroll": 9085.7949099,
  "last_seen": {
-  "jtwyslljy": 1783185946,
+  "jtwyslljy": 1783192943,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -677,6 +677,13 @@
    "BUY",
    40000,
    1783185509
+  ],
+  [
+   "0xb571eb321053f71c52f1134b2748038230fa085f1038f3346e80795cf12f7fbc",
+   "79459290108508813221587263474415508166981788584547658676588715778394881402387",
+   "BUY",
+   5000,
+   1783192943
   ]
  ],
  "leader_pos": {
@@ -979,6 +986,18 @@
    "cost": 47764.98159999999,
    "max_shares": 163515.04,
    "last_trade_ts": 1783185946
+  },
+  "jtwyslljy|79459290108508813221587263474415508166981788584547658676588715778394881402387": {
+   "leader": "jtwyslljy",
+   "asset": "79459290108508813221587263474415508166981788584547658676588715778394881402387",
+   "condition_id": "0xf6f8ddf9cb6ce31fadfe3fa95ca6470014afef1a2d7122c1d3dd7df40e3cfd25",
+   "title": "Paraguay vs. France: Both Teams to Score",
+   "outcome": "Yes",
+   "slug": "fifwc-par-fra-2026-07-04-more-markets",
+   "shares": 5000.0,
+   "cost": 2000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1783192943
   }
  },
  "positions": [
@@ -1053,39 +1072,21 @@
    "status": "open"
   },
   {
-   "leader": "0x53757615de",
-   "asset": "102051736436656560797672629859737891705962543111476656351708851920203673046762",
-   "condition_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
-   "title": "Will Morocco win on 2026-07-04?",
-   "outcome": "Yes",
-   "slug": "fifwc-can-mar-2026-07-04",
-   "opened_at": "2026-07-04T16:34:17.947499+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 11000.0,
-   "copy_delay_min": 80.2,
-   "best_ask": 0.54,
-   "ask_depth": 3758788.78,
-   "status": "open"
-  },
-  {
    "leader": "jtwyslljy",
-   "asset": "56292828273428899260365455682186850383967622513477170366683867650416440166282",
-   "condition_id": "0xc395f3754ac362849f22aa68a51a8975ac16d72194bbdc601b9b6e0a7d96d643",
-   "title": "Canada vs. Morocco: Team to Advance",
-   "outcome": "Canada",
-   "slug": "fifwc-can-mar-2026-07-04-more-markets",
-   "opened_at": "2026-07-04T17:37:05.453659+00:00",
+   "asset": "79459290108508813221587263474415508166981788584547658676588715778394881402387",
+   "condition_id": "0xf6f8ddf9cb6ce31fadfe3fa95ca6470014afef1a2d7122c1d3dd7df40e3cfd25",
+   "title": "Paraguay vs. France: Both Teams to Score",
+   "outcome": "Yes",
+   "slug": "fifwc-par-fra-2026-07-04-more-markets",
+   "opened_at": "2026-07-04T19:49:03.512008+00:00",
    "entry_price": 0.41,
    "shares": 243.9024,
    "stake": 100.0,
-   "leader_vwap": 0.2922,
-   "leader_cost": 47764.98,
-   "copy_delay_min": 11.3,
+   "leader_vwap": 0.4,
+   "leader_cost": 2000.0,
+   "copy_delay_min": 26.7,
    "best_ask": 0.41,
-   "ask_depth": 12111.22,
+   "ask_depth": 146923.28,
    "status": "open"
   }
  ],
@@ -1281,6 +1282,50 @@
    "exit_price": 1.0,
    "pnl": 139.3143,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "102051736436656560797672629859737891705962543111476656351708851920203673046762",
+   "condition_id": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+   "title": "Will Morocco win on 2026-07-04?",
+   "outcome": "Yes",
+   "slug": "fifwc-can-mar-2026-07-04",
+   "opened_at": "2026-07-04T16:34:17.947499+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 11000.0,
+   "copy_delay_min": 80.2,
+   "best_ask": 0.54,
+   "ask_depth": 3758788.78,
+   "status": "won",
+   "closed_at": "2026-07-04T19:49:04.088883+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56292828273428899260365455682186850383967622513477170366683867650416440166282",
+   "condition_id": "0xc395f3754ac362849f22aa68a51a8975ac16d72194bbdc601b9b6e0a7d96d643",
+   "title": "Canada vs. Morocco: Team to Advance",
+   "outcome": "Canada",
+   "slug": "fifwc-can-mar-2026-07-04-more-markets",
+   "opened_at": "2026-07-04T17:37:05.453659+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.2922,
+   "leader_cost": 47764.98,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.41,
+   "ask_depth": 12111.22,
+   "status": "lost",
+   "closed_at": "2026-07-04T19:49:04.358744+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1352,6 +1397,6 @@
    "outcome": "Under"
   }
  ],
- "total_pnl": -399.3903,
- "last_updated": "2026-07-04T18:36:10.186133+00:00"
+ "total_pnl": -414.2051,
+ "last_updated": "2026-07-04T19:49:04.359848+00:00"
 }
