@@ -3,3 +3,4 @@ data/*
 !data/copy_state.json
 __pycache__/
 *.pyc
+.vscode/
