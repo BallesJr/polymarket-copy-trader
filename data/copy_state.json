@@ -1052,42 +1052,6 @@
    "best_ask": 0.177,
    "ask_depth": 62420.2,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "97603640949200961937864972493579324959456055546123409145665200185996019277523",
-   "condition_id": "0x59d59165b25a81e7dec8298c50311498153c47f2ca710c1259eede65c9fc0def",
-   "title": "Kylian Mbapp\u00e9: 1+ goals",
-   "outcome": "No",
-   "slug": "fifwc-par-fra-2026-07-04-player-props",
-   "opened_at": "2026-07-04T15:14:19.193342+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 1514.76,
-   "copy_delay_min": 50.2,
-   "best_ask": 0.36,
-   "ask_depth": 12016.66,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "79459290108508813221587263474415508166981788584547658676588715778394881402387",
-   "condition_id": "0xf6f8ddf9cb6ce31fadfe3fa95ca6470014afef1a2d7122c1d3dd7df40e3cfd25",
-   "title": "Paraguay vs. France: Both Teams to Score",
-   "outcome": "Yes",
-   "slug": "fifwc-par-fra-2026-07-04-more-markets",
-   "opened_at": "2026-07-04T19:49:03.512008+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 2000.0,
-   "copy_delay_min": 26.7,
-   "best_ask": 0.41,
-   "ask_depth": 146923.28,
-   "status": "open"
   }
  ],
  "closed": [
@@ -1326,6 +1290,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97603640949200961937864972493579324959456055546123409145665200185996019277523",
+   "condition_id": "0x59d59165b25a81e7dec8298c50311498153c47f2ca710c1259eede65c9fc0def",
+   "title": "Kylian Mbapp\u00e9: 1+ goals",
+   "outcome": "No",
+   "slug": "fifwc-par-fra-2026-07-04-player-props",
+   "opened_at": "2026-07-04T15:14:19.193342+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1514.76,
+   "copy_delay_min": 50.2,
+   "best_ask": 0.36,
+   "ask_depth": 12016.66,
+   "status": "lost",
+   "closed_at": "2026-07-04T23:43:09.609268+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "79459290108508813221587263474415508166981788584547658676588715778394881402387",
+   "condition_id": "0xf6f8ddf9cb6ce31fadfe3fa95ca6470014afef1a2d7122c1d3dd7df40e3cfd25",
+   "title": "Paraguay vs. France: Both Teams to Score",
+   "outcome": "Yes",
+   "slug": "fifwc-par-fra-2026-07-04-more-markets",
+   "opened_at": "2026-07-04T19:49:03.512008+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 2000.0,
+   "copy_delay_min": 26.7,
+   "best_ask": 0.41,
+   "ask_depth": 146923.28,
+   "status": "lost",
+   "closed_at": "2026-07-04T23:43:09.880962+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1397,6 +1405,6 @@
    "outcome": "Under"
   }
  ],
- "total_pnl": -414.2051,
- "last_updated": "2026-07-04T22:34:51.060102+00:00"
+ "total_pnl": -614.2051,
+ "last_updated": "2026-07-04T23:43:09.881781+00:00"
 }
