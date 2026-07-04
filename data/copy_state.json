@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9261.2954099,
+ "bankroll": 9161.2954099,
  "last_seen": {
-  "jtwyslljy": 1783163153,
+  "jtwyslljy": 1783170154,
   "0x53757615de": 1783135090
  },
  "seen_keys": [
@@ -390,6 +390,13 @@
    "BUY",
    252,
    1783163153
+  ],
+  [
+   "0xe28090e35aeccbad8fa1dedc68c1e40c8a6fa4746761f74808e56af6203ffd56",
+   "88405196969316843821453254374990609840780732394161782141651809067667941950810",
+   "BUY",
+   8055.58,
+   1783170154
   ]
  ],
  "leader_pos": {
@@ -608,6 +615,18 @@
    "cost": 20880.962399999997,
    "max_shares": 86993.51,
    "last_trade_ts": 1783163153
+  },
+  "jtwyslljy|88405196969316843821453254374990609840780732394161782141651809067667941950810": {
+   "leader": "jtwyslljy",
+   "asset": "88405196969316843821453254374990609840780732394161782141651809067667941950810",
+   "condition_id": "0xee2eac71e2e1286ca3cc12d50d38d935f064951a4cb382a009dc3d2a347ce0ab",
+   "title": "Wimbledon WTA: Alexandra Eala vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-eala-swiatek-2026-07-03",
+   "shares": 8055.58,
+   "cost": 6202.7966,
+   "max_shares": 8055.58,
+   "last_trade_ts": 1783170154
   }
  },
  "positions": [
@@ -679,6 +698,24 @@
    "copy_delay_min": 34.5,
    "best_ask": 0.25,
    "ask_depth": 17783.62,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88405196969316843821453254374990609840780732394161782141651809067667941950810",
+   "condition_id": "0xee2eac71e2e1286ca3cc12d50d38d935f064951a4cb382a009dc3d2a347ce0ab",
+   "title": "Wimbledon WTA: Alexandra Eala vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-eala-swiatek-2026-07-03",
+   "opened_at": "2026-07-04T13:52:15.850412+00:00",
+   "entry_price": 0.6085,
+   "shares": 164.3443,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 6202.8,
+   "copy_delay_min": 49.7,
+   "best_ask": 0.6,
+   "ask_depth": 25.0,
    "status": "open"
   }
  ],
@@ -870,5 +907,5 @@
   }
  ],
  "total_pnl": -338.7046,
- "last_updated": "2026-07-04T11:40:24.729910+00:00"
+ "last_updated": "2026-07-04T13:52:16.134231+00:00"
 }
