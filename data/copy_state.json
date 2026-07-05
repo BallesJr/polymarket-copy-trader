@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8585.7949099,
  "last_seen": {
-  "jtwyslljy": 1783267759,
+  "jtwyslljy": 1783268035,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -754,6 +754,13 @@
    "BUY",
    17621.36,
    1783267759
+  ],
+  [
+   "0x3dba5fedc3ae3e32b403ead3bdea5de0b25cabd4c2ed7dd6a05468db6ea5a535",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "BUY",
+   1745.99,
+   1783268035
   ]
  ],
  "leader_pos": {
@@ -1136,10 +1143,10 @@
    "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-augeral-fokina-2026-07-05",
-   "shares": 17621.36,
-   "cost": 6343.6896,
-   "max_shares": 17621.36,
-   "last_trade_ts": 1783267759
+   "shares": 19367.350000000002,
+   "cost": 6937.3261999999995,
+   "max_shares": 19367.350000000002,
+   "last_trade_ts": 1783268035
   }
  },
  "positions": [
@@ -1646,5 +1653,5 @@
   }
  ],
  "total_pnl": -614.2051,
- "last_updated": "2026-07-05T16:10:51.531405+00:00"
+ "last_updated": "2026-07-05T16:20:52.682738+00:00"
 }
