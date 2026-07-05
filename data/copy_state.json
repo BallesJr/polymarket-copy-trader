@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8685.7949099,
+ "bankroll": 8585.7949099,
  "last_seen": {
-  "jtwyslljy": 1783262299,
+  "jtwyslljy": 1783267759,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -740,6 +740,20 @@
    "BUY",
    20580.36,
    1783262299
+  ],
+  [
+   "0x1c9dd2007d8f9f3be90a4a351af2e1d02b4e1fd111fa604b2ed3bcace47efcae",
+   "16486915975995693674842844022079007367606300784218695794971169529624889772699",
+   "BUY",
+   1000,
+   1783267348
+  ],
+  [
+   "0xe9a8e850ba386c185d0de3ef2206d30f641b138c1ef8d01d3c194a8b03665888",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "BUY",
+   17621.36,
+   1783267759
   ]
  ],
  "leader_pos": {
@@ -1102,6 +1116,30 @@
    "cost": 1650.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1783259437
+  },
+  "jtwyslljy|16486915975995693674842844022079007367606300784218695794971169529624889772699": {
+   "leader": "jtwyslljy",
+   "asset": "16486915975995693674842844022079007367606300784218695794971169529624889772699",
+   "condition_id": "0xf2dbce3795ec857534dde21ec1cc07aed421c1cfc8d632557b74dbd2a81ea181",
+   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-safiull-djokovi-2026-07-05",
+   "shares": 1000.0,
+   "cost": 987.35834,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1783267348
+  },
+  "jtwyslljy|25488999774614392618895746515798757261284069686356272640902684844359070897351": {
+   "leader": "jtwyslljy",
+   "asset": "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "condition_id": "0x4da73e81ca85a3d9715340bea8dc38c102fe0bf63ba6aa1f3efd8a54d56e9d0d",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-augeral-fokina-2026-07-05",
+   "shares": 17621.36,
+   "cost": 6343.6896,
+   "max_shares": 17621.36,
+   "last_trade_ts": 1783267759
   }
  },
  "positions": [
@@ -1227,6 +1265,24 @@
    "copy_delay_min": 10.6,
    "best_ask": 0.33,
    "ask_depth": 14109.29,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "condition_id": "0x4da73e81ca85a3d9715340bea8dc38c102fe0bf63ba6aa1f3efd8a54d56e9d0d",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-augeral-fokina-2026-07-05",
+   "opened_at": "2026-07-05T16:10:51.200516+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 6343.69,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.34,
+   "ask_depth": 14052.4,
    "status": "open"
   }
  ],
@@ -1579,8 +1635,16 @@
    "leader": "jtwyslljy",
    "title": "Canada vs. Morocco: O/U 2.5",
    "outcome": "Under"
+  },
+  {
+   "at": "2026-07-05T16:10:51.200443+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
+   "outcome": "Novak Djokovic"
   }
  ],
  "total_pnl": -614.2051,
- "last_updated": "2026-07-05T14:40:47.433521+00:00"
+ "last_updated": "2026-07-05T16:10:51.531405+00:00"
 }
