@@ -125,11 +125,11 @@ def main():
             continue
         r = analyze(w)
         print(f"\n=== {name} ({w[:10]}) — span {r['span_days']}d, {r['n_trades']} trades, "
-              f"{r['n_mkts']} mercats, {r['trades_per_day']}/dia")
+              f"{r['n_mkts']} markets, {r['trades_per_day']}/day")
         print(f"  PnL 180d: ${r['pnl']:+,}  | t_all={r['t_all']}  | "
-              f"PRE-Mundial: ${r['pnl_preWC']:+,} en {r['days_preWC']} dies (t={r['t_preWC']})")
-        print(f"  mensual: {r['monthly']}")
-        print(f"  copiabilitat: hold medià (pnl-pond.) {r['median_hold_h']}h | "
+              f"pre-World-Cup: ${r['pnl_preWC']:+,} in {r['days_preWC']} days (t={r['t_preWC']})")
+        print(f"  monthly: {r['monthly']}")
+        print(f"  copyability: median hold (pnl-weighted) {r['median_hold_h']}h | "
               f"edge/share {r['edge_per_share']} | slippage 1/2/3c: "
               f"{r['slip']['1c']:+,} / {r['slip']['2c']:+,} / {r['slip']['3c']:+,}")
 

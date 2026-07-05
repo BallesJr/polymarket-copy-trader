@@ -71,7 +71,7 @@ for name, w in targets.items():
     with open(apath, "w") as f:
         json.dump(kept, f)
     span = (max(x["timestamp"] for x in kept) - min(x["timestamp"] for x in kept)) / 86400 if kept else 0
-    print(f"{name} ({w[:10]}): {len(kept)} files, span {span:.0f} dies"
+    print(f"{name} ({w[:10]}): {len(kept)} rows, span {span:.0f} days"
           f"{' [CAP HIT]' if offset >= MAX_ROWS else ''}", flush=True)
     time.sleep(0.2)
 print("DONE", flush=True)

@@ -37,7 +37,7 @@ def fetch_window(user, start, end, depth=0):
         if batch == "CAP" or (batch is not None and offset >= OFFSET_CAP and len(batch) == PAGE):
             # window too dense -> split
             if depth > 12 or end - start < 3600:
-                print(f"  [WARN] finestra mínima encara densa {start}-{end}", flush=True)
+                print(f"  [WARN] minimum window still dense {start}-{end}", flush=True)
                 return rows
             mid = (start + end) / 2
             return fetch_window(user, start, mid, depth + 1) + fetch_window(user, mid, end, depth + 1)
@@ -81,6 +81,6 @@ for name in TARGETS:
         json.dump(clean, f)
     ts = [a["timestamp"] for a in clean]
     span = (max(ts) - min(ts)) / 86400 if ts else 0
-    print(f"  -> {len(clean)} files, span {span:.0f} dies", flush=True)
+    print(f"  -> {len(clean)} rows, span {span:.0f} days", flush=True)
 
 print("DONE", flush=True)

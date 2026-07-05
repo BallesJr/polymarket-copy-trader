@@ -13,8 +13,8 @@ def main():
     with open(os.path.join(ROOT, "data", "copy_state.json")) as f:
         st = json.load(f)
     pos = st["positions"]
-    print(f"Bankroll: ${st['bankroll']:.2f} | PnL realitzat: ${st['total_pnl']:+.2f} | "
-          f"{len(pos)} obertes | {len(st['closed'])} tancades | {len(st['skips'])} skips")
+    print(f"Bankroll: ${st['bankroll']:.2f} | Realized PnL: ${st['total_pnl']:+.2f} | "
+          f"{len(pos)} open | {len(st['closed'])} closed | {len(st['skips'])} skips")
     if not pos:
         return
 
@@ -41,34 +41,34 @@ def main():
         bid = max(bids)[0] if bids else None
         m = closed_info.get(p["condition_id"], {})
         cur = bid
-        state = "viu"
+        state = "live"
         try:
             toks = json.loads(m.get("clobTokenIds", "[]"))
             prices = [float(x) for x in json.loads(m.get("outcomePrices", "[]"))]
             gp = prices[toks.index(p["asset"])]
             if m.get("closed"):
-                state, cur = "TANCAT", gp
+                state, cur = "CLOSED", gp
             elif bid is None:
-                state, cur = "sense book", gp
+                state, cur = "no book", gp
         except (ValueError, IndexError, json.JSONDecodeError):
             pass
         if cur is None and not m:
             won = clob_winner(p["condition_id"], p["asset"])
             if won is not None:
-                state, cur = ("GUANYADA" if won else "PERDUDA"), (1.0 if won else 0.0)
+                state, cur = ("WON" if won else "LOST"), (1.0 if won else 0.0)
         if cur is None:
-            # sense book ni resolució: no assumim valor de cost, marquem a 0
-            state, cur = "sense dades", 0.0
+            # no book and no resolution: don't assume cost value, mark at 0
+            state, cur = "no data", 0.0
         mark = p["shares"] * cur
         tot_mark += mark
         d = mark - p["stake"]
         print(f"  {p['title'][:50]:50s} {p['outcome'][:14]:14s} @ {p['entry_price']:<6} "
               f"ara {cur:<7} {d:+7.2f}  [{state}] ({p['leader']})")
-    print(f"\n  En joc: ${sum(p['stake'] for p in pos):.0f} | Mark: ${tot_mark:.2f} | "
+    print(f"\n  At stake: ${sum(p['stake'] for p in pos):.0f} | Mark: ${tot_mark:.2f} | "
           f"Unrealized: ${tot_mark - sum(p['stake'] for p in pos):+.2f}")
 
     if st["closed"]:
-        print("\nÚltimes tancades:")
+        print("\nRecent closes:")
         for p in st["closed"][-5:]:
             print(f"  {p['status'].upper():6s} {p['title'][:48]:48s} @ {p['entry_price']} -> "
                   f"{p['exit_price']}  {p['pnl']:+8.2f} ({p['close_reason']})")

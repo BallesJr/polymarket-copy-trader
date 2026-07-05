@@ -152,8 +152,8 @@ def main():
         json.dump(out, f, indent=1)
 
     lead = sorted([m for m in out if m["cohort"] == "leaderboard"], key=lambda m: m["lb_rank"] or 99)
-    print(f"{'#':>3} {'nom':16.16} {'lb_pnl':>8} {'real30d':>9} {'no-real':>8} {'mkts':>5} {'drop':>4} "
-          f"{'dies':>4} {'t':>6} {'top1':>5} {'cons':>5} {'tr/d':>6} {'trunc':>5} {'estil':>13}")
+    print(f"{'#':>3} {'name':16.16} {'lb_pnl':>8} {'real30d':>9} {'unreal':>8} {'mkts':>5} {'drop':>4} "
+          f"{'days':>4} {'t':>6} {'top1':>5} {'cons':>5} {'tr/d':>6} {'trunc':>5} {'style':>13}")
     for m in lead:
         style = next(iter(m["cat_pnl"]), "-")
         print(f"{m['lb_rank']:>3} {(m['name'] or m['wallet'][:12]):16.16} {m['lb_pnl']:>8.0f} "
@@ -161,14 +161,14 @@ def main():
               f"{m['dropped_incomplete']:>4} {m['active_days']:>4} {str(m['t_daily']):>6} "
               f"{(m['top1_share'] if m['top1_share'] is not None else float('nan')):>5.2f} "
               f"{str(m['consistent']):>5.5} {m['trades_per_day']:>6.1f} "
-              f"{'SI' if m['truncated'] else '':>5} {style:>13}")
+              f"{'YES' if m['truncated'] else '':>5} {style:>13}")
 
     ctrl = [m for m in out if m["cohort"] == "control"]
     if ctrl:
         r = sorted(m["realized_pnl_30d"] for m in ctrl)
-        print(f"\nControl (n={len(ctrl)}): median {r[len(r)//2]:+.2f}, positius "
+        print(f"\nControl (n={len(ctrl)}): median {r[len(r)//2]:+.2f}, positive "
               f"{sum(1 for m in ctrl if m['realized_pnl_30d'] > 0)}/{len(ctrl)}, "
-              f"pitjor {r[0]:+.0f}, millor {r[-1]:+.0f}")
+              f"worst {r[0]:+.0f}, best {r[-1]:+.0f}")
 
 if __name__ == "__main__":
     main()

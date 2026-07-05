@@ -34,5 +34,5 @@ jobs:
             git pull --rebase
             git push
           else
-            echo "nomes canvia last_updated, no comitejo"
+            echo "only last_updated changed, skipping commit"
           fi

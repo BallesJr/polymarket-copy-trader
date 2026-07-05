@@ -208,7 +208,7 @@ def cycle(st):
         elif name not in st["last_seen"]:
             st["last_seen"][name] = t0
         new_by_leader[name] = fresh
-        print(f"  {name}: {len(fresh)} trades nous")
+        print(f"  {name}: {len(fresh)} new trades")
 
     # update leader aggregate positions
     candidates = set()
@@ -224,8 +224,8 @@ def cycle(st):
             usd = t.get("usdcSize") or (t.get("price") or 0) * (t.get("size") or 0)
             if t.get("side") == "BUY":
                 if lp["shares"] <= 0:
-                    # nou episodi: fora restes (cost residual d'un episodi tancat,
-                    # shares negatius per inventari previ al tracking)
+                    # new episode: clear leftovers (residual cost from a closed episode,
+                    # negative shares from pre-tracking inventory)
                     lp["shares"], lp["cost"], lp["max_shares"] = 0.0, 0.0, 0.0
                 lp["shares"] += t.get("size") or 0
                 lp["cost"] += usd
@@ -263,8 +263,8 @@ def cycle(st):
                 continue
             sold, proceeds = sim_fill(books.get(asset), "bids", size=p["shares"])
             if sold < p["shares"] * 0.999:
-                print(f"  [WARN] bids insuficients per sortir de {p['title'][:40]} "
-                      f"({sold:.0f}/{p['shares']:.0f}), espero")
+                print(f"  [WARN] not enough bid depth to exit {p['title'][:40]} "
+                      f"({sold:.0f}/{p['shares']:.0f}), waiting")
                 continue
             bid = round(proceeds / sold, 4)
             p.update(status="closed", closed_at=iso(), exit_price=bid,
@@ -273,7 +273,7 @@ def cycle(st):
             st["total_pnl"] += p["pnl"]
             st["closed"].append(p)
             st["positions"].remove(p)
-            print(f"  [EXIT líder] {p['title'][:50]} @ {bid} pnl {p['pnl']:+.2f}")
+            print(f"  [LEADER EXIT] {p['title'][:50]} @ {bid} pnl {p['pnl']:+.2f}")
 
     for k in entry_keys:
         lp = st["leader_pos"][k]
@@ -304,13 +304,13 @@ def cycle(st):
         })
         st["bankroll"] -= STAKE_USD
         print(f"  [COPY] {lp['leader']} {lp['title'][:45]} ({lp['outcome']}) @ {fill_px:.4f} "
-              f"(millor ask {ask}, vwap líder {vwap:.3f}, retard {(t0 - lp['last_trade_ts'])/60:.0f}m)")
+              f"(best ask {ask}, leader vwap {vwap:.3f}, delay {(t0 - lp['last_trade_ts'])/60:.0f}m)")
 
     resolve_positions(st)
 
     open_val = sum(p["stake"] for p in st["positions"])
-    print(f"[CYCLE] bankroll ${st['bankroll']:.2f} | {len(st['positions'])} obertes (${open_val:.0f}) | "
-          f"{len(st['closed'])} tancades | PnL total ${st['total_pnl']:+.2f}")
+    print(f"[CYCLE] bankroll ${st['bankroll']:.2f} | {len(st['positions'])} open (${open_val:.0f}) | "
+          f"{len(st['closed'])} closed | total PnL ${st['total_pnl']:+.2f}")
 
 def main():
     if "--logfile" in sys.argv:
@@ -321,7 +321,7 @@ def main():
     # guard against overlapping scheduled runs
     lock = os.path.join(ROOT, "data", "copy.lock")
     if os.path.exists(lock) and now_ts() - os.path.getmtime(lock) < 300:
-        print("[LOCK] cicle anterior encara actiu, surto")
+        print("[LOCK] previous cycle still running, exiting")
         return
     with open(lock, "w") as f:
         f.write(str(os.getpid()))
