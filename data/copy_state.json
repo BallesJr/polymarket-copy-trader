@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9085.7949099,
+ "bankroll": 8785.7949099,
  "last_seen": {
-  "jtwyslljy": 1783192943,
+  "jtwyslljy": 1783234519,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -684,6 +684,27 @@
    "BUY",
    5000,
    1783192943
+  ],
+  [
+   "0x8da92d3abb82869194eb6a6db74d131eb5146c7f7d7e070845c4f4c4bccf1628",
+   "111634287225976165051045971625853528570396081470085297000633995890794935571765",
+   "BUY",
+   15000,
+   1783232576
+  ],
+  [
+   "0xc57e506efe6395c4eee80f88dd5b0b4028b50814ea416c5cb6dd4f76de048eee",
+   "83416745767116046345774749740035953488768882990234326717422430865288412974232",
+   "BUY",
+   7999.99,
+   1783232617
+  ],
+  [
+   "0x5e2d7e71e2b30978c0206b0cf86e4eadee3f525fec1d9b7033a5e9adda0b3044",
+   "97578927367345092917379017120327913782324310138001079612040744689219958733188",
+   "BUY",
+   8000,
+   1783234519
   ]
  ],
  "leader_pos": {
@@ -998,6 +1019,42 @@
    "cost": 2000.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1783192943
+  },
+  "jtwyslljy|111634287225976165051045971625853528570396081470085297000633995890794935571765": {
+   "leader": "jtwyslljy",
+   "asset": "111634287225976165051045971625853528570396081470085297000633995890794935571765",
+   "condition_id": "0xf2dbce3795ec857534dde21ec1cc07aed421c1cfc8d632557b74dbd2a81ea181",
+   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-safiull-djokovi-2026-07-05",
+   "shares": 15000.0,
+   "cost": 2400.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1783232576
+  },
+  "jtwyslljy|83416745767116046345774749740035953488768882990234326717422430865288412974232": {
+   "leader": "jtwyslljy",
+   "asset": "83416745767116046345774749740035953488768882990234326717422430865288412974232",
+   "condition_id": "0xacb0eed77d09803271dbd3c4bd48e36e7db3bce93d9f9e7b41698c5b374ae726",
+   "title": "Wimbledon ATP: Hubert Hurkacz vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-hurkacz-struff-2026-07-05",
+   "shares": 7999.99,
+   "cost": 2159.9973,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1783232617
+  },
+  "jtwyslljy|97578927367345092917379017120327913782324310138001079612040744689219958733188": {
+   "leader": "jtwyslljy",
+   "asset": "97578927367345092917379017120327913782324310138001079612040744689219958733188",
+   "condition_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
+   "title": "Will Brazil win on 2026-07-05?",
+   "outcome": "No",
+   "slug": "fifwc-bra-nor-2026-07-05",
+   "shares": 8000.0,
+   "cost": 3680.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1783234519
   }
  },
  "positions": [
@@ -1051,6 +1108,60 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "111634287225976165051045971625853528570396081470085297000633995890794935571765",
+   "condition_id": "0xf2dbce3795ec857534dde21ec1cc07aed421c1cfc8d632557b74dbd2a81ea181",
+   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-safiull-djokovi-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451139+00:00",
+   "entry_price": 0.16,
+   "shares": 625.0,
+   "stake": 100.0,
+   "leader_vwap": 0.16,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 131.0,
+   "best_ask": 0.16,
+   "ask_depth": 18630.34,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97578927367345092917379017120327913782324310138001079612040744689219958733188",
+   "condition_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
+   "title": "Will Brazil win on 2026-07-05?",
+   "outcome": "No",
+   "slug": "fifwc-bra-nor-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451232+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 3680.0,
+   "copy_delay_min": 98.6,
+   "best_ask": 0.46,
+   "ask_depth": 555116.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83416745767116046345774749740035953488768882990234326717422430865288412974232",
+   "condition_id": "0xacb0eed77d09803271dbd3c4bd48e36e7db3bce93d9f9e7b41698c5b374ae726",
+   "title": "Wimbledon ATP: Hubert Hurkacz vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-hurkacz-struff-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451277+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 130.3,
+   "best_ask": 0.28,
+   "ask_depth": 6166.81,
    "status": "open"
   }
  ],
@@ -1406,5 +1517,5 @@
   }
  ],
  "total_pnl": -614.2051,
- "last_updated": "2026-07-05T05:44:53.496151+00:00"
+ "last_updated": "2026-07-05T08:33:54.775761+00:00"
 }
