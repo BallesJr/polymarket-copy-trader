@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8685.7949099,
  "last_seen": {
-  "jtwyslljy": 1783259437,
+  "jtwyslljy": 1783262299,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -733,6 +733,13 @@
    "BUY",
    5000,
    1783259437
+  ],
+  [
+   "0xdc348fdafe152be3d580612b5a788d27dd5518832377fbd03e732a3fc812bcd4",
+   "111634287225976165051045971625853528570396081470085297000633995890794935571765",
+   "BUY",
+   20580.36,
+   1783262299
   ]
  ],
  "leader_pos": {
@@ -1055,10 +1062,10 @@
    "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
    "outcome": "Roman Safiullin",
    "slug": "atp-safiull-djokovi-2026-07-05",
-   "shares": 45410.0,
-   "cost": 8754.2,
-   "max_shares": 45410.0,
-   "last_trade_ts": 1783259200
+   "shares": 65990.36,
+   "cost": 9989.0216,
+   "max_shares": 65990.36,
+   "last_trade_ts": 1783262299
   },
   "jtwyslljy|83416745767116046345774749740035953488768882990234326717422430865288412974232": {
    "leader": "jtwyslljy",
@@ -1575,5 +1582,5 @@
   }
  ],
  "total_pnl": -614.2051,
- "last_updated": "2026-07-05T14:01:13.253296+00:00"
+ "last_updated": "2026-07-05T14:40:47.433521+00:00"
 }
