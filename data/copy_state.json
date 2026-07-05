@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9316.3532716,
+ "bankroll": 9533.7445716,
  "last_seen": {
   "jtwyslljy": 1783276331,
   "0x53757615de": 1783185509
@@ -1319,24 +1319,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "97578927367345092917379017120327913782324310138001079612040744689219958733188",
-   "condition_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
-   "title": "Will Brazil win on 2026-07-05?",
-   "outcome": "No",
-   "slug": "fifwc-bra-nor-2026-07-05",
-   "opened_at": "2026-07-05T08:33:54.451232+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 3680.0,
-   "copy_delay_min": 98.6,
-   "best_ask": 0.46,
-   "ask_depth": 555116.4,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "33712481100420046644490883687526558682189854239761200687095523614004358326816",
    "condition_id": "0x882f0d33b6fff38f764d031355b1cdb4068683dc4e4a26cd91274fee77dd7065",
    "title": "Mexico vs. England: O/U 2.5",
@@ -1740,6 +1722,28 @@
    "exit_price": 1.0,
    "pnl": 257.1429,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97578927367345092917379017120327913782324310138001079612040744689219958733188",
+   "condition_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
+   "title": "Will Brazil win on 2026-07-05?",
+   "outcome": "No",
+   "slug": "fifwc-bra-nor-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451232+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 3680.0,
+   "copy_delay_min": 98.6,
+   "best_ask": 0.46,
+   "ask_depth": 555116.4,
+   "status": "won",
+   "closed_at": "2026-07-05T22:31:06.794276+00:00",
+   "exit_price": 1.0,
+   "pnl": 117.3913,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1819,6 +1823,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -83.64670000000001,
- "last_updated": "2026-07-05T20:10:55.725131+00:00"
+ "total_pnl": 33.74459999999999,
+ "last_updated": "2026-07-05T22:31:06.795165+00:00"
 }
