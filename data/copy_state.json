@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9159.2103716,
+ "bankroll": 8959.2103716,
  "last_seen": {
-  "jtwyslljy": 1783275022,
+  "jtwyslljy": 1783276331,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -838,6 +838,20 @@
    "SELL",
    3000,
    1783275022
+  ],
+  [
+   "0xbf8b2169bf0e89add3054d70b9b09a9612bbf9725f35e6304158b6e5c2651c9e",
+   "2291750774192576197344440913463596564881206145267152350886975296763990714853",
+   "BUY",
+   10000,
+   1783276142
+  ],
+  [
+   "0xa782a776c22fba13841b87041eaf294ddaf2be63d7e3c7ad8791108417ab7e55",
+   "33712481100420046644490883687526558682189854239761200687095523614004358326816",
+   "BUY",
+   8000,
+   1783276331
   ]
  ],
  "leader_pos": {
@@ -1224,6 +1238,30 @@
    "cost": -9802.6738,
    "max_shares": 19367.350000000002,
    "last_trade_ts": 1783274464
+  },
+  "jtwyslljy|2291750774192576197344440913463596564881206145267152350886975296763990714853": {
+   "leader": "jtwyslljy",
+   "asset": "2291750774192576197344440913463596564881206145267152350886975296763990714853",
+   "condition_id": "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580",
+   "title": "Mexico vs. England: Team to Advance",
+   "outcome": "England",
+   "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+   "shares": 10000.0,
+   "cost": 5300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1783276142
+  },
+  "jtwyslljy|33712481100420046644490883687526558682189854239761200687095523614004358326816": {
+   "leader": "jtwyslljy",
+   "asset": "33712481100420046644490883687526558682189854239761200687095523614004358326816",
+   "condition_id": "0x882f0d33b6fff38f764d031355b1cdb4068683dc4e4a26cd91274fee77dd7065",
+   "title": "Mexico vs. England: O/U 2.5",
+   "outcome": "Over",
+   "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+   "shares": 8000.0,
+   "cost": 3200.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1783276331
   }
  },
  "positions": [
@@ -1313,6 +1351,42 @@
    "copy_delay_min": 130.3,
    "best_ask": 0.28,
    "ask_depth": 6166.81,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33712481100420046644490883687526558682189854239761200687095523614004358326816",
+   "condition_id": "0x882f0d33b6fff38f764d031355b1cdb4068683dc4e4a26cd91274fee77dd7065",
+   "title": "Mexico vs. England: O/U 2.5",
+   "outcome": "Over",
+   "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+   "opened_at": "2026-07-05T18:40:57.040090+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 8.8,
+   "best_ask": 0.4,
+   "ask_depth": 196982.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2291750774192576197344440913463596564881206145267152350886975296763990714853",
+   "condition_id": "0x94e50623d3cfdc1256e16ff372062d42c282bec8af620bb732a19fb4b0dce580",
+   "title": "Mexico vs. England: Team to Advance",
+   "outcome": "England",
+   "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+   "opened_at": "2026-07-05T18:40:57.040179+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5300.0,
+   "copy_delay_min": 11.9,
+   "best_ask": 0.53,
+   "ask_depth": 1564863.52,
    "status": "open"
   }
  ],
@@ -1742,5 +1816,5 @@
   }
  ],
  "total_pnl": -340.7896,
- "last_updated": "2026-07-05T18:20:50.961788+00:00"
+ "last_updated": "2026-07-05T18:40:57.356911+00:00"
 }
