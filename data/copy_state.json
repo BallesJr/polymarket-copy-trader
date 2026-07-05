@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8959.2103716,
+ "bankroll": 9316.3532716,
  "last_seen": {
   "jtwyslljy": 1783276331,
   "0x53757615de": 1783185509
@@ -1337,24 +1337,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "83416745767116046345774749740035953488768882990234326717422430865288412974232",
-   "condition_id": "0xacb0eed77d09803271dbd3c4bd48e36e7db3bce93d9f9e7b41698c5b374ae726",
-   "title": "Wimbledon ATP: Hubert Hurkacz vs Jan-Lennard Struff",
-   "outcome": "Jan-Lennard Struff",
-   "slug": "atp-hurkacz-struff-2026-07-05",
-   "opened_at": "2026-07-05T08:33:54.451277+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.27,
-   "leader_cost": 2160.0,
-   "copy_delay_min": 130.3,
-   "best_ask": 0.28,
-   "ask_depth": 6166.81,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "33712481100420046644490883687526558682189854239761200687095523614004358326816",
    "condition_id": "0x882f0d33b6fff38f764d031355b1cdb4068683dc4e4a26cd91274fee77dd7065",
    "title": "Mexico vs. England: O/U 2.5",
@@ -1736,6 +1718,28 @@
    "exit_price": 0.9203,
    "pnl": 170.6882,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83416745767116046345774749740035953488768882990234326717422430865288412974232",
+   "condition_id": "0xacb0eed77d09803271dbd3c4bd48e36e7db3bce93d9f9e7b41698c5b374ae726",
+   "title": "Wimbledon ATP: Hubert Hurkacz vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-hurkacz-struff-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451277+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 130.3,
+   "best_ask": 0.28,
+   "ask_depth": 6166.81,
+   "status": "won",
+   "closed_at": "2026-07-05T20:10:55.723974+00:00",
+   "exit_price": 1.0,
+   "pnl": 257.1429,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1815,6 +1819,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -340.7896,
- "last_updated": "2026-07-05T18:40:57.356911+00:00"
+ "total_pnl": -83.64670000000001,
+ "last_updated": "2026-07-05T20:10:55.725131+00:00"
 }
