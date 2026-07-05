@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8585.7949099,
+ "bankroll": 9159.2103716,
  "last_seen": {
-  "jtwyslljy": 1783273802,
+  "jtwyslljy": 1783274464,
   "0x53757615de": 1783185509
  },
  "seen_keys": [
@@ -782,6 +782,55 @@
    "SELL",
    1154.6,
    1783273802
+  ],
+  [
+   "0x8861ec141741d360709691e94b939481c328984b05e973cfab9ca476b5a5a7a0",
+   "31440557388819303417770669910859849927103241821910890816434841754857815797471",
+   "SELL",
+   2307.9,
+   1783273909
+  ],
+  [
+   "0x919923b5597d95bbb68ec59301d2c77934f8500f6e39da1d54270e1774fac706",
+   "31440557388819303417770669910859849927103241821910890816434841754857815797471",
+   "SELL",
+   2003,
+   1783274128
+  ],
+  [
+   "0x3a86b0fa5765a3d70f1b8eee40437284c218dbd7f2f1289a7f116ad5ee026c24",
+   "31440557388819303417770669910859849927103241821910890816434841754857815797471",
+   "SELL",
+   1999.5,
+   1783274176
+  ],
+  [
+   "0x9a48bf21f26c13482132665c81ca2c0d2d5da668647c10c15d7ea9f3b115128b",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "SELL",
+   1000,
+   1783274312
+  ],
+  [
+   "0x17eb46b022035332d04e708764e4a8f2683f778f3a35a4877faca3ad010c9b11",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "SELL",
+   5000,
+   1783274318
+  ],
+  [
+   "0xf16c2824b48d7dce7e5a488abf749c7edf8a39b2aa07ab8a1adb54b0c7a26fae",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "SELL",
+   7000,
+   1783274371
+  ],
+  [
+   "0xfa1589b60b054c5d757435e95f209cd36b2e978a1e1c974c09c61134b5ed7603",
+   "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "SELL",
+   5000,
+   1783274464
   ]
  ],
  "leader_pos": {
@@ -1140,10 +1189,10 @@
    "title": "Wimbledon WTA: Aryna Sabalenka vs Naomi Osaka",
    "outcome": "Naomi Osaka",
    "slug": "wta-sabalen-osaka-2026-07-05",
-   "shares": 6345.4,
-   "cost": 2487.964,
+   "shares": 34.999999999999545,
+   "cost": -1751.3680000404001,
    "max_shares": 7500.0,
-   "last_trade_ts": 1783273802
+   "last_trade_ts": 1783274176
   },
   "jtwyslljy|16486915975995693674842844022079007367606300784218695794971169529624889772699": {
    "leader": "jtwyslljy",
@@ -1164,10 +1213,10 @@
    "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-augeral-fokina-2026-07-05",
-   "shares": 19367.350000000002,
-   "cost": 6937.3261999999995,
+   "shares": 1367.3500000000022,
+   "cost": -9802.6738,
    "max_shares": 19367.350000000002,
-   "last_trade_ts": 1783268035
+   "last_trade_ts": 1783274464
   }
  },
  "positions": [
@@ -1257,42 +1306,6 @@
    "copy_delay_min": 130.3,
    "best_ask": 0.28,
    "ask_depth": 6166.81,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "31440557388819303417770669910859849927103241821910890816434841754857815797471",
-   "condition_id": "0x8054fef9f1b2bbf57dc4fc438b3744c96c0b4d59d128f660cc467fff34a7c3f0",
-   "title": "Wimbledon WTA: Aryna Sabalenka vs Naomi Osaka",
-   "outcome": "Naomi Osaka",
-   "slug": "wta-sabalen-osaka-2026-07-05",
-   "opened_at": "2026-07-05T14:01:12.918099+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 1650.0,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.33,
-   "ask_depth": 14109.29,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "25488999774614392618895746515798757261284069686356272640902684844359070897351",
-   "condition_id": "0x4da73e81ca85a3d9715340bea8dc38c102fe0bf63ba6aa1f3efd8a54d56e9d0d",
-   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
-   "outcome": "Felix Auger-Aliassime",
-   "slug": "atp-augeral-fokina-2026-07-05",
-   "opened_at": "2026-07-05T16:10:51.200516+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 6343.69,
-   "copy_delay_min": 1.5,
-   "best_ask": 0.34,
-   "ask_depth": 14052.4,
    "status": "open"
   }
  ],
@@ -1598,6 +1611,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31440557388819303417770669910859849927103241821910890816434841754857815797471",
+   "condition_id": "0x8054fef9f1b2bbf57dc4fc438b3744c96c0b4d59d128f660cc467fff34a7c3f0",
+   "title": "Wimbledon WTA: Aryna Sabalenka vs Naomi Osaka",
+   "outcome": "Naomi Osaka",
+   "slug": "wta-sabalen-osaka-2026-07-05",
+   "opened_at": "2026-07-05T14:01:12.918099+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 1650.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.33,
+   "ask_depth": 14109.29,
+   "status": "closed",
+   "closed_at": "2026-07-05T18:01:08.505353+00:00",
+   "exit_price": 0.999,
+   "pnl": 202.7273,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25488999774614392618895746515798757261284069686356272640902684844359070897351",
+   "condition_id": "0x4da73e81ca85a3d9715340bea8dc38c102fe0bf63ba6aa1f3efd8a54d56e9d0d",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-augeral-fokina-2026-07-05",
+   "opened_at": "2026-07-05T16:10:51.200516+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 6343.69,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.34,
+   "ask_depth": 14052.4,
+   "status": "closed",
+   "closed_at": "2026-07-05T18:01:08.505424+00:00",
+   "exit_price": 0.9203,
+   "pnl": 170.6882,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -1677,6 +1734,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -714.2051,
- "last_updated": "2026-07-05T17:50:56.294133+00:00"
+ "total_pnl": -340.7896,
+ "last_updated": "2026-07-05T18:01:08.862509+00:00"
 }
