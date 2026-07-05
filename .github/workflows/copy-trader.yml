@@ -27,6 +27,12 @@ jobs:
         run: |
           git config user.name "copy-bot"
           git config user.email "actions@github.com"
-          git add data/copy_state.json
-          git diff --cached --quiet || git commit -m "bot: copy state $(date -u +'%Y-%m-%d %H:%M') UTC"
-          git push
+          # skip the commit when the only diff is the last_updated timestamp
+          if git diff -- data/copy_state.json | grep '^[+-] ' | grep -qv '"last_updated"'; then
+            git add data/copy_state.json
+            git commit -m "bot: copy state $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase
+            git push
+          else
+            echo "nomes canvia last_updated, no comitejo"
+          fi
