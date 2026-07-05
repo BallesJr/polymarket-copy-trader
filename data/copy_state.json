@@ -1204,24 +1204,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "111634287225976165051045971625853528570396081470085297000633995890794935571765",
-   "condition_id": "0xf2dbce3795ec857534dde21ec1cc07aed421c1cfc8d632557b74dbd2a81ea181",
-   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
-   "outcome": "Roman Safiullin",
-   "slug": "atp-safiull-djokovi-2026-07-05",
-   "opened_at": "2026-07-05T08:33:54.451139+00:00",
-   "entry_price": 0.16,
-   "shares": 625.0,
-   "stake": 100.0,
-   "leader_vwap": 0.16,
-   "leader_cost": 2400.0,
-   "copy_delay_min": 131.0,
-   "best_ask": 0.16,
-   "ask_depth": 18630.34,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97578927367345092917379017120327913782324310138001079612040744689219958733188",
    "condition_id": "0x2a0e8ce7c309ec8015c4c721dec574ff100b0512ef412a54bb733dc5bef740dc",
    "title": "Will Brazil win on 2026-07-05?",
@@ -1573,6 +1555,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "111634287225976165051045971625853528570396081470085297000633995890794935571765",
+   "condition_id": "0xf2dbce3795ec857534dde21ec1cc07aed421c1cfc8d632557b74dbd2a81ea181",
+   "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-safiull-djokovi-2026-07-05",
+   "opened_at": "2026-07-05T08:33:54.451139+00:00",
+   "entry_price": 0.16,
+   "shares": 625.0,
+   "stake": 100.0,
+   "leader_vwap": 0.16,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 131.0,
+   "best_ask": 0.16,
+   "ask_depth": 18630.34,
+   "status": "lost",
+   "closed_at": "2026-07-05T16:50:57.720023+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -1652,6 +1656,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -614.2051,
- "last_updated": "2026-07-05T16:20:52.682738+00:00"
+ "total_pnl": -714.2051,
+ "last_updated": "2026-07-05T16:50:57.720925+00:00"
 }
