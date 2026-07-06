@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9657.6089716,
+ "bankroll": 9666.1804006,
  "last_seen": {
-  "jtwyslljy": 1783347115,
+  "jtwyslljy": 1783348487,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2280,6 +2280,13 @@
    "BUY",
    3630.32,
    1783347115
+  ],
+  [
+   "0xdce28e078dac824e49b9996e64e3e330a630165e6b9b9f2cea0f487959395625",
+   "85258469184279046487012000385739590612417313123739073554013691504231776870728",
+   "SELL",
+   5000,
+   1783348487
   ]
  ],
  "leader_pos": {
@@ -2782,10 +2789,10 @@
    "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
    "outcome": "Alex de Minaur",
    "slug": "atp-minaur-cobolli-2026-07-06",
-   "shares": 5000.0,
-   "cost": 1439.2266000000002,
+   "shares": 0.0,
+   "cost": -110.77339999999981,
    "max_shares": 5000.0,
-   "last_trade_ts": 1783346980
+   "last_trade_ts": 1783348487
   }
  },
  "positions": [
@@ -2822,24 +2829,6 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "85258469184279046487012000385739590612417313123739073554013691504231776870728",
-   "condition_id": "0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f",
-   "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
-   "outcome": "Alex de Minaur",
-   "slug": "atp-minaur-cobolli-2026-07-06",
-   "opened_at": "2026-07-06T14:21:05.896413+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.2878,
-   "leader_cost": 1439.23,
-   "copy_delay_min": 11.4,
-   "best_ask": 0.35,
-   "ask_depth": 19106.08,
    "status": "open"
   },
   {
@@ -3382,6 +3371,28 @@
    "exit_price": 1.0,
    "pnl": 85.1852,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85258469184279046487012000385739590612417313123739073554013691504231776870728",
+   "condition_id": "0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f",
+   "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-cobolli-2026-07-06",
+   "opened_at": "2026-07-06T14:21:05.896413+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.2878,
+   "leader_cost": 1439.23,
+   "copy_delay_min": 11.4,
+   "best_ask": 0.35,
+   "ask_depth": 19106.08,
+   "status": "closed",
+   "closed_at": "2026-07-06T14:40:58.675432+00:00",
+   "exit_price": 0.03,
+   "pnl": -91.4286,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -3489,6 +3500,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": 57.608999999999966,
- "last_updated": "2026-07-06T14:31:10.529850+00:00"
+ "total_pnl": -33.81960000000004,
+ "last_updated": "2026-07-06T14:40:59.043912+00:00"
 }
