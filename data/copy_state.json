@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9472.4237716,
+ "bankroll": 9657.6089716,
  "last_seen": {
   "jtwyslljy": 1783347115,
   "0x53757615de": 1783292377
@@ -2826,24 +2826,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "24057943310321960431463495464167315022299881721741157363879038558598154203287",
-   "condition_id": "0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447",
-   "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
-   "outcome": "Elise Mertens",
-   "slug": "wta-bouzkov-mertens-2026-07-05",
-   "opened_at": "2026-07-06T11:10:56.374797+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 2902.93,
-   "copy_delay_min": 2.4,
-   "best_ask": 0.54,
-   "ask_depth": 57816.54,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "85258469184279046487012000385739590612417313123739073554013691504231776870728",
    "condition_id": "0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f",
    "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
@@ -3378,6 +3360,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24057943310321960431463495464167315022299881721741157363879038558598154203287",
+   "condition_id": "0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447",
+   "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-bouzkov-mertens-2026-07-05",
+   "opened_at": "2026-07-06T11:10:56.374797+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2902.93,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.54,
+   "ask_depth": 57816.54,
+   "status": "won",
+   "closed_at": "2026-07-06T14:31:10.528765+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -3485,6 +3489,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -27.57620000000003,
- "last_updated": "2026-07-06T14:21:06.557415+00:00"
+ "total_pnl": 57.608999999999966,
+ "last_updated": "2026-07-06T14:31:10.529850+00:00"
 }
