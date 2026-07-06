@@ -2961,24 +2961,6 @@
    "best_ask": 0.73,
    "ask_depth": 1189.6,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "47781058181182853060707223197080811416874535862062142361734380655643417389630",
-   "condition_id": "0x3c995fa852613961df5b34fc1b2d14eb6850145f5d28d349d1622f4ed8cd84ca",
-   "title": "Portugal vs. Spain: Team to Advance",
-   "outcome": "Portugal",
-   "slug": "fifwc-prt-esp-2026-07-06-more-markets",
-   "opened_at": "2026-07-06T19:31:48.297449+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 13747.22,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.36,
-   "ask_depth": 19322.41,
-   "status": "open"
   }
  ],
  "closed": [
@@ -3568,6 +3550,28 @@
    "exit_price": 1.0,
    "pnl": 163.1579,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47781058181182853060707223197080811416874535862062142361734380655643417389630",
+   "condition_id": "0x3c995fa852613961df5b34fc1b2d14eb6850145f5d28d349d1622f4ed8cd84ca",
+   "title": "Portugal vs. Spain: Team to Advance",
+   "outcome": "Portugal",
+   "slug": "fifwc-prt-esp-2026-07-06-more-markets",
+   "opened_at": "2026-07-06T19:31:48.297449+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 13747.22,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.36,
+   "ask_depth": 19322.41,
+   "status": "lost",
+   "closed_at": "2026-07-06T21:31:05.445703+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -3675,6 +3679,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": 29.338299999999975,
- "last_updated": "2026-07-06T19:31:48.635658+00:00"
+ "total_pnl": -70.66170000000002,
+ "last_updated": "2026-07-06T21:31:05.446711+00:00"
 }
