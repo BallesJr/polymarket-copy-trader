@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9829.3383006,
+ "bankroll": 9729.3383006,
  "last_seen": {
-  "jtwyslljy": 1783353023,
+  "jtwyslljy": 1783364327,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2350,6 +2350,13 @@
    "BUY",
    11,
    1783353023
+  ],
+  [
+   "0x435019fc6262d39722013dd955d749197c694977bcc5dd4a6dcde1d53cd1bae8",
+   "11745025487860354192477619864860033897693166596776539464949586482060440785986",
+   "BUY",
+   6000,
+   1783364327
   ]
  ],
  "leader_pos": {
@@ -2868,6 +2875,18 @@
    "cost": 63273.745900773014,
    "max_shares": 148820.59999999998,
    "last_trade_ts": 1783353023
+  },
+  "jtwyslljy|11745025487860354192477619864860033897693166596776539464949586482060440785986": {
+   "leader": "jtwyslljy",
+   "asset": "11745025487860354192477619864860033897693166596776539464949586482060440785986",
+   "condition_id": "0xa2fbf26da58b976e1eb5afbbf1b1b73d4643ec03e7dacb467404d9ff5869b0b5",
+   "title": "Wimbledon ATP: Jiri Lehecka vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-lehecka-zverev-2026-07-06",
+   "shares": 6000.0,
+   "cost": 4380.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1783364327
   }
  },
  "positions": [
@@ -2904,6 +2923,24 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11745025487860354192477619864860033897693166596776539464949586482060440785986",
+   "condition_id": "0xa2fbf26da58b976e1eb5afbbf1b1b73d4643ec03e7dacb467404d9ff5869b0b5",
+   "title": "Wimbledon ATP: Jiri Lehecka vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-lehecka-zverev-2026-07-06",
+   "opened_at": "2026-07-06T19:10:56.758284+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 4380.0,
+   "copy_delay_min": 12.2,
+   "best_ask": 0.73,
+   "ask_depth": 1189.6,
    "status": "open"
   }
  ],
@@ -3602,5 +3639,5 @@
   }
  ],
  "total_pnl": 29.338299999999975,
- "last_updated": "2026-07-06T17:28:04.763835+00:00"
+ "last_updated": "2026-07-06T19:10:57.104316+00:00"
 }
