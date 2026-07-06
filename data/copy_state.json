@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9333.7445716,
  "last_seen": {
-  "jtwyslljy": 1783304299,
+  "jtwyslljy": 1783304738,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2168,6 +2168,13 @@
    "BUY",
    11500,
    1783304299
+  ],
+  [
+   "0x59673872c3e4d1349e351405ba24eedb8736bded729124ae919a2fca14c258ae",
+   "99987505019145302839149748690135474702609338742704365195727087940443574137306",
+   "BUY",
+   21000,
+   1783304738
   ]
  ],
  "leader_pos": {
@@ -2602,6 +2609,18 @@
    "cost": 3039.227599878038,
    "max_shares": 13900.34,
    "last_trade_ts": 1783304074
+  },
+  "jtwyslljy|99987505019145302839149748690135474702609338742704365195727087940443574137306": {
+   "leader": "jtwyslljy",
+   "asset": "99987505019145302839149748690135474702609338742704365195727087940443574137306",
+   "condition_id": "0x49479fd3ce388c802dc47becd1d23fc6f8ad89ac5a31378810d9ad754582fb04",
+   "title": "Mexico vs. England: O/U 4.5",
+   "outcome": "Under",
+   "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+   "shares": 21000.0,
+   "cost": 6102.0430191,
+   "max_shares": 21000.0,
+   "last_trade_ts": 1783304738
   }
  },
  "positions": [
@@ -3197,8 +3216,16 @@
    "leader": "jtwyslljy",
    "title": "Wimbledon ATP: Roman Safiullin vs Novak Djokovic",
    "outcome": "Novak Djokovic"
+  },
+  {
+   "at": "2026-07-06T02:40:51.264620+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": 0.001,
+   "leader": "jtwyslljy",
+   "title": "Mexico vs. England: O/U 4.5",
+   "outcome": "Under"
   }
  ],
  "total_pnl": 33.74459999999999,
- "last_updated": "2026-07-06T02:31:03.570971+00:00"
+ "last_updated": "2026-07-06T02:40:51.567053+00:00"
 }
