@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9672.4237716,
+ "bankroll": 9472.4237716,
  "last_seen": {
-  "jtwyslljy": 1783346561,
+  "jtwyslljy": 1783347115,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2259,6 +2259,27 @@
    "BUY",
    8958.08,
    1783346561
+  ],
+  [
+   "0x97301fa7ddc927c95fb843f8321b0b2b7b0960f05491d1338828c00f895ed420",
+   "85258469184279046487012000385739590612417313123739073554013691504231776870728",
+   "BUY",
+   5000,
+   1783346980
+  ],
+  [
+   "0x20754b2dc111f65bd478301e52941c1c067e18477e0b9fb5fe177f73a1d2cbcd",
+   "73711621858902064712097950660165124764538868847768643916388595021121152606046",
+   "BUY",
+   96.72,
+   1783347064
+  ],
+  [
+   "0x63fb74378c4289e27d45189faa883f20a5d415f9a48922de8f86bd8d5c39e70c",
+   "73711621858902064712097950660165124764538868847768643916388595021121152606046",
+   "BUY",
+   3630.32,
+   1783347115
   ]
  ],
  "leader_pos": {
@@ -2737,10 +2758,10 @@
    "title": "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala",
    "outcome": "Alexandra Eala",
    "slug": "wta-paolini-eala-2026-07-05",
-   "shares": 559.5,
-   "cost": 195.825,
-   "max_shares": 559.5,
-   "last_trade_ts": 1783345211
+   "shares": 4286.54,
+   "cost": 2277.1642,
+   "max_shares": 4286.54,
+   "last_trade_ts": 1783347115
   },
   "jtwyslljy|81863514924581626881498280694949562980370687822125904618870423302869920064489": {
    "leader": "jtwyslljy",
@@ -2753,6 +2774,18 @@
    "cost": 39551.9456,
    "max_shares": 136023.3,
    "last_trade_ts": 1783346561
+  },
+  "jtwyslljy|85258469184279046487012000385739590612417313123739073554013691504231776870728": {
+   "leader": "jtwyslljy",
+   "asset": "85258469184279046487012000385739590612417313123739073554013691504231776870728",
+   "condition_id": "0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f",
+   "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-cobolli-2026-07-06",
+   "shares": 5000.0,
+   "cost": 1439.2266000000002,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1783346980
   }
  },
  "positions": [
@@ -2807,6 +2840,42 @@
    "copy_delay_min": 2.4,
    "best_ask": 0.54,
    "ask_depth": 57816.54,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85258469184279046487012000385739590612417313123739073554013691504231776870728",
+   "condition_id": "0xcf8482eb154c9e79b6b7ec3f698164448432494bc532037069bb1f5f8f3d140f",
+   "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-cobolli-2026-07-06",
+   "opened_at": "2026-07-06T14:21:05.896413+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.2878,
+   "leader_cost": 1439.23,
+   "copy_delay_min": 11.4,
+   "best_ask": 0.35,
+   "ask_depth": 19106.08,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "73711621858902064712097950660165124764538868847768643916388595021121152606046",
+   "condition_id": "0x89ab30a18e87b65cfbfce393abbcc2e55543c75c217aec05a5e44f27278c9666",
+   "title": "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-paolini-eala-2026-07-05",
+   "opened_at": "2026-07-06T14:21:05.896487+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.5312,
+   "leader_cost": 2277.16,
+   "copy_delay_min": 9.2,
+   "best_ask": 0.58,
+   "ask_depth": 68109.66,
    "status": "open"
   }
  ],
@@ -3417,5 +3486,5 @@
   }
  ],
  "total_pnl": -27.57620000000003,
- "last_updated": "2026-07-06T14:11:14.586783+00:00"
+ "last_updated": "2026-07-06T14:21:06.557415+00:00"
 }
