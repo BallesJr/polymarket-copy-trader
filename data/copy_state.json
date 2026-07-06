@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9672.4237716,
  "last_seen": {
-  "jtwyslljy": 1783336109,
+  "jtwyslljy": 1783336178,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2203,6 +2203,13 @@
    "BUY",
    5477.22,
    1783336109
+  ],
+  [
+   "0xaa19f99cfb6a6d2533589b738317be23f5abb8bddeba3c434b95aa02de7937e5",
+   "24057943310321960431463495464167315022299881721741157363879038558598154203287",
+   "BUY",
+   23.32,
+   1783336178
   ]
  ],
  "leader_pos": {
@@ -2669,10 +2676,10 @@
    "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
    "outcome": "Elise Mertens",
    "slug": "wta-bouzkov-mertens-2026-07-05",
-   "shares": 5477.22,
-   "cost": 2902.9266000000002,
-   "max_shares": 5477.22,
-   "last_trade_ts": 1783336109
+   "shares": 5500.54,
+   "cost": 2915.2862000000005,
+   "max_shares": 5500.54,
+   "last_trade_ts": 1783336178
   }
  },
  "positions": [
@@ -3317,5 +3324,5 @@
   }
  ],
  "total_pnl": -27.57620000000003,
- "last_updated": "2026-07-06T11:10:56.645491+00:00"
+ "last_updated": "2026-07-06T11:20:56.154322+00:00"
 }
