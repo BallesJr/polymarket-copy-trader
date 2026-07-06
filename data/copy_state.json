@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9729.3383006,
+ "bankroll": 9629.3383006,
  "last_seen": {
-  "jtwyslljy": 1783364327,
+  "jtwyslljy": 1783365875,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2357,6 +2357,13 @@
    "BUY",
    6000,
    1783364327
+  ],
+  [
+   "0x17040c9940098642188202a05becb958e08a7d9fe3d48c35d3a30ae9b07d5493",
+   "47781058181182853060707223197080811416874535862062142361734380655643417389630",
+   "BUY",
+   38186.73,
+   1783365875
   ]
  ],
  "leader_pos": {
@@ -2887,6 +2894,18 @@
    "cost": 4380.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1783364327
+  },
+  "jtwyslljy|47781058181182853060707223197080811416874535862062142361734380655643417389630": {
+   "leader": "jtwyslljy",
+   "asset": "47781058181182853060707223197080811416874535862062142361734380655643417389630",
+   "condition_id": "0x3c995fa852613961df5b34fc1b2d14eb6850145f5d28d349d1622f4ed8cd84ca",
+   "title": "Portugal vs. Spain: Team to Advance",
+   "outcome": "Portugal",
+   "slug": "fifwc-prt-esp-2026-07-06-more-markets",
+   "shares": 38186.73,
+   "cost": 13747.222800000001,
+   "max_shares": 38186.73,
+   "last_trade_ts": 1783365875
   }
  },
  "positions": [
@@ -2941,6 +2960,24 @@
    "copy_delay_min": 12.2,
    "best_ask": 0.73,
    "ask_depth": 1189.6,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47781058181182853060707223197080811416874535862062142361734380655643417389630",
+   "condition_id": "0x3c995fa852613961df5b34fc1b2d14eb6850145f5d28d349d1622f4ed8cd84ca",
+   "title": "Portugal vs. Spain: Team to Advance",
+   "outcome": "Portugal",
+   "slug": "fifwc-prt-esp-2026-07-06-more-markets",
+   "opened_at": "2026-07-06T19:31:48.297449+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 13747.22,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.36,
+   "ask_depth": 19322.41,
    "status": "open"
   }
  ],
@@ -3639,5 +3676,5 @@
   }
  ],
  "total_pnl": 29.338299999999975,
- "last_updated": "2026-07-06T19:10:57.104316+00:00"
+ "last_updated": "2026-07-06T19:31:48.635658+00:00"
 }
