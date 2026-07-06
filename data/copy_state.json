@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9772.4237716,
+ "bankroll": 9672.4237716,
  "last_seen": {
-  "jtwyslljy": 1783306391,
+  "jtwyslljy": 1783336109,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2189,6 +2189,20 @@
    "SELL",
    5000,
    1783306391
+  ],
+  [
+   "0x928a44de632114c1059b6cfdf56ce3465bc914dd198680eeb48a6c5db019c3b9",
+   "29541766341276436633721779888204592684171236179056699639328231968770255335792",
+   "SELL",
+   71,
+   1783336012
+  ],
+  [
+   "0x3b7dadac7ca48e7a1f88003e60f6484f8f5e56cc08acf53d794f6b56f0f3e410",
+   "24057943310321960431463495464167315022299881721741157363879038558598154203287",
+   "BUY",
+   5477.22,
+   1783336109
   ]
  ],
  "leader_pos": {
@@ -2635,6 +2649,30 @@
    "cost": 6102.0430191,
    "max_shares": 21000.0,
    "last_trade_ts": 1783304738
+  },
+  "jtwyslljy|29541766341276436633721779888204592684171236179056699639328231968770255335792": {
+   "leader": "jtwyslljy",
+   "asset": "29541766341276436633721779888204592684171236179056699639328231968770255335792",
+   "condition_id": "0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447",
+   "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-bouzkov-mertens-2026-07-05",
+   "shares": -71.0,
+   "cost": -33.37,
+   "max_shares": 0.0,
+   "last_trade_ts": 1783336012
+  },
+  "jtwyslljy|24057943310321960431463495464167315022299881721741157363879038558598154203287": {
+   "leader": "jtwyslljy",
+   "asset": "24057943310321960431463495464167315022299881721741157363879038558598154203287",
+   "condition_id": "0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447",
+   "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-bouzkov-mertens-2026-07-05",
+   "shares": 5477.22,
+   "cost": 2902.9266000000002,
+   "max_shares": 5477.22,
+   "last_trade_ts": 1783336109
   }
  },
  "positions": [
@@ -2671,6 +2709,24 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24057943310321960431463495464167315022299881721741157363879038558598154203287",
+   "condition_id": "0x07cf19dc78b559bd9aef41b00839d9e5a5637a073e87eb0185ee417db4006447",
+   "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-bouzkov-mertens-2026-07-05",
+   "opened_at": "2026-07-06T11:10:56.374797+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2902.93,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.54,
+   "ask_depth": 57816.54,
    "status": "open"
   }
  ],
@@ -3261,5 +3317,5 @@
   }
  ],
  "total_pnl": -27.57620000000003,
- "last_updated": "2026-07-06T03:31:03.744530+00:00"
+ "last_updated": "2026-07-06T11:10:56.645491+00:00"
 }
