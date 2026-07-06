@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9566.1804006,
  "last_seen": {
-  "jtwyslljy": 1783351517,
+  "jtwyslljy": 1783352066,
   "0x53757615de": 1783292377
  },
  "seen_keys": [
@@ -2301,6 +2301,34 @@
    "BUY",
    35000,
    1783351517
+  ],
+  [
+   "0x1551c5abd6428b58df977fcc5ce59e8b4db3f1bcf2c46bfe281f76feb14f6e29",
+   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
+   "BUY",
+   14034.78,
+   1783351999
+  ],
+  [
+   "0x76acb7e460751acf270e3b3d8448cae33d86f5010abe195be1b27abe456dc645",
+   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
+   "BUY",
+   18821.21,
+   1783352030
+  ],
+  [
+   "0xc2bbe197e95fbe5db3bd2bdd6612f1fb24d275269728cd52ad86bebf7f5744f5",
+   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
+   "BUY",
+   34000,
+   1783352051
+  ],
+  [
+   "0xd36307a35e4e39446047d850d8310f4245ce4ebf903e80c22fdb4aa79d125ecf",
+   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
+   "BUY",
+   16979.42,
+   1783352066
   ]
  ],
  "leader_pos": {
@@ -2815,10 +2843,10 @@
    "title": "Wimbledon WTA: Madison Keys vs Linda Noskova",
    "outcome": "Linda Noskova",
    "slug": "wta-keys-noskova-2026-07-06",
-   "shares": 60559.19,
-   "cost": 26428.25620197301,
-   "max_shares": 60559.19,
-   "last_trade_ts": 1783351517
+   "shares": 144394.59999999998,
+   "cost": 60932.71590077301,
+   "max_shares": 144394.59999999998,
+   "last_trade_ts": 1783352066
   }
  },
  "positions": [
@@ -2855,24 +2883,6 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "73711621858902064712097950660165124764538868847768643916388595021121152606046",
-   "condition_id": "0x89ab30a18e87b65cfbfce393abbcc2e55543c75c217aec05a5e44f27278c9666",
-   "title": "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala",
-   "outcome": "Alexandra Eala",
-   "slug": "wta-paolini-eala-2026-07-05",
-   "opened_at": "2026-07-06T14:21:05.896487+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.5312,
-   "leader_cost": 2277.16,
-   "copy_delay_min": 9.2,
-   "best_ask": 0.58,
-   "ask_depth": 68109.66,
    "status": "open"
   },
   {
@@ -3437,6 +3447,28 @@
    "exit_price": 0.03,
    "pnl": -91.4286,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "73711621858902064712097950660165124764538868847768643916388595021121152606046",
+   "condition_id": "0x89ab30a18e87b65cfbfce393abbcc2e55543c75c217aec05a5e44f27278c9666",
+   "title": "Wimbledon WTA: Jasmine Paolini vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-paolini-eala-2026-07-05",
+   "opened_at": "2026-07-06T14:21:05.896487+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.5312,
+   "leader_cost": 2277.16,
+   "copy_delay_min": 9.2,
+   "best_ask": 0.58,
+   "ask_depth": 68109.66,
+   "status": "lost",
+   "closed_at": "2026-07-06T15:40:58.548564+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -3544,6 +3576,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -33.81960000000004,
- "last_updated": "2026-07-06T15:31:10.522511+00:00"
+ "total_pnl": -133.81960000000004,
+ "last_updated": "2026-07-06T15:40:58.549487+00:00"
 }
