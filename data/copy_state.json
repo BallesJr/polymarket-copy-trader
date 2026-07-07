@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8966.3246006,
+ "bankroll": 9062.403000600001,
  "last_seen": {
-  "jtwyslljy": 1783444237,
+  "jtwyslljy": 1783444885,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2532,6 +2532,13 @@
    "BUY",
    500,
    1783444237
+  ],
+  [
+   "0x1adf641ffed1f5e489f3ed028483b6d9aa6f1f2c0e8a8af4c13acbba686e808d",
+   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
+   "BUY",
+   1000,
+   1783444885
   ]
  ],
  "leader_pos": {
@@ -3190,10 +3197,10 @@
    "title": "Argentina vs. Egypt: Team to Advance",
    "outcome": "Argentina",
    "slug": "fifwc-arg-egy-2026-07-07-more-markets",
-   "shares": 500.0,
-   "cost": 320.0,
-   "max_shares": 500.0,
-   "last_trade_ts": 1783444237
+   "shares": 1500.0,
+   "cost": 900.0,
+   "max_shares": 1500.0,
+   "last_trade_ts": 1783444885
   }
  },
  "positions": [
@@ -3213,42 +3220,6 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "32416183037253537110250743714067621855761298044523860318616963052023268394995",
-   "condition_id": "0xbe68c46611e18d6598e3882388af9567901b78ca3937edcecd3facc0d698c370",
-   "title": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
-   "outcome": "Naomi Osaka",
-   "slug": "wta-osaka-muchova-2026-07-07",
-   "opened_at": "2026-07-07T15:31:07.240224+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 2850.0,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.5,
-   "ask_depth": 862666.63,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "54551929971639567652760292845050128526612133168530742431256378445803119599070",
-   "condition_id": "0xbe68c46611e18d6598e3882388af9567901b78ca3937edcecd3facc0d698c370",
-   "title": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
-   "outcome": "Karolina Muchova",
-   "slug": "wta-osaka-muchova-2026-07-07",
-   "opened_at": "2026-07-07T15:31:07.240316+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.4294,
-   "leader_cost": 22543.28,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.51,
-   "ask_depth": 24452.88,
    "status": "open"
   },
   {
@@ -3339,6 +3310,24 @@
    "copy_delay_min": 3.9,
    "best_ask": 0.23,
    "ask_depth": 103.86,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62322024443983575289896387710034399425619931224187000571202629586505505867789",
+   "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+   "title": "Argentina vs. Egypt: Team to Advance",
+   "outcome": "Argentina",
+   "slug": "fifwc-arg-egy-2026-07-07-more-markets",
+   "opened_at": "2026-07-07T17:29:31.533880+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 900.0,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.51,
+   "ask_depth": 5494.64,
    "status": "open"
   }
  ],
@@ -4016,6 +4005,50 @@
    "exit_price": 1.0,
    "pnl": 36.9863,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32416183037253537110250743714067621855761298044523860318616963052023268394995",
+   "condition_id": "0xbe68c46611e18d6598e3882388af9567901b78ca3937edcecd3facc0d698c370",
+   "title": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
+   "outcome": "Naomi Osaka",
+   "slug": "wta-osaka-muchova-2026-07-07",
+   "opened_at": "2026-07-07T15:31:07.240224+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2850.0,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.5,
+   "ask_depth": 862666.63,
+   "status": "lost",
+   "closed_at": "2026-07-07T17:29:32.167014+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54551929971639567652760292845050128526612133168530742431256378445803119599070",
+   "condition_id": "0xbe68c46611e18d6598e3882388af9567901b78ca3937edcecd3facc0d698c370",
+   "title": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-osaka-muchova-2026-07-07",
+   "opened_at": "2026-07-07T15:31:07.240316+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.4294,
+   "leader_cost": 22543.28,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.51,
+   "ask_depth": 24452.88,
+   "status": "won",
+   "closed_at": "2026-07-07T17:29:32.443369+00:00",
+   "exit_price": 1.0,
+   "pnl": 96.0784,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4123,6 +4156,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -233.6754,
- "last_updated": "2026-07-07T17:20:52.399614+00:00"
+ "total_pnl": -237.59699999999998,
+ "last_updated": "2026-07-07T17:29:32.444577+00:00"
 }
