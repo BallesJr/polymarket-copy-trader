@@ -2930,23 +2930,6 @@
  "positions": [
   {
    "leader": "0x53757615de",
-   "asset": "45415751658241142530386585138386640503488308219341470020075667342738719018629",
-   "condition_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-   "title": "Will Portugal win the 2026 FIFA World Cup?",
-   "outcome": "Yes",
-   "slug": "world-cup-winner",
-   "opened_at": "2026-07-03T14:51:41.245530+00:00",
-   "entry_price": 0.061,
-   "shares": 1639.3443,
-   "stake": 100.0,
-   "leader_vwap": 0.062,
-   "leader_cost": 625.75,
-   "copy_delay_min": 64.5,
-   "ask_depth": 4443.66,
-   "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
    "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
    "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
    "title": "Will Argentina win the 2026 FIFA World Cup?",
@@ -3609,6 +3592,27 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+   "condition_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+   "title": "Will Portugal win the 2026 FIFA World Cup?",
+   "outcome": "Yes",
+   "slug": "world-cup-winner",
+   "opened_at": "2026-07-03T14:51:41.245530+00:00",
+   "entry_price": 0.061,
+   "shares": 1639.3443,
+   "stake": 100.0,
+   "leader_vwap": 0.062,
+   "leader_cost": 625.75,
+   "copy_delay_min": 64.5,
+   "ask_depth": 4443.66,
+   "status": "lost",
+   "closed_at": "2026-07-07T00:20:54.928413+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -3716,6 +3720,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -70.66170000000002,
- "last_updated": "2026-07-06T22:31:06.465991+00:00"
+ "total_pnl": -170.66170000000002,
+ "last_updated": "2026-07-07T00:20:54.929495+00:00"
 }
