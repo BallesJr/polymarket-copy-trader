@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9579.4756006,
  "last_seen": {
-  "jtwyslljy": 1783456070,
+  "jtwyslljy": 1783460725,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2602,6 +2602,27 @@
    "SELL",
    7000,
    1783456070
+  ],
+  [
+   "0x3d4e3b63b11d15d4ce3e8d09ba6e58e18e2a31c4af4e244188c9223b6c004d90",
+   "49873799164796771869657972052132938365146814465619211100058162508347908684077",
+   "BUY",
+   7000,
+   1783460444
+  ],
+  [
+   "0xce405b33394ae785f6edcc81964da9b0fde14a5efaf65bf4810b26de9d09dd4f",
+   "49873799164796771869657972052132938365146814465619211100058162508347908684077",
+   "BUY",
+   1000,
+   1783460494
+  ],
+  [
+   "0xebc406aab3e2633035e7a9803d4c2ac4de04f6451fbad601062f72737b6b2aa6",
+   "49873799164796771869657972052132938365146814465619211100058162508347908684077",
+   "BUY",
+   3000,
+   1783460725
   ]
  ],
  "leader_pos": {
@@ -3276,6 +3297,18 @@
    "cost": 31655.424899397593,
    "max_shares": 86258.79000000001,
    "last_trade_ts": 1783456070
+  },
+  "jtwyslljy|49873799164796771869657972052132938365146814465619211100058162508347908684077": {
+   "leader": "jtwyslljy",
+   "asset": "49873799164796771869657972052132938365146814465619211100058162508347908684077",
+   "condition_id": "0x71cf19220d20cbad74d50c08f51995fc8aa7f93455878bffbbec739d1d63cee6",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-augeral-djokovi-2026-07-07",
+   "shares": 11000.0,
+   "cost": 6820.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1783460725
   }
  },
  "positions": [
@@ -4271,8 +4304,18 @@
    "leader": "jtwyslljy",
    "title": "Wimbledon ATP: Alex de Minaur vs Flavio Cobolli",
    "outcome": "Flavio Cobolli"
+  },
+  {
+   "at": "2026-07-07T21:50:53.949594+00:00",
+   "reason": "chase",
+   "ask": 0.89,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.62,
+   "leader": "jtwyslljy",
+   "title": "Wimbledon ATP: Felix Auger-Aliassime vs Novak Djokovic",
+   "outcome": "Novak Djokovic"
   }
  ],
  "total_pnl": -220.5244,
- "last_updated": "2026-07-07T20:31:14.198966+00:00"
+ "last_updated": "2026-07-07T21:50:54.316564+00:00"
 }
