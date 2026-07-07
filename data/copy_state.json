@@ -2963,24 +2963,6 @@
    "best_ask": 0.73,
    "ask_depth": 1189.6,
    "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
-   "asset": "12543071273398745069375249451965314920040978384485189026440480252129098460445",
-   "condition_id": "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e",
-   "title": "Will United States win on 2026-07-06?",
-   "outcome": "Yes",
-   "slug": "fifwc-usa-bel-2026-07-06",
-   "opened_at": "2026-07-06T22:31:06.190394+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 37000.0,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.37,
-   "ask_depth": 2220868.32,
-   "status": "open"
   }
  ],
  "closed": [
@@ -3613,6 +3595,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "12543071273398745069375249451965314920040978384485189026440480252129098460445",
+   "condition_id": "0xf5a0c2d5b6bf0a7b9899aaf4c6237b08e1dbf8d17430fac4de8468a6e2df2e0e",
+   "title": "Will United States win on 2026-07-06?",
+   "outcome": "Yes",
+   "slug": "fifwc-usa-bel-2026-07-06",
+   "opened_at": "2026-07-06T22:31:06.190394+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 37000.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.37,
+   "ask_depth": 2220868.32,
+   "status": "lost",
+   "closed_at": "2026-07-07T02:20:53.773220+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -3720,6 +3724,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -170.66170000000002,
- "last_updated": "2026-07-07T00:20:54.929495+00:00"
+ "total_pnl": -270.6617,
+ "last_updated": "2026-07-07T02:20:53.774093+00:00"
 }
