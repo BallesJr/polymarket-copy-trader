@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9066.3246006,
+ "bankroll": 8966.3246006,
  "last_seen": {
-  "jtwyslljy": 1783442650,
+  "jtwyslljy": 1783444018,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2518,6 +2518,13 @@
    "BUY",
    7500,
    1783442650
+  ],
+  [
+   "0xa09f6879bfe989197af90329e9f314f9ac6b8b8f4d3bc51b72bb1aff73027f8d",
+   "110840959246266592933614123098645754584062212686156145110406273513724979218376",
+   "BUY",
+   120000,
+   1783444018
   ]
  ],
  "leader_pos": {
@@ -3156,6 +3163,18 @@
    "cost": 5141.318900164075,
    "max_shares": 14187.25,
    "last_trade_ts": 1783441864
+  },
+  "jtwyslljy|110840959246266592933614123098645754584062212686156145110406273513724979218376": {
+   "leader": "jtwyslljy",
+   "asset": "110840959246266592933614123098645754584062212686156145110406273513724979218376",
+   "condition_id": "0x9f0b598db121eee6f84113c41f17f03ea04e6cba753cccba1a39f721e2aa0163",
+   "title": "Argentina vs. Egypt: O/U 3.5",
+   "outcome": "Over",
+   "slug": "fifwc-arg-egy-2026-07-07-more-markets",
+   "shares": 120000.0,
+   "cost": 30000.0,
+   "max_shares": 120000.0,
+   "last_trade_ts": 1783444018
   }
  },
  "positions": [
@@ -3283,6 +3302,24 @@
    "copy_delay_min": 9.8,
    "best_ask": 0.38,
    "ask_depth": 126.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110840959246266592933614123098645754584062212686156145110406273513724979218376",
+   "condition_id": "0x9f0b598db121eee6f84113c41f17f03ea04e6cba753cccba1a39f721e2aa0163",
+   "title": "Argentina vs. Egypt: O/U 3.5",
+   "outcome": "Over",
+   "slug": "fifwc-arg-egy-2026-07-07-more-markets",
+   "opened_at": "2026-07-07T17:10:51.265579+00:00",
+   "entry_price": 0.2375,
+   "shares": 420.9942,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 30000.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.23,
+   "ask_depth": 103.86,
    "status": "open"
   }
  ],
@@ -4068,5 +4105,5 @@
   }
  ],
  "total_pnl": -233.6754,
- "last_updated": "2026-07-07T16:50:55.070593+00:00"
+ "last_updated": "2026-07-07T17:10:51.779125+00:00"
 }
