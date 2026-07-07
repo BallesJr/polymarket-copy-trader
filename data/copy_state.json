@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9329.3383006,
+ "bankroll": 9229.3383006,
  "last_seen": {
-  "jtwyslljy": 1783438808,
+  "jtwyslljy": 1783439950,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2441,6 +2441,20 @@
    "BUY",
    4781.95,
    1783438808
+  ],
+  [
+   "0x1dfa76a533048b213f6802e17e38a675dec82f143a75fe8cc20b57703d766ef9",
+   "32416183037253537110250743714067621855761298044523860318616963052023268394995",
+   "BUY",
+   3999.99,
+   1783439453
+  ],
+  [
+   "0x8ea06cc3affbb78e2698b48afaba8d99b092b515f8309863f037ff4825996992",
+   "65153945878003754040337604701661751644439825992768932338975436339166807792069",
+   "BUY",
+   14999.99,
+   1783439950
   ]
  ],
  "leader_pos": {
@@ -3027,10 +3041,22 @@
    "title": "Wimbledon WTA: Naomi Osaka vs Karolina Muchova",
    "outcome": "Naomi Osaka",
    "slug": "wta-osaka-muchova-2026-07-07",
-   "shares": 129782.53,
-   "cost": 55199.0101,
-   "max_shares": 129782.53,
-   "last_trade_ts": 1783438808
+   "shares": 133782.52,
+   "cost": 57399.0046,
+   "max_shares": 133782.52,
+   "last_trade_ts": 1783439453
+  },
+  "jtwyslljy|65153945878003754040337604701661751644439825992768932338975436339166807792069": {
+   "leader": "jtwyslljy",
+   "asset": "65153945878003754040337604701661751644439825992768932338975436339166807792069",
+   "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+   "title": "Argentina vs. Egypt: Team to Advance",
+   "outcome": "Egypt",
+   "slug": "fifwc-arg-egy-2026-07-07-more-markets",
+   "shares": 14999.99,
+   "cost": 2099.9986000000004,
+   "max_shares": 14999.99,
+   "last_trade_ts": 1783439950
   }
  },
  "positions": [
@@ -3104,6 +3130,24 @@
    "copy_delay_min": 10.6,
    "best_ask": 0.51,
    "ask_depth": 24452.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65153945878003754040337604701661751644439825992768932338975436339166807792069",
+   "condition_id": "0x7f481c96a3bf0d8292a2515e3dd0e709e5bdd240189b81fc98f8003480b4eb14",
+   "title": "Argentina vs. Egypt: Team to Advance",
+   "outcome": "Egypt",
+   "slug": "fifwc-arg-egy-2026-07-07-more-markets",
+   "opened_at": "2026-07-07T16:01:11.918683+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 2100.0,
+   "copy_delay_min": 2.0,
+   "best_ask": 0.14,
+   "ask_depth": 95863.26,
    "status": "open"
   }
  ],
@@ -3867,5 +3911,5 @@
   }
  ],
  "total_pnl": -270.6617,
- "last_updated": "2026-07-07T15:50:52.169854+00:00"
+ "last_updated": "2026-07-07T16:01:12.248645+00:00"
 }
