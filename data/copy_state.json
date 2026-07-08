@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9729.4756006,
+ "bankroll": 9629.4756006,
  "last_seen": {
-  "jtwyslljy": 1783500118,
+  "jtwyslljy": 1783511948,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2637,6 +2637,13 @@
    "BUY",
    122,
    1783500118
+  ],
+  [
+   "0xa604a5a41a4d5c3fa93d3ad368106eb09fcf47935f33ba9915539da8a94d4d4b",
+   "39742458967549810281647913909526104597857483016584667214804506370416983024892",
+   "BUY",
+   3000,
+   1783511948
   ]
  ],
  "leader_pos": {
@@ -3335,6 +3342,18 @@
    "cost": 2547.8432000000003,
    "max_shares": 5199.68,
    "last_trade_ts": 1783500118
+  },
+  "jtwyslljy|39742458967549810281647913909526104597857483016584667214804506370416983024892": {
+   "leader": "jtwyslljy",
+   "asset": "39742458967549810281647913909526104597857483016584667214804506370416983024892",
+   "condition_id": "0x00a98be91394689188f2979411d033b64ac94e86fd64c8cdec0e47a44b2b5f2a",
+   "title": "Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini",
+   "outcome": "Jasmine Paolini",
+   "slug": "wta-kostyuk-paolini-2026-07-07",
+   "shares": 3000.0,
+   "cost": 869.9999999999999,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1783511948
   }
  },
  "positions": [
@@ -3372,6 +3391,24 @@
    "copy_delay_min": 8.9,
    "best_ask": 0.49,
    "ask_depth": 52703.87,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39742458967549810281647913909526104597857483016584667214804506370416983024892",
+   "condition_id": "0x00a98be91394689188f2979411d033b64ac94e86fd64c8cdec0e47a44b2b5f2a",
+   "title": "Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini",
+   "outcome": "Jasmine Paolini",
+   "slug": "wta-kostyuk-paolini-2026-07-07",
+   "opened_at": "2026-07-08T12:10:54.043078+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 870.0,
+   "copy_delay_min": 11.8,
+   "best_ask": 0.29,
+   "ask_depth": 37065.89,
    "status": "open"
   }
  ],
@@ -4365,5 +4402,5 @@
   }
  ],
  "total_pnl": -70.52440000000001,
- "last_updated": "2026-07-08T08:50:54.238744+00:00"
+ "last_updated": "2026-07-08T12:10:54.547260+00:00"
 }
