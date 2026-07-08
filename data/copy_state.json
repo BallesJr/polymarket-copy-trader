@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9829.4756006,
+ "bankroll": 9729.4756006,
  "last_seen": {
-  "jtwyslljy": 1783460725,
+  "jtwyslljy": 1783500118,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2623,6 +2623,20 @@
    "BUY",
    3000,
    1783460725
+  ],
+  [
+   "0xa61ae983daf7bdb5cb876a723b544d2eedc210dab77101d32f183a6fb353da3b",
+   "77182240731271426840458461483661918228246646763805233273034766024334059552030",
+   "BUY",
+   5077.68,
+   1783500020
+  ],
+  [
+   "0xce495fb23df27c40adcbb4c94dedced1097095d7e7fa3ffcccf3bff15f2bbb16",
+   "77182240731271426840458461483661918228246646763805233273034766024334059552030",
+   "BUY",
+   122,
+   1783500118
   ]
  ],
  "leader_pos": {
@@ -3309,6 +3323,18 @@
    "cost": 6820.0,
    "max_shares": 11000.0,
    "last_trade_ts": 1783460725
+  },
+  "jtwyslljy|77182240731271426840458461483661918228246646763805233273034766024334059552030": {
+   "leader": "jtwyslljy",
+   "asset": "77182240731271426840458461483661918228246646763805233273034766024334059552030",
+   "condition_id": "0x114792a4173044b81a8235bcdf6b8483c5e4c5efbebd98f687f9863340b300ce",
+   "title": "LoL: G2 Esports vs T1 (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "T1",
+   "slug": "lol-g2-t1-2026-07-08",
+   "shares": 5199.68,
+   "cost": 2547.8432000000003,
+   "max_shares": 5199.68,
+   "last_trade_ts": 1783500118
   }
  },
  "positions": [
@@ -3328,6 +3354,24 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77182240731271426840458461483661918228246646763805233273034766024334059552030",
+   "condition_id": "0x114792a4173044b81a8235bcdf6b8483c5e4c5efbebd98f687f9863340b300ce",
+   "title": "LoL: G2 Esports vs T1 (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "T1",
+   "slug": "lol-g2-t1-2026-07-08",
+   "opened_at": "2026-07-08T08:50:53.784868+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.49,
+   "leader_cost": 2547.84,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.49,
+   "ask_depth": 52703.87,
    "status": "open"
   }
  ],
@@ -4321,5 +4365,5 @@
   }
  ],
  "total_pnl": -70.52440000000001,
- "last_updated": "2026-07-07T23:20:53.490439+00:00"
+ "last_updated": "2026-07-08T08:50:54.238744+00:00"
 }
