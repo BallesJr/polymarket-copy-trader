@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9429.4756006,
+ "bankroll": 9964.8222006,
  "last_seen": {
   "jtwyslljy": 1783522432,
   "0x53757615de": 1783376734
@@ -3480,42 +3480,6 @@
    "best_ask": 0.177,
    "ask_depth": 62420.2,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "35505967917316170117572698646225833534696800439005208039794594782537509275749",
-   "condition_id": "0x4ac818ea083a05fd123b850d67c7e5bbe29964e8819ae414c8f9a86739fe7733",
-   "title": "Wimbledon ATP: Taylor Fritz vs Alexander Zverev",
-   "outcome": "Alexander Zverev",
-   "slug": "atp-fritz-zverev-2026-07-08",
-   "opened_at": "2026-07-08T14:10:59.865454+00:00",
-   "entry_price": 0.47,
-   "shares": 212.766,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 2350.0,
-   "copy_delay_min": 11.7,
-   "best_ask": 0.47,
-   "ask_depth": 71232.52,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "96787259027531267795801606254597178859511283382342814044479156985825017103548",
-   "condition_id": "0xf7266d7d2dafb8632bb8531f6c47320a81ae547581895b8086fdcdf20e51a153",
-   "title": "Wimbledon ATP: Flavio Cobolli vs Arthur Fery",
-   "outcome": "Arthur Fery",
-   "slug": "atp-cobolli-fery-2026-07-08",
-   "opened_at": "2026-07-08T14:31:08.906038+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3399,
-   "leader_cost": 4149.4,
-   "copy_delay_min": 4.2,
-   "best_ask": 0.31,
-   "ask_depth": 18667.06,
-   "status": "open"
   }
  ],
  "closed": [
@@ -4434,6 +4398,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35505967917316170117572698646225833534696800439005208039794594782537509275749",
+   "condition_id": "0x4ac818ea083a05fd123b850d67c7e5bbe29964e8819ae414c8f9a86739fe7733",
+   "title": "Wimbledon ATP: Taylor Fritz vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-fritz-zverev-2026-07-08",
+   "opened_at": "2026-07-08T14:10:59.865454+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 2350.0,
+   "copy_delay_min": 11.7,
+   "best_ask": 0.47,
+   "ask_depth": 71232.52,
+   "status": "won",
+   "closed_at": "2026-07-08T17:07:19.881244+00:00",
+   "exit_price": 1.0,
+   "pnl": 112.766,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "96787259027531267795801606254597178859511283382342814044479156985825017103548",
+   "condition_id": "0xf7266d7d2dafb8632bb8531f6c47320a81ae547581895b8086fdcdf20e51a153",
+   "title": "Wimbledon ATP: Flavio Cobolli vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-cobolli-fery-2026-07-08",
+   "opened_at": "2026-07-08T14:31:08.906038+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3399,
+   "leader_cost": 4149.4,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.31,
+   "ask_depth": 18667.06,
+   "status": "won",
+   "closed_at": "2026-07-08T17:07:20.123044+00:00",
+   "exit_price": 1.0,
+   "pnl": 222.5806,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4551,6 +4559,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -270.5244,
- "last_updated": "2026-07-08T15:01:24.272762+00:00"
+ "total_pnl": 64.82220000000001,
+ "last_updated": "2026-07-08T17:07:20.124433+00:00"
 }
