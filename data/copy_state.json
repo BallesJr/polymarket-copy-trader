@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9529.4756006,
+ "bankroll": 9429.4756006,
  "last_seen": {
-  "jtwyslljy": 1783519156,
+  "jtwyslljy": 1783520816,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2658,6 +2658,27 @@
    "BUY",
    5000,
    1783519156
+  ],
+  [
+   "0x5f2e07ad984c6c5f041b6fc72b0f4e9206f319d5c8795a42dc811cbbb3960c3e",
+   "35505967917316170117572698646225833534696800439005208039794594782537509275749",
+   "BUY",
+   2394.93,
+   1783520422
+  ],
+  [
+   "0xae85811c694ef26fd89e99fcb03f273d5d0e1a1a10e34daa68fd1bf099dfa912",
+   "96787259027531267795801606254597178859511283382342814044479156985825017103548",
+   "BUY",
+   9778.58,
+   1783520726
+  ],
+  [
+   "0xe10efb69331272eaae125cd45719d6aad0da09e40117dc8b1427eae1f2d5ea52",
+   "96787259027531267795801606254597178859511283382342814044479156985825017103548",
+   "BUY",
+   2427.54,
+   1783520816
   ]
  ],
  "leader_pos": {
@@ -3388,10 +3409,22 @@
    "title": "Wimbledon ATP: Taylor Fritz vs Alexander Zverev",
    "outcome": "Alexander Zverev",
    "slug": "atp-fritz-zverev-2026-07-08",
-   "shares": 5000.0,
-   "cost": 2350.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1783519156
+   "shares": 7394.93,
+   "cost": 3475.6171,
+   "max_shares": 7394.93,
+   "last_trade_ts": 1783520422
+  },
+  "jtwyslljy|96787259027531267795801606254597178859511283382342814044479156985825017103548": {
+   "leader": "jtwyslljy",
+   "asset": "96787259027531267795801606254597178859511283382342814044479156985825017103548",
+   "condition_id": "0xf7266d7d2dafb8632bb8531f6c47320a81ae547581895b8086fdcdf20e51a153",
+   "title": "Wimbledon ATP: Flavio Cobolli vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-cobolli-fery-2026-07-08",
+   "shares": 12206.119999999999,
+   "cost": 4149.3966,
+   "max_shares": 12206.119999999999,
+   "last_trade_ts": 1783520816
   }
  },
  "positions": [
@@ -3415,24 +3448,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "39742458967549810281647913909526104597857483016584667214804506370416983024892",
-   "condition_id": "0x00a98be91394689188f2979411d033b64ac94e86fd64c8cdec0e47a44b2b5f2a",
-   "title": "Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini",
-   "outcome": "Jasmine Paolini",
-   "slug": "wta-kostyuk-paolini-2026-07-07",
-   "opened_at": "2026-07-08T12:10:54.043078+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 870.0,
-   "copy_delay_min": 11.8,
-   "best_ask": 0.29,
-   "ask_depth": 37065.89,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "35505967917316170117572698646225833534696800439005208039794594782537509275749",
    "condition_id": "0x4ac818ea083a05fd123b850d67c7e5bbe29964e8819ae414c8f9a86739fe7733",
    "title": "Wimbledon ATP: Taylor Fritz vs Alexander Zverev",
@@ -3447,6 +3462,24 @@
    "copy_delay_min": 11.7,
    "best_ask": 0.47,
    "ask_depth": 71232.52,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "96787259027531267795801606254597178859511283382342814044479156985825017103548",
+   "condition_id": "0xf7266d7d2dafb8632bb8531f6c47320a81ae547581895b8086fdcdf20e51a153",
+   "title": "Wimbledon ATP: Flavio Cobolli vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-cobolli-fery-2026-07-08",
+   "opened_at": "2026-07-08T14:31:08.906038+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3399,
+   "leader_cost": 4149.4,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.31,
+   "ask_depth": 18667.06,
    "status": "open"
   }
  ],
@@ -4344,6 +4377,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39742458967549810281647913909526104597857483016584667214804506370416983024892",
+   "condition_id": "0x00a98be91394689188f2979411d033b64ac94e86fd64c8cdec0e47a44b2b5f2a",
+   "title": "Wimbledon WTA: Marta Kostyuk vs Jasmine Paolini",
+   "outcome": "Jasmine Paolini",
+   "slug": "wta-kostyuk-paolini-2026-07-07",
+   "opened_at": "2026-07-08T12:10:54.043078+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 870.0,
+   "copy_delay_min": 11.8,
+   "best_ask": 0.29,
+   "ask_depth": 37065.89,
+   "status": "lost",
+   "closed_at": "2026-07-08T14:31:09.540619+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4461,6 +4516,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -170.5244,
- "last_updated": "2026-07-08T14:11:00.149534+00:00"
+ "total_pnl": -270.5244,
+ "last_updated": "2026-07-08T14:31:09.541748+00:00"
 }
