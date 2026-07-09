@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9664.8222006,
+ "bankroll": 9908.7246006,
  "last_seen": {
   "jtwyslljy": 1783615109,
   "0x53757615de": 1783376734
@@ -3583,24 +3583,6 @@
    "best_ask": 0.48,
    "ask_depth": 9809.89,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "20327630055362949376608003802566227463418678659463883922638057682331855766484",
-   "condition_id": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
-   "title": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
-   "outcome": "Linda Noskova",
-   "slug": "wta-kostyuk-noskova-2026-07-09",
-   "opened_at": "2026-07-09T15:40:51.830197+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 11455.54,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.41,
-   "ask_depth": 149119.51,
-   "status": "open"
   }
  ],
  "closed": [
@@ -4585,6 +4567,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20327630055362949376608003802566227463418678659463883922638057682331855766484",
+   "condition_id": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
+   "title": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-kostyuk-noskova-2026-07-09",
+   "opened_at": "2026-07-09T15:40:51.830197+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 11455.54,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.41,
+   "ask_depth": 149119.51,
+   "status": "won",
+   "closed_at": "2026-07-09T17:50:56.572883+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4702,6 +4706,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -35.17779999999999,
- "last_updated": "2026-07-09T16:50:54.535700+00:00"
+ "total_pnl": 108.72460000000001,
+ "last_updated": "2026-07-09T17:50:56.573886+00:00"
 }
