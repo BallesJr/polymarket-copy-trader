@@ -3579,24 +3579,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "84180726558854659384790404073041615015423385919544652844565600384561795294007",
-   "condition_id": "0x04068db9551ef3a2ad5212a54ba6a19bfe53c2c9c5bd15b57a751bec0ecd69ed",
-   "title": "Wimbledon WTA: Karolina Muchova vs Coco Gauff",
-   "outcome": "Coco Gauff",
-   "slug": "wta-muchova-gauff-2026-07-09",
-   "opened_at": "2026-07-09T14:20:49.184143+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 8094.24,
-   "copy_delay_min": 1.7,
-   "best_ask": 0.38,
-   "ask_depth": 13125.96,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "20327630055362949376608003802566227463418678659463883922638057682331855766484",
    "condition_id": "0xd7cf3f4318d38dd719f1e14f0220d34f9c8900dfb6fbd96fdb2aacad9eccff26",
    "title": "Wimbledon WTA: Marta Kostyuk vs Linda Noskova",
@@ -4574,6 +4556,28 @@
    "exit_price": 1.0,
    "pnl": 222.5806,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84180726558854659384790404073041615015423385919544652844565600384561795294007",
+   "condition_id": "0x04068db9551ef3a2ad5212a54ba6a19bfe53c2c9c5bd15b57a751bec0ecd69ed",
+   "title": "Wimbledon WTA: Karolina Muchova vs Coco Gauff",
+   "outcome": "Coco Gauff",
+   "slug": "wta-muchova-gauff-2026-07-09",
+   "opened_at": "2026-07-09T14:20:49.184143+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 8094.24,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.38,
+   "ask_depth": 13125.96,
+   "status": "lost",
+   "closed_at": "2026-07-09T16:01:14.586966+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4691,6 +4695,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": 64.82220000000001,
- "last_updated": "2026-07-09T15:50:54.369991+00:00"
+ "total_pnl": -35.17779999999999,
+ "last_updated": "2026-07-09T16:01:14.588039+00:00"
 }
