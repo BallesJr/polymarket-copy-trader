@@ -3565,24 +3565,6 @@
    "best_ask": 0.177,
    "ask_depth": 62420.2,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "24083169434498806127091013449122138248265644532293834315864139795420134764475",
-   "condition_id": "0x6681aa4796da536f4cd229bf25da9d71616ada63ce3f0cffcd06ab933fc8e95c",
-   "title": "Kylian Mbapp\u00e9: 1+ goals",
-   "outcome": "No",
-   "slug": "fifwc-fra-mar-2026-07-09-player-props",
-   "opened_at": "2026-07-09T13:22:01.546694+00:00",
-   "entry_price": 0.48,
-   "shares": 208.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 4176.0,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.48,
-   "ask_depth": 9809.89,
-   "status": "open"
   }
  ],
  "closed": [
@@ -4589,6 +4571,28 @@
    "exit_price": 1.0,
    "pnl": 143.9024,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24083169434498806127091013449122138248265644532293834315864139795420134764475",
+   "condition_id": "0x6681aa4796da536f4cd229bf25da9d71616ada63ce3f0cffcd06ab933fc8e95c",
+   "title": "Kylian Mbapp\u00e9: 1+ goals",
+   "outcome": "No",
+   "slug": "fifwc-fra-mar-2026-07-09-player-props",
+   "opened_at": "2026-07-09T13:22:01.546694+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 4176.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.48,
+   "ask_depth": 9809.89,
+   "status": "lost",
+   "closed_at": "2026-07-09T22:31:09.572424+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4706,6 +4710,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": 108.72460000000001,
- "last_updated": "2026-07-09T17:50:56.573886+00:00"
+ "total_pnl": 8.72460000000001,
+ "last_updated": "2026-07-09T22:31:09.572995+00:00"
 }
