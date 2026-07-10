@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9678.9949006,
+ "bankroll": 9578.9949006,
  "last_seen": {
-  "jtwyslljy": 1783695094,
+  "jtwyslljy": 1783708727,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2896,6 +2896,13 @@
    "BUY",
    6000,
    1783695094
+  ],
+  [
+   "0x5a98500a23681a5756185d8a0ef34653eb62e6d3137fbb22c4e489e48d43be44",
+   "21405449279940426278777207137562894227126690418667779232515511570008139763030",
+   "BUY",
+   2144.43,
+   1783708727
   ]
  ],
  "leader_pos": {
@@ -3750,6 +3757,18 @@
    "cost": -2717.03068,
    "max_shares": 0.0,
    "last_trade_ts": 1783695059
+  },
+  "jtwyslljy|21405449279940426278777207137562894227126690418667779232515511570008139763030": {
+   "leader": "jtwyslljy",
+   "asset": "21405449279940426278777207137562894227126690418667779232515511570008139763030",
+   "condition_id": "0xd89de0768d92ccab0dc20d9f2045f1509463b6582c203bb907e03fb02be4a1d0",
+   "title": "Spain to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-bel-2026-07-10-second-half-result",
+   "shares": 2144.43,
+   "cost": 1029.3264,
+   "max_shares": 2144.43,
+   "last_trade_ts": 1783708727
   }
  },
  "positions": [
@@ -3769,6 +3788,24 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21405449279940426278777207137562894227126690418667779232515511570008139763030",
+   "condition_id": "0xd89de0768d92ccab0dc20d9f2045f1509463b6582c203bb907e03fb02be4a1d0",
+   "title": "Spain to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-bel-2026-07-10-second-half-result",
+   "opened_at": "2026-07-10T18:40:56.125852+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 1029.33,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.5,
+   "ask_depth": 1127.26,
    "status": "open"
   }
  ],
@@ -5026,5 +5063,5 @@
   }
  ],
  "total_pnl": -221.0051,
- "last_updated": "2026-07-10T18:31:14.577900+00:00"
+ "last_updated": "2026-07-10T18:40:56.584268+00:00"
 }
