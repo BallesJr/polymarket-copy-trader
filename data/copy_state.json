@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9608.7246006,
+ "bankroll": 9508.7246006,
  "last_seen": {
-  "jtwyslljy": 1783692302,
+  "jtwyslljy": 1783693199,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2840,6 +2840,13 @@
    "BUY",
    3490.26,
    1783692302
+  ],
+  [
+   "0x584d4f1fa601a50e02a24c922120e863fecf671b06635045d45fca9e61c74350",
+   "89172085498850263770749462499829924007504184923559290169129881436720355015835",
+   "BUY",
+   7506.22,
+   1783693199
   ]
  ],
  "leader_pos": {
@@ -3658,6 +3665,18 @@
    "cost": 27342.3183,
    "max_shares": 68507.87999999999,
    "last_trade_ts": 1783692302
+  },
+  "jtwyslljy|89172085498850263770749462499829924007504184923559290169129881436720355015835": {
+   "leader": "jtwyslljy",
+   "asset": "89172085498850263770749462499829924007504184923559290169129881436720355015835",
+   "condition_id": "0x69a96866dbe27fe9b299bc38eb91196788324b796437c6769c2e007fe3bca5a0",
+   "title": "Set Handicap: Sinner (-2.5) vs Djokovic (+2.5)",
+   "outcome": "Sinner",
+   "slug": "atp-sinner-djokovi-2026-07-08",
+   "shares": 7506.22,
+   "cost": 2702.2392,
+   "max_shares": 7506.22,
+   "last_trade_ts": 1783693199
   }
  },
  "positions": [
@@ -3695,6 +3714,24 @@
    "copy_delay_min": 8.8,
    "best_ask": 0.59,
    "ask_depth": 26.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "89172085498850263770749462499829924007504184923559290169129881436720355015835",
+   "condition_id": "0x69a96866dbe27fe9b299bc38eb91196788324b796437c6769c2e007fe3bca5a0",
+   "title": "Set Handicap: Sinner (-2.5) vs Djokovic (+2.5)",
+   "outcome": "Sinner",
+   "slug": "atp-sinner-djokovi-2026-07-08",
+   "opened_at": "2026-07-10T14:31:03.700523+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2702.24,
+   "copy_delay_min": 11.1,
+   "best_ask": 0.37,
+   "ask_depth": 19001.55,
    "status": "open"
   }
  ],
@@ -4886,5 +4923,5 @@
   }
  ],
  "total_pnl": -191.2754,
- "last_updated": "2026-07-10T14:10:57.453666+00:00"
+ "last_updated": "2026-07-10T14:31:04.021805+00:00"
 }
