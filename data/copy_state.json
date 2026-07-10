@@ -3773,24 +3773,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "31140312449306243357485673076513780058913923746314432889225280212992730214964",
-   "condition_id": "0x98246e71eeea4006e77c0218bff17be6ff5aead33f06dae15bc8f651e2aa7323",
-   "title": "Counter-Strike: FaZe vs BetBoom Team (BO3) - XSE Pro League Playoffs",
-   "outcome": "BetBoom Team",
-   "slug": "cs2-faze-bb3-2026-07-10",
-   "opened_at": "2026-07-10T11:50:56.474380+00:00",
-   "entry_price": 0.5984,
-   "shares": 167.107,
-   "stake": 100.0,
-   "leader_vwap": 0.61,
-   "leader_cost": 6100.0,
-   "copy_delay_min": 8.8,
-   "best_ask": 0.59,
-   "ask_depth": 26.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "89172085498850263770749462499829924007504184923559290169129881436720355015835",
    "condition_id": "0x69a96866dbe27fe9b299bc38eb91196788324b796437c6769c2e007fe3bca5a0",
    "title": "Set Handicap: Sinner (-2.5) vs Djokovic (+2.5)",
@@ -4896,6 +4878,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31140312449306243357485673076513780058913923746314432889225280212992730214964",
+   "condition_id": "0x98246e71eeea4006e77c0218bff17be6ff5aead33f06dae15bc8f651e2aa7323",
+   "title": "Counter-Strike: FaZe vs BetBoom Team (BO3) - XSE Pro League Playoffs",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-faze-bb3-2026-07-10",
+   "opened_at": "2026-07-10T11:50:56.474380+00:00",
+   "entry_price": 0.5984,
+   "shares": 167.107,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 6100.0,
+   "copy_delay_min": 8.8,
+   "best_ask": 0.59,
+   "ask_depth": 26.42,
+   "status": "lost",
+   "closed_at": "2026-07-10T16:31:05.034247+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5013,6 +5017,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -191.2754,
- "last_updated": "2026-07-10T15:01:15.666306+00:00"
+ "total_pnl": -291.2754,
+ "last_updated": "2026-07-10T16:31:05.035306+00:00"
 }
