@@ -3892,42 +3892,6 @@
    "status": "open"
   },
   {
-   "leader": "jtwyslljy",
-   "asset": "21405449279940426278777207137562894227126690418667779232515511570008139763030",
-   "condition_id": "0xd89de0768d92ccab0dc20d9f2045f1509463b6582c203bb907e03fb02be4a1d0",
-   "title": "Spain to win the second half?",
-   "outcome": "No",
-   "slug": "fifwc-esp-bel-2026-07-10-second-half-result",
-   "opened_at": "2026-07-10T18:40:56.125852+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 1029.33,
-   "copy_delay_min": 2.1,
-   "best_ask": 0.5,
-   "ask_depth": 1127.26,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "87004704450340662630452254179921033526720310358232052759253551781798129052057",
-   "condition_id": "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d",
-   "title": "Will Spain win on 2026-07-10?",
-   "outcome": "No",
-   "slug": "fifwc-esp-bel-2026-07-10",
-   "opened_at": "2026-07-10T19:01:11.437873+00:00",
-   "entry_price": 0.405,
-   "shares": 246.9136,
-   "stake": 100.0,
-   "leader_vwap": 0.415,
-   "leader_cost": 4150.0,
-   "copy_delay_min": 11.8,
-   "best_ask": 0.405,
-   "ask_depth": 23935.25,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "77121637225348873006259930776623502125079210522997384841464684944292365296940",
    "condition_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
@@ -5082,6 +5046,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21405449279940426278777207137562894227126690418667779232515511570008139763030",
+   "condition_id": "0xd89de0768d92ccab0dc20d9f2045f1509463b6582c203bb907e03fb02be4a1d0",
+   "title": "Spain to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-bel-2026-07-10-second-half-result",
+   "opened_at": "2026-07-10T18:40:56.125852+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 1029.33,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.5,
+   "ask_depth": 1127.26,
+   "status": "lost",
+   "closed_at": "2026-07-10T21:41:01.808063+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87004704450340662630452254179921033526720310358232052759253551781798129052057",
+   "condition_id": "0x2c37e07b722442c2381fac76f8564d580660aa028066e08bad1b32bd11813e9d",
+   "title": "Will Spain win on 2026-07-10?",
+   "outcome": "No",
+   "slug": "fifwc-esp-bel-2026-07-10",
+   "opened_at": "2026-07-10T19:01:11.437873+00:00",
+   "entry_price": 0.405,
+   "shares": 246.9136,
+   "stake": 100.0,
+   "leader_vwap": 0.415,
+   "leader_cost": 4150.0,
+   "copy_delay_min": 11.8,
+   "best_ask": 0.405,
+   "ask_depth": 23935.25,
+   "status": "lost",
+   "closed_at": "2026-07-10T21:41:02.112019+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5199,6 +5207,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": -221.0051,
- "last_updated": "2026-07-10T20:11:02.688677+00:00"
+ "total_pnl": -421.00509999999997,
+ "last_updated": "2026-07-10T21:41:02.113042+00:00"
 }
