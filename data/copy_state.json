@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9608.7246006,
  "last_seen": {
-  "jtwyslljy": 1783683725,
+  "jtwyslljy": 1783690058,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2805,6 +2805,13 @@
    "BUY",
    10000,
    1783683725
+  ],
+  [
+   "0x4ea166820a4a591e11d0e2bc73fb2659a6fea771913e400ee490f870a2efdd34",
+   "31140312449306243357485673076513780058913923746314432889225280212992730214964",
+   "BUY",
+   10896.18,
+   1783690058
   ]
  ],
  "leader_pos": {
@@ -3619,10 +3626,10 @@
    "title": "Counter-Strike: FaZe vs BetBoom Team (BO3) - XSE Pro League Playoffs",
    "outcome": "BetBoom Team",
    "slug": "cs2-faze-bb3-2026-07-10",
-   "shares": 10000.0,
-   "cost": 6100.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1783683725
+   "shares": 20896.18,
+   "cost": 10131.5866,
+   "max_shares": 20896.18,
+   "last_trade_ts": 1783690058
   }
  },
  "positions": [
@@ -3642,42 +3649,6 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "36672524051099400704479350956933470211496007520976133070767770909332705741584",
-   "condition_id": "0x9023eedb2645ee65bccb6aa93753b26b837e98ac64f065e1acdac188aff54b2b",
-   "title": "LoL: G2 Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
-   "outcome": "G2 Esports",
-   "slug": "lol-g2-ly-2026-07-10",
-   "opened_at": "2026-07-10T08:11:06.543205+00:00",
-   "entry_price": 0.78,
-   "shares": 128.2051,
-   "stake": 100.0,
-   "leader_vwap": 0.78,
-   "leader_cost": 2340.0,
-   "copy_delay_min": 10.9,
-   "best_ask": 0.78,
-   "ask_depth": 99797.28,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "4412015467212126587933624595016040490147232532113374617505984476507080366937",
-   "condition_id": "0xec9968c168aa2a617f4120926352ffe0671e393d4217abcae2d7175c2f3de5c4",
-   "title": "Game Handicap: G2 (-1.5) vs LYON (+1.5)",
-   "outcome": "G2 Esports",
-   "slug": "lol-g2-ly-2026-07-10",
-   "opened_at": "2026-07-10T08:11:06.543271+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.63,
-   "leader_cost": 3150.0,
-   "copy_delay_min": 12.1,
-   "best_ask": 0.63,
-   "ask_depth": 26742.04,
    "status": "open"
   },
   {
@@ -4725,6 +4696,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36672524051099400704479350956933470211496007520976133070767770909332705741584",
+   "condition_id": "0x9023eedb2645ee65bccb6aa93753b26b837e98ac64f065e1acdac188aff54b2b",
+   "title": "LoL: G2 Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "G2 Esports",
+   "slug": "lol-g2-ly-2026-07-10",
+   "opened_at": "2026-07-10T08:11:06.543205+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.78,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 10.9,
+   "best_ask": 0.78,
+   "ask_depth": 99797.28,
+   "status": "lost",
+   "closed_at": "2026-07-10T13:31:09.339361+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4412015467212126587933624595016040490147232532113374617505984476507080366937",
+   "condition_id": "0xec9968c168aa2a617f4120926352ffe0671e393d4217abcae2d7175c2f3de5c4",
+   "title": "Game Handicap: G2 (-1.5) vs LYON (+1.5)",
+   "outcome": "G2 Esports",
+   "slug": "lol-g2-ly-2026-07-10",
+   "opened_at": "2026-07-10T08:11:06.543271+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.63,
+   "leader_cost": 3150.0,
+   "copy_delay_min": 12.1,
+   "best_ask": 0.63,
+   "ask_depth": 26742.04,
+   "status": "lost",
+   "closed_at": "2026-07-10T13:31:09.650217+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -4842,6 +4857,6 @@
    "outcome": "Novak Djokovic"
   }
  ],
- "total_pnl": 8.72460000000001,
- "last_updated": "2026-07-10T11:50:56.892544+00:00"
+ "total_pnl": -191.2754,
+ "last_updated": "2026-07-10T13:31:09.651061+00:00"
 }
