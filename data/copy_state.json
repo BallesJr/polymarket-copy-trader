@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9608.7246006,
  "last_seen": {
-  "jtwyslljy": 1783690760,
+  "jtwyslljy": 1783692302,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2833,6 +2833,13 @@
    "SELL",
    1027.47,
    1783690760
+  ],
+  [
+   "0xf3161d53ac389d5981e78908c4ce1fef4ec7a17be5f6150f8258b2caa6337c93",
+   "31140312449306243357485673076513780058913923746314432889225280212992730214964",
+   "BUY",
+   3490.26,
+   1783692302
   ]
  ],
  "leader_pos": {
@@ -3647,10 +3654,10 @@
    "title": "Counter-Strike: FaZe vs BetBoom Team (BO3) - XSE Pro League Playoffs",
    "outcome": "BetBoom Team",
    "slug": "cs2-faze-bb3-2026-07-10",
-   "shares": 65017.619999999995,
-   "cost": 27167.8053,
-   "max_shares": 66045.09,
-   "last_trade_ts": 1783690760
+   "shares": 68507.87999999999,
+   "cost": 27342.3183,
+   "max_shares": 68507.87999999999,
+   "last_trade_ts": 1783692302
   }
  },
  "positions": [
@@ -4879,5 +4886,5 @@
   }
  ],
  "total_pnl": -191.2754,
- "last_updated": "2026-07-10T13:51:14.516550+00:00"
+ "last_updated": "2026-07-10T14:10:57.453666+00:00"
 }
