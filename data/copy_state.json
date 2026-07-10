@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9378.9949006,
  "last_seen": {
-  "jtwyslljy": 1783713611,
+  "jtwyslljy": 1783719409,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -2980,6 +2980,13 @@
    "BUY",
    4451.51,
    1783713611
+  ],
+  [
+   "0xb6fcaf4005203eaed927d6e1a4711e89d6aeff06ba8a8d66587bcfc0a9d62994",
+   "52846475039538560189343727840584717159310541827864355628003781953113267573629",
+   "BUY",
+   299.38,
+   1783719409
   ]
  ],
  "leader_pos": {
@@ -3870,6 +3877,18 @@
    "cost": 2747.82768,
    "max_shares": 3255.72,
    "last_trade_ts": 1783712023
+  },
+  "jtwyslljy|52846475039538560189343727840584717159310541827864355628003781953113267573629": {
+   "leader": "jtwyslljy",
+   "asset": "52846475039538560189343727840584717159310541827864355628003781953113267573629",
+   "condition_id": "0x19d91726bcf03963b3e1e7a77c78ffe89207ddbfcbc7d120fbbab44e8a1d6e5c",
+   "title": "Counter-Strike: largadosypelados vs paiN (BO3) - RES Showdown South America Playoffs",
+   "outcome": "paiN",
+   "slug": "cs2-ldp-pain-2026-07-10",
+   "shares": 299.38,
+   "cost": 215.540599992322,
+   "max_shares": 299.38,
+   "last_trade_ts": 1783719409
   }
  },
  "positions": [
@@ -5208,5 +5227,5 @@
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-10T21:41:02.113042+00:00"
+ "last_updated": "2026-07-10T21:43:50.924244+00:00"
 }
