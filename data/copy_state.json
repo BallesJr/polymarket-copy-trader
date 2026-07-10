@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9508.7246006,
+ "bankroll": 9408.7246006,
  "last_seen": {
-  "jtwyslljy": 1783694026,
+  "jtwyslljy": 1783694767,
   "0x53757615de": 1783376734
  },
  "seen_keys": [
@@ -2861,6 +2861,27 @@
    "BUY",
    8863.65,
    1783694026
+  ],
+  [
+   "0x7051ab12d28b919c5ccc3f0bb1996c5b9a49395b1b1c6f4252153ef19b5917d4",
+   "89172085498850263770749462499829924007504184923559290169129881436720355015835",
+   "BUY",
+   136,
+   1783694453
+  ],
+  [
+   "0x820c088877f5cd5d41bd6552a2aa7c0b1448708edb0e23a9d76f36b5d47801dc",
+   "1959412866692185789324499315644486550124994570117004262795754352991182983341",
+   "BUY",
+   45000,
+   1783694723
+  ],
+  [
+   "0x487bab8db541aed20df386d51b79ac46765e57acbdda071643dd30c1d71bf36a",
+   "1959412866692185789324499315644486550124994570117004262795754352991182983341",
+   "BUY",
+   1000,
+   1783694767
   ]
  ],
  "leader_pos": {
@@ -3687,10 +3708,22 @@
    "title": "Set Handicap: Sinner (-2.5) vs Djokovic (+2.5)",
    "outcome": "Sinner",
    "slug": "atp-sinner-djokovi-2026-07-08",
-   "shares": 17863.870000000003,
-   "cost": 6638.1462,
-   "max_shares": 17863.870000000003,
-   "last_trade_ts": 1783694026
+   "shares": 17999.870000000003,
+   "cost": 6692.5462,
+   "max_shares": 17999.870000000003,
+   "last_trade_ts": 1783694453
+  },
+  "jtwyslljy|1959412866692185789324499315644486550124994570117004262795754352991182983341": {
+   "leader": "jtwyslljy",
+   "asset": "1959412866692185789324499315644486550124994570117004262795754352991182983341",
+   "condition_id": "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8",
+   "title": "Wimbledon ATP: Jannik Sinner vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-sinner-djokovi-2026-07-08",
+   "shares": 46000.0,
+   "cost": 8280.0,
+   "max_shares": 46000.0,
+   "last_trade_ts": 1783694767
   }
  },
  "positions": [
@@ -3746,6 +3779,24 @@
    "copy_delay_min": 11.1,
    "best_ask": 0.37,
    "ask_depth": 19001.55,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1959412866692185789324499315644486550124994570117004262795754352991182983341",
+   "condition_id": "0x004d381f7d632fcf39610994958ef02295e0bb2b4341b212602bc2f7331550e8",
+   "title": "Wimbledon ATP: Jannik Sinner vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-sinner-djokovi-2026-07-08",
+   "opened_at": "2026-07-10T14:50:58.970525+00:00",
+   "entry_price": 0.18,
+   "shares": 555.5556,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 8280.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.18,
+   "ask_depth": 58023.62,
    "status": "open"
   }
  ],
@@ -4937,5 +4988,5 @@
   }
  ],
  "total_pnl": -191.2754,
- "last_updated": "2026-07-10T14:40:54.229261+00:00"
+ "last_updated": "2026-07-10T14:50:59.272866+00:00"
 }
