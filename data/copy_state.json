@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9178.9949006,
  "last_seen": {
-  "jtwyslljy": 1783769417,
+  "jtwyslljy": 1783771438,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3022,6 +3022,13 @@
    "BUY",
    110348.07,
    1783769417
+  ],
+  [
+   "0x92e5d1037047b9e1f8d0c8f8e3adaa3b2f99ab2e7d901a24f027e147d5df903a",
+   "106618579082857173205099187418291680068349149870923665139597643374871754972322",
+   "BUY",
+   6168.47,
+   1783771438
   ]
  ],
  "leader_pos": {
@@ -3948,6 +3955,18 @@
    "cost": 35630.483100000005,
    "max_shares": 125348.07,
    "last_trade_ts": 1783769417
+  },
+  "jtwyslljy|106618579082857173205099187418291680068349149870923665139597643374871754972322": {
+   "leader": "jtwyslljy",
+   "asset": "106618579082857173205099187418291680068349149870923665139597643374871754972322",
+   "condition_id": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-hle1-ly-2026-07-11",
+   "shares": 6168.47,
+   "cost": 5983.4159,
+   "max_shares": 6168.47,
+   "last_trade_ts": 1783771438
   }
  },
  "positions": [
@@ -5319,8 +5338,16 @@
    "leader": "jtwyslljy",
    "title": "Wimbledon ATP: Felix Auger-Aliassime vs Novak Djokovic",
    "outcome": "Novak Djokovic"
+  },
+  {
+   "at": "2026-07-11T12:09:47.426091+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Hanwha Life Esports"
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-11T11:40:56.916673+00:00"
+ "last_updated": "2026-07-11T12:09:47.716843+00:00"
 }
