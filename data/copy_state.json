@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9078.9949006,
  "last_seen": {
-  "jtwyslljy": 1783786343,
+  "jtwyslljy": 1783787641,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3071,6 +3071,13 @@
    "BUY",
    12277.06,
    1783786343
+  ],
+  [
+   "0x5aea41770d29bfe2b22ac7f743c0fc75dabb51d239e60776fc97e3d99c183a1c",
+   "86055118242456423608991047651994876723011431605683123927757362733915681288062",
+   "BUY",
+   5000,
+   1783787641
   ]
  ],
  "leader_pos": {
@@ -4033,6 +4040,18 @@
    "cost": 271.366,
    "max_shares": 405.1,
    "last_trade_ts": 1783782569
+  },
+  "jtwyslljy|86055118242456423608991047651994876723011431605683123927757362733915681288062": {
+   "leader": "jtwyslljy",
+   "asset": "86055118242456423608991047651994876723011431605683123927757362733915681288062",
+   "condition_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
+   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-noskova-2026-07-11",
+   "shares": 5000.0,
+   "cost": 470.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1783787641
   }
  },
  "positions": [
@@ -5437,5 +5456,5 @@
   }
  ],
  "total_pnl": -521.0051,
- "last_updated": "2026-07-11T16:20:58.575507+00:00"
+ "last_updated": "2026-07-11T16:40:58.429664+00:00"
 }
