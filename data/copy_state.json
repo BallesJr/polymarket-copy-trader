@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9117.0901006,
+ "bankroll": 9017.0901006,
  "last_seen": {
-  "jtwyslljy": 1783796629,
+  "jtwyslljy": 1783797244,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3162,6 +3162,20 @@
    "BUY",
    10000,
    1783796629
+  ],
+  [
+   "0xcebe051ce4b638b43e5d1a8bb9014114fb5c21f5c4a7e99192eb589408c4d287",
+   "75261092110629471141957150722782645337375336365374392162186146919671663917530",
+   "BUY",
+   10525.95,
+   1783797193
+  ],
+  [
+   "0xdfea21a42426921b018bb5352e1b46cf9b9b7240dd98a5e60a08ab944b532535",
+   "75261092110629471141957150722782645337375336365374392162186146919671663917530",
+   "SELL",
+   14,
+   1783797244
   ]
  ],
  "leader_pos": {
@@ -4172,6 +4186,18 @@
    "cost": 8714.0119,
    "max_shares": 42000.39,
    "last_trade_ts": 1783796629
+  },
+  "jtwyslljy|75261092110629471141957150722782645337375336365374392162186146919671663917530": {
+   "leader": "jtwyslljy",
+   "asset": "75261092110629471141957150722782645337375336365374392162186146919671663917530",
+   "condition_id": "0x86b698f3e53164683d6f3dc75b6aa146036c9b127a7caeee13540a8ed520061c",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-mil-pit-2026-07-11",
+   "shares": 10511.95,
+   "cost": 4730.3775000000005,
+   "max_shares": 10525.95,
+   "last_trade_ts": 1783797244
   }
  },
  "positions": [
@@ -4263,6 +4289,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.16,
    "ask_depth": 41067.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75261092110629471141957150722782645337375336365374392162186146919671663917530",
+   "condition_id": "0x86b698f3e53164683d6f3dc75b6aa146036c9b127a7caeee13540a8ed520061c",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-mil-pit-2026-07-11",
+   "opened_at": "2026-07-11T19:20:55.219939+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 4730.38,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.46,
+   "ask_depth": 23743.26,
    "status": "open"
   }
  ],
@@ -5636,5 +5680,5 @@
   }
  ],
  "total_pnl": -382.9099,
- "last_updated": "2026-07-11T19:10:59.411246+00:00"
+ "last_updated": "2026-07-11T19:20:55.533503+00:00"
 }
