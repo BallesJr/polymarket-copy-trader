@@ -4023,24 +4023,6 @@
    "best_ask": 0.52,
    "ask_depth": 47766.95,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "6699357588293973185016868913194879282426435526644827833401917776680733754936",
-   "condition_id": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
-   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
-   "outcome": "LYON",
-   "slug": "lol-hle1-ly-2026-07-11",
-   "opened_at": "2026-07-11T09:20:58.088517+00:00",
-   "entry_price": 0.06,
-   "shares": 1666.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.0948,
-   "leader_cost": 1422.58,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.06,
-   "ask_depth": 11423.8,
-   "status": "open"
   }
  ],
  "closed": [
@@ -5223,6 +5205,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "condition_id": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "LYON",
+   "slug": "lol-hle1-ly-2026-07-11",
+   "opened_at": "2026-07-11T09:20:58.088517+00:00",
+   "entry_price": 0.06,
+   "shares": 1666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.0948,
+   "leader_cost": 1422.58,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.06,
+   "ask_depth": 11423.8,
+   "status": "lost",
+   "closed_at": "2026-07-11T14:50:54.619206+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5348,6 +5352,6 @@
    "outcome": "Hanwha Life Esports"
   }
  ],
- "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-11T12:09:47.716843+00:00"
+ "total_pnl": -521.0051,
+ "last_updated": "2026-07-11T14:50:54.620353+00:00"
 }
