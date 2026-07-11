@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9278.9949006,
  "last_seen": {
-  "jtwyslljy": 1783753919,
+  "jtwyslljy": 1783754921,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -2994,6 +2994,13 @@
    "BUY",
    8000,
    1783753919
+  ],
+  [
+   "0xbb80d9b56739e35fc0134d83a9846d9eb067c9c9720a450e79c47a510b23a0af",
+   "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "BUY",
+   10000,
+   1783754921
   ]
  ],
  "leader_pos": {
@@ -3904,10 +3911,10 @@
    "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
    "outcome": "FaZe",
    "slug": "cs2-prv-faze-2026-07-11",
-   "shares": 8000.0,
-   "cost": 4080.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1783753919
+   "shares": 18000.0,
+   "cost": 9280.0,
+   "max_shares": 18000.0,
+   "last_trade_ts": 1783754921
   }
  },
  "positions": [
@@ -5264,5 +5271,5 @@
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-11T07:21:01.691142+00:00"
+ "last_updated": "2026-07-11T07:31:06.178286+00:00"
 }
