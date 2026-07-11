@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9178.9949006,
  "last_seen": {
-  "jtwyslljy": 1783761347,
+  "jtwyslljy": 1783769417,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3015,6 +3015,13 @@
    "BUY",
    5000,
    1783761347
+  ],
+  [
+   "0x59e891a0318c3f928a2516287ce2cc658e407ed0ce96b943120683afcf12169b",
+   "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "BUY",
+   110348.07,
+   1783769417
   ]
  ],
  "leader_pos": {
@@ -3937,10 +3944,10 @@
    "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
    "outcome": "LYON",
    "slug": "lol-hle1-ly-2026-07-11",
-   "shares": 15000.0,
-   "cost": 1422.5814,
-   "max_shares": 15000.0,
-   "last_trade_ts": 1783761347
+   "shares": 125348.07,
+   "cost": 35630.483100000005,
+   "max_shares": 125348.07,
+   "last_trade_ts": 1783769417
   }
  },
  "positions": [
@@ -5315,5 +5322,5 @@
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-11T09:20:58.545118+00:00"
+ "last_updated": "2026-07-11T11:40:56.916673+00:00"
 }
