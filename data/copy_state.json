@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9178.9949006,
+ "bankroll": 9078.9949006,
  "last_seen": {
-  "jtwyslljy": 1783771438,
+  "jtwyslljy": 1783782569,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3029,6 +3029,27 @@
    "BUY",
    6168.47,
    1783771438
+  ],
+  [
+   "0x996ecab5b7d7809691a4f4fcbe7a7637d83b88ae9dc9be2e1cd26d26bdb797b7",
+   "6877591429295187381204977907984243539104174752734709721435561210590152772541",
+   "BUY",
+   21400,
+   1783782280
+  ],
+  [
+   "0x8cbc728de76622f201309a942bd60a78165758e577da5ddf04b7eca5f6967163",
+   "93866883016603162466947904199596467841111985374887310018406894759622099444635",
+   "BUY",
+   5.1,
+   1783782526
+  ],
+  [
+   "0x0b47778e9701f2ad74ab4eec206e5a85f828e4c80efef678d575ffb6f0e0aab7",
+   "93866883016603162466947904199596467841111985374887310018406894759622099444635",
+   "BUY",
+   400,
+   1783782569
   ]
  ],
  "leader_pos": {
@@ -3967,6 +3988,30 @@
    "cost": 5983.4159,
    "max_shares": 6168.47,
    "last_trade_ts": 1783771438
+  },
+  "jtwyslljy|6877591429295187381204977907984243539104174752734709721435561210590152772541": {
+   "leader": "jtwyslljy",
+   "asset": "6877591429295187381204977907984243539104174752734709721435561210590152772541",
+   "condition_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
+   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-muchova-noskova-2026-07-11",
+   "shares": 21400.0,
+   "cost": 8988.0,
+   "max_shares": 21400.0,
+   "last_trade_ts": 1783782280
+  },
+  "jtwyslljy|93866883016603162466947904199596467841111985374887310018406894759622099444635": {
+   "leader": "jtwyslljy",
+   "asset": "93866883016603162466947904199596467841111985374887310018406894759622099444635",
+   "condition_id": "0x1c1c08c1378b3db4e8542daeaee3972dd95dca1691bcb87c377dc274ae16d80e",
+   "title": "Set Handicap: Muchova (-1.5) vs Noskova (+1.5)",
+   "outcome": "Noskova",
+   "slug": "wta-muchova-noskova-2026-07-11",
+   "shares": 405.1,
+   "cost": 271.366,
+   "max_shares": 405.1,
+   "last_trade_ts": 1783782569
   }
  },
  "positions": [
@@ -4022,6 +4067,24 @@
    "copy_delay_min": 9.0,
    "best_ask": 0.52,
    "ask_depth": 47766.95,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6877591429295187381204977907984243539104174752734709721435561210590152772541",
+   "condition_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
+   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-muchova-noskova-2026-07-11",
+   "opened_at": "2026-07-11T15:10:51.779426+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 8988.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.42,
+   "ask_depth": 20210.7,
    "status": "open"
   }
  ],
@@ -5353,5 +5416,5 @@
   }
  ],
  "total_pnl": -521.0051,
- "last_updated": "2026-07-11T14:50:54.620353+00:00"
+ "last_updated": "2026-07-11T15:10:52.139090+00:00"
 }
