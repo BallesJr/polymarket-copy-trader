@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9278.9949006,
+ "bankroll": 9178.9949006,
  "last_seen": {
-  "jtwyslljy": 1783754921,
+  "jtwyslljy": 1783761347,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3001,6 +3001,20 @@
    "BUY",
    10000,
    1783754921
+  ],
+  [
+   "0x1c27cc1b803e20ae84d883f25b477f9b100391bb98288e50fb7e05691af370e1",
+   "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "BUY",
+   10000,
+   1783761218
+  ],
+  [
+   "0x5ebbcea4b320b3ce86472d93cc0c4444fb1d90db9153e8119aa32e01681df15c",
+   "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "BUY",
+   5000,
+   1783761347
   ]
  ],
  "leader_pos": {
@@ -3915,6 +3929,18 @@
    "cost": 9280.0,
    "max_shares": 18000.0,
    "last_trade_ts": 1783754921
+  },
+  "jtwyslljy|6699357588293973185016868913194879282426435526644827833401917776680733754936": {
+   "leader": "jtwyslljy",
+   "asset": "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "condition_id": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "LYON",
+   "slug": "lol-hle1-ly-2026-07-11",
+   "shares": 15000.0,
+   "cost": 1422.5814,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1783761347
   }
  },
  "positions": [
@@ -3970,6 +3996,24 @@
    "copy_delay_min": 9.0,
    "best_ask": 0.52,
    "ask_depth": 47766.95,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6699357588293973185016868913194879282426435526644827833401917776680733754936",
+   "condition_id": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+   "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "LYON",
+   "slug": "lol-hle1-ly-2026-07-11",
+   "opened_at": "2026-07-11T09:20:58.088517+00:00",
+   "entry_price": 0.06,
+   "shares": 1666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.0948,
+   "leader_cost": 1422.58,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.06,
+   "ask_depth": 11423.8,
    "status": "open"
   }
  ],
@@ -5271,5 +5315,5 @@
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-11T07:31:06.178286+00:00"
+ "last_updated": "2026-07-11T09:20:58.545118+00:00"
 }
