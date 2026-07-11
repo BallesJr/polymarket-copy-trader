@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9378.9949006,
+ "bankroll": 9278.9949006,
  "last_seen": {
-  "jtwyslljy": 1783719409,
+  "jtwyslljy": 1783753919,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -2987,6 +2987,13 @@
    "BUY",
    299.38,
    1783719409
+  ],
+  [
+   "0x2e5e99e14f6b3c650fd2478733feb810d933a36a96d0be3287357c08a5907499",
+   "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "BUY",
+   8000,
+   1783753919
   ]
  ],
  "leader_pos": {
@@ -3889,6 +3896,18 @@
    "cost": 215.540599992322,
    "max_shares": 299.38,
    "last_trade_ts": 1783719409
+  },
+  "jtwyslljy|40864313339021609490153703141235418831127449222810485805536741221427237614840": {
+   "leader": "jtwyslljy",
+   "asset": "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "condition_id": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
+   "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
+   "outcome": "FaZe",
+   "slug": "cs2-prv-faze-2026-07-11",
+   "shares": 8000.0,
+   "cost": 4080.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1783753919
   }
  },
  "positions": [
@@ -3926,6 +3945,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "condition_id": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
+   "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
+   "outcome": "FaZe",
+   "slug": "cs2-prv-faze-2026-07-11",
+   "opened_at": "2026-07-11T07:21:01.274045+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 4080.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.52,
+   "ask_depth": 47766.95,
    "status": "open"
   }
  ],
@@ -5227,5 +5264,5 @@
   }
  ],
  "total_pnl": -421.00509999999997,
- "last_updated": "2026-07-10T21:43:50.924244+00:00"
+ "last_updated": "2026-07-11T07:21:01.691142+00:00"
 }
