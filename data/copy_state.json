@@ -4246,24 +4246,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "40864313339021609490153703141235418831127449222810485805536741221427237614840",
-   "condition_id": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
-   "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
-   "outcome": "FaZe",
-   "slug": "cs2-prv-faze-2026-07-11",
-   "opened_at": "2026-07-11T07:21:01.274045+00:00",
-   "entry_price": 0.52,
-   "shares": 192.3077,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 4080.0,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.52,
-   "ask_depth": 47766.95,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
    "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
@@ -5541,6 +5523,28 @@
    "exit_price": 1.0,
    "pnl": 138.0952,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "condition_id": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
+   "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
+   "outcome": "FaZe",
+   "slug": "cs2-prv-faze-2026-07-11",
+   "opened_at": "2026-07-11T07:21:01.274045+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 4080.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.52,
+   "ask_depth": 47766.95,
+   "status": "lost",
+   "closed_at": "2026-07-11T20:01:15.251286+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5686,6 +5690,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -382.9099,
- "last_updated": "2026-07-11T19:31:06.382950+00:00"
+ "total_pnl": -482.9099,
+ "last_updated": "2026-07-11T20:01:15.252300+00:00"
 }
