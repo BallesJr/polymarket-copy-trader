@@ -4264,24 +4264,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "42619058029672989459303224474335307356849588992856465255923554914555633262619",
-   "condition_id": "0x8b200a58095b03a43479bd4db8eb5b4b7c06906a265f2605ebfb209ac3ac21b1",
-   "title": "Los Angeles Angels vs. Minnesota Twins",
-   "outcome": "Los Angeles Angels",
-   "slug": "mlb-laa-min-2026-07-11",
-   "opened_at": "2026-07-11T19:10:59.098193+00:00",
-   "entry_price": 0.16,
-   "shares": 625.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2075,
-   "leader_cost": 8714.01,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.16,
-   "ask_depth": 41067.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "75261092110629471141957150722782645337375336365374392162186146919671663917530",
    "condition_id": "0x86b698f3e53164683d6f3dc75b6aa146036c9b127a7caeee13540a8ed520061c",
    "title": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
@@ -5545,6 +5527,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42619058029672989459303224474335307356849588992856465255923554914555633262619",
+   "condition_id": "0x8b200a58095b03a43479bd4db8eb5b4b7c06906a265f2605ebfb209ac3ac21b1",
+   "title": "Los Angeles Angels vs. Minnesota Twins",
+   "outcome": "Los Angeles Angels",
+   "slug": "mlb-laa-min-2026-07-11",
+   "opened_at": "2026-07-11T19:10:59.098193+00:00",
+   "entry_price": 0.16,
+   "shares": 625.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2075,
+   "leader_cost": 8714.01,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.16,
+   "ask_depth": 41067.0,
+   "status": "lost",
+   "closed_at": "2026-07-11T21:40:58.578429+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5690,6 +5694,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -482.9099,
- "last_updated": "2026-07-11T20:01:15.252300+00:00"
+ "total_pnl": -582.9099,
+ "last_updated": "2026-07-11T21:40:58.579234+00:00"
 }
