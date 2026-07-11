@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9017.0901006,
+ "bankroll": 9234.4814006,
  "last_seen": {
   "jtwyslljy": 1783797680,
   "0x53757615de": 1783712023
@@ -4261,24 +4261,6 @@
    "best_ask": 0.87,
    "ask_depth": 510.5,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "75261092110629471141957150722782645337375336365374392162186146919671663917530",
-   "condition_id": "0x86b698f3e53164683d6f3dc75b6aa146036c9b127a7caeee13540a8ed520061c",
-   "title": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
-   "outcome": "Under",
-   "slug": "mlb-mil-pit-2026-07-11",
-   "opened_at": "2026-07-11T19:20:55.219939+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 4730.38,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.46,
-   "ask_depth": 23743.26,
-   "status": "open"
   }
  ],
  "closed": [
@@ -5549,6 +5531,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75261092110629471141957150722782645337375336365374392162186146919671663917530",
+   "condition_id": "0x86b698f3e53164683d6f3dc75b6aa146036c9b127a7caeee13540a8ed520061c",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-mil-pit-2026-07-11",
+   "opened_at": "2026-07-11T19:20:55.219939+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 4730.38,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.46,
+   "ask_depth": 23743.26,
+   "status": "won",
+   "closed_at": "2026-07-11T23:31:10.641911+00:00",
+   "exit_price": 1.0,
+   "pnl": 117.3913,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5694,6 +5698,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -582.9099,
- "last_updated": "2026-07-11T21:40:58.579234+00:00"
+ "total_pnl": -465.5186,
+ "last_updated": "2026-07-11T23:31:10.642535+00:00"
 }
