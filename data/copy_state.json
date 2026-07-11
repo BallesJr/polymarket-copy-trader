@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8978.9949006,
+ "bankroll": 9217.0901006,
  "last_seen": {
   "jtwyslljy": 1783793068,
   "0x53757615de": 1783712023
@@ -4184,24 +4184,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "6877591429295187381204977907984243539104174752734709721435561210590152772541",
-   "condition_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
-   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
-   "outcome": "Linda Noskova",
-   "slug": "wta-muchova-noskova-2026-07-11",
-   "opened_at": "2026-07-11T15:10:51.779426+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 8988.0,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.42,
-   "ask_depth": 20210.7,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
    "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
@@ -5421,6 +5403,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6877591429295187381204977907984243539104174752734709721435561210590152772541",
+   "condition_id": "0xb86425238a6bb2abbea65a4730da96a877bb8f1c18e5579271f5bd08fcd7fdff",
+   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-muchova-noskova-2026-07-11",
+   "opened_at": "2026-07-11T15:10:51.779426+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 8988.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.42,
+   "ask_depth": 20210.7,
+   "status": "won",
+   "closed_at": "2026-07-11T18:20:56.318802+00:00",
+   "exit_price": 1.0,
+   "pnl": 138.0952,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5566,6 +5570,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -521.0051,
- "last_updated": "2026-07-11T18:10:56.314856+00:00"
+ "total_pnl": -382.9099,
+ "last_updated": "2026-07-11T18:20:56.319657+00:00"
 }
