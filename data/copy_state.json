@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9078.9949006,
+ "bankroll": 8978.9949006,
  "last_seen": {
-  "jtwyslljy": 1783791715,
+  "jtwyslljy": 1783793068,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3106,6 +3106,27 @@
    "SELL",
    186.63,
    1783791715
+  ],
+  [
+   "0xddb15cc74d25a4a0cbd80b3ceefa396a45bd9c053f578ffdca2fc11369e83c00",
+   "100383386538686168274239663928679162888209248289169453204243695651403482099247",
+   "BUY",
+   520,
+   1783792976
+  ],
+  [
+   "0x4277ee36d0ec5e380469ff6b6f94c7731df6d146f354974ef3ca3214e3fc0f57",
+   "100383386538686168274239663928679162888209248289169453204243695651403482099247",
+   "BUY",
+   10000,
+   1783793005
+  ],
+  [
+   "0xc8861167b6c052612c4b5566dd3389016084507fb85d05becdf51e8de0e4d256",
+   "33372010075755413014637657555722616023146051558137241393191992206528650142931",
+   "BUY",
+   10000,
+   1783793068
   ]
  ],
  "leader_pos": {
@@ -4080,6 +4101,30 @@
    "cost": 1418.8294400203995,
    "max_shares": 10273.2,
    "last_trade_ts": 1783790495
+  },
+  "jtwyslljy|100383386538686168274239663928679162888209248289169453204243695651403482099247": {
+   "leader": "jtwyslljy",
+   "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
+   "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-pit-2026-07-10",
+   "shares": 10520.0,
+   "cost": 8095.2,
+   "max_shares": 10520.0,
+   "last_trade_ts": 1783793005
+  },
+  "jtwyslljy|33372010075755413014637657555722616023146051558137241393191992206528650142931": {
+   "leader": "jtwyslljy",
+   "asset": "33372010075755413014637657555722616023146051558137241393191992206528650142931",
+   "condition_id": "0x4ac9184a98fb05bf2eb00c5151ab53eb671e8772593e3f30bf224e4801d55b52",
+   "title": "Spread: Milwaukee Brewers (-1.5)",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-pit-2026-07-10",
+   "shares": 10000.0,
+   "cost": 5799.950000000001,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1783793068
   }
  },
  "positions": [
@@ -4153,6 +4198,24 @@
    "copy_delay_min": 6.2,
    "best_ask": 0.42,
    "ask_depth": 20210.7,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
+   "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-pit-2026-07-10",
+   "opened_at": "2026-07-11T18:10:55.750889+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.7695,
+   "leader_cost": 8095.2,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.87,
+   "ask_depth": 510.5,
    "status": "open"
   }
  ],
@@ -5491,8 +5554,18 @@
    "leader": "jtwyslljy",
    "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
    "outcome": "Karolina Muchova"
+  },
+  {
+   "at": "2026-07-11T18:10:55.750952+00:00",
+   "reason": "chase",
+   "ask": 0.76,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.58,
+   "leader": "jtwyslljy",
+   "title": "Spread: Milwaukee Brewers (-1.5)",
+   "outcome": "Milwaukee Brewers"
   }
  ],
  "total_pnl": -521.0051,
- "last_updated": "2026-07-11T17:50:56.090620+00:00"
+ "last_updated": "2026-07-11T18:10:56.314856+00:00"
 }
