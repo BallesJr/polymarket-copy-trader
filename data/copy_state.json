@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9078.9949006,
  "last_seen": {
-  "jtwyslljy": 1783787641,
+  "jtwyslljy": 1783788569,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3078,6 +3078,13 @@
    "BUY",
    5000,
    1783787641
+  ],
+  [
+   "0xed57cbaa0884e46db407d2b8a2fa7a5ed3c42b3f8c6110b738d4fab9fe7ac284",
+   "86055118242456423608991047651994876723011431605683123927757362733915681288062",
+   "BUY",
+   5273.2,
+   1783788569
   ]
  ],
  "leader_pos": {
@@ -4048,10 +4055,10 @@
    "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-noskova-2026-07-11",
-   "shares": 5000.0,
-   "cost": 470.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1783787641
+   "shares": 10273.2,
+   "cost": 3083.0878400203997,
+   "max_shares": 10273.2,
+   "last_trade_ts": 1783788569
   }
  },
  "positions": [
@@ -5453,8 +5460,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
    "outcome": "Hanwha Life Esports"
+  },
+  {
+   "at": "2026-07-11T16:50:58.245378+00:00",
+   "reason": "chase",
+   "ask": 0.548,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.3001,
+   "leader": "jtwyslljy",
+   "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
+   "outcome": "Karolina Muchova"
   }
  ],
  "total_pnl": -521.0051,
- "last_updated": "2026-07-11T16:40:58.429664+00:00"
+ "last_updated": "2026-07-11T16:50:58.579620+00:00"
 }
