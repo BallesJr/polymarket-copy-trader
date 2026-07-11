@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9078.9949006,
  "last_seen": {
-  "jtwyslljy": 1783788569,
+  "jtwyslljy": 1783790495,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3085,6 +3085,20 @@
    "BUY",
    5273.2,
    1783788569
+  ],
+  [
+   "0x471bd8c2d9c2975a234b1ed5cf86fd05dc095028710bed8f05f054a0b093b39e",
+   "40864313339021609490153703141235418831127449222810485805536741221427237614840",
+   "SELL",
+   150,
+   1783790437
+  ],
+  [
+   "0x4b17c1dc7ad4d8d0e8aab2a8c014c114ddba85c5ff34b740e4eda9edda2503b1",
+   "86055118242456423608991047651994876723011431605683123927757362733915681288062",
+   "SELL",
+   10273.2,
+   1783790495
   ]
  ],
  "leader_pos": {
@@ -3995,10 +4009,10 @@
    "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
    "outcome": "FaZe",
    "slug": "cs2-prv-faze-2026-07-11",
-   "shares": 30277.059999999998,
-   "cost": 15418.529999999999,
+   "shares": 30127.059999999998,
+   "cost": 15346.529999999999,
    "max_shares": 30277.059999999998,
-   "last_trade_ts": 1783786343
+   "last_trade_ts": 1783790437
   },
   "jtwyslljy|6699357588293973185016868913194879282426435526644827833401917776680733754936": {
    "leader": "jtwyslljy",
@@ -4055,10 +4069,10 @@
    "title": "Wimbledon WTA: Karolina Muchova vs Linda Noskova",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-noskova-2026-07-11",
-   "shares": 10273.2,
-   "cost": 3083.0878400203997,
+   "shares": 0.0,
+   "cost": 1418.8294400203995,
    "max_shares": 10273.2,
-   "last_trade_ts": 1783788569
+   "last_trade_ts": 1783790495
   }
  },
  "positions": [
@@ -5473,5 +5487,5 @@
   }
  ],
  "total_pnl": -521.0051,
- "last_updated": "2026-07-11T16:50:58.579620+00:00"
+ "last_updated": "2026-07-11T17:31:14.458274+00:00"
 }
