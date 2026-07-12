@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8697.2264726,
+ "bankroll": 8597.2264726,
  "last_seen": {
-  "jtwyslljy": 1783852970,
+  "jtwyslljy": 1783859450,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3379,6 +3379,13 @@
    "SELL",
    20000,
    1783852970
+  ],
+  [
+   "0x648f066259c5166e8ae4a685bd280e741f7bf717f96061346404df54d8f5133e",
+   "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "BUY",
+   50000,
+   1783859450
   ]
  ],
  "leader_pos": {
@@ -4521,6 +4528,18 @@
    "cost": 1250.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1783852082
+  },
+  "jtwyslljy|11136519494712022976764044225367902156688884544497870522015602622698913523968": {
+   "leader": "jtwyslljy",
+   "asset": "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+   "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-sinner-zverev-2026-07-12",
+   "shares": 50000.0,
+   "cost": 9500.0,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1783859450
   }
  },
  "positions": [
@@ -4594,6 +4613,24 @@
    "copy_delay_min": 3.0,
    "best_ask": 0.12,
    "ask_depth": 13409.77,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+   "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-sinner-zverev-2026-07-12",
+   "opened_at": "2026-07-12T12:40:54.220281+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 9500.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.19,
+   "ask_depth": 1470319.33,
    "status": "open"
   }
  ],
@@ -6199,5 +6236,5 @@
   }
  ],
  "total_pnl": -902.7735,
- "last_updated": "2026-07-12T11:31:08.115330+00:00"
+ "last_updated": "2026-07-12T12:40:54.469131+00:00"
 }
