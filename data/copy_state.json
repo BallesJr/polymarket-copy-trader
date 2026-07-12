@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8834.4814006,
  "last_seen": {
-  "jtwyslljy": 1783829536,
+  "jtwyslljy": 1783831882,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3281,6 +3281,13 @@
    "BUY",
    5881.67,
    1783829536
+  ],
+  [
+   "0xe34339479167c80aef650affc825b7ac41e836d02f7b3b303803d407870e4694",
+   "1663174004018278033368686791456727920939052168997293606738038160834454093824",
+   "BUY",
+   2880.53,
+   1783831882
   ]
  ],
  "leader_pos": {
@@ -4359,10 +4366,10 @@
    "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
    "outcome": "",
    "slug": "",
-   "shares": 29496.909999999996,
-   "cost": 9674.89795,
-   "max_shares": 29496.909999999996,
-   "last_trade_ts": 1783829536
+   "shares": 32377.439999999995,
+   "cost": 10642.75603,
+   "max_shares": 32377.439999999995,
+   "last_trade_ts": 1783831882
   }
  },
  "positions": [
@@ -5950,8 +5957,16 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
    "outcome": ""
+  },
+  {
+   "at": "2026-07-12T05:01:17.524536+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
+   "outcome": ""
   }
  ],
  "total_pnl": -865.5186,
- "last_updated": "2026-07-12T04:31:05.957784+00:00"
+ "last_updated": "2026-07-12T05:01:17.967406+00:00"
 }
