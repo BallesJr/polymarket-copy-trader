@@ -4896,24 +4896,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "88338739372935327538009624679537534101497736634879874297073118477695209839018",
-   "condition_id": "0xd0c3ac40b8061d1b702f08ca86ebf9edce4529153877ea5f92b9ac617410c758",
-   "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
-   "outcome": "Under",
-   "slug": "mlb-kc-bal-2026-07-12",
-   "opened_at": "2026-07-12T18:31:07.727133+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.4795,
-   "leader_cost": 1006.52,
-   "copy_delay_min": 3.7,
-   "best_ask": 0.42,
-   "ask_depth": 7125.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
    "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
    "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
@@ -6463,6 +6445,28 @@
    "exit_price": 1.0,
    "pnl": 40.8451,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "condition_id": "0xd0c3ac40b8061d1b702f08ca86ebf9edce4529153877ea5f92b9ac617410c758",
+   "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-kc-bal-2026-07-12",
+   "opened_at": "2026-07-12T18:31:07.727133+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.4795,
+   "leader_cost": 1006.52,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.42,
+   "ask_depth": 7125.86,
+   "status": "lost",
+   "closed_at": "2026-07-12T20:31:12.474720+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6660,6 +6664,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1261.9284,
- "last_updated": "2026-07-12T20:10:56.728308+00:00"
+ "total_pnl": -1361.9284,
+ "last_updated": "2026-07-12T20:31:12.475903+00:00"
 }
