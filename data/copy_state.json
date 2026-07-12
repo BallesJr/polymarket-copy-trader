@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9134.4814006,
+ "bankroll": 9034.4814006,
  "last_seen": {
-  "jtwyslljy": 1783815997,
+  "jtwyslljy": 1783816519,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3197,6 +3197,13 @@
    "BUY",
    437.78,
    1783815997
+  ],
+  [
+   "0x9dde14803bf63bb228488255b0e9594209e1f2d428ca51954467f728a455c03f",
+   "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "BUY",
+   1362,
+   1783816519
   ]
  ],
  "leader_pos": {
@@ -4239,10 +4246,10 @@
    "title": "Spread: Los Angeles Dodgers (-1.5)",
    "outcome": "Los Angeles Dodgers",
    "slug": "mlb-ari-lad-2026-07-11",
-   "shares": 437.78,
-   "cost": 245.1568,
-   "max_shares": 437.78,
-   "last_trade_ts": 1783815997
+   "shares": 1799.78,
+   "cost": 1021.4967999999999,
+   "max_shares": 1799.78,
+   "last_trade_ts": 1783816519
   }
  },
  "positions": [
@@ -4316,6 +4323,24 @@
    "copy_delay_min": 6.6,
    "best_ask": 0.06,
    "ask_depth": 30868.99,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "condition_id": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
+   "title": "Spread: Los Angeles Dodgers (-1.5)",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-ari-lad-2026-07-11",
+   "opened_at": "2026-07-12T00:40:52.362863+00:00",
+   "entry_price": 0.5794,
+   "shares": 172.5862,
+   "stake": 100.0,
+   "leader_vwap": 0.5676,
+   "leader_cost": 1021.5,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.57,
+   "ask_depth": 10.0,
    "status": "open"
   }
  ],
@@ -5755,5 +5780,5 @@
   }
  ],
  "total_pnl": -465.5186,
- "last_updated": "2026-07-12T00:31:01.903248+00:00"
+ "last_updated": "2026-07-12T00:40:52.617375+00:00"
 }
