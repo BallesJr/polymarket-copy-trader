@@ -4342,24 +4342,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "20795803069552243897555693663290990476651649003331986463799284689605674072418",
-   "condition_id": "0x3c7503474952b697741797aed32cc19a12d2020a96bba156717f8cdb5253f5d8",
-   "title": "Philadelphia Phillies vs. Detroit Tigers",
-   "outcome": "Detroit Tigers",
-   "slug": "mlb-phi-det-2026-07-11",
-   "opened_at": "2026-07-12T00:31:01.584577+00:00",
-   "entry_price": 0.06,
-   "shares": 1666.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.06,
-   "leader_cost": 600.0,
-   "copy_delay_min": 6.6,
-   "best_ask": 0.06,
-   "ask_depth": 30868.99,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "101921090942619186601963730706372506442397979691927642162049518956120086345685",
    "condition_id": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
    "title": "Spread: Los Angeles Dodgers (-1.5)",
@@ -5685,6 +5667,28 @@
    "exit_price": 1.0,
    "pnl": 117.3913,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20795803069552243897555693663290990476651649003331986463799284689605674072418",
+   "condition_id": "0x3c7503474952b697741797aed32cc19a12d2020a96bba156717f8cdb5253f5d8",
+   "title": "Philadelphia Phillies vs. Detroit Tigers",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-phi-det-2026-07-11",
+   "opened_at": "2026-07-12T00:31:01.584577+00:00",
+   "entry_price": 0.06,
+   "shares": 1666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.06,
+   "leader_cost": 600.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.06,
+   "ask_depth": 30868.99,
+   "status": "lost",
+   "closed_at": "2026-07-12T01:09:49.865548+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5830,6 +5834,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -465.5186,
- "last_updated": "2026-07-12T01:01:10.807961+00:00"
+ "total_pnl": -565.5186,
+ "last_updated": "2026-07-12T01:09:49.866586+00:00"
 }
