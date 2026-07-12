@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8297.2264726,
+ "bankroll": 8197.2264726,
  "last_seen": {
-  "jtwyslljy": 1783880264,
+  "jtwyslljy": 1783880848,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3540,6 +3540,20 @@
    "BUY",
    242.36,
    1783880264
+  ],
+  [
+   "0xd4a9234abe6ce8b1a411e0f0a217c2bd8cc6d70698b05f22d4a8f2a7e9beaa22",
+   "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "BUY",
+   1999,
+   1783880752
+  ],
+  [
+   "0x5c0b2fe7aa595601dd5d35c0731b581ddeabc5c7c839ef4434bdef1d5a55b451",
+   "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "BUY",
+   100,
+   1783880848
   ]
  ],
  "leader_pos": {
@@ -4778,6 +4792,18 @@
    "cost": 5519.9509,
    "max_shares": 8242.35,
    "last_trade_ts": 1783880264
+  },
+  "jtwyslljy|88338739372935327538009624679537534101497736634879874297073118477695209839018": {
+   "leader": "jtwyslljy",
+   "asset": "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "condition_id": "0xd0c3ac40b8061d1b702f08ca86ebf9edce4529153877ea5f92b9ac617410c758",
+   "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-kc-bal-2026-07-12",
+   "shares": 2099.0,
+   "cost": 1006.52,
+   "max_shares": 2099.0,
+   "last_trade_ts": 1783880848
   }
  },
  "positions": [
@@ -4887,6 +4913,24 @@
    "copy_delay_min": 4.0,
    "best_ask": 0.71,
    "ask_depth": 398.25,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "condition_id": "0xd0c3ac40b8061d1b702f08ca86ebf9edce4529153877ea5f92b9ac617410c758",
+   "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-kc-bal-2026-07-12",
+   "opened_at": "2026-07-12T18:31:07.727133+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.4795,
+   "leader_cost": 1006.52,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.42,
+   "ask_depth": 7125.86,
    "status": "open"
   }
  ],
@@ -6554,5 +6598,5 @@
   }
  ],
  "total_pnl": -1102.7735,
- "last_updated": "2026-07-12T18:21:00.590629+00:00"
+ "last_updated": "2026-07-12T18:31:08.049444+00:00"
 }
