@@ -4878,24 +4878,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "13018196080467640221438249738718880941503617765890904089769390680248982196250",
-   "condition_id": "0x94c77089d52470ef1d014e2c2ca3c1b9add6a08b42514edbe16c14cda99fb0ac",
-   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
-   "outcome": "Milwaukee Brewers",
-   "slug": "mlb-mil-pit-2026-07-12",
-   "opened_at": "2026-07-12T17:31:10.628004+00:00",
-   "entry_price": 0.05,
-   "shares": 2000.0,
-   "stake": 100.0,
-   "leader_vwap": 0.1087,
-   "leader_cost": 1786.48,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.05,
-   "ask_depth": 27008.87,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "109933242989239460314702843901910472877446145431619977790879661154899011645553",
    "condition_id": "0x7a165a01426747174f2ab1daacdf1d2e143a82e8cbab08fc26cc9b60af19d5a2",
    "title": "Philadelphia Phillies vs. Detroit Tigers: O/U 7.5",
@@ -6455,6 +6437,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13018196080467640221438249738718880941503617765890904089769390680248982196250",
+   "condition_id": "0x94c77089d52470ef1d014e2c2ca3c1b9add6a08b42514edbe16c14cda99fb0ac",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-pit-2026-07-12",
+   "opened_at": "2026-07-12T17:31:10.628004+00:00",
+   "entry_price": 0.05,
+   "shares": 2000.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1087,
+   "leader_cost": 1786.48,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.05,
+   "ask_depth": 27008.87,
+   "status": "lost",
+   "closed_at": "2026-07-12T19:50:59.276615+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6652,6 +6656,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1202.7735,
- "last_updated": "2026-07-12T19:40:58.108501+00:00"
+ "total_pnl": -1302.7735,
+ "last_updated": "2026-07-12T19:50:59.277679+00:00"
 }
