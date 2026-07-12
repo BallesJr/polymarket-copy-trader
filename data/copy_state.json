@@ -4404,42 +4404,6 @@
    "best_ask": 0.57,
    "ask_depth": 10.0,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "92257806716939740851168826657694343452956250642547792490307491291679457928887",
-   "condition_id": "0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777",
-   "title": "Argentina vs. Switzerland: Team to Advance",
-   "outcome": "Switzerland",
-   "slug": "fifwc-arg-che-2026-07-11-more-markets",
-   "opened_at": "2026-07-12T00:50:58.011279+00:00",
-   "entry_price": 0.245,
-   "shares": 408.1633,
-   "stake": 100.0,
-   "leader_vwap": 0.245,
-   "leader_cost": 12250.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.245,
-   "ask_depth": 289640.4,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "112549769834227696718380997824208714412874953413763738079535817081277834783543",
-   "condition_id": "0x2f204628fdab76ab18a96c8b05ae7a13a3ff74b0047e63c22668c3ed28e7822b",
-   "title": "Argentina vs. Switzerland: O/U 2.5",
-   "outcome": "Over",
-   "slug": "fifwc-arg-che-2026-07-11-more-markets",
-   "opened_at": "2026-07-12T01:40:51.997688+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.509,
-   "leader_cost": 12565.87,
-   "copy_delay_min": 10.0,
-   "best_ask": 0.46,
-   "ask_depth": 5374.51,
-   "status": "open"
   }
  ],
  "closed": [
@@ -5754,6 +5718,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92257806716939740851168826657694343452956250642547792490307491291679457928887",
+   "condition_id": "0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777",
+   "title": "Argentina vs. Switzerland: Team to Advance",
+   "outcome": "Switzerland",
+   "slug": "fifwc-arg-che-2026-07-11-more-markets",
+   "opened_at": "2026-07-12T00:50:58.011279+00:00",
+   "entry_price": 0.245,
+   "shares": 408.1633,
+   "stake": 100.0,
+   "leader_vwap": 0.245,
+   "leader_cost": 12250.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.245,
+   "ask_depth": 289640.4,
+   "status": "lost",
+   "closed_at": "2026-07-12T04:10:55.533539+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112549769834227696718380997824208714412874953413763738079535817081277834783543",
+   "condition_id": "0x2f204628fdab76ab18a96c8b05ae7a13a3ff74b0047e63c22668c3ed28e7822b",
+   "title": "Argentina vs. Switzerland: O/U 2.5",
+   "outcome": "Over",
+   "slug": "fifwc-arg-che-2026-07-11-more-markets",
+   "opened_at": "2026-07-12T01:40:51.997688+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.509,
+   "leader_cost": 12565.87,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.46,
+   "ask_depth": 5374.51,
+   "status": "lost",
+   "closed_at": "2026-07-12T04:10:55.791331+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5899,6 +5907,6 @@
    "outcome": "Milwaukee Brewers"
   }
  ],
- "total_pnl": -565.5186,
- "last_updated": "2026-07-12T02:01:08.784825+00:00"
+ "total_pnl": -765.5186,
+ "last_updated": "2026-07-12T04:10:55.792466+00:00"
 }
