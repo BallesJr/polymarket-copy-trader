@@ -4875,24 +4875,6 @@
    "best_ask": 0.846,
    "ask_depth": 3958.17,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
-   "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
-   "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
-   "outcome": "Under",
-   "slug": "mlb-tor-sd-2026-07-12",
-   "opened_at": "2026-07-12T19:20:56.894740+00:00",
-   "entry_price": 0.49,
-   "shares": 204.0816,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 4056.86,
-   "copy_delay_min": 13.9,
-   "best_ask": 0.49,
-   "ask_depth": 58425.63,
-   "status": "open"
   }
  ],
  "closed": [
@@ -6471,6 +6453,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
+   "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
+   "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-tor-sd-2026-07-12",
+   "opened_at": "2026-07-12T19:20:56.894740+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 4056.86,
+   "copy_delay_min": 13.9,
+   "best_ask": 0.49,
+   "ask_depth": 58425.63,
+   "status": "lost",
+   "closed_at": "2026-07-12T23:01:10.624554+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6668,6 +6672,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1305.6784,
- "last_updated": "2026-07-12T20:51:04.022559+00:00"
+ "total_pnl": -1405.6784,
+ "last_updated": "2026-07-12T23:01:10.625554+00:00"
 }
