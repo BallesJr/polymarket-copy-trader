@@ -4419,24 +4419,6 @@
    "best_ask": 0.87,
    "ask_depth": 510.5,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "101921090942619186601963730706372506442397979691927642162049518956120086345685",
-   "condition_id": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
-   "title": "Spread: Los Angeles Dodgers (-1.5)",
-   "outcome": "Los Angeles Dodgers",
-   "slug": "mlb-ari-lad-2026-07-11",
-   "opened_at": "2026-07-12T00:40:52.362863+00:00",
-   "entry_price": 0.5794,
-   "shares": 172.5862,
-   "stake": 100.0,
-   "leader_vwap": 0.5676,
-   "leader_cost": 1021.5,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.57,
-   "ask_depth": 10.0,
-   "status": "open"
   }
  ],
  "closed": [
@@ -5795,6 +5777,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "condition_id": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
+   "title": "Spread: Los Angeles Dodgers (-1.5)",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-ari-lad-2026-07-11",
+   "opened_at": "2026-07-12T00:40:52.362863+00:00",
+   "entry_price": 0.5794,
+   "shares": 172.5862,
+   "stake": 100.0,
+   "leader_vwap": 0.5676,
+   "leader_cost": 1021.5,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.57,
+   "ask_depth": 10.0,
+   "status": "lost",
+   "closed_at": "2026-07-12T04:31:05.956786+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -5948,6 +5952,6 @@
    "outcome": ""
   }
  ],
- "total_pnl": -765.5186,
- "last_updated": "2026-07-12T04:20:52.861192+00:00"
+ "total_pnl": -865.5186,
+ "last_updated": "2026-07-12T04:31:05.957784+00:00"
 }
