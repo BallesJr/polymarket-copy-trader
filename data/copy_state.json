@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8497.2264726,
+ "bankroll": 8297.2264726,
  "last_seen": {
-  "jtwyslljy": 1783877879,
+  "jtwyslljy": 1783880264,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3498,6 +3498,48 @@
    "SELL",
    256.26,
    1783877879
+  ],
+  [
+   "0x8af42a3905cfef8a8dff3455facf120b1b8b84886d55bdd2ad7769ec94b4e723",
+   "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "BUY",
+   10000,
+   1783879964
+  ],
+  [
+   "0x959ddb8454336e7d60530e63df7550a5ed226a25b8be6f877795475af3fed884",
+   "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "BUY",
+   2278.08,
+   1783879966
+  ],
+  [
+   "0xeb0365c53189a7272256aec250517a697600d266fb53435651f84d38c3020d94",
+   "7930741206277124315494024137761600384403051533011312601632045360271263548063",
+   "BUY",
+   5169,
+   1783880011
+  ],
+  [
+   "0x0c58e1fd64d6afb6aa125f7210bfe3665f98f741089ea3651f51c81e5e2ab920",
+   "64308181358219562931170484136736856283605396847037557175380772532413016207649",
+   "BUY",
+   8000,
+   1783880222
+  ],
+  [
+   "0x3ec5cb402bbbb69a25569ae3170096d8ba5c6cdbdbfe635b8bd6f994a4bd3bc8",
+   "109933242989239460314702843901910472877446145431619977790879661154899011645553",
+   "BUY",
+   7999.99,
+   1783880257
+  ],
+  [
+   "0xbdb5f7b18214f4e57a1562e2558b18f9dfe86650d1677b9aff449c9142889e21",
+   "109933242989239460314702843901910472877446145431619977790879661154899011645553",
+   "BUY",
+   242.36,
+   1783880264
   ]
  ],
  "leader_pos": {
@@ -4648,10 +4690,10 @@
    "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
    "outcome": "Alexander Zverev",
    "slug": "atp-sinner-zverev-2026-07-12",
-   "shares": 60000.0,
-   "cost": 9950.0,
-   "max_shares": 70000.0,
-   "last_trade_ts": 1783873106
+   "shares": 72278.08,
+   "cost": 11055.0272,
+   "max_shares": 72278.08,
+   "last_trade_ts": 1783879966
   },
   "jtwyslljy|49984220052515434495529120181191068226890759059537791178859699229913511855088": {
    "leader": "jtwyslljy",
@@ -4700,6 +4742,42 @@
    "cost": 1996.4750999999999,
    "max_shares": 3864.9199999999996,
    "last_trade_ts": 1783877809
+  },
+  "jtwyslljy|7930741206277124315494024137761600384403051533011312601632045360271263548063": {
+   "leader": "jtwyslljy",
+   "asset": "7930741206277124315494024137761600384403051533011312601632045360271263548063",
+   "condition_id": "0x94c77089d52470ef1d014e2c2ca3c1b9add6a08b42514edbe16c14cda99fb0ac",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Pittsburgh Pirates",
+   "slug": "mlb-mil-pit-2026-07-12",
+   "shares": 5169.0,
+   "cost": 5163.7510200629995,
+   "max_shares": 5169.0,
+   "last_trade_ts": 1783880011
+  },
+  "jtwyslljy|64308181358219562931170484136736856283605396847037557175380772532413016207649": {
+   "leader": "jtwyslljy",
+   "asset": "64308181358219562931170484136736856283605396847037557175380772532413016207649",
+   "condition_id": "0x2faf3a3a3490a5d4c1fbe4357d414f81bb90b2b8928779f4f0fbbe408b9f667c",
+   "title": "Athletics vs. Chicago White Sox: O/U 8.5",
+   "outcome": "Over",
+   "slug": "mlb-oak-cws-2026-07-12",
+   "shares": 8000.0,
+   "cost": 4800.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1783880222
+  },
+  "jtwyslljy|109933242989239460314702843901910472877446145431619977790879661154899011645553": {
+   "leader": "jtwyslljy",
+   "asset": "109933242989239460314702843901910472877446145431619977790879661154899011645553",
+   "condition_id": "0x7a165a01426747174f2ab1daacdf1d2e143a82e8cbab08fc26cc9b60af19d5a2",
+   "title": "Philadelphia Phillies vs. Detroit Tigers: O/U 7.5",
+   "outcome": "Under",
+   "slug": "mlb-phi-det-2026-07-12",
+   "shares": 8242.35,
+   "cost": 5519.9509,
+   "max_shares": 8242.35,
+   "last_trade_ts": 1783880264
   }
  },
  "positions": [
@@ -4773,6 +4851,42 @@
    "copy_delay_min": 5.3,
    "best_ask": 0.05,
    "ask_depth": 27008.87,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109933242989239460314702843901910472877446145431619977790879661154899011645553",
+   "condition_id": "0x7a165a01426747174f2ab1daacdf1d2e143a82e8cbab08fc26cc9b60af19d5a2",
+   "title": "Philadelphia Phillies vs. Detroit Tigers: O/U 7.5",
+   "outcome": "Under",
+   "slug": "mlb-phi-det-2026-07-12",
+   "opened_at": "2026-07-12T18:21:00.207274+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.6697,
+   "leader_cost": 5519.95,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.64,
+   "ask_depth": 18279.71,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64308181358219562931170484136736856283605396847037557175380772532413016207649",
+   "condition_id": "0x2faf3a3a3490a5d4c1fbe4357d414f81bb90b2b8928779f4f0fbbe408b9f667c",
+   "title": "Athletics vs. Chicago White Sox: O/U 8.5",
+   "outcome": "Over",
+   "slug": "mlb-oak-cws-2026-07-12",
+   "opened_at": "2026-07-12T18:21:00.207326+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 4800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.71,
+   "ask_depth": 398.25,
    "status": "open"
   }
  ],
@@ -6429,8 +6543,16 @@
    "leader": "jtwyslljy",
    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
    "outcome": "Over"
+  },
+  {
+   "at": "2026-07-12T18:21:00.207226+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": 0.998,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Pittsburgh Pirates"
   }
  ],
  "total_pnl": -1102.7735,
- "last_updated": "2026-07-12T17:40:53.268477+00:00"
+ "last_updated": "2026-07-12T18:21:00.590629+00:00"
 }
