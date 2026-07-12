@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8097.226472599999,
+ "bankroll": 8238.0715726,
  "last_seen": {
   "jtwyslljy": 1783883225,
   "0x53757615de": 1783712023
@@ -4896,24 +4896,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "64308181358219562931170484136736856283605396847037557175380772532413016207649",
-   "condition_id": "0x2faf3a3a3490a5d4c1fbe4357d414f81bb90b2b8928779f4f0fbbe408b9f667c",
-   "title": "Athletics vs. Chicago White Sox: O/U 8.5",
-   "outcome": "Over",
-   "slug": "mlb-oak-cws-2026-07-12",
-   "opened_at": "2026-07-12T18:21:00.207326+00:00",
-   "entry_price": 0.71,
-   "shares": 140.8451,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 4800.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.71,
-   "ask_depth": 398.25,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "88338739372935327538009624679537534101497736634879874297073118477695209839018",
    "condition_id": "0xd0c3ac40b8061d1b702f08ca86ebf9edce4529153877ea5f92b9ac617410c758",
    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
@@ -6459,6 +6441,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64308181358219562931170484136736856283605396847037557175380772532413016207649",
+   "condition_id": "0x2faf3a3a3490a5d4c1fbe4357d414f81bb90b2b8928779f4f0fbbe408b9f667c",
+   "title": "Athletics vs. Chicago White Sox: O/U 8.5",
+   "outcome": "Over",
+   "slug": "mlb-oak-cws-2026-07-12",
+   "opened_at": "2026-07-12T18:21:00.207326+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 4800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.71,
+   "ask_depth": 398.25,
+   "status": "won",
+   "closed_at": "2026-07-12T20:10:56.727237+00:00",
+   "exit_price": 1.0,
+   "pnl": 40.8451,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6656,6 +6660,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1302.7735,
- "last_updated": "2026-07-12T19:50:59.277679+00:00"
+ "total_pnl": -1261.9284,
+ "last_updated": "2026-07-12T20:10:56.728308+00:00"
 }
