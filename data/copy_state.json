@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8734.4814006,
+ "bankroll": 8634.4814006,
  "last_seen": {
-  "jtwyslljy": 1783832615,
+  "jtwyslljy": 1783842887,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3309,6 +3309,27 @@
    "BUY",
    4172.62,
    1783832615
+  ],
+  [
+   "0x3550e1ebf69e4bfb290f6e3df69ea43bcaea871c9163501c0f2a79c58dddf3e5",
+   "103795681127447587720812877712277798425305180549696877605387605562448797439907",
+   "BUY",
+   5404.57,
+   1783842595
+  ],
+  [
+   "0x8aa45b2938726e25452a41a4a090d235284c54c40c631d0205249ece09ecd722",
+   "103795681127447587720812877712277798425305180549696877605387605562448797439907",
+   "BUY",
+   95,
+   1783842727
+  ],
+  [
+   "0xfe9b63b7390e4b27dfb9da3bc8e4a7782c7420280a60f49d187c27d5d103f810",
+   "103795681127447587720812877712277798425305180549696877605387605562448797439907",
+   "SELL",
+   290,
+   1783842887
   ]
  ],
  "leader_pos": {
@@ -4403,6 +4424,18 @@
    "cost": 3216.06,
    "max_shares": 6432.12,
    "last_trade_ts": 1783832615
+  },
+  "jtwyslljy|103795681127447587720812877712277798425305180549696877605387605562448797439907": {
+   "leader": "jtwyslljy",
+   "asset": "103795681127447587720812877712277798425305180549696877605387605562448797439907",
+   "condition_id": "0xa95d48279f55ae3288220263c0eb8a28197828121b878ff91671695ce88df46c",
+   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-blg-hle1-2026-07-12",
+   "shares": 5209.57,
+   "cost": 2627.0885002069926,
+   "max_shares": 5499.57,
+   "last_trade_ts": 1783842887
   }
  },
  "positions": [
@@ -4476,6 +4509,24 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.51,
    "ask_depth": 31293.9,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "103795681127447587720812877712277798425305180549696877605387605562448797439907",
+   "condition_id": "0xa95d48279f55ae3288220263c0eb8a28197828121b878ff91671695ce88df46c",
+   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-blg-hle1-2026-07-12",
+   "opened_at": "2026-07-12T08:01:13.587893+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.5043,
+   "leader_cost": 2627.09,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.47,
+   "ask_depth": 260.0,
    "status": "open"
   }
  ],
@@ -6027,5 +6078,5 @@
   }
  ],
  "total_pnl": -865.5186,
- "last_updated": "2026-07-12T05:10:57.364362+00:00"
+ "last_updated": "2026-07-12T08:01:13.864398+00:00"
 }
