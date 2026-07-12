@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8597.2264726,
  "last_seen": {
-  "jtwyslljy": 1783859450,
+  "jtwyslljy": 1783860349,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3386,6 +3386,13 @@
    "BUY",
    50000,
    1783859450
+  ],
+  [
+   "0xdccb6876eed9855175b2821cdd0c1358d3e441439af333cb2f9baed7b48d521e",
+   "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "BUY",
+   20000,
+   1783860349
   ]
  ],
  "leader_pos": {
@@ -4536,10 +4543,10 @@
    "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
    "outcome": "Alexander Zverev",
    "slug": "atp-sinner-zverev-2026-07-12",
-   "shares": 50000.0,
-   "cost": 9500.0,
-   "max_shares": 50000.0,
-   "last_trade_ts": 1783859450
+   "shares": 70000.0,
+   "cost": 13100.0,
+   "max_shares": 70000.0,
+   "last_trade_ts": 1783860349
   }
  },
  "positions": [
@@ -6236,5 +6243,5 @@
   }
  ],
  "total_pnl": -902.7735,
- "last_updated": "2026-07-12T12:40:54.469131+00:00"
+ "last_updated": "2026-07-12T12:50:59.508010+00:00"
 }
