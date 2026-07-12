@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8197.2264726,
  "last_seen": {
-  "jtwyslljy": 1783881857,
+  "jtwyslljy": 1783882874,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3561,6 +3561,13 @@
    "SELL",
    6868.42,
    1783881857
+  ],
+  [
+   "0x5497ad9a2ec02d5db579d35ee27f08e60b62fe3fdbeda3f8314ca179bd341752",
+   "88338739372935327538009624679537534101497736634879874297073118477695209839018",
+   "BUY",
+   6550,
+   1783882874
   ]
  ],
  "leader_pos": {
@@ -4807,10 +4814,10 @@
    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
    "outcome": "Under",
    "slug": "mlb-kc-bal-2026-07-12",
-   "shares": 2099.0,
-   "cost": 1006.52,
-   "max_shares": 2099.0,
-   "last_trade_ts": 1783880848
+   "shares": 8649.0,
+   "cost": 4674.52,
+   "max_shares": 8649.0,
+   "last_trade_ts": 1783882874
   }
  },
  "positions": [
@@ -6605,5 +6612,5 @@
   }
  ],
  "total_pnl": -1102.7735,
- "last_updated": "2026-07-12T18:50:59.355406+00:00"
+ "last_updated": "2026-07-12T19:10:55.172426+00:00"
 }
