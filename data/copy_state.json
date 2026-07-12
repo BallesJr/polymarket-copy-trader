@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8534.4814006,
+ "bankroll": 8697.2264726,
  "last_seen": {
-  "jtwyslljy": 1783852082,
+  "jtwyslljy": 1783852970,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3372,6 +3372,13 @@
    "BUY",
    5000,
    1783852082
+  ],
+  [
+   "0xd99820212d2e0cfc76f0fe1b30ccd6f1bd357a90cebf8e7fb72d3798c1975a44",
+   "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "SELL",
+   20000,
+   1783852970
   ]
  ],
  "leader_pos": {
@@ -4462,10 +4469,10 @@
    "title": "Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
    "outcome": "9z",
    "slug": "cs2-9z-prv-2026-07-12",
-   "shares": 6432.12,
-   "cost": 3216.06,
+   "shares": -13567.880000000001,
+   "cost": -13983.94,
    "max_shares": 6432.12,
-   "last_trade_ts": 1783832615
+   "last_trade_ts": 1783852970
   },
   "jtwyslljy|103795681127447587720812877712277798425305180549696877605387605562448797439907": {
    "leader": "jtwyslljy",
@@ -4569,24 +4576,6 @@
    "copy_delay_min": 7.5,
    "best_ask": 0.87,
    "ask_depth": 510.5,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "102717618770644862688737062789388414564933725793452809802973034276055731769098",
-   "condition_id": "0x5ab734f8e6547d4e66e3f10089abc60b9b1b1cbb58368d4428ace148c02df4cd",
-   "title": "Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
-   "outcome": "9z",
-   "slug": "cs2-9z-prv-2026-07-12",
-   "opened_at": "2026-07-12T05:10:57.096319+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 3216.06,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.51,
-   "ask_depth": 31293.9,
    "status": "open"
   },
   {
@@ -6004,6 +5993,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "condition_id": "0x5ab734f8e6547d4e66e3f10089abc60b9b1b1cbb58368d4428ace148c02df4cd",
+   "title": "Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
+   "outcome": "9z",
+   "slug": "cs2-9z-prv-2026-07-12",
+   "opened_at": "2026-07-12T05:10:57.096319+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 3216.06,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.51,
+   "ask_depth": 31293.9,
+   "status": "closed",
+   "closed_at": "2026-07-12T10:50:56.924500+00:00",
+   "exit_price": 0.83,
+   "pnl": 62.7451,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -6183,6 +6194,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -865.5186,
- "last_updated": "2026-07-12T10:31:04.119049+00:00"
+ "total_pnl": -802.7735,
+ "last_updated": "2026-07-12T10:50:57.266177+00:00"
 }
