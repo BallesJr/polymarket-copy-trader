@@ -4878,24 +4878,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "11136519494712022976764044225367902156688884544497870522015602622698913523968",
-   "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
-   "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
-   "outcome": "Alexander Zverev",
-   "slug": "atp-sinner-zverev-2026-07-12",
-   "opened_at": "2026-07-12T12:40:54.220281+00:00",
-   "entry_price": 0.19,
-   "shares": 526.3158,
-   "stake": 100.0,
-   "leader_vwap": 0.19,
-   "leader_cost": 9500.0,
-   "copy_delay_min": 10.1,
-   "best_ask": 0.19,
-   "ask_depth": 1470319.33,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "13018196080467640221438249738718880941503617765890904089769390680248982196250",
    "condition_id": "0x94c77089d52470ef1d014e2c2ca3c1b9add6a08b42514edbe16c14cda99fb0ac",
    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
@@ -6451,6 +6433,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11136519494712022976764044225367902156688884544497870522015602622698913523968",
+   "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+   "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-sinner-zverev-2026-07-12",
+   "opened_at": "2026-07-12T12:40:54.220281+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 9500.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.19,
+   "ask_depth": 1470319.33,
+   "status": "lost",
+   "closed_at": "2026-07-12T19:40:57.824530+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6648,6 +6652,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1102.7735,
- "last_updated": "2026-07-12T19:20:57.282602+00:00"
+ "total_pnl": -1202.7735,
+ "last_updated": "2026-07-12T19:40:58.108501+00:00"
 }
