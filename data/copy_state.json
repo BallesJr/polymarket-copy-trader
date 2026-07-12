@@ -4562,24 +4562,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
-   "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
-   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
-   "outcome": "Milwaukee Brewers",
-   "slug": "mlb-mil-pit-2026-07-10",
-   "opened_at": "2026-07-11T18:10:55.750889+00:00",
-   "entry_price": 0.87,
-   "shares": 114.9425,
-   "stake": 100.0,
-   "leader_vwap": 0.7695,
-   "leader_cost": 8095.2,
-   "copy_delay_min": 7.5,
-   "best_ask": 0.87,
-   "ask_depth": 510.5,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "103795681127447587720812877712277798425305180549696877605387605562448797439907",
    "condition_id": "0xa95d48279f55ae3288220263c0eb8a28197828121b878ff91671695ce88df46c",
    "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs",
@@ -6015,6 +5997,28 @@
    "exit_price": 0.83,
    "pnl": 62.7451,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100383386538686168274239663928679162888209248289169453204243695651403482099247",
+   "condition_id": "0x47b10cee6b566fb39018c6df4b189f8be68630e7da55ce8fe7708123cb6573bf",
+   "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-pit-2026-07-10",
+   "opened_at": "2026-07-11T18:10:55.750889+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.7695,
+   "leader_cost": 8095.2,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.87,
+   "ask_depth": 510.5,
+   "status": "lost",
+   "closed_at": "2026-07-12T11:31:08.114516+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6194,6 +6198,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -802.7735,
- "last_updated": "2026-07-12T10:50:57.266177+00:00"
+ "total_pnl": -902.7735,
+ "last_updated": "2026-07-12T11:31:08.115330+00:00"
 }
