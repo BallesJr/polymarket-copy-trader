@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9034.4814006,
+ "bankroll": 8934.4814006,
  "last_seen": {
-  "jtwyslljy": 1783816519,
+  "jtwyslljy": 1783817122,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3204,6 +3204,20 @@
    "BUY",
    1362,
    1783816519
+  ],
+  [
+   "0x1e9a4b4dd1f3095e6b58b47cfc145a93c2600c5178cc823be6619989d80a14ea",
+   "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "BUY",
+   10,
+   1783816946
+  ],
+  [
+   "0xf19243e6d10b69da6cfca33eee59f7be2805a11cb589dd231afb2a7322cc12f5",
+   "92257806716939740851168826657694343452956250642547792490307491291679457928887",
+   "BUY",
+   50000,
+   1783817122
   ]
  ],
  "leader_pos": {
@@ -4246,10 +4260,22 @@
    "title": "Spread: Los Angeles Dodgers (-1.5)",
    "outcome": "Los Angeles Dodgers",
    "slug": "mlb-ari-lad-2026-07-11",
-   "shares": 1799.78,
-   "cost": 1021.4967999999999,
-   "max_shares": 1799.78,
-   "last_trade_ts": 1783816519
+   "shares": 1809.78,
+   "cost": 1027.1968,
+   "max_shares": 1809.78,
+   "last_trade_ts": 1783816946
+  },
+  "jtwyslljy|92257806716939740851168826657694343452956250642547792490307491291679457928887": {
+   "leader": "jtwyslljy",
+   "asset": "92257806716939740851168826657694343452956250642547792490307491291679457928887",
+   "condition_id": "0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777",
+   "title": "Argentina vs. Switzerland: Team to Advance",
+   "outcome": "Switzerland",
+   "slug": "fifwc-arg-che-2026-07-11-more-markets",
+   "shares": 50000.0,
+   "cost": 12250.0,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1783817122
   }
  },
  "positions": [
@@ -4341,6 +4367,24 @@
    "copy_delay_min": 5.5,
    "best_ask": 0.57,
    "ask_depth": 10.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92257806716939740851168826657694343452956250642547792490307491291679457928887",
+   "condition_id": "0x0891e4792a016a079765dd25029639cd731f7dc0bde3d65d6002b2b19dae2777",
+   "title": "Argentina vs. Switzerland: Team to Advance",
+   "outcome": "Switzerland",
+   "slug": "fifwc-arg-che-2026-07-11-more-markets",
+   "opened_at": "2026-07-12T00:50:58.011279+00:00",
+   "entry_price": 0.245,
+   "shares": 408.1633,
+   "stake": 100.0,
+   "leader_vwap": 0.245,
+   "leader_cost": 12250.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.245,
+   "ask_depth": 289640.4,
    "status": "open"
   }
  ],
@@ -5780,5 +5824,5 @@
   }
  ],
  "total_pnl": -465.5186,
- "last_updated": "2026-07-12T00:40:52.617375+00:00"
+ "last_updated": "2026-07-12T00:50:58.341355+00:00"
 }
