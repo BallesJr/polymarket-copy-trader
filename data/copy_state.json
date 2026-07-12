@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8197.2264726,
+ "bankroll": 8097.226472599999,
  "last_seen": {
-  "jtwyslljy": 1783882874,
+  "jtwyslljy": 1783883225,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3568,6 +3568,13 @@
    "BUY",
    6550,
    1783882874
+  ],
+  [
+   "0xe463a4c01b37fdeaac7c2e69e177e9e4d3c53b3f1906e62b3d330a039f90ef54",
+   "25891991650064764290508868987036736856217623310113689045110330781534923968276",
+   "BUY",
+   8451.79,
+   1783883225
   ]
  ],
  "leader_pos": {
@@ -4818,6 +4825,18 @@
    "cost": 4674.52,
    "max_shares": 8649.0,
    "last_trade_ts": 1783882874
+  },
+  "jtwyslljy|25891991650064764290508868987036736856217623310113689045110330781534923968276": {
+   "leader": "jtwyslljy",
+   "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
+   "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
+   "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-tor-sd-2026-07-12",
+   "shares": 8451.79,
+   "cost": 4056.8592000000003,
+   "max_shares": 8451.79,
+   "last_trade_ts": 1783883225
   }
  },
  "positions": [
@@ -4945,6 +4964,24 @@
    "copy_delay_min": 3.7,
    "best_ask": 0.42,
    "ask_depth": 7125.86,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
+   "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
+   "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-tor-sd-2026-07-12",
+   "opened_at": "2026-07-12T19:20:56.894740+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 4056.86,
+   "copy_delay_min": 13.9,
+   "best_ask": 0.49,
+   "ask_depth": 58425.63,
    "status": "open"
   }
  ],
@@ -6612,5 +6649,5 @@
   }
  ],
  "total_pnl": -1102.7735,
- "last_updated": "2026-07-12T19:10:55.172426+00:00"
+ "last_updated": "2026-07-12T19:20:57.282602+00:00"
 }
