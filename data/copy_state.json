@@ -4606,24 +4606,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "22810354133873783433803360609416857335978280142009554373054869766937909409520",
-   "condition_id": "0xc935332cbd5f14c6ad3c21f14be9317b49046fc6ef929c5165c1452eadcb28f8",
-   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 4 Winner",
-   "outcome": "Bilibili Gaming",
-   "slug": "lol-blg-hle1-2026-07-12",
-   "opened_at": "2026-07-12T10:31:03.776134+00:00",
-   "entry_price": 0.12,
-   "shares": 833.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.25,
-   "leader_cost": 1250.0,
-   "copy_delay_min": 3.0,
-   "best_ask": 0.12,
-   "ask_depth": 13409.77,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "11136519494712022976764044225367902156688884544497870522015602622698913523968",
    "condition_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
    "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
@@ -6063,6 +6045,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22810354133873783433803360609416857335978280142009554373054869766937909409520",
+   "condition_id": "0xc935332cbd5f14c6ad3c21f14be9317b49046fc6ef929c5165c1452eadcb28f8",
+   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports - Game 4 Winner",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-blg-hle1-2026-07-12",
+   "opened_at": "2026-07-12T10:31:03.776134+00:00",
+   "entry_price": 0.12,
+   "shares": 833.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 1250.0,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.12,
+   "ask_depth": 13409.77,
+   "status": "lost",
+   "closed_at": "2026-07-12T13:20:54.579330+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6242,6 +6246,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -902.7735,
- "last_updated": "2026-07-12T12:50:59.508010+00:00"
+ "total_pnl": -1002.7735,
+ "last_updated": "2026-07-12T13:20:54.580403+00:00"
 }
