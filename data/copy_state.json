@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8834.4814006,
+ "bankroll": 8734.4814006,
  "last_seen": {
-  "jtwyslljy": 1783831882,
+  "jtwyslljy": 1783832615,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3288,6 +3288,27 @@
    "BUY",
    2880.53,
    1783831882
+  ],
+  [
+   "0x4c3955e35b496f7e3aef5a518408dc7064de5dec4785781390d280c04a2512ba",
+   "1663174004018278033368686791456727920939052168997293606738038160834454093824",
+   "BUY",
+   592.588055,
+   1783832489
+  ],
+  [
+   "0x2f7c27f76d71eaf64886d4188376082fa11f308d6ec152f164528738add55c54",
+   "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "BUY",
+   2259.5,
+   1783832549
+  ],
+  [
+   "0xf2765e8fd92839d7fc3a72aee7ca5719c319d9f54a649956dfd0cc210ec3a31a",
+   "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "BUY",
+   4172.62,
+   1783832615
   ]
  ],
  "leader_pos": {
@@ -4366,10 +4387,22 @@
    "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
    "outcome": "",
    "slug": "",
-   "shares": 32377.439999999995,
-   "cost": 10642.75603,
-   "max_shares": 32377.439999999995,
-   "last_trade_ts": 1783831882
+   "shares": 32970.028054999995,
+   "cost": 10836.23602900936,
+   "max_shares": 32970.028054999995,
+   "last_trade_ts": 1783832489
+  },
+  "jtwyslljy|102717618770644862688737062789388414564933725793452809802973034276055731769098": {
+   "leader": "jtwyslljy",
+   "asset": "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "condition_id": "0x5ab734f8e6547d4e66e3f10089abc60b9b1b1cbb58368d4428ace148c02df4cd",
+   "title": "Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
+   "outcome": "9z",
+   "slug": "cs2-9z-prv-2026-07-12",
+   "shares": 6432.12,
+   "cost": 3216.06,
+   "max_shares": 6432.12,
+   "last_trade_ts": 1783832615
   }
  },
  "positions": [
@@ -4425,6 +4458,24 @@
    "copy_delay_min": 7.5,
    "best_ask": 0.87,
    "ask_depth": 510.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102717618770644862688737062789388414564933725793452809802973034276055731769098",
+   "condition_id": "0x5ab734f8e6547d4e66e3f10089abc60b9b1b1cbb58368d4428ace148c02df4cd",
+   "title": "Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
+   "outcome": "9z",
+   "slug": "cs2-9z-prv-2026-07-12",
+   "opened_at": "2026-07-12T05:10:57.096319+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 3216.06,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.51,
+   "ask_depth": 31293.9,
    "status": "open"
   }
  ],
@@ -5965,8 +6016,16 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
    "outcome": ""
+  },
+  {
+   "at": "2026-07-12T05:10:57.096238+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs Hanwha Life Esports (BO5) - Mid-Season Invitational Playoffs AND Counter-Strike: 9z vs PARIVISION (BO5) - XSE Pro League Playoffs",
+   "outcome": ""
   }
  ],
  "total_pnl": -865.5186,
- "last_updated": "2026-07-12T05:01:17.967406+00:00"
+ "last_updated": "2026-07-12T05:10:57.364362+00:00"
 }
