@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8238.0715726,
+ "bankroll": 8394.3215726,
  "last_seen": {
   "jtwyslljy": 1783883225,
   "0x53757615de": 1783712023
@@ -4878,24 +4878,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "109933242989239460314702843901910472877446145431619977790879661154899011645553",
-   "condition_id": "0x7a165a01426747174f2ab1daacdf1d2e143a82e8cbab08fc26cc9b60af19d5a2",
-   "title": "Philadelphia Phillies vs. Detroit Tigers: O/U 7.5",
-   "outcome": "Under",
-   "slug": "mlb-phi-det-2026-07-12",
-   "opened_at": "2026-07-12T18:21:00.207274+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.6697,
-   "leader_cost": 5519.95,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.64,
-   "ask_depth": 18279.71,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "25891991650064764290508868987036736856217623310113689045110330781534923968276",
    "condition_id": "0x1a4f3bc6c93e68989cd2e674c9b5cd2b3d5b2a8432800c8b5272ff1f9742fb6e",
    "title": "Toronto Blue Jays vs. San Diego Padres: O/U 8.5",
@@ -6467,6 +6449,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109933242989239460314702843901910472877446145431619977790879661154899011645553",
+   "condition_id": "0x7a165a01426747174f2ab1daacdf1d2e143a82e8cbab08fc26cc9b60af19d5a2",
+   "title": "Philadelphia Phillies vs. Detroit Tigers: O/U 7.5",
+   "outcome": "Under",
+   "slug": "mlb-phi-det-2026-07-12",
+   "opened_at": "2026-07-12T18:21:00.207274+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.6697,
+   "leader_cost": 5519.95,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.64,
+   "ask_depth": 18279.71,
+   "status": "won",
+   "closed_at": "2026-07-12T20:51:04.021162+00:00",
+   "exit_price": 1.0,
+   "pnl": 56.25,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6664,6 +6668,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1361.9284,
- "last_updated": "2026-07-12T20:31:12.475903+00:00"
+ "total_pnl": -1305.6784,
+ "last_updated": "2026-07-12T20:51:04.022559+00:00"
 }
