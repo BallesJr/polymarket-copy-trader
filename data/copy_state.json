@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9234.4814006,
+ "bankroll": 9134.4814006,
  "last_seen": {
-  "jtwyslljy": 1783797680,
+  "jtwyslljy": 1783815997,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3183,6 +3183,20 @@
    "SELL",
    2000,
    1783797680
+  ],
+  [
+   "0x42c8b22e142e700a7e0fe7426060a88f53007e308097a38f88d1a794f1c3dc38",
+   "20795803069552243897555693663290990476651649003331986463799284689605674072418",
+   "BUY",
+   10000,
+   1783815866
+  ],
+  [
+   "0xe0d8e760afd0d8e3e475f9b516e91bf59ebe817aa0fe02e8148c14dcc2849036",
+   "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "BUY",
+   437.78,
+   1783815997
   ]
  ],
  "leader_pos": {
@@ -4205,6 +4219,30 @@
    "cost": 4730.3775000000005,
    "max_shares": 10525.95,
    "last_trade_ts": 1783797244
+  },
+  "jtwyslljy|20795803069552243897555693663290990476651649003331986463799284689605674072418": {
+   "leader": "jtwyslljy",
+   "asset": "20795803069552243897555693663290990476651649003331986463799284689605674072418",
+   "condition_id": "0x3c7503474952b697741797aed32cc19a12d2020a96bba156717f8cdb5253f5d8",
+   "title": "Philadelphia Phillies vs. Detroit Tigers",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-phi-det-2026-07-11",
+   "shares": 10000.0,
+   "cost": 600.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1783815866
+  },
+  "jtwyslljy|101921090942619186601963730706372506442397979691927642162049518956120086345685": {
+   "leader": "jtwyslljy",
+   "asset": "101921090942619186601963730706372506442397979691927642162049518956120086345685",
+   "condition_id": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
+   "title": "Spread: Los Angeles Dodgers (-1.5)",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-ari-lad-2026-07-11",
+   "shares": 437.78,
+   "cost": 245.1568,
+   "max_shares": 437.78,
+   "last_trade_ts": 1783815997
   }
  },
  "positions": [
@@ -4260,6 +4298,24 @@
    "copy_delay_min": 7.5,
    "best_ask": 0.87,
    "ask_depth": 510.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20795803069552243897555693663290990476651649003331986463799284689605674072418",
+   "condition_id": "0x3c7503474952b697741797aed32cc19a12d2020a96bba156717f8cdb5253f5d8",
+   "title": "Philadelphia Phillies vs. Detroit Tigers",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-phi-det-2026-07-11",
+   "opened_at": "2026-07-12T00:31:01.584577+00:00",
+   "entry_price": 0.06,
+   "shares": 1666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.06,
+   "leader_cost": 600.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.06,
+   "ask_depth": 30868.99,
    "status": "open"
   }
  ],
@@ -5699,5 +5755,5 @@
   }
  ],
  "total_pnl": -465.5186,
- "last_updated": "2026-07-11T23:31:10.642535+00:00"
+ "last_updated": "2026-07-12T00:31:01.903248+00:00"
 }
