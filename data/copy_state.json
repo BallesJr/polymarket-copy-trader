@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8194.3215726,
+ "bankroll": 8333.2104726,
  "last_seen": {
   "jtwyslljy": 1783909402,
   "0x53757615de": 1783712023
@@ -4955,42 +4955,6 @@
    "best_ask": 0.846,
    "ask_depth": 3958.17,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "73646753318335919063316802695308563110118709299559968794937974633863970916300",
-   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
-   "title": "Indiana Fever vs. Las Vegas Aces",
-   "outcome": "Las Vegas Aces",
-   "slug": "wnba-ind-las-2026-07-12",
-   "opened_at": "2026-07-13T01:40:52.179753+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 2547.99,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.39,
-   "ask_depth": 324.14,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "87323996223558728935115089716752259054763868856001752886918983681153785909279",
-   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
-   "title": "Indiana Fever vs. Las Vegas Aces",
-   "outcome": "Indiana Fever",
-   "slug": "wnba-ind-las-2026-07-12",
-   "opened_at": "2026-07-13T02:01:09.097299+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.753,
-   "leader_cost": 13215.44,
-   "copy_delay_min": 3.4,
-   "best_ask": 0.72,
-   "ask_depth": 6538.44,
-   "status": "open"
   }
  ],
  "closed": [
@@ -6591,6 +6555,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "73646753318335919063316802695308563110118709299559968794937974633863970916300",
+   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
+   "title": "Indiana Fever vs. Las Vegas Aces",
+   "outcome": "Las Vegas Aces",
+   "slug": "wnba-ind-las-2026-07-12",
+   "opened_at": "2026-07-13T01:40:52.179753+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 2547.99,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.39,
+   "ask_depth": 324.14,
+   "status": "lost",
+   "closed_at": "2026-07-13T03:40:54.761192+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87323996223558728935115089716752259054763868856001752886918983681153785909279",
+   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
+   "title": "Indiana Fever vs. Las Vegas Aces",
+   "outcome": "Indiana Fever",
+   "slug": "wnba-ind-las-2026-07-12",
+   "opened_at": "2026-07-13T02:01:09.097299+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.753,
+   "leader_cost": 13215.44,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.72,
+   "ask_depth": 6538.44,
+   "status": "won",
+   "closed_at": "2026-07-13T03:40:55.036782+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -6788,6 +6796,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1405.6784,
- "last_updated": "2026-07-13T02:31:13.939644+00:00"
+ "total_pnl": -1466.7895,
+ "last_updated": "2026-07-13T03:40:55.037848+00:00"
 }
