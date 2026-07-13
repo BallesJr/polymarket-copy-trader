@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8118.3064586,
+ "bankroll": 8553.0890586,
  "last_seen": {
-  "jtwyslljy": 1783955666,
+  "jtwyslljy": 1783964252,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3799,6 +3799,13 @@
    "BUY",
    10000,
    1783955666
+  ],
+  [
+   "0x031f1c76cffb4d8b8ba18b0bd2ac33baef2f82c5be0117f1ac26134f3f4cd1cd",
+   "22802658047628185262426336324373705321198052778545297063402983858873604933908",
+   "SELL",
+   1800.23,
+   1783964252
   ]
  ],
  "leader_pos": {
@@ -5153,10 +5160,10 @@
    "title": "Croatia Open: Vit Kopriva vs Dino Prizmic",
    "outcome": "Vit Kopriva",
    "slug": "atp-kopriva-prizmic-2026-07-13",
-   "shares": 7141.02,
-   "cost": 1945.380960277284,
+   "shares": 5340.790000000001,
+   "cost": 1466.431550284892,
    "max_shares": 7141.02,
-   "last_trade_ts": 1783946845
+   "last_trade_ts": 1783964252
   },
   "jtwyslljy|34644166061220511258351645835625683992002224595531330297458917345318009251227": {
    "leader": "jtwyslljy",
@@ -5254,24 +5261,6 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "97578597051033806526244570677548011788684368166881406042714762212279550292992",
-   "condition_id": "0x59d1ceb5aeaac8ecc5d9b7e8b5291df675d39a234cfdfc9cbc9444cf406a40f6",
-   "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
-   "outcome": "Dominic Stephan Stricker",
-   "slug": "atp-stricke-munar-2026-07-13",
-   "opened_at": "2026-07-13T12:50:58.316162+00:00",
-   "entry_price": 0.23,
-   "shares": 434.7826,
-   "stake": 100.0,
-   "leader_vwap": 0.23,
-   "leader_cost": 2093.46,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.23,
-   "ask_depth": 6455.85,
    "status": "open"
   },
   {
@@ -7111,6 +7100,28 @@
    "exit_price": 1.0,
    "pnl": 21.9512,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97578597051033806526244570677548011788684368166881406042714762212279550292992",
+   "condition_id": "0x59d1ceb5aeaac8ecc5d9b7e8b5291df675d39a234cfdfc9cbc9444cf406a40f6",
+   "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
+   "outcome": "Dominic Stephan Stricker",
+   "slug": "atp-stricke-munar-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316162+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 2093.46,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.23,
+   "ask_depth": 6455.85,
+   "status": "won",
+   "closed_at": "2026-07-13T17:41:02.425264+00:00",
+   "exit_price": 1.0,
+   "pnl": 334.7826,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7318,6 +7329,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1481.6936000000003,
- "last_updated": "2026-07-13T17:11:04.052394+00:00"
+ "total_pnl": -1146.9110000000003,
+ "last_updated": "2026-07-13T17:41:02.426317+00:00"
 }
