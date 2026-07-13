@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8394.3215726,
+ "bankroll": 8294.3215726,
  "last_seen": {
-  "jtwyslljy": 1783883225,
+  "jtwyslljy": 1783906538,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3575,6 +3575,13 @@
    "BUY",
    8451.79,
    1783883225
+  ],
+  [
+   "0x0e77561cf00121e48054f6582ee2bfff281a6ce2d135df465b2399d1e63b1874",
+   "73646753318335919063316802695308563110118709299559968794937974633863970916300",
+   "BUY",
+   5925.55,
+   1783906538
   ]
  ],
  "leader_pos": {
@@ -4837,6 +4844,18 @@
    "cost": 4056.8592000000003,
    "max_shares": 8451.79,
    "last_trade_ts": 1783883225
+  },
+  "jtwyslljy|73646753318335919063316802695308563110118709299559968794937974633863970916300": {
+   "leader": "jtwyslljy",
+   "asset": "73646753318335919063316802695308563110118709299559968794937974633863970916300",
+   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
+   "title": "Indiana Fever vs. Las Vegas Aces",
+   "outcome": "Las Vegas Aces",
+   "slug": "wnba-ind-las-2026-07-12",
+   "shares": 5925.55,
+   "cost": 2547.9865,
+   "max_shares": 5925.55,
+   "last_trade_ts": 1783906538
   }
  },
  "positions": [
@@ -4874,6 +4893,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "73646753318335919063316802695308563110118709299559968794937974633863970916300",
+   "condition_id": "0xe3a20caed4d81a0d90aa0cbd95f438948a39701cf5beb2811b659155f140a90e",
+   "title": "Indiana Fever vs. Las Vegas Aces",
+   "outcome": "Las Vegas Aces",
+   "slug": "wnba-ind-las-2026-07-12",
+   "opened_at": "2026-07-13T01:40:52.179753+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 2547.99,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.39,
+   "ask_depth": 324.14,
    "status": "open"
   }
  ],
@@ -6673,5 +6710,5 @@
   }
  ],
  "total_pnl": -1405.6784,
- "last_updated": "2026-07-12T23:01:10.625554+00:00"
+ "last_updated": "2026-07-13T01:40:52.469515+00:00"
 }
