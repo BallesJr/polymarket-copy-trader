@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7995.0279726,
+ "bankroll": 8093.5354146,
  "last_seen": {
-  "jtwyslljy": 1783939826,
+  "jtwyslljy": 1783944380,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3708,6 +3708,13 @@
    "BUY",
    1783.02,
    1783939826
+  ],
+  [
+   "0xac8d623f98c3390d7d217c5174fab9172570761b16429ca4c2d42590d8313648",
+   "45704862788711329244464090016115702667862277533186126654368119650996828766562",
+   "SELL",
+   5887.78,
+   1783944380
   ]
  ],
  "leader_pos": {
@@ -5014,10 +5021,10 @@
    "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
    "outcome": "Jesper de Jong",
    "slug": "atp-jong-gaubas-2026-07-13",
-   "shares": 3548.56,
-   "cost": 2342.0496000000003,
+   "shares": -2339.22,
+   "cost": -1543.8851999999997,
    "max_shares": 3548.56,
-   "last_trade_ts": 1783927699
+   "last_trade_ts": 1783944380
   },
   "jtwyslljy|59055048577853087282559350202122619607526045938162079777082097615694852872422": {
    "leader": "jtwyslljy",
@@ -5121,24 +5128,6 @@
    "copy_delay_min": 7.8,
    "best_ask": 0.72,
    "ask_depth": 1465.5,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "45704862788711329244464090016115702667862277533186126654368119650996828766562",
-   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
-   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
-   "outcome": "Jesper de Jong",
-   "slug": "atp-jong-gaubas-2026-07-13",
-   "opened_at": "2026-07-13T07:31:04.117703+00:00",
-   "entry_price": 0.67,
-   "shares": 149.2537,
-   "stake": 100.0,
-   "leader_vwap": 0.66,
-   "leader_cost": 2342.05,
-   "copy_delay_min": 2.7,
-   "best_ask": 0.67,
-   "ask_depth": 3437.87,
    "status": "open"
   },
   {
@@ -6846,6 +6835,28 @@
    "exit_price": 1.0,
    "pnl": 14.9425,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45704862788711329244464090016115702667862277533186126654368119650996828766562",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "opened_at": "2026-07-13T07:31:04.117703+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 2342.05,
+   "copy_delay_min": 2.7,
+   "best_ask": 0.67,
+   "ask_depth": 3437.87,
+   "status": "closed",
+   "closed_at": "2026-07-13T12:10:56.883683+00:00",
+   "exit_price": 0.66,
+   "pnl": -1.4926,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -7043,6 +7054,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1504.972,
- "last_updated": "2026-07-13T11:10:57.257804+00:00"
+ "total_pnl": -1506.4646,
+ "last_updated": "2026-07-13T12:10:57.261069+00:00"
 }
