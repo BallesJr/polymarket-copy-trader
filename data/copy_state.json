@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8333.2104726,
+ "bankroll": 8233.2104726,
  "last_seen": {
-  "jtwyslljy": 1783909402,
+  "jtwyslljy": 1783915390,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3631,6 +3631,13 @@
    "BUY",
    861.95,
    1783909402
+  ],
+  [
+   "0xffd9998a7bf92df0d824ea3bebcfb914bfedaa2d00accb77030013c6152e66eb",
+   "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "BUY",
+   3917.22,
+   1783915390
   ]
  ],
  "leader_pos": {
@@ -4917,6 +4924,18 @@
    "cost": 13663.657300242963,
    "max_shares": 18412.91,
    "last_trade_ts": 1783909402
+  },
+  "jtwyslljy|78277472714100495438630332713304450172359959801968479115206479972208186486476": {
+   "leader": "jtwyslljy",
+   "asset": "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "condition_id": "0x93326ea69c29b0952ccc864f0614487b1b647b67f9f0b2d67fbb134f56c536af",
+   "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-feldbau-kecmano-2026-07-13",
+   "shares": 3917.22,
+   "cost": 2781.2261999999996,
+   "max_shares": 3917.22,
+   "last_trade_ts": 1783915390
   }
  },
  "positions": [
@@ -4954,6 +4973,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "condition_id": "0x93326ea69c29b0952ccc864f0614487b1b647b67f9f0b2d67fbb134f56c536af",
+   "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-feldbau-kecmano-2026-07-13",
+   "opened_at": "2026-07-13T04:10:55.932445+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 2781.23,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.72,
+   "ask_depth": 1465.5,
    "status": "open"
   }
  ],
@@ -6797,5 +6834,5 @@
   }
  ],
  "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T03:40:55.037848+00:00"
+ "last_updated": "2026-07-13T04:10:56.288111+00:00"
 }
