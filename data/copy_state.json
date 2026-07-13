@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7772.2811586,
+ "bankroll": 8096.3552586,
  "last_seen": {
   "jtwyslljy": 1783946845,
   "0x53757615de": 1783712023
@@ -5192,42 +5192,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "78277472714100495438630332713304450172359959801968479115206479972208186486476",
-   "condition_id": "0x93326ea69c29b0952ccc864f0614487b1b647b67f9f0b2d67fbb134f56c536af",
-   "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
-   "outcome": "Miomir Kecmanovic",
-   "slug": "atp-feldbau-kecmano-2026-07-13",
-   "opened_at": "2026-07-13T04:10:55.932445+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.71,
-   "leader_cost": 2781.23,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.72,
-   "ask_depth": 1465.5,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "34644166061220511258351645835625683992002224595531330297458917345318009251227",
-   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
-   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
-   "outcome": "Clement Tabur",
-   "slug": "atp-tabur-rodiono-2026-07-13",
-   "opened_at": "2026-07-13T12:20:58.567476+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.9079,
-   "leader_cost": 6132.3,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.54,
-   "ask_depth": 569.4,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "16295343982201798881623104105328482788833777698639684092124510672510271020304",
    "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
    "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
@@ -7011,6 +6975,50 @@
    "exit_price": 0.46,
    "pnl": -21.2543,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "condition_id": "0x93326ea69c29b0952ccc864f0614487b1b647b67f9f0b2d67fbb134f56c536af",
+   "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-feldbau-kecmano-2026-07-13",
+   "opened_at": "2026-07-13T04:10:55.932445+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 2781.23,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.72,
+   "ask_depth": 1465.5,
+   "status": "won",
+   "closed_at": "2026-07-13T13:21:01.078941+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34644166061220511258351645835625683992002224595531330297458917345318009251227",
+   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+   "outcome": "Clement Tabur",
+   "slug": "atp-tabur-rodiono-2026-07-13",
+   "opened_at": "2026-07-13T12:20:58.567476+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.9079,
+   "leader_cost": 6132.3,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.54,
+   "ask_depth": 569.4,
+   "status": "won",
+   "closed_at": "2026-07-13T13:21:01.309514+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7208,6 +7216,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1527.7189,
- "last_updated": "2026-07-13T12:50:58.632618+00:00"
+ "total_pnl": -1403.6448000000003,
+ "last_updated": "2026-07-13T13:21:01.310585+00:00"
 }
