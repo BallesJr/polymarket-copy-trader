@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8033.2104726,
  "last_seen": {
-  "jtwyslljy": 1783928749,
+  "jtwyslljy": 1783929166,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3659,6 +3659,20 @@
    "BUY",
    4057.62,
    1783928749
+  ],
+  [
+   "0x4c66fe8957532b525d0c266e3ad77d5d8291790561fe23522049e136b1e11096",
+   "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "BUY",
+   2900,
+   1783929092
+  ],
+  [
+   "0x1d3e21a56faa173d0d99ceea9bb7441fafabfb9c4e9516f9a73577122a3eb1ed",
+   "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "BUY",
+   383,
+   1783929166
   ]
  ],
  "leader_pos": {
@@ -4953,10 +4967,10 @@
    "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
    "outcome": "Miomir Kecmanovic",
    "slug": "atp-feldbau-kecmano-2026-07-13",
-   "shares": 3972.22,
-   "cost": 2821.3761999999997,
-   "max_shares": 3972.22,
-   "last_trade_ts": 1783921520
+   "shares": 6872.219999999999,
+   "cost": 4880.3762,
+   "max_shares": 6872.219999999999,
+   "last_trade_ts": 1783929092
   },
   "jtwyslljy|45704862788711329244464090016115702667862277533186126654368119650996828766562": {
    "leader": "jtwyslljy",
@@ -4977,10 +4991,10 @@
    "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
    "outcome": "Joel Schwaerzler",
    "slug": "atp-sonego-schwaer-2026-07-13",
-   "shares": 4057.62,
-   "cost": 1257.8622,
-   "max_shares": 4057.62,
-   "last_trade_ts": 1783928749
+   "shares": 4440.62,
+   "cost": 1380.4222,
+   "max_shares": 4440.62,
+   "last_trade_ts": 1783929166
   }
  },
  "positions": [
@@ -6915,5 +6929,5 @@
   }
  ],
  "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T07:51:01.706895+00:00"
+ "last_updated": "2026-07-13T07:58:37.478569+00:00"
 }
