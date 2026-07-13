@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8033.2104726,
+ "bankroll": 8080.0854726,
  "last_seen": {
-  "jtwyslljy": 1783929166,
+  "jtwyslljy": 1783934047,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3673,6 +3673,13 @@
    "BUY",
    383,
    1783929166
+  ],
+  [
+   "0xa07cd22fc4329a4b8dd4855acb737e0ea5de094ab2026c092bf3a615d2a021e9",
+   "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "SELL",
+   4499.66,
+   1783934047
   ]
  ],
  "leader_pos": {
@@ -4991,10 +4998,10 @@
    "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
    "outcome": "Joel Schwaerzler",
    "slug": "atp-sonego-schwaer-2026-07-13",
-   "shares": 4440.62,
-   "cost": 1380.4222,
+   "shares": -59.039999999999964,
+   "cost": 704.546400080174,
    "max_shares": 4440.62,
-   "last_trade_ts": 1783929166
+   "last_trade_ts": 1783934047
   }
  },
  "positions": [
@@ -5068,24 +5075,6 @@
    "copy_delay_min": 2.7,
    "best_ask": 0.67,
    "ask_depth": 3437.87,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "59055048577853087282559350202122619607526045938162079777082097615694852872422",
-   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
-   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
-   "outcome": "Joel Schwaerzler",
-   "slug": "atp-sonego-schwaer-2026-07-13",
-   "opened_at": "2026-07-13T07:51:01.399311+00:00",
-   "entry_price": 0.32,
-   "shares": 312.5,
-   "stake": 100.0,
-   "leader_vwap": 0.31,
-   "leader_cost": 1257.86,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.32,
-   "ask_depth": 17133.39,
    "status": "open"
   }
  ],
@@ -6731,6 +6720,28 @@
    "exit_price": 1.0,
    "pnl": 38.8889,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
+   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
+   "outcome": "Joel Schwaerzler",
+   "slug": "atp-sonego-schwaer-2026-07-13",
+   "opened_at": "2026-07-13T07:51:01.399311+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 1257.86,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.32,
+   "ask_depth": 17133.39,
+   "status": "closed",
+   "closed_at": "2026-07-13T09:21:02.500920+00:00",
+   "exit_price": 0.15,
+   "pnl": -53.125,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -6928,6 +6939,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T07:58:37.478569+00:00"
+ "total_pnl": -1519.9145,
+ "last_updated": "2026-07-13T09:21:02.845948+00:00"
 }
