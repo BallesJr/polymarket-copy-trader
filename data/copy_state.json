@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8294.3215726,
  "last_seen": {
-  "jtwyslljy": 1783906538,
+  "jtwyslljy": 1783907008,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3582,6 +3582,13 @@
    "BUY",
    5925.55,
    1783906538
+  ],
+  [
+   "0xc35aeed01727d8df1ded360b6a9b43e186610e9c11c2611c9f02cbcca03c4a70",
+   "73646753318335919063316802695308563110118709299559968794937974633863970916300",
+   "BUY",
+   206,
+   1783907008
   ]
  ],
  "leader_pos": {
@@ -4852,10 +4859,10 @@
    "title": "Indiana Fever vs. Las Vegas Aces",
    "outcome": "Las Vegas Aces",
    "slug": "wnba-ind-las-2026-07-12",
-   "shares": 5925.55,
-   "cost": 2547.9865,
-   "max_shares": 5925.55,
-   "last_trade_ts": 1783906538
+   "shares": 6131.55,
+   "cost": 2609.7865,
+   "max_shares": 6131.55,
+   "last_trade_ts": 1783907008
   }
  },
  "positions": [
@@ -6710,5 +6717,5 @@
   }
  ],
  "total_pnl": -1405.6784,
- "last_updated": "2026-07-13T01:40:52.469515+00:00"
+ "last_updated": "2026-07-13T01:50:49.884727+00:00"
 }
