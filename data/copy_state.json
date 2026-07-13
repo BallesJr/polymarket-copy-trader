@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7980.0854726,
+ "bankroll": 7880.0854726,
  "last_seen": {
-  "jtwyslljy": 1783934507,
+  "jtwyslljy": 1783938620,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3687,6 +3687,13 @@
    "BUY",
    4000,
    1783934507
+  ],
+  [
+   "0xc5d7f937f94f3df91822c59f631110f4aaf08ab777bfd8b5738ccf1e8b11da52",
+   "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "BUY",
+   17011.68,
+   1783938620
   ]
  ],
  "leader_pos": {
@@ -5021,6 +5028,18 @@
    "cost": 3440.0,
    "max_shares": 4000.0,
    "last_trade_ts": 1783934507
+  },
+  "jtwyslljy|92586009990460958705316819084903083294189545174706848875145768795086973331273": {
+   "leader": "jtwyslljy",
+   "asset": "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+   "outcome": "Jurij Rodionov",
+   "slug": "atp-tabur-rodiono-2026-07-13",
+   "shares": 17011.68,
+   "cost": 9526.5408,
+   "max_shares": 17011.68,
+   "last_trade_ts": 1783938620
   }
  },
  "positions": [
@@ -5112,6 +5131,24 @@
    "copy_delay_min": 9.3,
    "best_ask": 0.87,
    "ask_depth": 1833.79,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+   "outcome": "Jurij Rodionov",
+   "slug": "atp-tabur-rodiono-2026-07-13",
+   "opened_at": "2026-07-13T10:40:58.736313+00:00",
+   "entry_price": 0.5842,
+   "shares": 171.1864,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 9526.54,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.58,
+   "ask_depth": 100.0,
    "status": "open"
   }
  ],
@@ -6977,5 +7014,5 @@
   }
  ],
  "total_pnl": -1519.9145,
- "last_updated": "2026-07-13T09:31:06.658408+00:00"
+ "last_updated": "2026-07-13T10:40:59.082168+00:00"
 }
