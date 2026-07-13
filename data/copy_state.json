@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8072.2811586,
+ "bankroll": 7772.2811586,
  "last_seen": {
-  "jtwyslljy": 1783944679,
+  "jtwyslljy": 1783946845,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3736,6 +3736,27 @@
    "BUY",
    1393.67,
    1783944679
+  ],
+  [
+   "0x2b6e0040f7a8f76fc2ab708187cc849cba39485453f29271ddc0bbe4a5577958",
+   "16295343982201798881623104105328482788833777698639684092124510672510271020304",
+   "BUY",
+   4744.15,
+   1783946789
+  ],
+  [
+   "0x66c033116b142c1f6f03a357100c8f98769a0c0ee2adc08b7144f13cf2bd5f01",
+   "97578597051033806526244570677548011788684368166881406042714762212279550292992",
+   "BUY",
+   9102,
+   1783946818
+  ],
+  [
+   "0x70abb02d19472ffbcb96b156fcae758cdbfcbf09883c18a120cf064cf218d78b",
+   "22802658047628185262426336324373705321198052778545297063402983858873604933908",
+   "BUY",
+   5358,
+   1783946845
   ]
  ],
  "leader_pos": {
@@ -5090,10 +5111,10 @@
    "title": "Croatia Open: Vit Kopriva vs Dino Prizmic",
    "outcome": "Vit Kopriva",
    "slug": "atp-kopriva-prizmic-2026-07-13",
-   "shares": 1783.02,
-   "cost": 489.42550002728404,
-   "max_shares": 1783.02,
-   "last_trade_ts": 1783939826
+   "shares": 7141.02,
+   "cost": 1945.380960277284,
+   "max_shares": 7141.02,
+   "last_trade_ts": 1783946845
   },
   "jtwyslljy|34644166061220511258351645835625683992002224595531330297458917345318009251227": {
    "leader": "jtwyslljy",
@@ -5106,6 +5127,30 @@
    "cost": 6132.3034,
    "max_shares": 6754.11,
    "last_trade_ts": 1783944679
+  },
+  "jtwyslljy|16295343982201798881623104105328482788833777698639684092124510672510271020304": {
+   "leader": "jtwyslljy",
+   "asset": "16295343982201798881623104105328482788833777698639684092124510672510271020304",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "shares": 4744.15,
+   "cost": 1518.128,
+   "max_shares": 4744.15,
+   "last_trade_ts": 1783946789
+  },
+  "jtwyslljy|97578597051033806526244570677548011788684368166881406042714762212279550292992": {
+   "leader": "jtwyslljy",
+   "asset": "97578597051033806526244570677548011788684368166881406042714762212279550292992",
+   "condition_id": "0x59d1ceb5aeaac8ecc5d9b7e8b5291df675d39a234cfdfc9cbc9444cf406a40f6",
+   "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
+   "outcome": "Dominic Stephan Stricker",
+   "slug": "atp-stricke-munar-2026-07-13",
+   "shares": 9102.0,
+   "cost": 2093.46,
+   "max_shares": 9102.0,
+   "last_trade_ts": 1783946818
   }
  },
  "positions": [
@@ -5179,6 +5224,60 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.54,
    "ask_depth": 569.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16295343982201798881623104105328482788833777698639684092124510672510271020304",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316090+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 1518.13,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.33,
+   "ask_depth": 14512.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97578597051033806526244570677548011788684368166881406042714762212279550292992",
+   "condition_id": "0x59d1ceb5aeaac8ecc5d9b7e8b5291df675d39a234cfdfc9cbc9444cf406a40f6",
+   "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
+   "outcome": "Dominic Stephan Stricker",
+   "slug": "atp-stricke-munar-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316162+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 2093.46,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.23,
+   "ask_depth": 6455.85,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22802658047628185262426336324373705321198052778545297063402983858873604933908",
+   "condition_id": "0x4cac02573bc972647d22951a2aa2715447ff04945ede1be6876bc085ddd78634",
+   "title": "Croatia Open: Vit Kopriva vs Dino Prizmic",
+   "outcome": "Vit Kopriva",
+   "slug": "atp-kopriva-prizmic-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316224+00:00",
+   "entry_price": 0.2719,
+   "shares": 367.7158,
+   "stake": 100.0,
+   "leader_vwap": 0.2724,
+   "leader_cost": 1945.38,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.271,
+   "ask_depth": 18.7,
    "status": "open"
   }
  ],
@@ -7110,5 +7209,5 @@
   }
  ],
  "total_pnl": -1527.7189,
- "last_updated": "2026-07-13T12:20:58.916426+00:00"
+ "last_updated": "2026-07-13T12:50:58.632618+00:00"
 }
