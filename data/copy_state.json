@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8096.3552586,
+ "bankroll": 7996.3552586,
  "last_seen": {
-  "jtwyslljy": 1783953008,
+  "jtwyslljy": 1783953766,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3771,6 +3771,13 @@
    "BUY",
    21781.79,
    1783953008
+  ],
+  [
+   "0xf1b2f5379cf17ee816fd83589af61300cf5345bad136c4ae037aa82980ef0dd7",
+   "90969681247366135990758153182077639248674080661556950144035659601251370404510",
+   "BUY",
+   778.79,
+   1783953766
   ]
  ],
  "leader_pos": {
@@ -5177,6 +5184,18 @@
    "cost": 11324.879799128832,
    "max_shares": 21781.79,
    "last_trade_ts": 1783953008
+  },
+  "jtwyslljy|90969681247366135990758153182077639248674080661556950144035659601251370404510": {
+   "leader": "jtwyslljy",
+   "asset": "90969681247366135990758153182077639248674080661556950144035659601251370404510",
+   "condition_id": "0xcb693e668e4e47f5ea9f95381af37f290a342683fb2bc40327a1efeb84877fa6",
+   "title": "Athens Open: Qinwen Zheng vs Jessica Bouzas Maneiro",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-maneiro-2026-07-13",
+   "shares": 778.79,
+   "cost": 537.3651,
+   "max_shares": 778.79,
+   "last_trade_ts": 1783953766
   }
  },
  "positions": [
@@ -5268,6 +5287,24 @@
    "copy_delay_min": 3.5,
    "best_ask": 0.271,
    "ask_depth": 18.7,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "90969681247366135990758153182077639248674080661556950144035659601251370404510",
+   "condition_id": "0xcb693e668e4e47f5ea9f95381af37f290a342683fb2bc40327a1efeb84877fa6",
+   "title": "Athens Open: Qinwen Zheng vs Jessica Bouzas Maneiro",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-maneiro-2026-07-13",
+   "opened_at": "2026-07-13T14:51:00.278087+00:00",
+   "entry_price": 0.82,
+   "shares": 121.9512,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 537.37,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.82,
+   "ask_depth": 21690.03,
    "status": "open"
   }
  ],
@@ -7253,5 +7290,5 @@
   }
  ],
  "total_pnl": -1403.6448000000003,
- "last_updated": "2026-07-13T14:41:02.637484+00:00"
+ "last_updated": "2026-07-13T14:51:00.577218+00:00"
 }
