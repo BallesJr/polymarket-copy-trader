@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7996.3552586,
  "last_seen": {
-  "jtwyslljy": 1783954457,
+  "jtwyslljy": 1783955266,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3785,6 +3785,13 @@
    "BUY",
    176,
    1783954457
+  ],
+  [
+   "0x4e6722be077fbdea59d1987232ab98c2d507bc76b510c5bfd89f88d0b1748e54",
+   "97578597051033806526244570677548011788684368166881406042714762212279550292992",
+   "BUY",
+   6000,
+   1783955266
   ]
  ],
  "leader_pos": {
@@ -5175,10 +5182,10 @@
    "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
    "outcome": "Dominic Stephan Stricker",
    "slug": "atp-stricke-munar-2026-07-13",
-   "shares": 9102.0,
-   "cost": 2093.46,
-   "max_shares": 9102.0,
-   "last_trade_ts": 1783946818
+   "shares": 15102.0,
+   "cost": 3353.46,
+   "max_shares": 15102.0,
+   "last_trade_ts": 1783955266
   },
   "jtwyslljy|103146588870747373206607612542594409135730188012207225247871684708832479223948": {
    "leader": "jtwyslljy",
@@ -7297,5 +7304,5 @@
   }
  ],
  "total_pnl": -1403.6448000000003,
- "last_updated": "2026-07-13T15:01:16.416049+00:00"
+ "last_updated": "2026-07-13T15:10:58.177180+00:00"
 }
