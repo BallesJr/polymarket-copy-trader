@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8233.2104726,
+ "bankroll": 8133.2104726,
  "last_seen": {
-  "jtwyslljy": 1783921520,
+  "jtwyslljy": 1783927699,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3645,6 +3645,13 @@
    "BUY",
    55,
    1783921520
+  ],
+  [
+   "0xd9593296ab46f4d2b21a38b0f5508ec6f93c5189eda2ec0ebe6275e6b205f3a8",
+   "45704862788711329244464090016115702667862277533186126654368119650996828766562",
+   "BUY",
+   3548.56,
+   1783927699
   ]
  ],
  "leader_pos": {
@@ -4943,6 +4950,18 @@
    "cost": 2821.3761999999997,
    "max_shares": 3972.22,
    "last_trade_ts": 1783921520
+  },
+  "jtwyslljy|45704862788711329244464090016115702667862277533186126654368119650996828766562": {
+   "leader": "jtwyslljy",
+   "asset": "45704862788711329244464090016115702667862277533186126654368119650996828766562",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "shares": 3548.56,
+   "cost": 2342.0496000000003,
+   "max_shares": 3548.56,
+   "last_trade_ts": 1783927699
   }
  },
  "positions": [
@@ -4998,6 +5017,24 @@
    "copy_delay_min": 7.8,
    "best_ask": 0.72,
    "ask_depth": 1465.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45704862788711329244464090016115702667862277533186126654368119650996828766562",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "opened_at": "2026-07-13T07:31:04.117703+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 2342.05,
+   "copy_delay_min": 2.7,
+   "best_ask": 0.67,
+   "ask_depth": 3437.87,
    "status": "open"
   }
  ],
@@ -6841,5 +6878,5 @@
   }
  ],
  "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T05:50:56.646552+00:00"
+ "last_updated": "2026-07-13T07:31:04.439776+00:00"
 }
