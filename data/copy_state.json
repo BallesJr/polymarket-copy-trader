@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8133.2104726,
+ "bankroll": 8033.2104726,
  "last_seen": {
-  "jtwyslljy": 1783927699,
+  "jtwyslljy": 1783928749,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3652,6 +3652,13 @@
    "BUY",
    3548.56,
    1783927699
+  ],
+  [
+   "0x22f41d376e51b15ddb3544a539af8843335aa3d2ba997a11aa4d298261dfe458",
+   "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "BUY",
+   4057.62,
+   1783928749
   ]
  ],
  "leader_pos": {
@@ -4962,6 +4969,18 @@
    "cost": 2342.0496000000003,
    "max_shares": 3548.56,
    "last_trade_ts": 1783927699
+  },
+  "jtwyslljy|59055048577853087282559350202122619607526045938162079777082097615694852872422": {
+   "leader": "jtwyslljy",
+   "asset": "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
+   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
+   "outcome": "Joel Schwaerzler",
+   "slug": "atp-sonego-schwaer-2026-07-13",
+   "shares": 4057.62,
+   "cost": 1257.8622,
+   "max_shares": 4057.62,
+   "last_trade_ts": 1783928749
   }
  },
  "positions": [
@@ -5035,6 +5054,24 @@
    "copy_delay_min": 2.7,
    "best_ask": 0.67,
    "ask_depth": 3437.87,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "59055048577853087282559350202122619607526045938162079777082097615694852872422",
+   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
+   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
+   "outcome": "Joel Schwaerzler",
+   "slug": "atp-sonego-schwaer-2026-07-13",
+   "opened_at": "2026-07-13T07:51:01.399311+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 1257.86,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.32,
+   "ask_depth": 17133.39,
    "status": "open"
   }
  ],
@@ -6878,5 +6915,5 @@
   }
  ],
  "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T07:31:04.439776+00:00"
+ "last_updated": "2026-07-13T07:51:01.706895+00:00"
 }
