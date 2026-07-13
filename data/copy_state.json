@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7996.3552586,
  "last_seen": {
-  "jtwyslljy": 1783953766,
+  "jtwyslljy": 1783954457,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3778,6 +3778,13 @@
    "BUY",
    778.79,
    1783953766
+  ],
+  [
+   "0x3c2bba863dcc561e1edb5334d6ae0ad3a8f9135c4c18b9c912bcf5c19aa5707d",
+   "90969681247366135990758153182077639248674080661556950144035659601251370404510",
+   "BUY",
+   176,
+   1783954457
   ]
  ],
  "leader_pos": {
@@ -5192,10 +5199,10 @@
    "title": "Athens Open: Qinwen Zheng vs Jessica Bouzas Maneiro",
    "outcome": "Qinwen Zheng",
    "slug": "wta-zhen-maneiro-2026-07-13",
-   "shares": 778.79,
-   "cost": 537.3651,
-   "max_shares": 778.79,
-   "last_trade_ts": 1783953766
+   "shares": 954.79,
+   "cost": 683.4450999999999,
+   "max_shares": 954.79,
+   "last_trade_ts": 1783954457
   }
  },
  "positions": [
@@ -7290,5 +7297,5 @@
   }
  ],
  "total_pnl": -1403.6448000000003,
- "last_updated": "2026-07-13T14:51:00.577218+00:00"
+ "last_updated": "2026-07-13T15:01:16.416049+00:00"
 }
