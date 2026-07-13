@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8096.3552586,
  "last_seen": {
-  "jtwyslljy": 1783949507,
+  "jtwyslljy": 1783953008,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3764,6 +3764,13 @@
    "BUY",
    2977.71,
    1783949507
+  ],
+  [
+   "0xec0759df3ed690cc9e4a61006a04a56732eb922629a97360f5fb2081aea53d3e",
+   "103146588870747373206607612542594409135730188012207225247871684708832479223948",
+   "BUY",
+   21781.79,
+   1783953008
   ]
  ],
  "leader_pos": {
@@ -5158,6 +5165,18 @@
    "cost": 2093.46,
    "max_shares": 9102.0,
    "last_trade_ts": 1783946818
+  },
+  "jtwyslljy|103146588870747373206607612542594409135730188012207225247871684708832479223948": {
+   "leader": "jtwyslljy",
+   "asset": "103146588870747373206607612542594409135730188012207225247871684708832479223948",
+   "condition_id": "0x497bd6fab1cd2dbee3fa004a1b9db610b417ade6fdd746dc49ee1955eb34d626",
+   "title": "Swiss Open: Raphael Collignon vs Timofey Skatov",
+   "outcome": "Raphael Collignon",
+   "slug": "atp-collign-skatov-2026-07-13",
+   "shares": 21781.79,
+   "cost": 11324.879799128832,
+   "max_shares": 21781.79,
+   "last_trade_ts": 1783953008
   }
  },
  "positions": [
@@ -7221,8 +7240,18 @@
    "leader": "jtwyslljy",
    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
    "outcome": "Pittsburgh Pirates"
+  },
+  {
+   "at": "2026-07-13T14:41:02.281218+00:00",
+   "reason": "chase",
+   "ask": 0.74,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.5199,
+   "leader": "jtwyslljy",
+   "title": "Swiss Open: Raphael Collignon vs Timofey Skatov",
+   "outcome": "Raphael Collignon"
   }
  ],
  "total_pnl": -1403.6448000000003,
- "last_updated": "2026-07-13T13:40:03.922604+00:00"
+ "last_updated": "2026-07-13T14:41:02.637484+00:00"
 }
