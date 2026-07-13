@@ -5258,24 +5258,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "16295343982201798881623104105328482788833777698639684092124510672510271020304",
-   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
-   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
-   "outcome": "Vilius Gaubas",
-   "slug": "atp-jong-gaubas-2026-07-13",
-   "opened_at": "2026-07-13T12:50:58.316090+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.32,
-   "leader_cost": 1518.13,
-   "copy_delay_min": 4.5,
-   "best_ask": 0.33,
-   "ask_depth": 14512.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97578597051033806526244570677548011788684368166881406042714762212279550292992",
    "condition_id": "0x59d1ceb5aeaac8ecc5d9b7e8b5291df675d39a234cfdfc9cbc9444cf406a40f6",
    "title": "Swiss Open: Dominic Stephan Stricker vs Jaume Munar",
@@ -7103,6 +7085,28 @@
    "exit_price": 1.0,
    "pnl": 85.1852,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16295343982201798881623104105328482788833777698639684092124510672510271020304",
+   "condition_id": "0x13879c7fe3f5ff3fa3877dcda4a0120378adafe7c3cd69b83bea96ab1a5fda40",
+   "title": "Swedish Open: Jesper de Jong vs Vilius Gaubas",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-jong-gaubas-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316090+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 1518.13,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.33,
+   "ask_depth": 14512.17,
+   "status": "lost",
+   "closed_at": "2026-07-13T17:01:23.352758+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7310,6 +7314,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1403.6448000000003,
- "last_updated": "2026-07-13T15:20:57.596033+00:00"
+ "total_pnl": -1503.6448000000003,
+ "last_updated": "2026-07-13T17:01:23.630016+00:00"
 }
