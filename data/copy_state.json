@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7996.3552586,
+ "bankroll": 8118.3064586,
  "last_seen": {
   "jtwyslljy": 1783955666,
   "0x53757615de": 1783712023
@@ -5291,24 +5291,6 @@
    "best_ask": 0.271,
    "ask_depth": 18.7,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "90969681247366135990758153182077639248674080661556950144035659601251370404510",
-   "condition_id": "0xcb693e668e4e47f5ea9f95381af37f290a342683fb2bc40327a1efeb84877fa6",
-   "title": "Athens Open: Qinwen Zheng vs Jessica Bouzas Maneiro",
-   "outcome": "Qinwen Zheng",
-   "slug": "wta-zhen-maneiro-2026-07-13",
-   "opened_at": "2026-07-13T14:51:00.278087+00:00",
-   "entry_price": 0.82,
-   "shares": 121.9512,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 537.37,
-   "copy_delay_min": 8.2,
-   "best_ask": 0.82,
-   "ask_depth": 21690.03,
-   "status": "open"
   }
  ],
  "closed": [
@@ -7107,6 +7089,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "90969681247366135990758153182077639248674080661556950144035659601251370404510",
+   "condition_id": "0xcb693e668e4e47f5ea9f95381af37f290a342683fb2bc40327a1efeb84877fa6",
+   "title": "Athens Open: Qinwen Zheng vs Jessica Bouzas Maneiro",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-maneiro-2026-07-13",
+   "opened_at": "2026-07-13T14:51:00.278087+00:00",
+   "entry_price": 0.82,
+   "shares": 121.9512,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 537.37,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.82,
+   "ask_depth": 21690.03,
+   "status": "won",
+   "closed_at": "2026-07-13T17:11:04.051349+00:00",
+   "exit_price": 1.0,
+   "pnl": 21.9512,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7314,6 +7318,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1503.6448000000003,
- "last_updated": "2026-07-13T17:01:23.630016+00:00"
+ "total_pnl": -1481.6936000000003,
+ "last_updated": "2026-07-13T17:11:04.052394+00:00"
 }
