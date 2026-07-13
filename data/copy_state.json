@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8233.2104726,
  "last_seen": {
-  "jtwyslljy": 1783915390,
+  "jtwyslljy": 1783921520,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3638,6 +3638,13 @@
    "BUY",
    3917.22,
    1783915390
+  ],
+  [
+   "0xc86eb035053c57d9fe1aab2da931763b038ec4c8fa3cfcfe4cfc0b1af62c6ed2",
+   "78277472714100495438630332713304450172359959801968479115206479972208186486476",
+   "BUY",
+   55,
+   1783921520
   ]
  ],
  "leader_pos": {
@@ -4932,10 +4939,10 @@
    "title": "Swiss Open: Kilian Feldbausch vs Miomir Kecmanovic",
    "outcome": "Miomir Kecmanovic",
    "slug": "atp-feldbau-kecmano-2026-07-13",
-   "shares": 3917.22,
-   "cost": 2781.2261999999996,
-   "max_shares": 3917.22,
-   "last_trade_ts": 1783915390
+   "shares": 3972.22,
+   "cost": 2821.3761999999997,
+   "max_shares": 3972.22,
+   "last_trade_ts": 1783921520
   }
  },
  "positions": [
@@ -6834,5 +6841,5 @@
   }
  ],
  "total_pnl": -1466.7895,
- "last_updated": "2026-07-13T04:10:56.288111+00:00"
+ "last_updated": "2026-07-13T05:50:56.646552+00:00"
 }
