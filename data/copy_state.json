@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7880.0854726,
+ "bankroll": 7995.0279726,
  "last_seen": {
   "jtwyslljy": 1783939826,
   "0x53757615de": 1783712023
@@ -5143,24 +5143,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "42343430604404885710572549961373523645491698211273547848856877391781963544185",
-   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
-   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
-   "outcome": "Lorenzo Sonego",
-   "slug": "atp-sonego-schwaer-2026-07-13",
-   "opened_at": "2026-07-13T09:31:06.314654+00:00",
-   "entry_price": 0.87,
-   "shares": 114.9425,
-   "stake": 100.0,
-   "leader_vwap": 0.86,
-   "leader_cost": 3440.0,
-   "copy_delay_min": 9.3,
-   "best_ask": 0.87,
-   "ask_depth": 1833.79,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "92586009990460958705316819084903083294189545174706848875145768795086973331273",
    "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
    "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
@@ -6842,6 +6824,28 @@
    "exit_price": 0.15,
    "pnl": -53.125,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42343430604404885710572549961373523645491698211273547848856877391781963544185",
+   "condition_id": "0x3cd3992558f216ac1a2d64f29d180a42520c47d76bb496262a5f0a30da63ad18",
+   "title": "Swiss Open: Lorenzo Sonego vs Joel Schwaerzler",
+   "outcome": "Lorenzo Sonego",
+   "slug": "atp-sonego-schwaer-2026-07-13",
+   "opened_at": "2026-07-13T09:31:06.314654+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.86,
+   "leader_cost": 3440.0,
+   "copy_delay_min": 9.3,
+   "best_ask": 0.87,
+   "ask_depth": 1833.79,
+   "status": "won",
+   "closed_at": "2026-07-13T11:10:57.256934+00:00",
+   "exit_price": 1.0,
+   "pnl": 14.9425,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7039,6 +7043,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1519.9145,
- "last_updated": "2026-07-13T11:01:15.081928+00:00"
+ "total_pnl": -1504.972,
+ "last_updated": "2026-07-13T11:10:57.257804+00:00"
 }
