@@ -5269,24 +5269,6 @@
    "best_ask": 0.846,
    "ask_depth": 3958.17,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "22802658047628185262426336324373705321198052778545297063402983858873604933908",
-   "condition_id": "0x4cac02573bc972647d22951a2aa2715447ff04945ede1be6876bc085ddd78634",
-   "title": "Croatia Open: Vit Kopriva vs Dino Prizmic",
-   "outcome": "Vit Kopriva",
-   "slug": "atp-kopriva-prizmic-2026-07-13",
-   "opened_at": "2026-07-13T12:50:58.316224+00:00",
-   "entry_price": 0.2719,
-   "shares": 367.7158,
-   "stake": 100.0,
-   "leader_vwap": 0.2724,
-   "leader_cost": 1945.38,
-   "copy_delay_min": 3.5,
-   "best_ask": 0.271,
-   "ask_depth": 18.7,
-   "status": "open"
   }
  ],
  "closed": [
@@ -7129,6 +7111,28 @@
    "exit_price": 1.0,
    "pnl": 334.7826,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22802658047628185262426336324373705321198052778545297063402983858873604933908",
+   "condition_id": "0x4cac02573bc972647d22951a2aa2715447ff04945ede1be6876bc085ddd78634",
+   "title": "Croatia Open: Vit Kopriva vs Dino Prizmic",
+   "outcome": "Vit Kopriva",
+   "slug": "atp-kopriva-prizmic-2026-07-13",
+   "opened_at": "2026-07-13T12:50:58.316224+00:00",
+   "entry_price": 0.2719,
+   "shares": 367.7158,
+   "stake": 100.0,
+   "leader_vwap": 0.2724,
+   "leader_cost": 1945.38,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.271,
+   "ask_depth": 18.7,
+   "status": "lost",
+   "closed_at": "2026-07-13T21:10:57.395456+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7336,6 +7340,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1146.9110000000003,
- "last_updated": "2026-07-13T18:10:59.426464+00:00"
+ "total_pnl": -1246.9110000000003,
+ "last_updated": "2026-07-13T21:10:57.396601+00:00"
 }
