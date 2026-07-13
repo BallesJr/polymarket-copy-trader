@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8093.5354146,
+ "bankroll": 8072.2811586,
  "last_seen": {
-  "jtwyslljy": 1783944380,
+  "jtwyslljy": 1783944679,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3715,6 +3715,27 @@
    "SELL",
    5887.78,
    1783944380
+  ],
+  [
+   "0xa7b55dab6c25f6341d77238e7fd43705fb7c99b0f5c395a247b475c476a4621f",
+   "34644166061220511258351645835625683992002224595531330297458917345318009251227",
+   "BUY",
+   5360.44,
+   1783944604
+  ],
+  [
+   "0x3cc4ee504d0e6462b5ef9dbe4fde62b5944ba338140fac002a95ddfd33e0315d",
+   "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "SELL",
+   14999.74,
+   1783944622
+  ],
+  [
+   "0xf2b7819382a7b82a3f125affae52ff802dff2cc5bfbb8cbe5aaa7282ba3d833c",
+   "34644166061220511258351645835625683992002224595531330297458917345318009251227",
+   "BUY",
+   1393.67,
+   1783944679
   ]
  ],
  "leader_pos": {
@@ -5057,10 +5078,10 @@
    "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
    "outcome": "Jurij Rodionov",
    "slug": "atp-tabur-rodiono-2026-07-13",
-   "shares": 17011.68,
-   "cost": 9526.5408,
+   "shares": 2011.9400000000005,
+   "cost": 8326.5616,
    "max_shares": 17011.68,
-   "last_trade_ts": 1783938620
+   "last_trade_ts": 1783944622
   },
   "jtwyslljy|22802658047628185262426336324373705321198052778545297063402983858873604933908": {
    "leader": "jtwyslljy",
@@ -5073,6 +5094,18 @@
    "cost": 489.42550002728404,
    "max_shares": 1783.02,
    "last_trade_ts": 1783939826
+  },
+  "jtwyslljy|34644166061220511258351645835625683992002224595531330297458917345318009251227": {
+   "leader": "jtwyslljy",
+   "asset": "34644166061220511258351645835625683992002224595531330297458917345318009251227",
+   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+   "outcome": "Clement Tabur",
+   "slug": "atp-tabur-rodiono-2026-07-13",
+   "shares": 6754.11,
+   "cost": 6132.3034,
+   "max_shares": 6754.11,
+   "last_trade_ts": 1783944679
   }
  },
  "positions": [
@@ -5132,20 +5165,20 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "asset": "34644166061220511258351645835625683992002224595531330297458917345318009251227",
    "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
    "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
-   "outcome": "Jurij Rodionov",
+   "outcome": "Clement Tabur",
    "slug": "atp-tabur-rodiono-2026-07-13",
-   "opened_at": "2026-07-13T10:40:58.736313+00:00",
-   "entry_price": 0.5842,
-   "shares": 171.1864,
+   "opened_at": "2026-07-13T12:20:58.567476+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
    "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 9526.54,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.58,
-   "ask_depth": 100.0,
+   "leader_vwap": 0.9079,
+   "leader_cost": 6132.3,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.54,
+   "ask_depth": 569.4,
    "status": "open"
   }
  ],
@@ -6857,6 +6890,28 @@
    "exit_price": 0.66,
    "pnl": -1.4926,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92586009990460958705316819084903083294189545174706848875145768795086973331273",
+   "condition_id": "0x553cbbe7f501555ddff00853c59baf713399a28e5368c32c6994932b23fe211c",
+   "title": "Swiss Open: Clement Tabur vs Jurij Rodionov",
+   "outcome": "Jurij Rodionov",
+   "slug": "atp-tabur-rodiono-2026-07-13",
+   "opened_at": "2026-07-13T10:40:58.736313+00:00",
+   "entry_price": 0.5842,
+   "shares": 171.1864,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 9526.54,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.58,
+   "ask_depth": 100.0,
+   "status": "closed",
+   "closed_at": "2026-07-13T12:20:58.567397+00:00",
+   "exit_price": 0.46,
+   "pnl": -21.2543,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -7054,6 +7109,6 @@
    "outcome": "Pittsburgh Pirates"
   }
  ],
- "total_pnl": -1506.4646,
- "last_updated": "2026-07-13T12:10:57.261069+00:00"
+ "total_pnl": -1527.7189,
+ "last_updated": "2026-07-13T12:20:58.916426+00:00"
 }
