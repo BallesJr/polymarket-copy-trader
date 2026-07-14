@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8920.308977600002,
+ "bankroll": 9082.646677600002,
  "last_seen": {
   "jtwyslljy": 1784038379,
   "0x53757615de": 1784029784
@@ -5685,42 +5685,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "103013976170153711807028448860521549600243051359419194015557286212670548370991",
-   "condition_id": "0x6ba168864d6b4804fe239a05efd67f5c5cf4949d705dc01ef5509eaddc148884",
-   "title": "Swedish Open: Daniel Altmaier vs Hugo Gaston",
-   "outcome": "Daniel Altmaier",
-   "slug": "atp-altmaie-gaston-2026-07-13",
-   "opened_at": "2026-07-14T06:50:55.927028+00:00",
-   "entry_price": 0.616,
-   "shares": 162.3377,
-   "stake": 100.0,
-   "leader_vwap": 0.6098,
-   "leader_cost": 839.24,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.616,
-   "ask_depth": 582.68,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "91550316708594215938569132144869567554472620819014603089665011718899685150022",
-   "condition_id": "0x8fe2b5a14c490048d2fd12148fc7fbe730ae433b1cfdf1c0cc19273a77321bef",
-   "title": "Swedish Open: Nuno Borges vs Moise Kouame",
-   "outcome": "Moise Kouame",
-   "slug": "atp-borges-kouame-2026-07-13",
-   "opened_at": "2026-07-14T07:01:17.565813+00:00",
-   "entry_price": 0.257,
-   "shares": 389.1051,
-   "stake": 100.0,
-   "leader_vwap": 0.2556,
-   "leader_cost": 781.77,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.257,
-   "ask_depth": 1641.71,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "78596245520092750876809929202466461957934316299157420435322923728818922170014",
    "condition_id": "0xb004f7e4a1edebcbc4675eb8a4be2f7fbf34c596ef29465a73cb5e2dd6324e6c",
    "title": "Croatia Open: Alex Molcan vs Valentin Royer",
@@ -7776,6 +7740,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "103013976170153711807028448860521549600243051359419194015557286212670548370991",
+   "condition_id": "0x6ba168864d6b4804fe239a05efd67f5c5cf4949d705dc01ef5509eaddc148884",
+   "title": "Swedish Open: Daniel Altmaier vs Hugo Gaston",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-gaston-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927028+00:00",
+   "entry_price": 0.616,
+   "shares": 162.3377,
+   "stake": 100.0,
+   "leader_vwap": 0.6098,
+   "leader_cost": 839.24,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.616,
+   "ask_depth": 582.68,
+   "status": "won",
+   "closed_at": "2026-07-14T15:31:07.684319+00:00",
+   "exit_price": 1.0,
+   "pnl": 62.3377,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "91550316708594215938569132144869567554472620819014603089665011718899685150022",
+   "condition_id": "0x8fe2b5a14c490048d2fd12148fc7fbe730ae433b1cfdf1c0cc19273a77321bef",
+   "title": "Swedish Open: Nuno Borges vs Moise Kouame",
+   "outcome": "Moise Kouame",
+   "slug": "atp-borges-kouame-2026-07-13",
+   "opened_at": "2026-07-14T07:01:17.565813+00:00",
+   "entry_price": 0.257,
+   "shares": 389.1051,
+   "stake": 100.0,
+   "leader_vwap": 0.2556,
+   "leader_cost": 781.77,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.257,
+   "ask_depth": 1641.71,
+   "status": "lost",
+   "closed_at": "2026-07-14T15:31:07.947033+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7983,6 +7991,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -579.6911000000003,
- "last_updated": "2026-07-14T15:00:26.755641+00:00"
+ "total_pnl": -617.3534000000003,
+ "last_updated": "2026-07-14T15:31:07.948219+00:00"
 }
