@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7911.8192586000005,
+ "bankroll": 7811.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784022223,
+  "jtwyslljy": 1784023196,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3939,6 +3939,20 @@
    "SELL",
    1752.16,
    1784022223
+  ],
+  [
+   "0xdce8717cc290641b702f76a8916a6395aa4e583197b6833a1e419aa3f6e8fd0e",
+   "78596245520092750876809929202466461957934316299157420435322923728818922170014",
+   "BUY",
+   395.66,
+   1784022836
+  ],
+  [
+   "0x037a4018bbe6de00753978c92aa7c57148c17932de2d989b7893b31beebade5e",
+   "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "BUY",
+   853.97,
+   1784023196
   ]
  ],
  "leader_pos": {
@@ -5401,10 +5415,10 @@
    "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
    "outcome": "Lautaro Midon",
    "slug": "atp-acosta-midon-2026-07-14",
-   "shares": 4665.0,
-   "cost": 1067.7600000154002,
-   "max_shares": 4665.0,
-   "last_trade_ts": 1784012116
+   "shares": 5518.97,
+   "cost": 1261.6111900154003,
+   "max_shares": 5518.97,
+   "last_trade_ts": 1784023196
   },
   "jtwyslljy|88437251050774532943706348700796717481480569661658127407587395725393896585652": {
    "leader": "jtwyslljy",
@@ -5473,10 +5487,10 @@
    "title": "Croatia Open: Alex Molcan vs Valentin Royer",
    "outcome": "Alex Molcan",
    "slug": "atp-molcan-royer-2026-07-13",
-   "shares": 779.5,
-   "cost": 456.2785199898,
-   "max_shares": 779.5,
-   "last_trade_ts": 1784012395
+   "shares": 1175.16,
+   "cost": 691.6962199897999,
+   "max_shares": 1175.16,
+   "last_trade_ts": 1784022836
   }
  },
  "positions": [
@@ -5640,6 +5654,24 @@
    "copy_delay_min": 5.6,
    "best_ask": 0.257,
    "ask_depth": 1641.71,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "78596245520092750876809929202466461957934316299157420435322923728818922170014",
+   "condition_id": "0xb004f7e4a1edebcbc4675eb8a4be2f7fbf34c596ef29465a73cb5e2dd6324e6c",
+   "title": "Croatia Open: Alex Molcan vs Valentin Royer",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-royer-2026-07-13",
+   "opened_at": "2026-07-14T10:01:18.888193+00:00",
+   "entry_price": 0.599,
+   "shares": 166.9449,
+   "stake": 100.0,
+   "leader_vwap": 0.5886,
+   "leader_cost": 691.7,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.599,
+   "ask_depth": 861.1,
    "status": "open"
   }
  ],
@@ -7735,5 +7767,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T09:50:54.827926+00:00"
+ "last_updated": "2026-07-14T10:01:19.258171+00:00"
 }
