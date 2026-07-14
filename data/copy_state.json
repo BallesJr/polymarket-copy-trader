@@ -6014,24 +6014,6 @@
    "best_ask": 0.21,
    "ask_depth": 28554.65,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "25312457392074064866955638920139332428292497556441446372623464789018436410183",
-   "condition_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
-   "title": "Will France win on 2026-07-14?",
-   "outcome": "Yes",
-   "slug": "fifwc-fra-esp-2026-07-14",
-   "opened_at": "2026-07-14T20:11:00.496172+00:00",
-   "entry_price": 0.1775,
-   "shares": 563.3803,
-   "stake": 100.0,
-   "leader_vwap": 0.1775,
-   "leader_cost": 1775.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.1775,
-   "ask_depth": 11039.3,
-   "status": "open"
   }
  ],
  "closed": [
@@ -8204,6 +8186,28 @@
    "exit_price": 0.9975,
    "pnl": 211.7188,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+   "condition_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+   "title": "Will France win on 2026-07-14?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14",
+   "opened_at": "2026-07-14T20:11:00.496172+00:00",
+   "entry_price": 0.1775,
+   "shares": 563.3803,
+   "stake": 100.0,
+   "leader_vwap": 0.1775,
+   "leader_cost": 1775.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.1775,
+   "ask_depth": 11039.3,
+   "status": "lost",
+   "closed_at": "2026-07-14T21:20:59.244168+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8411,6 +8415,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": 16.310299999999643,
- "last_updated": "2026-07-14T21:11:04.134964+00:00"
+ "total_pnl": -83.68970000000036,
+ "last_updated": "2026-07-14T21:20:59.245323+00:00"
 }
