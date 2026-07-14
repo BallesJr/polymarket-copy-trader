@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9504.591622000002,
+ "bankroll": 9404.591622000002,
  "last_seen": {
-  "jtwyslljy": 1784050822,
+  "jtwyslljy": 1784053591,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4177,6 +4177,13 @@
    "BUY",
    50000,
    1784050822
+  ],
+  [
+   "0xe8275aa683cfefb81051c0928d086c2c3e1c362b605fb98988b74f5cd7c79e67",
+   "110336697890870588557252360875317565042506941175783380616635438607726019597850",
+   "BUY",
+   8276.95,
+   1784053591
   ]
  ],
  "leader_pos": {
@@ -5811,6 +5818,18 @@
    "cost": 27500.000000000004,
    "max_shares": 50000.0,
    "last_trade_ts": 1784050822
+  },
+  "jtwyslljy|110336697890870588557252360875317565042506941175783380616635438607726019597850": {
+   "leader": "jtwyslljy",
+   "asset": "110336697890870588557252360875317565042506941175783380616635438607726019597850",
+   "condition_id": "0xf857f522f10728b6e6b7206fb52c09dfd239fa22a98ec362683a8477b22cfaad",
+   "title": "Croatia Open: Titouan Droguet vs Alexander Blockx",
+   "outcome": "Titouan Droguet",
+   "slug": "atp-droguet-blockx-2026-07-13",
+   "shares": 8276.95,
+   "cost": 2979.702,
+   "max_shares": 8276.95,
+   "last_trade_ts": 1784053591
   }
  },
  "positions": [
@@ -5866,6 +5885,24 @@
    "copy_delay_min": 10.6,
    "best_ask": 0.55,
    "ask_depth": 20490.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110336697890870588557252360875317565042506941175783380616635438607726019597850",
+   "condition_id": "0xf857f522f10728b6e6b7206fb52c09dfd239fa22a98ec362683a8477b22cfaad",
+   "title": "Croatia Open: Titouan Droguet vs Alexander Blockx",
+   "outcome": "Titouan Droguet",
+   "slug": "atp-droguet-blockx-2026-07-13",
+   "opened_at": "2026-07-14T18:31:07.964472+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2979.7,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.37,
+   "ask_depth": 19812.84,
    "status": "open"
   }
  ],
@@ -8225,5 +8262,5 @@
   }
  ],
  "total_pnl": -195.40850000000034,
- "last_updated": "2026-07-14T17:51:00.548986+00:00"
+ "last_updated": "2026-07-14T18:31:08.282433+00:00"
 }
