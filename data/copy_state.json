@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8175.9370586000005,
  "last_seen": {
-  "jtwyslljy": 1784024408,
+  "jtwyslljy": 1784031209,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -3981,6 +3981,20 @@
    "SELL",
    36.59,
    1784029784
+  ],
+  [
+   "0xe9890700e5bfd38bc1aa8942079d41c5accf095e4d975184c64d4cf6139cc3c3",
+   "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "SELL",
+   379.17,
+   1784030960
+  ],
+  [
+   "0x55f28e978dda806c36e8384f4533eac6af0c1f24d2969bb8aa771d754363ea66",
+   "91550316708594215938569132144869567554472620819014603089665011718899685150022",
+   "SELL",
+   482.91,
+   1784031209
   ]
  ],
  "leader_pos": {
@@ -5431,10 +5445,10 @@
    "title": "Swedish Open: Nuno Borges vs Moise Kouame",
    "outcome": "Moise Kouame",
    "slug": "atp-borges-kouame-2026-07-13",
-   "shares": 5652.43,
-   "cost": 1448.4237099819952,
+   "shares": 5169.52,
+   "cost": 1324.7987499819951,
    "max_shares": 5652.43,
-   "last_trade_ts": 1784024408
+   "last_trade_ts": 1784031209
   },
   "jtwyslljy|13850549984824537844507271382714841770898622777452820569421746800041547387122": {
    "leader": "jtwyslljy",
@@ -5467,10 +5481,10 @@
    "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
    "outcome": "Nikoloz Basilashvili",
    "slug": "atp-choinsk-basilas-2026-07-13",
-   "shares": 6500.17,
-   "cost": 2535.0663,
+   "shares": 6121.0,
+   "cost": 2334.1062,
    "max_shares": 6500.17,
-   "last_trade_ts": 1784024357
+   "last_trade_ts": 1784030960
   },
   "jtwyslljy|23424537185730318207853664973924851007792353065158539107804409127479266738157": {
    "leader": "jtwyslljy",
@@ -7827,5 +7841,5 @@
   }
  ],
  "total_pnl": -1024.0630000000003,
- "last_updated": "2026-07-14T12:01:16.783405+00:00"
+ "last_updated": "2026-07-14T12:20:56.129864+00:00"
 }
