@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8982.646677600002,
+ "bankroll": 9149.591577600002,
  "last_seen": {
-  "jtwyslljy": 1784043731,
+  "jtwyslljy": 1784046587,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4100,6 +4100,13 @@
    "BUY",
    8.86,
    1784043731
+  ],
+  [
+   "0x489983b36cfefd0cda461c560041024f16992250bcbddb43c5a7a83726f28b9e",
+   "67161942661620169177500116888130180708613441358360383768238815188557967488292",
+   "SELL",
+   179.02,
+   1784046587
   ]
  ],
  "leader_pos": {
@@ -5706,10 +5713,10 @@
    "title": "Croatia Open: Marko Topo vs Camilo Ugo Carabelli",
    "outcome": "Camilo Ugo Carabelli",
    "slug": "atp-topo-carabel-2026-07-14",
-   "shares": 10848.66,
-   "cost": 4454.5766,
+   "shares": 10669.64,
+   "cost": 4329.2626,
    "max_shares": 10848.66,
-   "last_trade_ts": 1784043731
+   "last_trade_ts": 1784046587
   }
  },
  "positions": [
@@ -5747,24 +5754,6 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "78596245520092750876809929202466461957934316299157420435322923728818922170014",
-   "condition_id": "0xb004f7e4a1edebcbc4675eb8a4be2f7fbf34c596ef29465a73cb5e2dd6324e6c",
-   "title": "Croatia Open: Alex Molcan vs Valentin Royer",
-   "outcome": "Alex Molcan",
-   "slug": "atp-molcan-royer-2026-07-13",
-   "opened_at": "2026-07-14T10:01:18.888193+00:00",
-   "entry_price": 0.599,
-   "shares": 166.9449,
-   "stake": 100.0,
-   "leader_vwap": 0.5886,
-   "leader_cost": 691.7,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.599,
-   "ask_depth": 861.1,
    "status": "open"
   },
   {
@@ -7868,6 +7857,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "78596245520092750876809929202466461957934316299157420435322923728818922170014",
+   "condition_id": "0xb004f7e4a1edebcbc4675eb8a4be2f7fbf34c596ef29465a73cb5e2dd6324e6c",
+   "title": "Croatia Open: Alex Molcan vs Valentin Royer",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-royer-2026-07-13",
+   "opened_at": "2026-07-14T10:01:18.888193+00:00",
+   "entry_price": 0.599,
+   "shares": 166.9449,
+   "stake": 100.0,
+   "leader_vwap": 0.5886,
+   "leader_cost": 691.7,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.599,
+   "ask_depth": 861.1,
+   "status": "won",
+   "closed_at": "2026-07-14T16:31:16.610411+00:00",
+   "exit_price": 1.0,
+   "pnl": 66.9449,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8075,6 +8086,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -617.3534000000003,
- "last_updated": "2026-07-14T15:51:02.333735+00:00"
+ "total_pnl": -550.4085000000003,
+ "last_updated": "2026-07-14T16:31:16.611489+00:00"
 }
