@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8453.0890586,
+ "bankroll": 8611.8192586,
  "last_seen": {
   "jtwyslljy": 1783995175,
   "0x53757615de": 1783712023
@@ -5288,24 +5288,6 @@
    "best_ask": 0.846,
    "ask_depth": 3958.17,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "100217000018755805748535736344927526602823907413305697601874444885074356442609",
-   "condition_id": "0x8757f3aba51f94aeed8cc29c2da537579b69ca58b0185de702aee951fe096462",
-   "title": "Phoenix Mercury vs. Minnesota Lynx",
-   "outcome": "Minnesota Lynx",
-   "slug": "wnba-phx-min-2026-07-13",
-   "opened_at": "2026-07-14T02:20:55.548928+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.76,
-   "leader_cost": 1520.0,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.63,
-   "ask_depth": 231.0,
-   "status": "open"
   }
  ],
  "closed": [
@@ -7170,6 +7152,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100217000018755805748535736344927526602823907413305697601874444885074356442609",
+   "condition_id": "0x8757f3aba51f94aeed8cc29c2da537579b69ca58b0185de702aee951fe096462",
+   "title": "Phoenix Mercury vs. Minnesota Lynx",
+   "outcome": "Minnesota Lynx",
+   "slug": "wnba-phx-min-2026-07-13",
+   "opened_at": "2026-07-14T02:20:55.548928+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.63,
+   "ask_depth": 231.0,
+   "status": "won",
+   "closed_at": "2026-07-14T04:10:56.857320+00:00",
+   "exit_price": 1.0,
+   "pnl": 58.7302,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7377,6 +7381,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1246.9110000000003,
- "last_updated": "2026-07-14T02:20:55.826456+00:00"
+ "total_pnl": -1188.1808000000003,
+ "last_updated": "2026-07-14T04:10:56.858435+00:00"
 }
