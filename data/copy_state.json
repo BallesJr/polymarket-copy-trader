@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7911.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784012144,
+  "jtwyslljy": 1784012666,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3911,6 +3911,27 @@
    "BUY",
    1924.98,
    1784012144
+  ],
+  [
+   "0xe3a644d7efe702b20f954f29e5528cb8165fbb4eb020e9488a001a8477dd1509",
+   "78596245520092750876809929202466461957934316299157420435322923728818922170014",
+   "BUY",
+   779.5,
+   1784012395
+  ],
+  [
+   "0xed32bbb4a8f2efdf890aa91bdee50af9516c68f3d8ba58f26198511c82d29246",
+   "23424537185730318207853664973924851007792353065158539107804409127479266738157",
+   "SELL",
+   500,
+   1784012596
+  ],
+  [
+   "0xf06988dbb54b6f0a99c04828ca24a70cb20ae3f58c4e047eb72883c244386361",
+   "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "BUY",
+   1095.1,
+   1784012666
   ]
  ],
  "leader_pos": {
@@ -5385,10 +5406,10 @@
    "title": "Swedish Open: Botic van de Zandschulp vs Taro Daniel",
    "outcome": "Botic van de Zandschulp",
    "slug": "atp-zandsch-daniel-2026-07-14",
-   "shares": 3351.07,
-   "cost": 1981.539359954926,
-   "max_shares": 3351.07,
-   "last_trade_ts": 1784011508
+   "shares": 4446.17,
+   "cost": 2634.218959954926,
+   "max_shares": 4446.17,
+   "last_trade_ts": 1784012666
   },
   "jtwyslljy|72773584617344004860606983831160454969031506167793980883857991539378142256765": {
    "leader": "jtwyslljy",
@@ -5409,10 +5430,10 @@
    "title": "Swedish Open: Sebastian Ofner vs Thiago Agustin Tirante",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-ofner-tirante-2026-07-13",
-   "shares": 4000.0,
-   "cost": 2280.0,
+   "shares": 3500.0,
+   "cost": 2000.0,
    "max_shares": 4000.0,
-   "last_trade_ts": 1784011184
+   "last_trade_ts": 1784012596
   },
   "jtwyslljy|103013976170153711807028448860521549600243051359419194015557286212670548370991": {
    "leader": "jtwyslljy",
@@ -5437,6 +5458,18 @@
    "cost": 2120.0,
    "max_shares": 4000.0,
    "last_trade_ts": 1784011319
+  },
+  "jtwyslljy|78596245520092750876809929202466461957934316299157420435322923728818922170014": {
+   "leader": "jtwyslljy",
+   "asset": "78596245520092750876809929202466461957934316299157420435322923728818922170014",
+   "condition_id": "0xb004f7e4a1edebcbc4675eb8a4be2f7fbf34c596ef29465a73cb5e2dd6324e6c",
+   "title": "Croatia Open: Alex Molcan vs Valentin Royer",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-royer-2026-07-13",
+   "shares": 779.5,
+   "cost": 456.2785199898,
+   "max_shares": 779.5,
+   "last_trade_ts": 1784012395
   }
  },
  "positions": [
@@ -7695,5 +7728,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T07:01:17.816708+00:00"
+ "last_updated": "2026-07-14T07:11:04.804570+00:00"
 }
