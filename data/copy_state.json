@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8670.308977600002,
+ "bankroll": 8920.308977600002,
  "last_seen": {
   "jtwyslljy": 1784038379,
   "0x53757615de": 1784029784
@@ -5685,24 +5685,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "72773584617344004860606983831160454969031506167793980883857991539378142256765",
-   "condition_id": "0x48b773354b282558d98164bdacdac0480e2aa5a60ac21a567331679ad7c74d3d",
-   "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
-   "outcome": "Nikoloz Basilashvili",
-   "slug": "atp-choinsk-basilas-2026-07-13",
-   "opened_at": "2026-07-14T06:40:57.188144+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.39,
-   "leader_cost": 2338.12,
-   "copy_delay_min": 8.5,
-   "best_ask": 0.4,
-   "ask_depth": 4250.44,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "103013976170153711807028448860521549600243051359419194015557286212670548370991",
    "condition_id": "0x6ba168864d6b4804fe239a05efd67f5c5cf4949d705dc01ef5509eaddc148884",
    "title": "Swedish Open: Daniel Altmaier vs Hugo Gaston",
@@ -7768,6 +7750,28 @@
    "exit_price": 1.0,
    "pnl": 69.2047,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "condition_id": "0x48b773354b282558d98164bdacdac0480e2aa5a60ac21a567331679ad7c74d3d",
+   "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
+   "outcome": "Nikoloz Basilashvili",
+   "slug": "atp-choinsk-basilas-2026-07-13",
+   "opened_at": "2026-07-14T06:40:57.188144+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 2338.12,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.4,
+   "ask_depth": 4250.44,
+   "status": "won",
+   "closed_at": "2026-07-14T14:31:09.565576+00:00",
+   "exit_price": 1.0,
+   "pnl": 150.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7975,6 +7979,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -629.6911000000003,
- "last_updated": "2026-07-14T14:21:00.976864+00:00"
+ "total_pnl": -479.69110000000035,
+ "last_updated": "2026-07-14T14:31:09.566353+00:00"
 }
