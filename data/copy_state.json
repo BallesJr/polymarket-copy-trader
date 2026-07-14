@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8011.8192586000005,
+ "bankroll": 7911.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784011616,
+  "jtwyslljy": 1784012144,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3897,6 +3897,20 @@
    "BUY",
    392,
    1784011616
+  ],
+  [
+   "0xfd681e2c75b44d9d1ce4631bf195557fd6336bebede2ef603b3c4200ccfea323",
+   "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "BUY",
+   2235,
+   1784012116
+  ],
+  [
+   "0x405e9cbada7925372c4793ccfc3aa53cb67e2b68aa1a81dde3b32e69204e512d",
+   "91550316708594215938569132144869567554472620819014603089665011718899685150022",
+   "BUY",
+   1924.98,
+   1784012144
   ]
  ],
  "leader_pos": {
@@ -5347,10 +5361,10 @@
    "title": "Swedish Open: Nuno Borges vs Moise Kouame",
    "outcome": "Moise Kouame",
    "slug": "atp-borges-kouame-2026-07-13",
-   "shares": 1133.45,
-   "cost": 288.970829981995,
-   "max_shares": 1133.45,
-   "last_trade_ts": 1784010148
+   "shares": 3058.4300000000003,
+   "cost": 781.7657099819951,
+   "max_shares": 3058.4300000000003,
+   "last_trade_ts": 1784012144
   },
   "jtwyslljy|13850549984824537844507271382714841770898622777452820569421746800041547387122": {
    "leader": "jtwyslljy",
@@ -5359,10 +5373,10 @@
    "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
    "outcome": "Lautaro Midon",
    "slug": "atp-acosta-midon-2026-07-14",
-   "shares": 2430.0,
-   "cost": 553.7100000154,
-   "max_shares": 2430.0,
-   "last_trade_ts": 1784011616
+   "shares": 4665.0,
+   "cost": 1067.7600000154002,
+   "max_shares": 4665.0,
+   "last_trade_ts": 1784012116
   },
   "jtwyslljy|88437251050774532943706348700796717481480569661658127407587395725393896585652": {
    "leader": "jtwyslljy",
@@ -5568,6 +5582,24 @@
    "copy_delay_min": 11.2,
    "best_ask": 0.57,
    "ask_depth": 7604.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "91550316708594215938569132144869567554472620819014603089665011718899685150022",
+   "condition_id": "0x8fe2b5a14c490048d2fd12148fc7fbe730ae433b1cfdf1c0cc19273a77321bef",
+   "title": "Swedish Open: Nuno Borges vs Moise Kouame",
+   "outcome": "Moise Kouame",
+   "slug": "atp-borges-kouame-2026-07-13",
+   "opened_at": "2026-07-14T07:01:17.565813+00:00",
+   "entry_price": 0.257,
+   "shares": 389.1051,
+   "stake": 100.0,
+   "leader_vwap": 0.2556,
+   "leader_cost": 781.77,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.257,
+   "ask_depth": 1641.71,
    "status": "open"
   }
  ],
@@ -7663,5 +7695,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T06:50:56.417376+00:00"
+ "last_updated": "2026-07-14T07:01:17.816708+00:00"
 }
