@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9204.591622000002,
+ "bankroll": 9104.591622000002,
  "last_seen": {
-  "jtwyslljy": 1784059469,
+  "jtwyslljy": 1784060852,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4205,6 +4205,13 @@
    "BUY",
    8000,
    1784059469
+  ],
+  [
+   "0x0d5fac263fd9e086d5b4f6bccf1e0f780af8f15b04e8cdb0a0af24f9e365043f",
+   "7927738752961960185807600674903955418037122669544360560753980310114012803166",
+   "BUY",
+   3000,
+   1784060852
   ]
  ],
  "leader_pos": {
@@ -5875,6 +5882,18 @@
    "cost": 1600.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1784059469
+  },
+  "jtwyslljy|7927738752961960185807600674903955418037122669544360560753980310114012803166": {
+   "leader": "jtwyslljy",
+   "asset": "7927738752961960185807600674903955418037122669544360560753980310114012803166",
+   "condition_id": "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657",
+   "title": "France vs. Spain: O/U 2.5",
+   "outcome": "Under",
+   "slug": "fifwc-fra-esp-2026-07-14-more-markets",
+   "shares": 3000.0,
+   "cost": 838.2174999,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1784060852
   }
  },
  "positions": [
@@ -5984,6 +6003,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.1775,
    "ask_depth": 11039.3,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7927738752961960185807600674903955418037122669544360560753980310114012803166",
+   "condition_id": "0xfb2314dcad9273745bd3de0db31a2036cda3eae847039a58e41a3c2dcc233657",
+   "title": "France vs. Spain: O/U 2.5",
+   "outcome": "Under",
+   "slug": "fifwc-fra-esp-2026-07-14-more-markets",
+   "opened_at": "2026-07-14T20:31:15.432093+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.2794,
+   "leader_cost": 838.22,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.32,
+   "ask_depth": 8067.64,
    "status": "open"
   }
  ],
@@ -8343,5 +8380,5 @@
   }
  ],
  "total_pnl": -195.40850000000034,
- "last_updated": "2026-07-14T20:11:00.759194+00:00"
+ "last_updated": "2026-07-14T20:31:15.843193+00:00"
 }
