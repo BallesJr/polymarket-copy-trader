@@ -5736,24 +5736,6 @@
    "best_ask": 0.599,
    "ask_depth": 861.1,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "74317563301561784851996914121905902250511071442558967004604885298123312874553",
-   "condition_id": "0x8af580ae52b4e94b66020eff19fdfd3ab3e8dfb6e005fb56ea0f020738a2a52b",
-   "title": "Swiss Open: Federico Cina vs Quentin Halys",
-   "outcome": "Federico Cina",
-   "slug": "atp-cina-halys-2026-07-14",
-   "opened_at": "2026-07-14T14:01:13.918341+00:00",
-   "entry_price": 0.48,
-   "shares": 208.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.4334,
-   "leader_cost": 4096.87,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.48,
-   "ask_depth": 6525.22,
-   "status": "open"
   }
  ],
  "closed": [
@@ -7772,6 +7754,28 @@
    "exit_price": 1.0,
    "pnl": 150.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74317563301561784851996914121905902250511071442558967004604885298123312874553",
+   "condition_id": "0x8af580ae52b4e94b66020eff19fdfd3ab3e8dfb6e005fb56ea0f020738a2a52b",
+   "title": "Swiss Open: Federico Cina vs Quentin Halys",
+   "outcome": "Federico Cina",
+   "slug": "atp-cina-halys-2026-07-14",
+   "opened_at": "2026-07-14T14:01:13.918341+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.4334,
+   "leader_cost": 4096.87,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.48,
+   "ask_depth": 6525.22,
+   "status": "lost",
+   "closed_at": "2026-07-14T15:00:26.754457+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7979,6 +7983,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -479.69110000000035,
- "last_updated": "2026-07-14T14:31:09.566353+00:00"
+ "total_pnl": -579.6911000000003,
+ "last_updated": "2026-07-14T15:00:26.755641+00:00"
 }
