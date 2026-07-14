@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7911.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784012666,
+  "jtwyslljy": 1784022223,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3932,6 +3932,13 @@
    "BUY",
    1095.1,
    1784012666
+  ],
+  [
+   "0xf38a227fc3f9ef9730f54a927101fbfa9881dd6c464bda16f18ccccb6b3aba74",
+   "92729947826128579138666405165582052705700691149070219393440632657711683101310",
+   "SELL",
+   1752.16,
+   1784022223
   ]
  ],
  "leader_pos": {
@@ -5454,10 +5461,10 @@
    "title": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
    "outcome": "Andrea Pellegrino",
    "slug": "atp-kjaer-pellegr-2026-07-13",
-   "shares": 4000.0,
-   "cost": 2120.0,
+   "shares": 2247.84,
+   "cost": 1156.312,
    "max_shares": 4000.0,
-   "last_trade_ts": 1784011319
+   "last_trade_ts": 1784022223
   },
   "jtwyslljy|78596245520092750876809929202466461957934316299157420435322923728818922170014": {
    "leader": "jtwyslljy",
@@ -7728,5 +7735,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T07:11:04.804570+00:00"
+ "last_updated": "2026-07-14T09:50:54.827926+00:00"
 }
