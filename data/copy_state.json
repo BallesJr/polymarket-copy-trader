@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8611.8192586,
+ "bankroll": 8411.8192586,
  "last_seen": {
-  "jtwyslljy": 1784010148,
+  "jtwyslljy": 1784010745,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3834,6 +3834,27 @@
    "BUY",
    1133.45,
    1784010148
+  ],
+  [
+   "0xa5777eeb7ae430034bf559a584492d36f4792aa868dd5b032df2c5ee14d71320",
+   "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "BUY",
+   2038,
+   1784010679
+  ],
+  [
+   "0x6dd44574a774e632563ccb17da25387f691d8670bac14dc28734b46451116682",
+   "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "BUY",
+   1517.99,
+   1784010713
+  ],
+  [
+   "0x93c42af4fe5c8642e09029c37264cbc3aaf4ec728d7e8e678e1bdd7d75e5d2b6",
+   "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "BUY",
+   5995.17,
+   1784010745
   ]
  ],
  "leader_pos": {
@@ -5288,6 +5309,42 @@
    "cost": 288.970829981995,
    "max_shares": 1133.45,
    "last_trade_ts": 1784010148
+  },
+  "jtwyslljy|13850549984824537844507271382714841770898622777452820569421746800041547387122": {
+   "leader": "jtwyslljy",
+   "asset": "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "condition_id": "0xddd22b0365ca12955bde52f09f5e688081cdb2f238cf3f6addd5f65b777f21a7",
+   "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
+   "outcome": "Lautaro Midon",
+   "slug": "atp-acosta-midon-2026-07-14",
+   "shares": 2038.0,
+   "cost": 465.9020000154,
+   "max_shares": 2038.0,
+   "last_trade_ts": 1784010679
+  },
+  "jtwyslljy|88437251050774532943706348700796717481480569661658127407587395725393896585652": {
+   "leader": "jtwyslljy",
+   "asset": "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "condition_id": "0xccd8f4a3ddb873579669eea1921e0281aaeac413345e60d999b652c131e49b67",
+   "title": "Swedish Open: Botic van de Zandschulp vs Taro Daniel",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-daniel-2026-07-14",
+   "shares": 1517.99,
+   "cost": 895.6141,
+   "max_shares": 1517.99,
+   "last_trade_ts": 1784010713
+  },
+  "jtwyslljy|72773584617344004860606983831160454969031506167793980883857991539378142256765": {
+   "leader": "jtwyslljy",
+   "asset": "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "condition_id": "0x48b773354b282558d98164bdacdac0480e2aa5a60ac21a567331679ad7c74d3d",
+   "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
+   "outcome": "Nikoloz Basilashvili",
+   "slug": "atp-choinsk-basilas-2026-07-13",
+   "shares": 5995.17,
+   "cost": 2338.1163,
+   "max_shares": 5995.17,
+   "last_trade_ts": 1784010745
   }
  },
  "positions": [
@@ -5325,6 +5382,42 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "condition_id": "0xccd8f4a3ddb873579669eea1921e0281aaeac413345e60d999b652c131e49b67",
+   "title": "Swedish Open: Botic van de Zandschulp vs Taro Daniel",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-daniel-2026-07-14",
+   "opened_at": "2026-07-14T06:40:57.188070+00:00",
+   "entry_price": 0.591,
+   "shares": 169.2047,
+   "stake": 100.0,
+   "leader_vwap": 0.59,
+   "leader_cost": 895.61,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.591,
+   "ask_depth": 379.97,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "condition_id": "0x48b773354b282558d98164bdacdac0480e2aa5a60ac21a567331679ad7c74d3d",
+   "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
+   "outcome": "Nikoloz Basilashvili",
+   "slug": "atp-choinsk-basilas-2026-07-13",
+   "opened_at": "2026-07-14T06:40:57.188144+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 2338.12,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.4,
+   "ask_depth": 4250.44,
    "status": "open"
   }
  ],
@@ -7420,5 +7513,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T06:31:08.781031+00:00"
+ "last_updated": "2026-07-14T06:40:57.483704+00:00"
 }
