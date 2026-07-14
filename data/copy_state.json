@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9416.310372000002,
+ "bankroll": 9598.128572000001,
  "last_seen": {
   "jtwyslljy": 1784062730,
   "0x53757615de": 1784029784
@@ -5963,24 +5963,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "86861081814693641462491916535025897709515384914638959141270416988800931026536",
-   "condition_id": "0x6e6431df0ecf4057488f8378d57ebdac261522f30c72d01b120fdaab27941c51",
-   "title": "France vs. Spain: Draw at halftime?",
-   "outcome": "No",
-   "slug": "fifwc-fra-esp-2026-07-14-halftime-result",
-   "opened_at": "2026-07-14T17:50:59.883480+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 27500.0,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.55,
-   "ask_depth": 20490.27,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "110336697890870588557252360875317565042506941175783380616635438607726019597850",
    "condition_id": "0xf857f522f10728b6e6b7206fb52c09dfd239fa22a98ec362683a8477b22cfaad",
    "title": "Croatia Open: Titouan Droguet vs Alexander Blockx",
@@ -5995,24 +5977,6 @@
    "copy_delay_min": 4.6,
    "best_ask": 0.37,
    "ask_depth": 19812.84,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "1025636643137293821169553449457147342921368228794065645119166522328320109952",
-   "condition_id": "0x28f26198c908f5f2cd2abdfd2e42afa09251afdcf49af9b38aedb09b035c0a68",
-   "title": "Exact Score: France 1 - 1 Spain?",
-   "outcome": "Yes",
-   "slug": "fifwc-fra-esp-2026-07-14-exact-score",
-   "opened_at": "2026-07-14T20:11:00.495752+00:00",
-   "entry_price": 0.21,
-   "shares": 476.1905,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 1600.0,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.21,
-   "ask_depth": 28554.65,
    "status": "open"
   }
  ],
@@ -8208,6 +8172,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86861081814693641462491916535025897709515384914638959141270416988800931026536",
+   "condition_id": "0x6e6431df0ecf4057488f8378d57ebdac261522f30c72d01b120fdaab27941c51",
+   "title": "France vs. Spain: Draw at halftime?",
+   "outcome": "No",
+   "slug": "fifwc-fra-esp-2026-07-14-halftime-result",
+   "opened_at": "2026-07-14T17:50:59.883480+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 27500.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.55,
+   "ask_depth": 20490.27,
+   "status": "won",
+   "closed_at": "2026-07-14T21:31:05.401768+00:00",
+   "exit_price": 1.0,
+   "pnl": 81.8182,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1025636643137293821169553449457147342921368228794065645119166522328320109952",
+   "condition_id": "0x28f26198c908f5f2cd2abdfd2e42afa09251afdcf49af9b38aedb09b035c0a68",
+   "title": "Exact Score: France 1 - 1 Spain?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14-exact-score",
+   "opened_at": "2026-07-14T20:11:00.495752+00:00",
+   "entry_price": 0.21,
+   "shares": 476.1905,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.21,
+   "ask_depth": 28554.65,
+   "status": "lost",
+   "closed_at": "2026-07-14T21:31:05.661442+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8415,6 +8423,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -83.68970000000036,
- "last_updated": "2026-07-14T21:20:59.245323+00:00"
+ "total_pnl": -101.87150000000035,
+ "last_updated": "2026-07-14T21:31:05.662509+00:00"
 }
