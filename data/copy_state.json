@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9598.128572000001,
+ "bankroll": 9868.398872000002,
  "last_seen": {
   "jtwyslljy": 1784062730,
   "0x53757615de": 1784029784
@@ -5960,24 +5960,6 @@
    "best_ask": 0.846,
    "ask_depth": 3958.17,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "110336697890870588557252360875317565042506941175783380616635438607726019597850",
-   "condition_id": "0xf857f522f10728b6e6b7206fb52c09dfd239fa22a98ec362683a8477b22cfaad",
-   "title": "Croatia Open: Titouan Droguet vs Alexander Blockx",
-   "outcome": "Titouan Droguet",
-   "slug": "atp-droguet-blockx-2026-07-13",
-   "opened_at": "2026-07-14T18:31:07.964472+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 2979.7,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.37,
-   "ask_depth": 19812.84,
-   "status": "open"
   }
  ],
  "closed": [
@@ -8216,6 +8198,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110336697890870588557252360875317565042506941175783380616635438607726019597850",
+   "condition_id": "0xf857f522f10728b6e6b7206fb52c09dfd239fa22a98ec362683a8477b22cfaad",
+   "title": "Croatia Open: Titouan Droguet vs Alexander Blockx",
+   "outcome": "Titouan Droguet",
+   "slug": "atp-droguet-blockx-2026-07-13",
+   "opened_at": "2026-07-14T18:31:07.964472+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2979.7,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.37,
+   "ask_depth": 19812.84,
+   "status": "won",
+   "closed_at": "2026-07-14T21:40:57.785704+00:00",
+   "exit_price": 1.0,
+   "pnl": 170.2703,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8423,6 +8427,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -101.87150000000035,
- "last_updated": "2026-07-14T21:31:05.662509+00:00"
+ "total_pnl": 68.39879999999964,
+ "last_updated": "2026-07-14T21:40:57.786807+00:00"
 }
