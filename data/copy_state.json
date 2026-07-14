@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8000.4984586,
+ "bankroll": 8175.9370586000005,
  "last_seen": {
   "jtwyslljy": 1784024408,
   "0x53757615de": 1783712023
@@ -5637,24 +5637,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "23424537185730318207853664973924851007792353065158539107804409127479266738157",
-   "condition_id": "0x272b3bb88f4190b47a0ca7214ba87b763447204e120ae5e24e52c8eccc1323d0",
-   "title": "Swedish Open: Sebastian Ofner vs Thiago Agustin Tirante",
-   "outcome": "Thiago Agustin Tirante",
-   "slug": "atp-ofner-tirante-2026-07-13",
-   "opened_at": "2026-07-14T06:50:55.927138+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 2280.0,
-   "copy_delay_min": 11.2,
-   "best_ask": 0.57,
-   "ask_depth": 7604.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "91550316708594215938569132144869567554472620819014603089665011718899685150022",
    "condition_id": "0x8fe2b5a14c490048d2fd12148fc7fbe730ae433b1cfdf1c0cc19273a77321bef",
    "title": "Swedish Open: Nuno Borges vs Moise Kouame",
@@ -7596,6 +7578,28 @@
    "exit_price": 1.0,
    "pnl": 88.6792,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23424537185730318207853664973924851007792353065158539107804409127479266738157",
+   "condition_id": "0x272b3bb88f4190b47a0ca7214ba87b763447204e120ae5e24e52c8eccc1323d0",
+   "title": "Swedish Open: Sebastian Ofner vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-ofner-tirante-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927138+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2280.0,
+   "copy_delay_min": 11.2,
+   "best_ask": 0.57,
+   "ask_depth": 7604.2,
+   "status": "won",
+   "closed_at": "2026-07-14T11:20:56.953823+00:00",
+   "exit_price": 1.0,
+   "pnl": 75.4386,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7803,6 +7807,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1099.5016000000003,
- "last_updated": "2026-07-14T11:10:56.270005+00:00"
+ "total_pnl": -1024.0630000000003,
+ "last_updated": "2026-07-14T11:20:56.954981+00:00"
 }
