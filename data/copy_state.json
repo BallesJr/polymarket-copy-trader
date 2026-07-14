@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9404.591622000002,
+ "bankroll": 9204.591622000002,
  "last_seen": {
-  "jtwyslljy": 1784053591,
+  "jtwyslljy": 1784059469,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4184,6 +4184,27 @@
    "BUY",
    8276.95,
    1784053591
+  ],
+  [
+   "0x3b1d8d62eded141d9088bda2d69cc67893952e8a9c1a3b524367cc15a758b028",
+   "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+   "SELL",
+   14368.05,
+   1784059072
+  ],
+  [
+   "0xb6721606c762d665cee8adedf476f4cf2414e0306fccf6135985cd96d571a2d0",
+   "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+   "BUY",
+   10000,
+   1784059285
+  ],
+  [
+   "0xa3a25fcf34ce4d670729697136251326a32bc74c3818df1b0289b450e871417f",
+   "1025636643137293821169553449457147342921368228794065645119166522328320109952",
+   "BUY",
+   8000,
+   1784059469
   ]
  ],
  "leader_pos": {
@@ -5830,6 +5851,30 @@
    "cost": 2979.702,
    "max_shares": 8276.95,
    "last_trade_ts": 1784053591
+  },
+  "jtwyslljy|25312457392074064866955638920139332428292497556441446372623464789018436410183": {
+   "leader": "jtwyslljy",
+   "asset": "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+   "condition_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+   "title": "Will France win on 2026-07-14?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14",
+   "shares": 10000.0,
+   "cost": 1775.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784059285
+  },
+  "jtwyslljy|1025636643137293821169553449457147342921368228794065645119166522328320109952": {
+   "leader": "jtwyslljy",
+   "asset": "1025636643137293821169553449457147342921368228794065645119166522328320109952",
+   "condition_id": "0x28f26198c908f5f2cd2abdfd2e42afa09251afdcf49af9b38aedb09b035c0a68",
+   "title": "Exact Score: France 1 - 1 Spain?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14-exact-score",
+   "shares": 8000.0,
+   "cost": 1600.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784059469
   }
  },
  "positions": [
@@ -5903,6 +5948,42 @@
    "copy_delay_min": 4.6,
    "best_ask": 0.37,
    "ask_depth": 19812.84,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1025636643137293821169553449457147342921368228794065645119166522328320109952",
+   "condition_id": "0x28f26198c908f5f2cd2abdfd2e42afa09251afdcf49af9b38aedb09b035c0a68",
+   "title": "Exact Score: France 1 - 1 Spain?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14-exact-score",
+   "opened_at": "2026-07-14T20:11:00.495752+00:00",
+   "entry_price": 0.21,
+   "shares": 476.1905,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.21,
+   "ask_depth": 28554.65,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25312457392074064866955638920139332428292497556441446372623464789018436410183",
+   "condition_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+   "title": "Will France win on 2026-07-14?",
+   "outcome": "Yes",
+   "slug": "fifwc-fra-esp-2026-07-14",
+   "opened_at": "2026-07-14T20:11:00.496172+00:00",
+   "entry_price": 0.1775,
+   "shares": 563.3803,
+   "stake": 100.0,
+   "leader_vwap": 0.1775,
+   "leader_cost": 1775.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.1775,
+   "ask_depth": 11039.3,
    "status": "open"
   }
  ],
@@ -8262,5 +8343,5 @@
   }
  ],
  "total_pnl": -195.40850000000034,
- "last_updated": "2026-07-14T18:31:08.282433+00:00"
+ "last_updated": "2026-07-14T20:11:00.759194+00:00"
 }
