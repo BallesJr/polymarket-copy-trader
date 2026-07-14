@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8411.8192586,
+ "bankroll": 8011.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784010745,
+  "jtwyslljy": 1784011616,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3855,6 +3855,48 @@
    "BUY",
    5995.17,
    1784010745
+  ],
+  [
+   "0xf74dcc3d440d532aee8ed391c2b9ae6da8d37f8275696a3ec10e1c5e09c21de0",
+   "23424537185730318207853664973924851007792353065158539107804409127479266738157",
+   "BUY",
+   4000,
+   1784011184
+  ],
+  [
+   "0x9a479933bf41fd0a928ebd3c8185196d3024bf66f9fcc6f451c42896de760603",
+   "103013976170153711807028448860521549600243051359419194015557286212670548370991",
+   "BUY",
+   1376.21,
+   1784011276
+  ],
+  [
+   "0xffe75368b8c7b767ecfc8d9dba6589bbb35e9651c583d374edcd05c23c676834",
+   "92729947826128579138666405165582052705700691149070219393440632657711683101310",
+   "BUY",
+   4000,
+   1784011319
+  ],
+  [
+   "0xead960d3c57f0ee52ea7e2765438c687ab5428ad2a073c04abab70968a030441",
+   "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "BUY",
+   954.95,
+   1784011495
+  ],
+  [
+   "0xc59101f89f6f5a5f99fdb3a6d4c7afc2b71f8d138352868c8ebc36ccbdd4120b",
+   "88437251050774532943706348700796717481480569661658127407587395725393896585652",
+   "BUY",
+   878.13,
+   1784011508
+  ],
+  [
+   "0x9a60d56a0390004613fb6eff1ed34efd6d49d0d3523797e36d130ab52a84164a",
+   "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "BUY",
+   392,
+   1784011616
   ]
  ],
  "leader_pos": {
@@ -5317,10 +5359,10 @@
    "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
    "outcome": "Lautaro Midon",
    "slug": "atp-acosta-midon-2026-07-14",
-   "shares": 2038.0,
-   "cost": 465.9020000154,
-   "max_shares": 2038.0,
-   "last_trade_ts": 1784010679
+   "shares": 2430.0,
+   "cost": 553.7100000154,
+   "max_shares": 2430.0,
+   "last_trade_ts": 1784011616
   },
   "jtwyslljy|88437251050774532943706348700796717481480569661658127407587395725393896585652": {
    "leader": "jtwyslljy",
@@ -5329,10 +5371,10 @@
    "title": "Swedish Open: Botic van de Zandschulp vs Taro Daniel",
    "outcome": "Botic van de Zandschulp",
    "slug": "atp-zandsch-daniel-2026-07-14",
-   "shares": 1517.99,
-   "cost": 895.6141,
-   "max_shares": 1517.99,
-   "last_trade_ts": 1784010713
+   "shares": 3351.07,
+   "cost": 1981.539359954926,
+   "max_shares": 3351.07,
+   "last_trade_ts": 1784011508
   },
   "jtwyslljy|72773584617344004860606983831160454969031506167793980883857991539378142256765": {
    "leader": "jtwyslljy",
@@ -5345,6 +5387,42 @@
    "cost": 2338.1163,
    "max_shares": 5995.17,
    "last_trade_ts": 1784010745
+  },
+  "jtwyslljy|23424537185730318207853664973924851007792353065158539107804409127479266738157": {
+   "leader": "jtwyslljy",
+   "asset": "23424537185730318207853664973924851007792353065158539107804409127479266738157",
+   "condition_id": "0x272b3bb88f4190b47a0ca7214ba87b763447204e120ae5e24e52c8eccc1323d0",
+   "title": "Swedish Open: Sebastian Ofner vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-ofner-tirante-2026-07-13",
+   "shares": 4000.0,
+   "cost": 2280.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1784011184
+  },
+  "jtwyslljy|103013976170153711807028448860521549600243051359419194015557286212670548370991": {
+   "leader": "jtwyslljy",
+   "asset": "103013976170153711807028448860521549600243051359419194015557286212670548370991",
+   "condition_id": "0x6ba168864d6b4804fe239a05efd67f5c5cf4949d705dc01ef5509eaddc148884",
+   "title": "Swedish Open: Daniel Altmaier vs Hugo Gaston",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-gaston-2026-07-13",
+   "shares": 1376.21,
+   "cost": 839.239770061792,
+   "max_shares": 1376.21,
+   "last_trade_ts": 1784011276
+  },
+  "jtwyslljy|92729947826128579138666405165582052705700691149070219393440632657711683101310": {
+   "leader": "jtwyslljy",
+   "asset": "92729947826128579138666405165582052705700691149070219393440632657711683101310",
+   "condition_id": "0x920fa15a675642d8ec06f69fbe4bec8e54c0a3f2f3228e499c57910353e37070",
+   "title": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
+   "outcome": "Andrea Pellegrino",
+   "slug": "atp-kjaer-pellegr-2026-07-13",
+   "shares": 4000.0,
+   "cost": 2120.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1784011319
   }
  },
  "positions": [
@@ -5418,6 +5496,78 @@
    "copy_delay_min": 8.5,
    "best_ask": 0.4,
    "ask_depth": 4250.44,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "103013976170153711807028448860521549600243051359419194015557286212670548370991",
+   "condition_id": "0x6ba168864d6b4804fe239a05efd67f5c5cf4949d705dc01ef5509eaddc148884",
+   "title": "Swedish Open: Daniel Altmaier vs Hugo Gaston",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-gaston-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927028+00:00",
+   "entry_price": 0.616,
+   "shares": 162.3377,
+   "stake": 100.0,
+   "leader_vwap": 0.6098,
+   "leader_cost": 839.24,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.616,
+   "ask_depth": 582.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92729947826128579138666405165582052705700691149070219393440632657711683101310",
+   "condition_id": "0x920fa15a675642d8ec06f69fbe4bec8e54c0a3f2f3228e499c57910353e37070",
+   "title": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
+   "outcome": "Andrea Pellegrino",
+   "slug": "atp-kjaer-pellegr-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927089+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2120.0,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.53,
+   "ask_depth": 1068.14,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "condition_id": "0xddd22b0365ca12955bde52f09f5e688081cdb2f238cf3f6addd5f65b777f21a7",
+   "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
+   "outcome": "Lautaro Midon",
+   "slug": "atp-acosta-midon-2026-07-14",
+   "opened_at": "2026-07-14T06:50:55.927118+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.2279,
+   "leader_cost": 553.71,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.23,
+   "ask_depth": 2279.47,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23424537185730318207853664973924851007792353065158539107804409127479266738157",
+   "condition_id": "0x272b3bb88f4190b47a0ca7214ba87b763447204e120ae5e24e52c8eccc1323d0",
+   "title": "Swedish Open: Sebastian Ofner vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-ofner-tirante-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927138+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2280.0,
+   "copy_delay_min": 11.2,
+   "best_ask": 0.57,
+   "ask_depth": 7604.2,
    "status": "open"
   }
  ],
@@ -7513,5 +7663,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T06:40:57.483704+00:00"
+ "last_updated": "2026-07-14T06:50:56.417376+00:00"
 }
