@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9604.591622000002,
+ "bankroll": 9504.591622000002,
  "last_seen": {
-  "jtwyslljy": 1784048945,
+  "jtwyslljy": 1784050822,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4170,6 +4170,13 @@
    "SELL",
    1000,
    1784048945
+  ],
+  [
+   "0x13e4559d9a990ea70836f860b19d1dc4a8d174b72c0e321d27b15f7636ec7dc0",
+   "86861081814693641462491916535025897709515384914638959141270416988800931026536",
+   "BUY",
+   50000,
+   1784050822
   ]
  ],
  "leader_pos": {
@@ -5792,6 +5799,18 @@
    "cost": 6996.1149000000005,
    "max_shares": 22795.99,
    "last_trade_ts": 1784047228
+  },
+  "jtwyslljy|86861081814693641462491916535025897709515384914638959141270416988800931026536": {
+   "leader": "jtwyslljy",
+   "asset": "86861081814693641462491916535025897709515384914638959141270416988800931026536",
+   "condition_id": "0x6e6431df0ecf4057488f8378d57ebdac261522f30c72d01b120fdaab27941c51",
+   "title": "France vs. Spain: Draw at halftime?",
+   "outcome": "No",
+   "slug": "fifwc-fra-esp-2026-07-14-halftime-result",
+   "shares": 50000.0,
+   "cost": 27500.000000000004,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1784050822
   }
  },
  "positions": [
@@ -5833,20 +5852,20 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "106403767124591995946304004935428408242465603891753232501294086899773137732584",
-   "condition_id": "0x028caaf4ea2b1a7380abb3fdaed80a1725461c9137704c63d59c422b97353ea9",
-   "title": "Croatia Open: Marko Topo vs Camilo Ugo Carabelli",
-   "outcome": "Marko Topo",
-   "slug": "atp-topo-carabel-2026-07-14",
-   "opened_at": "2026-07-14T16:40:57.119105+00:00",
-   "entry_price": 0.26,
-   "shares": 384.6154,
+   "asset": "86861081814693641462491916535025897709515384914638959141270416988800931026536",
+   "condition_id": "0x6e6431df0ecf4057488f8378d57ebdac261522f30c72d01b120fdaab27941c51",
+   "title": "France vs. Spain: Draw at halftime?",
+   "outcome": "No",
+   "slug": "fifwc-fra-esp-2026-07-14-halftime-result",
+   "opened_at": "2026-07-14T17:50:59.883480+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
    "stake": 100.0,
-   "leader_vwap": 0.31,
-   "leader_cost": 7066.76,
-   "copy_delay_min": 10.0,
-   "best_ask": 0.26,
-   "ask_depth": 1064.3,
+   "leader_vwap": 0.55,
+   "leader_cost": 27500.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.55,
+   "ask_depth": 20490.27,
    "status": "open"
   }
  ],
@@ -7976,6 +7995,28 @@
    "exit_price": 0.999,
    "pnl": 455.0,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "106403767124591995946304004935428408242465603891753232501294086899773137732584",
+   "condition_id": "0x028caaf4ea2b1a7380abb3fdaed80a1725461c9137704c63d59c422b97353ea9",
+   "title": "Croatia Open: Marko Topo vs Camilo Ugo Carabelli",
+   "outcome": "Marko Topo",
+   "slug": "atp-topo-carabel-2026-07-14",
+   "opened_at": "2026-07-14T16:40:57.119105+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 7066.76,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.26,
+   "ask_depth": 1064.3,
+   "status": "lost",
+   "closed_at": "2026-07-14T17:51:00.547898+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8183,6 +8224,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -95.40850000000034,
- "last_updated": "2026-07-14T17:20:59.908161+00:00"
+ "total_pnl": -195.40850000000034,
+ "last_updated": "2026-07-14T17:51:00.548986+00:00"
 }
