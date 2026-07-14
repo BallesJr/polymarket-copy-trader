@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7811.8192586000005,
+ "bankroll": 8000.4984586,
  "last_seen": {
   "jtwyslljy": 1784024408,
   "0x53757615de": 1783712023
@@ -5619,24 +5619,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "92729947826128579138666405165582052705700691149070219393440632657711683101310",
-   "condition_id": "0x920fa15a675642d8ec06f69fbe4bec8e54c0a3f2f3228e499c57910353e37070",
-   "title": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
-   "outcome": "Andrea Pellegrino",
-   "slug": "atp-kjaer-pellegr-2026-07-13",
-   "opened_at": "2026-07-14T06:50:55.927089+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 2120.0,
-   "copy_delay_min": 8.9,
-   "best_ask": 0.53,
-   "ask_depth": 1068.14,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "13850549984824537844507271382714841770898622777452820569421746800041547387122",
    "condition_id": "0xddd22b0365ca12955bde52f09f5e688081cdb2f238cf3f6addd5f65b777f21a7",
    "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
@@ -7592,6 +7574,28 @@
    "exit_price": 1.0,
    "pnl": 58.7302,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92729947826128579138666405165582052705700691149070219393440632657711683101310",
+   "condition_id": "0x920fa15a675642d8ec06f69fbe4bec8e54c0a3f2f3228e499c57910353e37070",
+   "title": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
+   "outcome": "Andrea Pellegrino",
+   "slug": "atp-kjaer-pellegr-2026-07-13",
+   "opened_at": "2026-07-14T06:50:55.927089+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2120.0,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.53,
+   "ask_depth": 1068.14,
+   "status": "won",
+   "closed_at": "2026-07-14T11:10:56.268490+00:00",
+   "exit_price": 1.0,
+   "pnl": 88.6792,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7799,6 +7803,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T10:20:56.067738+00:00"
+ "total_pnl": -1099.5016000000003,
+ "last_updated": "2026-07-14T11:10:56.270005+00:00"
 }
