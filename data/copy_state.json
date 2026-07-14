@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7811.8192586000005,
  "last_seen": {
-  "jtwyslljy": 1784023196,
+  "jtwyslljy": 1784024408,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3953,6 +3953,27 @@
    "BUY",
    853.97,
    1784023196
+  ],
+  [
+   "0x369bcbb0c51f8d4e7e454b234c8739803274a921a0ccb2116e2a212fe41d446a",
+   "12806399736230823078463775685733605700087718402037135669127399436370694913563",
+   "SELL",
+   1500,
+   1784024128
+  ],
+  [
+   "0x2e7080afa90532ccf8aadd31d46719d25d0963b61ec1b8bb7817c045eb6c5f20",
+   "72773584617344004860606983831160454969031506167793980883857991539378142256765",
+   "BUY",
+   505,
+   1784024357
+  ],
+  [
+   "0x301346739f6dd8f8f36168a5083a8675490d9b07f3920b33b8d81dc84016f700",
+   "91550316708594215938569132144869567554472620819014603089665011718899685150022",
+   "BUY",
+   2594,
+   1784024408
   ]
  ],
  "leader_pos": {
@@ -5403,10 +5424,10 @@
    "title": "Swedish Open: Nuno Borges vs Moise Kouame",
    "outcome": "Moise Kouame",
    "slug": "atp-borges-kouame-2026-07-13",
-   "shares": 3058.4300000000003,
-   "cost": 781.7657099819951,
-   "max_shares": 3058.4300000000003,
-   "last_trade_ts": 1784012144
+   "shares": 5652.43,
+   "cost": 1448.4237099819952,
+   "max_shares": 5652.43,
+   "last_trade_ts": 1784024408
   },
   "jtwyslljy|13850549984824537844507271382714841770898622777452820569421746800041547387122": {
    "leader": "jtwyslljy",
@@ -5439,10 +5460,10 @@
    "title": "Swedish Open: Jan Choinski vs Nikoloz Basilashvili",
    "outcome": "Nikoloz Basilashvili",
    "slug": "atp-choinsk-basilas-2026-07-13",
-   "shares": 5995.17,
-   "cost": 2338.1163,
-   "max_shares": 5995.17,
-   "last_trade_ts": 1784010745
+   "shares": 6500.17,
+   "cost": 2535.0663,
+   "max_shares": 6500.17,
+   "last_trade_ts": 1784024357
   },
   "jtwyslljy|23424537185730318207853664973924851007792353065158539107804409127479266738157": {
    "leader": "jtwyslljy",
@@ -5491,6 +5512,18 @@
    "cost": 691.6962199897999,
    "max_shares": 1175.16,
    "last_trade_ts": 1784022836
+  },
+  "jtwyslljy|12806399736230823078463775685733605700087718402037135669127399436370694913563": {
+   "leader": "jtwyslljy",
+   "asset": "12806399736230823078463775685733605700087718402037135669127399436370694913563",
+   "condition_id": "0xdaa6072ee5fa2a1d66efa2517c81d2eb4feb5bfeed46fd48cdd5d45491a12cf9",
+   "title": "Swiss Open: Juan Manuel Cerundolo vs Zdenek Kolar",
+   "outcome": "Zdenek Kolar",
+   "slug": "atp-cerund-kolar-2026-07-13",
+   "shares": -1500.0,
+   "cost": -225.0,
+   "max_shares": 0.0,
+   "last_trade_ts": 1784024128
   }
  },
  "positions": [
@@ -7767,5 +7800,5 @@
   }
  ],
  "total_pnl": -1188.1808000000003,
- "last_updated": "2026-07-14T10:01:19.258171+00:00"
+ "last_updated": "2026-07-14T10:20:56.067738+00:00"
 }
