@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8175.9370586000005,
+ "bankroll": 8510.719658600001,
  "last_seen": {
-  "jtwyslljy": 1784031209,
+  "jtwyslljy": 1784034962,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -3995,6 +3995,13 @@
    "SELL",
    482.91,
    1784031209
+  ],
+  [
+   "0x1e4b722c37d8881ed5b923f96a73736d2859d6969a75e26aed06946c803db84e",
+   "74317563301561784851996914121905902250511071442558967004604885298123312874553",
+   "BUY",
+   10000,
+   1784034962
   ]
  ],
  "leader_pos": {
@@ -5557,6 +5564,18 @@
    "cost": -12.769910000000001,
    "max_shares": 0.0,
    "last_trade_ts": 1784029784
+  },
+  "jtwyslljy|74317563301561784851996914121905902250511071442558967004604885298123312874553": {
+   "leader": "jtwyslljy",
+   "asset": "74317563301561784851996914121905902250511071442558967004604885298123312874553",
+   "condition_id": "0x8af580ae52b4e94b66020eff19fdfd3ab3e8dfb6e005fb56ea0f020738a2a52b",
+   "title": "Swiss Open: Federico Cina vs Quentin Halys",
+   "outcome": "Federico Cina",
+   "slug": "atp-cina-halys-2026-07-14",
+   "shares": 10000.0,
+   "cost": 4997.4171,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784034962
   }
  },
  "positions": [
@@ -5652,24 +5671,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "13850549984824537844507271382714841770898622777452820569421746800041547387122",
-   "condition_id": "0xddd22b0365ca12955bde52f09f5e688081cdb2f238cf3f6addd5f65b777f21a7",
-   "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
-   "outcome": "Lautaro Midon",
-   "slug": "atp-acosta-midon-2026-07-14",
-   "opened_at": "2026-07-14T06:50:55.927118+00:00",
-   "entry_price": 0.23,
-   "shares": 434.7826,
-   "stake": 100.0,
-   "leader_vwap": 0.2279,
-   "leader_cost": 553.71,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.23,
-   "ask_depth": 2279.47,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "91550316708594215938569132144869567554472620819014603089665011718899685150022",
    "condition_id": "0x8fe2b5a14c490048d2fd12148fc7fbe730ae433b1cfdf1c0cc19273a77321bef",
    "title": "Swedish Open: Nuno Borges vs Moise Kouame",
@@ -5702,6 +5703,24 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.599,
    "ask_depth": 861.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74317563301561784851996914121905902250511071442558967004604885298123312874553",
+   "condition_id": "0x8af580ae52b4e94b66020eff19fdfd3ab3e8dfb6e005fb56ea0f020738a2a52b",
+   "title": "Swiss Open: Federico Cina vs Quentin Halys",
+   "outcome": "Federico Cina",
+   "slug": "atp-cina-halys-2026-07-14",
+   "opened_at": "2026-07-14T13:20:58.702726+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.4997,
+   "leader_cost": 4997.42,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.52,
+   "ask_depth": 12946.39,
    "status": "open"
   }
  ],
@@ -7633,6 +7652,28 @@
    "exit_price": 1.0,
    "pnl": 75.4386,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13850549984824537844507271382714841770898622777452820569421746800041547387122",
+   "condition_id": "0xddd22b0365ca12955bde52f09f5e688081cdb2f238cf3f6addd5f65b777f21a7",
+   "title": "Swedish Open: Facundo Acosta vs Lautaro Midon",
+   "outcome": "Lautaro Midon",
+   "slug": "atp-acosta-midon-2026-07-14",
+   "opened_at": "2026-07-14T06:50:55.927118+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.2279,
+   "leader_cost": 553.71,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.23,
+   "ask_depth": 2279.47,
+   "status": "won",
+   "closed_at": "2026-07-14T13:20:59.293740+00:00",
+   "exit_price": 1.0,
+   "pnl": 334.7826,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -7840,6 +7881,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": -1024.0630000000003,
- "last_updated": "2026-07-14T12:20:56.129864+00:00"
+ "total_pnl": -689.2804000000003,
+ "last_updated": "2026-07-14T13:20:59.294777+00:00"
 }
