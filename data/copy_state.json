@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8553.0890586,
+ "bankroll": 8453.0890586,
  "last_seen": {
-  "jtwyslljy": 1783965740,
+  "jtwyslljy": 1783995175,
   "0x53757615de": 1783712023
  },
  "seen_keys": [
@@ -3813,6 +3813,13 @@
    "SELL",
    1193,
    1783965740
+  ],
+  [
+   "0x9c718b17bc49714cd5ddd03338fdfdec1b728adc9c4522061c2de0f972d463a6",
+   "100217000018755805748535736344927526602823907413305697601874444885074356442609",
+   "BUY",
+   2000,
+   1783995175
   ]
  ],
  "leader_pos": {
@@ -5231,6 +5238,18 @@
    "cost": 683.4450999999999,
    "max_shares": 954.79,
    "last_trade_ts": 1783954457
+  },
+  "jtwyslljy|100217000018755805748535736344927526602823907413305697601874444885074356442609": {
+   "leader": "jtwyslljy",
+   "asset": "100217000018755805748535736344927526602823907413305697601874444885074356442609",
+   "condition_id": "0x8757f3aba51f94aeed8cc29c2da537579b69ca58b0185de702aee951fe096462",
+   "title": "Phoenix Mercury vs. Minnesota Lynx",
+   "outcome": "Minnesota Lynx",
+   "slug": "wnba-phx-min-2026-07-13",
+   "shares": 2000.0,
+   "cost": 1520.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1783995175
   }
  },
  "positions": [
@@ -5268,6 +5287,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100217000018755805748535736344927526602823907413305697601874444885074356442609",
+   "condition_id": "0x8757f3aba51f94aeed8cc29c2da537579b69ca58b0185de702aee951fe096462",
+   "title": "Phoenix Mercury vs. Minnesota Lynx",
+   "outcome": "Minnesota Lynx",
+   "slug": "wnba-phx-min-2026-07-13",
+   "opened_at": "2026-07-14T02:20:55.548928+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.63,
+   "ask_depth": 231.0,
    "status": "open"
   }
  ],
@@ -7341,5 +7378,5 @@
   }
  ],
  "total_pnl": -1246.9110000000003,
- "last_updated": "2026-07-13T21:10:57.396601+00:00"
+ "last_updated": "2026-07-14T02:20:55.826456+00:00"
 }
