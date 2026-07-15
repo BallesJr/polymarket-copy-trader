@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9368.398872000002,
  "last_seen": {
-  "jtwyslljy": 1784118121,
+  "jtwyslljy": 1784121763,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4317,6 +4317,13 @@
    "BUY",
    96.96,
    1784118121
+  ],
+  [
+   "0xdb1ca904f8d0bd198b9778cf7e72f9e95a5d3ea960726d9d72386642b28e5222",
+   "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "BUY",
+   390.49,
+   1784121763
   ]
  ],
  "leader_pos": {
@@ -6079,10 +6086,10 @@
    "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
    "outcome": "Clement Tabur",
    "slug": "atp-rinderk-tabur-2026-07-15",
-   "shares": 96.96,
-   "cost": 31.9968,
-   "max_shares": 96.96,
-   "last_trade_ts": 1784118121
+   "shares": 487.45,
+   "cost": 168.6683,
+   "max_shares": 487.45,
+   "last_trade_ts": 1784121763
   }
  },
  "positions": [
@@ -8679,5 +8686,5 @@
   }
  ],
  "total_pnl": 68.39879999999964,
- "last_updated": "2026-07-15T12:31:08.221985+00:00"
+ "last_updated": "2026-07-15T13:31:09.497556+00:00"
 }
