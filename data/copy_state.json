@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9496.232178,
+ "bankroll": 9766.502478,
  "last_seen": {
-  "jtwyslljy": 1784134702,
+  "jtwyslljy": 1784136067,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4429,6 +4429,13 @@
    "SELL",
    44,
    1784134702
+  ],
+  [
+   "0x6c9738c851877895752667f849c105995efb21943ea3e2abcdca16a67106856f",
+   "100269701436249328232179380618677395854816425335842225501313866778947388387280",
+   "SELL",
+   1475.98,
+   1784136067
   ]
  ],
  "leader_pos": {
@@ -6203,10 +6210,10 @@
    "title": "Croatia Open: Dino Prizmic vs Alex Molcan",
    "outcome": "Alex Molcan",
    "slug": "atp-prizmic-molcan-2026-07-15",
-   "shares": 3134.84,
-   "cost": 896.8282399999999,
+   "shares": 1658.8600000000001,
+   "cost": 487.9817799999999,
    "max_shares": 3178.84,
-   "last_trade_ts": 1784134702
+   "last_trade_ts": 1784136067
   },
   "jtwyslljy|1047118853046094884119313280280688176142754597574804819713213286923157898400": {
    "leader": "jtwyslljy",
@@ -6268,24 +6275,6 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "67670540351486856569505964205319789432233903571561753203172340800497583844476",
-   "condition_id": "0xb22365cc51c755a24b69eae9c4d1bbb47f9fff942a2d9160d6fdde8f74782121",
-   "title": "Swiss Open: Yannick Hanfmann vs Valentin Vacherot",
-   "outcome": "Valentin Vacherot",
-   "slug": "atp-hanfman-vachero-2026-07-15",
-   "opened_at": "2026-07-15T12:31:07.865834+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 2590.0,
-   "copy_delay_min": 11.1,
-   "best_ask": 0.37,
-   "ask_depth": 16338.41,
    "status": "open"
   },
   {
@@ -8715,6 +8704,28 @@
    "exit_price": 1.0,
    "pnl": 28.2051,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67670540351486856569505964205319789432233903571561753203172340800497583844476",
+   "condition_id": "0xb22365cc51c755a24b69eae9c4d1bbb47f9fff942a2d9160d6fdde8f74782121",
+   "title": "Swiss Open: Yannick Hanfmann vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-hanfman-vachero-2026-07-15",
+   "opened_at": "2026-07-15T12:31:07.865834+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 2590.0,
+   "copy_delay_min": 11.1,
+   "best_ask": 0.37,
+   "ask_depth": 16338.41,
+   "status": "won",
+   "closed_at": "2026-07-15T17:31:08.133612+00:00",
+   "exit_price": 1.0,
+   "pnl": 170.2703,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8932,6 +8943,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": -3.7679000000003526,
- "last_updated": "2026-07-15T17:20:57.495058+00:00"
+ "total_pnl": 166.50239999999962,
+ "last_updated": "2026-07-15T17:31:08.134731+00:00"
 }
