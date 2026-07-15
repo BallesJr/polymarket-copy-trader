@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9568.398872000002,
+ "bankroll": 9368.398872000002,
  "last_seen": {
-  "jtwyslljy": 1784117756,
+  "jtwyslljy": 1784118121,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4296,6 +4296,27 @@
    "BUY",
    1500,
    1784117756
+  ],
+  [
+   "0xf16dbc0febc1fff90a5244deb9f64e59aa91f1fc80602e2a90d20050268f81d1",
+   "67670540351486856569505964205319789432233903571561753203172340800497583844476",
+   "BUY",
+   7000,
+   1784117999
+  ],
+  [
+   "0x9962a7e5084c9886b543bdff86b336791e1de5cb0ef3d4e4667bb6831fcd299c",
+   "55112316297158186280699389911133724788954803878210543620431802194734092840109",
+   "BUY",
+   3127.79,
+   1784118017
+  ],
+  [
+   "0x5198bd37179bb434d8ab4bb9f6659b73cd3cf40d52bfc8f8ea905f1c49a71e44",
+   "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "BUY",
+   96.96,
+   1784118121
   ]
  ],
  "leader_pos": {
@@ -6026,6 +6047,42 @@
    "cost": 4048.8044999999997,
    "max_shares": 11500.07,
    "last_trade_ts": 1784117756
+  },
+  "jtwyslljy|67670540351486856569505964205319789432233903571561753203172340800497583844476": {
+   "leader": "jtwyslljy",
+   "asset": "67670540351486856569505964205319789432233903571561753203172340800497583844476",
+   "condition_id": "0xb22365cc51c755a24b69eae9c4d1bbb47f9fff942a2d9160d6fdde8f74782121",
+   "title": "Swiss Open: Yannick Hanfmann vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-hanfman-vachero-2026-07-15",
+   "shares": 7000.0,
+   "cost": 2590.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1784117999
+  },
+  "jtwyslljy|55112316297158186280699389911133724788954803878210543620431802194734092840109": {
+   "leader": "jtwyslljy",
+   "asset": "55112316297158186280699389911133724788954803878210543620431802194734092840109",
+   "condition_id": "0x344a058d25dfdd47bb00300bed22419673c6ca8409a546504118032f57353783",
+   "title": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-tsitsip-2026-07-15",
+   "shares": 3127.79,
+   "cost": 818.5764800577779,
+   "max_shares": 3127.79,
+   "last_trade_ts": 1784118017
+  },
+  "jtwyslljy|879049586032220870264851983572532163322443555540371285479381323584703086869": {
+   "leader": "jtwyslljy",
+   "asset": "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "condition_id": "0xb34ab679ea9f2c9d1a49be10fdbe628b217aa4e1abfaefdc836cf9c09bf0f367",
+   "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
+   "outcome": "Clement Tabur",
+   "slug": "atp-rinderk-tabur-2026-07-15",
+   "shares": 96.96,
+   "cost": 31.9968,
+   "max_shares": 96.96,
+   "last_trade_ts": 1784118121
   }
  },
  "positions": [
@@ -6117,6 +6174,42 @@
    "copy_delay_min": 12.9,
    "best_ask": 0.35,
    "ask_depth": 3277.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67670540351486856569505964205319789432233903571561753203172340800497583844476",
+   "condition_id": "0xb22365cc51c755a24b69eae9c4d1bbb47f9fff942a2d9160d6fdde8f74782121",
+   "title": "Swiss Open: Yannick Hanfmann vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-hanfman-vachero-2026-07-15",
+   "opened_at": "2026-07-15T12:31:07.865834+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 2590.0,
+   "copy_delay_min": 11.1,
+   "best_ask": 0.37,
+   "ask_depth": 16338.41,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55112316297158186280699389911133724788954803878210543620431802194734092840109",
+   "condition_id": "0x344a058d25dfdd47bb00300bed22419673c6ca8409a546504118032f57353783",
+   "title": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-tsitsip-2026-07-15",
+   "opened_at": "2026-07-15T12:31:07.865978+00:00",
+   "entry_price": 0.263,
+   "shares": 380.2281,
+   "stake": 100.0,
+   "leader_vwap": 0.2617,
+   "leader_cost": 818.58,
+   "copy_delay_min": 10.8,
+   "best_ask": 0.263,
+   "ask_depth": 643.82,
    "status": "open"
   }
  ],
@@ -8586,5 +8679,5 @@
   }
  ],
  "total_pnl": 68.39879999999964,
- "last_updated": "2026-07-15T12:21:00.573457+00:00"
+ "last_updated": "2026-07-15T12:31:08.221985+00:00"
 }
