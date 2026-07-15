@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9168.398872000002,
+ "bankroll": 9267.258178000002,
  "last_seen": {
-  "jtwyslljy": 1784123134,
+  "jtwyslljy": 1784123663,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4345,6 +4345,13 @@
    "BUY",
    2500,
    1784123134
+  ],
+  [
+   "0xe983a0f95db5bd3235f8f22cc95ba82ed519d365d6b9b3c94ad7d474a8749a2d",
+   "55112316297158186280699389911133724788954803878210543620431802194734092840109",
+   "SELL",
+   4684.47,
+   1784123663
   ]
  ],
  "leader_pos": {
@@ -6095,10 +6102,10 @@
    "title": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
    "outcome": "Jerome Kym",
    "slug": "atp-kym-tsitsip-2026-07-15",
-   "shares": 3127.79,
-   "cost": 818.5764800577779,
+   "shares": -1556.6800000000003,
+   "cost": -394.70124994222215,
    "max_shares": 3127.79,
-   "last_trade_ts": 1784118017
+   "last_trade_ts": 1784123663
   },
   "jtwyslljy|879049586032220870264851983572532163322443555540371285479381323584703086869": {
    "leader": "jtwyslljy",
@@ -6244,24 +6251,6 @@
    "copy_delay_min": 11.1,
    "best_ask": 0.37,
    "ask_depth": 16338.41,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "55112316297158186280699389911133724788954803878210543620431802194734092840109",
-   "condition_id": "0x344a058d25dfdd47bb00300bed22419673c6ca8409a546504118032f57353783",
-   "title": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
-   "outcome": "Jerome Kym",
-   "slug": "atp-kym-tsitsip-2026-07-15",
-   "opened_at": "2026-07-15T12:31:07.865978+00:00",
-   "entry_price": 0.263,
-   "shares": 380.2281,
-   "stake": 100.0,
-   "leader_vwap": 0.2617,
-   "leader_cost": 818.58,
-   "copy_delay_min": 10.8,
-   "best_ask": 0.263,
-   "ask_depth": 643.82,
    "status": "open"
   },
   {
@@ -8559,6 +8548,28 @@
    "exit_price": 1.0,
    "pnl": 170.2703,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55112316297158186280699389911133724788954803878210543620431802194734092840109",
+   "condition_id": "0x344a058d25dfdd47bb00300bed22419673c6ca8409a546504118032f57353783",
+   "title": "Swiss Open: Jerome Kym vs Stefanos Tsitsipas",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-tsitsip-2026-07-15",
+   "opened_at": "2026-07-15T12:31:07.865978+00:00",
+   "entry_price": 0.263,
+   "shares": 380.2281,
+   "stake": 100.0,
+   "leader_vwap": 0.2617,
+   "leader_cost": 818.58,
+   "copy_delay_min": 10.8,
+   "best_ask": 0.263,
+   "ask_depth": 643.82,
+   "status": "closed",
+   "closed_at": "2026-07-15T14:05:23.982780+00:00",
+   "exit_price": 0.26,
+   "pnl": -1.1407,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -8766,6 +8777,6 @@
    "outcome": "Raphael Collignon"
   }
  ],
- "total_pnl": 68.39879999999964,
- "last_updated": "2026-07-15T14:01:15.292712+00:00"
+ "total_pnl": 67.25809999999964,
+ "last_updated": "2026-07-15T14:05:24.365825+00:00"
 }
