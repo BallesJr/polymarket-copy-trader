@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9368.027078000001,
+ "bankroll": 9496.232178,
  "last_seen": {
   "jtwyslljy": 1784134702,
   "0x53757615de": 1784029784
@@ -6308,24 +6308,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "1047118853046094884119313280280688176142754597574804819713213286923157898400",
-   "condition_id": "0x1f84e9a665dc69db2f1b43e591348999ee77fcd8919d7b22cc4952a605e4135e",
-   "title": "Croatia Open: Federico Agustin Gomez vs Matteo Arnaldi",
-   "outcome": "Matteo Arnaldi",
-   "slug": "atp-gomez-arnaldi-2026-07-15",
-   "opened_at": "2026-07-15T14:01:15.025047+00:00",
-   "entry_price": 0.78,
-   "shares": 128.2051,
-   "stake": 100.0,
-   "leader_vwap": 0.77,
-   "leader_cost": 1925.0,
-   "copy_delay_min": 15.7,
-   "best_ask": 0.78,
-   "ask_depth": 428.8,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "75325467438752360835095396388791553295483372094548698457224564245883629764519",
    "condition_id": "0x7fa327300a90e3d447de4a558b03f5737ed0634c00d805a7b19e99681367eb1b",
    "title": "Croatia Open: Luca Van Assche vs Titouan Droguet",
@@ -8711,6 +8693,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1047118853046094884119313280280688176142754597574804819713213286923157898400",
+   "condition_id": "0x1f84e9a665dc69db2f1b43e591348999ee77fcd8919d7b22cc4952a605e4135e",
+   "title": "Croatia Open: Federico Agustin Gomez vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-gomez-arnaldi-2026-07-15",
+   "opened_at": "2026-07-15T14:01:15.025047+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 1925.0,
+   "copy_delay_min": 15.7,
+   "best_ask": 0.78,
+   "ask_depth": 428.8,
+   "status": "won",
+   "closed_at": "2026-07-15T17:20:57.493411+00:00",
+   "exit_price": 1.0,
+   "pnl": 28.2051,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -8928,6 +8932,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": -31.973000000000354,
- "last_updated": "2026-07-15T17:11:02.428643+00:00"
+ "total_pnl": -3.7679000000003526,
+ "last_updated": "2026-07-15T17:20:57.495058+00:00"
 }
