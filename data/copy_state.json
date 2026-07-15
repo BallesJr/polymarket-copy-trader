@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9766.502478,
+ "bankroll": 9666.502478,
  "last_seen": {
-  "jtwyslljy": 1784136067,
+  "jtwyslljy": 1784137727,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4436,6 +4436,13 @@
    "SELL",
    1475.98,
    1784136067
+  ],
+  [
+   "0x7f5924c8c19a0d0c8e0f7d2f3c378b00ce1f72778ab79843e156a0fcf70be2de",
+   "102682572420479903043318074849370958563552406591325016919156909778926607181306",
+   "BUY",
+   3000,
+   1784137727
   ]
  ],
  "leader_pos": {
@@ -6238,6 +6245,18 @@
    "cost": 1401.9840000000002,
    "max_shares": 3748.8,
    "last_trade_ts": 1784134675
+  },
+  "jtwyslljy|102682572420479903043318074849370958563552406591325016919156909778926607181306": {
+   "leader": "jtwyslljy",
+   "asset": "102682572420479903043318074849370958563552406591325016919156909778926607181306",
+   "condition_id": "0xfa5c5ec8d6808e54a016c8e23ab123a96c3795296b13114d841807e752453ff8",
+   "title": "Croatia Open: Flavio Cobolli vs Roman Andres Burruchaga",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-cobolli-burruch-2026-07-15",
+   "shares": 3000.0,
+   "cost": 1080.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1784137727
   }
  },
  "positions": [
@@ -6311,6 +6330,24 @@
    "copy_delay_min": 15.3,
    "best_ask": 0.44,
    "ask_depth": 4082.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102682572420479903043318074849370958563552406591325016919156909778926607181306",
+   "condition_id": "0xfa5c5ec8d6808e54a016c8e23ab123a96c3795296b13114d841807e752453ff8",
+   "title": "Croatia Open: Flavio Cobolli vs Roman Andres Burruchaga",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-cobolli-burruch-2026-07-15",
+   "opened_at": "2026-07-15T18:01:13.693824+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 1080.0,
+   "copy_delay_min": 12.4,
+   "best_ask": 0.43,
+   "ask_depth": 873.62,
    "status": "open"
   }
  ],
@@ -8944,5 +8981,5 @@
   }
  ],
  "total_pnl": 166.50239999999962,
- "last_updated": "2026-07-15T17:31:08.134731+00:00"
+ "last_updated": "2026-07-15T18:01:14.073469+00:00"
 }
