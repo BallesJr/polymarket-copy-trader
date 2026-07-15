@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9318.773378000002,
  "last_seen": {
-  "jtwyslljy": 1784126066,
+  "jtwyslljy": 1784129498,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4366,6 +4366,20 @@
    "BUY",
    2220.09,
    1784126066
+  ],
+  [
+   "0x0cfc12dc0534d140d21bbf10509d71c792e80398265f4af4ac092514695c5609",
+   "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "BUY",
+   5000,
+   1784129455
+  ],
+  [
+   "0x73e650556396c7ac234a2e418f45d3a6e96af914a2a6d270748dc39283211589",
+   "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "BUY",
+   6000,
+   1784129498
   ]
  ],
  "leader_pos": {
@@ -6128,10 +6142,10 @@
    "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
    "outcome": "Clement Tabur",
    "slug": "atp-rinderk-tabur-2026-07-15",
-   "shares": 487.45,
-   "cost": 168.6683,
-   "max_shares": 487.45,
-   "last_trade_ts": 1784121763
+   "shares": 11487.45,
+   "cost": 3908.6683000000003,
+   "max_shares": 11487.45,
+   "last_trade_ts": 1784129498
   },
   "jtwyslljy|100269701436249328232179380618677395854816425335842225501313866778947388387280": {
    "leader": "jtwyslljy",
@@ -8827,8 +8841,18 @@
    "leader": "jtwyslljy",
    "title": "Swiss Open: Raphael Collignon vs Timofey Skatov",
    "outcome": "Raphael Collignon"
+  },
+  {
+   "at": "2026-07-15T15:41:01.352244+00:00",
+   "reason": "chase",
+   "ask": 0.78,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.3403,
+   "leader": "jtwyslljy",
+   "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
+   "outcome": "Clement Tabur"
   }
  ],
  "total_pnl": 18.773299999999637,
- "last_updated": "2026-07-15T14:41:02.652146+00:00"
+ "last_updated": "2026-07-15T15:41:01.720984+00:00"
 }
