@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9318.773378000002,
+ "bankroll": 9218.773378000002,
  "last_seen": {
-  "jtwyslljy": 1784129498,
+  "jtwyslljy": 1784132113,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4380,6 +4380,13 @@
    "BUY",
    6000,
    1784129498
+  ],
+  [
+   "0x767cb5653f464e537f64669403eee887227c6d344cbcd9818c1f5f9980289a01",
+   "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "BUY",
+   2000,
+   1784132113
   ]
  ],
  "leader_pos": {
@@ -6142,10 +6149,10 @@
    "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
    "outcome": "Clement Tabur",
    "slug": "atp-rinderk-tabur-2026-07-15",
-   "shares": 11487.45,
-   "cost": 3908.6683000000003,
-   "max_shares": 11487.45,
-   "last_trade_ts": 1784129498
+   "shares": 13487.45,
+   "cost": 5368.6683,
+   "max_shares": 13487.45,
+   "last_trade_ts": 1784132113
   },
   "jtwyslljy|100269701436249328232179380618677395854816425335842225501313866778947388387280": {
    "leader": "jtwyslljy",
@@ -6309,6 +6316,24 @@
    "copy_delay_min": 15.3,
    "best_ask": 0.44,
    "ask_depth": 4082.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "879049586032220870264851983572532163322443555540371285479381323584703086869",
+   "condition_id": "0xb34ab679ea9f2c9d1a49be10fdbe628b217aa4e1abfaefdc836cf9c09bf0f367",
+   "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
+   "outcome": "Clement Tabur",
+   "slug": "atp-rinderk-tabur-2026-07-15",
+   "opened_at": "2026-07-15T16:20:59.357822+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.398,
+   "leader_cost": 5368.67,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.42,
+   "ask_depth": 17206.56,
    "status": "open"
   }
  ],
@@ -8854,5 +8879,5 @@
   }
  ],
  "total_pnl": 18.773299999999637,
- "last_updated": "2026-07-15T15:41:01.720984+00:00"
+ "last_updated": "2026-07-15T16:20:59.698270+00:00"
 }
