@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9268.398872000002,
+ "bankroll": 9168.398872000002,
  "last_seen": {
-  "jtwyslljy": 1784122865,
+  "jtwyslljy": 1784123134,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4338,6 +4338,13 @@
    "BUY",
    3178.84,
    1784122865
+  ],
+  [
+   "0xae08b1312583c7834fa63835f5d6baac81e6bca151dbad84c641104558aa893d",
+   "1047118853046094884119313280280688176142754597574804819713213286923157898400",
+   "BUY",
+   2500,
+   1784123134
   ]
  ],
  "leader_pos": {
@@ -6116,6 +6123,18 @@
    "cost": 909.14824,
    "max_shares": 3178.84,
    "last_trade_ts": 1784122865
+  },
+  "jtwyslljy|1047118853046094884119313280280688176142754597574804819713213286923157898400": {
+   "leader": "jtwyslljy",
+   "asset": "1047118853046094884119313280280688176142754597574804819713213286923157898400",
+   "condition_id": "0x1f84e9a665dc69db2f1b43e591348999ee77fcd8919d7b22cc4952a605e4135e",
+   "title": "Croatia Open: Federico Agustin Gomez vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-gomez-arnaldi-2026-07-15",
+   "shares": 2500.0,
+   "cost": 1925.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1784123134
   }
  },
  "positions": [
@@ -6261,6 +6280,24 @@
    "copy_delay_min": 9.8,
    "best_ask": 0.287,
    "ask_depth": 224.35,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1047118853046094884119313280280688176142754597574804819713213286923157898400",
+   "condition_id": "0x1f84e9a665dc69db2f1b43e591348999ee77fcd8919d7b22cc4952a605e4135e",
+   "title": "Croatia Open: Federico Agustin Gomez vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-gomez-arnaldi-2026-07-15",
+   "opened_at": "2026-07-15T14:01:15.025047+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 1925.0,
+   "copy_delay_min": 15.7,
+   "best_ask": 0.78,
+   "ask_depth": 428.8,
    "status": "open"
   }
  ],
@@ -8730,5 +8767,5 @@
   }
  ],
  "total_pnl": 68.39879999999964,
- "last_updated": "2026-07-15T13:50:56.031360+00:00"
+ "last_updated": "2026-07-15T14:01:15.292712+00:00"
 }
