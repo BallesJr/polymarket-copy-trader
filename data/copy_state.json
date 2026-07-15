@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9466.502478,
  "last_seen": {
-  "jtwyslljy": 1784142568,
+  "jtwyslljy": 1784142775,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4513,6 +4513,27 @@
    "BUY",
    2402.3,
    1784142568
+  ],
+  [
+   "0x0ff9e9cc39244d147002debc5216ebe6895852efb595d891401161e25f054ae9",
+   "34722693297919059848905898968884829086904243244959579825508013056668468340666",
+   "BUY",
+   12031.75,
+   1784142619
+  ],
+  [
+   "0xd477ab41eeac7a34d9bfa4ae616632fff3baa215551eef82504e7683afe25417",
+   "34722693297919059848905898968884829086904243244959579825508013056668468340666",
+   "BUY",
+   45367.98,
+   1784142686
+  ],
+  [
+   "0xf5729abd17ded0dca6d03d83f5e9165a19e3fc83bc5587b7feba32682752312e",
+   "34722693297919059848905898968884829086904243244959579825508013056668468340666",
+   "BUY",
+   4839.98,
+   1784142775
   ]
  ],
  "leader_pos": {
@@ -6359,10 +6380,10 @@
    "title": "England vs. Argentina: O/U 1.5",
    "outcome": "Under",
    "slug": "fifwc-eng-arg-2026-07-15-more-markets",
-   "shares": 10973.009999999998,
-   "cost": 3862.2547247021307,
-   "max_shares": 10973.009999999998,
-   "last_trade_ts": 1784142568
+   "shares": 73212.72,
+   "cost": 27438.334947465017,
+   "max_shares": 73212.72,
+   "last_trade_ts": 1784142775
   }
  },
  "positions": [
@@ -6436,24 +6457,6 @@
    "copy_delay_min": 15.3,
    "best_ask": 0.44,
    "ask_depth": 4082.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "102682572420479903043318074849370958563552406591325016919156909778926607181306",
-   "condition_id": "0xfa5c5ec8d6808e54a016c8e23ab123a96c3795296b13114d841807e752453ff8",
-   "title": "Croatia Open: Flavio Cobolli vs Roman Andres Burruchaga",
-   "outcome": "Flavio Cobolli",
-   "slug": "atp-cobolli-burruch-2026-07-15",
-   "opened_at": "2026-07-15T18:01:13.693824+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 1080.0,
-   "copy_delay_min": 12.4,
-   "best_ask": 0.43,
-   "ask_depth": 873.62,
    "status": "open"
   },
   {
@@ -8905,6 +8908,28 @@
    "exit_price": 1.0,
    "pnl": 170.2703,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102682572420479903043318074849370958563552406591325016919156909778926607181306",
+   "condition_id": "0xfa5c5ec8d6808e54a016c8e23ab123a96c3795296b13114d841807e752453ff8",
+   "title": "Croatia Open: Flavio Cobolli vs Roman Andres Burruchaga",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-cobolli-burruch-2026-07-15",
+   "opened_at": "2026-07-15T18:01:13.693824+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 1080.0,
+   "copy_delay_min": 12.4,
+   "best_ask": 0.43,
+   "ask_depth": 873.62,
+   "status": "lost",
+   "closed_at": "2026-07-15T19:20:55.326521+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9122,6 +9147,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": 166.50239999999962,
- "last_updated": "2026-07-15T19:10:59.246137+00:00"
+ "total_pnl": 66.50239999999962,
+ "last_updated": "2026-07-15T19:20:55.327771+00:00"
 }
