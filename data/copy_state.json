@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9366.502478,
+ "bankroll": 10150.1074768,
  "last_seen": {
-  "jtwyslljy": 1784148698,
+  "jtwyslljy": 1784150476,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4569,6 +4569,27 @@
    "SELL",
    4387.8,
    1784148698
+  ],
+  [
+   "0x88f07b5b7628fb6ac5d0f0143e28b69b4270ea25babd6a9f145518602077275f",
+   "100269701436249328232179380618677395854816425335842225501313866778947388387280",
+   "SELL",
+   1000,
+   1784150362
+  ],
+  [
+   "0x96a60431389cdacbc3049fd56a02469e3848b6572d4d7e823181f48a2076d2aa",
+   "100269701436249328232179380618677395854816425335842225501313866778947388387280",
+   "SELL",
+   1000,
+   1784150426
+  ],
+  [
+   "0xdf4a808bfed2f5359a642d8fbc67c4fbb2c00f3e7935f2a9ae6a627df8099c00",
+   "100269701436249328232179380618677395854816425335842225501313866778947388387280",
+   "SELL",
+   94,
+   1784150476
   ]
  ],
  "leader_pos": {
@@ -6343,10 +6364,10 @@
    "title": "Croatia Open: Dino Prizmic vs Alex Molcan",
    "outcome": "Alex Molcan",
    "slug": "atp-prizmic-molcan-2026-07-15",
-   "shares": 3637.8500000000004,
-   "cost": 1036.18301,
+   "shares": 1543.8500000000004,
+   "cost": -580.4509899994,
    "max_shares": 3637.8500000000004,
-   "last_trade_ts": 1784141081
+   "last_trade_ts": 1784150476
   },
   "jtwyslljy|1047118853046094884119313280280688176142754597574804819713213286923157898400": {
    "leader": "jtwyslljy",
@@ -6468,78 +6489,6 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "100269701436249328232179380618677395854816425335842225501313866778947388387280",
-   "condition_id": "0x60f7a2f3b8c0809d9d90e6e92a00696eed517455778a0e031d154f5f5878f067",
-   "title": "Croatia Open: Dino Prizmic vs Alex Molcan",
-   "outcome": "Alex Molcan",
-   "slug": "atp-prizmic-molcan-2026-07-15",
-   "opened_at": "2026-07-15T13:50:55.641017+00:00",
-   "entry_price": 0.2874,
-   "shares": 348.0012,
-   "stake": 100.0,
-   "leader_vwap": 0.286,
-   "leader_cost": 909.15,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.287,
-   "ask_depth": 224.35,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "74195920481980850339833434858532868591496382001885653367714402955122956464009",
-   "condition_id": "0xfb22501ffce04e5a029bcc79ebb9e6a534cc676677c1354e29d29e3adfd08f46",
-   "title": "England vs. Argentina: O/U 2.5",
-   "outcome": "Over",
-   "slug": "fifwc-eng-arg-2026-07-15-more-markets",
-   "opened_at": "2026-07-15T18:40:58.706182+00:00",
-   "entry_price": 0.385,
-   "shares": 259.7403,
-   "stake": 100.0,
-   "leader_vwap": 0.385,
-   "leader_cost": 3465.0,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.385,
-   "ask_depth": 19692.99,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "34722693297919059848905898968884829086904243244959579825508013056668468340666",
-   "condition_id": "0x5c6fade951a8a7e2b93b156ac8e42e01a2564831ef9b33dbd522aaaf989bfc7a",
-   "title": "England vs. Argentina: O/U 1.5",
-   "outcome": "Under",
-   "slug": "fifwc-eng-arg-2026-07-15-more-markets",
-   "opened_at": "2026-07-15T19:10:58.974387+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.352,
-   "leader_cost": 3862.25,
-   "copy_delay_min": 1.5,
-   "best_ask": 0.37,
-   "ask_depth": 410.47,
-   "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
-   "asset": "75854478936717172903010368235076483702592235439702038819177032097826639383727",
-   "condition_id": "0xdf13369a5e77705a1d62214dde4617929c5875f6c52b62177ccb2ea27488b18f",
-   "title": "Will England vs. Argentina end in a draw?",
-   "outcome": "No",
-   "slug": "fifwc-eng-arg-2026-07-15",
-   "opened_at": "2026-07-15T20:10:57.572220+00:00",
-   "entry_price": 0.5675,
-   "shares": 176.2115,
-   "stake": 100.0,
-   "leader_vwap": 0.5793,
-   "leader_cost": 28965.56,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.5675,
-   "ask_depth": 12525.02,
    "status": "open"
   }
  ],
@@ -8999,6 +8948,94 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100269701436249328232179380618677395854816425335842225501313866778947388387280",
+   "condition_id": "0x60f7a2f3b8c0809d9d90e6e92a00696eed517455778a0e031d154f5f5878f067",
+   "title": "Croatia Open: Dino Prizmic vs Alex Molcan",
+   "outcome": "Alex Molcan",
+   "slug": "atp-prizmic-molcan-2026-07-15",
+   "opened_at": "2026-07-15T13:50:55.641017+00:00",
+   "entry_price": 0.2874,
+   "shares": 348.0012,
+   "stake": 100.0,
+   "leader_vwap": 0.286,
+   "leader_cost": 909.15,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.287,
+   "ask_depth": 224.35,
+   "status": "closed",
+   "closed_at": "2026-07-15T21:31:06.035048+00:00",
+   "exit_price": 0.999,
+   "pnl": 247.6532,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74195920481980850339833434858532868591496382001885653367714402955122956464009",
+   "condition_id": "0xfb22501ffce04e5a029bcc79ebb9e6a534cc676677c1354e29d29e3adfd08f46",
+   "title": "England vs. Argentina: O/U 2.5",
+   "outcome": "Over",
+   "slug": "fifwc-eng-arg-2026-07-15-more-markets",
+   "opened_at": "2026-07-15T18:40:58.706182+00:00",
+   "entry_price": 0.385,
+   "shares": 259.7403,
+   "stake": 100.0,
+   "leader_vwap": 0.385,
+   "leader_cost": 3465.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.385,
+   "ask_depth": 19692.99,
+   "status": "won",
+   "closed_at": "2026-07-15T21:31:06.544855+00:00",
+   "exit_price": 1.0,
+   "pnl": 159.7403,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34722693297919059848905898968884829086904243244959579825508013056668468340666",
+   "condition_id": "0x5c6fade951a8a7e2b93b156ac8e42e01a2564831ef9b33dbd522aaaf989bfc7a",
+   "title": "England vs. Argentina: O/U 1.5",
+   "outcome": "Under",
+   "slug": "fifwc-eng-arg-2026-07-15-more-markets",
+   "opened_at": "2026-07-15T19:10:58.974387+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.352,
+   "leader_cost": 3862.25,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.37,
+   "ask_depth": 410.47,
+   "status": "lost",
+   "closed_at": "2026-07-15T21:31:06.795110+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "75854478936717172903010368235076483702592235439702038819177032097826639383727",
+   "condition_id": "0xdf13369a5e77705a1d62214dde4617929c5875f6c52b62177ccb2ea27488b18f",
+   "title": "Will England vs. Argentina end in a draw?",
+   "outcome": "No",
+   "slug": "fifwc-eng-arg-2026-07-15",
+   "opened_at": "2026-07-15T20:10:57.572220+00:00",
+   "entry_price": 0.5675,
+   "shares": 176.2115,
+   "stake": 100.0,
+   "leader_vwap": 0.5793,
+   "leader_cost": 28965.56,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.5675,
+   "ask_depth": 12525.02,
+   "status": "won",
+   "closed_at": "2026-07-15T21:31:07.023519+00:00",
+   "exit_price": 1.0,
+   "pnl": 76.2115,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9216,6 +9253,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": -33.497600000000375,
- "last_updated": "2026-07-15T21:20:59.602329+00:00"
+ "total_pnl": 350.10739999999964,
+ "last_updated": "2026-07-15T21:31:07.024637+00:00"
 }
