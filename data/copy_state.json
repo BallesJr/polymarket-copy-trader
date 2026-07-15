@@ -6490,24 +6490,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "75325467438752360835095396388791553295483372094548698457224564245883629764519",
-   "condition_id": "0x7fa327300a90e3d447de4a558b03f5737ed0634c00d805a7b19e99681367eb1b",
-   "title": "Croatia Open: Luca Van Assche vs Titouan Droguet",
-   "outcome": "Luca Van Assche",
-   "slug": "atp-assche-droguet-2026-07-15",
-   "opened_at": "2026-07-15T14:20:55.750222+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 1611.98,
-   "copy_delay_min": 15.3,
-   "best_ask": 0.44,
-   "ask_depth": 4082.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "74195920481980850339833434858532868591496382001885653367714402955122956464009",
    "condition_id": "0xfb22501ffce04e5a029bcc79ebb9e6a534cc676677c1354e29d29e3adfd08f46",
    "title": "England vs. Argentina: O/U 2.5",
@@ -8995,6 +8977,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75325467438752360835095396388791553295483372094548698457224564245883629764519",
+   "condition_id": "0x7fa327300a90e3d447de4a558b03f5737ed0634c00d805a7b19e99681367eb1b",
+   "title": "Croatia Open: Luca Van Assche vs Titouan Droguet",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-assche-droguet-2026-07-15",
+   "opened_at": "2026-07-15T14:20:55.750222+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 1611.98,
+   "copy_delay_min": 15.3,
+   "best_ask": 0.44,
+   "ask_depth": 4082.42,
+   "status": "lost",
+   "closed_at": "2026-07-15T21:20:58.834072+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9212,6 +9216,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": 66.50239999999962,
- "last_updated": "2026-07-15T21:01:09.549302+00:00"
+ "total_pnl": -33.497600000000375,
+ "last_updated": "2026-07-15T21:20:59.602329+00:00"
 }
