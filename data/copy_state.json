@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9868.398872000002,
+ "bankroll": 9668.398872000002,
  "last_seen": {
-  "jtwyslljy": 1784062730,
+  "jtwyslljy": 1784103022,
   "0x53757615de": 1784029784
  },
  "seen_keys": [
@@ -4240,6 +4240,20 @@
    "SELL",
    5616.22,
    1784062730
+  ],
+  [
+   "0xbe3782922f82a078920a1fff9b9729cc77afa773580342b7d0ae08dbef1fd8eb",
+   "969543505583020748075714740582441893944653619741948280469517184431178534367",
+   "BUY",
+   4500,
+   1784103001
+  ],
+  [
+   "0xb29c8ef5e34376c2556e96df19daf330527a402270fb11387d2541d93d2cfef2",
+   "6692574581466437774574497000244938272311149068697119256044361287504408167207",
+   "BUY",
+   1288.54,
+   1784103022
   ]
  ],
  "leader_pos": {
@@ -5922,6 +5936,30 @@
    "cost": -13743.413050100002,
    "max_shares": 3000.0,
    "last_trade_ts": 1784062730
+  },
+  "jtwyslljy|969543505583020748075714740582441893944653619741948280469517184431178534367": {
+   "leader": "jtwyslljy",
+   "asset": "969543505583020748075714740582441893944653619741948280469517184431178534367",
+   "condition_id": "0x1792ad47e15d9ee35b3f3038850d0293e302c8b72b8417c574844a3bd820e5cb",
+   "title": "Swedish Open: Nuno Borges vs Grigor Dimitrov",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-dimitro-2026-07-15",
+   "shares": 4500.0,
+   "cost": 2970.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1784103001
+  },
+  "jtwyslljy|6692574581466437774574497000244938272311149068697119256044361287504408167207": {
+   "leader": "jtwyslljy",
+   "asset": "6692574581466437774574497000244938272311149068697119256044361287504408167207",
+   "condition_id": "0xb34ab679ea9f2c9d1a49be10fdbe628b217aa4e1abfaefdc836cf9c09bf0f367",
+   "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-tabur-2026-07-15",
+   "shares": 1288.54,
+   "cost": 850.4364,
+   "max_shares": 1288.54,
+   "last_trade_ts": 1784103022
   }
  },
  "positions": [
@@ -5959,6 +5997,42 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.846,
    "ask_depth": 3958.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "969543505583020748075714740582441893944653619741948280469517184431178534367",
+   "condition_id": "0x1792ad47e15d9ee35b3f3038850d0293e302c8b72b8417c574844a3bd820e5cb",
+   "title": "Swedish Open: Nuno Borges vs Grigor Dimitrov",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-dimitro-2026-07-15",
+   "opened_at": "2026-07-15T08:21:03.069470+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 2970.0,
+   "copy_delay_min": 11.0,
+   "best_ask": 0.66,
+   "ask_depth": 54679.16,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6692574581466437774574497000244938272311149068697119256044361287504408167207",
+   "condition_id": "0xb34ab679ea9f2c9d1a49be10fdbe628b217aa4e1abfaefdc836cf9c09bf0f367",
+   "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-tabur-2026-07-15",
+   "opened_at": "2026-07-15T08:21:03.069548+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 850.44,
+   "copy_delay_min": 10.7,
+   "best_ask": 0.67,
+   "ask_depth": 21053.6,
    "status": "open"
   }
  ],
@@ -8428,5 +8502,5 @@
   }
  ],
  "total_pnl": 68.39879999999964,
- "last_updated": "2026-07-14T21:40:57.786807+00:00"
+ "last_updated": "2026-07-15T08:21:03.381807+00:00"
 }
