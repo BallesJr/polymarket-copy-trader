@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9668.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784231195,
+  "jtwyslljy": 1784231233,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4751,6 +4751,13 @@
    "BUY",
    2541.55,
    1784231195
+  ],
+  [
+   "0x358a3ae84e9f1e82e692cf4802fd33e68530ad4847aff8e5e7248e9191bc91fb",
+   "73112083904869624376416017670767433038739783786292993655559929010853749039104",
+   "BUY",
+   58,
+   1784231233
   ]
  ],
  "leader_pos": {
@@ -6705,10 +6712,10 @@
    "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
    "outcome": "Damir Dzumhur",
    "slug": "atp-dzumhur-arnaldi-2026-07-16",
-   "shares": 2541.55,
-   "cost": 1080.596000041085,
-   "max_shares": 2541.55,
-   "last_trade_ts": 1784231195
+   "shares": 2599.55,
+   "cost": 1103.216000041085,
+   "max_shares": 2599.55,
+   "last_trade_ts": 1784231233
   }
  },
  "positions": [
@@ -9636,8 +9643,16 @@
    "leader": "jtwyslljy",
    "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
    "outcome": "Damir Dzumhur"
+  },
+  {
+   "at": "2026-07-16T20:01:01.343578+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": 168.31069999999966,
- "last_updated": "2026-07-16T19:50:42.046899+00:00"
+ "last_updated": "2026-07-16T20:01:01.834018+00:00"
 }
