@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10150.1074768,
+ "bankroll": 10268.310776799999,
  "last_seen": {
   "jtwyslljy": 1784150476,
   "0x53757615de": 1784145685
@@ -6472,24 +6472,6 @@
    "best_ask": 0.177,
    "ask_depth": 62420.2,
    "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
-   "asset": "77121637225348873006259930776623502125079210522997384841464684944292365296940",
-   "condition_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-   "title": "Will England win the 2026 FIFA World Cup?",
-   "outcome": "No",
-   "slug": "world-cup-winner",
-   "opened_at": "2026-07-10T19:40:53.253890+00:00",
-   "entry_price": 0.846,
-   "shares": 118.2033,
-   "stake": 100.0,
-   "leader_vwap": 0.844,
-   "leader_cost": 2747.83,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.846,
-   "ask_depth": 3958.17,
-   "status": "open"
   }
  ],
  "closed": [
@@ -9036,6 +9018,28 @@
    "exit_price": 1.0,
    "pnl": 76.2115,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "77121637225348873006259930776623502125079210522997384841464684944292365296940",
+   "condition_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+   "title": "Will England win the 2026 FIFA World Cup?",
+   "outcome": "No",
+   "slug": "world-cup-winner",
+   "opened_at": "2026-07-10T19:40:53.253890+00:00",
+   "entry_price": 0.846,
+   "shares": 118.2033,
+   "stake": 100.0,
+   "leader_vwap": 0.844,
+   "leader_cost": 2747.83,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.846,
+   "ask_depth": 3958.17,
+   "status": "won",
+   "closed_at": "2026-07-16T00:20:53.841892+00:00",
+   "exit_price": 1.0,
+   "pnl": 18.2033,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9253,6 +9257,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": 350.10739999999964,
- "last_updated": "2026-07-15T21:31:07.024637+00:00"
+ "total_pnl": 368.31069999999966,
+ "last_updated": "2026-07-16T00:20:53.843025+00:00"
 }
