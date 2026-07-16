@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9968.310776799999,
+ "bankroll": 9668.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784196445,
+  "jtwyslljy": 1784210861,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4653,6 +4653,34 @@
    "BUY",
    1663.53,
    1784196445
+  ],
+  [
+   "0x17d78309f7e5f207a9249a75231df451dd14c3a6fe7b4a063da1cd37772211e4",
+   "52924267003575331648955822017475856971807946380730212912001647509734987324472",
+   "BUY",
+   400,
+   1784210599
+  ],
+  [
+   "0xa6bb1c1fb4689e8967885f044a495afa16ff79dfbe2f294a3d685e6bc3bdd213",
+   "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "BUY",
+   8000,
+   1784210671
+  ],
+  [
+   "0xaca2e314fc9fd7e9543489f8161e7a3b8e564de4d444535a5dc96effabbe21e1",
+   "101868872629289193097544253905510432820932368899781664897974910577886524053316",
+   "BUY",
+   4306.94,
+   1784210686
+  ],
+  [
+   "0x478fba0d3282203b7bad08143f7c62bf332da89cce6ca5153ce72b5be22f1941",
+   "52924267003575331648955822017475856971807946380730212912001647509734987324472",
+   "BUY",
+   1000,
+   1784210861
   ]
  ],
  "leader_pos": {
@@ -6563,6 +6591,42 @@
    "cost": 3171.22,
    "max_shares": 6098.5,
    "last_trade_ts": 1784196070
+  },
+  "jtwyslljy|52924267003575331648955822017475856971807946380730212912001647509734987324472": {
+   "leader": "jtwyslljy",
+   "asset": "52924267003575331648955822017475856971807946380730212912001647509734987324472",
+   "condition_id": "0xc58e4e4f6bdd20472f25d28bc86d2ec23a5a9a2863113fa36623a2ae2a7402c7",
+   "title": "Swedish Open: Jesper de Jong vs Sebastian Baez",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-baez-2026-07-16",
+   "shares": 1400.0,
+   "cost": 728.0,
+   "max_shares": 1400.0,
+   "last_trade_ts": 1784210861
+  },
+  "jtwyslljy|52986693366223995940209705654148218647244226877439184453664169571815948478391": {
+   "leader": "jtwyslljy",
+   "asset": "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-dzumhur-arnaldi-2026-07-16",
+   "shares": 8000.0,
+   "cost": 5280.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784210671
+  },
+  "jtwyslljy|101868872629289193097544253905510432820932368899781664897974910577886524053316": {
+   "leader": "jtwyslljy",
+   "asset": "101868872629289193097544253905510432820932368899781664897974910577886524053316",
+   "condition_id": "0x1873f4005b5157d813eef25e47b32d3f9f2871e89bf651f5b46564ee4e5e148a",
+   "title": "Croatia Open: Roman Andres Burruchaga vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-burruch-carabel-2026-07-16",
+   "shares": 4306.94,
+   "cost": 1851.9841999999999,
+   "max_shares": 4306.94,
+   "last_trade_ts": 1784210686
   }
  },
  "positions": [
@@ -6636,6 +6700,60 @@
    "copy_delay_min": 9.9,
    "best_ask": 0.53,
    "ask_depth": 35360.96,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101868872629289193097544253905510432820932368899781664897974910577886524053316",
+   "condition_id": "0x1873f4005b5157d813eef25e47b32d3f9f2871e89bf651f5b46564ee4e5e148a",
+   "title": "Croatia Open: Roman Andres Burruchaga vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-burruch-carabel-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.499949+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 1851.98,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.44,
+   "ask_depth": 1279.61,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52924267003575331648955822017475856971807946380730212912001647509734987324472",
+   "condition_id": "0xc58e4e4f6bdd20472f25d28bc86d2ec23a5a9a2863113fa36623a2ae2a7402c7",
+   "title": "Swedish Open: Jesper de Jong vs Sebastian Baez",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-baez-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.500033+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 728.0,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.52,
+   "ask_depth": 19862.62,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-dzumhur-arnaldi-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.500065+00:00",
+   "entry_price": 0.662,
+   "shares": 151.0593,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 5280.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.66,
+   "ask_depth": 120.97,
    "status": "open"
   }
  ],
@@ -9423,5 +9541,5 @@
   }
  ],
  "total_pnl": 368.31069999999966,
- "last_updated": "2026-07-16T10:20:59.338424+00:00"
+ "last_updated": "2026-07-16T14:11:01.854094+00:00"
 }
