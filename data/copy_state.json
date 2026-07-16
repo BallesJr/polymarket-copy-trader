@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9968.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784196070,
+  "jtwyslljy": 1784196445,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4639,6 +4639,20 @@
    "BUY",
    98.5,
    1784196070
+  ],
+  [
+   "0x0f17f6e910b728b7ec81b1bc9c3b5b108115546a0eba7116dac90d2a89f92d25",
+   "13688886649623791247317993108691684609422043916936223468391895199119772091962",
+   "SELL",
+   199.95,
+   1784196305
+  ],
+  [
+   "0x0c3651bcc95ac0dc99b508aebc51e07bd1ca7a65cb73142bcfc575a6cc0095cf",
+   "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "BUY",
+   1663.53,
+   1784196445
   ]
  ],
  "leader_pos": {
@@ -6521,10 +6535,10 @@
    "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
    "outcome": "Quentin Halys",
    "slug": "atp-bublik-halys-2026-07-15",
-   "shares": 3745.03,
-   "cost": 1209.4843800125047,
-   "max_shares": 3745.03,
-   "last_trade_ts": 1784193967
+   "shares": 5408.56,
+   "cost": 1757.647929996907,
+   "max_shares": 5408.56,
+   "last_trade_ts": 1784196445
   },
   "jtwyslljy|13688886649623791247317993108691684609422043916936223468391895199119772091962": {
    "leader": "jtwyslljy",
@@ -6533,10 +6547,10 @@
    "title": "Swedish Open: Andrey Rublev vs Andrea Pellegrino",
    "outcome": "Andrea Pellegrino",
    "slug": "atp-rublev-pellegr-2026-07-15",
-   "shares": -821.0,
-   "cost": -229.88000000000002,
+   "shares": -1020.95,
+   "cost": -285.86600000000004,
    "max_shares": 0.0,
-   "last_trade_ts": 1784195689
+   "last_trade_ts": 1784196305
   },
   "jtwyslljy|99577243057231986396940528235432254973697770182732083110204138005539240567304": {
    "leader": "jtwyslljy",
@@ -9409,5 +9423,5 @@
   }
  ],
  "total_pnl": 368.31069999999966,
- "last_updated": "2026-07-16T10:11:03.863066+00:00"
+ "last_updated": "2026-07-16T10:20:59.338424+00:00"
 }
