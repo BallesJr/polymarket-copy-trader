@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10268.310776799999,
+ "bankroll": 10068.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784150476,
+  "jtwyslljy": 1784192051,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4590,6 +4590,20 @@
    "SELL",
    94,
    1784150476
+  ],
+  [
+   "0xd68057ef24b3e8c3eb4abbec70eef370418a2deb6c0fd8c54975c5bb1e553af8",
+   "42129274094398952074348236307602332733386235112511838803008729672525517522747",
+   "BUY",
+   7000,
+   1784192041
+  ],
+  [
+   "0x521374120541354249ece5739542cb225699d2d639ec0dd6f155a4504f7dbfee",
+   "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "BUY",
+   3280.87,
+   1784192051
   ]
  ],
  "leader_pos": {
@@ -6452,6 +6466,30 @@
    "cost": 28965.557525,
    "max_shares": 50000.0,
    "last_trade_ts": 1784145685
+  },
+  "jtwyslljy|42129274094398952074348236307602332733386235112511838803008729672525517522747": {
+   "leader": "jtwyslljy",
+   "asset": "42129274094398952074348236307602332733386235112511838803008729672525517522747",
+   "condition_id": "0x9ef2776fa7119fc1ec81a0a5d8f9e5a677701eed5b581b138c94ed177d12955e",
+   "title": "Swiss Open: Jaime Faria vs Casper Ruud",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-ruud-2026-07-16",
+   "shares": 7000.0,
+   "cost": 1470.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1784192041
+  },
+  "jtwyslljy|60720273604265590885190453789040135043315079647070407060399333689423511344314": {
+   "leader": "jtwyslljy",
+   "asset": "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "condition_id": "0xc0335c9816ab0bf9b4d493f9fb9f2c31c625181a0d33a3fcd66f329b6952c731",
+   "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-bublik-halys-2026-07-15",
+   "shares": 3280.87,
+   "cost": 1058.900010012505,
+   "max_shares": 3280.87,
+   "last_trade_ts": 1784192051
   }
  },
  "positions": [
@@ -6471,6 +6509,42 @@
    "copy_delay_min": 120.8,
    "best_ask": 0.177,
    "ask_depth": 62420.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "condition_id": "0xc0335c9816ab0bf9b4d493f9fb9f2c31c625181a0d33a3fcd66f329b6952c731",
+   "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-bublik-halys-2026-07-15",
+   "opened_at": "2026-07-16T09:01:15.156073+00:00",
+   "entry_price": 0.3243,
+   "shares": 308.3967,
+   "stake": 100.0,
+   "leader_vwap": 0.3227,
+   "leader_cost": 1058.9,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.324,
+   "ask_depth": 266.17,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42129274094398952074348236307602332733386235112511838803008729672525517522747",
+   "condition_id": "0x9ef2776fa7119fc1ec81a0a5d8f9e5a677701eed5b581b138c94ed177d12955e",
+   "title": "Swiss Open: Jaime Faria vs Casper Ruud",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-ruud-2026-07-16",
+   "opened_at": "2026-07-16T09:01:15.156165+00:00",
+   "entry_price": 0.21,
+   "shares": 476.1905,
+   "stake": 100.0,
+   "leader_vwap": 0.21,
+   "leader_cost": 1470.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.21,
+   "ask_depth": 15348.11,
    "status": "open"
   }
  ],
@@ -9258,5 +9332,5 @@
   }
  ],
  "total_pnl": 368.31069999999966,
- "last_updated": "2026-07-16T00:20:53.843025+00:00"
+ "last_updated": "2026-07-16T09:01:15.504192+00:00"
 }
