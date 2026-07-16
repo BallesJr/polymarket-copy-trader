@@ -6772,24 +6772,6 @@
    "best_ask": 0.53,
    "ask_depth": 35360.96,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "52986693366223995940209705654148218647244226877439184453664169571815948478391",
-   "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
-   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
-   "outcome": "Matteo Arnaldi",
-   "slug": "atp-dzumhur-arnaldi-2026-07-16",
-   "opened_at": "2026-07-16T14:11:01.500065+00:00",
-   "entry_price": 0.662,
-   "shares": 151.0593,
-   "stake": 100.0,
-   "leader_vwap": 0.66,
-   "leader_cost": 5280.0,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.66,
-   "ask_depth": 120.97,
-   "status": "open"
   }
  ],
  "closed": [
@@ -9424,6 +9406,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-dzumhur-arnaldi-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.500065+00:00",
+   "entry_price": 0.662,
+   "shares": 151.0593,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 5280.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.66,
+   "ask_depth": 120.97,
+   "status": "lost",
+   "closed_at": "2026-07-16T20:40:41.934501+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9657,6 +9661,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": 68.31069999999966,
- "last_updated": "2026-07-16T20:10:48.395607+00:00"
+ "total_pnl": -31.689300000000344,
+ "last_updated": "2026-07-16T20:40:41.935500+00:00"
 }
