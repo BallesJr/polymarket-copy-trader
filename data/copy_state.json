@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9668.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784228413,
+  "jtwyslljy": 1784228729,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4702,6 +4702,20 @@
    "BUY",
    720,
    1784228413
+  ],
+  [
+   "0x6a2acbe95d94d041664e2a334bc20d4540b03681be416a130719a5f7f4626fc9",
+   "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "BUY",
+   19.37,
+   1784228666
+  ],
+  [
+   "0x06f30284c60d22bd000e6fb728aac6656aeb4bdf5851b29210f20d5c3a70271b",
+   "60720273604265590885190453789040135043315079647070407060399333689423511344314",
+   "BUY",
+   2980,
+   1784228729
   ]
  ],
  "leader_pos": {
@@ -6584,10 +6598,10 @@
    "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
    "outcome": "Quentin Halys",
    "slug": "atp-bublik-halys-2026-07-15",
-   "shares": 5408.56,
-   "cost": 1757.647929996907,
-   "max_shares": 5408.56,
-   "last_trade_ts": 1784196445
+   "shares": 8407.93,
+   "cost": 2731.410739924907,
+   "max_shares": 8407.93,
+   "last_trade_ts": 1784228729
   },
   "jtwyslljy|13688886649623791247317993108691684609422043916936223468391895199119772091962": {
    "leader": "jtwyslljy",
@@ -6703,24 +6717,6 @@
    "copy_delay_min": 9.9,
    "best_ask": 0.53,
    "ask_depth": 35360.96,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "101868872629289193097544253905510432820932368899781664897974910577886524053316",
-   "condition_id": "0x1873f4005b5157d813eef25e47b32d3f9f2871e89bf651f5b46564ee4e5e148a",
-   "title": "Croatia Open: Roman Andres Burruchaga vs Camilo Ugo Carabelli",
-   "outcome": "Camilo Ugo Carabelli",
-   "slug": "atp-burruch-carabel-2026-07-16",
-   "opened_at": "2026-07-16T14:11:01.499949+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 1851.98,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.44,
-   "ask_depth": 1279.61,
    "status": "open"
   },
   {
@@ -9348,6 +9344,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101868872629289193097544253905510432820932368899781664897974910577886524053316",
+   "condition_id": "0x1873f4005b5157d813eef25e47b32d3f9f2871e89bf651f5b46564ee4e5e148a",
+   "title": "Croatia Open: Roman Andres Burruchaga vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-burruch-carabel-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.499949+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 1851.98,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.44,
+   "ask_depth": 1279.61,
+   "status": "lost",
+   "closed_at": "2026-07-16T19:10:47.661321+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9565,6 +9583,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": 268.31069999999966,
- "last_updated": "2026-07-16T19:01:03.333858+00:00"
+ "total_pnl": 168.31069999999966,
+ "last_updated": "2026-07-16T19:10:47.662807+00:00"
 }
