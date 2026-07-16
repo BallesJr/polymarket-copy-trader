@@ -6668,24 +6668,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "42129274094398952074348236307602332733386235112511838803008729672525517522747",
-   "condition_id": "0x9ef2776fa7119fc1ec81a0a5d8f9e5a677701eed5b581b138c94ed177d12955e",
-   "title": "Swiss Open: Jaime Faria vs Casper Ruud",
-   "outcome": "Jaime Faria",
-   "slug": "atp-faria-ruud-2026-07-16",
-   "opened_at": "2026-07-16T09:01:15.156165+00:00",
-   "entry_price": 0.21,
-   "shares": 476.1905,
-   "stake": 100.0,
-   "leader_vwap": 0.21,
-   "leader_cost": 1470.0,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.21,
-   "ask_depth": 15348.11,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "99577243057231986396940528235432254973697770182732083110204138005539240567304",
    "condition_id": "0x1b531e1a84bccf3556c4e43471cf6f25ca2a37bba51db849d653301404dc780b",
    "title": "Swiss Open: Alexander Shevchenko vs Dominic Stephan Stricker",
@@ -9323,6 +9305,28 @@
    "exit_price": 1.0,
    "pnl": 18.2033,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42129274094398952074348236307602332733386235112511838803008729672525517522747",
+   "condition_id": "0x9ef2776fa7119fc1ec81a0a5d8f9e5a677701eed5b581b138c94ed177d12955e",
+   "title": "Swiss Open: Jaime Faria vs Casper Ruud",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-ruud-2026-07-16",
+   "opened_at": "2026-07-16T09:01:15.156165+00:00",
+   "entry_price": 0.21,
+   "shares": 476.1905,
+   "stake": 100.0,
+   "leader_vwap": 0.21,
+   "leader_cost": 1470.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.21,
+   "ask_depth": 15348.11,
+   "status": "lost",
+   "closed_at": "2026-07-16T14:21:01.682331+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9540,6 +9544,6 @@
    "outcome": "Clement Tabur"
   }
  ],
- "total_pnl": 368.31069999999966,
- "last_updated": "2026-07-16T14:11:01.854094+00:00"
+ "total_pnl": 268.31069999999966,
+ "last_updated": "2026-07-16T14:21:01.683259+00:00"
 }
