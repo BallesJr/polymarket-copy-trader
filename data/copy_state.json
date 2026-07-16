@@ -6775,24 +6775,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "52924267003575331648955822017475856971807946380730212912001647509734987324472",
-   "condition_id": "0xc58e4e4f6bdd20472f25d28bc86d2ec23a5a9a2863113fa36623a2ae2a7402c7",
-   "title": "Swedish Open: Jesper de Jong vs Sebastian Baez",
-   "outcome": "Jesper de Jong",
-   "slug": "atp-jong-baez-2026-07-16",
-   "opened_at": "2026-07-16T14:11:01.500033+00:00",
-   "entry_price": 0.52,
-   "shares": 192.3077,
-   "stake": 100.0,
-   "leader_vwap": 0.52,
-   "leader_cost": 728.0,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.52,
-   "ask_depth": 19862.62,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "52986693366223995940209705654148218647244226877439184453664169571815948478391",
    "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
    "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
@@ -9420,6 +9402,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52924267003575331648955822017475856971807946380730212912001647509734987324472",
+   "condition_id": "0xc58e4e4f6bdd20472f25d28bc86d2ec23a5a9a2863113fa36623a2ae2a7402c7",
+   "title": "Swedish Open: Jesper de Jong vs Sebastian Baez",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-jong-baez-2026-07-16",
+   "opened_at": "2026-07-16T14:11:01.500033+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 728.0,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.52,
+   "ask_depth": 19862.62,
+   "status": "lost",
+   "closed_at": "2026-07-16T20:10:48.394462+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9653,6 +9657,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": 168.31069999999966,
- "last_updated": "2026-07-16T20:01:01.834018+00:00"
+ "total_pnl": 68.31069999999966,
+ "last_updated": "2026-07-16T20:10:48.395607+00:00"
 }
