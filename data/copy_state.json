@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9668.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784230369,
+  "jtwyslljy": 1784231195,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4730,6 +4730,27 @@
    "BUY",
    15,
    1784230369
+  ],
+  [
+   "0x9edf1117d1b45ff523faac58f7b769d9e99df8ca97e0a571c5b71ed4c19521d0",
+   "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "SELL",
+   4000,
+   1784230990
+  ],
+  [
+   "0x375a54ec84accba2e95789630901e3cb9fa50d3243b9c62bf1f25037fc25ce4f",
+   "52986693366223995940209705654148218647244226877439184453664169571815948478391",
+   "SELL",
+   2000,
+   1784231026
+  ],
+  [
+   "0x85c1d8da9b8bc3094cf122067c137b14077290f24518692ec7b3801b810c6ae2",
+   "73112083904869624376416017670767433038739783786292993655559929010853749039104",
+   "BUY",
+   2541.55,
+   1784231195
   ]
  ],
  "leader_pos": {
@@ -6660,10 +6681,10 @@
    "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
    "outcome": "Matteo Arnaldi",
    "slug": "atp-dzumhur-arnaldi-2026-07-16",
-   "shares": 10015.0,
-   "cost": 6146.45,
+   "shares": 4015.0,
+   "cost": 3106.35,
    "max_shares": 10015.0,
-   "last_trade_ts": 1784230369
+   "last_trade_ts": 1784231026
   },
   "jtwyslljy|101868872629289193097544253905510432820932368899781664897974910577886524053316": {
    "leader": "jtwyslljy",
@@ -6676,6 +6697,18 @@
    "cost": 1851.9841999999999,
    "max_shares": 4306.94,
    "last_trade_ts": 1784210686
+  },
+  "jtwyslljy|73112083904869624376416017670767433038739783786292993655559929010853749039104": {
+   "leader": "jtwyslljy",
+   "asset": "73112083904869624376416017670767433038739783786292993655559929010853749039104",
+   "condition_id": "0xe3a8fbf2b785d9005e63041d337fab99f986340d9d04dea1615fce5dc3d71d26",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-dzumhur-arnaldi-2026-07-16",
+   "shares": 2541.55,
+   "cost": 1080.596000041085,
+   "max_shares": 2541.55,
+   "last_trade_ts": 1784231195
   }
  },
  "positions": [
@@ -9595,8 +9628,16 @@
    "leader": "jtwyslljy",
    "title": "Swiss Open: Arthur Rinderknech vs Clement Tabur",
    "outcome": "Clement Tabur"
+  },
+  {
+   "at": "2026-07-16T19:50:41.739298+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": 168.31069999999966,
- "last_updated": "2026-07-16T19:40:46.463822+00:00"
+ "last_updated": "2026-07-16T19:50:42.046899+00:00"
 }
