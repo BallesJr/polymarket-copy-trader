@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10068.310776799999,
+ "bankroll": 9968.310776799999,
  "last_seen": {
-  "jtwyslljy": 1784195689,
+  "jtwyslljy": 1784196070,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4625,6 +4625,20 @@
    "SELL",
    821,
    1784195689
+  ],
+  [
+   "0x7ec733d6f7ad6b139550036f16e432eeb1be4e8f4de265a88e19ed3298ad789c",
+   "99577243057231986396940528235432254973697770182732083110204138005539240567304",
+   "BUY",
+   6000,
+   1784196049
+  ],
+  [
+   "0x07217a1a9befd2508edf325c20364d711b46402e0497dc17c33a38b2a0d6fd89",
+   "99577243057231986396940528235432254973697770182732083110204138005539240567304",
+   "BUY",
+   98.5,
+   1784196070
   ]
  ],
  "leader_pos": {
@@ -6523,6 +6537,18 @@
    "cost": -229.88000000000002,
    "max_shares": 0.0,
    "last_trade_ts": 1784195689
+  },
+  "jtwyslljy|99577243057231986396940528235432254973697770182732083110204138005539240567304": {
+   "leader": "jtwyslljy",
+   "asset": "99577243057231986396940528235432254973697770182732083110204138005539240567304",
+   "condition_id": "0x1b531e1a84bccf3556c4e43471cf6f25ca2a37bba51db849d653301404dc780b",
+   "title": "Swiss Open: Alexander Shevchenko vs Dominic Stephan Stricker",
+   "outcome": "Dominic Stephan Stricker",
+   "slug": "atp-shevche-stricke-2026-07-16",
+   "shares": 6098.5,
+   "cost": 3171.22,
+   "max_shares": 6098.5,
+   "last_trade_ts": 1784196070
   }
  },
  "positions": [
@@ -6578,6 +6604,24 @@
    "copy_delay_min": 7.2,
    "best_ask": 0.21,
    "ask_depth": 15348.11,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "99577243057231986396940528235432254973697770182732083110204138005539240567304",
+   "condition_id": "0x1b531e1a84bccf3556c4e43471cf6f25ca2a37bba51db849d653301404dc780b",
+   "title": "Swiss Open: Alexander Shevchenko vs Dominic Stephan Stricker",
+   "outcome": "Dominic Stephan Stricker",
+   "slug": "atp-shevche-stricke-2026-07-16",
+   "opened_at": "2026-07-16T10:11:03.474354+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 3171.22,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.53,
+   "ask_depth": 35360.96,
    "status": "open"
   }
  ],
@@ -9365,5 +9409,5 @@
   }
  ],
  "total_pnl": 368.31069999999966,
- "last_updated": "2026-07-16T10:01:15.546395+00:00"
+ "last_updated": "2026-07-16T10:11:03.863066+00:00"
 }
