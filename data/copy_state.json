@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9576.707476799998,
  "last_seen": {
-  "jtwyslljy": 1784301168,
+  "jtwyslljy": 1784301271,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4828,6 +4828,13 @@
    "BUY",
    472,
    1784301168
+  ],
+  [
+   "0x9d09b1545becd2a2cfde22fdcbea969dd47905e691ba687366e78f8a6fa4b781",
+   "110291817677755967363884158493263718965596217764779348961155363094590227369432",
+   "BUY",
+   10000,
+   1784301271
   ]
  ],
  "leader_pos": {
@@ -6830,10 +6837,10 @@
    "title": "Athens Open: Barbora Krejcikova vs Qinwen Zheng",
    "outcome": "Qinwen Zheng",
    "slug": "wta-krejcik-zhen-2026-07-17",
-   "shares": 8994.61,
-   "cost": 3772.8661999966002,
-   "max_shares": 8994.61,
-   "last_trade_ts": 1784301168
+   "shares": 18994.61,
+   "cost": 7272.866199996601,
+   "max_shares": 18994.61,
+   "last_trade_ts": 1784301271
   }
  },
  "positions": [
@@ -9864,5 +9871,5 @@
   }
  ],
  "total_pnl": -23.292600000000334,
- "last_updated": "2026-07-17T15:20:38.790140+00:00"
+ "last_updated": "2026-07-17T15:30:52.544010+00:00"
 }
