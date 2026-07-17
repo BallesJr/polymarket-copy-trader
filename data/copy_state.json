@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9376.707476799998,
+ "bankroll": 9393.9349768,
  "last_seen": {
-  "jtwyslljy": 1784306274,
+  "jtwyslljy": 1784309889,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4912,6 +4912,48 @@
    "BUY",
    1079.23,
    1784306274
+  ],
+  [
+   "0xacf209b0749fa0ad0dd943e6749645bf434002ba517d1f7827db6a9aac3c97cc",
+   "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "SELL",
+   10525,
+   1784309409
+  ],
+  [
+   "0x306033254ef43854a7f54019c17764bf3affbe8affaf101439f9593ef06b3660",
+   "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "SELL",
+   784,
+   1784309445
+  ],
+  [
+   "0x8202a26b508802208a99b2708b97c4cb5b9ebfc2265f1064e922dd51c24d8cff",
+   "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "SELL",
+   4216,
+   1784309467
+  ],
+  [
+   "0xc46690829bf19afe22df165d3b28218ac29b3af436204e11f48c3375eebc1cee",
+   "7356976270293422323695771499986345374499392472006911739628087673435813471404",
+   "BUY",
+   36.15,
+   1784309649
+  ],
+  [
+   "0x446a25aa31ad0a7a9c6fcfb41b72752b23bcbdcfd0eab38bdb635f55a84a616f",
+   "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "BUY",
+   524.69,
+   1784309877
+  ],
+  [
+   "0x425337fcec7e996d9168770d61c9e4fb003bcb2e0282a146092de142a0f39c62",
+   "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "BUY",
+   5459.3,
+   1784309889
   ]
  ],
  "leader_pos": {
@@ -6902,10 +6944,10 @@
    "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
    "outcome": "Arthur Rinderknech",
    "slug": "atp-rinderk-tsitsip-2026-07-17",
-   "shares": 9856.220000000001,
-   "cost": 2456.9952000000003,
-   "max_shares": 9856.220000000001,
-   "last_trade_ts": 1784305750
+   "shares": 15840.210000000003,
+   "cost": 3164.5802000000003,
+   "max_shares": 15840.210000000003,
+   "last_trade_ts": 1784309889
   },
   "jtwyslljy|110291817677755967363884158493263718965596217764779348961155363094590227369432": {
    "leader": "jtwyslljy",
@@ -6926,10 +6968,10 @@
    "title": "Athens Open: Alycia Parks vs Maria Sakkari",
    "outcome": "Alycia Parks",
    "slug": "wta-parks-sakkari-2026-07-17",
-   "shares": 18072.309999999998,
-   "cost": 4428.2844,
+   "shares": 2547.3099999999977,
+   "cost": 2812.6943999999994,
    "max_shares": 18072.309999999998,
-   "last_trade_ts": 1784305866
+   "last_trade_ts": 1784309467
   },
   "jtwyslljy|7356976270293422323695771499986345374499392472006911739628087673435813471404": {
    "leader": "jtwyslljy",
@@ -6938,10 +6980,10 @@
    "title": "Tampa Bay Rays vs. Boston Red Sox: O/U 8.5",
    "outcome": "Under",
    "slug": "mlb-tb-bos-2026-05-09",
-   "shares": 2620.61,
-   "cost": 1383.014409943562,
-   "max_shares": 2620.61,
-   "last_trade_ts": 1784306274
+   "shares": 2656.76,
+   "cost": 1401.595509943562,
+   "max_shares": 2656.76,
+   "last_trade_ts": 1784309649
   }
  },
  "positions": [
@@ -6997,24 +7039,6 @@
    "copy_delay_min": 8.6,
    "best_ask": 0.38,
    "ask_depth": 18567.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "45218675746636510855812327785102454039682340621873300769118973283482181455723",
-   "condition_id": "0x39e04f0e1f5d376a46ec0f26c20cb98884d54dd20e0d4e8354cf89ec6e81228f",
-   "title": "Athens Open: Alycia Parks vs Maria Sakkari",
-   "outcome": "Alycia Parks",
-   "slug": "wta-parks-sakkari-2026-07-17",
-   "opened_at": "2026-07-17T16:20:38.573770+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.247,
-   "leader_cost": 3210.81,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.25,
-   "ask_depth": 11614.52,
    "status": "open"
   },
   {
@@ -9778,6 +9802,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "condition_id": "0x39e04f0e1f5d376a46ec0f26c20cb98884d54dd20e0d4e8354cf89ec6e81228f",
+   "title": "Athens Open: Alycia Parks vs Maria Sakkari",
+   "outcome": "Alycia Parks",
+   "slug": "wta-parks-sakkari-2026-07-17",
+   "opened_at": "2026-07-17T16:20:38.573770+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.247,
+   "leader_cost": 3210.81,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.25,
+   "ask_depth": 11614.52,
+   "status": "closed",
+   "closed_at": "2026-07-17T17:40:41.265855+00:00",
+   "exit_price": 0.0431,
+   "pnl": -82.7725,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10011,6 +10057,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -123.29260000000033,
- "last_updated": "2026-07-17T17:10:45.596072+00:00"
+ "total_pnl": -206.0651000000003,
+ "last_updated": "2026-07-17T17:40:41.925248+00:00"
 }
