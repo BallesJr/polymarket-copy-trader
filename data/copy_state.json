@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9193.9349768,
+ "bankroll": 9093.9349768,
  "last_seen": {
-  "jtwyslljy": 1784316114,
+  "jtwyslljy": 1784316838,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -5003,6 +5003,13 @@
    "BUY",
    20000,
    1784316114
+  ],
+  [
+   "0xd6d95705bcec1bf7424bc93fbc1781af0b01b74dc2a26c8435cf8aea209c60cf",
+   "58227462569377509446138958841619757409459325504462440516477262889675844947202",
+   "BUY",
+   30000,
+   1784316838
   ]
  ],
  "leader_pos": {
@@ -7057,6 +7064,18 @@
    "cost": 5603.659000000001,
    "max_shares": 40000.0,
    "last_trade_ts": 1784316114
+  },
+  "jtwyslljy|58227462569377509446138958841619757409459325504462440516477262889675844947202": {
+   "leader": "jtwyslljy",
+   "asset": "58227462569377509446138958841619757409459325504462440516477262889675844947202",
+   "condition_id": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
+   "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-dzumhur-molcan-2026-07-17",
+   "shares": 30000.0,
+   "cost": 7799.496801,
+   "max_shares": 30000.0,
+   "last_trade_ts": 1784316838
   }
  },
  "positions": [
@@ -7148,6 +7167,24 @@
    "copy_delay_min": 9.0,
    "best_ask": 0.14,
    "ask_depth": 33767.67,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58227462569377509446138958841619757409459325504462440516477262889675844947202",
+   "condition_id": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
+   "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-dzumhur-molcan-2026-07-17",
+   "opened_at": "2026-07-17T19:40:38.960373+00:00",
+   "entry_price": 0.3041,
+   "shares": 328.86,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 7799.5,
+   "copy_delay_min": 6.7,
+   "best_ask": 0.29,
+   "ask_depth": 6.33,
    "status": "open"
   }
  ],
@@ -10171,5 +10208,5 @@
   }
  ],
  "total_pnl": -306.0651000000003,
- "last_updated": "2026-07-17T19:30:52.778448+00:00"
+ "last_updated": "2026-07-17T19:40:39.517885+00:00"
 }
