@@ -7167,24 +7167,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "86711249578074046823492966062480333091432145057219166568952909182345414163428",
-   "condition_id": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
-   "title": "Athens Open: Clara Tauson vs Sara Bejlek",
-   "outcome": "Sara Bejlek",
-   "slug": "wta-tauson-bejlek-2026-07-17",
-   "opened_at": "2026-07-17T19:30:52.139339+00:00",
-   "entry_price": 0.14,
-   "shares": 714.2857,
-   "stake": 100.0,
-   "leader_vwap": 0.1401,
-   "leader_cost": 5603.66,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.14,
-   "ask_depth": 33767.67,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "58227462569377509446138958841619757409459325504462440516477262889675844947202",
    "condition_id": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
    "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
@@ -9988,6 +9970,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86711249578074046823492966062480333091432145057219166568952909182345414163428",
+   "condition_id": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
+   "title": "Athens Open: Clara Tauson vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-tauson-bejlek-2026-07-17",
+   "opened_at": "2026-07-17T19:30:52.139339+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.1401,
+   "leader_cost": 5603.66,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.14,
+   "ask_depth": 33767.67,
+   "status": "lost",
+   "closed_at": "2026-07-17T20:50:45.747038+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10221,6 +10225,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -306.0651000000003,
- "last_updated": "2026-07-17T20:12:34.653739+00:00"
+ "total_pnl": -406.0651000000003,
+ "last_updated": "2026-07-17T20:50:45.748186+00:00"
 }
