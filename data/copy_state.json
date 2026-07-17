@@ -7001,24 +7001,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "110291817677755967363884158493263718965596217764779348961155363094590227369432",
-   "condition_id": "0xc0ea834cb37718d44f9c6761e0730d94540cab45345ce24e19847e4741668f48",
-   "title": "Athens Open: Barbora Krejcikova vs Qinwen Zheng",
-   "outcome": "Qinwen Zheng",
-   "slug": "wta-krejcik-zhen-2026-07-17",
-   "opened_at": "2026-07-17T15:20:38.538175+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.4195,
-   "leader_cost": 3772.87,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.29,
-   "ask_depth": 9494.06,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "45218675746636510855812327785102454039682340621873300769118973283482181455723",
    "condition_id": "0x39e04f0e1f5d376a46ec0f26c20cb98884d54dd20e0d4e8354cf89ec6e81228f",
    "title": "Athens Open: Alycia Parks vs Maria Sakkari",
@@ -9774,6 +9756,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110291817677755967363884158493263718965596217764779348961155363094590227369432",
+   "condition_id": "0xc0ea834cb37718d44f9c6761e0730d94540cab45345ce24e19847e4741668f48",
+   "title": "Athens Open: Barbora Krejcikova vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-krejcik-zhen-2026-07-17",
+   "opened_at": "2026-07-17T15:20:38.538175+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.4195,
+   "leader_cost": 3772.87,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.29,
+   "ask_depth": 9494.06,
+   "status": "lost",
+   "closed_at": "2026-07-17T17:10:45.595179+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10007,6 +10011,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -23.292600000000334,
- "last_updated": "2026-07-17T16:46:40.345868+00:00"
+ "total_pnl": -123.29260000000033,
+ "last_updated": "2026-07-17T17:10:45.596072+00:00"
 }
