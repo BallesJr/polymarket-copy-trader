@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9393.9349768,
+ "bankroll": 9293.9349768,
  "last_seen": {
-  "jtwyslljy": 1784310367,
+  "jtwyslljy": 1784312817,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4961,6 +4961,13 @@
    "BUY",
    11000,
    1784310367
+  ],
+  [
+   "0xe11494f8c78a2129afc796f364d80268f969a1425c482eb2050270c54f388735",
+   "113415103544107957073017554351013352747073624645273304842235171793583060299317",
+   "BUY",
+   10818.68,
+   1784312817
   ]
  ],
  "leader_pos": {
@@ -6991,6 +6998,18 @@
    "cost": 1401.595509943562,
    "max_shares": 2656.76,
    "last_trade_ts": 1784309649
+  },
+  "jtwyslljy|113415103544107957073017554351013352747073624645273304842235171793583060299317": {
+   "leader": "jtwyslljy",
+   "asset": "113415103544107957073017554351013352747073624645273304842235171793583060299317",
+   "condition_id": "0x3ae65519ca688e5ec67b586e46592c74a03c2a1f4f261e9b9dde98eae1f9732a",
+   "title": "San Diego Padres vs. Kansas City Royals: O/U 10.5",
+   "outcome": "Under",
+   "slug": "mlb-sd-kc-2026-07-17",
+   "shares": 10818.68,
+   "cost": 5733.9004,
+   "max_shares": 10818.68,
+   "last_trade_ts": 1784312817
   }
  },
  "positions": [
@@ -7032,24 +7051,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "102332805509354472617117873574832621423067164869004691490007967238895547651201",
-   "condition_id": "0x67f00df86ea4b9b905ee01830e9c100c5e93379db212ef397e7d1429dea7008c",
-   "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
-   "outcome": "Arthur Rinderknech",
-   "slug": "atp-rinderk-tsitsip-2026-07-17",
-   "opened_at": "2026-07-17T14:50:41.002856+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 1520.0,
-   "copy_delay_min": 8.6,
-   "best_ask": 0.38,
-   "ask_depth": 18567.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "7356976270293422323695771499986345374499392472006911739628087673435813471404",
    "condition_id": "0xd738da729172aee7bd3fbe4b8fb51de3f22d8de4d961e4b4c49afa7802c2c347",
    "title": "Tampa Bay Rays vs. Boston Red Sox: O/U 8.5",
@@ -7064,6 +7065,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.53,
    "ask_depth": 1096.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113415103544107957073017554351013352747073624645273304842235171793583060299317",
+   "condition_id": "0x3ae65519ca688e5ec67b586e46592c74a03c2a1f4f261e9b9dde98eae1f9732a",
+   "title": "San Diego Padres vs. Kansas City Royals: O/U 10.5",
+   "outcome": "Under",
+   "slug": "mlb-sd-kc-2026-07-17",
+   "opened_at": "2026-07-17T18:30:49.715178+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5733.9,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.54,
+   "ask_depth": 15161.51,
    "status": "open"
   }
  ],
@@ -9831,6 +9850,28 @@
    "exit_price": 0.0431,
    "pnl": -82.7725,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "condition_id": "0x67f00df86ea4b9b905ee01830e9c100c5e93379db212ef397e7d1429dea7008c",
+   "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-tsitsip-2026-07-17",
+   "opened_at": "2026-07-17T14:50:41.002856+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.38,
+   "ask_depth": 18567.42,
+   "status": "lost",
+   "closed_at": "2026-07-17T18:30:50.562696+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10064,6 +10105,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -206.0651000000003,
- "last_updated": "2026-07-17T17:50:43.835936+00:00"
+ "total_pnl": -306.0651000000003,
+ "last_updated": "2026-07-17T18:30:50.563934+00:00"
 }
