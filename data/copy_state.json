@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9576.707476799998,
+ "bankroll": 9476.707476799998,
  "last_seen": {
-  "jtwyslljy": 1784302513,
+  "jtwyslljy": 1784304778,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4842,6 +4842,34 @@
    "BUY",
    10000,
    1784302513
+  ],
+  [
+   "0x9b939f02fcbf66a074a1f7de987b60636d4e9a247c13f8608489601f601305e2",
+   "110291817677755967363884158493263718965596217764779348961155363094590227369432",
+   "BUY",
+   1154.24,
+   1784304606
+  ],
+  [
+   "0x8a63df867d38343e312afb2b40541256d7ec9ea98b4149d2bc8eb86d5b1e1fd3",
+   "110291817677755967363884158493263718965596217764779348961155363094590227369432",
+   "BUY",
+   1000,
+   1784304615
+  ],
+  [
+   "0x0b6f2b7a9fc07590836dad3509bb9c80845b3713ee42f1e7412a60ff4cebef98",
+   "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "BUY",
+   3906.51,
+   1784304700
+  ],
+  [
+   "0xe0569bc53ed9c11953787af7bee65400773a4ffd5e77ade00d1abc42723200d3",
+   "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "BUY",
+   9093,
+   1784304778
   ]
  ],
  "leader_pos": {
@@ -6844,10 +6872,22 @@
    "title": "Athens Open: Barbora Krejcikova vs Qinwen Zheng",
    "outcome": "Qinwen Zheng",
    "slug": "wta-krejcik-zhen-2026-07-17",
-   "shares": 28994.61,
-   "cost": 10172.8661999966,
-   "max_shares": 28994.61,
-   "last_trade_ts": 1784302513
+   "shares": 31148.850000000002,
+   "cost": 10401.3749999966,
+   "max_shares": 31148.850000000002,
+   "last_trade_ts": 1784304615
+  },
+  "jtwyslljy|45218675746636510855812327785102454039682340621873300769118973283482181455723": {
+   "leader": "jtwyslljy",
+   "asset": "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "condition_id": "0x39e04f0e1f5d376a46ec0f26c20cb98884d54dd20e0d4e8354cf89ec6e81228f",
+   "title": "Athens Open: Alycia Parks vs Maria Sakkari",
+   "outcome": "Alycia Parks",
+   "slug": "wta-parks-sakkari-2026-07-17",
+   "shares": 12999.51,
+   "cost": 3210.8124,
+   "max_shares": 12999.51,
+   "last_trade_ts": 1784304778
   }
  },
  "positions": [
@@ -6921,6 +6961,24 @@
    "copy_delay_min": 7.8,
    "best_ask": 0.29,
    "ask_depth": 9494.06,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45218675746636510855812327785102454039682340621873300769118973283482181455723",
+   "condition_id": "0x39e04f0e1f5d376a46ec0f26c20cb98884d54dd20e0d4e8354cf89ec6e81228f",
+   "title": "Athens Open: Alycia Parks vs Maria Sakkari",
+   "outcome": "Alycia Parks",
+   "slug": "wta-parks-sakkari-2026-07-17",
+   "opened_at": "2026-07-17T16:20:38.573770+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.247,
+   "leader_cost": 3210.81,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.25,
+   "ask_depth": 11614.52,
    "status": "open"
   }
  ],
@@ -9878,5 +9936,5 @@
   }
  ],
  "total_pnl": -23.292600000000334,
- "last_updated": "2026-07-17T15:50:39.830167+00:00"
+ "last_updated": "2026-07-17T16:20:39.295528+00:00"
 }
