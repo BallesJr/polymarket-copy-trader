@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9293.9349768,
+ "bankroll": 9193.9349768,
  "last_seen": {
-  "jtwyslljy": 1784314897,
+  "jtwyslljy": 1784316114,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4989,6 +4989,20 @@
    "BUY",
    110.2,
    1784314897
+  ],
+  [
+   "0x5f078e2aeff81eca7cef32b149ef1cc9e6631b372fd742b270e93d5cc43786b4",
+   "86711249578074046823492966062480333091432145057219166568952909182345414163428",
+   "BUY",
+   20000,
+   1784316100
+  ],
+  [
+   "0x8cc07cceeccc1943f71fbe7a90ac23301f94b0cbd37c400a323d65bf51305fc7",
+   "86711249578074046823492966062480333091432145057219166568952909182345414163428",
+   "BUY",
+   20000,
+   1784316114
   ]
  ],
  "leader_pos": {
@@ -7031,6 +7045,18 @@
    "cost": 5733.9004,
    "max_shares": 10818.68,
    "last_trade_ts": 1784312817
+  },
+  "jtwyslljy|86711249578074046823492966062480333091432145057219166568952909182345414163428": {
+   "leader": "jtwyslljy",
+   "asset": "86711249578074046823492966062480333091432145057219166568952909182345414163428",
+   "condition_id": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
+   "title": "Athens Open: Clara Tauson vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-tauson-bejlek-2026-07-17",
+   "shares": 40000.0,
+   "cost": 5603.659000000001,
+   "max_shares": 40000.0,
+   "last_trade_ts": 1784316114
   }
  },
  "positions": [
@@ -7104,6 +7130,24 @@
    "copy_delay_min": 3.9,
    "best_ask": 0.54,
    "ask_depth": 15161.51,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86711249578074046823492966062480333091432145057219166568952909182345414163428",
+   "condition_id": "0xef3f25aa82199f821561eebbf28bb361aea4ef659f603fe23c54821d40c2407b",
+   "title": "Athens Open: Clara Tauson vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-tauson-bejlek-2026-07-17",
+   "opened_at": "2026-07-17T19:30:52.139339+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.1401,
+   "leader_cost": 5603.66,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.14,
+   "ask_depth": 33767.67,
    "status": "open"
   }
  ],
@@ -10127,5 +10171,5 @@
   }
  ],
  "total_pnl": -306.0651000000003,
- "last_updated": "2026-07-17T19:10:38.758686+00:00"
+ "last_updated": "2026-07-17T19:30:52.778448+00:00"
 }
