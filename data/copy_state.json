@@ -6805,24 +6805,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "1449931008516608672938642091331519821381463730090667252900537993487025949227",
-   "condition_id": "0x056cf5f0999932490946ba2e6521104984dcc0ae04b97e6d2c21fbfa90e6d1cf",
-   "title": "Swedish Open: Nuno Borges vs Luciano Darderi",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-darderi-2026-07-17",
-   "opened_at": "2026-07-17T06:40:44.846821+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 3960.0,
-   "copy_delay_min": 9.4,
-   "best_ask": 0.44,
-   "ask_depth": 13218.17,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "88071826543365117504496343038354159648076254276823928049229500655309670865588",
    "condition_id": "0x59bd255a6b59d96cd1080858a5c47f4c9c872d2c55548ecaab088e0faa3c811c",
    "title": "Swedish Open: Alejandro Tabilo vs Thiago Agustin Tirante",
@@ -9538,6 +9520,28 @@
    "exit_price": 1.0,
    "pnl": 208.3967,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1449931008516608672938642091331519821381463730090667252900537993487025949227",
+   "condition_id": "0x056cf5f0999932490946ba2e6521104984dcc0ae04b97e6d2c21fbfa90e6d1cf",
+   "title": "Swedish Open: Nuno Borges vs Luciano Darderi",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-darderi-2026-07-17",
+   "opened_at": "2026-07-17T06:40:44.846821+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 3960.0,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.44,
+   "ask_depth": 13218.17,
+   "status": "lost",
+   "closed_at": "2026-07-17T13:50:40.152877+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -9771,6 +9775,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": 76.70739999999967,
- "last_updated": "2026-07-17T12:50:44.534849+00:00"
+ "total_pnl": -23.292600000000334,
+ "last_updated": "2026-07-17T13:50:40.153518+00:00"
 }
