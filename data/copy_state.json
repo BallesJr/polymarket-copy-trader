@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9776.707476799998,
+ "bankroll": 9676.707476799998,
  "last_seen": {
-  "jtwyslljy": 1784291608,
+  "jtwyslljy": 1784299327,
   "0x53757615de": 1784145685
  },
  "seen_keys": [
@@ -4800,6 +4800,13 @@
    "BUY",
    886,
    1784291608
+  ],
+  [
+   "0x1ff33c0484c104c39507d30724dcb6c39a6a4b77fa71d43f48e037d50aa921b3",
+   "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "BUY",
+   4000,
+   1784299327
   ]
  ],
  "leader_pos": {
@@ -6782,6 +6789,18 @@
    "cost": 4140.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1784270007
+  },
+  "jtwyslljy|102332805509354472617117873574832621423067164869004691490007967238895547651201": {
+   "leader": "jtwyslljy",
+   "asset": "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "condition_id": "0x67f00df86ea4b9b905ee01830e9c100c5e93379db212ef397e7d1429dea7008c",
+   "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-tsitsip-2026-07-17",
+   "shares": 4000.0,
+   "cost": 1520.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1784299327
   }
  },
  "positions": [
@@ -6819,6 +6838,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102332805509354472617117873574832621423067164869004691490007967238895547651201",
+   "condition_id": "0x67f00df86ea4b9b905ee01830e9c100c5e93379db212ef397e7d1429dea7008c",
+   "title": "Swiss Open: Arthur Rinderknech vs Stefanos Tsitsipas",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-rinderk-tsitsip-2026-07-17",
+   "opened_at": "2026-07-17T14:50:41.002856+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.38,
+   "ask_depth": 18567.42,
    "status": "open"
   }
  ],
@@ -9776,5 +9813,5 @@
   }
  ],
  "total_pnl": -23.292600000000334,
- "last_updated": "2026-07-17T13:50:40.153518+00:00"
+ "last_updated": "2026-07-17T14:50:41.362076+00:00"
 }
