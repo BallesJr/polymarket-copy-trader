@@ -1,9 +1,9 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9093.9349768,
+ "bankroll": 8993.9349768,
  "last_seen": {
   "jtwyslljy": 1784319102,
-  "0x53757615de": 1784145685
+  "0x53757615de": 1784324596
  },
  "seen_keys": [
   [
@@ -5024,6 +5024,13 @@
    "BUY",
    12227.8,
    1784319102
+  ],
+  [
+   "0x5be6e3363896b02a9396da591e960ca25a0c3a4487d1ebcaf8e325e5eb56aa08",
+   "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+   "BUY",
+   40000,
+   1784324596
   ]
  ],
  "leader_pos": {
@@ -7090,6 +7097,18 @@
    "cost": 12286.004801,
    "max_shares": 47255.8,
    "last_trade_ts": 1784319102
+  },
+  "0x53757615de|112547101819436418115775183743525115211037676921707460770609242558856503450400": {
+   "leader": "0x53757615de",
+   "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+   "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
+   "title": "Will France vs. England end in a draw?",
+   "outcome": "No",
+   "slug": "fifwc-fra-eng-2026-07-18",
+   "shares": 40000.0,
+   "cost": 30400.0,
+   "max_shares": 40000.0,
+   "last_trade_ts": 1784324596
   }
  },
  "positions": [
@@ -7131,24 +7150,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "7356976270293422323695771499986345374499392472006911739628087673435813471404",
-   "condition_id": "0xd738da729172aee7bd3fbe4b8fb51de3f22d8de4d961e4b4c49afa7802c2c347",
-   "title": "Tampa Bay Rays vs. Boston Red Sox: O/U 8.5",
-   "outcome": "Under",
-   "slug": "mlb-tb-bos-2026-05-09",
-   "opened_at": "2026-07-17T16:46:39.637031+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.5277,
-   "leader_cost": 1383.01,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.53,
-   "ask_depth": 1096.32,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "113415103544107957073017554351013352747073624645273304842235171793583060299317",
    "condition_id": "0x3ae65519ca688e5ec67b586e46592c74a03c2a1f4f261e9b9dde98eae1f9732a",
    "title": "San Diego Padres vs. Kansas City Royals: O/U 10.5",
@@ -7181,6 +7182,24 @@
    "copy_delay_min": 6.7,
    "best_ask": 0.29,
    "ask_depth": 6.33,
+   "status": "open"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+   "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
+   "title": "Will France vs. England end in a draw?",
+   "outcome": "No",
+   "slug": "fifwc-fra-eng-2026-07-18",
+   "opened_at": "2026-07-17T21:50:39.505316+00:00",
+   "entry_price": 0.76,
+   "shares": 131.5789,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 30400.0,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.76,
+   "ask_depth": 99891.98,
    "status": "open"
   }
  ],
@@ -9992,6 +10011,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7356976270293422323695771499986345374499392472006911739628087673435813471404",
+   "condition_id": "0xd738da729172aee7bd3fbe4b8fb51de3f22d8de4d961e4b4c49afa7802c2c347",
+   "title": "Tampa Bay Rays vs. Boston Red Sox: O/U 8.5",
+   "outcome": "Under",
+   "slug": "mlb-tb-bos-2026-05-09",
+   "opened_at": "2026-07-17T16:46:39.637031+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.5277,
+   "leader_cost": 1383.01,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.53,
+   "ask_depth": 1096.32,
+   "status": "lost",
+   "closed_at": "2026-07-17T21:50:40.269063+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10225,6 +10266,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -406.0651000000003,
- "last_updated": "2026-07-17T20:50:45.748186+00:00"
+ "total_pnl": -506.0651000000003,
+ "last_updated": "2026-07-17T21:50:40.271289+00:00"
 }
