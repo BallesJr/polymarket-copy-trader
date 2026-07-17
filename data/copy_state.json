@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8993.9349768,
+ "bankroll": 9322.7949768,
  "last_seen": {
   "jtwyslljy": 1784319102,
   "0x53757615de": 1784324596
@@ -7167,24 +7167,6 @@
    "status": "open"
   },
   {
-   "leader": "jtwyslljy",
-   "asset": "58227462569377509446138958841619757409459325504462440516477262889675844947202",
-   "condition_id": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
-   "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
-   "outcome": "Damir Dzumhur",
-   "slug": "atp-dzumhur-molcan-2026-07-17",
-   "opened_at": "2026-07-17T19:40:38.960373+00:00",
-   "entry_price": 0.3041,
-   "shares": 328.86,
-   "stake": 100.0,
-   "leader_vwap": 0.26,
-   "leader_cost": 7799.5,
-   "copy_delay_min": 6.7,
-   "best_ask": 0.29,
-   "ask_depth": 6.33,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
    "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
@@ -10033,6 +10015,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58227462569377509446138958841619757409459325504462440516477262889675844947202",
+   "condition_id": "0x13bc18a3dc17580ecccb67db238c53f34ca0414c9a10334a49801993701e6504",
+   "title": "Croatia Open: Damir Dzumhur vs Alex Molcan",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-dzumhur-molcan-2026-07-17",
+   "opened_at": "2026-07-17T19:40:38.960373+00:00",
+   "entry_price": 0.3041,
+   "shares": 328.86,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 7799.5,
+   "copy_delay_min": 6.7,
+   "best_ask": 0.29,
+   "ask_depth": 6.33,
+   "status": "won",
+   "closed_at": "2026-07-17T23:01:00.237473+00:00",
+   "exit_price": 1.0,
+   "pnl": 228.86,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10266,6 +10270,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -506.0651000000003,
- "last_updated": "2026-07-17T21:50:40.271289+00:00"
+ "total_pnl": -277.2051000000003,
+ "last_updated": "2026-07-17T23:01:00.238570+00:00"
 }
