@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9022.7949768,
+ "bankroll": 9148.648582800002,
  "last_seen": {
-  "jtwyslljy": 1784345244,
+  "jtwyslljy": 1784346855,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5066,6 +5066,48 @@
    "BUY",
    8000,
    1784345244
+  ],
+  [
+   "0xad3e667bb7840263138d1bd13625eed168a86eb11b6b24c549d3860c450d55bb",
+   "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "SELL",
+   4007.08,
+   1784346649
+  ],
+  [
+   "0xbcd7f906fd77c45f7c945cd2affa79dc443e955623beaf7b1d0d9f54085063f6",
+   "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "SELL",
+   6093.13,
+   1784346672
+  ],
+  [
+   "0x256b33cff4f839d396fc5716e92c21f35cd42779db5fc21f767ff65fc8552040",
+   "114459166295547024595288665599525875695268676712616601804360531403324873744094",
+   "SELL",
+   7000,
+   1784346736
+  ],
+  [
+   "0x69a2f24854231866b68811e9d95e285a0d38a33822198f6c0f2d9d31bbb6d4e4",
+   "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "SELL",
+   403.81,
+   1784346753
+  ],
+  [
+   "0xa7c1589741066d6b4148637d6698069a7891cdc0f12c8648555679c1ce1f19c7",
+   "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "SELL",
+   3513.19,
+   1784346793
+  ],
+  [
+   "0x556ebc62ddb57f3459e4506519de3e90690f10b256776c23c2379bf4e6fedfb3",
+   "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "SELL",
+   1709.55,
+   1784346855
   ]
  ],
  "leader_pos": {
@@ -7164,10 +7206,10 @@
    "title": "Detroit Tigers vs. Los Angeles Angels",
    "outcome": "Detroit Tigers",
    "slug": "mlb-det-laa-2026-07-17",
-   "shares": 10000.0,
-   "cost": 2398.3653,
+   "shares": 4373.45,
+   "cost": 1588.5738,
    "max_shares": 10000.0,
-   "last_trade_ts": 1784345056
+   "last_trade_ts": 1784346855
   },
   "jtwyslljy|114459166295547024595288665599525875695268676712616601804360531403324873744094": {
    "leader": "jtwyslljy",
@@ -7176,10 +7218,10 @@
    "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
    "outcome": "Arizona Diamondbacks",
    "slug": "mlb-stl-ari-2026-07-17",
-   "shares": 7000.0,
-   "cost": 2170.0,
+   "shares": 0.0,
+   "cost": 630.0,
    "max_shares": 7000.0,
-   "last_trade_ts": 1784345149
+   "last_trade_ts": 1784346736
   },
   "jtwyslljy|8453663865319819779286572815687989502689366441440421611658083254711773576597": {
    "leader": "jtwyslljy",
@@ -7188,10 +7230,10 @@
    "title": "San Francisco Giants vs. Seattle Mariners",
    "outcome": "Seattle Mariners",
    "slug": "mlb-sf-sea-2026-07-17",
-   "shares": 8984.8,
-   "cost": 2855.29,
+   "shares": -1115.4100000000008,
+   "cost": 1199.1856000000002,
    "max_shares": 8984.8,
-   "last_trade_ts": 1784345244
+   "last_trade_ts": 1784346672
   }
  },
  "positions": [
@@ -7247,60 +7289,6 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.76,
    "ask_depth": 99891.98,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "87050096840012777791301282906300107274980180082129637328513800897795296553560",
-   "condition_id": "0x334f900e3ac009b2fae32a8a3404807521044b2a8aa35ae823da1c41a9b1798f",
-   "title": "Detroit Tigers vs. Los Angeles Angels",
-   "outcome": "Detroit Tigers",
-   "slug": "mlb-det-laa-2026-07-17",
-   "opened_at": "2026-07-18T03:30:25.916444+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.2398,
-   "leader_cost": 2398.37,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.27,
-   "ask_depth": 48460.63,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "114459166295547024595288665599525875695268676712616601804360531403324873744094",
-   "condition_id": "0xad0785e454a8b0d96171b924ed7e1aa158ce87892ec81a44a0387cccdf92a3a7",
-   "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
-   "outcome": "Arizona Diamondbacks",
-   "slug": "mlb-stl-ari-2026-07-17",
-   "opened_at": "2026-07-18T03:30:25.916550+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.31,
-   "leader_cost": 2170.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.37,
-   "ask_depth": 68772.76,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "8453663865319819779286572815687989502689366441440421611658083254711773576597",
-   "condition_id": "0x77b3df499be4b5cc27c6bbe022760926b10f4515e62682bb346ea3b9b05587e8",
-   "title": "San Francisco Giants vs. Seattle Mariners",
-   "outcome": "Seattle Mariners",
-   "slug": "mlb-sf-sea-2026-07-17",
-   "opened_at": "2026-07-18T03:30:25.916631+00:00",
-   "entry_price": 0.4199,
-   "shares": 238.1722,
-   "stake": 100.0,
-   "leader_vwap": 0.3178,
-   "leader_cost": 2855.29,
-   "copy_delay_min": 3.0,
-   "best_ask": 0.37,
-   "ask_depth": 5.0,
    "status": "open"
   }
  ],
@@ -10178,6 +10166,72 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114459166295547024595288665599525875695268676712616601804360531403324873744094",
+   "condition_id": "0xad0785e454a8b0d96171b924ed7e1aa158ce87892ec81a44a0387cccdf92a3a7",
+   "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-stl-ari-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916550+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 2170.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.37,
+   "ask_depth": 68772.76,
+   "status": "closed",
+   "closed_at": "2026-07-18T04:00:58.217194+00:00",
+   "exit_price": 0.1332,
+   "pnl": -63.9876,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "condition_id": "0x334f900e3ac009b2fae32a8a3404807521044b2a8aa35ae823da1c41a9b1798f",
+   "title": "Detroit Tigers vs. Los Angeles Angels",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-det-laa-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916444+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.2398,
+   "leader_cost": 2398.37,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.27,
+   "ask_depth": 48460.63,
+   "status": "closed",
+   "closed_at": "2026-07-18T04:00:58.217250+00:00",
+   "exit_price": 0.1847,
+   "pnl": -31.5943,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "condition_id": "0x77b3df499be4b5cc27c6bbe022760926b10f4515e62682bb346ea3b9b05587e8",
+   "title": "San Francisco Giants vs. Seattle Mariners",
+   "outcome": "Seattle Mariners",
+   "slug": "mlb-sf-sea-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916631+00:00",
+   "entry_price": 0.4199,
+   "shares": 238.1722,
+   "stake": 100.0,
+   "leader_vwap": 0.3178,
+   "leader_cost": 2855.29,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.37,
+   "ask_depth": 5.0,
+   "status": "closed",
+   "closed_at": "2026-07-18T04:00:58.217269+00:00",
+   "exit_price": 0.09,
+   "pnl": -78.5645,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10419,6 +10473,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -377.2051000000003,
- "last_updated": "2026-07-18T03:40:35.235938+00:00"
+ "total_pnl": -551.3515000000002,
+ "last_updated": "2026-07-18T04:00:58.881542+00:00"
 }
