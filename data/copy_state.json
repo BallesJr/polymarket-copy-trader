@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8642.398582800002,
+ "bankroll": 8736.148582800002,
  "last_seen": {
-  "jtwyslljy": 1784371807,
+  "jtwyslljy": 1784372893,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5269,6 +5269,13 @@
    "SELL",
    3000,
    1784371807
+  ],
+  [
+   "0x5d620f912e1f2dba305fae8d613077724309135b70ad3547825a76a1ed1ac639",
+   "114143709836712591505872849511122718077792246979902820212710013428108473031609",
+   "SELL",
+   6013.5,
+   1784372893
   ]
  ],
  "leader_pos": {
@@ -7427,10 +7434,10 @@
    "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
    "outcome": "Alejandro Tabilo",
    "slug": "atp-rublev-tabilo-2026-07-18",
-   "shares": 6523.18,
-   "cost": 2122.1858,
+   "shares": 509.6800000000003,
+   "cost": 318.13580000000024,
    "max_shares": 10000.0,
-   "last_trade_ts": 1784370175
+   "last_trade_ts": 1784372893
   },
   "jtwyslljy|86079714939364813615599412744065341837873637249999989009212237977014249070372": {
    "leader": "jtwyslljy",
@@ -7546,24 +7553,6 @@
    "copy_delay_min": 3.9,
    "best_ask": 0.24,
    "ask_depth": 5414.59,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "114143709836712591505872849511122718077792246979902820212710013428108473031609",
-   "condition_id": "0x9beb4a4cab10c71d79f60beffd4a00a3016b4da7d82d6f18f64d5e80dd1691b2",
-   "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
-   "outcome": "Alejandro Tabilo",
-   "slug": "atp-rublev-tabilo-2026-07-18",
-   "opened_at": "2026-07-18T06:10:34.426256+00:00",
-   "entry_price": 0.32,
-   "shares": 312.5,
-   "stake": 100.0,
-   "leader_vwap": 0.32,
-   "leader_cost": 3200.0,
-   "copy_delay_min": 3.6,
-   "best_ask": 0.32,
-   "ask_depth": 5356.71,
    "status": "open"
   },
   {
@@ -10569,6 +10558,28 @@
    "exit_price": 0.3,
    "pnl": -6.25,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114143709836712591505872849511122718077792246979902820212710013428108473031609",
+   "condition_id": "0x9beb4a4cab10c71d79f60beffd4a00a3016b4da7d82d6f18f64d5e80dd1691b2",
+   "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-rublev-tabilo-2026-07-18",
+   "opened_at": "2026-07-18T06:10:34.426256+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.32,
+   "ask_depth": 5356.71,
+   "status": "closed",
+   "closed_at": "2026-07-18T11:10:40.508598+00:00",
+   "exit_price": 0.3,
+   "pnl": -6.25,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10810,6 +10821,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -657.6015000000002,
- "last_updated": "2026-07-18T11:00:53.073101+00:00"
+ "total_pnl": -663.8515000000002,
+ "last_updated": "2026-07-18T11:10:41.237046+00:00"
 }
