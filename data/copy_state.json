@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8399.2070584,
+ "bankroll": 8530.7859584,
  "last_seen": {
   "jtwyslljy": 1784402062,
   "0x53757615de": 1784324596
@@ -7951,24 +7951,6 @@
    "status": "open"
   },
   {
-   "leader": "0x53757615de",
-   "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
-   "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
-   "title": "Will France vs. England end in a draw?",
-   "outcome": "No",
-   "slug": "fifwc-fra-eng-2026-07-18",
-   "opened_at": "2026-07-17T21:50:39.505316+00:00",
-   "entry_price": 0.76,
-   "shares": 131.5789,
-   "stake": 100.0,
-   "leader_vwap": 0.76,
-   "leader_cost": 30400.0,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.76,
-   "ask_depth": 99891.98,
-   "status": "open"
-  },
-  {
    "leader": "jtwyslljy",
    "asset": "27017352779469567119021515174282416893555366624071034758236558815968401338728",
    "condition_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
@@ -11249,6 +11231,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+   "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
+   "title": "Will France vs. England end in a draw?",
+   "outcome": "No",
+   "slug": "fifwc-fra-eng-2026-07-18",
+   "opened_at": "2026-07-17T21:50:39.505316+00:00",
+   "entry_price": 0.76,
+   "shares": 131.5789,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 30400.0,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.76,
+   "ask_depth": 99891.98,
+   "status": "won",
+   "closed_at": "2026-07-18T23:20:39.625854+00:00",
+   "exit_price": 1.0,
+   "pnl": 31.5789,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11490,6 +11494,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -1000.7931000000001,
- "last_updated": "2026-07-18T20:00:52.277630+00:00"
+ "total_pnl": -969.2142000000001,
+ "last_updated": "2026-07-18T23:20:40.233976+00:00"
 }
