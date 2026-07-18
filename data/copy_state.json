@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8896.4011014,
+ "bankroll": 8796.4011014,
  "last_seen": {
-  "jtwyslljy": 1784386795,
+  "jtwyslljy": 1784387973,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5409,6 +5409,13 @@
    "BUY",
    578.1,
    1784386795
+  ],
+  [
+   "0x459658e6dff1a547ed507790da7f872adba41634c895cdd48d67c27bfa03e25c",
+   "72647976524458478760728418460201045597745257311169910402242397495012701290673",
+   "BUY",
+   9076.42,
+   1784387973
   ]
  ],
  "leader_pos": {
@@ -7639,10 +7646,10 @@
    "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
    "outcome": "Gen.G",
    "slug": "lol-gen-dk-2026-07-18",
-   "shares": 578.1,
-   "cost": 369.98400000000004,
-   "max_shares": 578.1,
-   "last_trade_ts": 1784386795
+   "shares": 9654.52,
+   "cost": 5089.722400000001,
+   "max_shares": 9654.52,
+   "last_trade_ts": 1784387973
   }
  },
  "positions": [
@@ -7716,6 +7723,24 @@
    "copy_delay_min": 11.1,
    "best_ask": 0.67,
    "ask_depth": 10881.19,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72647976524458478760728418460201045597745257311169910402242397495012701290673",
+   "condition_id": "0x0db7232eafb1882507f163f73655f262c6b84413f7567b0c0d105628cace065d",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-dk-2026-07-18",
+   "opened_at": "2026-07-18T15:30:50.613986+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.5272,
+   "leader_cost": 5089.72,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.51,
+   "ask_depth": 6488.92,
    "status": "open"
   }
  ],
@@ -11077,5 +11102,5 @@
   }
  ],
  "total_pnl": -703.5990000000002,
- "last_updated": "2026-07-18T15:00:53.479771+00:00"
+ "last_updated": "2026-07-18T15:30:51.108473+00:00"
 }
