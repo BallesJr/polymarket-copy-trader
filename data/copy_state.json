@@ -7232,24 +7232,6 @@
    "status": "open"
   },
   {
-   "leader": "jtwyslljy",
-   "asset": "113415103544107957073017554351013352747073624645273304842235171793583060299317",
-   "condition_id": "0x3ae65519ca688e5ec67b586e46592c74a03c2a1f4f261e9b9dde98eae1f9732a",
-   "title": "San Diego Padres vs. Kansas City Royals: O/U 10.5",
-   "outcome": "Under",
-   "slug": "mlb-sd-kc-2026-07-17",
-   "opened_at": "2026-07-17T18:30:49.715178+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 5733.9,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.54,
-   "ask_depth": 15161.51,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
    "condition_id": "0x4822d1452ba17d280b2c271db0e58df7866c9b494040649ab6c6ae8bb7363b18",
@@ -10174,6 +10156,28 @@
    "exit_price": 1.0,
    "pnl": 228.86,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113415103544107957073017554351013352747073624645273304842235171793583060299317",
+   "condition_id": "0x3ae65519ca688e5ec67b586e46592c74a03c2a1f4f261e9b9dde98eae1f9732a",
+   "title": "San Diego Padres vs. Kansas City Royals: O/U 10.5",
+   "outcome": "Under",
+   "slug": "mlb-sd-kc-2026-07-17",
+   "opened_at": "2026-07-17T18:30:49.715178+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5733.9,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.54,
+   "ask_depth": 15161.51,
+   "status": "lost",
+   "closed_at": "2026-07-18T03:40:35.234866+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -10415,6 +10419,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -277.2051000000003,
- "last_updated": "2026-07-18T03:30:26.973194+00:00"
+ "total_pnl": -377.2051000000003,
+ "last_updated": "2026-07-18T03:40:35.235938+00:00"
 }
