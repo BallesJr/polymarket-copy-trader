@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9048.648582800002,
+ "bankroll": 8948.648582800002,
  "last_seen": {
-  "jtwyslljy": 1784348596,
+  "jtwyslljy": 1784353840,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5150,6 +5150,13 @@
    "BUY",
    2417,
    1784348596
+  ],
+  [
+   "0x4ba696e6fc15c225829082d23f96f3c79a848eb11bdd4bd7e8953fb86f976530",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "BUY",
+   6485.48,
+   1784353840
   ]
  ],
  "leader_pos": {
@@ -7276,6 +7283,18 @@
    "cost": 1199.1856000000002,
    "max_shares": 8984.8,
    "last_trade_ts": 1784346672
+  },
+  "jtwyslljy|10007859465346629620147986266443292253605881260640803939818559778655301585548": {
+   "leader": "jtwyslljy",
+   "asset": "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "condition_id": "0x6c9175f064e6abf866e56adb8f4cd48108db41e33a3785e13ca44b45f88307ae",
+   "title": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
+   "outcome": "Raphael Collignon",
+   "slug": "atp-collign-cerund-2026-07-18",
+   "shares": 6485.48,
+   "cost": 3631.8688,
+   "max_shares": 6485.48,
+   "last_trade_ts": 1784353840
   }
  },
  "positions": [
@@ -7331,6 +7350,24 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.76,
    "ask_depth": 99891.98,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "condition_id": "0x6c9175f064e6abf866e56adb8f4cd48108db41e33a3785e13ca44b45f88307ae",
+   "title": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
+   "outcome": "Raphael Collignon",
+   "slug": "atp-collign-cerund-2026-07-18",
+   "opened_at": "2026-07-18T06:00:53.575283+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 3631.87,
+   "copy_delay_min": 10.2,
+   "best_ask": 0.57,
+   "ask_depth": 15359.31,
    "status": "open"
   }
  ],
@@ -10538,5 +10575,5 @@
   }
  ],
  "total_pnl": -651.3515000000002,
- "last_updated": "2026-07-18T05:00:53.866366+00:00"
+ "last_updated": "2026-07-18T06:00:54.106977+00:00"
 }
