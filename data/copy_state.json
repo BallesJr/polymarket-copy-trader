@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8701.236305400002,
+ "bankroll": 8853.544001400001,
  "last_seen": {
-  "jtwyslljy": 1784374503,
+  "jtwyslljy": 1784375013,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5346,6 +5346,20 @@
    "SELL",
    4929.42,
    1784374503
+  ],
+  [
+   "0x7eaff1c721edb9a8e0fb7624b09f8e52e9a8e565430c62f0ff95b57774ce7886",
+   "34385911163344953058015919601659439428177178858006760685446421831656784733875",
+   "SELL",
+   8000,
+   1784375001
+  ],
+  [
+   "0xfb84459f6e15134baeda66f8f04d0c2096a39c157251d2faed8dd9348e401a08",
+   "46464336901469148231749620229467543535010257111143284104831372917724022712604",
+   "SELL",
+   11562.06,
+   1784375013
   ]
  ],
  "leader_pos": {
@@ -7540,10 +7554,10 @@
    "title": "LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs",
    "outcome": "Karmine Corp",
    "slug": "lol-t1-kc-2026-07-18",
-   "shares": 8054.709999999999,
-   "cost": 1208.2064999999998,
+   "shares": -3507.3500000000004,
+   "cost": 514.4828999999999,
    "max_shares": 8054.709999999999,
-   "last_trade_ts": 1784373828
+   "last_trade_ts": 1784375013
   },
   "jtwyslljy|34385911163344953058015919601659439428177178858006760685446421831656784733875": {
    "leader": "jtwyslljy",
@@ -7552,10 +7566,10 @@
    "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
    "outcome": "Dplus KIA",
    "slug": "lol-gen-dk-2026-07-18",
-   "shares": 8000.0,
-   "cost": 2080.0,
+   "shares": 0.0,
+   "cost": 160.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1784373861
+   "last_trade_ts": 1784375001
   }
  },
  "positions": [
@@ -7647,42 +7661,6 @@
    "copy_delay_min": 12.1,
    "best_ask": 0.7,
    "ask_depth": 10593.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "46464336901469148231749620229467543535010257111143284104831372917724022712604",
-   "condition_id": "0x6b049bc3befa02c22d0cfaee77625fc94e9a6d571f00c015ba7a3b442e306fbc",
-   "title": "LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs",
-   "outcome": "Karmine Corp",
-   "slug": "lol-t1-kc-2026-07-18",
-   "opened_at": "2026-07-18T11:30:44.609086+00:00",
-   "entry_price": 0.1,
-   "shares": 1000.0,
-   "stake": 100.0,
-   "leader_vwap": 0.15,
-   "leader_cost": 1208.21,
-   "copy_delay_min": 6.9,
-   "best_ask": 0.1,
-   "ask_depth": 2599.2,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "34385911163344953058015919601659439428177178858006760685446421831656784733875",
-   "condition_id": "0x0db7232eafb1882507f163f73655f262c6b84413f7567b0c0d105628cace065d",
-   "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
-   "outcome": "Dplus KIA",
-   "slug": "lol-gen-dk-2026-07-18",
-   "opened_at": "2026-07-18T11:30:44.609182+00:00",
-   "entry_price": 0.26,
-   "shares": 384.6154,
-   "stake": 100.0,
-   "leader_vwap": 0.26,
-   "leader_cost": 2080.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.26,
-   "ask_depth": 86816.08,
    "status": "open"
   }
  ],
@@ -10714,6 +10692,50 @@
    "exit_price": 0.941,
    "pnl": 65.0877,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46464336901469148231749620229467543535010257111143284104831372917724022712604",
+   "condition_id": "0x6b049bc3befa02c22d0cfaee77625fc94e9a6d571f00c015ba7a3b442e306fbc",
+   "title": "LoL: T1 vs Karmine Corp (BO3) - Esports World Cup Playoffs",
+   "outcome": "Karmine Corp",
+   "slug": "lol-t1-kc-2026-07-18",
+   "opened_at": "2026-07-18T11:30:44.609086+00:00",
+   "entry_price": 0.1,
+   "shares": 1000.0,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 1208.21,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.1,
+   "ask_depth": 2599.2,
+   "status": "closed",
+   "closed_at": "2026-07-18T11:50:35.882969+00:00",
+   "exit_price": 0.06,
+   "pnl": -40.0,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34385911163344953058015919601659439428177178858006760685446421831656784733875",
+   "condition_id": "0x0db7232eafb1882507f163f73655f262c6b84413f7567b0c0d105628cace065d",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-07-18",
+   "opened_at": "2026-07-18T11:30:44.609182+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 2080.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.26,
+   "ask_depth": 86816.08,
+   "status": "closed",
+   "closed_at": "2026-07-18T11:50:35.883036+00:00",
+   "exit_price": 0.24,
+   "pnl": -7.6923,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10955,6 +10977,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -598.7638000000002,
- "last_updated": "2026-07-18T11:37:15.148997+00:00"
+ "total_pnl": -646.4561000000002,
+ "last_updated": "2026-07-18T11:50:36.442450+00:00"
 }
