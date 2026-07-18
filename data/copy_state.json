@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8784.4607844,
+ "bankroll": 8684.4607844,
  "last_seen": {
-  "jtwyslljy": 1784394751,
+  "jtwyslljy": 1784395869,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5500,6 +5500,20 @@
    "SELL",
    2572,
    1784394751
+  ],
+  [
+   "0x039e84e5f544dd4553e5914765e0cd3304e54d0f4f51eba184edd748a9ba2321",
+   "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "BUY",
+   14936.96,
+   1784395863
+  ],
+  [
+   "0xc6da53f941a08e2387d72d2d989c57bf01864c645557b4d2e91b5cfcc9e2b83b",
+   "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "BUY",
+   16025.01,
+   1784395869
   ]
  ],
  "leader_pos": {
@@ -7746,6 +7760,18 @@
    "cost": 3115.1140997999996,
    "max_shares": 9903.369999999999,
    "last_trade_ts": 1784389477
+  },
+  "jtwyslljy|93802826199129586573337005133381231843986542190089616733598737238175936054123": {
+   "leader": "jtwyslljy",
+   "asset": "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "condition_id": "0xd7219588f9db45384d054d07afa99a88f792dbad28803409090f0387295db609",
+   "title": "Iasi Open: Paula Badosa vs Tamara Zidansek",
+   "outcome": "Paula Badosa",
+   "slug": "wta-badosa-zidanse-2026-07-18",
+   "shares": 30961.97,
+   "cost": 9758.4608,
+   "max_shares": 30961.97,
+   "last_trade_ts": 1784395869
   }
  },
  "positions": [
@@ -7837,6 +7863,24 @@
    "copy_delay_min": 5.3,
    "best_ask": 0.31,
    "ask_depth": 329.67,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "condition_id": "0xd7219588f9db45384d054d07afa99a88f792dbad28803409090f0387295db609",
+   "title": "Iasi Open: Paula Badosa vs Tamara Zidansek",
+   "outcome": "Paula Badosa",
+   "slug": "wta-badosa-zidanse-2026-07-18",
+   "opened_at": "2026-07-18T17:40:35.433140+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.3152,
+   "leader_cost": 9758.46,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.46,
+   "ask_depth": 7799.48,
    "status": "open"
   }
  ],
@@ -11220,5 +11264,5 @@
   }
  ],
  "total_pnl": -715.5393000000001,
- "last_updated": "2026-07-18T17:20:34.373558+00:00"
+ "last_updated": "2026-07-18T17:40:35.903179+00:00"
 }
