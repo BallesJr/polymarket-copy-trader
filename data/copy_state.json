@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8756.3499134,
+ "bankroll": 8656.3499134,
  "last_seen": {
-  "jtwyslljy": 1784399850,
+  "jtwyslljy": 1784400334,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5556,6 +5556,13 @@
    "SELL",
    2500,
    1784399850
+  ],
+  [
+   "0xc7fa1a151b37416dc163811c67d422b09bb0b145efbf0e6ce89ead2973bad687",
+   "47510194137471266039574083121766089390046209603092317306109329074173966783991",
+   "BUY",
+   10000,
+   1784400334
   ]
  ],
  "leader_pos": {
@@ -7814,6 +7821,18 @@
    "cost": -9447.659199999998,
    "max_shares": 30961.97,
    "last_trade_ts": 1784399850
+  },
+  "jtwyslljy|47510194137471266039574083121766089390046209603092317306109329074173966783991": {
+   "leader": "jtwyslljy",
+   "asset": "47510194137471266039574083121766089390046209603092317306109329074173966783991",
+   "condition_id": "0x3e20fabf903464490e58d35b651b188991700417d8a9a543d2f2963d66b571d4",
+   "title": "Athens Open: Clara Tauson vs Barbora Krejcikova",
+   "outcome": "Clara Tauson",
+   "slug": "wta-tauson-krejcik-2026-07-18",
+   "shares": 10000.0,
+   "cost": 3800.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784400334
   }
  },
  "positions": [
@@ -7887,6 +7906,24 @@
    "copy_delay_min": 11.3,
    "best_ask": 0.51,
    "ask_depth": 6488.92,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47510194137471266039574083121766089390046209603092317306109329074173966783991",
+   "condition_id": "0x3e20fabf903464490e58d35b651b188991700417d8a9a543d2f2963d66b571d4",
+   "title": "Athens Open: Clara Tauson vs Barbora Krejcikova",
+   "outcome": "Clara Tauson",
+   "slug": "wta-tauson-krejcik-2026-07-18",
+   "opened_at": "2026-07-18T18:50:35.728497+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3800.0,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.35,
+   "ask_depth": 31829.61,
    "status": "open"
   }
  ],
@@ -11314,5 +11351,5 @@
   }
  ],
  "total_pnl": -843.6502000000002,
- "last_updated": "2026-07-18T18:40:36.619679+00:00"
+ "last_updated": "2026-07-18T18:50:36.440000+00:00"
 }
