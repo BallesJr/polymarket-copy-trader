@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9322.7949768,
+ "bankroll": 9022.7949768,
  "last_seen": {
-  "jtwyslljy": 1784319102,
+  "jtwyslljy": 1784345244,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5031,6 +5031,41 @@
    "BUY",
    40000,
    1784324596
+  ],
+  [
+   "0x2e3acbab260b65924f4b9d8542f56c1647547806a956a3c91bd9de62a375f785",
+   "16597813686285341264047070366631130424990853129572647324805920984566819223403",
+   "BUY",
+   3891.91,
+   1784344698
+  ],
+  [
+   "0xc4223938bb5d5a489fa6d5a9ec769d1e1813eb0ab79b40f7ea2d75bd9a026cde",
+   "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "BUY",
+   10000,
+   1784345056
+  ],
+  [
+   "0xd076e2929af7e2b6e1d3846c7fc57340dfc94e8efb24e54f9cbe69ca40b5d0cf",
+   "114459166295547024595288665599525875695268676712616601804360531403324873744094",
+   "BUY",
+   7000,
+   1784345149
+  ],
+  [
+   "0xa11284beab0dd03ba72fc7df2ec6e76c81f0c53cff8c0fbf5f32b6844d36b77d",
+   "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "BUY",
+   984.8,
+   1784345197
+  ],
+  [
+   "0x0c7dba6b8056c870260c8bf672d5096cb0c3f4258f0afd5622fc5f351d18f455",
+   "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "BUY",
+   8000,
+   1784345244
   ]
  ],
  "leader_pos": {
@@ -7109,6 +7144,54 @@
    "cost": 30400.0,
    "max_shares": 40000.0,
    "last_trade_ts": 1784324596
+  },
+  "jtwyslljy|16597813686285341264047070366631130424990853129572647324805920984566819223403": {
+   "leader": "jtwyslljy",
+   "asset": "16597813686285341264047070366631130424990853129572647324805920984566819223403",
+   "condition_id": "0x1f1022c621ab86203b76543fc6856e8208182bd3f93c88d1cb8625a0560a7a1d",
+   "title": "Baltimore Orioles vs. Houston Astros",
+   "outcome": "Houston Astros",
+   "slug": "mlb-bal-hou-2026-07-17",
+   "shares": 3891.91,
+   "cost": 505.9483,
+   "max_shares": 3891.91,
+   "last_trade_ts": 1784344698
+  },
+  "jtwyslljy|87050096840012777791301282906300107274980180082129637328513800897795296553560": {
+   "leader": "jtwyslljy",
+   "asset": "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "condition_id": "0x334f900e3ac009b2fae32a8a3404807521044b2a8aa35ae823da1c41a9b1798f",
+   "title": "Detroit Tigers vs. Los Angeles Angels",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-det-laa-2026-07-17",
+   "shares": 10000.0,
+   "cost": 2398.3653,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784345056
+  },
+  "jtwyslljy|114459166295547024595288665599525875695268676712616601804360531403324873744094": {
+   "leader": "jtwyslljy",
+   "asset": "114459166295547024595288665599525875695268676712616601804360531403324873744094",
+   "condition_id": "0xad0785e454a8b0d96171b924ed7e1aa158ce87892ec81a44a0387cccdf92a3a7",
+   "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-stl-ari-2026-07-17",
+   "shares": 7000.0,
+   "cost": 2170.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1784345149
+  },
+  "jtwyslljy|8453663865319819779286572815687989502689366441440421611658083254711773576597": {
+   "leader": "jtwyslljy",
+   "asset": "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "condition_id": "0x77b3df499be4b5cc27c6bbe022760926b10f4515e62682bb346ea3b9b05587e8",
+   "title": "San Francisco Giants vs. Seattle Mariners",
+   "outcome": "Seattle Mariners",
+   "slug": "mlb-sf-sea-2026-07-17",
+   "shares": 8984.8,
+   "cost": 2855.29,
+   "max_shares": 8984.8,
+   "last_trade_ts": 1784345244
   }
  },
  "positions": [
@@ -7182,6 +7265,60 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.76,
    "ask_depth": 99891.98,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87050096840012777791301282906300107274980180082129637328513800897795296553560",
+   "condition_id": "0x334f900e3ac009b2fae32a8a3404807521044b2a8aa35ae823da1c41a9b1798f",
+   "title": "Detroit Tigers vs. Los Angeles Angels",
+   "outcome": "Detroit Tigers",
+   "slug": "mlb-det-laa-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916444+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.2398,
+   "leader_cost": 2398.37,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.27,
+   "ask_depth": 48460.63,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114459166295547024595288665599525875695268676712616601804360531403324873744094",
+   "condition_id": "0xad0785e454a8b0d96171b924ed7e1aa158ce87892ec81a44a0387cccdf92a3a7",
+   "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-stl-ari-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916550+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 2170.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.37,
+   "ask_depth": 68772.76,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8453663865319819779286572815687989502689366441440421611658083254711773576597",
+   "condition_id": "0x77b3df499be4b5cc27c6bbe022760926b10f4515e62682bb346ea3b9b05587e8",
+   "title": "San Francisco Giants vs. Seattle Mariners",
+   "outcome": "Seattle Mariners",
+   "slug": "mlb-sf-sea-2026-07-17",
+   "opened_at": "2026-07-18T03:30:25.916631+00:00",
+   "entry_price": 0.4199,
+   "shares": 238.1722,
+   "stake": 100.0,
+   "leader_vwap": 0.3178,
+   "leader_cost": 2855.29,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.37,
+   "ask_depth": 5.0,
    "status": "open"
   }
  ],
@@ -10268,8 +10405,16 @@
    "leader": "jtwyslljy",
    "title": "Croatia Open: Damir Dzumhur vs Matteo Arnaldi",
    "outcome": "Damir Dzumhur"
+  },
+  {
+   "at": "2026-07-18T03:30:25.916591+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": 0.001,
+   "leader": "jtwyslljy",
+   "title": "Baltimore Orioles vs. Houston Astros",
+   "outcome": "Houston Astros"
   }
  ],
  "total_pnl": -277.2051000000003,
- "last_updated": "2026-07-17T23:01:00.238570+00:00"
+ "last_updated": "2026-07-18T03:30:26.973194+00:00"
 }
