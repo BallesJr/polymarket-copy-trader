@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8684.4607844,
+ "bankroll": 8756.3499134,
  "last_seen": {
-  "jtwyslljy": 1784398492,
+  "jtwyslljy": 1784399169,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5521,6 +5521,27 @@
    "SELL",
    5000,
    1784398492
+  ],
+  [
+   "0xdd3ce34d7a0259e372539b9e8cf0a9646e53da8274154380cfb2dd45fc2332e9",
+   "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "SELL",
+   5000,
+   1784398770
+  ],
+  [
+   "0x3b833ffe93bbc10836f49629e53d12aa5db178f62a3ad087d463d441cb7eac07",
+   "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "SELL",
+   962,
+   1784398782
+  ],
+  [
+   "0x289f520d30250406d86b153c99086fcbe5935f49c6fcfe602fc3cb8a40c4c6c4",
+   "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "SELL",
+   10000,
+   1784399169
   ]
  ],
  "leader_pos": {
@@ -7775,10 +7796,10 @@
    "title": "Iasi Open: Paula Badosa vs Tamara Zidansek",
    "outcome": "Paula Badosa",
    "slug": "wta-badosa-zidanse-2026-07-18",
-   "shares": 25961.97,
-   "cost": 6658.460800000001,
+   "shares": 9999.970000000001,
+   "cost": -5572.659199999999,
    "max_shares": 30961.97,
-   "last_trade_ts": 1784398492
+   "last_trade_ts": 1784399169
   }
  },
  "positions": [
@@ -7852,42 +7873,6 @@
    "copy_delay_min": 11.3,
    "best_ask": 0.51,
    "ask_depth": 6488.92,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "101631541200900787966142868643828745210631479152579418290069519182305416846327",
-   "condition_id": "0x4255afa1aae694dae73a3f9c898d720f1b21d1b25e040ba30a4cd7d11bbcb312",
-   "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
-   "outcome": "Dplus KIA",
-   "slug": "lol-gen-dk-2026-07-18",
-   "opened_at": "2026-07-18T15:40:35.473250+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3435,
-   "leader_cost": 2061.01,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.31,
-   "ask_depth": 329.67,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "93802826199129586573337005133381231843986542190089616733598737238175936054123",
-   "condition_id": "0xd7219588f9db45384d054d07afa99a88f792dbad28803409090f0387295db609",
-   "title": "Iasi Open: Paula Badosa vs Tamara Zidansek",
-   "outcome": "Paula Badosa",
-   "slug": "wta-badosa-zidanse-2026-07-18",
-   "opened_at": "2026-07-18T17:40:35.433140+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.3152,
-   "leader_cost": 9758.46,
-   "copy_delay_min": 9.4,
-   "best_ask": 0.46,
-   "ask_depth": 7799.48,
    "status": "open"
   }
  ],
@@ -11029,6 +11014,50 @@
    "exit_price": 0.59,
    "pnl": -11.9403,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93802826199129586573337005133381231843986542190089616733598737238175936054123",
+   "condition_id": "0xd7219588f9db45384d054d07afa99a88f792dbad28803409090f0387295db609",
+   "title": "Iasi Open: Paula Badosa vs Tamara Zidansek",
+   "outcome": "Paula Badosa",
+   "slug": "wta-badosa-zidanse-2026-07-18",
+   "opened_at": "2026-07-18T17:40:35.433140+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.3152,
+   "leader_cost": 9758.46,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.46,
+   "ask_depth": 7799.48,
+   "status": "closed",
+   "closed_at": "2026-07-18T18:31:50.931198+00:00",
+   "exit_price": 0.3307,
+   "pnl": -28.1109,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101631541200900787966142868643828745210631479152579418290069519182305416846327",
+   "condition_id": "0x4255afa1aae694dae73a3f9c898d720f1b21d1b25e040ba30a4cd7d11bbcb312",
+   "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-07-18",
+   "opened_at": "2026-07-18T15:40:35.473250+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3435,
+   "leader_cost": 2061.01,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.31,
+   "ask_depth": 329.67,
+   "status": "lost",
+   "closed_at": "2026-07-18T18:31:51.987764+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11270,6 +11299,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -715.5393000000001,
- "last_updated": "2026-07-18T18:20:33.838749+00:00"
+ "total_pnl": -843.6502000000002,
+ "last_updated": "2026-07-18T18:31:51.988710+00:00"
 }
