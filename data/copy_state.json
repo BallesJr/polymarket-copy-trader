@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8796.4011014,
+ "bankroll": 8696.4011014,
  "last_seen": {
-  "jtwyslljy": 1784387973,
+  "jtwyslljy": 1784388916,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5416,6 +5416,13 @@
    "BUY",
    9076.42,
    1784387973
+  ],
+  [
+   "0x8445788dcbccebe53815b6aaf29fbceb88fb985e76a60182abe8097f8574c266",
+   "101631541200900787966142868643828745210631479152579418290069519182305416846327",
+   "BUY",
+   6000,
+   1784388916
   ]
  ],
  "leader_pos": {
@@ -7650,6 +7657,18 @@
    "cost": 5089.722400000001,
    "max_shares": 9654.52,
    "last_trade_ts": 1784387973
+  },
+  "jtwyslljy|101631541200900787966142868643828745210631479152579418290069519182305416846327": {
+   "leader": "jtwyslljy",
+   "asset": "101631541200900787966142868643828745210631479152579418290069519182305416846327",
+   "condition_id": "0x4255afa1aae694dae73a3f9c898d720f1b21d1b25e040ba30a4cd7d11bbcb312",
+   "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-07-18",
+   "shares": 6000.0,
+   "cost": 2061.0130998,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1784388916
   }
  },
  "positions": [
@@ -7741,6 +7760,24 @@
    "copy_delay_min": 11.3,
    "best_ask": 0.51,
    "ask_depth": 6488.92,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101631541200900787966142868643828745210631479152579418290069519182305416846327",
+   "condition_id": "0x4255afa1aae694dae73a3f9c898d720f1b21d1b25e040ba30a4cd7d11bbcb312",
+   "title": "LoL: Gen.G vs Dplus KIA - Game 2 Winner",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-07-18",
+   "opened_at": "2026-07-18T15:40:35.473250+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3435,
+   "leader_cost": 2061.01,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.31,
+   "ask_depth": 329.67,
    "status": "open"
   }
  ],
@@ -11102,5 +11139,5 @@
   }
  ],
  "total_pnl": -703.5990000000002,
- "last_updated": "2026-07-18T15:30:51.108473+00:00"
+ "last_updated": "2026-07-18T15:40:36.053131+00:00"
 }
