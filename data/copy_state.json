@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8853.544001400001,
+ "bankroll": 8753.544001400001,
  "last_seen": {
-  "jtwyslljy": 1784375280,
+  "jtwyslljy": 1784376568,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5367,6 +5367,13 @@
    "SELL",
    22,
    1784375280
+  ],
+  [
+   "0xde4efca8f99845a685ad54dd238f192d00bb4b14db230a19be73526e0158f597",
+   "58259820083817663626323807338585665922529945358117058368325947537335197225706",
+   "BUY",
+   15000,
+   1784376568
   ]
  ],
  "leader_pos": {
@@ -7577,6 +7584,18 @@
    "cost": 160.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1784375001
+  },
+  "jtwyslljy|58259820083817663626323807338585665922529945358117058368325947537335197225706": {
+   "leader": "jtwyslljy",
+   "asset": "58259820083817663626323807338585665922529945358117058368325947537335197225706",
+   "condition_id": "0x9beb4a4cab10c71d79f60beffd4a00a3016b4da7d82d6f18f64d5e80dd1691b2",
+   "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-rublev-tabilo-2026-07-18",
+   "shares": 15000.0,
+   "cost": 10050.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1784376568
   }
  },
  "positions": [
@@ -7668,6 +7687,24 @@
    "copy_delay_min": 12.1,
    "best_ask": 0.7,
    "ask_depth": 10593.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58259820083817663626323807338585665922529945358117058368325947537335197225706",
+   "condition_id": "0x9beb4a4cab10c71d79f60beffd4a00a3016b4da7d82d6f18f64d5e80dd1691b2",
+   "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-rublev-tabilo-2026-07-18",
+   "opened_at": "2026-07-18T12:20:36.701117+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 10050.0,
+   "copy_delay_min": 11.1,
+   "best_ask": 0.67,
+   "ask_depth": 10881.19,
    "status": "open"
   }
  ],
@@ -10985,5 +11022,5 @@
   }
  ],
  "total_pnl": -646.4561000000002,
- "last_updated": "2026-07-18T12:00:55.746693+00:00"
+ "last_updated": "2026-07-18T12:20:37.226490+00:00"
 }
