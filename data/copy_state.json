@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8648.648582800002,
  "last_seen": {
-  "jtwyslljy": 1784363847,
+  "jtwyslljy": 1784366857,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5199,6 +5199,13 @@
    "BUY",
    3985.35,
    1784363847
+  ],
+  [
+   "0x36a5dac610fdb36237fb5d6b7e0661e4468b485dc8f76347326ca44914fea542",
+   "10919297660653683689006927143263066110401073263331501007972246653671681366359",
+   "BUY",
+   1182.7,
+   1784366857
   ]
  ],
  "leader_pos": {
@@ -7345,10 +7352,10 @@
    "title": "Swiss Open: Alexander Shevchenko vs Stefanos Tsitsipas",
    "outcome": "Alexander Shevchenko",
    "slug": "atp-shevche-tsitsip-2026-07-18",
-   "shares": 9519.34,
-   "cost": 2284.6416,
-   "max_shares": 9519.34,
-   "last_trade_ts": 1784354799
+   "shares": 10702.04,
+   "cost": 2544.8356,
+   "max_shares": 10702.04,
+   "last_trade_ts": 1784366857
   },
   "jtwyslljy|114143709836712591505872849511122718077792246979902820212710013428108473031609": {
    "leader": "jtwyslljy",
@@ -10707,5 +10714,5 @@
   }
  ],
  "total_pnl": -651.3515000000002,
- "last_updated": "2026-07-18T08:50:38.257796+00:00"
+ "last_updated": "2026-07-18T09:30:49.484773+00:00"
 }
