@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8742.398582800002,
+ "bankroll": 8642.398582800002,
  "last_seen": {
-  "jtwyslljy": 1784370175,
+  "jtwyslljy": 1784370454,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5241,6 +5241,13 @@
    "SELL",
    3476.82,
    1784370175
+  ],
+  [
+   "0xb0324e5e7aa7da5a50bf2bf4c6950987ee99347c3f0d1dae049492194f23f68d",
+   "15467608159956285128855204255044087079156444798546227404419000536354596662843",
+   "BUY",
+   10800.02,
+   1784370454
   ]
  ],
  "leader_pos": {
@@ -7415,6 +7422,18 @@
    "cost": 80.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1784370147
+  },
+  "jtwyslljy|15467608159956285128855204255044087079156444798546227404419000536354596662843": {
+   "leader": "jtwyslljy",
+   "asset": "15467608159956285128855204255044087079156444798546227404419000536354596662843",
+   "condition_id": "0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3",
+   "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
+   "outcome": "Luciano Darderi",
+   "slug": "atp-vallejo-darderi-2026-07-18",
+   "shares": 10800.02,
+   "cost": 7452.0138,
+   "max_shares": 10800.02,
+   "last_trade_ts": 1784370454
   }
  },
  "positions": [
@@ -7524,6 +7543,24 @@
    "copy_delay_min": 3.6,
    "best_ask": 0.32,
    "ask_depth": 5356.71,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "15467608159956285128855204255044087079156444798546227404419000536354596662843",
+   "condition_id": "0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3",
+   "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
+   "outcome": "Luciano Darderi",
+   "slug": "atp-vallejo-darderi-2026-07-18",
+   "opened_at": "2026-07-18T10:39:40.709833+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 7452.01,
+   "copy_delay_min": 12.1,
+   "best_ask": 0.7,
+   "ask_depth": 10593.93,
    "status": "open"
   }
  ],
@@ -10753,5 +10790,5 @@
   }
  ],
  "total_pnl": -657.6015000000002,
- "last_updated": "2026-07-18T10:30:44.428652+00:00"
+ "last_updated": "2026-07-18T10:39:41.288480+00:00"
 }
