@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8648.648582800002,
+ "bankroll": 8742.398582800002,
  "last_seen": {
-  "jtwyslljy": 1784369661,
+  "jtwyslljy": 1784370175,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5227,6 +5227,20 @@
    "BUY",
    1999.99,
    1784369661
+  ],
+  [
+   "0xbfaa603f8a29db06690891a5d452130a22011b7a937b20af55a158e65b917aa0",
+   "86079714939364813615599412744065341837873637249999989009212237977014249070372",
+   "SELL",
+   8000,
+   1784370147
+  ],
+  [
+   "0x8fc9d0c72f0d17a3c42c4a5bf42275ea3afb4f641db0423a8c71c09de4621564",
+   "114143709836712591505872849511122718077792246979902820212710013428108473031609",
+   "SELL",
+   3476.82,
+   1784370175
   ]
  ],
  "leader_pos": {
@@ -7385,10 +7399,10 @@
    "title": "Swedish Open: Andrey Rublev vs Alejandro Tabilo",
    "outcome": "Alejandro Tabilo",
    "slug": "atp-rublev-tabilo-2026-07-18",
-   "shares": 10000.0,
-   "cost": 3200.0,
+   "shares": 6523.18,
+   "cost": 2122.1858,
    "max_shares": 10000.0,
-   "last_trade_ts": 1784354815
+   "last_trade_ts": 1784370175
   },
   "jtwyslljy|86079714939364813615599412744065341837873637249999989009212237977014249070372": {
    "leader": "jtwyslljy",
@@ -7397,10 +7411,10 @@
    "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
    "outcome": "Adolfo Vallejo",
    "slug": "atp-vallejo-darderi-2026-07-18",
-   "shares": 8000.0,
-   "cost": 2560.0,
+   "shares": 0.0,
+   "cost": 80.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1784362611
+   "last_trade_ts": 1784370147
   }
  },
  "positions": [
@@ -7510,24 +7524,6 @@
    "copy_delay_min": 3.6,
    "best_ask": 0.32,
    "ask_depth": 5356.71,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "86079714939364813615599412744065341837873637249999989009212237977014249070372",
-   "condition_id": "0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3",
-   "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
-   "outcome": "Adolfo Vallejo",
-   "slug": "atp-vallejo-darderi-2026-07-18",
-   "opened_at": "2026-07-18T08:30:46.361081+00:00",
-   "entry_price": 0.32,
-   "shares": 312.5,
-   "stake": 100.0,
-   "leader_vwap": 0.32,
-   "leader_cost": 2560.0,
-   "copy_delay_min": 13.9,
-   "best_ask": 0.32,
-   "ask_depth": 5013.21,
    "status": "open"
   }
  ],
@@ -10493,6 +10489,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86079714939364813615599412744065341837873637249999989009212237977014249070372",
+   "condition_id": "0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3",
+   "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-darderi-2026-07-18",
+   "opened_at": "2026-07-18T08:30:46.361081+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 2560.0,
+   "copy_delay_min": 13.9,
+   "best_ask": 0.32,
+   "ask_depth": 5013.21,
+   "status": "closed",
+   "closed_at": "2026-07-18T10:30:43.875111+00:00",
+   "exit_price": 0.3,
+   "pnl": -6.25,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10734,6 +10752,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -651.3515000000002,
- "last_updated": "2026-07-18T10:20:35.471896+00:00"
+ "total_pnl": -657.6015000000002,
+ "last_updated": "2026-07-18T10:30:44.428652+00:00"
 }
