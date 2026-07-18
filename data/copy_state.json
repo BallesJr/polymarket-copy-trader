@@ -7970,24 +7970,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "72647976524458478760728418460201045597745257311169910402242397495012701290673",
-   "condition_id": "0x0db7232eafb1882507f163f73655f262c6b84413f7567b0c0d105628cace065d",
-   "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
-   "outcome": "Gen.G",
-   "slug": "lol-gen-dk-2026-07-18",
-   "opened_at": "2026-07-18T15:30:50.613986+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.5272,
-   "leader_cost": 5089.72,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.51,
-   "ask_depth": 6488.92,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "27017352779469567119021515174282416893555366624071034758236558815968401338728",
    "condition_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
    "title": "Will France win on 2026-07-18?",
@@ -11245,6 +11227,28 @@
    "exit_price": 0.15,
    "pnl": -57.1429,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72647976524458478760728418460201045597745257311169910402242397495012701290673",
+   "condition_id": "0x0db7232eafb1882507f163f73655f262c6b84413f7567b0c0d105628cace065d",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - Esports World Cup Playoffs",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-dk-2026-07-18",
+   "opened_at": "2026-07-18T15:30:50.613986+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.5272,
+   "leader_cost": 5089.72,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.51,
+   "ask_depth": 6488.92,
+   "status": "lost",
+   "closed_at": "2026-07-18T20:00:52.276373+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11486,6 +11490,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -900.7931000000001,
- "last_updated": "2026-07-18T19:20:36.270182+00:00"
+ "total_pnl": -1000.7931000000001,
+ "last_updated": "2026-07-18T20:00:52.277630+00:00"
 }
