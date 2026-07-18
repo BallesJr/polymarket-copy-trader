@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8536.148582800002,
+ "bankroll": 8701.236305400002,
  "last_seen": {
-  "jtwyslljy": 1784373861,
+  "jtwyslljy": 1784374503,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5304,6 +5304,48 @@
    "BUY",
    8000,
    1784373861
+  ],
+  [
+   "0x42659de7f280edff3ac8d964259b3977324c7b9709c213200a095c3d1a7d3b9b",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   245.08,
+   1784374251
+  ],
+  [
+   "0xc158a1264cb061af71d9ec5e3d43d773793f8514054add80f36b5ec367c9e0f3",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   15000,
+   1784374269
+  ],
+  [
+   "0x6d2debc8f41e6107ec97e92f4cf2816a6e645ebccba43cf2f7836790c120eb91",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   5000,
+   1784374332
+  ],
+  [
+   "0x72ad3fc2575666db501ce20cee3b1f715bc4e8ee5eee825ee9640694f26cddea",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   294.47,
+   1784374488
+  ],
+  [
+   "0xa4e566b58d9a1f077e4df8fa1550bfc85aa596590a78d536a7d19c98a1835b76",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   5167.79,
+   1784374494
+  ],
+  [
+   "0x9bac9bfaf378a3cad5b834e066cbec83e20c0456db5976faf50aafcd9c2d1af1",
+   "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "SELL",
+   4929.42,
+   1784374503
   ]
  ],
  "leader_pos": {
@@ -7438,10 +7480,10 @@
    "title": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
    "outcome": "Raphael Collignon",
    "slug": "atp-collign-cerund-2026-07-18",
-   "shares": 43270.81,
-   "cost": 11272.963940200001,
+   "shares": 12634.049999999994,
+   "cost": -7644.010149795878,
    "max_shares": 49270.81,
-   "last_trade_ts": 1784373513
+   "last_trade_ts": 1784374503
   },
   "jtwyslljy|10919297660653683689006927143263066110401073263331501007972246653671681366359": {
    "leader": "jtwyslljy",
@@ -7569,24 +7611,6 @@
    "copy_delay_min": 7.4,
    "best_ask": 0.76,
    "ask_depth": 99891.98,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "10007859465346629620147986266443292253605881260640803939818559778655301585548",
-   "condition_id": "0x6c9175f064e6abf866e56adb8f4cd48108db41e33a3785e13ca44b45f88307ae",
-   "title": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
-   "outcome": "Raphael Collignon",
-   "slug": "atp-collign-cerund-2026-07-18",
-   "opened_at": "2026-07-18T06:00:53.575283+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 3631.87,
-   "copy_delay_min": 10.2,
-   "best_ask": 0.57,
-   "ask_depth": 15359.31,
    "status": "open"
   },
   {
@@ -10668,6 +10692,28 @@
    "exit_price": 0.3,
    "pnl": -6.25,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10007859465346629620147986266443292253605881260640803939818559778655301585548",
+   "condition_id": "0x6c9175f064e6abf866e56adb8f4cd48108db41e33a3785e13ca44b45f88307ae",
+   "title": "Swiss Open: Raphael Collignon vs Juan Manuel Cerundolo",
+   "outcome": "Raphael Collignon",
+   "slug": "atp-collign-cerund-2026-07-18",
+   "opened_at": "2026-07-18T06:00:53.575283+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 3631.87,
+   "copy_delay_min": 10.2,
+   "best_ask": 0.57,
+   "ask_depth": 15359.31,
+   "status": "closed",
+   "closed_at": "2026-07-18T11:37:14.643911+00:00",
+   "exit_price": 0.941,
+   "pnl": 65.0877,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -10909,6 +10955,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -663.8515000000002,
- "last_updated": "2026-07-18T11:30:45.097737+00:00"
+ "total_pnl": -598.7638000000002,
+ "last_updated": "2026-07-18T11:37:15.148997+00:00"
 }
