@@ -7683,24 +7683,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "10919297660653683689006927143263066110401073263331501007972246653671681366359",
-   "condition_id": "0xd282fb3abb7eedbfb30a43acfd650e25dbc3f65be942b8c1a16d752c7eb50371",
-   "title": "Swiss Open: Alexander Shevchenko vs Stefanos Tsitsipas",
-   "outcome": "Alexander Shevchenko",
-   "slug": "atp-shevche-tsitsip-2026-07-18",
-   "opened_at": "2026-07-18T06:10:34.426159+00:00",
-   "entry_price": 0.24,
-   "shares": 416.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.24,
-   "leader_cost": 2284.64,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.24,
-   "ask_depth": 5414.59,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "15467608159956285128855204255044087079156444798546227404419000536354596662843",
    "condition_id": "0xd082d41946af85390844de74030abb9ac114acf093cc84fa8454767bb8f418d3",
    "title": "Swedish Open: Adolfo Vallejo vs Luciano Darderi",
@@ -10808,6 +10790,28 @@
    "exit_price": 0.24,
    "pnl": -7.6923,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10919297660653683689006927143263066110401073263331501007972246653671681366359",
+   "condition_id": "0xd282fb3abb7eedbfb30a43acfd650e25dbc3f65be942b8c1a16d752c7eb50371",
+   "title": "Swiss Open: Alexander Shevchenko vs Stefanos Tsitsipas",
+   "outcome": "Alexander Shevchenko",
+   "slug": "atp-shevche-tsitsip-2026-07-18",
+   "opened_at": "2026-07-18T06:10:34.426159+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 2284.64,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.24,
+   "ask_depth": 5414.59,
+   "status": "lost",
+   "closed_at": "2026-07-18T14:40:37.409608+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11049,6 +11053,6 @@
    "outcome": "Houston Astros"
   }
  ],
- "total_pnl": -646.4561000000002,
- "last_updated": "2026-07-18T13:20:37.743030+00:00"
+ "total_pnl": -746.4561000000002,
+ "last_updated": "2026-07-18T14:40:37.693690+00:00"
 }
