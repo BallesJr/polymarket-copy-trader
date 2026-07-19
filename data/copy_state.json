@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8271.6310584,
+ "bankroll": 8171.6310584,
  "last_seen": {
-  "jtwyslljy": 1784487340,
+  "jtwyslljy": 1784488489,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5682,6 +5682,13 @@
    "BUY",
    3000,
    1784487340
+  ],
+  [
+   "0x66483ec8b6377c3e969cb9e8b167d12f40273c0c6fb4ece9fa41dc31b2415e57",
+   "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+   "BUY",
+   10000,
+   1784488489
   ]
  ],
  "leader_pos": {
@@ -8060,6 +8067,18 @@
    "cost": 1585.8155,
    "max_shares": 2172.35,
    "last_trade_ts": 1784483374
+  },
+  "jtwyslljy|21489275813654264105403246157265887827595023709508765470113828829105196462288": {
+   "leader": "jtwyslljy",
+   "asset": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+   "title": "Spain vs. Argentina: Team to Advance",
+   "outcome": "Spain",
+   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
+   "shares": 10000.0,
+   "cost": 5997.4924249999995,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784488489
   }
  },
  "positions": [
@@ -8151,6 +8170,24 @@
    "copy_delay_min": 11.3,
    "best_ask": 0.74,
    "ask_depth": 2824.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+   "title": "Spain vs. Argentina: Team to Advance",
+   "outcome": "Spain",
+   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
+   "opened_at": "2026-07-19T19:20:33.180842+00:00",
+   "entry_price": 0.61,
+   "shares": 163.9344,
+   "stake": 100.0,
+   "leader_vwap": 0.5997,
+   "leader_cost": 5997.49,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.61,
+   "ask_depth": 38839.63,
    "status": "open"
   }
  ],
@@ -11742,5 +11779,5 @@
   }
  ],
  "total_pnl": -1228.3691000000001,
- "last_updated": "2026-07-19T19:00:50.849151+00:00"
+ "last_updated": "2026-07-19T19:20:33.881790+00:00"
 }
