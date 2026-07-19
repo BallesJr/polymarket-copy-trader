@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8471.6310584,
+ "bankroll": 8371.6310584,
  "last_seen": {
-  "jtwyslljy": 1784480440,
+  "jtwyslljy": 1784480566,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5640,6 +5640,27 @@
    "BUY",
    3184.28,
    1784480440
+  ],
+  [
+   "0xace17d175292a881c1f2b6be3c14ba257d6cfffb3f8276113449dc82e5388e19",
+   "8324558822550589420279597612770037873272482670297057944695843684959546272150",
+   "BUY",
+   8000,
+   1784480460
+  ],
+  [
+   "0x525640e6f3157b300db758547f9bd7f9f1b5d067dca37bba65218231517a9e4d",
+   "68670360388233769718605080078027989374732396020019589146132197286593549244794",
+   "BUY",
+   1000,
+   1784480530
+  ],
+  [
+   "0x5f6de1d76400201fa6416cc76df6d4e86bdd2697c32c745014308c5783ed3eaf",
+   "8324558822550589420279597612770037873272482670297057944695843684959546272150",
+   "BUY",
+   1000,
+   1784480566
   ]
  ],
  "leader_pos": {
@@ -7990,10 +8011,22 @@
    "title": "Athens Open: Barbora Krejcikova vs Maria Sakkari",
    "outcome": "Maria Sakkari",
    "slug": "wta-krejcik-sakkari-2026-07-19",
-   "shares": 3184.28,
-   "cost": 1401.0832,
-   "max_shares": 3184.28,
-   "last_trade_ts": 1784480440
+   "shares": 4184.280000000001,
+   "cost": 1841.0832,
+   "max_shares": 4184.280000000001,
+   "last_trade_ts": 1784480530
+  },
+  "jtwyslljy|8324558822550589420279597612770037873272482670297057944695843684959546272150": {
+   "leader": "jtwyslljy",
+   "asset": "8324558822550589420279597612770037873272482670297057944695843684959546272150",
+   "condition_id": "0xcfdbf84515096ab58349adfdf7cc61cd8febf5fd42030f48286f92d2f46a6437",
+   "title": "Iasi Open: Mayar Sherif vs Paula Badosa",
+   "outcome": "Mayar Sherif",
+   "slug": "wta-sherif-badosa-2026-07-19",
+   "shares": 9000.0,
+   "cost": 3420.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1784480566
   }
  },
  "positions": [
@@ -8049,6 +8082,24 @@
    "copy_delay_min": 0.2,
    "best_ask": 0.45,
    "ask_depth": 8401.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8324558822550589420279597612770037873272482670297057944695843684959546272150",
+   "condition_id": "0xcfdbf84515096ab58349adfdf7cc61cd8febf5fd42030f48286f92d2f46a6437",
+   "title": "Iasi Open: Mayar Sherif vs Paula Badosa",
+   "outcome": "Mayar Sherif",
+   "slug": "wta-sherif-badosa-2026-07-19",
+   "opened_at": "2026-07-19T17:10:30.304051+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3420.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.38,
+   "ask_depth": 8966.72,
    "status": "open"
   }
  ],
@@ -11640,5 +11691,5 @@
   }
  ],
  "total_pnl": -1228.3691000000001,
- "last_updated": "2026-07-19T17:00:53.198648+00:00"
+ "last_updated": "2026-07-19T17:10:30.847546+00:00"
 }
