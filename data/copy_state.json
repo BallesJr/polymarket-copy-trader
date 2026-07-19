@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8171.6310584,
  "last_seen": {
-  "jtwyslljy": 1784488489,
+  "jtwyslljy": 1784491243,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5689,6 +5689,13 @@
    "BUY",
    10000,
    1784488489
+  ],
+  [
+   "0xf8e6359ce4f4d6725effe19239b4502e79be2901ec31502914bc2127e878e8da",
+   "36133152700119336217010710870777800523099589196906928582843949438947422304245",
+   "BUY",
+   17500,
+   1784491243
   ]
  ],
  "leader_pos": {
@@ -8079,6 +8086,18 @@
    "cost": 5997.4924249999995,
    "max_shares": 10000.0,
    "last_trade_ts": 1784488489
+  },
+  "jtwyslljy|36133152700119336217010710870777800523099589196906928582843949438947422304245": {
+   "leader": "jtwyslljy",
+   "asset": "36133152700119336217010710870777800523099589196906928582843949438947422304245",
+   "condition_id": "0xbbf7941b9d8a282999b1e21e48998e9993ce071e5e4656ffe21235ed7022b454",
+   "title": "Miami Marlins vs. Milwaukee Brewers",
+   "outcome": "Miami Marlins",
+   "slug": "mlb-mia-mil-2026-07-19",
+   "shares": 17500.0,
+   "cost": 7350.0,
+   "max_shares": 17500.0,
+   "last_trade_ts": 1784491243
   }
  },
  "positions": [
@@ -11780,8 +11799,18 @@
    "leader": "jtwyslljy",
    "title": "Swiss Open: Stefanos Tsitsipas vs Raphael Collignon",
    "outcome": "Raphael Collignon"
+  },
+  {
+   "at": "2026-07-19T20:10:31.774563+00:00",
+   "reason": "chase",
+   "ask": 0.59,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.42,
+   "leader": "jtwyslljy",
+   "title": "Miami Marlins vs. Milwaukee Brewers",
+   "outcome": "Miami Marlins"
   }
  ],
  "total_pnl": -1328.3691000000001,
- "last_updated": "2026-07-19T19:40:33.228064+00:00"
+ "last_updated": "2026-07-19T20:10:32.249899+00:00"
 }
