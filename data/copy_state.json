@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7971.6310584,
  "last_seen": {
-  "jtwyslljy": 1784495685,
+  "jtwyslljy": 1784496282,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5759,6 +5759,13 @@
    "BUY",
    58,
    1784495685
+  ],
+  [
+   "0x12191439fd03203e0a7c24cc1ddd5a844fa15afbdaaed1696641adb6439c2b1d",
+   "59470269118682771304947535994646971819417763580663925170396066961563339373816",
+   "BUY",
+   5000,
+   1784496282
   ]
  ],
  "leader_pos": {
@@ -8181,10 +8188,10 @@
    "title": "Spain vs. Argentina: Team to Advance",
    "outcome": "Argentina",
    "slug": "fifwc-esp-arg-2026-07-19-more-markets",
-   "shares": 11167.29,
-   "cost": 3092.73360010006,
-   "max_shares": 11167.29,
-   "last_trade_ts": 1784495685
+   "shares": 16167.29,
+   "cost": 4730.23360010006,
+   "max_shares": 16167.29,
+   "last_trade_ts": 1784496282
   }
  },
  "positions": [
@@ -11935,5 +11942,5 @@
   }
  ],
  "total_pnl": -1328.3691000000001,
- "last_updated": "2026-07-19T21:20:35.844623+00:00"
+ "last_updated": "2026-07-19T21:30:43.859821+00:00"
 }
