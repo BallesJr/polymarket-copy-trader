@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8571.6310584,
+ "bankroll": 8471.6310584,
  "last_seen": {
-  "jtwyslljy": 1784460102,
+  "jtwyslljy": 1784480440,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5633,6 +5633,13 @@
    "BUY",
    39,
    1784460102
+  ],
+  [
+   "0x3042d60fc082ecf23841fb399fc4a494119198e2da4a1b41d8eddb9a9d457172",
+   "68670360388233769718605080078027989374732396020019589146132197286593549244794",
+   "BUY",
+   3184.28,
+   1784480440
   ]
  ],
  "leader_pos": {
@@ -7975,6 +7982,18 @@
    "cost": 4901.06,
    "max_shares": 8039.0,
    "last_trade_ts": 1784460102
+  },
+  "jtwyslljy|68670360388233769718605080078027989374732396020019589146132197286593549244794": {
+   "leader": "jtwyslljy",
+   "asset": "68670360388233769718605080078027989374732396020019589146132197286593549244794",
+   "condition_id": "0xddd44ef70ca3dd4be63d369fd4a63b8ff097d7a25041f83c35c79444cd6440b6",
+   "title": "Athens Open: Barbora Krejcikova vs Maria Sakkari",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-krejcik-sakkari-2026-07-19",
+   "shares": 3184.28,
+   "cost": 1401.0832,
+   "max_shares": 3184.28,
+   "last_trade_ts": 1784480440
   }
  },
  "positions": [
@@ -8012,6 +8031,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68670360388233769718605080078027989374732396020019589146132197286593549244794",
+   "condition_id": "0xddd44ef70ca3dd4be63d369fd4a63b8ff097d7a25041f83c35c79444cd6440b6",
+   "title": "Athens Open: Barbora Krejcikova vs Maria Sakkari",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-krejcik-sakkari-2026-07-19",
+   "opened_at": "2026-07-19T17:00:52.554373+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 1401.08,
+   "copy_delay_min": 0.2,
+   "best_ask": 0.45,
+   "ask_depth": 8401.75,
    "status": "open"
   }
  ],
@@ -11603,5 +11640,5 @@
   }
  ],
  "total_pnl": -1228.3691000000001,
- "last_updated": "2026-07-19T12:40:37.225827+00:00"
+ "last_updated": "2026-07-19T17:00:53.198648+00:00"
 }
