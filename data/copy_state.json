@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8238.389158400001,
+ "bankroll": 8537.4586584,
  "last_seen": {
   "jtwyslljy": 1784497941,
   "0x53757615de": 1784324596
@@ -8283,60 +8283,6 @@
    "best_ask": 0.38,
    "ask_depth": 8966.72,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "2079772460783102876680714723754512283737636997253510656470916509423373186373",
-   "condition_id": "0x193e33849333d3967321947d16045b3352e37a06606e091e21dd6e1ffcf6c289",
-   "title": "Argentina to win the second half?",
-   "outcome": "No",
-   "slug": "fifwc-esp-arg-2026-07-19-second-half-result",
-   "opened_at": "2026-07-19T18:00:52.411419+00:00",
-   "entry_price": 0.74,
-   "shares": 135.1351,
-   "stake": 100.0,
-   "leader_vwap": 0.73,
-   "leader_cost": 1585.82,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.74,
-   "ask_depth": 2824.88,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
-   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-   "title": "Spain vs. Argentina: Team to Advance",
-   "outcome": "Spain",
-   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
-   "opened_at": "2026-07-19T19:20:33.180842+00:00",
-   "entry_price": 0.61,
-   "shares": 163.9344,
-   "stake": 100.0,
-   "leader_vwap": 0.5997,
-   "leader_cost": 5997.49,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.61,
-   "ask_depth": 38839.63,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "59470269118682771304947535994646971819417763580663925170396066961563339373816",
-   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-   "title": "Spain vs. Argentina: Team to Advance",
-   "outcome": "Argentina",
-   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
-   "opened_at": "2026-07-19T21:20:35.208615+00:00",
-   "entry_price": 0.295,
-   "shares": 338.9831,
-   "stake": 100.0,
-   "leader_vwap": 0.2769,
-   "leader_cost": 3092.73,
-   "copy_delay_min": 5.8,
-   "best_ask": 0.295,
-   "ask_depth": 133383.62,
-   "status": "open"
   }
  ],
  "closed": [
@@ -11719,6 +11665,72 @@
    "exit_price": 1.0,
    "pnl": 166.7581,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2079772460783102876680714723754512283737636997253510656470916509423373186373",
+   "condition_id": "0x193e33849333d3967321947d16045b3352e37a06606e091e21dd6e1ffcf6c289",
+   "title": "Argentina to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-arg-2026-07-19-second-half-result",
+   "opened_at": "2026-07-19T18:00:52.411419+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 1585.82,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.74,
+   "ask_depth": 2824.88,
+   "status": "won",
+   "closed_at": "2026-07-19T22:40:35.737901+00:00",
+   "exit_price": 1.0,
+   "pnl": 35.1351,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+   "title": "Spain vs. Argentina: Team to Advance",
+   "outcome": "Spain",
+   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
+   "opened_at": "2026-07-19T19:20:33.180842+00:00",
+   "entry_price": 0.61,
+   "shares": 163.9344,
+   "stake": 100.0,
+   "leader_vwap": 0.5997,
+   "leader_cost": 5997.49,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.61,
+   "ask_depth": 38839.63,
+   "status": "won",
+   "closed_at": "2026-07-19T22:40:36.018167+00:00",
+   "exit_price": 1.0,
+   "pnl": 63.9344,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "59470269118682771304947535994646971819417763580663925170396066961563339373816",
+   "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+   "title": "Spain vs. Argentina: Team to Advance",
+   "outcome": "Argentina",
+   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
+   "opened_at": "2026-07-19T21:20:35.208615+00:00",
+   "entry_price": 0.295,
+   "shares": 338.9831,
+   "stake": 100.0,
+   "leader_vwap": 0.2769,
+   "leader_cost": 3092.73,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.295,
+   "ask_depth": 133383.62,
+   "status": "lost",
+   "closed_at": "2026-07-19T22:40:36.319705+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11980,6 +11992,6 @@
    "outcome": "Miami Marlins"
   }
  ],
- "total_pnl": -1161.611,
- "last_updated": "2026-07-19T22:30:46.899022+00:00"
+ "total_pnl": -1162.5415,
+ "last_updated": "2026-07-19T22:40:36.320751+00:00"
 }
