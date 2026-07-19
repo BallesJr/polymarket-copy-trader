@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7971.6310584,
+ "bankroll": 8238.389158400001,
  "last_seen": {
   "jtwyslljy": 1784497941,
   "0x53757615de": 1784324596
@@ -8322,24 +8322,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "100899066788087264896991245177978653395891419153169248929857538839728453964270",
-   "condition_id": "0x854bcfd889801952e4926a4375763c666e64e93e51d9cf2f3f16e3621542fc15",
-   "title": "Spain vs. Argentina: O/U 0.5",
-   "outcome": "Under",
-   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
-   "opened_at": "2026-07-19T20:39:45.328807+00:00",
-   "entry_price": 0.3749,
-   "shares": 266.7581,
-   "stake": 100.0,
-   "leader_vwap": 0.2956,
-   "leader_cost": 1740.73,
-   "copy_delay_min": 6.9,
-   "best_ask": 0.3725,
-   "ask_depth": 13.72,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "59470269118682771304947535994646971819417763580663925170396066961563339373816",
    "condition_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
    "title": "Spain vs. Argentina: Team to Advance",
@@ -11715,6 +11697,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100899066788087264896991245177978653395891419153169248929857538839728453964270",
+   "condition_id": "0x854bcfd889801952e4926a4375763c666e64e93e51d9cf2f3f16e3621542fc15",
+   "title": "Spain vs. Argentina: O/U 0.5",
+   "outcome": "Under",
+   "slug": "fifwc-esp-arg-2026-07-19-more-markets",
+   "opened_at": "2026-07-19T20:39:45.328807+00:00",
+   "entry_price": 0.3749,
+   "shares": 266.7581,
+   "stake": 100.0,
+   "leader_vwap": 0.2956,
+   "leader_cost": 1740.73,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.3725,
+   "ask_depth": 13.72,
+   "status": "won",
+   "closed_at": "2026-07-19T22:30:46.586738+00:00",
+   "exit_price": 1.0,
+   "pnl": 166.7581,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11976,6 +11980,6 @@
    "outcome": "Miami Marlins"
   }
  ],
- "total_pnl": -1328.3691000000001,
- "last_updated": "2026-07-19T22:00:49.318281+00:00"
+ "total_pnl": -1161.611,
+ "last_updated": "2026-07-19T22:30:46.899022+00:00"
 }
