@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8371.6310584,
+ "bankroll": 8271.6310584,
  "last_seen": {
-  "jtwyslljy": 1784480566,
+  "jtwyslljy": 1784483374,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5661,6 +5661,13 @@
    "BUY",
    1000,
    1784480566
+  ],
+  [
+   "0xeede4dba5a6d4a56ab19f31c242d4840a6373c9aa4195ae37423b0bc2713ad49",
+   "2079772460783102876680714723754512283737636997253510656470916509423373186373",
+   "BUY",
+   2172.35,
+   1784483374
   ]
  ],
  "leader_pos": {
@@ -8027,6 +8034,18 @@
    "cost": 3420.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1784480566
+  },
+  "jtwyslljy|2079772460783102876680714723754512283737636997253510656470916509423373186373": {
+   "leader": "jtwyslljy",
+   "asset": "2079772460783102876680714723754512283737636997253510656470916509423373186373",
+   "condition_id": "0x193e33849333d3967321947d16045b3352e37a06606e091e21dd6e1ffcf6c289",
+   "title": "Argentina to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-arg-2026-07-19-second-half-result",
+   "shares": 2172.35,
+   "cost": 1585.8155,
+   "max_shares": 2172.35,
+   "last_trade_ts": 1784483374
   }
  },
  "positions": [
@@ -8100,6 +8119,24 @@
    "copy_delay_min": 7.7,
    "best_ask": 0.38,
    "ask_depth": 8966.72,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2079772460783102876680714723754512283737636997253510656470916509423373186373",
+   "condition_id": "0x193e33849333d3967321947d16045b3352e37a06606e091e21dd6e1ffcf6c289",
+   "title": "Argentina to win the second half?",
+   "outcome": "No",
+   "slug": "fifwc-esp-arg-2026-07-19-second-half-result",
+   "opened_at": "2026-07-19T18:00:52.411419+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 1585.82,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.74,
+   "ask_depth": 2824.88,
    "status": "open"
   }
  ],
@@ -11691,5 +11728,5 @@
   }
  ],
  "total_pnl": -1228.3691000000001,
- "last_updated": "2026-07-19T17:10:30.847546+00:00"
+ "last_updated": "2026-07-19T18:00:52.916490+00:00"
 }
