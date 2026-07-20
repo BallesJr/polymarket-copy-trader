@@ -8231,24 +8231,6 @@
  },
  "positions": [
   {
-   "leader": "0x53757615de",
-   "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
-   "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-   "title": "Will Argentina win the 2026 FIFA World Cup?",
-   "outcome": "Yes",
-   "slug": "world-cup-winner",
-   "opened_at": "2026-07-04T04:22:37.913595+00:00",
-   "entry_price": 0.177,
-   "shares": 564.9718,
-   "stake": 100.0,
-   "leader_vwap": 0.171,
-   "leader_cost": 874.49,
-   "copy_delay_min": 120.8,
-   "best_ask": 0.177,
-   "ask_depth": 62420.2,
-   "status": "open"
-  },
-  {
    "leader": "jtwyslljy",
    "asset": "88071826543365117504496343038354159648076254276823928049229500655309670865588",
    "condition_id": "0x59bd255a6b59d96cd1080858a5c47f4c9c872d2c55548ecaab088e0faa3c811c",
@@ -11731,6 +11713,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+   "condition_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+   "title": "Will Argentina win the 2026 FIFA World Cup?",
+   "outcome": "Yes",
+   "slug": "world-cup-winner",
+   "opened_at": "2026-07-04T04:22:37.913595+00:00",
+   "entry_price": 0.177,
+   "shares": 564.9718,
+   "stake": 100.0,
+   "leader_vwap": 0.171,
+   "leader_cost": 874.49,
+   "copy_delay_min": 120.8,
+   "best_ask": 0.177,
+   "ask_depth": 62420.2,
+   "status": "lost",
+   "closed_at": "2026-07-20T01:40:35.573212+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11992,6 +11996,6 @@
    "outcome": "Miami Marlins"
   }
  ],
- "total_pnl": -1162.5415,
- "last_updated": "2026-07-19T22:40:36.320751+00:00"
+ "total_pnl": -1262.5415,
+ "last_updated": "2026-07-20T01:40:35.841119+00:00"
 }
