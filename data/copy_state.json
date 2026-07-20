@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8800.616558400001,
+ "bankroll": 8700.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784497941,
+  "jtwyslljy": 1784545477,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5801,6 +5801,13 @@
    "BUY",
    1604.67,
    1784497941
+  ],
+  [
+   "0x32092db2385373822377cbda72d78f389e831edde09b72141723d9bd95bd5fcf",
+   "62659139656549751245495227854320354281833681748573079343157504056177781601562",
+   "BUY",
+   4000,
+   1784545477
   ]
  ],
  "leader_pos": {
@@ -8227,6 +8234,18 @@
    "cost": 6885.235099803202,
    "max_shares": 43413.479999999996,
    "last_trade_ts": 1784497941
+  },
+  "jtwyslljy|62659139656549751245495227854320354281833681748573079343157504056177781601562": {
+   "leader": "jtwyslljy",
+   "asset": "62659139656549751245495227854320354281833681748573079343157504056177781601562",
+   "condition_id": "0x38fb3da657b9ccd009e1510c46e6c4728a3c9e6d4d43a781c9cd73bf521b4918",
+   "title": "Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-droguet-carabel-2026-07-20",
+   "shares": 4000.0,
+   "cost": 2120.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1784545477
   }
  },
  "positions": [
@@ -8246,6 +8265,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62659139656549751245495227854320354281833681748573079343157504056177781601562",
+   "condition_id": "0x38fb3da657b9ccd009e1510c46e6c4728a3c9e6d4d43a781c9cd73bf521b4918",
+   "title": "Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-droguet-carabel-2026-07-20",
+   "opened_at": "2026-07-20T11:10:30.649452+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2120.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.53,
+   "ask_depth": 22020.45,
    "status": "open"
   }
  ],
@@ -12001,5 +12038,5 @@
   }
  ],
  "total_pnl": -1099.3836000000001,
- "last_updated": "2026-07-20T10:00:57.022542+00:00"
+ "last_updated": "2026-07-20T11:10:31.121108+00:00"
 }
