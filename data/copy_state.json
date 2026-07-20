@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8537.4586584,
+ "bankroll": 8800.616558400001,
  "last_seen": {
   "jtwyslljy": 1784497941,
   "0x53757615de": 1784324596
@@ -8247,24 +8247,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "8324558822550589420279597612770037873272482670297057944695843684959546272150",
-   "condition_id": "0xcfdbf84515096ab58349adfdf7cc61cd8febf5fd42030f48286f92d2f46a6437",
-   "title": "Iasi Open: Mayar Sherif vs Paula Badosa",
-   "outcome": "Mayar Sherif",
-   "slug": "wta-sherif-badosa-2026-07-19",
-   "opened_at": "2026-07-19T17:10:30.304051+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 3420.0,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.38,
-   "ask_depth": 8966.72,
-   "status": "open"
   }
  ],
  "closed": [
@@ -11735,6 +11717,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8324558822550589420279597612770037873272482670297057944695843684959546272150",
+   "condition_id": "0xcfdbf84515096ab58349adfdf7cc61cd8febf5fd42030f48286f92d2f46a6437",
+   "title": "Iasi Open: Mayar Sherif vs Paula Badosa",
+   "outcome": "Mayar Sherif",
+   "slug": "wta-sherif-badosa-2026-07-19",
+   "opened_at": "2026-07-19T17:10:30.304051+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3420.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.38,
+   "ask_depth": 8966.72,
+   "status": "won",
+   "closed_at": "2026-07-20T10:00:57.021523+00:00",
+   "exit_price": 1.0,
+   "pnl": 163.1579,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -11996,6 +12000,6 @@
    "outcome": "Miami Marlins"
   }
  ],
- "total_pnl": -1262.5415,
- "last_updated": "2026-07-20T01:40:35.841119+00:00"
+ "total_pnl": -1099.3836000000001,
+ "last_updated": "2026-07-20T10:00:57.022542+00:00"
 }
