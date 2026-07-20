@@ -8367,24 +8367,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "98203256382280208418190843602260521683354589626388141727856266964934799652740",
-   "condition_id": "0xb1b7e274700ba49508121b63bda92a8a2838cea68caddcb1636750769e82523d",
-   "title": "Generali Open: Vit Kopriva vs Ignacio Buse",
-   "outcome": "Vit Kopriva",
-   "slug": "atp-kopriva-buse-2026-07-20",
-   "opened_at": "2026-07-20T15:30:44.923149+00:00",
-   "entry_price": 0.15,
-   "shares": 666.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.15,
-   "leader_cost": 3000.0,
-   "copy_delay_min": 0.1,
-   "best_ask": 0.15,
-   "ask_depth": 13895.4,
-   "status": "open"
   }
  ],
  "closed": [
@@ -11899,6 +11881,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98203256382280208418190843602260521683354589626388141727856266964934799652740",
+   "condition_id": "0xb1b7e274700ba49508121b63bda92a8a2838cea68caddcb1636750769e82523d",
+   "title": "Generali Open: Vit Kopriva vs Ignacio Buse",
+   "outcome": "Vit Kopriva",
+   "slug": "atp-kopriva-buse-2026-07-20",
+   "opened_at": "2026-07-20T15:30:44.923149+00:00",
+   "entry_price": 0.15,
+   "shares": 666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 3000.0,
+   "copy_delay_min": 0.1,
+   "best_ask": 0.15,
+   "ask_depth": 13895.4,
+   "status": "lost",
+   "closed_at": "2026-07-20T17:50:29.680095+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12170,6 +12174,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1199.3836000000001,
- "last_updated": "2026-07-20T16:40:38.726436+00:00"
+ "total_pnl": -1299.3836000000001,
+ "last_updated": "2026-07-20T17:50:29.681186+00:00"
 }
