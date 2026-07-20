@@ -8322,24 +8322,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "62659139656549751245495227854320354281833681748573079343157504056177781601562",
-   "condition_id": "0x38fb3da657b9ccd009e1510c46e6c4728a3c9e6d4d43a781c9cd73bf521b4918",
-   "title": "Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli",
-   "outcome": "Camilo Ugo Carabelli",
-   "slug": "atp-droguet-carabel-2026-07-20",
-   "opened_at": "2026-07-20T11:10:30.649452+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 2120.0,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.53,
-   "ask_depth": 22020.45,
-   "status": "open"
   }
  ],
  "closed": [
@@ -11832,6 +11814,28 @@
    "exit_price": 1.0,
    "pnl": 163.1579,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62659139656549751245495227854320354281833681748573079343157504056177781601562",
+   "condition_id": "0x38fb3da657b9ccd009e1510c46e6c4728a3c9e6d4d43a781c9cd73bf521b4918",
+   "title": "Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-droguet-carabel-2026-07-20",
+   "opened_at": "2026-07-20T11:10:30.649452+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2120.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.53,
+   "ask_depth": 22020.45,
+   "status": "lost",
+   "closed_at": "2026-07-20T15:25:40.177683+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12093,6 +12097,6 @@
    "outcome": "Miami Marlins"
   }
  ],
- "total_pnl": -1099.3836000000001,
- "last_updated": "2026-07-20T14:40:32.030887+00:00"
+ "total_pnl": -1199.3836000000001,
+ "last_updated": "2026-07-20T15:25:40.178709+00:00"
 }
