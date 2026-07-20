@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8600.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784561439,
+  "jtwyslljy": 1784565135,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5871,6 +5871,20 @@
    "BUY",
    20000,
    1784561439
+  ],
+  [
+   "0xe5544c7f599b064830de40472f7fd47c3377a881e32d6ee32b5dd66b02aa14ec",
+   "36134855319954907732404195833091632830022107006746626473158627621776070068391",
+   "BUY",
+   2000,
+   1784565117
+  ],
+  [
+   "0x3c53cabd31ce2e7e4b3e84bdd4b6a2159f045f89fe272f6f909ea4300348ef26",
+   "36134855319954907732404195833091632830022107006746626473158627621776070068391",
+   "BUY",
+   164.1,
+   1784565135
   ]
  ],
  "leader_pos": {
@@ -8321,6 +8335,18 @@
    "cost": 3000.0,
    "max_shares": 20000.0,
    "last_trade_ts": 1784561439
+  },
+  "jtwyslljy|36134855319954907732404195833091632830022107006746626473158627621776070068391": {
+   "leader": "jtwyslljy",
+   "asset": "36134855319954907732404195833091632830022107006746626473158627621776070068391",
+   "condition_id": "0xb1b7e274700ba49508121b63bda92a8a2838cea68caddcb1636750769e82523d",
+   "title": "Generali Open: Vit Kopriva vs Ignacio Buse",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-kopriva-buse-2026-07-20",
+   "shares": 2164.1,
+   "cost": 1252.58600000012,
+   "max_shares": 2164.1,
+   "last_trade_ts": 1784565135
   }
  },
  "positions": [
@@ -12132,8 +12158,18 @@
    "leader": "jtwyslljy",
    "title": "Miami Marlins vs. Milwaukee Brewers",
    "outcome": "Miami Marlins"
+  },
+  {
+   "at": "2026-07-20T16:40:38.047247+00:00",
+   "reason": "chase",
+   "ask": 0.74,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.5788,
+   "leader": "jtwyslljy",
+   "title": "Generali Open: Vit Kopriva vs Ignacio Buse",
+   "outcome": "Ignacio Buse"
   }
  ],
  "total_pnl": -1199.3836000000001,
- "last_updated": "2026-07-20T15:30:45.468985+00:00"
+ "last_updated": "2026-07-20T16:40:38.726436+00:00"
 }
