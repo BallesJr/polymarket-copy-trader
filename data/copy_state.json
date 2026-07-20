@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8700.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784555947,
+  "jtwyslljy": 1784556529,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5843,6 +5843,13 @@
    "SELL",
    3000,
    1784555947
+  ],
+  [
+   "0x7101a6b6bc3a3ce8bd874a8562204535a4c8c56897645aa645ba75b02d4a2598",
+   "62659139656549751245495227854320354281833681748573079343157504056177781601562",
+   "BUY",
+   2123.4,
+   1784556529
   ]
  ],
  "leader_pos": {
@@ -8277,10 +8284,10 @@
    "title": "Estoril Open: Titouan Droguet vs Camilo Ugo Carabelli",
    "outcome": "Camilo Ugo Carabelli",
    "slug": "atp-droguet-carabel-2026-07-20",
-   "shares": 10459.630000000001,
-   "cost": 3964.5120000000006,
+   "shares": 12583.03,
+   "cost": 4513.6339999048205,
    "max_shares": 16623.63,
-   "last_trade_ts": 1784555947
+   "last_trade_ts": 1784556529
   }
  },
  "positions": [
@@ -12073,5 +12080,5 @@
   }
  ],
  "total_pnl": -1099.3836000000001,
- "last_updated": "2026-07-20T14:10:31.777715+00:00"
+ "last_updated": "2026-07-20T14:20:35.704210+00:00"
 }
