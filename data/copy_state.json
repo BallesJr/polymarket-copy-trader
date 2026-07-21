@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8465.1532244,
+ "bankroll": 8510.607764400002,
  "last_seen": {
-  "jtwyslljy": 1784640976,
+  "jtwyslljy": 1784641513,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6032,6 +6032,20 @@
    "SELL",
    1806.44,
    1784640976
+  ],
+  [
+   "0x4e651a773bc024e42a0277eb3850af0aad4f8c5474e62a2356b5404a375cec27",
+   "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "SELL",
+   5000,
+   1784641497
+  ],
+  [
+   "0x915ef864c42ece14bd02349bfec309f5d596008b4c5674d9cba54e6c31627049",
+   "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "BUY",
+   42.92,
+   1784641513
   ]
  ],
  "leader_pos": {
@@ -8514,10 +8528,10 @@
    "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
    "outcome": "Sebastian Ofner",
    "slug": "atp-molcan-ofner-2026-07-20",
-   "shares": 8000.0,
-   "cost": 3520.0,
+   "shares": 3042.92,
+   "cost": 2281.1592,
    "max_shares": 8000.0,
-   "last_trade_ts": 1784625745
+   "last_trade_ts": 1784641513
   },
   "jtwyslljy|71568010075885628598583163197908871283414798210510618882836990321663654223617": {
    "leader": "jtwyslljy",
@@ -8625,24 +8639,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
-   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
-   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
-   "outcome": "Sebastian Ofner",
-   "slug": "atp-molcan-ofner-2026-07-20",
-   "opened_at": "2026-07-21T09:30:35.391378+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 3520.0,
-   "copy_delay_min": 8.2,
-   "best_ask": 0.44,
-   "ask_depth": 910.25,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
    "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
    "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
@@ -8675,24 +8671,6 @@
    "copy_delay_min": 3.5,
    "best_ask": 0.4,
    "ask_depth": 22331.55,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "35957627801766579732149102900397310259677510280516902781662727118773482555894",
-   "condition_id": "0xf4f538304bef6daf89c3b7288eacaac7ca7b0f2e9acc8f25b2b1033fc352bc90",
-   "title": "Generali Open: Sebastian Baez vs Miomir Kecmanovic",
-   "outcome": "Miomir Kecmanovic",
-   "slug": "atp-baez-kecmano-2026-07-20",
-   "opened_at": "2026-07-21T13:10:26.576854+00:00",
-   "entry_price": 0.0832,
-   "shares": 1201.98,
-   "stake": 100.0,
-   "leader_vwap": 0.1083,
-   "leader_cost": 1230.95,
-   "copy_delay_min": 4.1,
-   "best_ask": 0.06,
-   "ask_depth": 124.4,
    "status": "open"
   }
  ],
@@ -12340,6 +12318,50 @@
    "exit_price": 0.999,
    "pnl": 149.75,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
+   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
+   "outcome": "Sebastian Ofner",
+   "slug": "atp-molcan-ofner-2026-07-20",
+   "opened_at": "2026-07-21T09:30:35.391378+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 3520.0,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.44,
+   "ask_depth": 910.25,
+   "status": "closed",
+   "closed_at": "2026-07-21T13:50:29.510716+00:00",
+   "exit_price": 0.2,
+   "pnl": -54.5455,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "condition_id": "0xf4f538304bef6daf89c3b7288eacaac7ca7b0f2e9acc8f25b2b1033fc352bc90",
+   "title": "Generali Open: Sebastian Baez vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-baez-kecmano-2026-07-20",
+   "opened_at": "2026-07-21T13:10:26.576854+00:00",
+   "entry_price": 0.0832,
+   "shares": 1201.98,
+   "stake": 100.0,
+   "leader_vwap": 0.1083,
+   "leader_cost": 1230.95,
+   "copy_delay_min": 4.1,
+   "best_ask": 0.06,
+   "ask_depth": 124.4,
+   "status": "lost",
+   "closed_at": "2026-07-21T13:50:30.379740+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12611,6 +12633,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1034.8469000000002,
- "last_updated": "2026-07-21T13:40:28.718110+00:00"
+ "total_pnl": -1189.3924000000002,
+ "last_updated": "2026-07-21T13:50:30.380430+00:00"
 }
