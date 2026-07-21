@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8394.7341584,
+ "bankroll": 8194.7341584,
  "last_seen": {
-  "jtwyslljy": 1784631628,
+  "jtwyslljy": 1784631916,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5955,6 +5955,20 @@
    "BUY",
    709.26,
    1784631628
+  ],
+  [
+   "0x17384c6232c3111171434d7fd8148d475cf2a83a61e43ffada2caa590c95dabe",
+   "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "BUY",
+   7999.99,
+   1784631696
+  ],
+  [
+   "0x2fc02b1a35b8295100b13263c87825913556d71fea1eff6ef89449aa68e30700",
+   "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "BUY",
+   3322,
+   1784631916
   ]
  ],
  "leader_pos": {
@@ -8485,10 +8499,22 @@
    "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
    "outcome": "Vilius Gaubas",
    "slug": "atp-gaubas-busta-2026-07-20",
-   "shares": 709.26,
-   "cost": 212.778,
-   "max_shares": 709.26,
-   "last_trade_ts": 1784631628
+   "shares": 4031.26,
+   "cost": 1242.598,
+   "max_shares": 4031.26,
+   "last_trade_ts": 1784631916
+  },
+  "jtwyslljy|32115979187210926149951699386601190847975881866928013883095379542505475138476": {
+   "leader": "jtwyslljy",
+   "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
+   "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
+   "outcome": "Stan Wawrinka",
+   "slug": "atp-wawrink-burruch-2026-07-20",
+   "shares": 7999.99,
+   "cost": 2719.9966,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1784631696
   }
  },
  "positions": [
@@ -8562,6 +8588,42 @@
    "copy_delay_min": 4.8,
    "best_ask": 0.54,
    "ask_depth": 19008.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
+   "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
+   "outcome": "Stan Wawrinka",
+   "slug": "atp-wawrink-burruch-2026-07-20",
+   "opened_at": "2026-07-21T11:11:11.478299+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 2720.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.34,
+   "ask_depth": 7856.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "condition_id": "0x996d09eab8a4c2444b1fab3aedb87268d8bebe1336f710a21eb4b7186ebba598",
+   "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-gaubas-busta-2026-07-20",
+   "opened_at": "2026-07-21T11:11:11.478401+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3082,
+   "leader_cost": 1242.6,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.31,
+   "ask_depth": 568.3,
    "status": "open"
   }
  ],
@@ -12415,5 +12477,5 @@
   }
  ],
  "total_pnl": -1205.266,
- "last_updated": "2026-07-21T11:00:53.358759+00:00"
+ "last_updated": "2026-07-21T11:11:12.151672+00:00"
 }
