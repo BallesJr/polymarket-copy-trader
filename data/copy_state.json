@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8410.607764400002,
  "last_seen": {
-  "jtwyslljy": 1784642751,
+  "jtwyslljy": 1784643498,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6102,6 +6102,27 @@
    "BUY",
    7804.27,
    1784642751
+  ],
+  [
+   "0x9d768d540accc026c10e503ff34f0870db6d33212c9a6953b1f0df8834ddd060",
+   "86526813532171496682135423085230215319971366312561951752512128289118332701531",
+   "BUY",
+   10000,
+   1784643001
+  ],
+  [
+   "0x433558c715d83436a9603ac83ba164d374da9e77e5c2b0173818967cae5ad861",
+   "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "BUY",
+   5854.18,
+   1784643429
+  ],
+  [
+   "0xa92140cda9abbaa49863c48cbf841e84ab438086227179632425a8dbd547cc0f",
+   "86526813532171496682135423085230215319971366312561951752512128289118332701531",
+   "BUY",
+   5000,
+   1784643498
   ]
  ],
  "leader_pos": {
@@ -8584,10 +8605,10 @@
    "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
    "outcome": "Sebastian Ofner",
    "slug": "atp-molcan-ofner-2026-07-20",
-   "shares": 89595.55000000002,
-   "cost": 22940.011699349405,
-   "max_shares": 89595.55000000002,
-   "last_trade_ts": 1784642751
+   "shares": 95449.73000000001,
+   "cost": 23349.804299349405,
+   "max_shares": 95449.73000000001,
+   "last_trade_ts": 1784643429
   },
   "jtwyslljy|71568010075885628598583163197908871283414798210510618882836990321663654223617": {
    "leader": "jtwyslljy",
@@ -8672,6 +8693,18 @@
    "cost": 1230.9509,
    "max_shares": 11365.01,
    "last_trade_ts": 1784639179
+  },
+  "jtwyslljy|86526813532171496682135423085230215319971366312561951752512128289118332701531": {
+   "leader": "jtwyslljy",
+   "asset": "86526813532171496682135423085230215319971366312561951752512128289118332701531",
+   "condition_id": "0x20d4b70d442cfeadc11a9ab9738488043974135505b59576470069521f6ba37a",
+   "title": "Estoril Open: Hugo Gaston vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-gaston-dzumhur-2026-07-20",
+   "shares": 15000.0,
+   "cost": 2900.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1784643498
   }
  },
  "positions": [
@@ -12705,8 +12738,16 @@
    "leader": "jtwyslljy",
    "title": "Generali Open: Vit Kopriva vs Ignacio Buse",
    "outcome": "Ignacio Buse"
+  },
+  {
+   "at": "2026-07-21T14:20:38.951157+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": 0.01,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Hugo Gaston vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": -1189.3924000000002,
- "last_updated": "2026-07-21T14:10:30.738031+00:00"
+ "last_updated": "2026-07-21T14:20:39.564537+00:00"
 }
