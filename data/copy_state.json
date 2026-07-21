@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8194.7341584,
+ "bankroll": 8230.218024400001,
  "last_seen": {
-  "jtwyslljy": 1784631916,
+  "jtwyslljy": 1784632909,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5969,6 +5969,13 @@
    "BUY",
    3322,
    1784631916
+  ],
+  [
+   "0x6ada81ab431e0a99c61be060180bccbb823f25ac0fd53f876ee0da10b934a5d0",
+   "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "SELL",
+   5000.25,
+   1784632909
   ]
  ],
  "leader_pos": {
@@ -8499,10 +8506,10 @@
    "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
    "outcome": "Vilius Gaubas",
    "slug": "atp-gaubas-busta-2026-07-20",
-   "shares": 4031.26,
-   "cost": 1242.598,
+   "shares": -968.9899999999998,
+   "cost": 692.5704999999999,
    "max_shares": 4031.26,
-   "last_trade_ts": 1784631916
+   "last_trade_ts": 1784632909
   },
   "jtwyslljy|32115979187210926149951699386601190847975881866928013883095379542505475138476": {
    "leader": "jtwyslljy",
@@ -8606,24 +8613,6 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.34,
    "ask_depth": 7856.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "12280209310830765516041422661994927555253460680868833912896938127326897305043",
-   "condition_id": "0x996d09eab8a4c2444b1fab3aedb87268d8bebe1336f710a21eb4b7186ebba598",
-   "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
-   "outcome": "Vilius Gaubas",
-   "slug": "atp-gaubas-busta-2026-07-20",
-   "opened_at": "2026-07-21T11:11:11.478401+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3082,
-   "leader_cost": 1242.6,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.31,
-   "ask_depth": 568.3,
    "status": "open"
   }
  ],
@@ -12205,6 +12194,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "condition_id": "0x996d09eab8a4c2444b1fab3aedb87268d8bebe1336f710a21eb4b7186ebba598",
+   "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-gaubas-busta-2026-07-20",
+   "opened_at": "2026-07-21T11:11:11.478401+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3082,
+   "leader_cost": 1242.6,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.31,
+   "ask_depth": 568.3,
+   "status": "closed",
+   "closed_at": "2026-07-21T11:30:38.937591+00:00",
+   "exit_price": 0.11,
+   "pnl": -64.5161,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -12476,6 +12487,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1205.266,
- "last_updated": "2026-07-21T11:11:12.151672+00:00"
+ "total_pnl": -1269.7821000000001,
+ "last_updated": "2026-07-21T11:30:39.563883+00:00"
 }
