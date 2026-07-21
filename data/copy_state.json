@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8332.145410000001,
+ "bankroll": 8490.875610000001,
  "last_seen": {
   "jtwyslljy": 1784654922,
   "0x53757615de": 1784324596
@@ -8875,24 +8875,6 @@
    "best_ask": 0.39,
    "ask_depth": 7307.08,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "70140943404160458374470217514539126920286110578454258125351354352855133574557",
-   "condition_id": "0x0f568c8c8d439b13109756e84266ec36ea3ab87680e36dc5250842f56e987102",
-   "title": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
-   "outcome": "Jaime Faria",
-   "slug": "atp-zandsch-faria-2026-07-20",
-   "opened_at": "2026-07-21T16:50:28.853606+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.63,
-   "leader_cost": 3150.0,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.63,
-   "ask_depth": 10640.2,
-   "status": "open"
   }
  ],
  "closed": [
@@ -12693,6 +12675,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70140943404160458374470217514539126920286110578454258125351354352855133574557",
+   "condition_id": "0x0f568c8c8d439b13109756e84266ec36ea3ab87680e36dc5250842f56e987102",
+   "title": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
+   "outcome": "Jaime Faria",
+   "slug": "atp-zandsch-faria-2026-07-20",
+   "opened_at": "2026-07-21T16:50:28.853606+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.63,
+   "leader_cost": 3150.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.63,
+   "ask_depth": 10640.2,
+   "status": "won",
+   "closed_at": "2026-07-21T19:20:25.536376+00:00",
+   "exit_price": 1.0,
+   "pnl": 58.7302,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12972,6 +12976,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1367.8548,
- "last_updated": "2026-07-21T18:30:35.704450+00:00"
+ "total_pnl": -1309.1246,
+ "last_updated": "2026-07-21T19:20:25.537346+00:00"
 }
