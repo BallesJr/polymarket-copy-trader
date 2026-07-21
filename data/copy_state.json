@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8230.218024400001,
+ "bankroll": 8415.4032244,
  "last_seen": {
   "jtwyslljy": 1784632909,
   "0x53757615de": 1784324596
@@ -8581,24 +8581,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "52863619324389583293591017661797416224477872247253953964596158640824458617515",
-   "condition_id": "0x82d9d2bd41b548eebe1b4c8c66563101048efb81b0711c5b9b29e4556ac26368",
-   "title": "Generali Open: Jan-Lennard Struff vs Alexander Shevchenko",
-   "outcome": "Jan-Lennard Struff",
-   "slug": "atp-struff-shevche-2026-07-20",
-   "opened_at": "2026-07-21T10:30:36.558030+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.4198,
-   "leader_cost": 5144.5,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.54,
-   "ask_depth": 19008.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
    "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
    "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
@@ -12216,6 +12198,28 @@
    "exit_price": 0.11,
    "pnl": -64.5161,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52863619324389583293591017661797416224477872247253953964596158640824458617515",
+   "condition_id": "0x82d9d2bd41b548eebe1b4c8c66563101048efb81b0711c5b9b29e4556ac26368",
+   "title": "Generali Open: Jan-Lennard Struff vs Alexander Shevchenko",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-shevche-2026-07-20",
+   "opened_at": "2026-07-21T10:30:36.558030+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.4198,
+   "leader_cost": 5144.5,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.54,
+   "ask_depth": 19008.0,
+   "status": "won",
+   "closed_at": "2026-07-21T11:50:29.068919+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12487,6 +12491,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1269.7821000000001,
- "last_updated": "2026-07-21T11:30:39.563883+00:00"
+ "total_pnl": -1184.5969000000002,
+ "last_updated": "2026-07-21T11:50:29.069800+00:00"
 }
