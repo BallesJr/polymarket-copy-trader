@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8210.607764400002,
+ "bankroll": 8219.725410000001,
  "last_seen": {
-  "jtwyslljy": 1784650473,
+  "jtwyslljy": 1784651095,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6179,6 +6179,13 @@
    "SELL",
    5000,
    1784650473
+  ],
+  [
+   "0x7e49b6546188565f88386377d66e35fdee0e166d285b3bdf9ea66085c54f904f",
+   "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "SELL",
+   12999.98,
+   1784651095
   ]
  ],
  "leader_pos": {
@@ -8721,10 +8728,10 @@
    "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
    "outcome": "Stan Wawrinka",
    "slug": "atp-wawrink-burruch-2026-07-20",
-   "shares": 8255.0,
-   "cost": 1465.8984,
+   "shares": -4744.98,
+   "cost": 815.8994,
    "max_shares": 13255.0,
-   "last_trade_ts": 1784650473
+   "last_trade_ts": 1784651095
   },
   "jtwyslljy|84310356163928131691987740482609952029164678154010169337509940303188648614489": {
    "leader": "jtwyslljy",
@@ -8804,24 +8811,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
-   "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
-   "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
-   "outcome": "Stan Wawrinka",
-   "slug": "atp-wawrink-burruch-2026-07-20",
-   "opened_at": "2026-07-21T11:11:11.478299+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 2720.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.34,
-   "ask_depth": 7856.42,
    "status": "open"
   },
   {
@@ -12589,6 +12578,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "condition_id": "0x2b8f0876a2339e3ff7e8f39a6caf982ed5faf5c6e5359618acd47e8fee564047",
+   "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
+   "outcome": "Stan Wawrinka",
+   "slug": "atp-wawrink-burruch-2026-07-20",
+   "opened_at": "2026-07-21T11:11:11.478299+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 2720.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.34,
+   "ask_depth": 7856.42,
+   "status": "closed",
+   "closed_at": "2026-07-21T16:30:42.440722+00:00",
+   "exit_price": 0.031,
+   "pnl": -90.8824,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -12868,6 +12879,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1289.3924000000002,
- "last_updated": "2026-07-21T16:20:26.811769+00:00"
+ "total_pnl": -1380.2748000000001,
+ "last_updated": "2026-07-21T16:30:43.148508+00:00"
 }
