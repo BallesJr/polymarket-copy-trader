@@ -8860,24 +8860,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "72582365324744590922251867183218840998150107562988808560898750231753072973499",
-   "condition_id": "0xf8b1fb5877f90a5f0d4668d2144242515879109c82f50b3e75a65fec8e5718c9",
-   "title": "Will \u0160K Slovan Bratislava win on 2026-07-21?",
-   "outcome": "No",
-   "slug": "ucl-sab-sba-2026-07-21",
-   "opened_at": "2026-07-21T15:00:47.663256+00:00",
-   "entry_price": 0.49,
-   "shares": 204.0816,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 1145.36,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.49,
-   "ask_depth": 5119.22,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "5773844645584965470972524022010699106178185952131207760852529475000830684029",
    "condition_id": "0xf7e8178ca9cc1ffe202ac6c9444cf71f11a16f8b50cb0dcf591a6ab675d7383d",
    "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
@@ -12689,6 +12671,28 @@
    "exit_price": 0.1248,
    "pnl": -37.58,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72582365324744590922251867183218840998150107562988808560898750231753072973499",
+   "condition_id": "0xf8b1fb5877f90a5f0d4668d2144242515879109c82f50b3e75a65fec8e5718c9",
+   "title": "Will \u0160K Slovan Bratislava win on 2026-07-21?",
+   "outcome": "No",
+   "slug": "ucl-sab-sba-2026-07-21",
+   "opened_at": "2026-07-21T15:00:47.663256+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 1145.36,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.49,
+   "ask_depth": 5119.22,
+   "status": "lost",
+   "closed_at": "2026-07-21T18:30:35.703087+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12968,6 +12972,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1267.8548,
- "last_updated": "2026-07-21T17:38:32.946566+00:00"
+ "total_pnl": -1367.8548,
+ "last_updated": "2026-07-21T18:30:35.704450+00:00"
 }
