@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8200.616558400001,
+ "bankroll": 8100.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784628735,
+  "jtwyslljy": 1784629545,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5941,6 +5941,13 @@
    "SELL",
    607,
    1784628735
+  ],
+  [
+   "0xc295fb692bf9827050ed4001fe472b8b8522c89f35df22e00ded6cab0443c9f3",
+   "52863619324389583293591017661797416224477872247253953964596158640824458617515",
+   "BUY",
+   12253.33,
+   1784629545
   ]
  ],
  "leader_pos": {
@@ -8451,6 +8458,18 @@
    "cost": 7173.7008000000005,
    "max_shares": 33664.91,
    "last_trade_ts": 1784628735
+  },
+  "jtwyslljy|52863619324389583293591017661797416224477872247253953964596158640824458617515": {
+   "leader": "jtwyslljy",
+   "asset": "52863619324389583293591017661797416224477872247253953964596158640824458617515",
+   "condition_id": "0x82d9d2bd41b548eebe1b4c8c66563101048efb81b0711c5b9b29e4556ac26368",
+   "title": "Generali Open: Jan-Lennard Struff vs Alexander Shevchenko",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-shevche-2026-07-20",
+   "shares": 12253.33,
+   "cost": 5144.498299668948,
+   "max_shares": 12253.33,
+   "last_trade_ts": 1784629545
   }
  },
  "positions": [
@@ -8542,6 +8561,24 @@
    "copy_delay_min": 2.5,
    "best_ask": 0.35,
    "ask_depth": 10.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52863619324389583293591017661797416224477872247253953964596158640824458617515",
+   "condition_id": "0x82d9d2bd41b548eebe1b4c8c66563101048efb81b0711c5b9b29e4556ac26368",
+   "title": "Generali Open: Jan-Lennard Struff vs Alexander Shevchenko",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-shevche-2026-07-20",
+   "opened_at": "2026-07-21T10:30:36.558030+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.4198,
+   "leader_cost": 5144.5,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.54,
+   "ask_depth": 19008.0,
    "status": "open"
   }
  ],
@@ -12351,5 +12388,5 @@
   }
  ],
  "total_pnl": -1299.3836000000001,
- "last_updated": "2026-07-21T10:20:26.172734+00:00"
+ "last_updated": "2026-07-21T10:30:37.075075+00:00"
 }
