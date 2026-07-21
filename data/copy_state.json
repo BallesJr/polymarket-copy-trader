@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8215.4032244,
+ "bankroll": 8465.1532244,
  "last_seen": {
-  "jtwyslljy": 1784639179,
+  "jtwyslljy": 1784640976,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6004,6 +6004,34 @@
    "BUY",
    10000,
    1784639179
+  ],
+  [
+   "0x2837d673e64641f1b53c10b92883de5ef9508e8a1e7f21131119f6c5b559a65e",
+   "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "SELL",
+   302,
+   1784640825
+  ],
+  [
+   "0xd9e1d98a7d17fa05f4f04dd7dbaf84c184d322890f3d1a353e2de14a8dfcd0b1",
+   "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "SELL",
+   4879.84,
+   1784640910
+  ],
+  [
+   "0x7217aa3e832a805705e0d113fe08607781ae37ed57d2ca41a46ec021287247a7",
+   "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "SELL",
+   5000,
+   1784640919
+  ],
+  [
+   "0x7f5ae1167e53cb5e8a39df87e9cb8aef52f8f6257439c324244dc0948b39a2fd",
+   "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "SELL",
+   1806.44,
+   1784640976
   ]
  ],
  "leader_pos": {
@@ -8474,10 +8502,10 @@
    "title": "Generali Open: Laslo Djere vs Quentin Halys",
    "outcome": "Quentin Halys",
    "slug": "atp-djere-halys-2026-07-21",
-   "shares": 8000.0,
-   "cost": 3200.0,
+   "shares": -3988.28,
+   "cost": -7824.041889987892,
    "max_shares": 8000.0,
-   "last_trade_ts": 1784625720
+   "last_trade_ts": 1784640976
   },
   "jtwyslljy|62507332521935367894671318759324823281961935901385489225215211686876137045007": {
    "leader": "jtwyslljy",
@@ -8593,24 +8621,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "34023240755712207581077152888421106566356894201742607290951088376812032713166",
-   "condition_id": "0x7210e69067b1b6ae8275c454a2b0489a0e7bd6cff6203a69e4460635e1877590",
-   "title": "Generali Open: Laslo Djere vs Quentin Halys",
-   "outcome": "Quentin Halys",
-   "slug": "atp-djere-halys-2026-07-21",
-   "opened_at": "2026-07-21T09:30:35.391155+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 3200.0,
-   "copy_delay_min": 8.6,
-   "best_ask": 0.4,
-   "ask_depth": 11430.68,
    "status": "open"
   },
   {
@@ -12308,6 +12318,28 @@
    "exit_price": 1.0,
    "pnl": 85.1852,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "condition_id": "0x7210e69067b1b6ae8275c454a2b0489a0e7bd6cff6203a69e4460635e1877590",
+   "title": "Generali Open: Laslo Djere vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-djere-halys-2026-07-21",
+   "opened_at": "2026-07-21T09:30:35.391155+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.4,
+   "ask_depth": 11430.68,
+   "status": "closed",
+   "closed_at": "2026-07-21T13:40:28.036237+00:00",
+   "exit_price": 0.999,
+   "pnl": 149.75,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -12579,6 +12611,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1184.5969000000002,
- "last_updated": "2026-07-21T13:10:27.081012+00:00"
+ "total_pnl": -1034.8469000000002,
+ "last_updated": "2026-07-21T13:40:28.718110+00:00"
 }
