@@ -8857,24 +8857,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "5773844645584965470972524022010699106178185952131207760852529475000830684029",
-   "condition_id": "0xf7e8178ca9cc1ffe202ac6c9444cf71f11a16f8b50cb0dcf591a6ab675d7383d",
-   "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
-   "outcome": "Fenerbah\u00e7e SK",
-   "slug": "ucl-fen-gor-2026-07-21-more-markets",
-   "opened_at": "2026-07-21T15:20:26.102741+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.3801,
-   "leader_cost": 1900.58,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.39,
-   "ask_depth": 7307.08,
-   "status": "open"
   }
  ],
  "closed": [
@@ -12697,6 +12679,28 @@
    "exit_price": 1.0,
    "pnl": 58.7302,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5773844645584965470972524022010699106178185952131207760852529475000830684029",
+   "condition_id": "0xf7e8178ca9cc1ffe202ac6c9444cf71f11a16f8b50cb0dcf591a6ab675d7383d",
+   "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
+   "outcome": "Fenerbah\u00e7e SK",
+   "slug": "ucl-fen-gor-2026-07-21-more-markets",
+   "opened_at": "2026-07-21T15:20:26.102741+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.3801,
+   "leader_cost": 1900.58,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.39,
+   "ask_depth": 7307.08,
+   "status": "lost",
+   "closed_at": "2026-07-21T20:20:25.726716+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12976,6 +12980,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1309.1246,
- "last_updated": "2026-07-21T19:20:25.537346+00:00"
+ "total_pnl": -1409.1246,
+ "last_updated": "2026-07-21T20:20:25.727706+00:00"
 }
