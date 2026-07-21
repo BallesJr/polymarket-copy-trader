@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8369.725410000001,
+ "bankroll": 8269.725410000001,
  "last_seen": {
-  "jtwyslljy": 1784652042,
+  "jtwyslljy": 1784654776,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6193,6 +6193,13 @@
    "BUY",
    5000,
    1784652042
+  ],
+  [
+   "0xeaa680e2ff54e35fa24ebe6f602fbad4ce79bffec8f51d69c8801b1efb7fddaa",
+   "31871796057840131343988693038845974513394216428521994904895989217671670326385",
+   "BUY",
+   14999.99,
+   1784654776
   ]
  ],
  "leader_pos": {
@@ -8811,6 +8818,18 @@
    "cost": 3150.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1784652042
+  },
+  "jtwyslljy|31871796057840131343988693038845974513394216428521994904895989217671670326385": {
+   "leader": "jtwyslljy",
+   "asset": "31871796057840131343988693038845974513394216428521994904895989217671670326385",
+   "condition_id": "0x0f568c8c8d439b13109756e84266ec36ea3ab87680e36dc5250842f56e987102",
+   "title": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-faria-2026-07-20",
+   "shares": 14999.99,
+   "cost": 4796.746800166668,
+   "max_shares": 14999.99,
+   "last_trade_ts": 1784654776
   }
  },
  "positions": [
@@ -8884,6 +8903,24 @@
    "copy_delay_min": 9.8,
    "best_ask": 0.63,
    "ask_depth": 10640.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31871796057840131343988693038845974513394216428521994904895989217671670326385",
+   "condition_id": "0x0f568c8c8d439b13109756e84266ec36ea3ab87680e36dc5250842f56e987102",
+   "title": "Estoril Open: Botic van de Zandschulp vs Jaime Faria",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-faria-2026-07-20",
+   "opened_at": "2026-07-21T17:30:36.177841+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.3198,
+   "leader_cost": 4796.75,
+   "copy_delay_min": 4.3,
+   "best_ask": 0.2,
+   "ask_depth": 21653.36,
    "status": "open"
   }
  ],
@@ -12921,5 +12958,5 @@
   }
  ],
  "total_pnl": -1230.2748000000001,
- "last_updated": "2026-07-21T17:10:28.034462+00:00"
+ "last_updated": "2026-07-21T17:30:36.738388+00:00"
 }
