@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8200.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784627584,
+  "jtwyslljy": 1784627914,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5920,6 +5920,13 @@
    "BUY",
    13058.28,
    1784627584
+  ],
+  [
+   "0xa7df2080d1bfb139b899a475f70fa2755fc54a15d20c874081496c85a41974d0",
+   "38550773660998330340958371723379282883243215417053112046272712930351965938712",
+   "BUY",
+   2000,
+   1784627914
   ]
  ],
  "leader_pos": {
@@ -8426,10 +8433,10 @@
    "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
    "outcome": "Juan Manuel Cerundolo",
    "slug": "atp-cerund-trungel-2026-07-20",
-   "shares": 13058.28,
-   "cost": 4439.815200000001,
-   "max_shares": 13058.28,
-   "last_trade_ts": 1784627584
+   "shares": 15058.28,
+   "cost": 5019.815200000001,
+   "max_shares": 15058.28,
+   "last_trade_ts": 1784627914
   }
  },
  "positions": [
@@ -12330,5 +12337,5 @@
   }
  ],
  "total_pnl": -1299.3836000000001,
- "last_updated": "2026-07-21T09:55:35.498964+00:00"
+ "last_updated": "2026-07-21T10:00:48.863302+00:00"
 }
