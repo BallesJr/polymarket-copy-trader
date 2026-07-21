@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8415.4032244,
+ "bankroll": 8315.4032244,
  "last_seen": {
-  "jtwyslljy": 1784632909,
+  "jtwyslljy": 1784636220,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5976,6 +5976,13 @@
    "SELL",
    5000.25,
    1784632909
+  ],
+  [
+   "0xb10e3b0046418126ff705a46599bf59ce493233ebee34116a4064ad579e49088",
+   "84310356163928131691987740482609952029164678154010169337509940303188648614489",
+   "BUY",
+   6000,
+   1784636220
   ]
  ],
  "leader_pos": {
@@ -8522,6 +8529,18 @@
    "cost": 2719.9966,
    "max_shares": 7999.99,
    "last_trade_ts": 1784631696
+  },
+  "jtwyslljy|84310356163928131691987740482609952029164678154010169337509940303188648614489": {
+   "leader": "jtwyslljy",
+   "asset": "84310356163928131691987740482609952029164678154010169337509940303188648614489",
+   "condition_id": "0x8f6425c8e31f9fcefd3e81507959b188d629c2d7236001589b607f363d277b6b",
+   "title": "Generali Open: Daniel Altmaier vs Raphael Collignon",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-collign-2026-07-20",
+   "shares": 6000.0,
+   "cost": 2340.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1784636220
   }
  },
  "positions": [
@@ -8595,6 +8614,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.34,
    "ask_depth": 7856.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84310356163928131691987740482609952029164678154010169337509940303188648614489",
+   "condition_id": "0x8f6425c8e31f9fcefd3e81507959b188d629c2d7236001589b607f363d277b6b",
+   "title": "Generali Open: Daniel Altmaier vs Raphael Collignon",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-collign-2026-07-20",
+   "opened_at": "2026-07-21T12:20:31.302977+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.4,
+   "ask_depth": 22331.55,
    "status": "open"
   }
  ],
@@ -12492,5 +12529,5 @@
   }
  ],
  "total_pnl": -1184.5969000000002,
- "last_updated": "2026-07-21T11:50:29.069800+00:00"
+ "last_updated": "2026-07-21T12:20:32.052699+00:00"
 }
