@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8310.607764400002,
+ "bankroll": 8210.607764400002,
  "last_seen": {
-  "jtwyslljy": 1784645469,
+  "jtwyslljy": 1784646961,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6137,6 +6137,27 @@
    "BUY",
    2386.17,
    1784645469
+  ],
+  [
+   "0x6160a3913c0fb114b492264e9f14c18cbc9bb6f2fe4602e72e9f94ed9cdd8b4d",
+   "5773844645584965470972524022010699106178185952131207760852529475000830684029",
+   "BUY",
+   4935.85,
+   1784646796
+  ],
+  [
+   "0x6df4724b96f4595b669db652251501ac51f962822f9cd97fce833e0a7bd2a59b",
+   "5773844645584965470972524022010699106178185952131207760852529475000830684029",
+   "BUY",
+   64,
+   1784646903
+  ],
+  [
+   "0x50608e22e657c6a165200e6952385854135737e2844aaadb8aaea4bd2475f8ae",
+   "32115979187210926149951699386601190847975881866928013883095379542505475138476",
+   "BUY",
+   5255.01,
+   1784646961
   ]
  ],
  "leader_pos": {
@@ -8679,10 +8700,10 @@
    "title": "Estoril Open: Stan Wawrinka vs Roman Andres Burruchaga",
    "outcome": "Stan Wawrinka",
    "slug": "atp-wawrink-burruch-2026-07-20",
-   "shares": 7999.99,
-   "cost": 2719.9966,
-   "max_shares": 7999.99,
-   "last_trade_ts": 1784631696
+   "shares": 13255.0,
+   "cost": 3665.8984,
+   "max_shares": 13255.0,
+   "last_trade_ts": 1784646961
   },
   "jtwyslljy|84310356163928131691987740482609952029164678154010169337509940303188648614489": {
    "leader": "jtwyslljy",
@@ -8731,6 +8752,18 @@
    "cost": 1145.3616,
    "max_shares": 2386.17,
    "last_trade_ts": 1784645469
+  },
+  "jtwyslljy|5773844645584965470972524022010699106178185952131207760852529475000830684029": {
+   "leader": "jtwyslljy",
+   "asset": "5773844645584965470972524022010699106178185952131207760852529475000830684029",
+   "condition_id": "0xf7e8178ca9cc1ffe202ac6c9444cf71f11a16f8b50cb0dcf591a6ab675d7383d",
+   "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
+   "outcome": "Fenerbah\u00e7e SK",
+   "slug": "ucl-fen-gor-2026-07-21-more-markets",
+   "shares": 4999.85,
+   "cost": 1900.583,
+   "max_shares": 4999.85,
+   "last_trade_ts": 1784646903
   }
  },
  "positions": [
@@ -8790,24 +8823,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
-   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
-   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
-   "outcome": "Sebastian Ofner",
-   "slug": "atp-molcan-ofner-2026-07-20",
-   "opened_at": "2026-07-21T14:00:50.999916+00:00",
-   "entry_price": 0.22,
-   "shares": 454.5455,
-   "stake": 100.0,
-   "leader_vwap": 0.2578,
-   "leader_cost": 20407.42,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.22,
-   "ask_depth": 5486.07,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "72582365324744590922251867183218840998150107562988808560898750231753072973499",
    "condition_id": "0xf8b1fb5877f90a5f0d4668d2144242515879109c82f50b3e75a65fec8e5718c9",
    "title": "Will \u0160K Slovan Bratislava win on 2026-07-21?",
@@ -8822,6 +8837,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.49,
    "ask_depth": 5119.22,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5773844645584965470972524022010699106178185952131207760852529475000830684029",
+   "condition_id": "0xf7e8178ca9cc1ffe202ac6c9444cf71f11a16f8b50cb0dcf591a6ab675d7383d",
+   "title": "Spread: Fenerbah\u00e7e SK (-2.5)",
+   "outcome": "Fenerbah\u00e7e SK",
+   "slug": "ucl-fen-gor-2026-07-21-more-markets",
+   "opened_at": "2026-07-21T15:20:26.102741+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.3801,
+   "leader_cost": 1900.58,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.39,
+   "ask_depth": 7307.08,
    "status": "open"
   }
  ],
@@ -12513,6 +12546,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
+   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
+   "outcome": "Sebastian Ofner",
+   "slug": "atp-molcan-ofner-2026-07-20",
+   "opened_at": "2026-07-21T14:00:50.999916+00:00",
+   "entry_price": 0.22,
+   "shares": 454.5455,
+   "stake": 100.0,
+   "leader_vwap": 0.2578,
+   "leader_cost": 20407.42,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.22,
+   "ask_depth": 5486.07,
+   "status": "lost",
+   "closed_at": "2026-07-21T15:20:26.831265+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12792,6 +12847,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1189.3924000000002,
- "last_updated": "2026-07-21T15:00:48.296818+00:00"
+ "total_pnl": -1289.3924000000002,
+ "last_updated": "2026-07-21T15:20:26.832346+00:00"
 }
