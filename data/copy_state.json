@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8600.616558400001,
+ "bankroll": 8300.616558400001,
  "last_seen": {
-  "jtwyslljy": 1784565135,
+  "jtwyslljy": 1784625982,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5885,6 +5885,34 @@
    "BUY",
    164.1,
    1784565135
+  ],
+  [
+   "0xf8303917f925c0c3604f357c8385e36bee1fb12dcad1f67bf457b29fb7e64600",
+   "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "BUY",
+   8000,
+   1784625720
+  ],
+  [
+   "0x1558403647561117b7c5e0cef90455715b25dece08297fc1740c5ef6d8317940",
+   "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "BUY",
+   8000,
+   1784625745
+  ],
+  [
+   "0x8fa4e34d994471c3e92b9506f38365aadda7bc304365f775ed15cfe3b3df24d2",
+   "71568010075885628598583163197908871283414798210510618882836990321663654223617",
+   "BUY",
+   3000,
+   1784625837
+  ],
+  [
+   "0x1c68c8aa6080f608732ebfe3ebb9b56f3d05cfb744fe1be2d0910b88dc25c040",
+   "71568010075885628598583163197908871283414798210510618882836990321663654223617",
+   "BUY",
+   3000,
+   1784625982
   ]
  ],
  "leader_pos": {
@@ -8347,6 +8375,42 @@
    "cost": 1252.58600000012,
    "max_shares": 2164.1,
    "last_trade_ts": 1784565135
+  },
+  "jtwyslljy|34023240755712207581077152888421106566356894201742607290951088376812032713166": {
+   "leader": "jtwyslljy",
+   "asset": "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "condition_id": "0x7210e69067b1b6ae8275c454a2b0489a0e7bd6cff6203a69e4460635e1877590",
+   "title": "Generali Open: Laslo Djere vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-djere-halys-2026-07-21",
+   "shares": 8000.0,
+   "cost": 3200.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784625720
+  },
+  "jtwyslljy|62507332521935367894671318759324823281961935901385489225215211686876137045007": {
+   "leader": "jtwyslljy",
+   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
+   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
+   "outcome": "Sebastian Ofner",
+   "slug": "atp-molcan-ofner-2026-07-20",
+   "shares": 8000.0,
+   "cost": 3520.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784625745
+  },
+  "jtwyslljy|71568010075885628598583163197908871283414798210510618882836990321663654223617": {
+   "leader": "jtwyslljy",
+   "asset": "71568010075885628598583163197908871283414798210510618882836990321663654223617",
+   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
+   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-cerund-trungel-2026-07-20",
+   "shares": 6000.0,
+   "cost": 2190.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1784625982
   }
  },
  "positions": [
@@ -8366,6 +8430,60 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34023240755712207581077152888421106566356894201742607290951088376812032713166",
+   "condition_id": "0x7210e69067b1b6ae8275c454a2b0489a0e7bd6cff6203a69e4460635e1877590",
+   "title": "Generali Open: Laslo Djere vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-djere-halys-2026-07-21",
+   "opened_at": "2026-07-21T09:30:35.391155+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.4,
+   "ask_depth": 11430.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71568010075885628598583163197908871283414798210510618882836990321663654223617",
+   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
+   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-cerund-trungel-2026-07-20",
+   "opened_at": "2026-07-21T09:30:35.391315+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.365,
+   "leader_cost": 2190.0,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.34,
+   "ask_depth": 903.19,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
+   "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
+   "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
+   "outcome": "Sebastian Ofner",
+   "slug": "atp-molcan-ofner-2026-07-20",
+   "opened_at": "2026-07-21T09:30:35.391378+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 3520.0,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.44,
+   "ask_depth": 910.25,
    "status": "open"
   }
  ],
@@ -12175,5 +12293,5 @@
   }
  ],
  "total_pnl": -1299.3836000000001,
- "last_updated": "2026-07-20T17:50:29.681186+00:00"
+ "last_updated": "2026-07-21T09:30:35.912209+00:00"
 }
