@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8100.616558400001,
+ "bankroll": 8394.7341584,
  "last_seen": {
-  "jtwyslljy": 1784629545,
+  "jtwyslljy": 1784631628,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5948,6 +5948,13 @@
    "BUY",
    12253.33,
    1784629545
+  ],
+  [
+   "0x4bf04570983a3eadcf9f5ff2d599af6e3feb0892fb1ea24b0a051ff8b55c2db8",
+   "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "BUY",
+   709.26,
+   1784631628
   ]
  ],
  "leader_pos": {
@@ -8470,6 +8477,18 @@
    "cost": 5144.498299668948,
    "max_shares": 12253.33,
    "last_trade_ts": 1784629545
+  },
+  "jtwyslljy|12280209310830765516041422661994927555253460680868833912896938127326897305043": {
+   "leader": "jtwyslljy",
+   "asset": "12280209310830765516041422661994927555253460680868833912896938127326897305043",
+   "condition_id": "0x996d09eab8a4c2444b1fab3aedb87268d8bebe1336f710a21eb4b7186ebba598",
+   "title": "Estoril Open: Vilius Gaubas vs Pablo Carreno Busta",
+   "outcome": "Vilius Gaubas",
+   "slug": "atp-gaubas-busta-2026-07-20",
+   "shares": 709.26,
+   "cost": 212.778,
+   "max_shares": 709.26,
+   "last_trade_ts": 1784631628
   }
  },
  "positions": [
@@ -8511,24 +8530,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "71568010075885628598583163197908871283414798210510618882836990321663654223617",
-   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
-   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
-   "outcome": "Marco Trungelliti",
-   "slug": "atp-cerund-trungel-2026-07-20",
-   "opened_at": "2026-07-21T09:30:35.391315+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.365,
-   "leader_cost": 2190.0,
-   "copy_delay_min": 4.2,
-   "best_ask": 0.34,
-   "ask_depth": 903.19,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "62507332521935367894671318759324823281961935901385489225215211686876137045007",
    "condition_id": "0x0a129cee35a1aec6f2ae11759daa439af1a97fca497e1513080c21c775a9e4be",
    "title": "Generali Open: Alex Molcan vs Sebastian Ofner",
@@ -8543,24 +8544,6 @@
    "copy_delay_min": 8.2,
    "best_ask": 0.44,
    "ask_depth": 910.25,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "38550773660998330340958371723379282883243215417053112046272712930351965938712",
-   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
-   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
-   "outcome": "Juan Manuel Cerundolo",
-   "slug": "atp-cerund-trungel-2026-07-20",
-   "opened_at": "2026-07-21T09:55:34.954725+00:00",
-   "entry_price": 0.3668,
-   "shares": 272.6595,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 4439.82,
-   "copy_delay_min": 2.5,
-   "best_ask": 0.35,
-   "ask_depth": 10.0,
    "status": "open"
   },
   {
@@ -12116,6 +12099,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71568010075885628598583163197908871283414798210510618882836990321663654223617",
+   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
+   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-cerund-trungel-2026-07-20",
+   "opened_at": "2026-07-21T09:30:35.391315+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.365,
+   "leader_cost": 2190.0,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.34,
+   "ask_depth": 903.19,
+   "status": "won",
+   "closed_at": "2026-07-21T11:00:53.110449+00:00",
+   "exit_price": 1.0,
+   "pnl": 194.1176,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "38550773660998330340958371723379282883243215417053112046272712930351965938712",
+   "condition_id": "0x9cbd3666b6f0f3c92c39eb7a2ecb2ed5fe4cf6d844926bbb56d16e8c9f2158c6",
+   "title": "Generali Open: Juan Manuel Cerundolo vs Marco Trungelliti",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-cerund-trungel-2026-07-20",
+   "opened_at": "2026-07-21T09:55:34.954725+00:00",
+   "entry_price": 0.3668,
+   "shares": 272.6595,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 4439.82,
+   "copy_delay_min": 2.5,
+   "best_ask": 0.35,
+   "ask_depth": 10.0,
+   "status": "lost",
+   "closed_at": "2026-07-21T11:00:53.357928+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12387,6 +12414,6 @@
    "outcome": "Ignacio Buse"
   }
  ],
- "total_pnl": -1299.3836000000001,
- "last_updated": "2026-07-21T10:30:37.075075+00:00"
+ "total_pnl": -1205.266,
+ "last_updated": "2026-07-21T11:00:53.358759+00:00"
 }
