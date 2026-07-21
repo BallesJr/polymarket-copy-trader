@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8315.4032244,
+ "bankroll": 8215.4032244,
  "last_seen": {
-  "jtwyslljy": 1784636220,
+  "jtwyslljy": 1784639179,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -5983,6 +5983,27 @@
    "BUY",
    6000,
    1784636220
+  ],
+  [
+   "0x2bcbb956b67bdcfc30836b7af5f1e58073b4147f8cfa9a7788285b5b3bd07e32",
+   "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "BUY",
+   555.01,
+   1784639160
+  ],
+  [
+   "0xddb82ac0f6b2ce7c4058a545df2714bbf33069fcae792dc60757d1d869f04c71",
+   "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "BUY",
+   810,
+   1784639169
+  ],
+  [
+   "0x41463b757a74e5e20a37cad76b2d1a3b58451a3ffae4dfa1aaa170bcd71102fa",
+   "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "BUY",
+   10000,
+   1784639179
   ]
  ],
  "leader_pos": {
@@ -8541,6 +8562,18 @@
    "cost": 2340.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1784636220
+  },
+  "jtwyslljy|35957627801766579732149102900397310259677510280516902781662727118773482555894": {
+   "leader": "jtwyslljy",
+   "asset": "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "condition_id": "0xf4f538304bef6daf89c3b7288eacaac7ca7b0f2e9acc8f25b2b1033fc352bc90",
+   "title": "Generali Open: Sebastian Baez vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-baez-kecmano-2026-07-20",
+   "shares": 11365.01,
+   "cost": 1230.9509,
+   "max_shares": 11365.01,
+   "last_trade_ts": 1784639179
   }
  },
  "positions": [
@@ -8632,6 +8665,24 @@
    "copy_delay_min": 3.5,
    "best_ask": 0.4,
    "ask_depth": 22331.55,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35957627801766579732149102900397310259677510280516902781662727118773482555894",
+   "condition_id": "0xf4f538304bef6daf89c3b7288eacaac7ca7b0f2e9acc8f25b2b1033fc352bc90",
+   "title": "Generali Open: Sebastian Baez vs Miomir Kecmanovic",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-baez-kecmano-2026-07-20",
+   "opened_at": "2026-07-21T13:10:26.576854+00:00",
+   "entry_price": 0.0832,
+   "shares": 1201.98,
+   "stake": 100.0,
+   "leader_vwap": 0.1083,
+   "leader_cost": 1230.95,
+   "copy_delay_min": 4.1,
+   "best_ask": 0.06,
+   "ask_depth": 124.4,
    "status": "open"
   }
  ],
@@ -12529,5 +12580,5 @@
   }
  ],
  "total_pnl": -1184.5969000000002,
- "last_updated": "2026-07-21T12:20:32.052699+00:00"
+ "last_updated": "2026-07-21T13:10:27.081012+00:00"
 }
