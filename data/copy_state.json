@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8119.725410000001,
+ "bankroll": 8369.725410000001,
  "last_seen": {
   "jtwyslljy": 1784652042,
   "0x53757615de": 1784324596
@@ -8834,24 +8834,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "84310356163928131691987740482609952029164678154010169337509940303188648614489",
-   "condition_id": "0x8f6425c8e31f9fcefd3e81507959b188d629c2d7236001589b607f363d277b6b",
-   "title": "Generali Open: Daniel Altmaier vs Raphael Collignon",
-   "outcome": "Daniel Altmaier",
-   "slug": "atp-altmaie-collign-2026-07-20",
-   "opened_at": "2026-07-21T12:20:31.302977+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.39,
-   "leader_cost": 2340.0,
-   "copy_delay_min": 3.5,
-   "best_ask": 0.4,
-   "ask_depth": 22331.55,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "72582365324744590922251867183218840998150107562988808560898750231753072973499",
    "condition_id": "0xf8b1fb5877f90a5f0d4668d2144242515879109c82f50b3e75a65fec8e5718c9",
    "title": "Will \u0160K Slovan Bratislava win on 2026-07-21?",
@@ -12637,6 +12619,28 @@
    "exit_price": 0.031,
    "pnl": -90.8824,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84310356163928131691987740482609952029164678154010169337509940303188648614489",
+   "condition_id": "0x8f6425c8e31f9fcefd3e81507959b188d629c2d7236001589b607f363d277b6b",
+   "title": "Generali Open: Daniel Altmaier vs Raphael Collignon",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-collign-2026-07-20",
+   "opened_at": "2026-07-21T12:20:31.302977+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.4,
+   "ask_depth": 22331.55,
+   "status": "won",
+   "closed_at": "2026-07-21T17:10:28.033217+00:00",
+   "exit_price": 1.0,
+   "pnl": 150.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -12916,6 +12920,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1380.2748000000001,
- "last_updated": "2026-07-21T16:50:29.557373+00:00"
+ "total_pnl": -1230.2748000000001,
+ "last_updated": "2026-07-21T17:10:28.034462+00:00"
 }
