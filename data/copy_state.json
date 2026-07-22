@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7594.184410000001,
+ "bankroll": 7494.184410000001,
  "last_seen": {
-  "jtwyslljy": 1784740860,
+  "jtwyslljy": 1784744701,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6438,6 +6438,20 @@
    "BUY",
    15000,
    1784740860
+  ],
+  [
+   "0x72a7b22debdc42a52760eaf2ce1b97dceec5962846351a213085ad12447ec39d",
+   "109388452013883820442440349393990574093882180349560053899876067340703946759476",
+   "BUY",
+   10000,
+   1784744581
+  ],
+  [
+   "0x280a4f193fdfa4aeb388c04d510962c4c8b118ebc3cc1d00fa6f781437c5f350",
+   "78175718944923683736128588527425180607221463456122408686032586223150357499750",
+   "BUY",
+   280,
+   1784744701
   ]
  ],
  "leader_pos": {
@@ -9224,6 +9238,30 @@
    "cost": 7500.0,
    "max_shares": 15000.0,
    "last_trade_ts": 1784740860
+  },
+  "jtwyslljy|109388452013883820442440349393990574093882180349560053899876067340703946759476": {
+   "leader": "jtwyslljy",
+   "asset": "109388452013883820442440349393990574093882180349560053899876067340703946759476",
+   "condition_id": "0x5f476b8bed20c9503a23435d5366a28b09d48c1676df8d6022f590e5d2eea485",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "shares": 10000.0,
+   "cost": 5100.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784744581
+  },
+  "jtwyslljy|78175718944923683736128588527425180607221463456122408686032586223150357499750": {
+   "leader": "jtwyslljy",
+   "asset": "78175718944923683736128588527425180607221463456122408686032586223150357499750",
+   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
+   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
+   "outcome": "Kyrian Jacquet",
+   "slug": "atp-jacquet-blockx-2026-07-22",
+   "shares": 280.0,
+   "cost": 92.4,
+   "max_shares": 280.0,
+   "last_trade_ts": 1784744701
   }
  },
  "positions": [
@@ -9333,6 +9371,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.6,
    "ask_depth": 707.8,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109388452013883820442440349393990574093882180349560053899876067340703946759476",
+   "condition_id": "0x5f476b8bed20c9503a23435d5366a28b09d48c1676df8d6022f590e5d2eea485",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "opened_at": "2026-07-22T18:30:37.088936+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 5100.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.51,
+   "ask_depth": 9923.79,
    "status": "open"
   }
  ],
@@ -13622,5 +13678,5 @@
   }
  ],
  "total_pnl": -1805.8158,
- "last_updated": "2026-07-22T17:30:39.918779+00:00"
+ "last_updated": "2026-07-22T18:30:37.675860+00:00"
 }
