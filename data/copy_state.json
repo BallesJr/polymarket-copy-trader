@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7690.875610000001,
  "last_seen": {
-  "jtwyslljy": 1784720883,
+  "jtwyslljy": 1784720986,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6319,6 +6319,13 @@
    "BUY",
    251,
    1784720883
+  ],
+  [
+   "0x9c2cfa622d1343aa7c188f5a6c0cfbb0e1016f8d9c1fc51bbf7fd5e6f4083ef0",
+   "87586699858803283659911137303034853278709073641082956415737432582166531633494",
+   "BUY",
+   294,
+   1784720986
   ]
  ],
  "leader_pos": {
@@ -9053,10 +9060,10 @@
    "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
    "outcome": "Titouan Droguet",
    "slug": "atp-gaston-droguet-2026-07-22",
-   "shares": 17714.61,
-   "cost": 3506.6280997532,
-   "max_shares": 17714.61,
-   "last_trade_ts": 1784720883
+   "shares": 18008.61,
+   "cost": 3588.9480997532,
+   "max_shares": 18008.61,
+   "last_trade_ts": 1784720986
   }
  },
  "positions": [
@@ -13359,5 +13366,5 @@
   }
  ],
  "total_pnl": -1509.1246,
- "last_updated": "2026-07-22T11:50:30.545523+00:00"
+ "last_updated": "2026-07-22T12:00:53.436237+00:00"
 }
