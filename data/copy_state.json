@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7394.184410000001,
  "last_seen": {
-  "jtwyslljy": 1784744851,
+  "jtwyslljy": 1784746536,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6459,6 +6459,13 @@
    "BUY",
    17398.14,
    1784744851
+  ],
+  [
+   "0xa526699127750cd84fb69db7974db17b1876e0257bd502cb3d51bd956fe71479",
+   "49117658170968833531089894587362288461301777994483882858634189552626706821952",
+   "BUY",
+   2602,
+   1784746536
   ]
  ],
  "leader_pos": {
@@ -9277,10 +9284,10 @@
    "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
    "outcome": "Alexander Blockx",
    "slug": "atp-jacquet-blockx-2026-07-22",
-   "shares": 17398.14,
-   "cost": 9221.0142,
-   "max_shares": 17398.14,
-   "last_trade_ts": 1784744851
+   "shares": 20000.14,
+   "cost": 10209.7742,
+   "max_shares": 20000.14,
+   "last_trade_ts": 1784746536
   }
  },
  "positions": [
@@ -13719,5 +13726,5 @@
   }
  ],
  "total_pnl": -1905.8158,
- "last_updated": "2026-07-22T18:50:35.131878+00:00"
+ "last_updated": "2026-07-22T19:00:51.054289+00:00"
 }
