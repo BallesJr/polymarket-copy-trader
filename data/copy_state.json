@@ -9376,24 +9376,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "86372522161787905634472757635144391665139308024435549892605591504883993109726",
-   "condition_id": "0x2c08f749de4443542bc911b5081768abd01f0e1364c45019a4531553c8c9d0ee",
-   "title": "Estoril Open: Alejandro Tabilo vs Tiago Torres",
-   "outcome": "Alejandro Tabilo",
-   "slug": "atp-tabilo-torre-2026-07-22",
-   "opened_at": "2026-07-22T17:30:39.389695+00:00",
-   "entry_price": 0.6,
-   "shares": 166.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 7500.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.6,
-   "ask_depth": 707.8,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "109388452013883820442440349393990574093882180349560053899876067340703946759476",
    "condition_id": "0x5f476b8bed20c9503a23435d5366a28b09d48c1676df8d6022f590e5d2eea485",
    "title": "Los Angeles Dodgers vs. Philadelphia Phillies: O/U 9.5",
@@ -13425,6 +13407,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86372522161787905634472757635144391665139308024435549892605591504883993109726",
+   "condition_id": "0x2c08f749de4443542bc911b5081768abd01f0e1364c45019a4531553c8c9d0ee",
+   "title": "Estoril Open: Alejandro Tabilo vs Tiago Torres",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-torre-2026-07-22",
+   "opened_at": "2026-07-22T17:30:39.389695+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 7500.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.6,
+   "ask_depth": 707.8,
+   "status": "lost",
+   "closed_at": "2026-07-22T18:50:35.130847+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13714,6 +13718,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1805.8158,
- "last_updated": "2026-07-22T18:40:31.175044+00:00"
+ "total_pnl": -1905.8158,
+ "last_updated": "2026-07-22T18:50:35.131878+00:00"
 }
