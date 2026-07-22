@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7837.934410000001,
  "last_seen": {
-  "jtwyslljy": 1784728497,
+  "jtwyslljy": 1784731075,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6361,6 +6361,13 @@
    "BUY",
    5000,
    1784728497
+  ],
+  [
+   "0xd7dd91be4081ec32da3b9a641ba4ac4ce4df3aa9ff4982998763975f500cd3c2",
+   "17713380586441939522268214017785053343579296880368989663122715566131224787305",
+   "BUY",
+   1091.47,
+   1784731075
   ]
  ],
  "leader_pos": {
@@ -9083,10 +9090,10 @@
    "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
    "outcome": "Nuno Borges",
    "slug": "atp-borges-burruch-2026-07-22",
-   "shares": 10000.0,
-   "cost": 5600.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1784728497
+   "shares": 11091.47,
+   "cost": 6156.6497,
+   "max_shares": 11091.47,
+   "last_trade_ts": 1784731075
   },
   "jtwyslljy|87586699858803283659911137303034853278709073641082956415737432582166531633494": {
    "leader": "jtwyslljy",
@@ -13417,5 +13424,5 @@
   }
  ],
  "total_pnl": -1762.0658,
- "last_updated": "2026-07-22T14:00:49.951023+00:00"
+ "last_updated": "2026-07-22T14:40:30.566742+00:00"
 }
