@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7694.184410000001,
+ "bankroll": 7594.184410000001,
  "last_seen": {
-  "jtwyslljy": 1784739909,
+  "jtwyslljy": 1784740860,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6431,6 +6431,13 @@
    "BUY",
    3425.64,
    1784739909
+  ],
+  [
+   "0x89f63f8e4b0bd20e2e50ef951694d00300f03e4dcdabca4983c27d9c42ae8f65",
+   "86372522161787905634472757635144391665139308024435549892605591504883993109726",
+   "BUY",
+   15000,
+   1784740860
   ]
  ],
  "leader_pos": {
@@ -9205,6 +9212,18 @@
    "cost": 1952.6147999999998,
    "max_shares": 3425.64,
    "last_trade_ts": 1784739909
+  },
+  "jtwyslljy|86372522161787905634472757635144391665139308024435549892605591504883993109726": {
+   "leader": "jtwyslljy",
+   "asset": "86372522161787905634472757635144391665139308024435549892605591504883993109726",
+   "condition_id": "0x2c08f749de4443542bc911b5081768abd01f0e1364c45019a4531553c8c9d0ee",
+   "title": "Estoril Open: Alejandro Tabilo vs Tiago Torres",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-torre-2026-07-22",
+   "shares": 15000.0,
+   "cost": 7500.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1784740860
   }
  },
  "positions": [
@@ -9296,6 +9315,24 @@
    "copy_delay_min": 11.0,
    "best_ask": 0.53,
    "ask_depth": 30991.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86372522161787905634472757635144391665139308024435549892605591504883993109726",
+   "condition_id": "0x2c08f749de4443542bc911b5081768abd01f0e1364c45019a4531553c8c9d0ee",
+   "title": "Estoril Open: Alejandro Tabilo vs Tiago Torres",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-torre-2026-07-22",
+   "opened_at": "2026-07-22T17:30:39.389695+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 7500.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.6,
+   "ask_depth": 707.8,
    "status": "open"
   }
  ],
@@ -13585,5 +13622,5 @@
   }
  ],
  "total_pnl": -1805.8158,
- "last_updated": "2026-07-22T17:20:29.448899+00:00"
+ "last_updated": "2026-07-22T17:30:39.918779+00:00"
 }
