@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7396.284415000001,
+ "bankroll": 7296.284415000001,
  "last_seen": {
-  "jtwyslljy": 1784751718,
+  "jtwyslljy": 1784753059,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6522,6 +6522,27 @@
    "SELL",
    1068.9,
    1784751718
+  ],
+  [
+   "0xb9178c0a64a31deb1947532450844a3c83c3c6a1c682060a79bbbce92684a819",
+   "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "BUY",
+   9033.3,
+   1784752828
+  ],
+  [
+   "0xc189912af64f6c40d000e0bf6b8c4a7242ab6652f559df202f58e029196e900b",
+   "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "BUY",
+   15806,
+   1784752965
+  ],
+  [
+   "0x5a861c92b72563529b08c2bbb953c4376c0b14d70b0b72fad090b1ef8c2ea51e",
+   "20990254228375413619003609272202476641378845302530378003025688437041769321616",
+   "BUY",
+   17712.89,
+   1784753059
   ]
  ],
  "leader_pos": {
@@ -9292,10 +9313,10 @@
    "title": "Washington Nationals vs. Colorado Rockies",
    "outcome": "Washington Nationals",
    "slug": "mlb-wsh-col-2026-07-22",
-   "shares": 3425.64,
-   "cost": 1952.6147999999998,
-   "max_shares": 3425.64,
-   "last_trade_ts": 1784739909
+   "shares": 28264.94,
+   "cost": 17511.040800000002,
+   "max_shares": 28264.94,
+   "last_trade_ts": 1784752965
   },
   "jtwyslljy|86372522161787905634472757635144391665139308024435549892605591504883993109726": {
    "leader": "jtwyslljy",
@@ -9344,6 +9365,18 @@
    "cost": 6896.838700001939,
    "max_shares": 20000.14,
    "last_trade_ts": 1784749332
+  },
+  "jtwyslljy|20990254228375413619003609272202476641378845302530378003025688437041769321616": {
+   "leader": "jtwyslljy",
+   "asset": "20990254228375413619003609272202476641378845302530378003025688437041769321616",
+   "condition_id": "0x4019fc42a6ac93b4c6ae94789082102c83c82e1bf1b5f8c38c4586bd7a45b439",
+   "title": "New York Mets vs. Milwaukee Brewers",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-nym-mil-2026-07-22",
+   "shares": 17712.89,
+   "cost": 16472.9877,
+   "max_shares": 17712.89,
+   "last_trade_ts": 1784753059
   }
  },
  "positions": [
@@ -9453,6 +9486,24 @@
    "copy_delay_min": 13.0,
    "best_ask": 0.5,
    "ask_depth": 461.86,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20990254228375413619003609272202476641378845302530378003025688437041769321616",
+   "condition_id": "0x4019fc42a6ac93b4c6ae94789082102c83c82e1bf1b5f8c38c4586bd7a45b439",
+   "title": "New York Mets vs. Milwaukee Brewers",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-nym-mil-2026-07-22",
+   "opened_at": "2026-07-22T20:47:08.047156+00:00",
+   "entry_price": 0.95,
+   "shares": 105.2632,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 16472.99,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.95,
+   "ask_depth": 4510.67,
    "status": "open"
   }
  ],
@@ -13808,5 +13859,5 @@
   }
  ],
  "total_pnl": -2003.7158000000002,
- "last_updated": "2026-07-22T20:30:35.786786+00:00"
+ "last_updated": "2026-07-22T20:47:08.594146+00:00"
 }
