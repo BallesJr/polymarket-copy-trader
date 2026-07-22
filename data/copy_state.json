@@ -8974,24 +8974,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "77313056504568088331866665036422343297363238932503611613072654646858228792612",
-   "condition_id": "0x61af2cc3b324cbd876ebfc4b76c98c9c5e86a7e82d097a85f07f24953626af9c",
-   "title": "Generali Open: Quentin Halys vs Valentin Vacherot",
-   "outcome": "Valentin Vacherot",
-   "slug": "atp-halys-vachero-2026-07-22",
-   "opened_at": "2026-07-22T09:00:53.393119+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 4772.6,
-   "copy_delay_min": 8.2,
-   "best_ask": 0.64,
-   "ask_depth": 917.8,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "8079521782343055519718113155950152572111838190783082444465320050855236086755",
    "condition_id": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
    "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
@@ -12923,6 +12905,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77313056504568088331866665036422343297363238932503611613072654646858228792612",
+   "condition_id": "0x61af2cc3b324cbd876ebfc4b76c98c9c5e86a7e82d097a85f07f24953626af9c",
+   "title": "Generali Open: Quentin Halys vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-halys-vachero-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393119+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4772.6,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.64,
+   "ask_depth": 917.8,
+   "status": "lost",
+   "closed_at": "2026-07-22T11:10:28.682937+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13202,6 +13206,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -1409.1246,
- "last_updated": "2026-07-22T09:00:54.002220+00:00"
+ "total_pnl": -1509.1246,
+ "last_updated": "2026-07-22T11:10:28.683981+00:00"
 }
