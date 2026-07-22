@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7601.547615000001,
+ "bankroll": 7773.961415000002,
  "last_seen": {
   "jtwyslljy": 1784753190,
   "0x53757615de": 1784324596
@@ -9407,24 +9407,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "76286442016036775073275702381488140232604265892651907419564573897913775781830",
-   "condition_id": "0x320e97a5afe176503d4eb1090c4eff25a0deb1b55eaee579bbf95d7bf9719432",
-   "title": "Washington Nationals vs. Colorado Rockies",
-   "outcome": "Washington Nationals",
-   "slug": "mlb-wsh-col-2026-07-22",
-   "opened_at": "2026-07-22T17:10:34.484361+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 1952.61,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.58,
-   "ask_depth": 68622.33,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
    "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
    "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
@@ -13588,6 +13570,28 @@
    "exit_price": 1.0,
    "pnl": 5.2632,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "condition_id": "0x320e97a5afe176503d4eb1090c4eff25a0deb1b55eaee579bbf95d7bf9719432",
+   "title": "Washington Nationals vs. Colorado Rockies",
+   "outcome": "Washington Nationals",
+   "slug": "mlb-wsh-col-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484361+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1952.61,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.58,
+   "ask_depth": 68622.33,
+   "status": "won",
+   "closed_at": "2026-07-22T22:40:27.852625+00:00",
+   "exit_price": 1.0,
+   "pnl": 72.4138,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13877,6 +13881,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1998.4525999999998,
- "last_updated": "2026-07-22T22:00:56.382429+00:00"
+ "total_pnl": -1926.0387999999998,
+ "last_updated": "2026-07-22T22:40:27.853814+00:00"
 }
