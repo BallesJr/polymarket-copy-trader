@@ -1,7 +1,7 @@
 name: copy-trader
 on:
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"   # every 10 min, off the top of the hour (less scheduler congestion)
+    - cron: "3,8,13,18,23,28,33,38,43,48,53,58 * * * *"   # every 5 min (Actions minimum), off the top of the hour (less scheduler congestion)
   workflow_dispatch:
 
 concurrency:

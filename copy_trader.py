@@ -2,8 +2,9 @@
 #
 # Entry:  leader's cumulative net cost in a token crosses CONVICTION_USD (aggregating
 #         their micro-orders) -> we buy STAKE_USD walking the live CLOB asks up to
-#         leader VWAP + MAX_CHASE; skip if even the best ask is past that (chase) or
-#         the book can't fill the full stake within it (thin_book).
+#         leader VWAP + MAX_CHASE; skip if even the best ask is past that (chase), the
+#         book can't fill the full stake within it (thin_book), or the game already
+#         started (in_play: a fill after kickoff prices in what the leader knew).
 # Exit:   leader unwinds below EXIT_FRACTION of their max shares -> sell into the bids,
 #         waiting if depth can't absorb us; or market resolves -> redeem at $1/$0.
 # Every position records leader VWAP, our fill, and copy delay: the whole point of the
@@ -143,6 +144,30 @@ def clob_winner(condition_id, asset):
             return bool(t.get("winner"))
     return None
 
+def game_start_ts(condition_id, _cache={}):
+    """Scheduled game start (unix ts) from CLOB; None = no start time (futures etc.).
+    Fetch errors return None uncached, so the entry fails open like before."""
+    if condition_id in _cache:
+        return _cache[condition_id]
+    try:
+        r = requests.get(f"{CLOB}/markets/{condition_id}", headers=H, timeout=20)
+        r.raise_for_status()
+        raw = r.json().get("game_start_time")
+    except Exception as e:
+        print(f"  [ERR] game_start {condition_id[:10]}: {e}")
+        return None
+    ts = None
+    if raw:
+        raw = raw.replace("Z", "+00:00")
+        if raw.endswith("+00"):
+            raw += ":00"
+        try:
+            ts = datetime.fromisoformat(raw).timestamp()
+        except ValueError:
+            print(f"  [ERR] game_start parse {raw!r}")
+    _cache[condition_id] = ts
+    return ts
+
 def resolve_positions(st):
     """Check gamma for closed markets; settle our positions at $1/$0."""
     conds = sorted(set(p["condition_id"] for p in st["positions"]))
@@ -277,6 +302,14 @@ def cycle(st):
 
     for k in entry_keys:
         lp = st["leader_pos"][k]
+        gst = game_start_ts(lp["condition_id"])
+        if gst is not None and now_ts() >= gst:
+            st["skips"].append({"at": iso(), "reason": "in_play", "game_start": iso(gst),
+                                "condition_id": lp["condition_id"],
+                                "copy_delay_min": round((t0 - lp["last_trade_ts"]) / 60, 1),
+                                **{x: lp[x] for x in ("leader", "title", "outcome")}})
+            print(f"  [SKIP in_play] {lp['title'][:45]} started {iso(gst)}")
+            continue
         ask, ask_sz = best(books.get(lp["asset"]), "asks")
         vwap = lp["cost"] / lp["shares"] if lp["shares"] > 0 else None
         if ask is None or not (MIN_PRICE <= ask <= MAX_PRICE):
