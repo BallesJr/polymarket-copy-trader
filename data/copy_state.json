@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7994.184410000001,
+ "bankroll": 7694.184410000001,
  "last_seen": {
-  "jtwyslljy": 1784737261,
+  "jtwyslljy": 1784739909,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6410,6 +6410,27 @@
    "SELL",
    5000,
    1784737261
+  ],
+  [
+   "0x3519e379fd4adec5f2c8041d2aff4887fa989e6b049c35a111f10dbde8b64e75",
+   "84120196358836210138289229401458385294341489636518721207231661445588819672171",
+   "BUY",
+   15000,
+   1784739576
+  ],
+  [
+   "0x7fdce7f34c6e317171834c88e6e85773caf6a70732b48750483c82d626022638",
+   "21415373405280969546223552350667464113770443375140649519920571691304763056947",
+   "BUY",
+   10000,
+   1784739864
+  ],
+  [
+   "0xb98f78a99cf97b181eb36ab8f2e9f50c94b3208f962427aa5cba08598052e1e1",
+   "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "BUY",
+   3425.64,
+   1784739909
   ]
  ],
  "leader_pos": {
@@ -9148,6 +9169,42 @@
    "cost": 4588.9480997532,
    "max_shares": 28008.61,
    "last_trade_ts": 1784722038
+  },
+  "jtwyslljy|84120196358836210138289229401458385294341489636518721207231661445588819672171": {
+   "leader": "jtwyslljy",
+   "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
+   "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "shares": 15000.0,
+   "cost": 7950.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1784739576
+  },
+  "jtwyslljy|21415373405280969546223552350667464113770443375140649519920571691304763056947": {
+   "leader": "jtwyslljy",
+   "asset": "21415373405280969546223552350667464113770443375140649519920571691304763056947",
+   "condition_id": "0x7bc61b9f857b24d6fbd5449d42691bb3517288e42aba4fe716d508c207af46f6",
+   "title": "Pittsburgh Pirates vs. New York Yankees: O/U 9.5",
+   "outcome": "Over",
+   "slug": "mlb-pit-nyy-2026-07-22",
+   "shares": 10000.0,
+   "cost": 5100.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784739864
+  },
+  "jtwyslljy|76286442016036775073275702381488140232604265892651907419564573897913775781830": {
+   "leader": "jtwyslljy",
+   "asset": "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "condition_id": "0x320e97a5afe176503d4eb1090c4eff25a0deb1b55eaee579bbf95d7bf9719432",
+   "title": "Washington Nationals vs. Colorado Rockies",
+   "outcome": "Washington Nationals",
+   "slug": "mlb-wsh-col-2026-07-22",
+   "shares": 3425.64,
+   "cost": 1952.6147999999998,
+   "max_shares": 3425.64,
+   "last_trade_ts": 1784739909
   }
  },
  "positions": [
@@ -9203,6 +9260,60 @@
    "copy_delay_min": 11.4,
    "best_ask": 0.69,
    "ask_depth": 15646.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76286442016036775073275702381488140232604265892651907419564573897913775781830",
+   "condition_id": "0x320e97a5afe176503d4eb1090c4eff25a0deb1b55eaee579bbf95d7bf9719432",
+   "title": "Washington Nationals vs. Colorado Rockies",
+   "outcome": "Washington Nationals",
+   "slug": "mlb-wsh-col-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484361+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1952.61,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.58,
+   "ask_depth": 68622.33,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21415373405280969546223552350667464113770443375140649519920571691304763056947",
+   "condition_id": "0x7bc61b9f857b24d6fbd5449d42691bb3517288e42aba4fe716d508c207af46f6",
+   "title": "Pittsburgh Pirates vs. New York Yankees: O/U 9.5",
+   "outcome": "Over",
+   "slug": "mlb-pit-nyy-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484418+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 5100.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.51,
+   "ask_depth": 35326.39,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
+   "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484442+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 7950.0,
+   "copy_delay_min": 11.0,
+   "best_ask": 0.53,
+   "ask_depth": 30991.27,
    "status": "open"
   }
  ],
@@ -13470,5 +13581,5 @@
   }
  ],
  "total_pnl": -1705.8158,
- "last_updated": "2026-07-22T16:30:39.015641+00:00"
+ "last_updated": "2026-07-22T17:10:35.169052+00:00"
 }
