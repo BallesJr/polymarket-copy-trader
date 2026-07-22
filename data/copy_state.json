@@ -9126,24 +9126,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "88404029102192554817984977586593110140071732827939328543785423758053598475466",
-   "condition_id": "0x305d7c3d8e2961e20ccd787118c5934bef98bc2ad9e3b55a0ab8a573371bd6eb",
-   "title": "Generali Open: Sebastian Baez vs Arthur Rinderknech",
-   "outcome": "Arthur Rinderknech",
-   "slug": "atp-baez-rinderk-2026-07-22",
-   "opened_at": "2026-07-22T09:00:53.393234+00:00",
-   "entry_price": 0.47,
-   "shares": 212.766,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 2350.0,
-   "copy_delay_min": 8.4,
-   "best_ask": 0.47,
-   "ask_depth": 1008.1,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "114893847055873979829061046704652205416223472114227468312360995064068508065151",
    "condition_id": "0x179ad066e679114cad7149ff50a8e928071b5748dfb7698dae0612d64ed474b5",
    "title": "Generali Open: Jan-Lennard Struff vs Mariano Navone",
@@ -13097,6 +13079,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88404029102192554817984977586593110140071732827939328543785423758053598475466",
+   "condition_id": "0x305d7c3d8e2961e20ccd787118c5934bef98bc2ad9e3b55a0ab8a573371bd6eb",
+   "title": "Generali Open: Sebastian Baez vs Arthur Rinderknech",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-baez-rinderk-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393234+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 2350.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.47,
+   "ask_depth": 1008.1,
+   "status": "lost",
+   "closed_at": "2026-07-22T12:20:30.128679+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13386,6 +13390,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1509.1246,
- "last_updated": "2026-07-22T12:10:28.466358+00:00"
+ "total_pnl": -1609.1246,
+ "last_updated": "2026-07-22T12:20:30.129413+00:00"
 }
