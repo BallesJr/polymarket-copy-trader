@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7296.284415000001,
+ "bankroll": 7601.547615000001,
  "last_seen": {
   "jtwyslljy": 1784753190,
   "0x53757615de": 1784324596
@@ -9425,24 +9425,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "21415373405280969546223552350667464113770443375140649519920571691304763056947",
-   "condition_id": "0x7bc61b9f857b24d6fbd5449d42691bb3517288e42aba4fe716d508c207af46f6",
-   "title": "Pittsburgh Pirates vs. New York Yankees: O/U 9.5",
-   "outcome": "Over",
-   "slug": "mlb-pit-nyy-2026-07-22",
-   "opened_at": "2026-07-22T17:10:34.484418+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 5100.0,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.51,
-   "ask_depth": 35326.39,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
    "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
    "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
@@ -9475,42 +9457,6 @@
    "copy_delay_min": 7.6,
    "best_ask": 0.51,
    "ask_depth": 9923.79,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "49117658170968833531089894587362288461301777994483882858634189552626706821952",
-   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
-   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
-   "outcome": "Alexander Blockx",
-   "slug": "atp-jacquet-blockx-2026-07-22",
-   "opened_at": "2026-07-22T18:40:30.285939+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 9221.01,
-   "copy_delay_min": 13.0,
-   "best_ask": 0.5,
-   "ask_depth": 461.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "20990254228375413619003609272202476641378845302530378003025688437041769321616",
-   "condition_id": "0x4019fc42a6ac93b4c6ae94789082102c83c82e1bf1b5f8c38c4586bd7a45b439",
-   "title": "New York Mets vs. Milwaukee Brewers",
-   "outcome": "Milwaukee Brewers",
-   "slug": "mlb-nym-mil-2026-07-22",
-   "opened_at": "2026-07-22T20:47:08.047156+00:00",
-   "entry_price": 0.95,
-   "shares": 105.2632,
-   "stake": 100.0,
-   "leader_vwap": 0.93,
-   "leader_cost": 16472.99,
-   "copy_delay_min": 2.8,
-   "best_ask": 0.95,
-   "ask_depth": 4510.67,
    "status": "open"
   }
  ],
@@ -13576,6 +13522,72 @@
    "exit_price": 0.45,
    "pnl": 2.1,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21415373405280969546223552350667464113770443375140649519920571691304763056947",
+   "condition_id": "0x7bc61b9f857b24d6fbd5449d42691bb3517288e42aba4fe716d508c207af46f6",
+   "title": "Pittsburgh Pirates vs. New York Yankees: O/U 9.5",
+   "outcome": "Over",
+   "slug": "mlb-pit-nyy-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484418+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 5100.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.51,
+   "ask_depth": 35326.39,
+   "status": "lost",
+   "closed_at": "2026-07-22T22:00:55.900896+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "49117658170968833531089894587362288461301777994483882858634189552626706821952",
+   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
+   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-jacquet-blockx-2026-07-22",
+   "opened_at": "2026-07-22T18:40:30.285939+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 9221.01,
+   "copy_delay_min": 13.0,
+   "best_ask": 0.5,
+   "ask_depth": 461.86,
+   "status": "won",
+   "closed_at": "2026-07-22T22:00:56.143433+00:00",
+   "exit_price": 1.0,
+   "pnl": 100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20990254228375413619003609272202476641378845302530378003025688437041769321616",
+   "condition_id": "0x4019fc42a6ac93b4c6ae94789082102c83c82e1bf1b5f8c38c4586bd7a45b439",
+   "title": "New York Mets vs. Milwaukee Brewers",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-nym-mil-2026-07-22",
+   "opened_at": "2026-07-22T20:47:08.047156+00:00",
+   "entry_price": 0.95,
+   "shares": 105.2632,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 16472.99,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.95,
+   "ask_depth": 4510.67,
+   "status": "won",
+   "closed_at": "2026-07-22T22:00:56.381282+00:00",
+   "exit_price": 1.0,
+   "pnl": 5.2632,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13865,6 +13877,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -2003.7158000000002,
- "last_updated": "2026-07-22T20:55:26.124683+00:00"
+ "total_pnl": -1998.4525999999998,
+ "last_updated": "2026-07-22T22:00:56.382429+00:00"
 }
