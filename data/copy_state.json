@@ -9311,24 +9311,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "17713380586441939522268214017785053343579296880368989663122715566131224787305",
-   "condition_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
-   "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-burruch-2026-07-22",
-   "opened_at": "2026-07-22T11:20:31.972949+00:00",
-   "entry_price": 0.69,
-   "shares": 144.9275,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 3450.0,
-   "copy_delay_min": 11.4,
-   "best_ask": 0.69,
-   "ask_depth": 15646.5,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "76286442016036775073275702381488140232604265892651907419564573897913775781830",
    "condition_id": "0x320e97a5afe176503d4eb1090c4eff25a0deb1b55eaee579bbf95d7bf9719432",
    "title": "Washington Nationals vs. Colorado Rockies",
@@ -13436,6 +13418,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17713380586441939522268214017785053343579296880368989663122715566131224787305",
+   "condition_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
+   "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-burruch-2026-07-22",
+   "opened_at": "2026-07-22T11:20:31.972949+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 3450.0,
+   "copy_delay_min": 11.4,
+   "best_ask": 0.69,
+   "ask_depth": 15646.5,
+   "status": "lost",
+   "closed_at": "2026-07-22T19:30:43.513635+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13725,6 +13729,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1905.8158,
- "last_updated": "2026-07-22T19:00:51.054289+00:00"
+ "total_pnl": -2005.8158,
+ "last_updated": "2026-07-22T19:30:43.514673+00:00"
 }
