@@ -9177,24 +9177,6 @@
    "best_ask": 0.69,
    "ask_depth": 15646.5,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "87586699858803283659911137303034853278709073641082956415737432582166531633494",
-   "condition_id": "0xb8d3be712e630ea2de1410089a5f97428c3c649779a3b6c2d2a1d9f78623f4af",
-   "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
-   "outcome": "Titouan Droguet",
-   "slug": "atp-gaston-droguet-2026-07-22",
-   "opened_at": "2026-07-22T11:50:29.938826+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.198,
-   "leader_cost": 3506.63,
-   "copy_delay_min": 2.4,
-   "best_ask": 0.28,
-   "ask_depth": 6059.0,
-   "status": "open"
   }
  ],
  "closed": [
@@ -13105,6 +13087,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87586699858803283659911137303034853278709073641082956415737432582166531633494",
+   "condition_id": "0xb8d3be712e630ea2de1410089a5f97428c3c649779a3b6c2d2a1d9f78623f4af",
+   "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
+   "outcome": "Titouan Droguet",
+   "slug": "atp-gaston-droguet-2026-07-22",
+   "opened_at": "2026-07-22T11:50:29.938826+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.198,
+   "leader_cost": 3506.63,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.28,
+   "ask_depth": 6059.0,
+   "status": "lost",
+   "closed_at": "2026-07-22T13:10:09.246902+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13394,6 +13398,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1562.0658,
- "last_updated": "2026-07-22T12:40:29.538561+00:00"
+ "total_pnl": -1662.0658,
+ "last_updated": "2026-07-22T13:10:09.248088+00:00"
 }
