@@ -9228,24 +9228,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "21653617706610130322773867920435453726985557325711117789685402902467137290162",
-   "condition_id": "0xcabd45bbac7facb7980779e2ac69dc1a910829ca3a946b8341ad11b532d9a512",
-   "title": "Generali Open: Alex Molcan vs Daniel Altmaier",
-   "outcome": "Daniel Altmaier",
-   "slug": "atp-molcan-altmaie-2026-07-22",
-   "opened_at": "2026-07-22T09:00:53.393300+00:00",
-   "entry_price": 0.45,
-   "shares": 222.2222,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 4500.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.45,
-   "ask_depth": 15686.96,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "17713380586441939522268214017785053343579296880368989663122715566131224787305",
    "condition_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
    "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
@@ -13291,6 +13273,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21653617706610130322773867920435453726985557325711117789685402902467137290162",
+   "condition_id": "0xcabd45bbac7facb7980779e2ac69dc1a910829ca3a946b8341ad11b532d9a512",
+   "title": "Generali Open: Alex Molcan vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-molcan-altmaie-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393300+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 4500.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.45,
+   "ask_depth": 15686.96,
+   "status": "lost",
+   "closed_at": "2026-07-22T17:20:29.447666+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13580,6 +13584,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1705.8158,
- "last_updated": "2026-07-22T17:10:35.169052+00:00"
+ "total_pnl": -1805.8158,
+ "last_updated": "2026-07-22T17:20:29.448899+00:00"
 }
