@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7494.184410000001,
+ "bankroll": 7394.184410000001,
  "last_seen": {
-  "jtwyslljy": 1784744701,
+  "jtwyslljy": 1784744851,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6452,6 +6452,13 @@
    "BUY",
    280,
    1784744701
+  ],
+  [
+   "0xe3f53f626ecd3a7cbc8ab0b025d0b76b405e94f6e90a6caf57f234a18029886f",
+   "49117658170968833531089894587362288461301777994483882858634189552626706821952",
+   "BUY",
+   17398.14,
+   1784744851
   ]
  ],
  "leader_pos": {
@@ -9262,6 +9269,18 @@
    "cost": 92.4,
    "max_shares": 280.0,
    "last_trade_ts": 1784744701
+  },
+  "jtwyslljy|49117658170968833531089894587362288461301777994483882858634189552626706821952": {
+   "leader": "jtwyslljy",
+   "asset": "49117658170968833531089894587362288461301777994483882858634189552626706821952",
+   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
+   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-jacquet-blockx-2026-07-22",
+   "shares": 17398.14,
+   "cost": 9221.0142,
+   "max_shares": 17398.14,
+   "last_trade_ts": 1784744851
   }
  },
  "positions": [
@@ -9389,6 +9408,24 @@
    "copy_delay_min": 7.6,
    "best_ask": 0.51,
    "ask_depth": 9923.79,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "49117658170968833531089894587362288461301777994483882858634189552626706821952",
+   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
+   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-jacquet-blockx-2026-07-22",
+   "opened_at": "2026-07-22T18:40:30.285939+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 9221.01,
+   "copy_delay_min": 13.0,
+   "best_ask": 0.5,
+   "ask_depth": 461.86,
    "status": "open"
   }
  ],
@@ -13678,5 +13715,5 @@
   }
  ],
  "total_pnl": -1805.8158,
- "last_updated": "2026-07-22T18:30:37.675860+00:00"
+ "last_updated": "2026-07-22T18:40:31.175044+00:00"
 }
