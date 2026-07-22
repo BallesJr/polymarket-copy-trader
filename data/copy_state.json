@@ -9108,24 +9108,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "8079521782343055519718113155950152572111838190783082444465320050855236086755",
-   "condition_id": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
-   "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
-   "outcome": "Marco Trungelliti",
-   "slug": "atp-trungel-hanfman-2026-07-22",
-   "opened_at": "2026-07-22T09:00:53.393198+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 2800.0,
-   "copy_delay_min": 7.0,
-   "best_ask": 0.35,
-   "ask_depth": 1573.58,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "21653617706610130322773867920435453726985557325711117789685402902467137290162",
    "condition_id": "0xcabd45bbac7facb7980779e2ac69dc1a910829ca3a946b8341ad11b532d9a512",
    "title": "Generali Open: Alex Molcan vs Daniel Altmaier",
@@ -13109,6 +13091,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8079521782343055519718113155950152572111838190783082444465320050855236086755",
+   "condition_id": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
+   "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-hanfman-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393198+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 2800.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.35,
+   "ask_depth": 1573.58,
+   "status": "lost",
+   "closed_at": "2026-07-22T13:20:28.866401+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13398,6 +13402,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1662.0658,
- "last_updated": "2026-07-22T13:10:09.248088+00:00"
+ "total_pnl": -1762.0658,
+ "last_updated": "2026-07-22T13:20:28.867748+00:00"
 }
