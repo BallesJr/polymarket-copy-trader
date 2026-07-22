@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7890.875610000001,
+ "bankroll": 7790.875610000001,
  "last_seen": {
-  "jtwyslljy": 1784710464,
+  "jtwyslljy": 1784718550,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6249,6 +6249,20 @@
    "BUY",
    7000,
    1784710464
+  ],
+  [
+   "0xe514de92ed16797d47bbc1aa738f76c45dd537e7ee65d83f87d603e609643573",
+   "93464100690483535894955769478566600305838061541196399801187202435499693561259",
+   "BUY",
+   1383.31,
+   1784718531
+  ],
+  [
+   "0x0fd186100173ec2438f9695b12984d12f8a657a813108221d949ccb6d0e57d73",
+   "17713380586441939522268214017785053343579296880368989663122715566131224787305",
+   "BUY",
+   5000,
+   1784718550
   ]
  ],
  "leader_pos": {
@@ -8951,6 +8965,30 @@
    "cost": 4480.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1784710464
+  },
+  "jtwyslljy|93464100690483535894955769478566600305838061541196399801187202435499693561259": {
+   "leader": "jtwyslljy",
+   "asset": "93464100690483535894955769478566600305838061541196399801187202435499693561259",
+   "condition_id": "0xb8d3be712e630ea2de1410089a5f97428c3c649779a3b6c2d2a1d9f78623f4af",
+   "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
+   "outcome": "Hugo Gaston",
+   "slug": "atp-gaston-droguet-2026-07-22",
+   "shares": 1383.31,
+   "cost": 580.9902,
+   "max_shares": 1383.31,
+   "last_trade_ts": 1784718531
+  },
+  "jtwyslljy|17713380586441939522268214017785053343579296880368989663122715566131224787305": {
+   "leader": "jtwyslljy",
+   "asset": "17713380586441939522268214017785053343579296880368989663122715566131224787305",
+   "condition_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
+   "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-burruch-2026-07-22",
+   "shares": 5000.0,
+   "cost": 3449.9999999999995,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1784718550
   }
  },
  "positions": [
@@ -9060,6 +9098,24 @@
    "copy_delay_min": 6.5,
    "best_ask": 0.64,
    "ask_depth": 2463.98,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17713380586441939522268214017785053343579296880368989663122715566131224787305",
+   "condition_id": "0xc79334f3c99fba6006327d86850730be413dcb272e41206991597aba8492cb69",
+   "title": "Estoril Open: Nuno Borges vs Roman Andres Burruchaga",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-burruch-2026-07-22",
+   "opened_at": "2026-07-22T11:20:31.972949+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 3450.0,
+   "copy_delay_min": 11.4,
+   "best_ask": 0.69,
+   "ask_depth": 15646.5,
    "status": "open"
   }
  ],
@@ -13204,8 +13260,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Hugo Gaston vs Damir Dzumhur",
    "outcome": "Damir Dzumhur"
+  },
+  {
+   "at": "2026-07-22T11:20:31.972829+00:00",
+   "reason": "chase",
+   "ask": 0.69,
+   "fillable_usd": 0.0,
+   "leader_vwap": 0.42,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
+   "outcome": "Hugo Gaston"
   }
  ],
  "total_pnl": -1509.1246,
- "last_updated": "2026-07-22T11:10:28.683981+00:00"
+ "last_updated": "2026-07-22T11:20:32.578552+00:00"
 }
