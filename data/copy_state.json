@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8490.875610000001,
+ "bankroll": 7890.875610000001,
  "last_seen": {
-  "jtwyslljy": 1784654922,
+  "jtwyslljy": 1784710464,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6207,6 +6207,48 @@
    "SELL",
    14999.99,
    1784654922
+  ],
+  [
+   "0xfb040c22ca64f396e6e482729eaed433f72771422026f90e6e6f1cfd634e8ab8",
+   "88404029102192554817984977586593110140071732827939328543785423758053598475466",
+   "BUY",
+   5000,
+   1784710348
+  ],
+  [
+   "0xc297821b6288ad87a3c13be08ec41d76ed86bf6dc470fdb77d612df90bf6b037",
+   "77313056504568088331866665036422343297363238932503611613072654646858228792612",
+   "BUY",
+   7457.18,
+   1784710359
+  ],
+  [
+   "0x52f9559713577db2169d44fa3fd99970573b3d2b46fcbc1535cdb520bab4bbe8",
+   "114893847055873979829061046704652205416223472114227468312360995064068508065151",
+   "BUY",
+   4869.27,
+   1784710413
+  ],
+  [
+   "0x383c1cf6d28589e1fa430033238b2d420c2645a88a771a9f193061fa3d090784",
+   "8079521782343055519718113155950152572111838190783082444465320050855236086755",
+   "BUY",
+   8000,
+   1784710431
+  ],
+  [
+   "0xe6b9d44f52e62dfb3a54c9507746e91ea6923b63924656c43fee9f0057aa95eb",
+   "21653617706610130322773867920435453726985557325711117789685402902467137290162",
+   "BUY",
+   10000,
+   1784710446
+  ],
+  [
+   "0x380df7f4a81c0d57387fb59cb48a387aa45cb1962f5120cf34d0ab7261a38811",
+   "66896028884103417794913306184223710075420649854107579132271328491492289996101",
+   "BUY",
+   7000,
+   1784710464
   ]
  ],
  "leader_pos": {
@@ -8837,6 +8879,78 @@
    "cost": 1646.7489001666686,
    "max_shares": 14999.99,
    "last_trade_ts": 1784654922
+  },
+  "jtwyslljy|88404029102192554817984977586593110140071732827939328543785423758053598475466": {
+   "leader": "jtwyslljy",
+   "asset": "88404029102192554817984977586593110140071732827939328543785423758053598475466",
+   "condition_id": "0x305d7c3d8e2961e20ccd787118c5934bef98bc2ad9e3b55a0ab8a573371bd6eb",
+   "title": "Generali Open: Sebastian Baez vs Arthur Rinderknech",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-baez-rinderk-2026-07-22",
+   "shares": 5000.0,
+   "cost": 2350.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1784710348
+  },
+  "jtwyslljy|77313056504568088331866665036422343297363238932503611613072654646858228792612": {
+   "leader": "jtwyslljy",
+   "asset": "77313056504568088331866665036422343297363238932503611613072654646858228792612",
+   "condition_id": "0x61af2cc3b324cbd876ebfc4b76c98c9c5e86a7e82d097a85f07f24953626af9c",
+   "title": "Generali Open: Quentin Halys vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-halys-vachero-2026-07-22",
+   "shares": 7457.18,
+   "cost": 4772.595200000001,
+   "max_shares": 7457.18,
+   "last_trade_ts": 1784710359
+  },
+  "jtwyslljy|114893847055873979829061046704652205416223472114227468312360995064068508065151": {
+   "leader": "jtwyslljy",
+   "asset": "114893847055873979829061046704652205416223472114227468312360995064068508065151",
+   "condition_id": "0x179ad066e679114cad7149ff50a8e928071b5748dfb7698dae0612d64ed474b5",
+   "title": "Generali Open: Jan-Lennard Struff vs Mariano Navone",
+   "outcome": "Mariano Navone",
+   "slug": "atp-struff-navone-2026-07-22",
+   "shares": 4869.27,
+   "cost": 3262.4109000000003,
+   "max_shares": 4869.27,
+   "last_trade_ts": 1784710413
+  },
+  "jtwyslljy|8079521782343055519718113155950152572111838190783082444465320050855236086755": {
+   "leader": "jtwyslljy",
+   "asset": "8079521782343055519718113155950152572111838190783082444465320050855236086755",
+   "condition_id": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
+   "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-hanfman-2026-07-22",
+   "shares": 8000.0,
+   "cost": 2800.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784710431
+  },
+  "jtwyslljy|21653617706610130322773867920435453726985557325711117789685402902467137290162": {
+   "leader": "jtwyslljy",
+   "asset": "21653617706610130322773867920435453726985557325711117789685402902467137290162",
+   "condition_id": "0xcabd45bbac7facb7980779e2ac69dc1a910829ca3a946b8341ad11b532d9a512",
+   "title": "Generali Open: Alex Molcan vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-molcan-altmaie-2026-07-22",
+   "shares": 10000.0,
+   "cost": 4500.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784710446
+  },
+  "jtwyslljy|66896028884103417794913306184223710075420649854107579132271328491492289996101": {
+   "leader": "jtwyslljy",
+   "asset": "66896028884103417794913306184223710075420649854107579132271328491492289996101",
+   "condition_id": "0x2c10caa579f60f43e2248157c2c094453096cb1eec4b60e6a54cd1000b51ff03",
+   "title": "Generali Open: Alexander Bublik vs Facundo Acosta",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-acosta-2026-07-22",
+   "shares": 7000.0,
+   "cost": 4480.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1784710464
   }
  },
  "positions": [
@@ -8856,6 +8970,114 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77313056504568088331866665036422343297363238932503611613072654646858228792612",
+   "condition_id": "0x61af2cc3b324cbd876ebfc4b76c98c9c5e86a7e82d097a85f07f24953626af9c",
+   "title": "Generali Open: Quentin Halys vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-halys-vachero-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393119+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4772.6,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.64,
+   "ask_depth": 917.8,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8079521782343055519718113155950152572111838190783082444465320050855236086755",
+   "condition_id": "0xf8502b19a602d80ac7694be67144bb1f30626fbabd6332251125874a7454edf7",
+   "title": "Generali Open: Marco Trungelliti vs Yannick Hanfmann",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-hanfman-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393198+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 2800.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.35,
+   "ask_depth": 1573.58,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88404029102192554817984977586593110140071732827939328543785423758053598475466",
+   "condition_id": "0x305d7c3d8e2961e20ccd787118c5934bef98bc2ad9e3b55a0ab8a573371bd6eb",
+   "title": "Generali Open: Sebastian Baez vs Arthur Rinderknech",
+   "outcome": "Arthur Rinderknech",
+   "slug": "atp-baez-rinderk-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393234+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 2350.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.47,
+   "ask_depth": 1008.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114893847055873979829061046704652205416223472114227468312360995064068508065151",
+   "condition_id": "0x179ad066e679114cad7149ff50a8e928071b5748dfb7698dae0612d64ed474b5",
+   "title": "Generali Open: Jan-Lennard Struff vs Mariano Navone",
+   "outcome": "Mariano Navone",
+   "slug": "atp-struff-navone-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393262+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 3262.41,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.68,
+   "ask_depth": 44769.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21653617706610130322773867920435453726985557325711117789685402902467137290162",
+   "condition_id": "0xcabd45bbac7facb7980779e2ac69dc1a910829ca3a946b8341ad11b532d9a512",
+   "title": "Generali Open: Alex Molcan vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-molcan-altmaie-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393300+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 4500.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.45,
+   "ask_depth": 15686.96,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66896028884103417794913306184223710075420649854107579132271328491492289996101",
+   "condition_id": "0x2c10caa579f60f43e2248157c2c094453096cb1eec4b60e6a54cd1000b51ff03",
+   "title": "Generali Open: Alexander Bublik vs Facundo Acosta",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-acosta-2026-07-22",
+   "opened_at": "2026-07-22T09:00:53.393330+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4480.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.64,
+   "ask_depth": 2463.98,
    "status": "open"
   }
  ],
@@ -12981,5 +13203,5 @@
   }
  ],
  "total_pnl": -1409.1246,
- "last_updated": "2026-07-21T20:20:25.727706+00:00"
+ "last_updated": "2026-07-22T09:00:54.002220+00:00"
 }
