@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7294.184410000001,
+ "bankroll": 7396.284415000001,
  "last_seen": {
-  "jtwyslljy": 1784749590,
+  "jtwyslljy": 1784750905,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6508,6 +6508,13 @@
    "SELL",
    10,
    1784749590
+  ],
+  [
+   "0x48d7d567496912bbc9ee28f013c19127b3b406ee03e4dbbf81417dfcecc0e6e2",
+   "78175718944923683736128588527425180607221463456122408686032586223150357499750",
+   "SELL",
+   11000,
+   1784750905
   ]
  ],
  "leader_pos": {
@@ -9314,10 +9321,10 @@
    "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
    "outcome": "Kyrian Jacquet",
    "slug": "atp-jacquet-blockx-2026-07-22",
-   "shares": 21096.49,
-   "cost": 10056.903499769707,
+   "shares": 10096.490000000002,
+   "cost": 4115.616299569707,
    "max_shares": 21106.49,
-   "last_trade_ts": 1784749590
+   "last_trade_ts": 1784750905
   },
   "jtwyslljy|49117658170968833531089894587362288461301777994483882858634189552626706821952": {
    "leader": "jtwyslljy",
@@ -9439,24 +9446,6 @@
    "copy_delay_min": 13.0,
    "best_ask": 0.5,
    "ask_depth": 461.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "78175718944923683736128588527425180607221463456122408686032586223150357499750",
-   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
-   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
-   "outcome": "Kyrian Jacquet",
-   "slug": "atp-jacquet-blockx-2026-07-22",
-   "opened_at": "2026-07-22T19:50:28.565567+00:00",
-   "entry_price": 0.4407,
-   "shares": 226.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.4767,
-   "leader_cost": 10061.9,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.44,
-   "ask_depth": 210.0,
    "status": "open"
   }
  ],
@@ -13500,6 +13489,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "78175718944923683736128588527425180607221463456122408686032586223150357499750",
+   "condition_id": "0x3e0d236fe197cd40a9ed9ada61026abbbb67c8c42dd48d858603042f8ef9e2db",
+   "title": "Estoril Open: Kyrian Jacquet vs Alexander Blockx",
+   "outcome": "Kyrian Jacquet",
+   "slug": "atp-jacquet-blockx-2026-07-22",
+   "opened_at": "2026-07-22T19:50:28.565567+00:00",
+   "entry_price": 0.4407,
+   "shares": 226.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.4767,
+   "leader_cost": 10061.9,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.44,
+   "ask_depth": 210.0,
+   "status": "closed",
+   "closed_at": "2026-07-22T20:20:28.059844+00:00",
+   "exit_price": 0.45,
+   "pnl": 2.1,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -13789,6 +13800,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -2005.8158,
- "last_updated": "2026-07-22T20:00:51.753205+00:00"
+ "total_pnl": -2003.7158000000002,
+ "last_updated": "2026-07-22T20:20:28.627703+00:00"
 }
