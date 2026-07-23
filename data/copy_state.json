@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7773.961415000002,
+ "bankroll": 7962.640615000001,
  "last_seen": {
   "jtwyslljy": 1784753190,
   "0x53757615de": 1784324596
@@ -9404,24 +9404,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
-   "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
-   "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
-   "outcome": "Los Angeles Dodgers",
-   "slug": "mlb-lad-phi-2026-07-22",
-   "opened_at": "2026-07-22T17:10:34.484442+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 7950.0,
-   "copy_delay_min": 11.0,
-   "best_ask": 0.53,
-   "ask_depth": 30991.27,
-   "status": "open"
   }
  ],
  "closed": [
@@ -13596,6 +13578,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84120196358836210138289229401458385294341489636518721207231661445588819672171",
+   "condition_id": "0xaffdb6f8316b7efdbfde2c8b0ec582a28063258895f4314ab36081db0fcd8b36",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "opened_at": "2026-07-22T17:10:34.484442+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 7950.0,
+   "copy_delay_min": 11.0,
+   "best_ask": 0.53,
+   "ask_depth": 30991.27,
+   "status": "won",
+   "closed_at": "2026-07-23T02:15:29.761582+00:00",
+   "exit_price": 1.0,
+   "pnl": 88.6792,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13885,6 +13889,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -2026.0387999999998,
- "last_updated": "2026-07-23T01:35:24.674114+00:00"
+ "total_pnl": -1937.3595999999998,
+ "last_updated": "2026-07-23T02:15:29.762726+00:00"
 }
