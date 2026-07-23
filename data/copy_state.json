@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8135.329615000001,
+ "bankroll": 8348.095615,
  "last_seen": {
   "jtwyslljy": 1784807601,
   "0x53757615de": 1784324596
@@ -9501,24 +9501,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "15340561596772492058066990460137558440387971698940386329396198964099985630667",
-   "condition_id": "0x229d6bf978e59872f6f9cd59953f3ff7df22250187ef9e32963caf10637e433d",
-   "title": "Generali Open: Tomas Etcheverry vs Ignacio Buse",
-   "outcome": "Tomas Etcheverry",
-   "slug": "atp-etcheve-buse-2026-07-24",
-   "opened_at": "2026-07-23T06:40:26.964046+00:00",
-   "entry_price": 0.47,
-   "shares": 212.766,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 3760.0,
-   "copy_delay_min": 4.9,
-   "best_ask": 0.47,
-   "ask_depth": 4501.54,
-   "status": "open"
   }
  ],
  "closed": [
@@ -13759,6 +13741,28 @@
    "exit_price": 1.0,
    "pnl": 78.5714,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "15340561596772492058066990460137558440387971698940386329396198964099985630667",
+   "condition_id": "0x229d6bf978e59872f6f9cd59953f3ff7df22250187ef9e32963caf10637e433d",
+   "title": "Generali Open: Tomas Etcheverry vs Ignacio Buse",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-buse-2026-07-24",
+   "opened_at": "2026-07-23T06:40:26.964046+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 3760.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.47,
+   "ask_depth": 4501.54,
+   "status": "won",
+   "closed_at": "2026-07-23T14:58:30.447596+00:00",
+   "exit_price": 1.0,
+   "pnl": 112.766,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -14058,6 +14062,6 @@
    "outcome": "Pablo Carreno Busta"
   }
  ],
- "total_pnl": -1664.6705999999997,
- "last_updated": "2026-07-23T13:00:58.036963+00:00"
+ "total_pnl": -1551.9045999999996,
+ "last_updated": "2026-07-23T14:58:30.448521+00:00"
 }
