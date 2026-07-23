@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7956.758215000001,
+ "bankroll": 8135.329615000001,
  "last_seen": {
   "jtwyslljy": 1784807601,
   "0x53757615de": 1784324596
@@ -9504,24 +9504,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "67553889789999218680034155867879058966119295205036435802040538648536158391006",
-   "condition_id": "0x04c5022b6726f117867012a37e57216e598577b791d91ba9254425e7045bcb0c",
-   "title": "Generali Open: Yannick Hanfmann vs Sebastian Baez",
-   "outcome": "Yannick Hanfmann",
-   "slug": "atp-hanfman-baez-2026-07-24",
-   "opened_at": "2026-07-23T06:40:26.841507+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 4479.99,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.56,
-   "ask_depth": 2700.96,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "15340561596772492058066990460137558440387971698940386329396198964099985630667",
    "condition_id": "0x229d6bf978e59872f6f9cd59953f3ff7df22250187ef9e32963caf10637e433d",
    "title": "Generali Open: Tomas Etcheverry vs Ignacio Buse",
@@ -13755,6 +13737,28 @@
    "exit_price": 1.0,
    "pnl": 194.1176,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67553889789999218680034155867879058966119295205036435802040538648536158391006",
+   "condition_id": "0x04c5022b6726f117867012a37e57216e598577b791d91ba9254425e7045bcb0c",
+   "title": "Generali Open: Yannick Hanfmann vs Sebastian Baez",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-baez-2026-07-24",
+   "opened_at": "2026-07-23T06:40:26.841507+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 4479.99,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.56,
+   "ask_depth": 2700.96,
+   "status": "won",
+   "closed_at": "2026-07-23T13:00:58.035962+00:00",
+   "exit_price": 1.0,
+   "pnl": 78.5714,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -14054,6 +14058,6 @@
    "outcome": "Pablo Carreno Busta"
   }
  ],
- "total_pnl": -1743.2419999999997,
- "last_updated": "2026-07-23T11:55:22.322296+00:00"
+ "total_pnl": -1664.6705999999997,
+ "last_updated": "2026-07-23T13:00:58.036963+00:00"
 }
