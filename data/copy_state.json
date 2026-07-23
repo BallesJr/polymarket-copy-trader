@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7962.640615000001,
+ "bankroll": 7662.640615000001,
  "last_seen": {
-  "jtwyslljy": 1784753190,
+  "jtwyslljy": 1784788534,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6550,6 +6550,27 @@
    "SELL",
    6972.8,
    1784753190
+  ],
+  [
+   "0x018104a854c85a86419f0ee65dd372bf45c0f3900e038e18b01daf326ab94d97",
+   "94285532215897361257111014065959220870367544957219634439096142569856262177168",
+   "BUY",
+   9000,
+   1784788500
+  ],
+  [
+   "0xcd8deef8ea9805c23d23550ad714c830a73c0965b3df21ea74ea971691a5ec8a",
+   "67553889789999218680034155867879058966119295205036435802040538648536158391006",
+   "BUY",
+   7999.99,
+   1784788516
+  ],
+  [
+   "0x2471ac5b96228d6287d0725634f98cca979857efd30b9b593e53fff661a877ba",
+   "15340561596772492058066990460137558440387971698940386329396198964099985630667",
+   "BUY",
+   8000,
+   1784788534
   ]
  ],
  "leader_pos": {
@@ -9384,6 +9405,42 @@
    "cost": 9988.2837,
    "max_shares": 17712.89,
    "last_trade_ts": 1784753190
+  },
+  "jtwyslljy|94285532215897361257111014065959220870367544957219634439096142569856262177168": {
+   "leader": "jtwyslljy",
+   "asset": "94285532215897361257111014065959220870367544957219634439096142569856262177168",
+   "condition_id": "0xc5a3969400ce1b31d92e6f2c2665bded92761ba99a505297fd543b35f0c1e761",
+   "title": "Generali Open: Mariano Navone vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-navone-halys-2026-07-24",
+   "shares": 9000.0,
+   "cost": 3060.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1784788500
+  },
+  "jtwyslljy|67553889789999218680034155867879058966119295205036435802040538648536158391006": {
+   "leader": "jtwyslljy",
+   "asset": "67553889789999218680034155867879058966119295205036435802040538648536158391006",
+   "condition_id": "0x04c5022b6726f117867012a37e57216e598577b791d91ba9254425e7045bcb0c",
+   "title": "Generali Open: Yannick Hanfmann vs Sebastian Baez",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-baez-2026-07-24",
+   "shares": 7999.99,
+   "cost": 4479.9944000000005,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1784788516
+  },
+  "jtwyslljy|15340561596772492058066990460137558440387971698940386329396198964099985630667": {
+   "leader": "jtwyslljy",
+   "asset": "15340561596772492058066990460137558440387971698940386329396198964099985630667",
+   "condition_id": "0x229d6bf978e59872f6f9cd59953f3ff7df22250187ef9e32963caf10637e433d",
+   "title": "Generali Open: Tomas Etcheverry vs Ignacio Buse",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-buse-2026-07-24",
+   "shares": 8000.0,
+   "cost": 3760.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784788534
   }
  },
  "positions": [
@@ -9403,6 +9460,60 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94285532215897361257111014065959220870367544957219634439096142569856262177168",
+   "condition_id": "0xc5a3969400ce1b31d92e6f2c2665bded92761ba99a505297fd543b35f0c1e761",
+   "title": "Generali Open: Mariano Navone vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-navone-halys-2026-07-24",
+   "opened_at": "2026-07-23T06:40:26.717069+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.34,
+   "ask_depth": 5488.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67553889789999218680034155867879058966119295205036435802040538648536158391006",
+   "condition_id": "0x04c5022b6726f117867012a37e57216e598577b791d91ba9254425e7045bcb0c",
+   "title": "Generali Open: Yannick Hanfmann vs Sebastian Baez",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-baez-2026-07-24",
+   "opened_at": "2026-07-23T06:40:26.841507+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 4479.99,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.56,
+   "ask_depth": 2700.96,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "15340561596772492058066990460137558440387971698940386329396198964099985630667",
+   "condition_id": "0x229d6bf978e59872f6f9cd59953f3ff7df22250187ef9e32963caf10637e433d",
+   "title": "Generali Open: Tomas Etcheverry vs Ignacio Buse",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-buse-2026-07-24",
+   "opened_at": "2026-07-23T06:40:26.964046+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 3760.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.47,
+   "ask_depth": 4501.54,
    "status": "open"
   }
  ],
@@ -13890,5 +14001,5 @@
   }
  ],
  "total_pnl": -1937.3595999999998,
- "last_updated": "2026-07-23T02:15:29.762726+00:00"
+ "last_updated": "2026-07-23T06:40:27.495160+00:00"
 }
