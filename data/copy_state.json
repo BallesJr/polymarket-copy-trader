@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8048.095615,
  "last_seen": {
-  "jtwyslljy": 1784834848,
+  "jtwyslljy": 1784835069,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6662,6 +6662,20 @@
    "BUY",
    11500,
    1784834848
+  ],
+  [
+   "0x2160e92a45bf0d4083361fdecb68843e763da25a2c1b10cb134c41710402ff91",
+   "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "BUY",
+   2812.67,
+   1784834992
+  ],
+  [
+   "0x38e1344243a37e6677e846ef56fe5293a8df12edb1d626f9fc4bc9c10b2cee29",
+   "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "BUY",
+   135,
+   1784835069
   ]
  ],
  "leader_pos": {
@@ -9576,10 +9590,10 @@
    "title": "Minnesota Twins vs. Cleveland Guardians",
    "outcome": "Minnesota Twins",
    "slug": "mlb-min-cle-2026-07-23",
-   "shares": 94421.73000000001,
-   "cost": 33929.8228,
-   "max_shares": 94421.73000000001,
-   "last_trade_ts": 1784834848
+   "shares": 97369.40000000001,
+   "cost": 35031.2607,
+   "max_shares": 97369.40000000001,
+   "last_trade_ts": 1784835069
   },
   "jtwyslljy|46779723381704339196945414642157562369699423381301456693265473805729782194057": {
    "leader": "jtwyslljy",
@@ -14255,8 +14269,18 @@
    "leader": "jtwyslljy",
    "title": "Minnesota Twins vs. Cleveland Guardians",
    "outcome": "Minnesota Twins"
+  },
+  {
+   "at": "2026-07-23T19:35:23.704240+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-23T17:10:00+00:00",
+   "condition_id": "0xd53490ec73ecbca2118c8c2ff6c4b4acf76b81c1aba575d3c2861f59c42613f6",
+   "copy_delay_min": 4.2,
+   "leader": "jtwyslljy",
+   "title": "Minnesota Twins vs. Cleveland Guardians",
+   "outcome": "Minnesota Twins"
   }
  ],
  "total_pnl": -1551.9045999999996,
- "last_updated": "2026-07-23T19:30:39.334238+00:00"
+ "last_updated": "2026-07-23T19:35:24.420045+00:00"
 }
