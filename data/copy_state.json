@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8148.095615,
+ "bankroll": 8048.095615,
  "last_seen": {
-  "jtwyslljy": 1784834506,
+  "jtwyslljy": 1784834848,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6641,6 +6641,27 @@
    "BUY",
    1000,
    1784834506
+  ],
+  [
+   "0x36426d70d070de40b70326d3429ac7ca61e2a6aa50d93010935bdfb258d403c4",
+   "8844810253197826881852053960892922075876015155965804398020154114059085936741",
+   "BUY",
+   5000,
+   1784834790
+  ],
+  [
+   "0x967342ccb278e6caecf0e6e0d675e85d8b929f78bace1f725292f6a4901ca3af",
+   "46779723381704339196945414642157562369699423381301456693265473805729782194057",
+   "BUY",
+   5000,
+   1784834800
+  ],
+  [
+   "0x0f20d4bd43ef92e580ed5c63610f2a91bfefcdba292131ba84ae78871315c479",
+   "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "BUY",
+   11500,
+   1784834848
   ]
  ],
  "leader_pos": {
@@ -9531,10 +9552,10 @@
    "title": "Tampa Bay Rays vs. Toronto Blue Jays",
    "outcome": "Tampa Bay Rays",
    "slug": "mlb-tb-tor-2026-07-23",
-   "shares": 5000.0,
-   "cost": 2550.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1784826075
+   "shares": 10000.0,
+   "cost": 4350.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784834790
   },
   "jtwyslljy|71856455118493709297632503907487243818721512819680089446567991379519689617161": {
    "leader": "jtwyslljy",
@@ -9555,10 +9576,22 @@
    "title": "Minnesota Twins vs. Cleveland Guardians",
    "outcome": "Minnesota Twins",
    "slug": "mlb-min-cle-2026-07-23",
-   "shares": 82921.73000000001,
-   "cost": 30019.822799999998,
-   "max_shares": 82921.73000000001,
-   "last_trade_ts": 1784834506
+   "shares": 94421.73000000001,
+   "cost": 33929.8228,
+   "max_shares": 94421.73000000001,
+   "last_trade_ts": 1784834848
+  },
+  "jtwyslljy|46779723381704339196945414642157562369699423381301456693265473805729782194057": {
+   "leader": "jtwyslljy",
+   "asset": "46779723381704339196945414642157562369699423381301456693265473805729782194057",
+   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
+   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-ari-stl-2026-06-25",
+   "shares": 5000.0,
+   "cost": 2550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1784834800
   }
  },
  "positions": [
@@ -9614,6 +9647,24 @@
    "copy_delay_min": 9.0,
    "best_ask": 0.52,
    "ask_depth": 170969.34,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46779723381704339196945414642157562369699423381301456693265473805729782194057",
+   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
+   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-ari-stl-2026-06-25",
+   "opened_at": "2026-07-23T19:30:38.559193+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 2550.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.51,
+   "ask_depth": 189927.46,
    "status": "open"
   }
  ],
@@ -14194,8 +14245,18 @@
    "leader": "jtwyslljy",
    "title": "Minnesota Twins vs. Cleveland Guardians",
    "outcome": "Minnesota Twins"
+  },
+  {
+   "at": "2026-07-23T19:30:38.710767+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-23T17:10:00+00:00",
+   "condition_id": "0xd53490ec73ecbca2118c8c2ff6c4b4acf76b81c1aba575d3c2861f59c42613f6",
+   "copy_delay_min": 3.2,
+   "leader": "jtwyslljy",
+   "title": "Minnesota Twins vs. Cleveland Guardians",
+   "outcome": "Minnesota Twins"
   }
  ],
  "total_pnl": -1551.9045999999996,
- "last_updated": "2026-07-23T19:25:24.654307+00:00"
+ "last_updated": "2026-07-23T19:30:39.334238+00:00"
 }
