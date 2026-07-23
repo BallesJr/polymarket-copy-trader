@@ -9422,24 +9422,6 @@
    "best_ask": 0.53,
    "ask_depth": 30991.27,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "109388452013883820442440349393990574093882180349560053899876067340703946759476",
-   "condition_id": "0x5f476b8bed20c9503a23435d5366a28b09d48c1676df8d6022f590e5d2eea485",
-   "title": "Los Angeles Dodgers vs. Philadelphia Phillies: O/U 9.5",
-   "outcome": "Under",
-   "slug": "mlb-lad-phi-2026-07-22",
-   "opened_at": "2026-07-22T18:30:37.088936+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 5100.0,
-   "copy_delay_min": 7.6,
-   "best_ask": 0.51,
-   "ask_depth": 9923.79,
-   "status": "open"
   }
  ],
  "closed": [
@@ -13592,6 +13574,28 @@
    "exit_price": 1.0,
    "pnl": 72.4138,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109388452013883820442440349393990574093882180349560053899876067340703946759476",
+   "condition_id": "0x5f476b8bed20c9503a23435d5366a28b09d48c1676df8d6022f590e5d2eea485",
+   "title": "Los Angeles Dodgers vs. Philadelphia Phillies: O/U 9.5",
+   "outcome": "Under",
+   "slug": "mlb-lad-phi-2026-07-22",
+   "opened_at": "2026-07-22T18:30:37.088936+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 5100.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.51,
+   "ask_depth": 9923.79,
+   "status": "lost",
+   "closed_at": "2026-07-23T01:35:24.673054+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -13881,6 +13885,6 @@
    "outcome": "Hugo Gaston"
   }
  ],
- "total_pnl": -1926.0387999999998,
- "last_updated": "2026-07-22T22:40:27.853814+00:00"
+ "total_pnl": -2026.0387999999998,
+ "last_updated": "2026-07-23T01:35:24.674114+00:00"
 }
