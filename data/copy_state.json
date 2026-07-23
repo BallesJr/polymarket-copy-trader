@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7956.758215000001,
  "last_seen": {
-  "jtwyslljy": 1784793832,
+  "jtwyslljy": 1784807601,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6585,6 +6585,20 @@
    "BUY",
    2000,
    1784793832
+  ],
+  [
+   "0x2dc57c60969d3f9aa1949ed942adcfd98160b9c4af07a303fa02b10eba64cd7f",
+   "72194760493889167584603334572467337802931016154586002464493781928267646985813",
+   "BUY",
+   4404.2,
+   1784807586
+  ],
+  [
+   "0x02367a93c9ed9af8cf4abc4cbad9b345458535dc84d5a84b5a3945d54469987e",
+   "72194760493889167584603334572467337802931016154586002464493781928267646985813",
+   "BUY",
+   666.11,
+   1784807601
   ]
  ],
  "leader_pos": {
@@ -9455,6 +9469,18 @@
    "cost": 4720.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1784793832
+  },
+  "jtwyslljy|72194760493889167584603334572467337802931016154586002464493781928267646985813": {
+   "leader": "jtwyslljy",
+   "asset": "72194760493889167584603334572467337802931016154586002464493781928267646985813",
+   "condition_id": "0xa99bbfe20427fabfaf526099c20c51b0979fa4bd0ea9be2a3a440fcb8a1dd04e",
+   "title": "Estoril Open: Luca Van Assche vs Pablo Carreno Busta",
+   "outcome": "Pablo Carreno Busta",
+   "slug": "atp-assche-busta-2026-07-22",
+   "shares": 5070.3099999999995,
+   "cost": 1730.5665000000001,
+   "max_shares": 5070.3099999999995,
+   "last_trade_ts": 1784807601
   }
  },
  "positions": [
@@ -14016,8 +14042,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Hugo Gaston vs Titouan Droguet",
    "outcome": "Hugo Gaston"
+  },
+  {
+   "at": "2026-07-23T11:55:21.720053+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-23T11:05:00+00:00",
+   "condition_id": "0xa99bbfe20427fabfaf526099c20c51b0979fa4bd0ea9be2a3a440fcb8a1dd04e",
+   "copy_delay_min": 2.0,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Luca Van Assche vs Pablo Carreno Busta",
+   "outcome": "Pablo Carreno Busta"
   }
  ],
  "total_pnl": -1743.2419999999997,
- "last_updated": "2026-07-23T11:20:25.465642+00:00"
+ "last_updated": "2026-07-23T11:55:22.322296+00:00"
 }
