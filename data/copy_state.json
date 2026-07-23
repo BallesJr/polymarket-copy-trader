@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8148.095615,
  "last_seen": {
-  "jtwyslljy": 1784826087,
+  "jtwyslljy": 1784834061,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6613,6 +6613,20 @@
    "BUY",
    5000,
    1784826087
+  ],
+  [
+   "0x7d2acde2c317d7f70fa514f564e254bdc7ae7e2e12ccf0407b352f434d1d68d2",
+   "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "BUY",
+   40000,
+   1784833957
+  ],
+  [
+   "0xd7d9dff5f8780929dcc30fee21824ef537530d4ae4bca5aa182f19c81ff31d7e",
+   "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "BUY",
+   41241.73,
+   1784834061
   ]
  ],
  "leader_pos": {
@@ -9519,6 +9533,18 @@
    "cost": 2600.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1784826087
+  },
+  "jtwyslljy|90185499804615873084521849665728482194435575141026611141365780343138153553416": {
+   "leader": "jtwyslljy",
+   "asset": "90185499804615873084521849665728482194435575141026611141365780343138153553416",
+   "condition_id": "0xd53490ec73ecbca2118c8c2ff6c4b4acf76b81c1aba575d3c2861f59c42613f6",
+   "title": "Minnesota Twins vs. Cleveland Guardians",
+   "outcome": "Minnesota Twins",
+   "slug": "mlb-min-cle-2026-07-23",
+   "shares": 81241.73000000001,
+   "cost": 29247.0228,
+   "max_shares": 81241.73000000001,
+   "last_trade_ts": 1784834061
   }
  },
  "positions": [
@@ -14134,8 +14160,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Luca Van Assche vs Pablo Carreno Busta",
    "outcome": "Pablo Carreno Busta"
+  },
+  {
+   "at": "2026-07-23T19:20:25.989279+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-23T17:10:00+00:00",
+   "condition_id": "0xd53490ec73ecbca2118c8c2ff6c4b4acf76b81c1aba575d3c2861f59c42613f6",
+   "copy_delay_min": 6.1,
+   "leader": "jtwyslljy",
+   "title": "Minnesota Twins vs. Cleveland Guardians",
+   "outcome": "Minnesota Twins"
   }
  ],
  "total_pnl": -1551.9045999999996,
- "last_updated": "2026-07-23T17:10:28.253706+00:00"
+ "last_updated": "2026-07-23T19:20:26.390452+00:00"
 }
