@@ -9636,24 +9636,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "8844810253197826881852053960892922075876015155965804398020154114059085936741",
-   "condition_id": "0xbbe121ffa9fc47b8c012bb20bb68ace100fc8358032a423115c2b62d360a9efe",
-   "title": "Tampa Bay Rays vs. Toronto Blue Jays",
-   "outcome": "Tampa Bay Rays",
-   "slug": "mlb-tb-tor-2026-07-23",
-   "opened_at": "2026-07-23T17:10:27.413603+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 2550.0,
-   "copy_delay_min": 9.2,
-   "best_ask": 0.51,
-   "ask_depth": 97248.68,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "71856455118493709297632503907487243818721512819680089446567991379519689617161",
    "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
    "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
@@ -13949,6 +13931,28 @@
    "exit_price": 1.0,
    "pnl": 112.766,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8844810253197826881852053960892922075876015155965804398020154114059085936741",
+   "condition_id": "0xbbe121ffa9fc47b8c012bb20bb68ace100fc8358032a423115c2b62d360a9efe",
+   "title": "Tampa Bay Rays vs. Toronto Blue Jays",
+   "outcome": "Tampa Bay Rays",
+   "slug": "mlb-tb-tor-2026-07-23",
+   "opened_at": "2026-07-23T17:10:27.413603+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 2550.0,
+   "copy_delay_min": 9.2,
+   "best_ask": 0.51,
+   "ask_depth": 97248.68,
+   "status": "lost",
+   "closed_at": "2026-07-23T21:45:29.490390+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -14288,6 +14292,6 @@
    "outcome": "Minnesota Twins"
   }
  ],
- "total_pnl": -1551.9045999999996,
- "last_updated": "2026-07-23T19:40:25.030736+00:00"
+ "total_pnl": -1651.9045999999996,
+ "last_updated": "2026-07-23T21:45:29.491676+00:00"
 }
