@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7944.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784909572,
+  "jtwyslljy": 1784911557,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6809,6 +6809,20 @@
    "SELL",
    13,
    1784909572
+  ],
+  [
+   "0xeb876187d42d0e54d140b8a7f25d621880a7f4186b7069f9ea81ca2b4933b6ec",
+   "31425049360804337590211497574973512911359149996889351181904684042887903701475",
+   "BUY",
+   10000,
+   1784911507
+  ],
+  [
+   "0x4dfbb7b5b1fa7e51b29501c21697666b945b9e9f3a5835716e78401ca3af5cb4",
+   "41790049695108502411538872740642190231451645116465493841375889342752883421206",
+   "BUY",
+   3000,
+   1784911557
   ]
  ],
  "leader_pos": {
@@ -9823,6 +9837,30 @@
    "cost": 6296.676000003728,
    "max_shares": 12590.84,
    "last_trade_ts": 1784909572
+  },
+  "jtwyslljy|31425049360804337590211497574973512911359149996889351181904684042887903701475": {
+   "leader": "jtwyslljy",
+   "asset": "31425049360804337590211497574973512911359149996889351181904684042887903701475",
+   "condition_id": "0x2f5bb28b0601965befb1a8ff21b1c1504666f8004516e8d913ded94e17524cf7",
+   "title": "Counter-Strike: Liquid vs Vitality (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Vitality",
+   "slug": "cs2-tl1-vit-2026-07-24",
+   "shares": 10000.0,
+   "cost": 6400.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784911507
+  },
+  "jtwyslljy|41790049695108502411538872740642190231451645116465493841375889342752883421206": {
+   "leader": "jtwyslljy",
+   "asset": "41790049695108502411538872740642190231451645116465493841375889342752883421206",
+   "condition_id": "0x6189bf45b0370e0716b5c99036de53a14bbbe1151127f83e887c05f20a4ffb23",
+   "title": "LoL: G2 Esports vs Movistar KOI (BO3) - LEC Regular Season",
+   "outcome": "Movistar KOI",
+   "slug": "lol-g2-mkoi-2026-07-24",
+   "shares": 3000.0,
+   "cost": 1140.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1784911557
   }
  },
  "positions": [
@@ -14636,8 +14674,28 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Andrey Rublev vs Luca Van Assche",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-07-24T16:50:26.988511+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T15:50:00+00:00",
+   "condition_id": "0x2f5bb28b0601965befb1a8ff21b1c1504666f8004516e8d913ded94e17524cf7",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Liquid vs Vitality (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Vitality"
+  },
+  {
+   "at": "2026-07-24T16:50:27.123366+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T14:30:00+00:00",
+   "condition_id": "0x6189bf45b0370e0716b5c99036de53a14bbbe1151127f83e887c05f20a4ffb23",
+   "copy_delay_min": 4.5,
+   "leader": "jtwyslljy",
+   "title": "LoL: G2 Esports vs Movistar KOI (BO3) - LEC Regular Season",
+   "outcome": "Movistar KOI"
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T16:25:27.357629+00:00"
+ "last_updated": "2026-07-24T16:50:27.686697+00:00"
 }
