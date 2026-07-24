@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8144.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784869687,
+  "jtwyslljy": 1784897041,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6697,6 +6697,13 @@
    "BUY",
    9992.28,
    1784869687
+  ],
+  [
+   "0x78005bd755fb66e10b784f4a839730b0a14b5fe24e6ffaa12b65c931ed3d9370",
+   "106666210440727374754425600721027252677001301462539967553979444441289648464975",
+   "BUY",
+   10000,
+   1784897041
   ]
  ],
  "leader_pos": {
@@ -9647,10 +9654,10 @@
    "title": "Generali Open: Alexander Bublik vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry",
    "slug": "atp-bublik-etcheve-2026-07-24",
-   "shares": 9992.28,
-   "cost": 3797.0664,
-   "max_shares": 9992.28,
-   "last_trade_ts": 1784869687
+   "shares": 19992.28,
+   "cost": 7497.0664,
+   "max_shares": 19992.28,
+   "last_trade_ts": 1784897041
   }
  },
  "positions": [
@@ -14357,5 +14364,5 @@
   }
  ],
  "total_pnl": -1655.8261999999995,
- "last_updated": "2026-07-24T05:10:24.627190+00:00"
+ "last_updated": "2026-07-24T12:50:27.017375+00:00"
 }
