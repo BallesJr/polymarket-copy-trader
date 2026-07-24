@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7944.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784911557,
+  "jtwyslljy": 1784911855,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6823,6 +6823,13 @@
    "BUY",
    3000,
    1784911557
+  ],
+  [
+   "0x812f148622bb20466fd0dc656f58dbab2a7715cafd2469b95940fc9eb00e7791",
+   "41790049695108502411538872740642190231451645116465493841375889342752883421206",
+   "SELL",
+   3000,
+   1784911855
   ]
  ],
  "leader_pos": {
@@ -9857,10 +9864,10 @@
    "title": "LoL: G2 Esports vs Movistar KOI (BO3) - LEC Regular Season",
    "outcome": "Movistar KOI",
    "slug": "lol-g2-mkoi-2026-07-24",
-   "shares": 3000.0,
-   "cost": 1140.0,
+   "shares": 0.0,
+   "cost": 180.0,
    "max_shares": 3000.0,
-   "last_trade_ts": 1784911557
+   "last_trade_ts": 1784911855
   }
  },
  "positions": [
@@ -14697,5 +14704,5 @@
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T16:50:27.686697+00:00"
+ "last_updated": "2026-07-24T16:55:23.333392+00:00"
 }
