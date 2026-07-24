@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8244.174015,
+ "bankroll": 8144.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784869344,
+  "jtwyslljy": 1784869687,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6690,6 +6690,13 @@
    "BUY",
    1041.69,
    1784869344
+  ],
+  [
+   "0xdb9734373c377a152e884b5814a327d2e0f770526038bc950d481ac5cc3cbf51",
+   "106666210440727374754425600721027252677001301462539967553979444441289648464975",
+   "BUY",
+   9992.28,
+   1784869687
   ]
  ],
  "leader_pos": {
@@ -9632,6 +9639,18 @@
    "cost": 416.67600000000004,
    "max_shares": 1041.69,
    "last_trade_ts": 1784869344
+  },
+  "jtwyslljy|106666210440727374754425600721027252677001301462539967553979444441289648464975": {
+   "leader": "jtwyslljy",
+   "asset": "106666210440727374754425600721027252677001301462539967553979444441289648464975",
+   "condition_id": "0x2538b6a3d4df4752b138abc648965a45b38301c3014bb7c3ff76069f4b2cd369",
+   "title": "Generali Open: Alexander Bublik vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-bublik-etcheve-2026-07-24",
+   "shares": 9992.28,
+   "cost": 3797.0664,
+   "max_shares": 9992.28,
+   "last_trade_ts": 1784869687
   }
  },
  "positions": [
@@ -9651,6 +9670,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "106666210440727374754425600721027252677001301462539967553979444441289648464975",
+   "condition_id": "0x2538b6a3d4df4752b138abc648965a45b38301c3014bb7c3ff76069f4b2cd369",
+   "title": "Generali Open: Alexander Bublik vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-bublik-etcheve-2026-07-24",
+   "opened_at": "2026-07-24T05:10:24.080182+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3797.07,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.38,
+   "ask_depth": 8519.17,
    "status": "open"
   }
  ],
@@ -14320,5 +14357,5 @@
   }
  ],
  "total_pnl": -1655.8261999999995,
- "last_updated": "2026-07-24T05:05:22.770360+00:00"
+ "last_updated": "2026-07-24T05:10:24.627190+00:00"
 }
