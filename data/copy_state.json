@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8048.095615,
+ "bankroll": 8244.174015,
  "last_seen": {
   "jtwyslljy": 1784835193,
   "0x53757615de": 1784324596
@@ -9633,42 +9633,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "71856455118493709297632503907487243818721512819680089446567991379519689617161",
-   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
-   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
-   "outcome": "St. Louis Cardinals",
-   "slug": "mlb-ari-stl-2026-06-25",
-   "opened_at": "2026-07-23T17:10:27.595252+00:00",
-   "entry_price": 0.52,
-   "shares": 192.3077,
-   "stake": 100.0,
-   "leader_vwap": 0.52,
-   "leader_cost": 2600.0,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.52,
-   "ask_depth": 170969.34,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "46779723381704339196945414642157562369699423381301456693265473805729782194057",
-   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
-   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
-   "outcome": "Arizona Diamondbacks",
-   "slug": "mlb-ari-stl-2026-06-25",
-   "opened_at": "2026-07-23T19:30:38.559193+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 2550.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.51,
-   "ask_depth": 189927.46,
-   "status": "open"
   }
  ],
  "closed": [
@@ -13953,6 +13917,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71856455118493709297632503907487243818721512819680089446567991379519689617161",
+   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
+   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
+   "outcome": "St. Louis Cardinals",
+   "slug": "mlb-ari-stl-2026-06-25",
+   "opened_at": "2026-07-23T17:10:27.595252+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 2600.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.52,
+   "ask_depth": 170969.34,
+   "status": "lost",
+   "closed_at": "2026-07-24T01:50:23.918557+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46779723381704339196945414642157562369699423381301456693265473805729782194057",
+   "condition_id": "0xd639ab51a4ff3c0359c4a0bbc05283f088524c007692746778cd2618236859ec",
+   "title": "Arizona Diamondbacks vs. St. Louis Cardinals",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-ari-stl-2026-06-25",
+   "opened_at": "2026-07-23T19:30:38.559193+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 2550.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.51,
+   "ask_depth": 189927.46,
+   "status": "won",
+   "closed_at": "2026-07-24T01:50:24.151508+00:00",
+   "exit_price": 1.0,
+   "pnl": 96.0784,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -14292,6 +14300,6 @@
    "outcome": "Minnesota Twins"
   }
  ],
- "total_pnl": -1651.9045999999996,
- "last_updated": "2026-07-23T21:45:29.491676+00:00"
+ "total_pnl": -1655.8261999999995,
+ "last_updated": "2026-07-24T01:50:24.152625+00:00"
 }
