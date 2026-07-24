@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7944.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784907396,
+  "jtwyslljy": 1784909440,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6788,6 +6788,13 @@
    "BUY",
    12500,
    1784907396
+  ],
+  [
+   "0x704b88a7a894e3dc24f69b6ec822e5096471fbb1039ea28c2a1da253a04bd6b8",
+   "45121023754043983260457669326805565677537009058438237531752657331922011826478",
+   "BUY",
+   85.48,
+   1784909440
   ]
  ],
  "leader_pos": {
@@ -9798,10 +9805,10 @@
    "title": "Estoril Open: Roman Andres Burruchaga vs Alexander Blockx",
    "outcome": "Alexander Blockx",
    "slug": "atp-burruch-blockx-2026-07-24",
-   "shares": 12500.0,
-   "cost": 6250.0,
-   "max_shares": 12500.0,
-   "last_trade_ts": 1784907396
+   "shares": 12585.48,
+   "cost": 6301.138000003728,
+   "max_shares": 12585.48,
+   "last_trade_ts": 1784909440
   }
  },
  "positions": [
@@ -14618,5 +14625,5 @@
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T15:40:24.679669+00:00"
+ "last_updated": "2026-07-24T16:16:14.577878+00:00"
 }
