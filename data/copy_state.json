@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8143.974015000001,
  "last_seen": {
-  "jtwyslljy": 1784926798,
+  "jtwyslljy": 1784927104,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6879,6 +6879,13 @@
    "BUY",
    4843,
    1784926798
+  ],
+  [
+   "0x9100222e075dcfb41aff547023f7d83fd89aefc63b2a24f217f2576b7ef995dd",
+   "114663480256745477124116859567898025621486084976336283156854859269891557365760",
+   "BUY",
+   8963.88,
+   1784927104
   ]
  ],
  "leader_pos": {
@@ -9925,10 +9932,10 @@
    "title": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
    "outcome": "Sharks",
    "slug": "cs2-shk-furia-2026-07-24",
-   "shares": 10000.0,
-   "cost": 1500.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1784915791
+   "shares": 18963.879999999997,
+   "cost": 3382.4147999999996,
+   "max_shares": 18963.879999999997,
+   "last_trade_ts": 1784927104
   },
   "jtwyslljy|12222073657300063447083285497394213812673975500064676265717465861635498400873": {
    "leader": "jtwyslljy",
@@ -14824,8 +14831,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Jaime Faria vs Luciano Darderi",
    "outcome": "Jaime Faria"
+  },
+  {
+   "at": "2026-07-24T21:10:29.641174+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T18:00:00+00:00",
+   "condition_id": "0x3848eb101766129be9aac471e19461697c8d160e53ac54f292b05f6cbbbe1016",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Sharks"
   }
  ],
  "total_pnl": -1756.0261999999996,
- "last_updated": "2026-07-24T21:05:24.458233+00:00"
+ "last_updated": "2026-07-24T21:10:30.245162+00:00"
 }
