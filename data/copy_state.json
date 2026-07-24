@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8144.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784905266,
+  "jtwyslljy": 1784905419,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6753,6 +6753,13 @@
    "BUY",
    57.1,
    1784905266
+  ],
+  [
+   "0x4dcf4a5cff62c2f0bd3f63eecaab1f141273c61a61768468c83fb63ebf981d66",
+   "59752951025147169952261402100015980063043197200310418440454857179921761216324",
+   "BUY",
+   20551.83,
+   1784905419
   ]
  ],
  "leader_pos": {
@@ -9731,6 +9738,18 @@
    "cost": 5656.4274000000005,
    "max_shares": 11207.9,
    "last_trade_ts": 1784905266
+  },
+  "jtwyslljy|59752951025147169952261402100015980063043197200310418440454857179921761216324": {
+   "leader": "jtwyslljy",
+   "asset": "59752951025147169952261402100015980063043197200310418440454857179921761216324",
+   "condition_id": "0xc3fa2a1bba11d4faa7073148fa72c7523b160b08e239f0a4c8a800e49778c211",
+   "title": "Estoril Open: Andrey Rublev vs Luca Van Assche",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-rublev-assche-2026-07-24",
+   "shares": 20551.83,
+   "cost": 13153.1712,
+   "max_shares": 20551.83,
+   "last_trade_ts": 1784905419
   }
  },
  "positions": [
@@ -14488,8 +14507,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Andrey Rublev vs Luca Van Assche",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-07-24T15:10:25.362684+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T13:05:00+00:00",
+   "condition_id": "0xc3fa2a1bba11d4faa7073148fa72c7523b160b08e239f0a4c8a800e49778c211",
+   "copy_delay_min": 6.8,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Andrey Rublev vs Luca Van Assche",
+   "outcome": "Luca Van Assche"
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T15:05:21.552548+00:00"
+ "last_updated": "2026-07-24T15:10:25.786004+00:00"
 }
