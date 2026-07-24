@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 7944.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784911855,
+  "jtwyslljy": 1784915791,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6830,6 +6830,20 @@
    "SELL",
    3000,
    1784911855
+  ],
+  [
+   "0x211765dfe57ca327d0b0d3a32d03e8b9689760416ec404792d767b5414c75029",
+   "45121023754043983260457669326805565677537009058438237531752657331922011826478",
+   "BUY",
+   5450.28,
+   1784915673
+  ],
+  [
+   "0xcc3734544894118d5d2414e8d845259df3254941a50486ffa33e0d07f1fe5ef8",
+   "114663480256745477124116859567898025621486084976336283156854859269891557365760",
+   "BUY",
+   10000,
+   1784915791
   ]
  ],
  "leader_pos": {
@@ -9840,10 +9854,10 @@
    "title": "Estoril Open: Roman Andres Burruchaga vs Alexander Blockx",
    "outcome": "Alexander Blockx",
    "slug": "atp-burruch-blockx-2026-07-24",
-   "shares": 12577.84,
-   "cost": 6296.676000003728,
-   "max_shares": 12590.84,
-   "last_trade_ts": 1784909572
+   "shares": 18028.12,
+   "cost": 9239.827200003729,
+   "max_shares": 18028.12,
+   "last_trade_ts": 1784915673
   },
   "jtwyslljy|31425049360804337590211497574973512911359149996889351181904684042887903701475": {
    "leader": "jtwyslljy",
@@ -9868,6 +9882,18 @@
    "cost": 180.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1784911855
+  },
+  "jtwyslljy|114663480256745477124116859567898025621486084976336283156854859269891557365760": {
+   "leader": "jtwyslljy",
+   "asset": "114663480256745477124116859567898025621486084976336283156854859269891557365760",
+   "condition_id": "0x3848eb101766129be9aac471e19461697c8d160e53ac54f292b05f6cbbbe1016",
+   "title": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Sharks",
+   "slug": "cs2-shk-furia-2026-07-24",
+   "shares": 10000.0,
+   "cost": 1500.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1784915791
   }
  },
  "positions": [
@@ -14701,8 +14727,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: G2 Esports vs Movistar KOI (BO3) - LEC Regular Season",
    "outcome": "Movistar KOI"
+  },
+  {
+   "at": "2026-07-24T18:00:47.391072+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T18:00:00+00:00",
+   "condition_id": "0x3848eb101766129be9aac471e19461697c8d160e53ac54f292b05f6cbbbe1016",
+   "copy_delay_min": 4.3,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Sharks"
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T16:55:23.333392+00:00"
+ "last_updated": "2026-07-24T18:00:48.020046+00:00"
 }
