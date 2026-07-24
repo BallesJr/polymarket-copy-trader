@@ -9966,24 +9966,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "28460647500582890145176138209251768519381349808377568518201680015905441656784",
-   "condition_id": "0x5f96cdac496211ab1ab5a8e8e4b9619890f512d162cf60f84172e5ddbe23a5c5",
-   "title": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
-   "outcome": "Vitality",
-   "slug": "cs2-tl1-vit-2026-07-24",
-   "opened_at": "2026-07-24T15:35:20.291599+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 3388.01,
-   "copy_delay_min": 1.9,
-   "best_ask": 0.63,
-   "ask_depth": 93007.22,
-   "status": "open"
   }
  ],
  "closed": [
@@ -14356,6 +14338,28 @@
    "exit_price": 0.999,
    "pnl": 99.8,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28460647500582890145176138209251768519381349808377568518201680015905441656784",
+   "condition_id": "0x5f96cdac496211ab1ab5a8e8e4b9619890f512d162cf60f84172e5ddbe23a5c5",
+   "title": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
+   "outcome": "Vitality",
+   "slug": "cs2-tl1-vit-2026-07-24",
+   "opened_at": "2026-07-24T15:35:20.291599+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 3388.01,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.63,
+   "ask_depth": 93007.22,
+   "status": "lost",
+   "closed_at": "2026-07-24T20:15:26.837931+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -14805,6 +14809,6 @@
    "outcome": "Jaime Faria"
   }
  ],
- "total_pnl": -1656.0261999999996,
- "last_updated": "2026-07-24T20:05:20.721721+00:00"
+ "total_pnl": -1756.0261999999996,
+ "last_updated": "2026-07-24T20:15:26.839116+00:00"
 }
