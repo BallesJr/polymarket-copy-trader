@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8143.974015000001,
  "last_seen": {
-  "jtwyslljy": 1784923270,
+  "jtwyslljy": 1784926798,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6872,6 +6872,13 @@
    "BUY",
    125.99,
    1784923270
+  ],
+  [
+   "0x716480e5134141b7b252a71554400c099d23fd8d85d1a73e732bf1877fd5ac45",
+   "12222073657300063447083285497394213812673975500064676265717465861635498400873",
+   "BUY",
+   4843,
+   1784926798
   ]
  ],
  "leader_pos": {
@@ -9930,10 +9937,10 @@
    "title": "Estoril Open: Jaime Faria vs Luciano Darderi",
    "outcome": "Jaime Faria",
    "slug": "atp-faria-darderi-2026-07-24",
-   "shares": 10000.0,
-   "cost": 3600.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1784918238
+   "shares": 14843.0,
+   "cost": 4321.607,
+   "max_shares": 14843.0,
+   "last_trade_ts": 1784926798
   },
   "jtwyslljy|58161673844418461122251006758697624666654851813918106793517888979798540944198": {
    "leader": "jtwyslljy",
@@ -14807,8 +14814,18 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Jaime Faria vs Luciano Darderi",
    "outcome": "Jaime Faria"
+  },
+  {
+   "at": "2026-07-24T21:05:23.859802+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T18:40:00+00:00",
+   "condition_id": "0x0f3d6003901cd85efc0531c418cd93596026cbeaa0ab70fe125d62655e5e3099",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Jaime Faria vs Luciano Darderi",
+   "outcome": "Jaime Faria"
   }
  ],
  "total_pnl": -1756.0261999999996,
- "last_updated": "2026-07-24T20:15:26.839116+00:00"
+ "last_updated": "2026-07-24T21:05:24.458233+00:00"
 }
