@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8144.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784897041,
+  "jtwyslljy": 1784898885,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6704,6 +6704,13 @@
    "BUY",
    10000,
    1784897041
+  ],
+  [
+   "0xab5c63b4e6f7306785efaa5e233f56000ab8675127237e2b4f0ccddfc90fb771",
+   "73739632839816504626737108532045400878921898467348280846632249640824887675542",
+   "BUY",
+   13000,
+   1784898885
   ]
  ],
  "leader_pos": {
@@ -9658,6 +9665,18 @@
    "cost": 7497.0664,
    "max_shares": 19992.28,
    "last_trade_ts": 1784897041
+  },
+  "jtwyslljy|73739632839816504626737108532045400878921898467348280846632249640824887675542": {
+   "leader": "jtwyslljy",
+   "asset": "73739632839816504626737108532045400878921898467348280846632249640824887675542",
+   "condition_id": "0x6d69e16e27fb4587d357ad9cf30ebd740070d2ed9f615958df4bce0cfbb69bbe",
+   "title": "LoL: EDward Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-edg-blg-2026-07-24",
+   "shares": 13000.0,
+   "cost": 7280.000000000001,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1784898885
   }
  },
  "positions": [
@@ -14361,8 +14380,18 @@
    "leader": "jtwyslljy",
    "title": "Minnesota Twins vs. Cleveland Guardians",
    "outcome": "Minnesota Twins"
+  },
+  {
+   "at": "2026-07-24T13:20:24.693152+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T12:15:00+00:00",
+   "condition_id": "0x6d69e16e27fb4587d357ad9cf30ebd740070d2ed9f615958df4bce0cfbb69bbe",
+   "copy_delay_min": 5.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: EDward Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
+   "outcome": "Bilibili Gaming"
   }
  ],
  "total_pnl": -1655.8261999999995,
- "last_updated": "2026-07-24T12:50:27.017375+00:00"
+ "last_updated": "2026-07-24T13:20:25.327837+00:00"
 }
