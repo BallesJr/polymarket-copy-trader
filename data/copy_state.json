@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8144.1740150000005,
+ "bankroll": 8044.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784906259,
+  "jtwyslljy": 1784907205,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6767,6 +6767,13 @@
    "SELL",
    2000,
    1784906259
+  ],
+  [
+   "0x2ced1ac5c35bf7a230db384a6ea0989e6b2cd1eda926d7016610546a30d22b78",
+   "28460647500582890145176138209251768519381349808377568518201680015905441656784",
+   "BUY",
+   5646.69,
+   1784907205
   ]
  ],
  "leader_pos": {
@@ -9757,6 +9764,18 @@
    "cost": 13153.1712,
    "max_shares": 20551.83,
    "last_trade_ts": 1784905419
+  },
+  "jtwyslljy|28460647500582890145176138209251768519381349808377568518201680015905441656784": {
+   "leader": "jtwyslljy",
+   "asset": "28460647500582890145176138209251768519381349808377568518201680015905441656784",
+   "condition_id": "0x5f96cdac496211ab1ab5a8e8e4b9619890f512d162cf60f84172e5ddbe23a5c5",
+   "title": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
+   "outcome": "Vitality",
+   "slug": "cs2-tl1-vit-2026-07-24",
+   "shares": 5646.69,
+   "cost": 3388.0139999999997,
+   "max_shares": 5646.69,
+   "last_trade_ts": 1784907205
   }
  },
  "positions": [
@@ -9776,6 +9795,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28460647500582890145176138209251768519381349808377568518201680015905441656784",
+   "condition_id": "0x5f96cdac496211ab1ab5a8e8e4b9619890f512d162cf60f84172e5ddbe23a5c5",
+   "title": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
+   "outcome": "Vitality",
+   "slug": "cs2-tl1-vit-2026-07-24",
+   "opened_at": "2026-07-24T15:35:20.291599+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 3388.01,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.63,
+   "ask_depth": 93007.22,
    "status": "open"
   }
  ],
@@ -14537,5 +14574,5 @@
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T15:20:29.361845+00:00"
+ "last_updated": "2026-07-24T15:35:20.897889+00:00"
 }
