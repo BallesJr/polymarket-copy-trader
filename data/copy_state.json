@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8143.974015000001,
  "last_seen": {
-  "jtwyslljy": 1784927104,
+  "jtwyslljy": 1784931969,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6886,6 +6886,20 @@
    "BUY",
    8963.88,
    1784927104
+  ],
+  [
+   "0x9e14c98d5d38c187a718d67a93fbd24c3d0d2f97077562005a66c5a56c80789a",
+   "53548894311647188711162088677092543120748118280367419783397474201726509932920",
+   "BUY",
+   2698.63,
+   1784931963
+  ],
+  [
+   "0x784062fd69501b1d9c188674323310acfe5a4a1b8d9796948ff6901ab5f263b2",
+   "53548894311647188711162088677092543120748118280367419783397474201726509932920",
+   "BUY",
+   2419.59,
+   1784931969
   ]
  ],
  "leader_pos": {
@@ -9960,6 +9974,18 @@
    "cost": 167.01229999999998,
    "max_shares": 225.99,
    "last_trade_ts": 1784923270
+  },
+  "jtwyslljy|53548894311647188711162088677092543120748118280367419783397474201726509932920": {
+   "leader": "jtwyslljy",
+   "asset": "53548894311647188711162088677092543120748118280367419783397474201726509932920",
+   "condition_id": "0x98dc02d56da6f4094fe1ec427dd38417bb4e0b01a4fd908d61e5b98dcbace94f",
+   "title": "Colorado Rockies vs. Milwaukee Brewers",
+   "outcome": "Colorado Rockies",
+   "slug": "mlb-col-mil-2026-07-24",
+   "shares": 5118.22,
+   "cost": 4657.5802,
+   "max_shares": 5118.22,
+   "last_trade_ts": 1784931969
   }
  },
  "positions": [
@@ -14841,8 +14867,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
    "outcome": "Sharks"
+  },
+  {
+   "at": "2026-07-24T22:29:59.104752+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-24T20:10:00+00:00",
+   "condition_id": "0x98dc02d56da6f4094fe1ec427dd38417bb4e0b01a4fd908d61e5b98dcbace94f",
+   "copy_delay_min": 3.8,
+   "leader": "jtwyslljy",
+   "title": "Colorado Rockies vs. Milwaukee Brewers",
+   "outcome": "Colorado Rockies"
   }
  ],
  "total_pnl": -1756.0261999999996,
- "last_updated": "2026-07-24T21:10:30.245162+00:00"
+ "last_updated": "2026-07-24T22:29:59.635010+00:00"
 }
