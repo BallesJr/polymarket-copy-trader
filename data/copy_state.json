@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8044.1740150000005,
+ "bankroll": 7944.1740150000005,
  "last_seen": {
-  "jtwyslljy": 1784907205,
+  "jtwyslljy": 1784907396,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6774,6 +6774,20 @@
    "BUY",
    5646.69,
    1784907205
+  ],
+  [
+   "0x888d0a505de5950e127612f9f70acd8a16b4e3a021f0d6e09927cd1e7f59e748",
+   "28460647500582890145176138209251768519381349808377568518201680015905441656784",
+   "SELL",
+   47,
+   1784907343
+  ],
+  [
+   "0x5549190e40e9c10e387043304ff8e4cd80882382df1611ae9ec698106a6596de",
+   "45121023754043983260457669326805565677537009058438237531752657331922011826478",
+   "BUY",
+   12500,
+   1784907396
   ]
  ],
  "leader_pos": {
@@ -9772,10 +9786,22 @@
    "title": "Map Handicap: VIT (-1.5) vs Liquid (+1.5)",
    "outcome": "Vitality",
    "slug": "cs2-tl1-vit-2026-07-24",
-   "shares": 5646.69,
-   "cost": 3388.0139999999997,
+   "shares": 5599.69,
+   "cost": 3359.3439999999996,
    "max_shares": 5646.69,
-   "last_trade_ts": 1784907205
+   "last_trade_ts": 1784907343
+  },
+  "jtwyslljy|45121023754043983260457669326805565677537009058438237531752657331922011826478": {
+   "leader": "jtwyslljy",
+   "asset": "45121023754043983260457669326805565677537009058438237531752657331922011826478",
+   "condition_id": "0x89851cf1631ca7307e3f643cf5699f00a79d6485ee373ec82c58a09aa3e4e946",
+   "title": "Estoril Open: Roman Andres Burruchaga vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-burruch-blockx-2026-07-24",
+   "shares": 12500.0,
+   "cost": 6250.0,
+   "max_shares": 12500.0,
+   "last_trade_ts": 1784907396
   }
  },
  "positions": [
@@ -9813,6 +9839,24 @@
    "copy_delay_min": 1.9,
    "best_ask": 0.63,
    "ask_depth": 93007.22,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45121023754043983260457669326805565677537009058438237531752657331922011826478",
+   "condition_id": "0x89851cf1631ca7307e3f643cf5699f00a79d6485ee373ec82c58a09aa3e4e946",
+   "title": "Estoril Open: Roman Andres Burruchaga vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-burruch-blockx-2026-07-24",
+   "opened_at": "2026-07-24T15:40:24.128198+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 6250.0,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.5,
+   "ask_depth": 13032.69,
    "status": "open"
   }
  ],
@@ -14574,5 +14618,5 @@
   }
  ],
  "total_pnl": -1755.8261999999995,
- "last_updated": "2026-07-24T15:35:20.897889+00:00"
+ "last_updated": "2026-07-24T15:40:24.679669+00:00"
 }
