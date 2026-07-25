@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8082.069215,
+ "bankroll": 8114.569215,
  "last_seen": {
-  "jtwyslljy": 1784992735,
+  "jtwyslljy": 1784992890,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6949,6 +6949,20 @@
    "SELL",
    3500,
    1784992735
+  ],
+  [
+   "0xdec1248e1a7bde849f268a31684ba96310116910ec7f7440cb3823f84f9a93f5",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "SELL",
+   1300,
+   1784992797
+  ],
+  [
+   "0xd4c9f02092fd884635d9a70b1fa51743879db5247cd3eace61832bfcd3b76114",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "SELL",
+   2994.85,
+   1784992890
   ]
  ],
  "leader_pos": {
@@ -10079,10 +10093,10 @@
    "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
    "outcome": "Anna Bondar",
    "slug": "wta-avanesy-bondar-2026-07-25",
-   "shares": 4299.85,
-   "cost": 3562.1777201,
+   "shares": 5.000000000000455,
+   "cost": 1970.2639201000002,
    "max_shares": 7800.0,
-   "last_trade_ts": 1784992735
+   "last_trade_ts": 1784992890
   }
  },
  "positions": [
@@ -10102,24 +10116,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "86812202835197502572509133712055740393350391582765249656819527147069355373457",
-   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
-   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
-   "outcome": "Anna Bondar",
-   "slug": "wta-avanesy-bondar-2026-07-25",
-   "opened_at": "2026-07-25T11:20:59.751652+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 4991.91,
-   "copy_delay_min": 29.7,
-   "best_ask": 0.64,
-   "ask_depth": 28403.6,
    "status": "open"
   },
   {
@@ -14555,6 +14551,28 @@
    "exit_price": 1.0,
    "pnl": 138.0952,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
+   "outcome": "Anna Bondar",
+   "slug": "wta-avanesy-bondar-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.751652+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4991.91,
+   "copy_delay_min": 29.7,
+   "best_ask": 0.64,
+   "ask_depth": 28403.6,
+   "status": "closed",
+   "closed_at": "2026-07-25T15:25:21.286985+00:00",
+   "exit_price": 0.208,
+   "pnl": -67.5,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -15044,6 +15062,6 @@
    "outcome": "Quentin Halys"
   }
  ],
- "total_pnl": -1617.9309999999996,
- "last_updated": "2026-07-25T15:20:28.430773+00:00"
+ "total_pnl": -1685.4309999999996,
+ "last_updated": "2026-07-25T15:25:21.816128+00:00"
 }
