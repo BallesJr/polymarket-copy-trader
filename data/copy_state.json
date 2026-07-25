@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8143.974015000001,
+ "bankroll": 7843.974015000001,
  "last_seen": {
-  "jtwyslljy": 1784931969,
+  "jtwyslljy": 1784976675,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6900,6 +6900,48 @@
    "BUY",
    2419.59,
    1784931969
+  ],
+  [
+   "0x6b912d672dde00464b275be756553424bd7d2f2d1ca4e1798965ce0b1ef09a34",
+   "91347443839769841558507992975718278817948143027798842424840191468000588696989",
+   "BUY",
+   9000,
+   1784972193
+  ],
+  [
+   "0xe1e911e7593b9a9a16105d595b344cec18f41e281853f422ecb2839371151816",
+   "1614257702352600967577150783920764238565402038791466950371861662085238915169",
+   "BUY",
+   8000,
+   1784975295
+  ],
+  [
+   "0x5e8a35437f3b2076676271ef5a0bb5a574a456cac268b750b11d24fa649ff32d",
+   "67532454474538427346018868245806854732784254994729335574875419639523013236606",
+   "BUY",
+   7999.99,
+   1784975302
+  ],
+  [
+   "0xf12e9e2b3d3b4ce0d7c218b82c9764b3b9b3eba2c5d61b6f89d0e4fbcc6c729d",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "BUY",
+   7800,
+   1784976025
+  ],
+  [
+   "0x4c0edc5d8089d8121fbfd06b648669a906a3b32ba3bf5f51fdfcf8d05b7640be",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "SELL",
+   7723.15,
+   1784976615
+  ],
+  [
+   "0x7ed25f45481931026d2649c422f3b2d32fb78a58b868777f38405a36c2c51cd5",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "BUY",
+   7723,
+   1784976675
   ]
  ],
  "leader_pos": {
@@ -9986,6 +10028,54 @@
    "cost": 4657.5802,
    "max_shares": 5118.22,
    "last_trade_ts": 1784931969
+  },
+  "jtwyslljy|91347443839769841558507992975718278817948143027798842424840191468000588696989": {
+   "leader": "jtwyslljy",
+   "asset": "91347443839769841558507992975718278817948143027798842424840191468000588696989",
+   "condition_id": "0xe11736a83d73301c026542c9d57b6e62e20d4b368581f76d92c722b8166aaa00",
+   "title": "Generali Open: Alexander Bublik vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-bublik-halys-2026-07-25",
+   "shares": 9000.0,
+   "cost": 2970.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1784972193
+  },
+  "jtwyslljy|1614257702352600967577150783920764238565402038791466950371861662085238915169": {
+   "leader": "jtwyslljy",
+   "asset": "1614257702352600967577150783920764238565402038791466950371861662085238915169",
+   "condition_id": "0xdadaa33411b199e2ee417d83e40fb5fe6eb05ec8f55beb2c92349d2f6de0db9b",
+   "title": "Livesport Prague Open: Tereza Valentova vs Daria Snigur",
+   "outcome": "Daria Snigur",
+   "slug": "wta-valento-snigur-2026-07-25",
+   "shares": 8000.0,
+   "cost": 3440.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1784975295
+  },
+  "jtwyslljy|67532454474538427346018868245806854732784254994729335574875419639523013236606": {
+   "leader": "jtwyslljy",
+   "asset": "67532454474538427346018868245806854732784254994729335574875419639523013236606",
+   "condition_id": "0x0c0b8197480383d858075dff8df2795f57d6d7b143769992cdbdd66d0e306199",
+   "title": "Livesport Prague Open: Lilli Tagger vs Barbora Krejcikova",
+   "outcome": "Lilli Tagger",
+   "slug": "wta-tagger-krejcik-2026-07-25",
+   "shares": 7999.99,
+   "cost": 1359.9983,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1784975302
+  },
+  "jtwyslljy|86812202835197502572509133712055740393350391582765249656819527147069355373457": {
+   "leader": "jtwyslljy",
+   "asset": "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
+   "outcome": "Anna Bondar",
+   "slug": "wta-avanesy-bondar-2026-07-25",
+   "shares": 7799.85,
+   "cost": 4991.9055,
+   "max_shares": 7800.0,
+   "last_trade_ts": 1784976675
   }
  },
  "positions": [
@@ -10005,6 +10095,60 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1614257702352600967577150783920764238565402038791466950371861662085238915169",
+   "condition_id": "0xdadaa33411b199e2ee417d83e40fb5fe6eb05ec8f55beb2c92349d2f6de0db9b",
+   "title": "Livesport Prague Open: Tereza Valentova vs Daria Snigur",
+   "outcome": "Daria Snigur",
+   "slug": "wta-valento-snigur-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.533513+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 3440.0,
+   "copy_delay_min": 52.7,
+   "best_ask": 0.42,
+   "ask_depth": 444.26,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
+   "outcome": "Anna Bondar",
+   "slug": "wta-avanesy-bondar-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.751652+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4991.91,
+   "copy_delay_min": 29.7,
+   "best_ask": 0.64,
+   "ask_depth": 28403.6,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67532454474538427346018868245806854732784254994729335574875419639523013236606",
+   "condition_id": "0x0c0b8197480383d858075dff8df2795f57d6d7b143769992cdbdd66d0e306199",
+   "title": "Livesport Prague Open: Lilli Tagger vs Barbora Krejcikova",
+   "outcome": "Lilli Tagger",
+   "slug": "wta-tagger-krejcik-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.942019+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 1360.0,
+   "copy_delay_min": 52.6,
+   "best_ask": 0.17,
+   "ask_depth": 14886.59,
    "status": "open"
   }
  ],
@@ -14877,8 +15021,18 @@
    "leader": "jtwyslljy",
    "title": "Colorado Rockies vs. Milwaukee Brewers",
    "outcome": "Colorado Rockies"
+  },
+  {
+   "at": "2026-07-25T11:20:59.315371+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-25T11:05:00+00:00",
+   "condition_id": "0xe11736a83d73301c026542c9d57b6e62e20d4b368581f76d92c722b8166aaa00",
+   "copy_delay_min": 104.4,
+   "leader": "jtwyslljy",
+   "title": "Generali Open: Alexander Bublik vs Quentin Halys",
+   "outcome": "Quentin Halys"
   }
  ],
  "total_pnl": -1756.0261999999996,
- "last_updated": "2026-07-24T22:29:59.635010+00:00"
+ "last_updated": "2026-07-25T11:21:00.671886+00:00"
 }
