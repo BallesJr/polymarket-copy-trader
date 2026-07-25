@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7843.974015000001,
+ "bankroll": 8082.069215,
  "last_seen": {
   "jtwyslljy": 1784976675,
   "0x53757615de": 1784324596
@@ -10099,24 +10099,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "1614257702352600967577150783920764238565402038791466950371861662085238915169",
-   "condition_id": "0xdadaa33411b199e2ee417d83e40fb5fe6eb05ec8f55beb2c92349d2f6de0db9b",
-   "title": "Livesport Prague Open: Tereza Valentova vs Daria Snigur",
-   "outcome": "Daria Snigur",
-   "slug": "wta-valento-snigur-2026-07-25",
-   "opened_at": "2026-07-25T11:20:59.533513+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 3440.0,
-   "copy_delay_min": 52.7,
-   "best_ask": 0.42,
-   "ask_depth": 444.26,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "86812202835197502572509133712055740393350391582765249656819527147069355373457",
    "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
    "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
@@ -14544,6 +14526,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1614257702352600967577150783920764238565402038791466950371861662085238915169",
+   "condition_id": "0xdadaa33411b199e2ee417d83e40fb5fe6eb05ec8f55beb2c92349d2f6de0db9b",
+   "title": "Livesport Prague Open: Tereza Valentova vs Daria Snigur",
+   "outcome": "Daria Snigur",
+   "slug": "wta-valento-snigur-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.533513+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 3440.0,
+   "copy_delay_min": 52.7,
+   "best_ask": 0.42,
+   "ask_depth": 444.26,
+   "status": "won",
+   "closed_at": "2026-07-25T14:14:37.380274+00:00",
+   "exit_price": 1.0,
+   "pnl": 138.0952,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15033,6 +15037,6 @@
    "outcome": "Quentin Halys"
   }
  ],
- "total_pnl": -1756.0261999999996,
- "last_updated": "2026-07-25T11:21:00.671886+00:00"
+ "total_pnl": -1617.9309999999996,
+ "last_updated": "2026-07-25T14:14:37.381534+00:00"
 }
