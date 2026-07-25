@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8114.569215,
  "last_seen": {
-  "jtwyslljy": 1784992890,
+  "jtwyslljy": 1784993560,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6963,6 +6963,13 @@
    "SELL",
    2994.85,
    1784992890
+  ],
+  [
+   "0xc7cbc6038e1f3288ec8aa67ee5b9f852168daa29b569e5ec75f7e4247d787a27",
+   "64644319736392275216615431588028599175425007556169732654130610732847022891690",
+   "BUY",
+   3000,
+   1784993560
   ]
  ],
  "leader_pos": {
@@ -10097,6 +10104,18 @@
    "cost": 1970.2639201000002,
    "max_shares": 7800.0,
    "last_trade_ts": 1784992890
+  },
+  "jtwyslljy|64644319736392275216615431588028599175425007556169732654130610732847022891690": {
+   "leader": "jtwyslljy",
+   "asset": "64644319736392275216615431588028599175425007556169732654130610732847022891690",
+   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
+   "outcome": "Elina Avanesyan",
+   "slug": "wta-avanesy-bondar-2026-07-25",
+   "shares": 3000.0,
+   "cost": 770.7573801,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1784993560
   }
  },
  "positions": [
@@ -15060,8 +15079,18 @@
    "leader": "jtwyslljy",
    "title": "Generali Open: Alexander Bublik vs Quentin Halys",
    "outcome": "Quentin Halys"
+  },
+  {
+   "at": "2026-07-25T15:35:29.304114+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-25T12:05:00+00:00",
+   "condition_id": "0x2dd90df0420f46d98d546d8957373685d9ee35df5436ae745407c1c01aa85598",
+   "copy_delay_min": 2.8,
+   "leader": "jtwyslljy",
+   "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
+   "outcome": "Elina Avanesyan"
   }
  ],
  "total_pnl": -1685.4309999999996,
- "last_updated": "2026-07-25T15:25:21.816128+00:00"
+ "last_updated": "2026-07-25T15:35:29.812945+00:00"
 }
