@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8114.569215,
+ "bankroll": 8014.569215,
  "last_seen": {
-  "jtwyslljy": 1784995372,
+  "jtwyslljy": 1784995962,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6977,6 +6977,20 @@
    "BUY",
    7700,
    1784995372
+  ],
+  [
+   "0xbc52ee8e8c126f6ebfdd1d116f5681a4e339bc3b964d444a88da0d7b520e90bd",
+   "23233976603526272735073792286181020259744807380206286116692094175124914426413",
+   "BUY",
+   5000,
+   1784995806
+  ],
+  [
+   "0xcbd876e81d8f62cbc26657086968973af436c1343eeb27fc50d4d54657a6543a",
+   "46829436319198524803144244924580646570353459519065720688960590021277711386639",
+   "BUY",
+   8800,
+   1784995962
   ]
  ],
  "leader_pos": {
@@ -10135,6 +10149,30 @@
    "cost": 3619.0,
    "max_shares": 7700.0,
    "last_trade_ts": 1784995372
+  },
+  "jtwyslljy|23233976603526272735073792286181020259744807380206286116692094175124914426413": {
+   "leader": "jtwyslljy",
+   "asset": "23233976603526272735073792286181020259744807380206286116692094175124914426413",
+   "condition_id": "0xa68b0238413af58e69cffd60777b6496183f9fb249e3dd7aea703d57bc96d1cd",
+   "title": "Counter-Strike: HOTU vs Astralis (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Astralis",
+   "slug": "cs2-hotu-ast10-2026-07-25",
+   "shares": 5000.0,
+   "cost": 2849.9999999999995,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1784995806
+  },
+  "jtwyslljy|46829436319198524803144244924580646570353459519065720688960590021277711386639": {
+   "leader": "jtwyslljy",
+   "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
+   "condition_id": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
+   "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
+   "outcome": "Hugo Gaston",
+   "slug": "atp-assche-gaston-2026-07-25",
+   "shares": 8800.0,
+   "cost": 3344.0,
+   "max_shares": 8800.0,
+   "last_trade_ts": 1784995962
   }
  },
  "positions": [
@@ -10172,6 +10210,24 @@
    "copy_delay_min": 52.6,
    "best_ask": 0.17,
    "ask_depth": 14886.59,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
+   "condition_id": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
+   "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
+   "outcome": "Hugo Gaston",
+   "slug": "atp-assche-gaston-2026-07-25",
+   "opened_at": "2026-07-25T16:15:29.038812+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3344.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.38,
+   "ask_depth": 20405.53,
    "status": "open"
   }
  ],
@@ -15118,8 +15174,18 @@
    "leader": "jtwyslljy",
    "title": "Hamburg European Open: Mayar Sherif vs Tamara Korpatsch",
    "outcome": "Mayar Sherif"
+  },
+  {
+   "at": "2026-07-25T16:15:29.250778+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-25T14:45:00+00:00",
+   "condition_id": "0xa68b0238413af58e69cffd60777b6496183f9fb249e3dd7aea703d57bc96d1cd",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: HOTU vs Astralis (BO3) - BLAST Bounty Qualifier",
+   "outcome": "Astralis"
   }
  ],
  "total_pnl": -1685.4309999999996,
- "last_updated": "2026-07-25T16:10:27.611972+00:00"
+ "last_updated": "2026-07-25T16:15:29.821737+00:00"
 }
