@@ -10236,24 +10236,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
-   "condition_id": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
-   "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
-   "outcome": "Hugo Gaston",
-   "slug": "atp-assche-gaston-2026-07-25",
-   "opened_at": "2026-07-25T16:15:29.038812+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 3344.0,
-   "copy_delay_min": 2.8,
-   "best_ask": 0.38,
-   "ask_depth": 20405.53,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "31734424756270448731210739833001014288328771287363047872404895244039037944270",
    "condition_id": "0x66f28bfa3162bf8bb24f531d73110c53989dd3fc92585dd7a5443635a118b99f",
    "title": "Estoril Open: Alexander Blockx vs Luciano Darderi",
@@ -14729,6 +14711,28 @@
    "exit_price": 1.0,
    "pnl": 488.2353,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
+   "condition_id": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
+   "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
+   "outcome": "Hugo Gaston",
+   "slug": "atp-assche-gaston-2026-07-25",
+   "opened_at": "2026-07-25T16:15:29.038812+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3344.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.38,
+   "ask_depth": 20405.53,
+   "status": "lost",
+   "closed_at": "2026-07-25T19:15:29.703526+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15258,6 +15262,6 @@
    "outcome": "Mayar Sherif"
   }
  ],
- "total_pnl": -1197.1956999999995,
- "last_updated": "2026-07-25T18:50:28.426248+00:00"
+ "total_pnl": -1297.1956999999995,
+ "last_updated": "2026-07-25T19:15:29.704676+00:00"
 }
