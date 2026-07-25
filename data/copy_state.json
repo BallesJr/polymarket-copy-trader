@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8502.804515,
+ "bankroll": 8759.214815,
  "last_seen": {
   "jtwyslljy": 1785009154,
   "0x53757615de": 1784324596
@@ -10240,24 +10240,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "31734424756270448731210739833001014288328771287363047872404895244039037944270",
-   "condition_id": "0x66f28bfa3162bf8bb24f531d73110c53989dd3fc92585dd7a5443635a118b99f",
-   "title": "Estoril Open: Alexander Blockx vs Luciano Darderi",
-   "outcome": "Alexander Blockx",
-   "slug": "atp-blockx-darderi-2026-07-25",
-   "opened_at": "2026-07-25T16:20:23.738663+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 1851.93,
-   "copy_delay_min": 3.8,
-   "best_ask": 0.39,
-   "ask_depth": 13524.21,
-   "status": "open"
   }
  ],
  "closed": [
@@ -14740,6 +14722,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31734424756270448731210739833001014288328771287363047872404895244039037944270",
+   "condition_id": "0x66f28bfa3162bf8bb24f531d73110c53989dd3fc92585dd7a5443635a118b99f",
+   "title": "Estoril Open: Alexander Blockx vs Luciano Darderi",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-blockx-darderi-2026-07-25",
+   "opened_at": "2026-07-25T16:20:23.738663+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1851.93,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.39,
+   "ask_depth": 13524.21,
+   "status": "won",
+   "closed_at": "2026-07-25T22:20:25.291240+00:00",
+   "exit_price": 1.0,
+   "pnl": 156.4103,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15269,6 +15273,6 @@
    "outcome": "Mayar Sherif"
   }
  ],
- "total_pnl": -1297.1956999999995,
- "last_updated": "2026-07-25T19:55:24.715799+00:00"
+ "total_pnl": -1140.7853999999995,
+ "last_updated": "2026-07-25T22:20:25.292414+00:00"
 }
