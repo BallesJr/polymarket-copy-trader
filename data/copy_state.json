@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8502.804515,
  "last_seen": {
-  "jtwyslljy": 1784996794,
+  "jtwyslljy": 1785005257,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7012,6 +7012,13 @@
    "BUY",
    3300,
    1784996794
+  ],
+  [
+   "0x787e58b74d8a130bd7d1e913d9efe01d5233a87e53877d8b7928ebb10f67e23b",
+   "31734424756270448731210739833001014288328771287363047872404895244039037944270",
+   "BUY",
+   2500,
+   1785005257
   ]
  ],
  "leader_pos": {
@@ -10202,10 +10209,10 @@
    "title": "Estoril Open: Alexander Blockx vs Luciano Darderi",
    "outcome": "Alexander Blockx",
    "slug": "atp-blockx-darderi-2026-07-25",
-   "shares": 4873.5,
-   "cost": 1851.93,
-   "max_shares": 4873.5,
-   "last_trade_ts": 1784996193
+   "shares": 7373.5,
+   "cost": 2776.9300000000003,
+   "max_shares": 7373.5,
+   "last_trade_ts": 1785005257
   }
  },
  "positions": [
@@ -15252,5 +15259,5 @@
   }
  ],
  "total_pnl": -1197.1956999999995,
- "last_updated": "2026-07-25T17:20:24.471272+00:00"
+ "last_updated": "2026-07-25T18:50:28.426248+00:00"
 }
