@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 7914.569215,
+ "bankroll": 8502.804515,
  "last_seen": {
   "jtwyslljy": 1784996794,
   "0x53757615de": 1784324596
@@ -10229,24 +10229,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "67532454474538427346018868245806854732784254994729335574875419639523013236606",
-   "condition_id": "0x0c0b8197480383d858075dff8df2795f57d6d7b143769992cdbdd66d0e306199",
-   "title": "Livesport Prague Open: Lilli Tagger vs Barbora Krejcikova",
-   "outcome": "Lilli Tagger",
-   "slug": "wta-tagger-krejcik-2026-07-25",
-   "opened_at": "2026-07-25T11:20:59.942019+00:00",
-   "entry_price": 0.17,
-   "shares": 588.2353,
-   "stake": 100.0,
-   "leader_vwap": 0.17,
-   "leader_cost": 1360.0,
-   "copy_delay_min": 52.6,
-   "best_ask": 0.17,
-   "ask_depth": 14886.59,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "46829436319198524803144244924580646570353459519065720688960590021277711386639",
    "condition_id": "0x9e15c29a5e91b3782da0ff2d78f545b177d7fa59989f6f919cfd655bccc79273",
    "title": "Estoril Open: Luca Van Assche vs Hugo Gaston",
@@ -14718,6 +14700,28 @@
    "exit_price": 0.208,
    "pnl": -67.5,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67532454474538427346018868245806854732784254994729335574875419639523013236606",
+   "condition_id": "0x0c0b8197480383d858075dff8df2795f57d6d7b143769992cdbdd66d0e306199",
+   "title": "Livesport Prague Open: Lilli Tagger vs Barbora Krejcikova",
+   "outcome": "Lilli Tagger",
+   "slug": "wta-tagger-krejcik-2026-07-25",
+   "opened_at": "2026-07-25T11:20:59.942019+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 1360.0,
+   "copy_delay_min": 52.6,
+   "best_ask": 0.17,
+   "ask_depth": 14886.59,
+   "status": "won",
+   "closed_at": "2026-07-25T17:20:24.470322+00:00",
+   "exit_price": 1.0,
+   "pnl": 488.2353,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15247,6 +15251,6 @@
    "outcome": "Mayar Sherif"
   }
  ],
- "total_pnl": -1685.4309999999996,
- "last_updated": "2026-07-25T16:30:33.227799+00:00"
+ "total_pnl": -1197.1956999999995,
+ "last_updated": "2026-07-25T17:20:24.471272+00:00"
 }
