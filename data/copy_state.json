@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8082.069215,
  "last_seen": {
-  "jtwyslljy": 1784976675,
+  "jtwyslljy": 1784992735,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -6942,6 +6942,13 @@
    "BUY",
    7723,
    1784976675
+  ],
+  [
+   "0xa165448477dc9afa5135ca0b388afd983b506a80899e289f5c3a9863cdc6fa8d",
+   "86812202835197502572509133712055740393350391582765249656819527147069355373457",
+   "SELL",
+   3500,
+   1784992735
   ]
  ],
  "leader_pos": {
@@ -10072,10 +10079,10 @@
    "title": "Hamburg European Open: Elina Avanesyan vs Anna Bondar",
    "outcome": "Anna Bondar",
    "slug": "wta-avanesy-bondar-2026-07-25",
-   "shares": 7799.85,
-   "cost": 4991.9055,
+   "shares": 4299.85,
+   "cost": 3562.1777201,
    "max_shares": 7800.0,
-   "last_trade_ts": 1784976675
+   "last_trade_ts": 1784992735
   }
  },
  "positions": [
@@ -15038,5 +15045,5 @@
   }
  ],
  "total_pnl": -1617.9309999999996,
- "last_updated": "2026-07-25T14:14:37.381534+00:00"
+ "last_updated": "2026-07-25T15:20:28.430773+00:00"
 }
