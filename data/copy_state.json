@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785073020,
+  "jtwyslljy": 1785073276,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7082,6 +7082,13 @@
    "BUY",
    1050,
    1785073020
+  ],
+  [
+   "0xa1d416ecad594d1d8faab7a53d17630d23ef2aba41ef6bf744e788ac3005314e",
+   "93769061977658124297948646738673850091239147487693120851578133813074198945613",
+   "BUY",
+   4200,
+   1785073276
   ]
  ],
  "leader_pos": {
@@ -10284,10 +10291,10 @@
    "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
    "outcome": "Luca Van Assche",
    "slug": "atp-assche-blockx-2026-07-26",
-   "shares": 8800.0,
-   "cost": 3350.0,
-   "max_shares": 8800.0,
-   "last_trade_ts": 1785064077
+   "shares": 13000.0,
+   "cost": 5072.0,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1785073276
   },
   "jtwyslljy|80052348478797380202521716670023227997154642775349892163566023654986387821349": {
    "leader": "jtwyslljy",
@@ -15446,5 +15453,5 @@
   }
  ],
  "total_pnl": -1140.7853999999995,
- "last_updated": "2026-07-26T13:40:25.644808+00:00"
+ "last_updated": "2026-07-26T13:45:24.227133+00:00"
 }
