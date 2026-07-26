@@ -10381,24 +10381,6 @@
    "best_ask": 0.38,
    "ask_depth": 22825.01,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "80052348478797380202521716670023227997154642775349892163566023654986387821349",
-   "condition_id": "0x8cfb2ee36e536b24ee18075ebaa8f1f5aff8692a103b7d4f8b2d9a5f8aba2113",
-   "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
-   "outcome": "Anna Bondar",
-   "slug": "wta-bondar-korpats-2026-07-26",
-   "opened_at": "2026-07-26T09:55:21.992091+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 1669.62,
-   "copy_delay_min": 1.2,
-   "best_ask": 0.54,
-   "ask_depth": 3368.42,
-   "status": "open"
   }
  ],
  "closed": [
@@ -14903,6 +14885,28 @@
    "exit_price": 1.0,
    "pnl": 156.4103,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80052348478797380202521716670023227997154642775349892163566023654986387821349",
+   "condition_id": "0x8cfb2ee36e536b24ee18075ebaa8f1f5aff8692a103b7d4f8b2d9a5f8aba2113",
+   "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
+   "outcome": "Anna Bondar",
+   "slug": "wta-bondar-korpats-2026-07-26",
+   "opened_at": "2026-07-26T09:55:21.992091+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 1669.62,
+   "copy_delay_min": 1.2,
+   "best_ask": 0.54,
+   "ask_depth": 3368.42,
+   "status": "lost",
+   "closed_at": "2026-07-26T14:20:25.650834+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15452,6 +15456,6 @@
    "outcome": "FUT Esports"
   }
  ],
- "total_pnl": -1140.7853999999995,
- "last_updated": "2026-07-26T13:45:24.227133+00:00"
+ "total_pnl": -1240.7853999999995,
+ "last_updated": "2026-07-26T14:20:25.652081+00:00"
 }
