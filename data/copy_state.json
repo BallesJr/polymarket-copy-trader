@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785092166,
+  "jtwyslljy": 1785092524,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7145,6 +7145,13 @@
    "SELL",
    2000,
    1785092166
+  ],
+  [
+   "0x8559e3a8b53c9ea5ecba892d1e2aac620debc910b510112b4330a115f04ce5ba",
+   "105705146593079427899854594843045508411314128451212670601047685021873657742796",
+   "BUY",
+   5000,
+   1785092524
   ]
  ],
  "leader_pos": {
@@ -10419,10 +10426,10 @@
    "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
    "outcome": "Alexander Blockx",
    "slug": "atp-assche-blockx-2026-07-26",
-   "shares": 0.0,
-   "cost": -170.0,
+   "shares": 5000.0,
+   "cost": 1050.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1785092166
+   "last_trade_ts": 1785092524
   },
   "jtwyslljy|99352558901957725043988063449761252819972744011112316541724837283061576619062": {
    "leader": "jtwyslljy",
@@ -15586,8 +15593,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 100 Thieves vs Spirit (BO3) - BLAST Bounty Qualifier",
    "outcome": "Spirit"
+  },
+  {
+   "at": "2026-07-26T19:10:31.446654+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-26T16:30:00+00:00",
+   "condition_id": "0x5553a66abfabce6dbc73c1219fd0877b1ecc24b714bdde949bea15e49634aee4",
+   "copy_delay_min": 8.4,
+   "leader": "jtwyslljy",
+   "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
+   "outcome": "Alexander Blockx"
   }
  ],
  "total_pnl": -1240.7853999999995,
- "last_updated": "2026-07-26T19:00:46.332450+00:00"
+ "last_updated": "2026-07-26T19:10:32.120119+00:00"
 }
