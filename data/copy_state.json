@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785079497,
+  "jtwyslljy": 1785080313,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7096,6 +7096,13 @@
    "BUY",
    20951.92,
    1785079497
+  ],
+  [
+   "0xfc4f407c7069e0d70f1e0eba63701cebe906e33db186fd03e7ffea152f01542a",
+   "72788758025110958460573959431760474832363519283015323226596163188680348490710",
+   "BUY",
+   981,
+   1785080313
   ]
  ],
  "leader_pos": {
@@ -10358,10 +10365,10 @@
    "title": "Counter-Strike: Wildcard vs TheMongolz (BO3) - BLAST Bounty Qualifier",
    "outcome": "TheMongolz",
    "slug": "cs2-wc1-mglz-2026-07-26",
-   "shares": 20951.92,
-   "cost": 17390.093599999997,
-   "max_shares": 20951.92,
-   "last_trade_ts": 1785079497
+   "shares": 21932.92,
+   "cost": 18272.993599999998,
+   "max_shares": 21932.92,
+   "last_trade_ts": 1785080313
   }
  },
  "positions": [
@@ -15483,8 +15490,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Wildcard vs TheMongolz (BO3) - BLAST Bounty Qualifier",
    "outcome": "TheMongolz"
+  },
+  {
+   "at": "2026-07-26T15:40:25.989162+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-26T14:35:00+00:00",
+   "condition_id": "0xaf0b6f53bbd46cc412847e9a8a69fbd78fe279119afbc2da2da13c30a443b71b",
+   "copy_delay_min": 1.9,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Wildcard vs TheMongolz (BO3) - BLAST Bounty Qualifier",
+   "outcome": "TheMongolz"
   }
  ],
  "total_pnl": -1240.7853999999995,
- "last_updated": "2026-07-26T15:30:33.306798+00:00"
+ "last_updated": "2026-07-26T15:40:26.457600+00:00"
 }
