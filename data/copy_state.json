@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8559.214815,
+ "bankroll": 8822.372715,
  "last_seen": {
   "jtwyslljy": 1785092524,
   "0x53757615de": 1784324596
@@ -10462,24 +10462,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "93769061977658124297948646738673850091239147487693120851578133813074198945613",
-   "condition_id": "0x5553a66abfabce6dbc73c1219fd0877b1ecc24b714bdde949bea15e49634aee4",
-   "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
-   "outcome": "Luca Van Assche",
-   "slug": "atp-assche-blockx-2026-07-26",
-   "opened_at": "2026-07-26T09:10:27.385040+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 3230.0,
-   "copy_delay_min": 8.1,
-   "best_ask": 0.38,
-   "ask_depth": 22825.01,
-   "status": "open"
   }
  ],
  "closed": [
@@ -15006,6 +14988,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93769061977658124297948646738673850091239147487693120851578133813074198945613",
+   "condition_id": "0x5553a66abfabce6dbc73c1219fd0877b1ecc24b714bdde949bea15e49634aee4",
+   "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-assche-blockx-2026-07-26",
+   "opened_at": "2026-07-26T09:10:27.385040+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3230.0,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.38,
+   "ask_depth": 22825.01,
+   "status": "won",
+   "closed_at": "2026-07-26T21:30:36.549809+00:00",
+   "exit_price": 1.0,
+   "pnl": 163.1579,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15605,6 +15609,6 @@
    "outcome": "Alexander Blockx"
   }
  ],
- "total_pnl": -1240.7853999999995,
- "last_updated": "2026-07-26T19:10:32.120119+00:00"
+ "total_pnl": -1077.6274999999996,
+ "last_updated": "2026-07-26T21:30:36.551083+00:00"
 }
