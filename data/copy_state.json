@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785072568,
+  "jtwyslljy": 1785073020,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7075,6 +7075,13 @@
    "BUY",
    30000,
    1785072568
+  ],
+  [
+   "0x05061b4f9c84ab23e2633c7b0395b00bc214116d065c276268fe9a90b803e059",
+   "17267245842035290373657505505575165649752897415924398919743922002394023082424",
+   "BUY",
+   1050,
+   1785073020
   ]
  ],
  "leader_pos": {
@@ -10317,6 +10324,18 @@
    "cost": 26400.0,
    "max_shares": 30000.0,
    "last_trade_ts": 1785072568
+  },
+  "jtwyslljy|17267245842035290373657505505575165649752897415924398919743922002394023082424": {
+   "leader": "jtwyslljy",
+   "asset": "17267245842035290373657505505575165649752897415924398919743922002394023082424",
+   "condition_id": "0x6e86a81ebef46b5fd3e52fe437ef4fa1bf5fa80e79bd15ae2563dcd416660bed",
+   "title": "Counter-Strike: 3DMAX vs FUT Esports (BO3) - BLAST Bounty Qualifier",
+   "outcome": "FUT Esports",
+   "slug": "cs2-3dmax-fut-2026-07-26",
+   "shares": 1050.0,
+   "cost": 556.5,
+   "max_shares": 1050.0,
+   "last_trade_ts": 1785073020
   }
  },
  "positions": [
@@ -15414,8 +15433,18 @@
    "leader": "jtwyslljy",
    "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
    "outcome": "Tamara Korpatsch"
+  },
+  {
+   "at": "2026-07-26T13:40:25.143183+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-26T12:15:00+00:00",
+   "condition_id": "0x6e86a81ebef46b5fd3e52fe437ef4fa1bf5fa80e79bd15ae2563dcd416660bed",
+   "copy_delay_min": 3.4,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: 3DMAX vs FUT Esports (BO3) - BLAST Bounty Qualifier",
+   "outcome": "FUT Esports"
   }
  ],
  "total_pnl": -1140.7853999999995,
- "last_updated": "2026-07-26T13:35:22.448346+00:00"
+ "last_updated": "2026-07-26T13:40:25.644808+00:00"
 }
