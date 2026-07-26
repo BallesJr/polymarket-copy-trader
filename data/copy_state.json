@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785072076,
+  "jtwyslljy": 1785072568,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7068,6 +7068,13 @@
    "SELL",
    20000,
    1785072076
+  ],
+  [
+   "0x7ac0fd29aa9960622379cae7266e35e791e299d55dfddd3cd852965c5fae2c29",
+   "72279995537409390555919743332699399514002166000967393833591596914567263103543",
+   "BUY",
+   30000,
+   1785072568
   ]
  ],
  "leader_pos": {
@@ -10298,6 +10305,18 @@
    "cost": -2458.566999999999,
    "max_shares": 17245.65,
    "last_trade_ts": 1785072076
+  },
+  "jtwyslljy|72279995537409390555919743332699399514002166000967393833591596914567263103543": {
+   "leader": "jtwyslljy",
+   "asset": "72279995537409390555919743332699399514002166000967393833591596914567263103543",
+   "condition_id": "0x8cfb2ee36e536b24ee18075ebaa8f1f5aff8692a103b7d4f8b2d9a5f8aba2113",
+   "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
+   "outcome": "Tamara Korpatsch",
+   "slug": "wta-bondar-korpats-2026-07-26",
+   "shares": 30000.0,
+   "cost": 26400.0,
+   "max_shares": 30000.0,
+   "last_trade_ts": 1785072568
   }
  },
  "positions": [
@@ -15385,8 +15404,18 @@
    "leader": "jtwyslljy",
    "title": "Hamburg European Open: Mayar Sherif vs Tamara Korpatsch",
    "outcome": "Mayar Sherif"
+  },
+  {
+   "at": "2026-07-26T13:35:22.006147+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-26T12:00:00+00:00",
+   "condition_id": "0x8cfb2ee36e536b24ee18075ebaa8f1f5aff8692a103b7d4f8b2d9a5f8aba2113",
+   "copy_delay_min": 5.9,
+   "leader": "jtwyslljy",
+   "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
+   "outcome": "Tamara Korpatsch"
   }
  ],
  "total_pnl": -1140.7853999999995,
- "last_updated": "2026-07-26T13:25:19.147747+00:00"
+ "last_updated": "2026-07-26T13:35:22.448346+00:00"
 }
