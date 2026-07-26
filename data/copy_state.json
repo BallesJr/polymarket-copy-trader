@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.214815,
  "last_seen": {
-  "jtwyslljy": 1785064077,
+  "jtwyslljy": 1785070686,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7047,6 +7047,13 @@
    "BUY",
    300,
    1785064077
+  ],
+  [
+   "0x47e09f6cb98454763552c96ac3a6eba56e4e039843940d65adfb91ef6a7e4d46",
+   "80052348478797380202521716670023227997154642775349892163566023654986387821349",
+   "BUY",
+   5000,
+   1785070686
   ]
  ],
  "leader_pos": {
@@ -10261,10 +10268,10 @@
    "title": "Hamburg European Open: Anna Bondar vs Tamara Korpatsch",
    "outcome": "Anna Bondar",
    "slug": "wta-bondar-korpats-2026-07-26",
-   "shares": 3150.23,
-   "cost": 1669.6219,
-   "max_shares": 3150.23,
-   "last_trade_ts": 1785059650
+   "shares": 8150.23,
+   "cost": 3219.3262999999997,
+   "max_shares": 8150.23,
+   "last_trade_ts": 1785070686
   }
  },
  "positions": [
@@ -15355,5 +15362,5 @@
   }
  ],
  "total_pnl": -1140.7853999999995,
- "last_updated": "2026-07-26T11:15:23.816261+00:00"
+ "last_updated": "2026-07-26T13:05:21.470160+00:00"
 }
