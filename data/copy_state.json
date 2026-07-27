@@ -10522,24 +10522,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "17160239955482332387804031580990789819945507039176795885283687547936023980850",
-   "condition_id": "0xc1075db1b8dce58b0b9a505fc202a0ac288308e5f2b8e5a11510229d170cb4af",
-   "title": "Mubadala Citi DC Open: Emma Navarro vs Sofia Kenin",
-   "outcome": "Sofia Kenin",
-   "slug": "wta-navarro-kenin-2026-07-27",
-   "opened_at": "2026-07-27T14:45:28.960501+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 1500.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.31,
-   "ask_depth": 5795.22,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "62814268912341484316939899409678638735469446811435006481567494496243284808016",
    "condition_id": "0x45f57dd41162aa9267c2f64181114e45a172a0e64b0580b2688c6a248247878f",
    "title": "Mubadala Citi DC Open: Ashlyn Krueger vs Katie Boulter",
@@ -15125,6 +15107,28 @@
    "exit_price": 1.0,
    "pnl": 233.3333,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17160239955482332387804031580990789819945507039176795885283687547936023980850",
+   "condition_id": "0xc1075db1b8dce58b0b9a505fc202a0ac288308e5f2b8e5a11510229d170cb4af",
+   "title": "Mubadala Citi DC Open: Emma Navarro vs Sofia Kenin",
+   "outcome": "Sofia Kenin",
+   "slug": "wta-navarro-kenin-2026-07-27",
+   "opened_at": "2026-07-27T14:45:28.960501+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 1500.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.31,
+   "ask_depth": 5795.22,
+   "status": "lost",
+   "closed_at": "2026-07-27T19:25:22.672932+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15724,6 +15728,6 @@
    "outcome": "Alexander Blockx"
   }
  ],
- "total_pnl": -844.2941999999996,
- "last_updated": "2026-07-27T19:10:33.473050+00:00"
+ "total_pnl": -944.2941999999996,
+ "last_updated": "2026-07-27T19:25:22.674220+00:00"
 }
