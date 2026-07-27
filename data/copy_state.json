@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8522.372715,
+ "bankroll": 8855.706015,
  "last_seen": {
   "jtwyslljy": 1785172663,
   "0x53757615de": 1784324596
@@ -10522,24 +10522,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "6229190943974652598485546206788436152107773615267172631276208829902726919715",
-   "condition_id": "0x53d24f318de69158711923d4b32af49a5b361d162fed46f6b36fad32ae4d0a8f",
-   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Clara Tauson",
-   "outcome": "Elisabetta Cocciaretto",
-   "slug": "wta-cocciar-tauson-2026-07-27",
-   "opened_at": "2026-07-27T14:45:28.762289+00:00",
-   "entry_price": 0.3,
-   "shares": 333.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 593.0,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.3,
-   "ask_depth": 3902.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "17160239955482332387804031580990789819945507039176795885283687547936023980850",
    "condition_id": "0xc1075db1b8dce58b0b9a505fc202a0ac288308e5f2b8e5a11510229d170cb4af",
    "title": "Mubadala Citi DC Open: Emma Navarro vs Sofia Kenin",
@@ -15121,6 +15103,28 @@
    "exit_price": 1.0,
    "pnl": 163.1579,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6229190943974652598485546206788436152107773615267172631276208829902726919715",
+   "condition_id": "0x53d24f318de69158711923d4b32af49a5b361d162fed46f6b36fad32ae4d0a8f",
+   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Clara Tauson",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-cocciar-tauson-2026-07-27",
+   "opened_at": "2026-07-27T14:45:28.762289+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 593.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.3,
+   "ask_depth": 3902.23,
+   "status": "won",
+   "closed_at": "2026-07-27T19:10:33.174254+00:00",
+   "exit_price": 1.0,
+   "pnl": 233.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15720,6 +15724,6 @@
    "outcome": "Alexander Blockx"
   }
  ],
- "total_pnl": -1077.6274999999996,
- "last_updated": "2026-07-27T17:20:31.889674+00:00"
+ "total_pnl": -844.2941999999996,
+ "last_updated": "2026-07-27T19:10:33.473050+00:00"
 }
