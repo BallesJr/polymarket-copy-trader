@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9149.706015,
  "last_seen": {
-  "jtwyslljy": 1785244079,
+  "jtwyslljy": 1785251003,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7250,6 +7250,13 @@
    "SELL",
    6112.54,
    1785244079
+  ],
+  [
+   "0xecccb702cb78e709caac2621c92aeb0cafe970c25c0c65d3e65b130cf46ab061",
+   "6030360031726794521861535005084209421057956728095973385714692228499477435793",
+   "BUY",
+   7000,
+   1785251003
   ]
  ],
  "leader_pos": {
@@ -10612,6 +10619,18 @@
    "cost": -4804.4390000127,
    "max_shares": 6116.4400000000005,
    "last_trade_ts": 1785244079
+  },
+  "jtwyslljy|6030360031726794521861535005084209421057956728095973385714692228499477435793": {
+   "leader": "jtwyslljy",
+   "asset": "6030360031726794521861535005084209421057956728095973385714692228499477435793",
+   "condition_id": "0xa3c1eeef9b7baf6883384baeb8f8a7bae53486ef1eaecd7c46d8d283414f790c",
+   "title": "Mubadala Citi DC Open: Julieta Pareja vs Xinyu Wang",
+   "outcome": "Julieta Pareja",
+   "slug": "wta-pareja-wa-2026-07-28",
+   "shares": 7000.0,
+   "cost": 2870.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1785251003
   }
  },
  "positions": [
@@ -15873,8 +15892,18 @@
    "leader": "jtwyslljy",
    "title": "Houston Astros vs. Los Angeles Angels AND Chicago Cubs vs. St. Louis Cardinals",
    "outcome": ""
+  },
+  {
+   "at": "2026-07-28T15:05:21.632813+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-28T15:00:00+00:00",
+   "condition_id": "0xa3c1eeef9b7baf6883384baeb8f8a7bae53486ef1eaecd7c46d8d283414f790c",
+   "copy_delay_min": 2.0,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Julieta Pareja vs Xinyu Wang",
+   "outcome": "Julieta Pareja"
   }
  ],
  "total_pnl": -750.2941999999996,
- "last_updated": "2026-07-28T13:10:34.500869+00:00"
+ "last_updated": "2026-07-28T15:05:22.040108+00:00"
 }
