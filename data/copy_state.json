@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8949.706015,
+ "bankroll": 8849.706015,
  "last_seen": {
-  "jtwyslljy": 1785254950,
+  "jtwyslljy": 1785257165,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7299,6 +7299,13 @@
    "BUY",
    5000,
    1785254950
+  ],
+  [
+   "0x8d8400e3ed8e069ffbc5be6ba241ef56ff145690d01b3450eba4689adc47de28",
+   "31954225693101537405370726045733196728281458423229393079953921110322998169110",
+   "BUY",
+   4638.22,
+   1785257165
   ]
  ],
  "leader_pos": {
@@ -10721,6 +10728,18 @@
    "cost": 1900.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1785254950
+  },
+  "jtwyslljy|31954225693101537405370726045733196728281458423229393079953921110322998169110": {
+   "leader": "jtwyslljy",
+   "asset": "31954225693101537405370726045733196728281458423229393079953921110322998169110",
+   "condition_id": "0x034c10b5c1046db75eaed6ebf9eccc14044061219f041a33a39f6ee7547c2b5d",
+   "title": "Mubadala Citi DC Open: Magdalena Frech vs Ann Li",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-frech-annli-2026-07-27",
+   "shares": 4638.22,
+   "cost": 1623.377,
+   "max_shares": 4638.22,
+   "last_trade_ts": 1785257165
   }
  },
  "positions": [
@@ -10776,6 +10795,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.31,
    "ask_depth": 65104.65,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31954225693101537405370726045733196728281458423229393079953921110322998169110",
+   "condition_id": "0x034c10b5c1046db75eaed6ebf9eccc14044061219f041a33a39f6ee7547c2b5d",
+   "title": "Mubadala Citi DC Open: Magdalena Frech vs Ann Li",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-frech-annli-2026-07-27",
+   "opened_at": "2026-07-28T16:50:36.613339+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1623.38,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.36,
+   "ask_depth": 5095.2,
    "status": "open"
   }
  ],
@@ -16051,5 +16088,5 @@
   }
  ],
  "total_pnl": -750.2941999999996,
- "last_updated": "2026-07-28T16:10:27.046793+00:00"
+ "last_updated": "2026-07-28T16:50:37.371730+00:00"
 }
