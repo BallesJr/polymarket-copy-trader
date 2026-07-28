@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8755.706015,
+ "bankroll": 9149.706015,
  "last_seen": {
-  "jtwyslljy": 1785238696,
+  "jtwyslljy": 1785244079,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7243,6 +7243,13 @@
    "BUY",
    82,
    1785238696
+  ],
+  [
+   "0xd97f521c784b5727a7589807c7a7b1aff40912470c02ad663eae6ac0deb991f5",
+   "61913754237910053583588942440715586133167892766029086521877129846541561907231",
+   "SELL",
+   6112.54,
+   1785244079
   ]
  ],
  "leader_pos": {
@@ -10601,10 +10608,10 @@
    "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
    "outcome": "DN SOOPers",
    "slug": "lol-dnf-bro2-2026-07-28",
-   "shares": 6116.4400000000005,
-   "cost": 1185.9572,
+   "shares": 3.9000000000005457,
+   "cost": -4804.4390000127,
    "max_shares": 6116.4400000000005,
-   "last_trade_ts": 1785238696
+   "last_trade_ts": 1785244079
   }
  },
  "positions": [
@@ -10624,24 +10631,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "61913754237910053583588942440715586133167892766029086521877129846541561907231",
-   "condition_id": "0x19ef741a23232a6c294056fe64817d23890e8b35b7b60f9eddbfaaca01047f61",
-   "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
-   "outcome": "DN SOOPers",
-   "slug": "lol-dnf-bro2-2026-07-28",
-   "opened_at": "2026-07-28T10:20:34.592462+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.25,
-   "leader_cost": 750.0,
-   "copy_delay_min": 6.6,
-   "best_ask": 0.25,
-   "ask_depth": 24305.96,
    "status": "open"
   }
  ],
@@ -15257,6 +15246,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61913754237910053583588942440715586133167892766029086521877129846541561907231",
+   "condition_id": "0x19ef741a23232a6c294056fe64817d23890e8b35b7b60f9eddbfaaca01047f61",
+   "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-bro2-2026-07-28",
+   "opened_at": "2026-07-28T10:20:34.592462+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 750.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.25,
+   "ask_depth": 24305.96,
+   "status": "closed",
+   "closed_at": "2026-07-28T13:10:34.016069+00:00",
+   "exit_price": 0.985,
+   "pnl": 294.0,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -15864,6 +15875,6 @@
    "outcome": ""
   }
  ],
- "total_pnl": -1044.2941999999996,
- "last_updated": "2026-07-28T11:40:34.289301+00:00"
+ "total_pnl": -750.2941999999996,
+ "last_updated": "2026-07-28T13:10:34.500869+00:00"
 }
