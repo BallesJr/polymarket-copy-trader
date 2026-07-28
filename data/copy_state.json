@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8855.706015,
  "last_seen": {
-  "jtwyslljy": 1785172663,
+  "jtwyslljy": 1785207573,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7173,6 +7173,20 @@
    "BUY",
    3000,
    1785172663
+  ],
+  [
+   "0x7f6ec7cfc1cada40990ce12a53974c57d9219c1f8bcd15f8efe9a7f92d2e2ca6",
+   "1387711157505077647187020960607557910693137388111013291268299591440528310272",
+   "BUY",
+   2380.459354,
+   1785207361
+  ],
+  [
+   "0x73152619646c305427f68c00e1b72cdaab037a53026a9990f403d22f71d62055",
+   "1387711157505077647187020960607557910693137388111013291268299591440528310272",
+   "BUY",
+   1210.05027,
+   1785207573
   ]
  ],
  "leader_pos": {
@@ -10499,6 +10513,18 @@
    "cost": 1230.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1785172663
+  },
+  "jtwyslljy|1387711157505077647187020960607557910693137388111013291268299591440528310272": {
+   "leader": "jtwyslljy",
+   "asset": "1387711157505077647187020960607557910693137388111013291268299591440528310272",
+   "condition_id": "0x03116aab9ba2debc620f78cc8bbc79981a0000000000000000000000000000",
+   "title": "Houston Astros vs. Los Angeles Angels AND Chicago Cubs vs. St. Louis Cardinals",
+   "outcome": "",
+   "slug": "",
+   "shares": 3590.5096240000003,
+   "cost": 2974.4916859977825,
+   "max_shares": 3590.5096240000003,
+   "last_trade_ts": 1785207573
   }
  },
  "positions": [
@@ -15726,8 +15752,16 @@
    "leader": "jtwyslljy",
    "title": "Estoril Open: Luca Van Assche vs Alexander Blockx",
    "outcome": "Alexander Blockx"
+  },
+  {
+   "at": "2026-07-28T03:05:23.848114+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "Houston Astros vs. Los Angeles Angels AND Chicago Cubs vs. St. Louis Cardinals",
+   "outcome": ""
   }
  ],
  "total_pnl": -944.2941999999996,
- "last_updated": "2026-07-27T19:25:22.674220+00:00"
+ "last_updated": "2026-07-28T03:05:24.711672+00:00"
 }
