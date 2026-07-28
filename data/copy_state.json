@@ -10545,24 +10545,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "62814268912341484316939899409678638735469446811435006481567494496243284808016",
-   "condition_id": "0x45f57dd41162aa9267c2f64181114e45a172a0e64b0580b2688c6a248247878f",
-   "title": "Mubadala Citi DC Open: Ashlyn Krueger vs Katie Boulter",
-   "outcome": "Katie Boulter",
-   "slug": "wta-krueger-boulter-2026-07-27",
-   "opened_at": "2026-07-27T17:20:31.343104+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 1230.0,
-   "copy_delay_min": 2.8,
-   "best_ask": 0.41,
-   "ask_depth": 17352.05,
-   "status": "open"
   }
  ],
  "closed": [
@@ -15155,6 +15137,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62814268912341484316939899409678638735469446811435006481567494496243284808016",
+   "condition_id": "0x45f57dd41162aa9267c2f64181114e45a172a0e64b0580b2688c6a248247878f",
+   "title": "Mubadala Citi DC Open: Ashlyn Krueger vs Katie Boulter",
+   "outcome": "Katie Boulter",
+   "slug": "wta-krueger-boulter-2026-07-27",
+   "opened_at": "2026-07-27T17:20:31.343104+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1230.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.41,
+   "ask_depth": 17352.05,
+   "status": "lost",
+   "closed_at": "2026-07-28T03:20:37.053209+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -15762,6 +15766,6 @@
    "outcome": ""
   }
  ],
- "total_pnl": -944.2941999999996,
- "last_updated": "2026-07-28T03:05:24.711672+00:00"
+ "total_pnl": -1044.2941999999996,
+ "last_updated": "2026-07-28T03:20:37.054223+00:00"
 }
