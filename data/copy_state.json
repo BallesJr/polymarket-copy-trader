@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8849.706015,
  "last_seen": {
-  "jtwyslljy": 1785257165,
+  "jtwyslljy": 1785259898,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7306,6 +7306,13 @@
    "BUY",
    4638.22,
    1785257165
+  ],
+  [
+   "0xd1da473ca0012c7beb3dccd065cf34f2455b3dcd4248643b16803ba94f054a8a",
+   "28702269136362942354651622994067563323953730121323835705207302780706440451077",
+   "BUY",
+   4003.24,
+   1785259898
   ]
  ],
  "leader_pos": {
@@ -10740,6 +10747,18 @@
    "cost": 1623.377,
    "max_shares": 4638.22,
    "last_trade_ts": 1785257165
+  },
+  "jtwyslljy|28702269136362942354651622994067563323953730121323835705207302780706440451077": {
+   "leader": "jtwyslljy",
+   "asset": "28702269136362942354651622994067563323953730121323835705207302780706440451077",
+   "condition_id": "0xf68435f312c812569b99d83e62188d6ea9bb6b676f06454f038096078fec131e",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-eala-zhen-2026-07-27",
+   "shares": 4003.24,
+   "cost": 2241.8144,
+   "max_shares": 4003.24,
+   "last_trade_ts": 1785259898
   }
  },
  "positions": [
@@ -16085,8 +16104,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Kamil Majchrzak vs Tommy Paul",
    "outcome": "Tommy Paul"
+  },
+  {
+   "at": "2026-07-28T17:35:22.091076+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-28T17:00:00+00:00",
+   "condition_id": "0xf68435f312c812569b99d83e62188d6ea9bb6b676f06454f038096078fec131e",
+   "copy_delay_min": 3.7,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -750.2941999999996,
- "last_updated": "2026-07-28T16:50:37.371730+00:00"
+ "last_updated": "2026-07-28T17:35:22.466492+00:00"
 }
