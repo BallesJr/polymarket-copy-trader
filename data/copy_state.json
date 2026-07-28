@@ -10782,24 +10782,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "2419655529688753347540086220870802845350365650142376214405273151084068079246",
-   "condition_id": "0x86241605e401e7a16663e180f746ecdb40af42850ec164a8c317b128cc947801",
-   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Tomas Etcheverry",
-   "outcome": "Tomas Etcheverry",
-   "slug": "atp-nakashi-etcheve-2026-07-27",
-   "opened_at": "2026-07-28T15:20:30.536643+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.31,
-   "leader_cost": 2170.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.31,
-   "ask_depth": 65104.65,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "31954225693101537405370726045733196728281458423229393079953921110322998169110",
    "condition_id": "0x034c10b5c1046db75eaed6ebf9eccc14044061219f041a33a39f6ee7547c2b5d",
    "title": "Mubadala Citi DC Open: Magdalena Frech vs Ann Li",
@@ -15473,6 +15455,28 @@
    "exit_price": 1.0,
    "pnl": 426.3158,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2419655529688753347540086220870802845350365650142376214405273151084068079246",
+   "condition_id": "0x86241605e401e7a16663e180f746ecdb40af42850ec164a8c317b128cc947801",
+   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-nakashi-etcheve-2026-07-27",
+   "opened_at": "2026-07-28T15:20:30.536643+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 2170.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.31,
+   "ask_depth": 65104.65,
+   "status": "lost",
+   "closed_at": "2026-07-28T22:55:23.439094+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16120,6 +16124,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -323.97839999999957,
- "last_updated": "2026-07-28T22:35:25.805185+00:00"
+ "total_pnl": -423.97839999999957,
+ "last_updated": "2026-07-28T22:55:23.440291+00:00"
 }
