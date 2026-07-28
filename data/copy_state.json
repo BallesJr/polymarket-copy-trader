@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8949.706015,
  "last_seen": {
-  "jtwyslljy": 1785253190,
+  "jtwyslljy": 1785254950,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7278,6 +7278,27 @@
    "SELL",
    4000,
    1785253190
+  ],
+  [
+   "0xe35166d5166ae5db4fd6acb9992160125707f74cc705dbab7fc0271b1814deb2",
+   "23139177452220992932541841457642326819838528741540253873248388110797171370869",
+   "BUY",
+   3000,
+   1785254704
+  ],
+  [
+   "0xc2fd5fc81d1acea66dac9778df97c8a067977b48b7dffc76b66da963af351fd5",
+   "23139177452220992932541841457642326819838528741540253873248388110797171370869",
+   "BUY",
+   1999.99,
+   1785254782
+  ],
+  [
+   "0xdd3b3feac74f8309dfa77c3ac92f223516999a2821a7d5938c9a534cf51c712d",
+   "45885261538972042809449361913681756521524638240024134106939545119995372374805",
+   "BUY",
+   5000,
+   1785254950
   ]
  ],
  "leader_pos": {
@@ -10676,6 +10697,30 @@
    "cost": 2170.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1785251453
+  },
+  "jtwyslljy|23139177452220992932541841457642326819838528741540253873248388110797171370869": {
+   "leader": "jtwyslljy",
+   "asset": "23139177452220992932541841457642326819838528741540253873248388110797171370869",
+   "condition_id": "0x033f055a81a5807aa12790c9fac55f94619f7768f7c4d94edb0d8343c96e37f2",
+   "title": "Mubadala Citi DC Open: Cristina Bucsa vs Polina Kudermetova",
+   "outcome": "Polina Kudermetova",
+   "slug": "wta-bucsa-kuderme-2026-07-28",
+   "shares": 4999.99,
+   "cost": 1639.9966,
+   "max_shares": 4999.99,
+   "last_trade_ts": 1785254782
+  },
+  "jtwyslljy|45885261538972042809449361913681756521524638240024134106939545119995372374805": {
+   "leader": "jtwyslljy",
+   "asset": "45885261538972042809449361913681756521524638240024134106939545119995372374805",
+   "condition_id": "0x076dc7f41919ffd309b7cbd0a67365b1700428bdb4022370cc66c982a98be01b",
+   "title": "Mubadala Citi DC Open: Kamil Majchrzak vs Tommy Paul",
+   "outcome": "Tommy Paul",
+   "slug": "atp-majchrz-paul-2026-07-27",
+   "shares": 5000.0,
+   "cost": 1900.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1785254950
   }
  },
  "positions": [
@@ -15983,8 +16028,28 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Julieta Pareja vs Xinyu Wang",
    "outcome": "Julieta Pareja"
+  },
+  {
+   "at": "2026-07-28T16:10:26.424454+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-28T15:00:00+00:00",
+   "condition_id": "0x033f055a81a5807aa12790c9fac55f94619f7768f7c4d94edb0d8343c96e37f2",
+   "copy_delay_min": 4.1,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Cristina Bucsa vs Polina Kudermetova",
+   "outcome": "Polina Kudermetova"
+  },
+  {
+   "at": "2026-07-28T16:10:26.546679+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-28T15:00:00+00:00",
+   "condition_id": "0x076dc7f41919ffd309b7cbd0a67365b1700428bdb4022370cc66c982a98be01b",
+   "copy_delay_min": 1.3,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Kamil Majchrzak vs Tommy Paul",
+   "outcome": "Tommy Paul"
   }
  ],
  "total_pnl": -750.2941999999996,
- "last_updated": "2026-07-28T15:45:28.046896+00:00"
+ "last_updated": "2026-07-28T16:10:27.046793+00:00"
 }
