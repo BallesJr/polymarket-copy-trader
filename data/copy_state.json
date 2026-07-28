@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8855.706015,
+ "bankroll": 8755.706015,
  "last_seen": {
-  "jtwyslljy": 1785231544,
+  "jtwyslljy": 1785233636,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7215,6 +7215,13 @@
    "SELL",
    43,
    1785231544
+  ],
+  [
+   "0x83cc2da6b170e3a92c5d441d4ffb02777bf63467218ce1319132c7e13c990438",
+   "61913754237910053583588942440715586133167892766029086521877129846541561907231",
+   "BUY",
+   3000,
+   1785233636
   ]
  ],
  "leader_pos": {
@@ -10565,6 +10572,18 @@
    "cost": -489.8710000062079,
    "max_shares": 0.0,
    "last_trade_ts": 1785231544
+  },
+  "jtwyslljy|61913754237910053583588942440715586133167892766029086521877129846541561907231": {
+   "leader": "jtwyslljy",
+   "asset": "61913754237910053583588942440715586133167892766029086521877129846541561907231",
+   "condition_id": "0x19ef741a23232a6c294056fe64817d23890e8b35b7b60f9eddbfaaca01047f61",
+   "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-bro2-2026-07-28",
+   "shares": 3000.0,
+   "cost": 750.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1785233636
   }
  },
  "positions": [
@@ -10584,6 +10603,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61913754237910053583588942440715586133167892766029086521877129846541561907231",
+   "condition_id": "0x19ef741a23232a6c294056fe64817d23890e8b35b7b60f9eddbfaaca01047f61",
+   "title": "LoL: DN SOOPers vs HANJIN BRION (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-bro2-2026-07-28",
+   "opened_at": "2026-07-28T10:20:34.592462+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 750.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.25,
+   "ask_depth": 24305.96,
    "status": "open"
   }
  ],
@@ -15807,5 +15844,5 @@
   }
  ],
  "total_pnl": -1044.2941999999996,
- "last_updated": "2026-07-28T09:40:30.029016+00:00"
+ "last_updated": "2026-07-28T10:20:35.363285+00:00"
 }
