@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9653.799615,
+ "bankroll": 9553.799615,
  "last_seen": {
-  "jtwyslljy": 1785291449,
+  "jtwyslljy": 1785311588,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7327,6 +7327,13 @@
    "BUY",
    3000,
    1785291449
+  ],
+  [
+   "0xb9cf1e3070c7955e697140b4ba8670a313969619ab2ef9c5cb81a6854382becd",
+   "76172359172179742468024341062487422459948820043480085221180829241965288642925",
+   "BUY",
+   102000,
+   1785311588
   ]
  ],
  "leader_pos": {
@@ -10785,6 +10792,18 @@
    "cost": 3193.5149799056644,
    "max_shares": 6285.76,
    "last_trade_ts": 1785291449
+  },
+  "jtwyslljy|76172359172179742468024341062487422459948820043480085221180829241965288642925": {
+   "leader": "jtwyslljy",
+   "asset": "76172359172179742468024341062487422459948820043480085221180829241965288642925",
+   "condition_id": "0xbf05e75ff7476d041f128db78160a0153af5ca46e5016c85fcc3bb8b50612319",
+   "title": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-t1-kt-2026-07-29",
+   "shares": 102000.0,
+   "cost": 22440.0,
+   "max_shares": 102000.0,
+   "last_trade_ts": 1785311588
   }
  },
  "positions": [
@@ -10804,6 +10823,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76172359172179742468024341062487422459948820043480085221180829241965288642925",
+   "condition_id": "0xbf05e75ff7476d041f128db78160a0153af5ca46e5016c85fcc3bb8b50612319",
+   "title": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-t1-kt-2026-07-29",
+   "opened_at": "2026-07-29T07:55:22.399032+00:00",
+   "entry_price": 0.22,
+   "shares": 454.5455,
+   "stake": 100.0,
+   "leader_vwap": 0.22,
+   "leader_cost": 22440.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.22,
+   "ask_depth": 7850.27,
    "status": "open"
   }
  ],
@@ -16165,5 +16202,5 @@
   }
  ],
  "total_pnl": -246.20059999999955,
- "last_updated": "2026-07-29T02:25:20.622491+00:00"
+ "last_updated": "2026-07-29T07:55:23.056698+00:00"
 }
