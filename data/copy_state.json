@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9553.799615,
+ "bankroll": 9453.799615,
  "last_seen": {
-  "jtwyslljy": 1785322985,
+  "jtwyslljy": 1785337487,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7362,6 +7362,27 @@
    "BUY",
    51,
    1785322985
+  ],
+  [
+   "0x30f61b0ccf1ef2113aa05fe76bdcdec7bea3d21adc49b119bb6931e3783a4bda",
+   "76172359172179742468024341062487422459948820043480085221180829241965288642925",
+   "SELL",
+   11000,
+   1785337452
+  ],
+  [
+   "0x5cf3040c210259d900c2cf9ee76a9f56bc55143940fb301475ee5db2dee19c4e",
+   "80904240727707276163167310034136415899741788134849236640174006760970180698697",
+   "BUY",
+   3600,
+   1785337472
+  ],
+  [
+   "0xfc7723d6b77e5ffc4033f1a04754fff313f0832f9af059fe2e7c0e20b3f846ae",
+   "64567147459370283511698495386163355301291010144464792394965223631557451431305",
+   "BUY",
+   6200,
+   1785337487
   ]
  ],
  "leader_pos": {
@@ -10828,10 +10849,34 @@
    "title": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "KT Rolster",
    "slug": "lol-t1-kt-2026-07-29",
-   "shares": 129996.79999999999,
-   "cost": 33945.405,
+   "shares": 118996.79999999999,
+   "cost": 22956.405,
    "max_shares": 129996.79999999999,
-   "last_trade_ts": 1785322985
+   "last_trade_ts": 1785337452
+  },
+  "jtwyslljy|80904240727707276163167310034136415899741788134849236640174006760970180698697": {
+   "leader": "jtwyslljy",
+   "asset": "80904240727707276163167310034136415899741788134849236640174006760970180698697",
+   "condition_id": "0x6e45dfcd7f8e271b5ea33c76d9634a58641b43f1eef79ff65e92c51894bf4acf",
+   "title": "Mubadala Citi DC Open: Leylah Fernandez vs Alexandra Eala",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-fernand-eala-2026-07-29",
+   "shares": 3600.0,
+   "cost": 1692.0,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1785337472
+  },
+  "jtwyslljy|64567147459370283511698495386163355301291010144464792394965223631557451431305": {
+   "leader": "jtwyslljy",
+   "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
+   "condition_id": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
+   "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-navarro-cocciar-2026-07-29",
+   "shares": 6200.0,
+   "cost": 2046.0,
+   "max_shares": 6200.0,
+   "last_trade_ts": 1785337487
   }
  },
  "positions": [
@@ -10869,6 +10914,24 @@
    "copy_delay_min": 2.2,
    "best_ask": 0.22,
    "ask_depth": 7850.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
+   "condition_id": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
+   "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-navarro-cocciar-2026-07-29",
+   "opened_at": "2026-07-29T15:10:28.426145+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 2046.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.34,
+   "ask_depth": 7788.4,
    "status": "open"
   }
  ],
@@ -16227,8 +16290,18 @@
    "leader": "jtwyslljy",
    "title": "Arizona Diamondbacks vs. Pittsburgh Pirates",
    "outcome": "Arizona Diamondbacks"
+  },
+  {
+   "at": "2026-07-29T15:10:28.246308+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-29T15:00:00+00:00",
+   "condition_id": "0x6e45dfcd7f8e271b5ea33c76d9634a58641b43f1eef79ff65e92c51894bf4acf",
+   "copy_delay_min": 5.9,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Leylah Fernandez vs Alexandra Eala",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -246.20059999999955,
- "last_updated": "2026-07-29T11:10:26.009329+00:00"
+ "last_updated": "2026-07-29T15:10:29.133076+00:00"
 }
