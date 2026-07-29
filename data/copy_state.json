@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9376.021815,
+ "bankroll": 9653.799615,
  "last_seen": {
   "jtwyslljy": 1785259898,
   "0x53757615de": 1784324596
@@ -10779,24 +10779,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "31954225693101537405370726045733196728281458423229393079953921110322998169110",
-   "condition_id": "0x034c10b5c1046db75eaed6ebf9eccc14044061219f041a33a39f6ee7547c2b5d",
-   "title": "Mubadala Citi DC Open: Magdalena Frech vs Ann Li",
-   "outcome": "Magdalena Frech",
-   "slug": "wta-frech-annli-2026-07-27",
-   "opened_at": "2026-07-28T16:50:36.613339+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 1623.38,
-   "copy_delay_min": 4.5,
-   "best_ask": 0.36,
-   "ask_depth": 5095.2,
-   "status": "open"
   }
  ],
  "closed": [
@@ -15477,6 +15459,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "31954225693101537405370726045733196728281458423229393079953921110322998169110",
+   "condition_id": "0x034c10b5c1046db75eaed6ebf9eccc14044061219f041a33a39f6ee7547c2b5d",
+   "title": "Mubadala Citi DC Open: Magdalena Frech vs Ann Li",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-frech-annli-2026-07-27",
+   "opened_at": "2026-07-28T16:50:36.613339+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1623.38,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.36,
+   "ask_depth": 5095.2,
+   "status": "won",
+   "closed_at": "2026-07-29T01:15:28.357253+00:00",
+   "exit_price": 1.0,
+   "pnl": 177.7778,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16124,6 +16128,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -423.97839999999957,
- "last_updated": "2026-07-28T22:55:23.440291+00:00"
+ "total_pnl": -246.20059999999955,
+ "last_updated": "2026-07-29T01:15:28.358163+00:00"
 }
