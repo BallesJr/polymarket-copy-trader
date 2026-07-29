@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9608.345115,
+ "bankroll": 9902.462715,
  "last_seen": {
   "jtwyslljy": 1785345761,
   "0x53757615de": 1784324596
@@ -11011,24 +11011,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
-   "condition_id": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
-   "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
-   "outcome": "Elisabetta Cocciaretto",
-   "slug": "wta-navarro-cocciar-2026-07-29",
-   "opened_at": "2026-07-29T15:10:28.426145+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 2046.0,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.34,
-   "ask_depth": 7788.4,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "102809225887740555876547320409319272961026608420211811336992348430287772491052",
    "condition_id": "0x22944c6278d1f5d790d79de82a28aeb2cd675b9e7b5701ea362b30ee8bbbe82d",
    "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
@@ -15808,6 +15790,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
+   "condition_id": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
+   "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-navarro-cocciar-2026-07-29",
+   "opened_at": "2026-07-29T15:10:28.426145+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 2046.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.34,
+   "ask_depth": 7788.4,
+   "status": "won",
+   "closed_at": "2026-07-29T22:55:20.487369+00:00",
+   "exit_price": 1.0,
+   "pnl": 194.1176,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16505,6 +16509,6 @@
    "outcome": "Alex de Minaur"
   }
  ],
- "total_pnl": 8.34490000000045,
- "last_updated": "2026-07-29T20:00:49.805730+00:00"
+ "total_pnl": 202.46250000000046,
+ "last_updated": "2026-07-29T22:55:20.488256+00:00"
 }
