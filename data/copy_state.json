@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9653.799615,
  "last_seen": {
-  "jtwyslljy": 1785259898,
+  "jtwyslljy": 1785291449,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7313,6 +7313,20 @@
    "BUY",
    4003.24,
    1785259898
+  ],
+  [
+   "0xa6ad88642fdc74e4feff4428d27b88489e8bb6ecad89f229f7ce42c94a7416c0",
+   "105320664569296170368268733346680015432819057420059032821034608875357478322233",
+   "BUY",
+   3285.76,
+   1785291440
+  ],
+  [
+   "0x08b09140d246b3ad113bdb1d906b51be665319db3e0914fc0869cc20e90d333d",
+   "105320664569296170368268733346680015432819057420059032821034608875357478322233",
+   "BUY",
+   3000,
+   1785291449
   ]
  ],
  "leader_pos": {
@@ -10759,6 +10773,18 @@
    "cost": 2241.8144,
    "max_shares": 4003.24,
    "last_trade_ts": 1785259898
+  },
+  "jtwyslljy|105320664569296170368268733346680015432819057420059032821034608875357478322233": {
+   "leader": "jtwyslljy",
+   "asset": "105320664569296170368268733346680015432819057420059032821034608875357478322233",
+   "condition_id": "0x41120a831873d197745706473bea56ce14de106799e8b79e10726c313121b369",
+   "title": "Arizona Diamondbacks vs. Pittsburgh Pirates",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-ari-pit-2026-07-28",
+   "shares": 6285.76,
+   "cost": 3193.5149799056644,
+   "max_shares": 6285.76,
+   "last_trade_ts": 1785291449
   }
  },
  "positions": [
@@ -16126,8 +16152,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Alexandra Eala vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-07-29T02:25:20.250833+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-28T22:40:00+00:00",
+   "condition_id": "0x41120a831873d197745706473bea56ce14de106799e8b79e10726c313121b369",
+   "copy_delay_min": 7.8,
+   "leader": "jtwyslljy",
+   "title": "Arizona Diamondbacks vs. Pittsburgh Pirates",
+   "outcome": "Arizona Diamondbacks"
   }
  ],
  "total_pnl": -246.20059999999955,
- "last_updated": "2026-07-29T01:15:28.358163+00:00"
+ "last_updated": "2026-07-29T02:25:20.622491+00:00"
 }
