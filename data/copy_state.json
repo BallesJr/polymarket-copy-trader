@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9453.799615,
+ "bankroll": 9153.799615,
  "last_seen": {
-  "jtwyslljy": 1785337487,
+  "jtwyslljy": 1785337745,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7383,6 +7383,27 @@
    "BUY",
    6200,
    1785337487
+  ],
+  [
+   "0xa765a80fd9ee4567d080ff04f347bfabbf63faeb072bdb61915e0bf682c008f4",
+   "94879658888366553945490110595272784174136100508820863407492539720747328330173",
+   "BUY",
+   3999.99,
+   1785337527
+  ],
+  [
+   "0x705396ab659cc834dba3013ee015c05ee92a85271d94d35afd55b545b2c6596c",
+   "13013251820838760093208714984372804211834391413337511599508603961256914282058",
+   "BUY",
+   3000,
+   1785337710
+  ],
+  [
+   "0x723787d174cbb8b48735a5a74e9317515f4b2692ea070189857cf98903666a3b",
+   "102809225887740555876547320409319272961026608420211811336992348430287772491052",
+   "BUY",
+   6000,
+   1785337745
   ]
  ],
  "leader_pos": {
@@ -10877,6 +10898,42 @@
    "cost": 2046.0,
    "max_shares": 6200.0,
    "last_trade_ts": 1785337487
+  },
+  "jtwyslljy|94879658888366553945490110595272784174136100508820863407492539720747328330173": {
+   "leader": "jtwyslljy",
+   "asset": "94879658888366553945490110595272784174136100508820863407492539720747328330173",
+   "condition_id": "0xc692ba464b42246da891dec4346124435027974abf5edcb23bbb151e8c87a38a",
+   "title": "Mubadala Citi DC Open: Ashlyn Krueger vs Naomi Osaka",
+   "outcome": "Ashlyn Krueger",
+   "slug": "wta-krueger-osaka-2026-07-29",
+   "shares": 3999.99,
+   "cost": 1079.9973,
+   "max_shares": 3999.99,
+   "last_trade_ts": 1785337527
+  },
+  "jtwyslljy|13013251820838760093208714984372804211834391413337511599508603961256914282058": {
+   "leader": "jtwyslljy",
+   "asset": "13013251820838760093208714984372804211834391413337511599508603961256914282058",
+   "condition_id": "0x482cb42e0a7c3493c32d388a85505476569114f6b980e804eb9ca2ff15532d33",
+   "title": "Mubadala Citi DC Open: Aleksandar Vukic vs Lorenzo Musetti",
+   "outcome": "Aleksandar Vukic",
+   "slug": "atp-vukic-musetti-2026-07-29",
+   "shares": 3000.0,
+   "cost": 960.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1785337710
+  },
+  "jtwyslljy|102809225887740555876547320409319272961026608420211811336992348430287772491052": {
+   "leader": "jtwyslljy",
+   "asset": "102809225887740555876547320409319272961026608420211811336992348430287772491052",
+   "condition_id": "0x22944c6278d1f5d790d79de82a28aeb2cd675b9e7b5701ea362b30ee8bbbe82d",
+   "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino",
+   "slug": "atp-michels-mannari-2026-07-29",
+   "shares": 6000.0,
+   "cost": 1560.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1785337745
   }
  },
  "positions": [
@@ -10932,6 +10989,60 @@
    "copy_delay_min": 5.7,
    "best_ask": 0.34,
    "ask_depth": 7788.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102809225887740555876547320409319272961026608420211811336992348430287772491052",
+   "condition_id": "0x22944c6278d1f5d790d79de82a28aeb2cd675b9e7b5701ea362b30ee8bbbe82d",
+   "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino",
+   "slug": "atp-michels-mannari-2026-07-29",
+   "opened_at": "2026-07-29T15:15:35.004262+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 1560.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.26,
+   "ask_depth": 8380.73,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13013251820838760093208714984372804211834391413337511599508603961256914282058",
+   "condition_id": "0x482cb42e0a7c3493c32d388a85505476569114f6b980e804eb9ca2ff15532d33",
+   "title": "Mubadala Citi DC Open: Aleksandar Vukic vs Lorenzo Musetti",
+   "outcome": "Aleksandar Vukic",
+   "slug": "atp-vukic-musetti-2026-07-29",
+   "opened_at": "2026-07-29T15:15:35.177470+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 960.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.32,
+   "ask_depth": 28193.78,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94879658888366553945490110595272784174136100508820863407492539720747328330173",
+   "condition_id": "0xc692ba464b42246da891dec4346124435027974abf5edcb23bbb151e8c87a38a",
+   "title": "Mubadala Citi DC Open: Ashlyn Krueger vs Naomi Osaka",
+   "outcome": "Ashlyn Krueger",
+   "slug": "wta-krueger-osaka-2026-07-29",
+   "opened_at": "2026-07-29T15:15:35.353016+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1080.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.27,
+   "ask_depth": 1174.17,
    "status": "open"
   }
  ],
@@ -16303,5 +16414,5 @@
   }
  ],
  "total_pnl": -246.20059999999955,
- "last_updated": "2026-07-29T15:10:29.133076+00:00"
+ "last_updated": "2026-07-29T15:15:35.976167+00:00"
 }
