@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9153.799615,
+ "bankroll": 9608.345115,
  "last_seen": {
   "jtwyslljy": 1785337745,
   "0x53757615de": 1784324596
@@ -10957,24 +10957,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "76172359172179742468024341062487422459948820043480085221180829241965288642925",
-   "condition_id": "0xbf05e75ff7476d041f128db78160a0153af5ca46e5016c85fcc3bb8b50612319",
-   "title": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "KT Rolster",
-   "slug": "lol-t1-kt-2026-07-29",
-   "opened_at": "2026-07-29T07:55:22.399032+00:00",
-   "entry_price": 0.22,
-   "shares": 454.5455,
-   "stake": 100.0,
-   "leader_vwap": 0.22,
-   "leader_cost": 22440.0,
-   "copy_delay_min": 2.2,
-   "best_ask": 0.22,
-   "ask_depth": 7850.27,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "64567147459370283511698495386163355301291010144464792394965223631557451431305",
    "condition_id": "0xdc9291fb5367d9eb43dd5f359ff74ae87b9c1874b8597e1500898a063ea925ab",
    "title": "Mubadala Citi DC Open: Emma Navarro vs Elisabetta Cocciaretto",
@@ -15746,6 +15728,28 @@
    "exit_price": 1.0,
    "pnl": 177.7778,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76172359172179742468024341062487422459948820043480085221180829241965288642925",
+   "condition_id": "0xbf05e75ff7476d041f128db78160a0153af5ca46e5016c85fcc3bb8b50612319",
+   "title": "LoL: T1 vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-t1-kt-2026-07-29",
+   "opened_at": "2026-07-29T07:55:22.399032+00:00",
+   "entry_price": 0.22,
+   "shares": 454.5455,
+   "stake": 100.0,
+   "leader_vwap": 0.22,
+   "leader_cost": 22440.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.22,
+   "ask_depth": 7850.27,
+   "status": "won",
+   "closed_at": "2026-07-29T15:55:30.053390+00:00",
+   "exit_price": 1.0,
+   "pnl": 354.5455,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16413,6 +16417,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -246.20059999999955,
- "last_updated": "2026-07-29T15:15:35.976167+00:00"
+ "total_pnl": 108.34490000000045,
+ "last_updated": "2026-07-29T15:55:30.054590+00:00"
 }
