@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9608.345115,
  "last_seen": {
-  "jtwyslljy": 1785337745,
+  "jtwyslljy": 1785342644,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7404,6 +7404,13 @@
    "BUY",
    6000,
    1785337745
+  ],
+  [
+   "0x0ec67d421d45f12e114c7d415033e047a72f82760fabd3870797ab6d4b626e56",
+   "80904240727707276163167310034136415899741788134849236640174006760970180698697",
+   "BUY",
+   29900,
+   1785342644
   ]
  ],
  "leader_pos": {
@@ -10882,10 +10889,10 @@
    "title": "Mubadala Citi DC Open: Leylah Fernandez vs Alexandra Eala",
    "outcome": "Leylah Fernandez",
    "slug": "wta-fernand-eala-2026-07-29",
-   "shares": 3600.0,
-   "cost": 1692.0,
-   "max_shares": 3600.0,
-   "last_trade_ts": 1785337472
+   "shares": 33500.0,
+   "cost": 17526.007899840002,
+   "max_shares": 33500.0,
+   "last_trade_ts": 1785342644
   },
   "jtwyslljy|64567147459370283511698495386163355301291010144464792394965223631557451431305": {
    "leader": "jtwyslljy",
@@ -16415,8 +16422,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Leylah Fernandez vs Alexandra Eala",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-07-29T16:35:31.191401+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-29T15:00:00+00:00",
+   "condition_id": "0x6e45dfcd7f8e271b5ea33c76d9634a58641b43f1eef79ff65e92c51894bf4acf",
+   "copy_delay_min": 4.8,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Leylah Fernandez vs Alexandra Eala",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": 108.34490000000045,
- "last_updated": "2026-07-29T15:55:30.054590+00:00"
+ "last_updated": "2026-07-29T16:35:31.585350+00:00"
 }
