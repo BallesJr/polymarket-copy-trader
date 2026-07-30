@@ -11190,24 +11190,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "75198470863427815027905047132114910289649151778425488301401202802650887679078",
-   "condition_id": "0xd56d561c80fe5cc76b483d654c60f78401522b6c011e7f53eba157b8a27282d4",
-   "title": "LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
-   "outcome": "DN SOOPers",
-   "slug": "lol-dnf-fox1-2026-07-30",
-   "opened_at": "2026-07-30T07:45:27.848273+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.24,
-   "leader_cost": 3869.29,
-   "copy_delay_min": 2.4,
-   "best_ask": 0.25,
-   "ask_depth": 6637.41,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16020,6 +16002,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "condition_id": "0xd56d561c80fe5cc76b483d654c60f78401522b6c011e7f53eba157b8a27282d4",
+   "title": "LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-fox1-2026-07-30",
+   "opened_at": "2026-07-30T07:45:27.848273+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 3869.29,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.25,
+   "ask_depth": 6637.41,
+   "status": "lost",
+   "closed_at": "2026-07-30T14:35:27.537373+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16787,6 +16791,6 @@
    "outcome": "ThunderTalk Gaming"
   }
  ],
- "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T13:55:32.482818+00:00"
+ "total_pnl": -97.53749999999954,
+ "last_updated": "2026-07-30T14:35:27.538829+00:00"
 }
