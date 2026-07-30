@@ -11008,24 +11008,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "102809225887740555876547320409319272961026608420211811336992348430287772491052",
-   "condition_id": "0x22944c6278d1f5d790d79de82a28aeb2cd675b9e7b5701ea362b30ee8bbbe82d",
-   "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
-   "outcome": "Adrian Mannarino",
-   "slug": "atp-michels-mannari-2026-07-29",
-   "opened_at": "2026-07-29T15:15:35.004262+00:00",
-   "entry_price": 0.26,
-   "shares": 384.6154,
-   "stake": 100.0,
-   "leader_vwap": 0.26,
-   "leader_cost": 1560.0,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.26,
-   "ask_depth": 8380.73,
-   "status": "open"
   }
  ],
  "closed": [
@@ -15816,6 +15798,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102809225887740555876547320409319272961026608420211811336992348430287772491052",
+   "condition_id": "0x22944c6278d1f5d790d79de82a28aeb2cd675b9e7b5701ea362b30ee8bbbe82d",
+   "title": "Mubadala Citi DC Open: Alex Michelsen vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino",
+   "slug": "atp-michels-mannari-2026-07-29",
+   "opened_at": "2026-07-29T15:15:35.004262+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 1560.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.26,
+   "ask_depth": 8380.73,
+   "status": "lost",
+   "closed_at": "2026-07-30T02:15:33.989206+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16513,6 +16517,6 @@
    "outcome": "Alex de Minaur"
   }
  ],
- "total_pnl": 102.46250000000046,
- "last_updated": "2026-07-30T00:30:35.570798+00:00"
+ "total_pnl": 2.4625000000004604,
+ "last_updated": "2026-07-30T02:15:33.990415+00:00"
 }
