@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9802.462715,
  "last_seen": {
-  "jtwyslljy": 1785397701,
+  "jtwyslljy": 1785397976,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7460,6 +7460,27 @@
    "BUY",
    16,
    1785397701
+  ],
+  [
+   "0x611d424f4a57f55451ae8f09383caf54abb8f17a1a92548e45379f841b1f1ac7",
+   "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "BUY",
+   6522.16,
+   1785397806
+  ],
+  [
+   "0xecebdb8ae47e1139375cfbd77c55af05fce1aba5184f6e181f947dca7744fbf7",
+   "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "BUY",
+   26,
+   1785397848
+  ],
+  [
+   "0xfea01c21d8939000a89afe6f3ffd113441c93a85be251be751511cf52a1c2808",
+   "78344559493017900502454468519237042752303621158668139820287640979678556350253",
+   "BUY",
+   3899.99,
+   1785397976
   ]
  ],
  "leader_pos": {
@@ -11010,10 +11031,22 @@
    "title": "LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "DN SOOPers",
    "slug": "lol-dnf-fox1-2026-07-30",
-   "shares": 16138.05,
-   "cost": 3873.2919999999995,
-   "max_shares": 16138.05,
-   "last_trade_ts": 1785397701
+   "shares": 22686.21,
+   "cost": 5510.592,
+   "max_shares": 22686.21,
+   "last_trade_ts": 1785397848
+  },
+  "jtwyslljy|78344559493017900502454468519237042752303621158668139820287640979678556350253": {
+   "leader": "jtwyslljy",
+   "asset": "78344559493017900502454468519237042752303621158668139820287640979678556350253",
+   "condition_id": "0x63d44c2c833abec58173a1ee603f091f9ef0d38d1c538c880f618414806252d7",
+   "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Weibo Gaming",
+   "slug": "lol-nip-wb-2026-07-30",
+   "shares": 3899.99,
+   "cost": 1325.9966,
+   "max_shares": 3899.99,
+   "last_trade_ts": 1785397976
   }
  },
  "positions": [
@@ -16559,8 +16592,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Stefanos Tsitsipas",
    "outcome": "Alex de Minaur"
+  },
+  {
+   "at": "2026-07-30T07:55:23.128171+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-30T07:00:00+00:00",
+   "condition_id": "0x63d44c2c833abec58173a1ee603f091f9ef0d38d1c538c880f618414806252d7",
+   "copy_delay_min": 2.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Weibo Gaming"
   }
  ],
  "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T07:50:35.163820+00:00"
+ "last_updated": "2026-07-30T07:55:23.712143+00:00"
 }
