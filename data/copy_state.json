@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9802.462715,
  "last_seen": {
-  "jtwyslljy": 1785397976,
+  "jtwyslljy": 1785398118,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7481,6 +7481,13 @@
    "BUY",
    3899.99,
    1785397976
+  ],
+  [
+   "0xac506901f8f511ddeb0268f2ab8d50ccb76bef9ee77f3464f3af88de844cdf81",
+   "78344559493017900502454468519237042752303621158668139820287640979678556350253",
+   "BUY",
+   2100,
+   1785398118
   ]
  ],
  "leader_pos": {
@@ -11043,10 +11050,10 @@
    "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
    "outcome": "Weibo Gaming",
    "slug": "lol-nip-wb-2026-07-30",
-   "shares": 3899.99,
-   "cost": 1325.9966,
-   "max_shares": 3899.99,
-   "last_trade_ts": 1785397976
+   "shares": 5999.99,
+   "cost": 2018.9966,
+   "max_shares": 5999.99,
+   "last_trade_ts": 1785398118
   }
  },
  "positions": [
@@ -16602,8 +16609,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
    "outcome": "Weibo Gaming"
+  },
+  {
+   "at": "2026-07-30T08:00:42.170394+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-30T07:00:00+00:00",
+   "condition_id": "0x63d44c2c833abec58173a1ee603f091f9ef0d38d1c538c880f618414806252d7",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Weibo Gaming"
   }
  ],
  "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T07:55:23.712143+00:00"
+ "last_updated": "2026-07-30T08:00:42.644868+00:00"
 }
