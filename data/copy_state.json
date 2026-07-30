@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9902.462715,
+ "bankroll": 9802.462715,
  "last_seen": {
-  "jtwyslljy": 1785345761,
+  "jtwyslljy": 1785397386,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7446,6 +7446,13 @@
    "BUY",
    2434,
    1785345761
+  ],
+  [
+   "0xdf8074d79cf6f4fa5b80434ed14fc32b7620e94d6b8218e926fedbe0ad9ad4bd",
+   "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "BUY",
+   16122.05,
+   1785397386
   ]
  ],
  "leader_pos": {
@@ -10988,6 +10995,18 @@
    "cost": 11703.109199734792,
    "max_shares": 21710.480000000003,
    "last_trade_ts": 1785345761
+  },
+  "jtwyslljy|75198470863427815027905047132114910289649151778425488301401202802650887679078": {
+   "leader": "jtwyslljy",
+   "asset": "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "condition_id": "0xd56d561c80fe5cc76b483d654c60f78401522b6c011e7f53eba157b8a27282d4",
+   "title": "LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-fox1-2026-07-30",
+   "shares": 16122.05,
+   "cost": 3869.2919999999995,
+   "max_shares": 16122.05,
+   "last_trade_ts": 1785397386
   }
  },
  "positions": [
@@ -11007,6 +11026,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75198470863427815027905047132114910289649151778425488301401202802650887679078",
+   "condition_id": "0xd56d561c80fe5cc76b483d654c60f78401522b6c011e7f53eba157b8a27282d4",
+   "title": "LoL: DN SOOPers vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-dnf-fox1-2026-07-30",
+   "opened_at": "2026-07-30T07:45:27.848273+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 3869.29,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.25,
+   "ask_depth": 6637.41,
    "status": "open"
   }
  ],
@@ -16518,5 +16555,5 @@
   }
  ],
  "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T02:15:33.990415+00:00"
+ "last_updated": "2026-07-30T07:45:28.310095+00:00"
 }
