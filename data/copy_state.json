@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9802.462715,
  "last_seen": {
-  "jtwyslljy": 1785398118,
+  "jtwyslljy": 1785403724,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7488,6 +7488,13 @@
    "BUY",
    2100,
    1785398118
+  ],
+  [
+   "0xd4a04efb695a7b3129a857c138fb90b8e98aa8573a3c416fd71d55a39ef7d797",
+   "84891624705982396757430311697345252313214829690551473866060841689073780381510",
+   "BUY",
+   2100,
+   1785403724
   ]
  ],
  "leader_pos": {
@@ -11054,6 +11061,18 @@
    "cost": 2018.9966,
    "max_shares": 5999.99,
    "last_trade_ts": 1785398118
+  },
+  "jtwyslljy|84891624705982396757430311697345252313214829690551473866060841689073780381510": {
+   "leader": "jtwyslljy",
+   "asset": "84891624705982396757430311697345252313214829690551473866060841689073780381510",
+   "condition_id": "0x9af089d23f720fa905d69ab1c2b004ac23031863ea1801d10d8458830f9bc19b",
+   "title": "LoL: EDward Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming",
+   "slug": "lol-edg-we-2026-07-30",
+   "shares": 2100.0,
+   "cost": 630.0,
+   "max_shares": 2100.0,
+   "last_trade_ts": 1785403724
   }
  },
  "positions": [
@@ -16619,8 +16638,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Ninjas in Pyjamas vs Weibo Gaming (BO3) - LPL Group Nirvana",
    "outcome": "Weibo Gaming"
+  },
+  {
+   "at": "2026-07-30T09:35:27.020094+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-30T09:00:00+00:00",
+   "condition_id": "0x9af089d23f720fa905d69ab1c2b004ac23031863ea1801d10d8458830f9bc19b",
+   "copy_delay_min": 6.7,
+   "leader": "jtwyslljy",
+   "title": "LoL: EDward Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming"
   }
  ],
  "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T08:00:42.644868+00:00"
+ "last_updated": "2026-07-30T09:35:27.391495+00:00"
 }
