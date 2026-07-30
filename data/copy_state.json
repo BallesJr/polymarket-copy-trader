@@ -11305,24 +11305,6 @@
    "best_ask": 0.18,
    "ask_depth": 9010.85,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "7002567276730898582154642341454991776593232808975451583344253227245105921702",
-   "condition_id": "0x9189b6a326ff1f0299597a28e4cc9a5f20d0ad5f77d44c9d89a7eca78b12c571",
-   "title": "Mubadala Citi DC Open: Jessica Pegula vs Magdalena Frech",
-   "outcome": "Magdalena Frech",
-   "slug": "wta-pegula-frech-2026-07-30",
-   "opened_at": "2026-07-30T17:55:25.448745+00:00",
-   "entry_price": 0.1,
-   "shares": 1000.0,
-   "stake": 100.0,
-   "leader_vwap": 0.1,
-   "leader_cost": 500.0,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.1,
-   "ask_depth": 11133.37,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16157,6 +16139,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7002567276730898582154642341454991776593232808975451583344253227245105921702",
+   "condition_id": "0x9189b6a326ff1f0299597a28e4cc9a5f20d0ad5f77d44c9d89a7eca78b12c571",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Magdalena Frech",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-pegula-frech-2026-07-30",
+   "opened_at": "2026-07-30T17:55:25.448745+00:00",
+   "entry_price": 0.1,
+   "shares": 1000.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1,
+   "leader_cost": 500.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.1,
+   "ask_depth": 11133.37,
+   "status": "lost",
+   "closed_at": "2026-07-30T21:50:28.513183+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16944,6 +16948,6 @@
    "outcome": "Anna Kalinskaya"
   }
  ],
- "total_pnl": -97.53749999999954,
- "last_updated": "2026-07-30T18:45:30.099843+00:00"
+ "total_pnl": -197.53749999999954,
+ "last_updated": "2026-07-30T21:50:28.514160+00:00"
 }
