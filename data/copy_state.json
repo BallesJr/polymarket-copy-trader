@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9802.462715,
  "last_seen": {
-  "jtwyslljy": 1785406686,
+  "jtwyslljy": 1785413756,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7516,6 +7516,13 @@
    "BUY",
    422.93,
    1785406686
+  ],
+  [
+   "0x9e82da30f9ffea6653c105e8931da9f798b7e48a5ca47b5df8248a6714172de6",
+   "22243280273498234987031341437063630596733850966298635604549136405175256264690",
+   "BUY",
+   6000,
+   1785413756
   ]
  ],
  "leader_pos": {
@@ -11106,6 +11113,18 @@
    "cost": 143.7962,
    "max_shares": 422.93,
    "last_trade_ts": 1785406686
+  },
+  "jtwyslljy|22243280273498234987031341437063630596733850966298635604549136405175256264690": {
+   "leader": "jtwyslljy",
+   "asset": "22243280273498234987031341437063630596733850966298635604549136405175256264690",
+   "condition_id": "0x1a03b791d9670be09bce3ffd281cca2a98df7be99d4daeb9f1f44226271c6937",
+   "title": "LoL: ThunderTalk Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "JD Gaming",
+   "slug": "lol-tt-jdg-2026-07-30",
+   "shares": 6000.0,
+   "cost": 2280.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1785413756
   }
  },
  "positions": [
@@ -16691,8 +16710,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: EDward Gaming vs Team WE (BO3) - LPL Group Ascend",
    "outcome": "EDward Gaming"
+  },
+  {
+   "at": "2026-07-30T12:20:32.048997+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-30T11:00:00+00:00",
+   "condition_id": "0x1a03b791d9670be09bce3ffd281cca2a98df7be99d4daeb9f1f44226271c6937",
+   "copy_delay_min": 4.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: ThunderTalk Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "JD Gaming"
   }
  ],
  "total_pnl": 2.4625000000004604,
- "last_updated": "2026-07-30T10:20:33.712997+00:00"
+ "last_updated": "2026-07-30T12:20:32.546221+00:00"
 }
