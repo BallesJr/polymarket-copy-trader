@@ -11287,24 +11287,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "80341813602535610506335164069646157112888611163813467009861859305455913124438",
-   "condition_id": "0x82b87cc67dd13cfa574c3b9597160638b0edba293c54f7a668acb62cb54e9855",
-   "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
-   "outcome": "Polina Kudermetova",
-   "slug": "wta-kuderme-svitoli-2026-07-29",
-   "opened_at": "2026-07-30T17:55:25.271109+00:00",
-   "entry_price": 0.18,
-   "shares": 555.5556,
-   "stake": 100.0,
-   "leader_vwap": 0.18,
-   "leader_cost": 765.0,
-   "copy_delay_min": 4.3,
-   "best_ask": 0.18,
-   "ask_depth": 9010.85,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16161,6 +16143,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80341813602535610506335164069646157112888611163813467009861859305455913124438",
+   "condition_id": "0x82b87cc67dd13cfa574c3b9597160638b0edba293c54f7a668acb62cb54e9855",
+   "title": "Mubadala Citi DC Open: Polina Kudermetova vs Elina Svitolina",
+   "outcome": "Polina Kudermetova",
+   "slug": "wta-kuderme-svitoli-2026-07-29",
+   "opened_at": "2026-07-30T17:55:25.271109+00:00",
+   "entry_price": 0.18,
+   "shares": 555.5556,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 765.0,
+   "copy_delay_min": 4.3,
+   "best_ask": 0.18,
+   "ask_depth": 9010.85,
+   "status": "lost",
+   "closed_at": "2026-07-31T03:30:31.668319+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -16948,6 +16952,6 @@
    "outcome": "Anna Kalinskaya"
   }
  ],
- "total_pnl": -197.53749999999954,
- "last_updated": "2026-07-30T21:50:28.514160+00:00"
+ "total_pnl": -297.53749999999957,
+ "last_updated": "2026-07-31T03:30:31.669444+00:00"
 }
