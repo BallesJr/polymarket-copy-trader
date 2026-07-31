@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9502.462715,
  "last_seen": {
-  "jtwyslljy": 1785500090,
+  "jtwyslljy": 1785500561,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7649,6 +7649,13 @@
    "SELL",
    10000,
    1785500090
+  ],
+  [
+   "0xe8eff5c984810627222d852e0d4c7f7dbebf446c576c5d380a3a6e77e4464a34",
+   "13626339474500741281267150251103298621447341398568389842724200874281441919093",
+   "BUY",
+   5000,
+   1785500561
   ]
  ],
  "leader_pos": {
@@ -11355,10 +11362,10 @@
    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "HANJIN BRION",
    "slug": "lol-bro2-drx-2026-07-31",
-   "shares": 4146.0,
-   "cost": 2729.0800000422,
-   "max_shares": 4146.0,
-   "last_trade_ts": 1785499062
+   "shares": 9146.0,
+   "cost": 5279.0800000422005,
+   "max_shares": 9146.0,
+   "last_trade_ts": 1785500561
   },
   "jtwyslljy|43385952159387308724045408405165854799326229108881647948414227139841261524925": {
    "leader": "jtwyslljy",
@@ -17082,8 +17089,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-07-31T12:25:22.719329+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-31T10:00:00+00:00",
+   "condition_id": "0x14a4dbab7705b109a4cb77db40c3867e25a432057b60b0096bc11ef2b00f7cd7",
+   "copy_delay_min": 2.7,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -297.53749999999957,
- "last_updated": "2026-07-31T12:20:28.503144+00:00"
+ "last_updated": "2026-07-31T12:25:23.372259+00:00"
 }
