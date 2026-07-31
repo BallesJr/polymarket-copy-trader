@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9502.462715,
  "last_seen": {
-  "jtwyslljy": 1785488022,
+  "jtwyslljy": 1785499062,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7621,6 +7621,13 @@
    "SELL",
    27,
    1785488022
+  ],
+  [
+   "0x053e6155cc31d0982f8b84a0fc16ec922a5ed73151b309cd18896049b2604742",
+   "13626339474500741281267150251103298621447341398568389842724200874281441919093",
+   "BUY",
+   4146,
+   1785499062
   ]
  ],
  "leader_pos": {
@@ -11319,6 +11326,18 @@
    "cost": 300.90560000000005,
    "max_shares": 935.84,
    "last_trade_ts": 1785488022
+  },
+  "jtwyslljy|13626339474500741281267150251103298621447341398568389842724200874281441919093": {
+   "leader": "jtwyslljy",
+   "asset": "13626339474500741281267150251103298621447341398568389842724200874281441919093",
+   "condition_id": "0x14a4dbab7705b109a4cb77db40c3867e25a432057b60b0096bc11ef2b00f7cd7",
+   "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "HANJIN BRION",
+   "slug": "lol-bro2-drx-2026-07-31",
+   "shares": 4146.0,
+   "cost": 2729.0800000422,
+   "max_shares": 4146.0,
+   "last_trade_ts": 1785499062
   }
  },
  "positions": [
@@ -17020,8 +17039,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Janice Tjen vs Anna Kalinskaya",
    "outcome": "Anna Kalinskaya"
+  },
+  {
+   "at": "2026-07-31T12:00:43.788042+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-31T10:00:00+00:00",
+   "condition_id": "0x14a4dbab7705b109a4cb77db40c3867e25a432057b60b0096bc11ef2b00f7cd7",
+   "copy_delay_min": 3.0,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -297.53749999999957,
- "last_updated": "2026-07-31T09:00:46.145198+00:00"
+ "last_updated": "2026-07-31T12:00:44.274701+00:00"
 }
