@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8802.462715,
  "last_seen": {
-  "jtwyslljy": 1785524396,
+  "jtwyslljy": 1785526509,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7789,6 +7789,13 @@
    "BUY",
    800,
    1785524396
+  ],
+  [
+   "0xe7bf4a0e745e254187f15047fe2440caa23bf4adc4b31771cf18e2f1aa66ca27",
+   "83325409327446080786662646745042779164249811961133900067537232622346703933668",
+   "SELL",
+   2000,
+   1785526509
   ]
  ],
  "leader_pos": {
@@ -11531,10 +11538,10 @@
    "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
    "outcome": "Elisabetta Cocciaretto",
    "slug": "wta-cocciar-osaka-2026-07-31",
-   "shares": 10000.0,
-   "cost": 1600.0,
+   "shares": 8000.0,
+   "cost": 660.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1785506582
+   "last_trade_ts": 1785526509
   },
   "jtwyslljy|50788023280329232640902407675141798305045722154993952523275556447900431427011": {
    "leader": "jtwyslljy",
@@ -17527,5 +17534,5 @@
   }
  ],
  "total_pnl": -497.53749999999957,
- "last_updated": "2026-07-31T19:10:29.857470+00:00"
+ "last_updated": "2026-07-31T19:40:30.924717+00:00"
 }
