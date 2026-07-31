@@ -11675,24 +11675,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "72263023044525826938242472779837439723432754423950852985870701604997949135801",
-   "condition_id": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
-   "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
-   "outcome": "Alex Michelsen",
-   "slug": "atp-fritz-michels-2026-07-31",
-   "opened_at": "2026-07-31T14:10:27.511198+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 2310.0,
-   "copy_delay_min": 2.8,
-   "best_ask": 0.33,
-   "ask_depth": 9296.31,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
    "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
@@ -16710,6 +16692,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72263023044525826938242472779837439723432754423950852985870701604997949135801",
+   "condition_id": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
+   "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-fritz-michels-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.511198+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 2310.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.33,
+   "ask_depth": 9296.31,
+   "status": "lost",
+   "closed_at": "2026-07-31T23:20:25.516435+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17577,6 +17581,6 @@
    "outcome": "paiN"
   }
  ],
- "total_pnl": -441.12719999999956,
- "last_updated": "2026-07-31T21:05:20.724794+00:00"
+ "total_pnl": -541.1271999999996,
+ "last_updated": "2026-07-31T23:20:25.517354+00:00"
 }
