@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9602.462715,
+ "bankroll": 9502.462715,
  "last_seen": {
-  "jtwyslljy": 1785436829,
+  "jtwyslljy": 1785479102,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7593,6 +7593,20 @@
    "BUY",
    2000,
    1785436829
+  ],
+  [
+   "0x0da240e38d6bfd5dd406efad8194b74fe11f2ebb08d76fa6e2060b19d6b5aa4d",
+   "10799900579559911844954050295574449488980138066719850482652424111183878958153",
+   "BUY",
+   60000,
+   1785478958
+  ],
+  [
+   "0x041abf992bc66cc09655219ee6ce1dde6018bfd53cecc9cb7d9e1d7dd485fd36",
+   "10799900579559911844954050295574449488980138066719850482652424111183878958153",
+   "BUY",
+   5000,
+   1785479102
   ]
  ],
  "leader_pos": {
@@ -11267,6 +11281,18 @@
    "cost": 240.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1785436829
+  },
+  "jtwyslljy|10799900579559911844954050295574449488980138066719850482652424111183878958153": {
+   "leader": "jtwyslljy",
+   "asset": "10799900579559911844954050295574449488980138066719850482652424111183878958153",
+   "condition_id": "0xfe94bd15c6124c4426eb239529c749a921f76fd7a859fcafed4cb481be8037b5",
+   "title": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-t1-2026-07-31",
+   "shares": 65000.0,
+   "cost": 41600.0,
+   "max_shares": 65000.0,
+   "last_trade_ts": 1785479102
   }
  },
  "positions": [
@@ -11286,6 +11312,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10799900579559911844954050295574449488980138066719850482652424111183878958153",
+   "condition_id": "0xfe94bd15c6124c4426eb239529c749a921f76fd7a859fcafed4cb481be8037b5",
+   "title": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-t1-2026-07-31",
+   "opened_at": "2026-07-31T06:30:36.518958+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 41600.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.64,
+   "ask_depth": 15967.56,
    "status": "open"
   }
  ],
@@ -16953,5 +16997,5 @@
   }
  ],
  "total_pnl": -297.53749999999957,
- "last_updated": "2026-07-31T03:30:31.669444+00:00"
+ "last_updated": "2026-07-31T06:30:37.079930+00:00"
 }
