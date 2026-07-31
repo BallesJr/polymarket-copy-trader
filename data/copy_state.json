@@ -11714,24 +11714,6 @@
    "best_ask": 0.26,
    "ask_depth": 21471.42,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "50788023280329232640902407675141798305045722154993952523275556447900431427011",
-   "condition_id": "0xa6236833a985fd46188248a6fabbde9c29478d9fbec68b3918989a07c79f4da9",
-   "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
-   "outcome": "Anna Kalinskaya",
-   "slug": "wta-pegula-kalinsk-2026-07-31",
-   "opened_at": "2026-07-31T14:10:28.318876+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.28,
-   "leader_cost": 2240.0,
-   "copy_delay_min": 7.0,
-   "best_ask": 0.28,
-   "ask_depth": 6408.47,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16632,6 +16614,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "50788023280329232640902407675141798305045722154993952523275556447900431427011",
+   "condition_id": "0xa6236833a985fd46188248a6fabbde9c29478d9fbec68b3918989a07c79f4da9",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-pegula-kalinsk-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.318876+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 2240.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.28,
+   "ask_depth": 6408.47,
+   "status": "lost",
+   "closed_at": "2026-07-31T18:05:29.008207+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17469,6 +17473,6 @@
    "outcome": "TheMongolz"
   }
  ],
- "total_pnl": -397.53749999999957,
- "last_updated": "2026-07-31T17:20:24.741288+00:00"
+ "total_pnl": -497.53749999999957,
+ "last_updated": "2026-07-31T18:05:29.009426+00:00"
 }
