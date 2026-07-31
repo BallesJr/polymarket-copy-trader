@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8802.462715,
  "last_seen": {
-  "jtwyslljy": 1785506892,
+  "jtwyslljy": 1785511841,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7726,6 +7726,27 @@
    "BUY",
    3827.28,
    1785506892
+  ],
+  [
+   "0x82717eab46e5d4a4e0345cfb38454258c5f9d7389d1ee06f4a119f345662fdfd",
+   "82412175757463363869101828625682881981783376666438539851070958222349720122528",
+   "BUY",
+   4000,
+   1785511833
+  ],
+  [
+   "0x1d94831c25720cb9165cdea2888015d0ac2214947c01973a814ffacac59c1bd4",
+   "72263023044525826938242472779837439723432754423950852985870701604997949135801",
+   "BUY",
+   3000,
+   1785511835
+  ],
+  [
+   "0x9ab5eb8d749dfb9d4ed859ec15786dc54731fe032b26e13baaaa02445283d8cb",
+   "14017623442793808904293238352195868481964393451674238664220640350592428635452",
+   "BUY",
+   1404.81,
+   1785511841
   ]
  ],
  "leader_pos": {
@@ -11504,10 +11525,10 @@
    "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
    "outcome": "Brandon Nakashima",
    "slug": "atp-minaur-nakashi-2026-07-31",
-   "shares": 6000.0,
-   "cost": 2340.0,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1785506849
+   "shares": 10000.0,
+   "cost": 3940.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785511833
   },
   "jtwyslljy|72263023044525826938242472779837439723432754423950852985870701604997949135801": {
    "leader": "jtwyslljy",
@@ -11516,10 +11537,10 @@
    "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
    "outcome": "Alex Michelsen",
    "slug": "atp-fritz-michels-2026-07-31",
-   "shares": 7000.0,
-   "cost": 2310.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1785506859
+   "shares": 10000.0,
+   "cost": 3300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785511835
   },
   "jtwyslljy|14017623442793808904293238352195868481964393451674238664220640350592428635452": {
    "leader": "jtwyslljy",
@@ -11528,10 +11549,10 @@
    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
    "outcome": "Lorenzo Musetti",
    "slug": "atp-jodar-musetti-2026-07-31",
-   "shares": 6500.0,
-   "cost": 2340.0,
-   "max_shares": 6500.0,
-   "last_trade_ts": 1785506871
+   "shares": 7904.8099999999995,
+   "cost": 2845.7316,
+   "max_shares": 7904.8099999999995,
+   "last_trade_ts": 1785511841
   },
   "jtwyslljy|96821779870244813323743917532705562455184548856358785599005582847638947382818": {
    "leader": "jtwyslljy",
@@ -17428,5 +17449,5 @@
   }
  ],
  "total_pnl": -397.53749999999957,
- "last_updated": "2026-07-31T14:10:28.845171+00:00"
+ "last_updated": "2026-07-31T15:35:27.898485+00:00"
 }
