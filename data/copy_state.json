@@ -11693,24 +11693,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "83325409327446080786662646745042779164249811961133900067537232622346703933668",
-   "condition_id": "0xb6316f8194ece491c69fabfd124109c9310a6d446de0806b646503b3d5e5af7d",
-   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
-   "outcome": "Elisabetta Cocciaretto",
-   "slug": "wta-cocciar-osaka-2026-07-31",
-   "opened_at": "2026-07-31T14:10:27.791271+00:00",
-   "entry_price": 0.17,
-   "shares": 588.2353,
-   "stake": 100.0,
-   "leader_vwap": 0.16,
-   "leader_cost": 1600.0,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.17,
-   "ask_depth": 16175.15,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
    "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
    "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
@@ -16706,6 +16688,28 @@
    "exit_price": 1.0,
    "pnl": 156.4103,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83325409327446080786662646745042779164249811961133900067537232622346703933668",
+   "condition_id": "0xb6316f8194ece491c69fabfd124109c9310a6d446de0806b646503b3d5e5af7d",
+   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-cocciar-osaka-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.791271+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.16,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.17,
+   "ask_depth": 16175.15,
+   "status": "lost",
+   "closed_at": "2026-07-31T21:05:20.723594+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17573,6 +17577,6 @@
    "outcome": "paiN"
   }
  ],
- "total_pnl": -341.12719999999956,
- "last_updated": "2026-07-31T20:46:02.842416+00:00"
+ "total_pnl": -441.12719999999956,
+ "last_updated": "2026-07-31T21:05:20.724794+00:00"
 }
