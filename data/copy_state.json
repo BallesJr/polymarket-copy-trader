@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8802.462715,
  "last_seen": {
-  "jtwyslljy": 1785527000,
+  "jtwyslljy": 1785528486,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7803,6 +7803,13 @@
    "SELL",
    2000,
    1785527000
+  ],
+  [
+   "0x548fad689bbedb625409be75cb9f04defb1e45e5bf90e6ef5b2f1e821deda0b5",
+   "87811808813553879856351839381400249517684530928608821949285796387486547133164",
+   "BUY",
+   3399.99,
+   1785528486
   ]
  ],
  "leader_pos": {
@@ -11633,6 +11640,18 @@
    "cost": 8531.503499999999,
    "max_shares": 14967.55,
    "last_trade_ts": 1785524396
+  },
+  "jtwyslljy|87811808813553879856351839381400249517684530928608821949285796387486547133164": {
+   "leader": "jtwyslljy",
+   "asset": "87811808813553879856351839381400249517684530928608821949285796387486547133164",
+   "condition_id": "0x0a54a4fb700e568ebc95465a260bbff9905b60ecda59681a049fe68f9a55a07c",
+   "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+   "outcome": "paiN",
+   "slug": "cs2-pain-ast10-2026-07-30",
+   "shares": 3399.99,
+   "cost": 1288.5912099747059,
+   "max_shares": 3399.99,
+   "last_trade_ts": 1785528486
   }
  },
  "positions": [
@@ -17538,8 +17557,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
    "outcome": "Astralis"
+  },
+  {
+   "at": "2026-07-31T20:15:29.095420+00:00",
+   "reason": "in_play",
+   "game_start": "2026-07-31T16:10:00+00:00",
+   "condition_id": "0x0a54a4fb700e568ebc95465a260bbff9905b60ecda59681a049fe68f9a55a07c",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
+   "outcome": "paiN"
   }
  ],
  "total_pnl": -497.53749999999957,
- "last_updated": "2026-07-31T19:55:23.810636+00:00"
+ "last_updated": "2026-07-31T20:15:29.683981+00:00"
 }
