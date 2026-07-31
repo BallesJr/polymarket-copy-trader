@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9502.462715,
+ "bankroll": 8802.462715,
  "last_seen": {
-  "jtwyslljy": 1785504444,
+  "jtwyslljy": 1785506892,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7677,6 +7677,55 @@
    "BUY",
    5000,
    1785504444
+  ],
+  [
+   "0xdf1c868d07a2eb7d6d83d37f75b4cfe8744eab4108e77af7c75299436e26f0da",
+   "83325409327446080786662646745042779164249811961133900067537232622346703933668",
+   "BUY",
+   10000,
+   1785506582
+  ],
+  [
+   "0x94e9a536a8a0f315b7d819deb76757cab58a93151bb4e0ba2e5ff3fea3cc89a6",
+   "50788023280329232640902407675141798305045722154993952523275556447900431427011",
+   "BUY",
+   7999.99,
+   1785506606
+  ],
+  [
+   "0x678231c2544f6bba966f45cad440cb918f326a77516cf9f452ae9adc6b7e86f8",
+   "80109086061374391571898082838659544588678523841980632441094000537780517637422",
+   "BUY",
+   6000,
+   1785506628
+  ],
+  [
+   "0x5957100f2215431c939b06dc6045ed56ccd37565cc733b47f535c2ffcebd1f54",
+   "82412175757463363869101828625682881981783376666438539851070958222349720122528",
+   "BUY",
+   6000,
+   1785506849
+  ],
+  [
+   "0x3260fc51b8fe13a9a8b105e49b94b3fad1b14e8a68f103fbffc0759d09a01da2",
+   "72263023044525826938242472779837439723432754423950852985870701604997949135801",
+   "BUY",
+   7000,
+   1785506859
+  ],
+  [
+   "0x1e7d453380509f9942398e316192eb6be763540972689424b45b7cffbcb934fa",
+   "14017623442793808904293238352195868481964393451674238664220640350592428635452",
+   "BUY",
+   6500,
+   1785506871
+  ],
+  [
+   "0xec662ac05770943d381aaad071bb16b68801f55f8aaf03622466820816f5d6d7",
+   "96821779870244813323743917532705562455184548856358785599005582847638947382818",
+   "BUY",
+   3827.28,
+   1785506892
   ]
  ],
  "leader_pos": {
@@ -11411,6 +11460,90 @@
    "cost": 1100.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1785504444
+  },
+  "jtwyslljy|83325409327446080786662646745042779164249811961133900067537232622346703933668": {
+   "leader": "jtwyslljy",
+   "asset": "83325409327446080786662646745042779164249811961133900067537232622346703933668",
+   "condition_id": "0xb6316f8194ece491c69fabfd124109c9310a6d446de0806b646503b3d5e5af7d",
+   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-cocciar-osaka-2026-07-31",
+   "shares": 10000.0,
+   "cost": 1600.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785506582
+  },
+  "jtwyslljy|50788023280329232640902407675141798305045722154993952523275556447900431427011": {
+   "leader": "jtwyslljy",
+   "asset": "50788023280329232640902407675141798305045722154993952523275556447900431427011",
+   "condition_id": "0xa6236833a985fd46188248a6fabbde9c29478d9fbec68b3918989a07c79f4da9",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-pegula-kalinsk-2026-07-31",
+   "shares": 7999.99,
+   "cost": 2239.9972000000002,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1785506606
+  },
+  "jtwyslljy|80109086061374391571898082838659544588678523841980632441094000537780517637422": {
+   "leader": "jtwyslljy",
+   "asset": "80109086061374391571898082838659544588678523841980632441094000537780517637422",
+   "condition_id": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-svitoli-2026-07-31",
+   "shares": 6000.0,
+   "cost": 2400.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1785506628
+  },
+  "jtwyslljy|82412175757463363869101828625682881981783376666438539851070958222349720122528": {
+   "leader": "jtwyslljy",
+   "asset": "82412175757463363869101828625682881981783376666438539851070958222349720122528",
+   "condition_id": "0x8e6cfddfadbe05667e986a40ce40b9e853dcb9507804298bd2654ebaf8f0abb9",
+   "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-minaur-nakashi-2026-07-31",
+   "shares": 6000.0,
+   "cost": 2340.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1785506849
+  },
+  "jtwyslljy|72263023044525826938242472779837439723432754423950852985870701604997949135801": {
+   "leader": "jtwyslljy",
+   "asset": "72263023044525826938242472779837439723432754423950852985870701604997949135801",
+   "condition_id": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
+   "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-fritz-michels-2026-07-31",
+   "shares": 7000.0,
+   "cost": 2310.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1785506859
+  },
+  "jtwyslljy|14017623442793808904293238352195868481964393451674238664220640350592428635452": {
+   "leader": "jtwyslljy",
+   "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
+   "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-jodar-musetti-2026-07-31",
+   "shares": 6500.0,
+   "cost": 2340.0,
+   "max_shares": 6500.0,
+   "last_trade_ts": 1785506871
+  },
+  "jtwyslljy|96821779870244813323743917532705562455184548856358785599005582847638947382818": {
+   "leader": "jtwyslljy",
+   "asset": "96821779870244813323743917532705562455184548856358785599005582847638947382818",
+   "condition_id": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
+   "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-shelton-2026-07-31",
+   "shares": 3827.28,
+   "cost": 956.82,
+   "max_shares": 3827.28,
+   "last_trade_ts": 1785506892
   }
  },
  "positions": [
@@ -11430,6 +11563,132 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72263023044525826938242472779837439723432754423950852985870701604997949135801",
+   "condition_id": "0x2029e0396192d70b8a264810144a03a350b75a6a8f6e45379c7ee8503a12e476",
+   "title": "Mubadala Citi DC Open: Taylor Fritz vs Alex Michelsen",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-fritz-michels-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.511198+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 2310.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.33,
+   "ask_depth": 9296.31,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82412175757463363869101828625682881981783376666438539851070958222349720122528",
+   "condition_id": "0x8e6cfddfadbe05667e986a40ce40b9e853dcb9507804298bd2654ebaf8f0abb9",
+   "title": "Mubadala Citi DC Open: Alex de Minaur vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-minaur-nakashi-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.665634+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.39,
+   "ask_depth": 12722.39,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83325409327446080786662646745042779164249811961133900067537232622346703933668",
+   "condition_id": "0xb6316f8194ece491c69fabfd124109c9310a6d446de0806b646503b3d5e5af7d",
+   "title": "Mubadala Citi DC Open: Elisabetta Cocciaretto vs Naomi Osaka",
+   "outcome": "Elisabetta Cocciaretto",
+   "slug": "wta-cocciar-osaka-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.791271+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.16,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.17,
+   "ask_depth": 16175.15,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
+   "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-jodar-musetti-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.915797+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.36,
+   "ask_depth": 9126.99,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80109086061374391571898082838659544588678523841980632441094000537780517637422",
+   "condition_id": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-svitoli-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.042724+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.4,
+   "ask_depth": 1328.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "96821779870244813323743917532705562455184548856358785599005582847638947382818",
+   "condition_id": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
+   "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-shelton-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.194293+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 956.82,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.26,
+   "ask_depth": 21471.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "50788023280329232640902407675141798305045722154993952523275556447900431427011",
+   "condition_id": "0xa6236833a985fd46188248a6fabbde9c29478d9fbec68b3918989a07c79f4da9",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-pegula-kalinsk-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.318876+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 2240.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.28,
+   "ask_depth": 6408.47,
    "status": "open"
   }
  ],
@@ -17169,5 +17428,5 @@
   }
  ],
  "total_pnl": -397.53749999999957,
- "last_updated": "2026-07-31T13:35:38.082111+00:00"
+ "last_updated": "2026-07-31T14:10:28.845171+00:00"
 }
