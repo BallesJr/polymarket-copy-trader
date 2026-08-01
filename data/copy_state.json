@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9493.488415,
+ "bankroll": 9710.879715,
  "last_seen": {
   "jtwyslljy": 1785585848,
   "0x53757615de": 1784324596
@@ -11811,24 +11811,6 @@
    "best_ask": 0.38,
    "ask_depth": 23317.0,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "34538752115136626218488600139951433380524206147231250239421862167369922980469",
-   "condition_id": "0x969366c03012743741f1d443f4eea3b683527d2f0001f2742fd020a8d3c71485",
-   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
-   "outcome": "Nongshim Red Force",
-   "slug": "lol-ns-fox1-2026-08-01",
-   "opened_at": "2026-08-01T05:45:28.000455+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 8280.0,
-   "copy_delay_min": 3.0,
-   "best_ask": 0.46,
-   "ask_depth": 23756.38,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16883,6 +16865,28 @@
    "exit_price": 1.0,
    "pnl": 284.6154,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34538752115136626218488600139951433380524206147231250239421862167369922980469",
+   "condition_id": "0x969366c03012743741f1d443f4eea3b683527d2f0001f2742fd020a8d3c71485",
+   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-ns-fox1-2026-08-01",
+   "opened_at": "2026-08-01T05:45:28.000455+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 8280.0,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.46,
+   "ask_depth": 23756.38,
+   "status": "won",
+   "closed_at": "2026-08-01T14:00:44.648029+00:00",
+   "exit_price": 1.0,
+   "pnl": 117.3913,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17780,6 +17784,6 @@
    "outcome": "Gen.G"
   }
  ],
- "total_pnl": -206.51179999999954,
- "last_updated": "2026-08-01T12:10:25.904878+00:00"
+ "total_pnl": -89.12049999999954,
+ "last_updated": "2026-08-01T14:00:44.649048+00:00"
 }
