@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9710.879715,
+ "bankroll": 9974.037615,
  "last_seen": {
   "jtwyslljy": 1785585848,
   "0x53757615de": 1784324596
@@ -11793,24 +11793,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "1591883869458989965371743768422491293918288058420141826385404310748125347935",
-   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
-   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "Dplus KIA",
-   "slug": "lol-gen-dk-2026-08-01",
-   "opened_at": "2026-08-01T05:40:30.379053+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 39220.0,
-   "copy_delay_min": 3.6,
-   "best_ask": 0.38,
-   "ask_depth": 23317.0,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16887,6 +16869,28 @@
    "exit_price": 1.0,
    "pnl": 117.3913,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1591883869458989965371743768422491293918288058420141826385404310748125347935",
+   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-08-01",
+   "opened_at": "2026-08-01T05:40:30.379053+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 39220.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.38,
+   "ask_depth": 23317.0,
+   "status": "won",
+   "closed_at": "2026-08-01T16:50:28.447235+00:00",
+   "exit_price": 1.0,
+   "pnl": 163.1579,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17784,6 +17788,6 @@
    "outcome": "Gen.G"
   }
  ],
- "total_pnl": -89.12049999999954,
- "last_updated": "2026-08-01T14:00:44.649048+00:00"
+ "total_pnl": 74.03740000000047,
+ "last_updated": "2026-08-01T16:50:28.448127+00:00"
 }
