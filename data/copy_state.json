@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9693.488415,
  "last_seen": {
-  "jtwyslljy": 1785528486,
+  "jtwyslljy": 1785561986,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7810,6 +7810,13 @@
    "BUY",
    3399.99,
    1785528486
+  ],
+  [
+   "0x3fa87efd05a1277dd3d1ab0cd01fa78bbbca640ae58d6888945c765cc4b01f25",
+   "52460180432673658064525461030310540426274736172445534971251561845466899378018",
+   "BUY",
+   24500,
+   1785561986
   ]
  ],
  "leader_pos": {
@@ -11652,6 +11659,18 @@
    "cost": 1288.5912099747059,
    "max_shares": 3399.99,
    "last_trade_ts": 1785528486
+  },
+  "jtwyslljy|52460180432673658064525461030310540426274736172445534971251561845466899378018": {
+   "leader": "jtwyslljy",
+   "asset": "52460180432673658064525461030310540426274736172445534971251561845466899378018",
+   "condition_id": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
+   "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-norrie-shapova-2026-08-01",
+   "shares": 24500.0,
+   "cost": 14621.80519975,
+   "max_shares": 24500.0,
+   "last_trade_ts": 1785561986
   }
  },
  "positions": [
@@ -17591,8 +17610,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: paiN vs Astralis (BO3) - BLAST Bounty Playoffs",
    "outcome": "paiN"
+  },
+  {
+   "at": "2026-08-01T05:35:24.216200+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-01T05:00:00+00:00",
+   "condition_id": "0xcd6fde5dbe1305e949c1db4414d87cb184aa33e92c61085849a89d9d939f3a0d",
+   "copy_delay_min": 9.0,
+   "leader": "jtwyslljy",
+   "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov"
   }
  ],
  "total_pnl": -206.51179999999954,
- "last_updated": "2026-08-01T04:20:27.895606+00:00"
+ "last_updated": "2026-08-01T05:35:24.867870+00:00"
 }
