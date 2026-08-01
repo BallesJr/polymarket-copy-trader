@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9974.037615,
+ "bankroll": 9774.037615,
  "last_seen": {
-  "jtwyslljy": 1785585848,
+  "jtwyslljy": 1785605672,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7859,6 +7859,20 @@
    "SELL",
    40000,
    1785585848
+  ],
+  [
+   "0x481dd34945e6866948cd83cb546cb04cc91b03f0067b647e1f22c06967d5da58",
+   "32348297150491019414925962381306658964760714416583022751686407005937603584423",
+   "BUY",
+   5000,
+   1785605657
+  ],
+  [
+   "0x6faded0727b43b10ec7d536110b4f9ee241cf14222e98feb5ff2759554084b46",
+   "29370418689014857593751523223873998421308868259751703721790651593608053601411",
+   "BUY",
+   7500,
+   1785605672
   ]
  ],
  "leader_pos": {
@@ -11773,6 +11787,30 @@
    "cost": 2475.0,
    "max_shares": 7500.0,
    "last_trade_ts": 1785584829
+  },
+  "jtwyslljy|32348297150491019414925962381306658964760714416583022751686407005937603584423": {
+   "leader": "jtwyslljy",
+   "asset": "32348297150491019414925962381306658964760714416583022751686407005937603584423",
+   "condition_id": "0x1b13c2c32a3f2ad2c010d1462749fc6b0057d6d87d1cd6617145cae92bcd2dea",
+   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Taylor Fritz",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-nakashi-fritz-2026-08-01",
+   "shares": 5000.0,
+   "cost": 1950.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1785605657
+  },
+  "jtwyslljy|29370418689014857593751523223873998421308868259751703721790651593608053601411": {
+   "leader": "jtwyslljy",
+   "asset": "29370418689014857593751523223873998421308868259751703721790651593608053601411",
+   "condition_id": "0x64ad680d84286cf5e0fa2567bd17d7c09b616df215e0016d9a7bcc4922f060e6",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-jodar-tabilo-2026-08-01",
+   "shares": 7500.0,
+   "cost": 2175.0,
+   "max_shares": 7500.0,
+   "last_trade_ts": 1785605672
   }
  },
  "positions": [
@@ -11792,6 +11830,42 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29370418689014857593751523223873998421308868259751703721790651593608053601411",
+   "condition_id": "0x64ad680d84286cf5e0fa2567bd17d7c09b616df215e0016d9a7bcc4922f060e6",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-jodar-tabilo-2026-08-01",
+   "opened_at": "2026-08-01T17:40:34.855829+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2175.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.29,
+   "ask_depth": 6453.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32348297150491019414925962381306658964760714416583022751686407005937603584423",
+   "condition_id": "0x1b13c2c32a3f2ad2c010d1462749fc6b0057d6d87d1cd6617145cae92bcd2dea",
+   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Taylor Fritz",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-nakashi-fritz-2026-08-01",
+   "opened_at": "2026-08-01T17:40:35.011853+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1950.0,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.39,
+   "ask_depth": 3057.15,
    "status": "open"
   }
  ],
@@ -17789,5 +17863,5 @@
   }
  ],
  "total_pnl": 74.03740000000047,
- "last_updated": "2026-08-01T16:50:28.448127+00:00"
+ "last_updated": "2026-08-01T17:40:35.597171+00:00"
 }
