@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9574.037615,
+ "bankroll": 9817.940015,
  "last_seen": {
   "jtwyslljy": 1785610466,
   "0x53757615de": 1784324596
@@ -11957,24 +11957,6 @@
    "best_ask": 0.39,
    "ask_depth": 3057.15,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "115050399655252200466057567210158165587983389140882405323677689411925158476715",
-   "condition_id": "0x51eb5c0499991ea63c6b905ebee25d9fc0f529dd9ae292df353f67598348a5fb",
-   "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
-   "outcome": "Alexandra Eala",
-   "slug": "wta-osaka-eala-2026-08-01",
-   "opened_at": "2026-08-01T17:45:31.888566+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 2460.0,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.41,
-   "ask_depth": 77076.67,
-   "status": "open"
   }
  ],
  "closed": [
@@ -17095,6 +17077,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "115050399655252200466057567210158165587983389140882405323677689411925158476715",
+   "condition_id": "0x51eb5c0499991ea63c6b905ebee25d9fc0f529dd9ae292df353f67598348a5fb",
+   "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-osaka-eala-2026-08-01",
+   "opened_at": "2026-08-01T17:45:31.888566+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 2460.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.41,
+   "ask_depth": 77076.67,
+   "status": "won",
+   "closed_at": "2026-08-01T21:50:31.709859+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18002,6 +18006,6 @@
    "outcome": "Du\u0161ko Todorovic"
   }
  ],
- "total_pnl": -25.962599999999526,
- "last_updated": "2026-08-01T20:15:28.345765+00:00"
+ "total_pnl": 117.93980000000047,
+ "last_updated": "2026-08-01T21:50:31.711034+00:00"
 }
