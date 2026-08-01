@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9493.488415,
  "last_seen": {
-  "jtwyslljy": 1785580413,
+  "jtwyslljy": 1785584829,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7845,6 +7845,13 @@
    "BUY",
    585.53,
    1785580413
+  ],
+  [
+   "0x5655f08b35377f3487cac3a3843e55a6bd0d742c1fcb1c549392625d50110bf4",
+   "82587448911186734055293787540577363089156281470696975352696662437498494850584",
+   "BUY",
+   7500,
+   1785584829
   ]
  ],
  "leader_pos": {
@@ -11747,6 +11754,18 @@
    "cost": 122.9613,
    "max_shares": 585.53,
    "last_trade_ts": 1785580413
+  },
+  "jtwyslljy|82587448911186734055293787540577363089156281470696975352696662437498494850584": {
+   "leader": "jtwyslljy",
+   "asset": "82587448911186734055293787540577363089156281470696975352696662437498494850584",
+   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-dk-2026-08-01",
+   "shares": 7500.0,
+   "cost": 2475.0,
+   "max_shares": 7500.0,
+   "last_trade_ts": 1785584829
   }
  },
  "positions": [
@@ -17742,8 +17761,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "BNK FEARX"
+  },
+  {
+   "at": "2026-08-01T11:54:20.142494+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-01T10:00:00+00:00",
+   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
+   "copy_delay_min": 7.2,
+   "leader": "jtwyslljy",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G"
   }
  ],
  "total_pnl": -206.51179999999954,
- "last_updated": "2026-08-01T10:40:26.409982+00:00"
+ "last_updated": "2026-08-01T11:54:20.777409+00:00"
 }
