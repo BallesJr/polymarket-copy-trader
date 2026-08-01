@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9774.037615,
+ "bankroll": 9574.037615,
  "last_seen": {
-  "jtwyslljy": 1785605672,
+  "jtwyslljy": 1785606192,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7873,6 +7873,20 @@
    "BUY",
    7500,
    1785605672
+  ],
+  [
+   "0x28cda621213833ee19f6e2531ae9c54b63800aed516f13843829e31c8f0c9727",
+   "66487694226608189088217376495742375872791400033044270170880203509595015825296",
+   "BUY",
+   8500,
+   1785606164
+  ],
+  [
+   "0xa0e0b8903c9bc933d7cdf63f6ef351249a51af37dd77a70931bb65de5a4db615",
+   "115050399655252200466057567210158165587983389140882405323677689411925158476715",
+   "BUY",
+   6000,
+   1785606192
   ]
  ],
  "leader_pos": {
@@ -11811,6 +11825,30 @@
    "cost": 2175.0,
    "max_shares": 7500.0,
    "last_trade_ts": 1785605672
+  },
+  "jtwyslljy|66487694226608189088217376495742375872791400033044270170880203509595015825296": {
+   "leader": "jtwyslljy",
+   "asset": "66487694226608189088217376495742375872791400033044270170880203509595015825296",
+   "condition_id": "0xbc8a8998a7cca061ed2e7c870ce603d65fa2d841771f252e1ff55e773336e153",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-pegula-shnaide-2026-08-01",
+   "shares": 8500.0,
+   "cost": 1955.0,
+   "max_shares": 8500.0,
+   "last_trade_ts": 1785606164
+  },
+  "jtwyslljy|115050399655252200466057567210158165587983389140882405323677689411925158476715": {
+   "leader": "jtwyslljy",
+   "asset": "115050399655252200466057567210158165587983389140882405323677689411925158476715",
+   "condition_id": "0x51eb5c0499991ea63c6b905ebee25d9fc0f529dd9ae292df353f67598348a5fb",
+   "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-osaka-eala-2026-08-01",
+   "shares": 6000.0,
+   "cost": 2460.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1785606192
   }
  },
  "positions": [
@@ -11866,6 +11904,42 @@
    "copy_delay_min": 6.3,
    "best_ask": 0.39,
    "ask_depth": 3057.15,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "115050399655252200466057567210158165587983389140882405323677689411925158476715",
+   "condition_id": "0x51eb5c0499991ea63c6b905ebee25d9fc0f529dd9ae292df353f67598348a5fb",
+   "title": "Mubadala Citi DC Open: Naomi Osaka vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-osaka-eala-2026-08-01",
+   "opened_at": "2026-08-01T17:45:31.888566+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 2460.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.41,
+   "ask_depth": 77076.67,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66487694226608189088217376495742375872791400033044270170880203509595015825296",
+   "condition_id": "0xbc8a8998a7cca061ed2e7c870ce603d65fa2d841771f252e1ff55e773336e153",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-pegula-shnaide-2026-08-01",
+   "opened_at": "2026-08-01T17:45:32.029828+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1955.0,
+   "copy_delay_min": 2.8,
+   "best_ask": 0.23,
+   "ask_depth": 8533.38,
    "status": "open"
   }
  ],
@@ -17863,5 +17937,5 @@
   }
  ],
  "total_pnl": 74.03740000000047,
- "last_updated": "2026-08-01T17:40:35.597171+00:00"
+ "last_updated": "2026-08-01T17:45:32.583605+00:00"
 }
