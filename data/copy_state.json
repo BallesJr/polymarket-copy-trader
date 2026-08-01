@@ -11675,24 +11675,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
-   "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
-   "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
-   "outcome": "Lorenzo Musetti",
-   "slug": "atp-jodar-musetti-2026-07-31",
-   "opened_at": "2026-07-31T14:10:27.915797+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 2340.0,
-   "copy_delay_min": 2.6,
-   "best_ask": 0.36,
-   "ask_depth": 9126.99,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "80109086061374391571898082838659544588678523841980632441094000537780517637422",
    "condition_id": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
    "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
@@ -16714,6 +16696,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14017623442793808904293238352195868481964393451674238664220640350592428635452",
+   "condition_id": "0xaeb3725dc916cfc0c0b2017e01628b69bbe826779790e4ac96efd9ac6b050794",
+   "title": "Mubadala Citi DC Open: Rafael Jodar vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-jodar-musetti-2026-07-31",
+   "opened_at": "2026-07-31T14:10:27.915797+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2340.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.36,
+   "ask_depth": 9126.99,
+   "status": "lost",
+   "closed_at": "2026-08-01T01:10:29.013935+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17581,6 +17585,6 @@
    "outcome": "paiN"
   }
  ],
- "total_pnl": -541.1271999999996,
- "last_updated": "2026-07-31T23:20:25.517354+00:00"
+ "total_pnl": -641.1271999999996,
+ "last_updated": "2026-08-01T01:10:29.014991+00:00"
 }
