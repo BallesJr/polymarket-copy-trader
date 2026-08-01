@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9693.488415,
+ "bankroll": 9593.488415,
  "last_seen": {
-  "jtwyslljy": 1785561986,
+  "jtwyslljy": 1785562616,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7817,6 +7817,13 @@
    "BUY",
    24500,
    1785561986
+  ],
+  [
+   "0x3e358471d6c36e7eaf8c2ef8f762149d2b1a59dce704bea2897f3211b0b194bc",
+   "1591883869458989965371743768422491293918288058420141826385404310748125347935",
+   "BUY",
+   106000,
+   1785562616
   ]
  ],
  "leader_pos": {
@@ -11671,6 +11678,18 @@
    "cost": 14621.80519975,
    "max_shares": 24500.0,
    "last_trade_ts": 1785561986
+  },
+  "jtwyslljy|1591883869458989965371743768422491293918288058420141826385404310748125347935": {
+   "leader": "jtwyslljy",
+   "asset": "1591883869458989965371743768422491293918288058420141826385404310748125347935",
+   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-08-01",
+   "shares": 106000.0,
+   "cost": 39220.0,
+   "max_shares": 106000.0,
+   "last_trade_ts": 1785562616
   }
  },
  "positions": [
@@ -11690,6 +11709,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1591883869458989965371743768422491293918288058420141826385404310748125347935",
+   "condition_id": "0x11f36a8b804d73ffe7d4a56e5c787fb1dbfc4bda0a34d6e2af364aa7057351fe",
+   "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-gen-dk-2026-08-01",
+   "opened_at": "2026-08-01T05:40:30.379053+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 39220.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.38,
+   "ask_depth": 23317.0,
    "status": "open"
   }
  ],
@@ -17623,5 +17660,5 @@
   }
  ],
  "total_pnl": -206.51179999999954,
- "last_updated": "2026-08-01T05:35:24.867870+00:00"
+ "last_updated": "2026-08-01T05:40:30.894819+00:00"
 }
