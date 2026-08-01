@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9493.488415,
  "last_seen": {
-  "jtwyslljy": 1785562950,
+  "jtwyslljy": 1785579276,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7831,6 +7831,13 @@
    "BUY",
    18000,
    1785562950
+  ],
+  [
+   "0x37fd9f1457ccbba276da0e81002e0f1064cad81b7bff158de2dfd93ab092a51d",
+   "30254318320353641204277690542860922564879092609585509463603793724900287946783",
+   "BUY",
+   4070,
+   1785579276
   ]
  ],
  "leader_pos": {
@@ -11709,6 +11716,18 @@
    "cost": 8280.0,
    "max_shares": 18000.0,
    "last_trade_ts": 1785562950
+  },
+  "jtwyslljy|30254318320353641204277690542860922564879092609585509463603793724900287946783": {
+   "leader": "jtwyslljy",
+   "asset": "30254318320353641204277690542860922564879092609585509463603793724900287946783",
+   "condition_id": "0x969366c03012743741f1d443f4eea3b683527d2f0001f2742fd020a8d3c71485",
+   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX",
+   "slug": "lol-ns-fox1-2026-08-01",
+   "shares": 4070.0,
+   "cost": 727.550000166,
+   "max_shares": 4070.0,
+   "last_trade_ts": 1785579276
   }
  },
  "positions": [
@@ -17694,8 +17713,18 @@
    "leader": "jtwyslljy",
    "title": "Los Cabos Open: Cameron Norrie vs Denis Shapovalov",
    "outcome": "Denis Shapovalov"
+  },
+  {
+   "at": "2026-08-01T10:20:26.254898+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-01T08:00:00+00:00",
+   "condition_id": "0x969366c03012743741f1d443f4eea3b683527d2f0001f2742fd020a8d3c71485",
+   "copy_delay_min": 5.8,
+   "leader": "jtwyslljy",
+   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -206.51179999999954,
- "last_updated": "2026-08-01T05:45:28.609392+00:00"
+ "last_updated": "2026-08-01T10:20:26.947184+00:00"
 }
