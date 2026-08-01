@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9574.037615,
  "last_seen": {
-  "jtwyslljy": 1785606192,
+  "jtwyslljy": 1785606353,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7887,6 +7887,20 @@
    "BUY",
    6000,
    1785606192
+  ],
+  [
+   "0x53bc8584ca823202713408228c3b46d1e16019731fa81aa031a9781fd065489b",
+   "25784312118676935563193021510295785007951496036678684239359190509338560265953",
+   "BUY",
+   40000,
+   1785606291
+  ],
+  [
+   "0x79cd777625b19e4656bb3561ad30e5bdb8be1962311c0227ccdcf0254823a7e6",
+   "25784312118676935563193021510295785007951496036678684239359190509338560265953",
+   "BUY",
+   4000,
+   1785606353
   ]
  ],
  "leader_pos": {
@@ -11849,6 +11863,18 @@
    "cost": 2460.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1785606192
+  },
+  "jtwyslljy|25784312118676935563193021510295785007951496036678684239359190509338560265953": {
+   "leader": "jtwyslljy",
+   "asset": "25784312118676935563193021510295785007951496036678684239359190509338560265953",
+   "condition_id": "0x457486f2da1e068ad8a76361abecb9c00fdd36aeb3339451f20d76d78c3677e2",
+   "title": "UFC Fight Night: Du\u0161ko Todorovic vs. Robert Valentin (Middleweight, Main Card)",
+   "outcome": "Du\u0161ko Todorovic",
+   "slug": "ufc-du-rob19-2026-08-01",
+   "shares": 44000.0,
+   "cost": 18480.0,
+   "max_shares": 44000.0,
+   "last_trade_ts": 1785606353
   }
  },
  "positions": [
@@ -17934,8 +17960,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Gen.G"
+  },
+  {
+   "at": "2026-08-01T17:50:33.676384+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-01T14:00:00+00:00",
+   "condition_id": "0x457486f2da1e068ad8a76361abecb9c00fdd36aeb3339451f20d76d78c3677e2",
+   "copy_delay_min": 4.7,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Du\u0161ko Todorovic vs. Robert Valentin (Middleweight, Main Card)",
+   "outcome": "Du\u0161ko Todorovic"
   }
  ],
  "total_pnl": 74.03740000000047,
- "last_updated": "2026-08-01T17:45:32.583605+00:00"
+ "last_updated": "2026-08-01T17:50:34.319731+00:00"
 }
