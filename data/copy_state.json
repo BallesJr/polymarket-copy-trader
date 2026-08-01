@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9308.873015,
+ "bankroll": 9693.488415,
  "last_seen": {
   "jtwyslljy": 1785528486,
   "0x53757615de": 1784324596
@@ -11672,24 +11672,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "96821779870244813323743917532705562455184548856358785599005582847638947382818",
-   "condition_id": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
-   "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
-   "outcome": "Alejandro Tabilo",
-   "slug": "atp-tabilo-shelton-2026-07-31",
-   "opened_at": "2026-07-31T14:10:28.194293+00:00",
-   "entry_price": 0.26,
-   "shares": 384.6154,
-   "stake": 100.0,
-   "leader_vwap": 0.25,
-   "leader_cost": 956.82,
-   "copy_delay_min": 2.2,
-   "best_ask": 0.26,
-   "ask_depth": 21471.42,
-   "status": "open"
   }
  ],
  "closed": [
@@ -16722,6 +16704,28 @@
    "exit_price": 1.0,
    "pnl": 150.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "96821779870244813323743917532705562455184548856358785599005582847638947382818",
+   "condition_id": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
+   "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-tabilo-shelton-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.194293+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 956.82,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.26,
+   "ask_depth": 21471.42,
+   "status": "won",
+   "closed_at": "2026-08-01T04:20:27.894386+00:00",
+   "exit_price": 1.0,
+   "pnl": 284.6154,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17589,6 +17593,6 @@
    "outcome": "paiN"
   }
  ],
- "total_pnl": -491.12719999999956,
- "last_updated": "2026-08-01T01:30:32.820217+00:00"
+ "total_pnl": -206.51179999999954,
+ "last_updated": "2026-08-01T04:20:27.895606+00:00"
 }
