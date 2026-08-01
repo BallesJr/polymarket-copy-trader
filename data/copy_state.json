@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9058.873015,
+ "bankroll": 9308.873015,
  "last_seen": {
   "jtwyslljy": 1785528486,
   "0x53757615de": 1784324596
@@ -11675,24 +11675,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "80109086061374391571898082838659544588678523841980632441094000537780517637422",
-   "condition_id": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
-   "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
-   "outcome": "Alexandra Eala",
-   "slug": "wta-eala-svitoli-2026-07-31",
-   "opened_at": "2026-07-31T14:10:28.042724+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 2400.0,
-   "copy_delay_min": 6.6,
-   "best_ask": 0.4,
-   "ask_depth": 1328.68,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "96821779870244813323743917532705562455184548856358785599005582847638947382818",
    "condition_id": "0x685f6c3d333c11e65a9cca09fbd673d4de3532f9f47a04036bffe09299456a04",
    "title": "Mubadala Citi DC Open: Alejandro Tabilo vs Ben Shelton",
@@ -16718,6 +16700,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80109086061374391571898082838659544588678523841980632441094000537780517637422",
+   "condition_id": "0xd22957f0cc836227e85e99db33efd0d227b6317897e3a14184bda432533bf174",
+   "title": "Mubadala Citi DC Open: Alexandra Eala vs Elina Svitolina",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-svitoli-2026-07-31",
+   "opened_at": "2026-07-31T14:10:28.042724+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.4,
+   "ask_depth": 1328.68,
+   "status": "won",
+   "closed_at": "2026-08-01T01:30:32.819237+00:00",
+   "exit_price": 1.0,
+   "pnl": 150.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -17585,6 +17589,6 @@
    "outcome": "paiN"
   }
  ],
- "total_pnl": -641.1271999999996,
- "last_updated": "2026-08-01T01:10:29.014991+00:00"
+ "total_pnl": -491.12719999999956,
+ "last_updated": "2026-08-01T01:30:32.820217+00:00"
 }
