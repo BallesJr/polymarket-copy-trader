@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9817.940015,
  "last_seen": {
-  "jtwyslljy": 1785654600,
+  "jtwyslljy": 1785655193,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7950,6 +7950,13 @@
    "BUY",
    354,
    1785654600
+  ],
+  [
+   "0x3aa7844152e9e4090c844b3a5e0c85f448c5040d40fc58475b6ede6386258f19",
+   "102071153892246039627048034194967021680193759805083679061162745293075874048047",
+   "BUY",
+   1711.82,
+   1785655193
   ]
  ],
  "leader_pos": {
@@ -11944,10 +11951,10 @@
    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
    "outcome": "ThunderTalk Gaming",
    "slug": "lol-tt-we-2026-08-02",
-   "shares": 54601.68,
-   "cost": 15838.0272,
-   "max_shares": 54601.68,
-   "last_trade_ts": 1785654600
+   "shares": 56313.5,
+   "cost": 16197.5094,
+   "max_shares": 56313.5,
+   "last_trade_ts": 1785655193
   }
  },
  "positions": [
@@ -18069,8 +18076,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
    "outcome": "ThunderTalk Gaming"
+  },
+  {
+   "at": "2026-08-02T07:20:27.722370+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-02T07:00:00+00:00",
+   "condition_id": "0x35a17105ab9cadc57e0de8d1accacd88dfc6e4db5cb73889304d9d4e3437bac7",
+   "copy_delay_min": 0.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: ThunderTalk Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "ThunderTalk Gaming"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-02T07:10:26.660846+00:00"
+ "last_updated": "2026-08-02T07:20:28.269345+00:00"
 }
