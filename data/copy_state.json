@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9617.940015,
  "last_seen": {
-  "jtwyslljy": 1785673407,
+  "jtwyslljy": 1785675260,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8006,6 +8006,13 @@
    "BUY",
    30000,
    1785673407
+  ],
+  [
+   "0xe6a581f0610e6c8e7ae3a2c0937ebb157ab067a112621a9a305a2e2fb15b23f7",
+   "42643993102653849154226829403774324173651687095442113167701765177299747004343",
+   "BUY",
+   8132.62,
+   1785675260
   ]
  ],
  "leader_pos": {
@@ -12012,10 +12019,10 @@
    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "KT Rolster",
    "slug": "lol-kt-hle1-2026-08-02",
-   "shares": 53284.74,
-   "cost": 13321.185,
-   "max_shares": 53284.74,
-   "last_trade_ts": 1785669960
+   "shares": 61417.36,
+   "cost": 16004.9496,
+   "max_shares": 61417.36,
+   "last_trade_ts": 1785675260
   },
   "jtwyslljy|57689363760547987318013752103822883193549744326454914442221915513721883275198": {
    "leader": "jtwyslljy",
@@ -18271,8 +18278,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Bounty Playoffs",
    "outcome": "Spirit"
+  },
+  {
+   "at": "2026-08-02T13:00:43.846442+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-02T10:00:00+00:00",
+   "condition_id": "0x121c6b7fe5c7d713741d713b03823d0c152bb4b72e20b84e02840e419773cb36",
+   "copy_delay_min": 6.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-02T12:30:42.861713+00:00"
+ "last_updated": "2026-08-02T13:00:44.523565+00:00"
 }
