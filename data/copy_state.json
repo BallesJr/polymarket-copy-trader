@@ -11939,24 +11939,6 @@
    "best_ask": 0.29,
    "ask_depth": 6453.32,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "32348297150491019414925962381306658964760714416583022751686407005937603584423",
-   "condition_id": "0x1b13c2c32a3f2ad2c010d1462749fc6b0057d6d87d1cd6617145cae92bcd2dea",
-   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Taylor Fritz",
-   "outcome": "Brandon Nakashima",
-   "slug": "atp-nakashi-fritz-2026-08-01",
-   "opened_at": "2026-08-01T17:40:35.011853+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.39,
-   "leader_cost": 1950.0,
-   "copy_delay_min": 6.3,
-   "best_ask": 0.39,
-   "ask_depth": 3057.15,
-   "status": "open"
   }
  ],
  "closed": [
@@ -17099,6 +17081,28 @@
    "exit_price": 1.0,
    "pnl": 143.9024,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32348297150491019414925962381306658964760714416583022751686407005937603584423",
+   "condition_id": "0x1b13c2c32a3f2ad2c010d1462749fc6b0057d6d87d1cd6617145cae92bcd2dea",
+   "title": "Mubadala Citi DC Open: Brandon Nakashima vs Taylor Fritz",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-nakashi-fritz-2026-08-01",
+   "opened_at": "2026-08-01T17:40:35.011853+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1950.0,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.39,
+   "ask_depth": 3057.15,
+   "status": "lost",
+   "closed_at": "2026-08-02T01:08:43.959550+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18006,6 +18010,6 @@
    "outcome": "Du\u0161ko Todorovic"
   }
  ],
- "total_pnl": 117.93980000000047,
- "last_updated": "2026-08-01T21:50:31.711034+00:00"
+ "total_pnl": 17.939800000000474,
+ "last_updated": "2026-08-02T01:08:43.960633+00:00"
 }
