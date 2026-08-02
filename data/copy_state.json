@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9617.940015,
  "last_seen": {
-  "jtwyslljy": 1785669960,
+  "jtwyslljy": 1785672326,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -7992,6 +7992,13 @@
    "BUY",
    53257.74,
    1785669960
+  ],
+  [
+   "0xefec30934e8568a6eec200cfb4cf71156a8c154d61549663815ec29d385a6021",
+   "86222734336247731664864731734281512829733267574920066804362888057386190851592",
+   "BUY",
+   10000,
+   1785672326
   ]
  ],
  "leader_pos": {
@@ -12026,6 +12033,18 @@
    "cost": 4800.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1785665708
+  },
+  "jtwyslljy|86222734336247731664864731734281512829733267574920066804362888057386190851592": {
+   "leader": "jtwyslljy",
+   "asset": "86222734336247731664864731734281512829733267574920066804362888057386190851592",
+   "condition_id": "0x121c6b7fe5c7d713741d713b03823d0c152bb4b72e20b84e02840e419773cb36",
+   "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-kt-hle1-2026-08-02",
+   "shares": 10000.0,
+   "cost": 4300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785672326
   }
  },
  "positions": [
@@ -18213,8 +18232,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "KT Rolster"
+  },
+  {
+   "at": "2026-08-02T12:10:30.263167+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-02T10:00:00+00:00",
+   "condition_id": "0x121c6b7fe5c7d713741d713b03823d0c152bb4b72e20b84e02840e419773cb36",
+   "copy_delay_min": 5.1,
+   "leader": "jtwyslljy",
+   "title": "LoL: KT Rolster vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-02T11:30:35.495091+00:00"
+ "last_updated": "2026-08-02T12:10:30.769629+00:00"
 }
