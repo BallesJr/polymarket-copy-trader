@@ -12496,24 +12496,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "64473106054358572405444490793268063105916598976434680008113149018110459538449",
-   "condition_id": "0xc803860342c6c6114ef64aa845adfdae2b42a83d12b8346cb02b96c87ea4dd3e",
-   "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
-   "outcome": "T1",
-   "slug": "lol-ns-t1-2026-08-03",
-   "opened_at": "2026-08-03T09:50:24.841095+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.27,
-   "leader_cost": 2547.68,
-   "copy_delay_min": 3.2,
-   "best_ask": 0.27,
-   "ask_depth": 45093.85,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "106344140884672244852362960450351425553529942190707510041906768332631040225878",
    "condition_id": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
    "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
@@ -17737,6 +17719,28 @@
    "exit_price": 0.1,
    "pnl": -72.2222,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64473106054358572405444490793268063105916598976434680008113149018110459538449",
+   "condition_id": "0xc803860342c6c6114ef64aa845adfdae2b42a83d12b8346cb02b96c87ea4dd3e",
+   "title": "LoL: Nongshim Red Force vs T1 (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "T1",
+   "slug": "lol-ns-t1-2026-08-03",
+   "opened_at": "2026-08-03T09:50:24.841095+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 2547.68,
+   "copy_delay_min": 3.2,
+   "best_ask": 0.27,
+   "ask_depth": 45093.85,
+   "status": "lost",
+   "closed_at": "2026-08-03T17:05:23.428552+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18864,6 +18868,6 @@
    "outcome": "Alexandra Eala"
   }
  ],
- "total_pnl": -154.28239999999954,
- "last_updated": "2026-08-03T17:00:49.679834+00:00"
+ "total_pnl": -254.28239999999954,
+ "last_updated": "2026-08-03T17:05:23.429809+00:00"
 }
