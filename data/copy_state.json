@@ -12478,24 +12478,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "54111986295635773939393879806625797772611920927393587302736530035946529624410",
-   "condition_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
-   "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
-   "outcome": "Jessica Pegula",
-   "slug": "wta-pegula-eala-2026-08-02",
-   "opened_at": "2026-08-02T10:20:28.641613+00:00",
-   "entry_price": 0.6,
-   "shares": 166.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 4800.0,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.6,
-   "ask_depth": 2260.51,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "106344140884672244852362960450351425553529942190707510041906768332631040225878",
    "condition_id": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
    "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
@@ -17741,6 +17723,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54111986295635773939393879806625797772611920927393587302736530035946529624410",
+   "condition_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-pegula-eala-2026-08-02",
+   "opened_at": "2026-08-02T10:20:28.641613+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 4800.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.6,
+   "ask_depth": 2260.51,
+   "status": "lost",
+   "closed_at": "2026-08-03T17:40:29.920562+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18868,6 +18872,6 @@
    "outcome": "Alexandra Eala"
   }
  ],
- "total_pnl": -254.28239999999954,
- "last_updated": "2026-08-03T17:05:23.429809+00:00"
+ "total_pnl": -354.28239999999954,
+ "last_updated": "2026-08-03T17:40:29.921780+00:00"
 }
