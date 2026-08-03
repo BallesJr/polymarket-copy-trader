@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9345.717795,
  "last_seen": {
-  "jtwyslljy": 1785774773,
+  "jtwyslljy": 1785775109,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8209,6 +8209,13 @@
    "BUY",
    2000,
    1785774773
+  ],
+  [
+   "0x11b287becc0114d1022943cf8121b1d0a869bf47a245d08401b058871ec38218",
+   "115193499956865906712886483299334058042410352780409508469618587049203825691760",
+   "BUY",
+   3000,
+   1785775109
   ]
  ],
  "leader_pos": {
@@ -12419,10 +12426,10 @@
    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
    "outcome": "Alexandra Eala",
    "slug": "wta-pegula-eala-2026-08-02",
-   "shares": 21539.99,
-   "cost": 5340.3973,
-   "max_shares": 21539.99,
-   "last_trade_ts": 1785774773
+   "shares": 24539.99,
+   "cost": 6480.3973,
+   "max_shares": 24539.99,
+   "last_trade_ts": 1785775109
   }
  },
  "positions": [
@@ -18828,8 +18835,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
    "outcome": "Alexandra Eala"
+  },
+  {
+   "at": "2026-08-03T16:45:30.659798+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T16:10:00+00:00",
+   "condition_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
+   "copy_delay_min": 7.0,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+   "outcome": "Alexandra Eala"
   }
  ],
  "total_pnl": -154.28239999999954,
- "last_updated": "2026-08-03T16:40:26.212864+00:00"
+ "last_updated": "2026-08-03T16:45:31.128770+00:00"
 }
