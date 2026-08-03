@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9345.717795,
  "last_seen": {
-  "jtwyslljy": 1785772229,
+  "jtwyslljy": 1785773301,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8153,6 +8153,27 @@
    "BUY",
    10000,
    1785772229
+  ],
+  [
+   "0x507dac68a80a321f79832bdb2c7c9f8bc9c9e3fc80bc93334608a7d1cb5f10f9",
+   "19171287104522557990991439610357752426937872719857371820312710027665131302167",
+   "SELL",
+   10000,
+   1785773046
+  ],
+  [
+   "0x24a9f1c78481a00b9551aeb9af0e69ad3d38ca11ac088db8c96ab1cb9638ca8a",
+   "105209601742847157577162656979824768022999960202906143240002078329741541759401",
+   "BUY",
+   7917.69,
+   1785773096
+  ],
+  [
+   "0xdf2c990f08a223018e9b9f693d4c4b6a867b444b94b0404523cda3ef85ef6217",
+   "38717867915347712477776900306800516729502149729976785349941768644338647323567",
+   "SELL",
+   413.46,
+   1785773301
   ]
  ],
  "leader_pos": {
@@ -12303,10 +12324,10 @@
    "title": "Counter-Strike: MOUZ NXT vs Misa Esports (BO3) - ESL Challenger League Europe Cup #2 Group D",
    "outcome": "Misa Esports",
    "slug": "cs2-mouzn-mis-2026-08-03",
-   "shares": 1227.64,
-   "cost": 379.52840000000003,
+   "shares": 814.1800000000001,
+   "cost": 263.75960000000003,
    "max_shares": 1227.64,
-   "last_trade_ts": 1785766544
+   "last_trade_ts": 1785773301
   },
   "jtwyslljy|111437678189564788413989399680414708897196541310096905251380292925510778298262": {
    "leader": "jtwyslljy",
@@ -12339,10 +12360,22 @@
    "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
    "outcome": "Anhelina Kalinina",
    "slug": "wta-kalinin-bondar-2026-08-03",
-   "shares": 10000.0,
-   "cost": 4900.0,
+   "shares": 0.0,
+   "cost": 400.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1785772229
+   "last_trade_ts": 1785773046
+  },
+  "jtwyslljy|105209601742847157577162656979824768022999960202906143240002078329741541759401": {
+   "leader": "jtwyslljy",
+   "asset": "105209601742847157577162656979824768022999960202906143240002078329741541759401",
+   "condition_id": "0x136cbbe2aa639c6d76fbe21041f67a627bffa217b3682b90992c3d3761562271",
+   "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
+   "outcome": "Anna Bondar",
+   "slug": "wta-kalinin-bondar-2026-08-03",
+   "shares": 7917.69,
+   "cost": 3879.6681,
+   "max_shares": 7917.69,
+   "last_trade_ts": 1785773096
   }
  },
  "positions": [
@@ -18718,8 +18751,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
    "outcome": "Anhelina Kalinina"
+  },
+  {
+   "at": "2026-08-03T16:10:31.021010+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T15:00:00+00:00",
+   "condition_id": "0x136cbbe2aa639c6d76fbe21041f67a627bffa217b3682b90992c3d3761562271",
+   "copy_delay_min": 5.6,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
+   "outcome": "Anna Bondar"
   }
  ],
  "total_pnl": -154.28239999999954,
- "last_updated": "2026-08-03T15:55:23.241689+00:00"
+ "last_updated": "2026-08-03T16:10:31.710377+00:00"
 }
