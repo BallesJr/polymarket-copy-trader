@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9345.717795,
  "last_seen": {
-  "jtwyslljy": 1785773337,
+  "jtwyslljy": 1785774470,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8181,6 +8181,20 @@
    "SELL",
    1016.7,
    1785773337
+  ],
+  [
+   "0x70b2cb19d121bbe58073670a5d07db6089e7adb2670039e12039f8672761ae26",
+   "115193499956865906712886483299334058042410352780409508469618587049203825691760",
+   "BUY",
+   9540,
+   1785774351
+  ],
+  [
+   "0xf627b8276975e5f7bebac44f3a4dc922aabd575e0668ea1a86b57992e6f5022a",
+   "115193499956865906712886483299334058042410352780409508469618587049203825691760",
+   "BUY",
+   8000,
+   1785774470
   ]
  ],
  "leader_pos": {
@@ -12383,6 +12397,18 @@
    "cost": 3879.6681,
    "max_shares": 7917.69,
    "last_trade_ts": 1785773096
+  },
+  "jtwyslljy|115193499956865906712886483299334058042410352780409508469618587049203825691760": {
+   "leader": "jtwyslljy",
+   "asset": "115193499956865906712886483299334058042410352780409508469618587049203825691760",
+   "condition_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-pegula-eala-2026-08-02",
+   "shares": 17540.0,
+   "cost": 4320.4,
+   "max_shares": 17540.0,
+   "last_trade_ts": 1785774470
   }
  },
  "positions": [
@@ -18768,8 +18794,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
    "outcome": "Anna Bondar"
+  },
+  {
+   "at": "2026-08-03T16:33:51.870554+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T16:10:00+00:00",
+   "condition_id": "0x7a50d6ca06cd4b6c1d49d86d5852f6d3c9ae68ea7b2fb3407ce5f9dbd0d6e7d2",
+   "copy_delay_min": 6.0,
+   "leader": "jtwyslljy",
+   "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+   "outcome": "Alexandra Eala"
   }
  ],
  "total_pnl": -154.28239999999954,
- "last_updated": "2026-08-03T16:15:30.726468+00:00"
+ "last_updated": "2026-08-03T16:33:52.544379+00:00"
 }
