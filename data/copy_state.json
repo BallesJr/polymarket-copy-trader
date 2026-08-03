@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9617.940015,
  "last_seen": {
-  "jtwyslljy": 1785744360,
+  "jtwyslljy": 1785746568,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8034,6 +8034,13 @@
    "BUY",
    10000,
    1785744360
+  ],
+  [
+   "0x116820bd6e32efd04df1758d1cbb04b09e0c9fa004d280e67448acf5c866d569",
+   "64299580110890429534422579247992171506761856889246956614062974517489255511687",
+   "BUY",
+   10000,
+   1785746568
   ]
  ],
  "leader_pos": {
@@ -12100,10 +12107,10 @@
    "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
    "outcome": "Gen.G",
    "slug": "lol-gen-hle1-2026-08-03",
-   "shares": 10000.0,
-   "cost": 3000.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1785744360
+   "shares": 20000.0,
+   "cost": 3900.0,
+   "max_shares": 20000.0,
+   "last_trade_ts": 1785746568
   }
  },
  "positions": [
@@ -18341,8 +18348,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
    "outcome": "Gen.G"
+  },
+  {
+   "at": "2026-08-03T08:50:26.180818+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T08:00:00+00:00",
+   "condition_id": "0x27569a08eedf0470c88565adc2865d22112f87d9443f772e6defc6a401cbee21",
+   "copy_delay_min": 7.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "Gen.G"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T08:10:33.692674+00:00"
+ "last_updated": "2026-08-03T08:50:26.858402+00:00"
 }
