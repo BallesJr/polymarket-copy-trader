@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9417.940015,
  "last_seen": {
-  "jtwyslljy": 1785761442,
+  "jtwyslljy": 1785766526,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8097,6 +8097,20 @@
    "BUY",
    422.3,
    1785761442
+  ],
+  [
+   "0xec814b09d5f83885d87e59794c72f692c523bbc4894309e776a7344e68816e73",
+   "27443828266886824497632200368805876537022646031262215475574679004655794838961",
+   "BUY",
+   3000,
+   1785766470
+  ],
+  [
+   "0xcc297ab7fd464f72da58d9cb5e155e83a745df9a7b80dc400d298992285bad95",
+   "38717867915347712477776900306800516729502149729976785349941768644338647323567",
+   "BUY",
+   1201.64,
+   1785766526
   ]
  ],
  "leader_pos": {
@@ -12227,6 +12241,30 @@
    "cost": 1063.2736999638691,
    "max_shares": 3679.3300000000004,
    "last_trade_ts": 1785761442
+  },
+  "jtwyslljy|27443828266886824497632200368805876537022646031262215475574679004655794838961": {
+   "leader": "jtwyslljy",
+   "asset": "27443828266886824497632200368805876537022646031262215475574679004655794838961",
+   "condition_id": "0x43c295d3de01887d6bb874bc001abbb81b832a4174c3d812ea22360090073726",
+   "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
+   "outcome": "Yakult Brothers",
+   "slug": "dota2-vg-yb1-2026-08-03",
+   "shares": 3000.0,
+   "cost": 600.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1785766470
+  },
+  "jtwyslljy|38717867915347712477776900306800516729502149729976785349941768644338647323567": {
+   "leader": "jtwyslljy",
+   "asset": "38717867915347712477776900306800516729502149729976785349941768644338647323567",
+   "condition_id": "0x2498c20721a62f1ff81a432a2c85f98af1d598ba4a8ab1cc258b0405cf10c67f",
+   "title": "Counter-Strike: MOUZ NXT vs Misa Esports (BO3) - ESL Challenger League Europe Cup #2 Group D",
+   "outcome": "Misa Esports",
+   "slug": "cs2-mouzn-mis-2026-08-03",
+   "shares": 1201.64,
+   "cost": 372.50840000000005,
+   "max_shares": 1201.64,
+   "last_trade_ts": 1785766526
   }
  },
  "positions": [
@@ -18540,8 +18578,18 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
    "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-08-03T14:15:32.067994+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T13:50:00+00:00",
+   "condition_id": "0x43c295d3de01887d6bb874bc001abbb81b832a4174c3d812ea22360090073726",
+   "copy_delay_min": 1.0,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
+   "outcome": "Yakult Brothers"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T12:55:24.385695+00:00"
+ "last_updated": "2026-08-03T14:15:32.702951+00:00"
 }
