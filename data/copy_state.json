@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9518.131595,
+ "bankroll": 9665.190395000001,
  "last_seen": {
   "jtwyslljy": 1785775874,
   "0x53757615de": 1784324596
@@ -12457,24 +12457,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "106344140884672244852362960450351425553529942190707510041906768332631040225878",
-   "condition_id": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
-   "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
-   "outcome": "Lanlana Tararudee",
-   "slug": "wta-jone-tararud-2026-08-02",
-   "opened_at": "2026-08-03T15:35:24.932955+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 3060.0,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.68,
-   "ask_depth": 10497.48,
-   "status": "open"
   }
  ],
  "closed": [
@@ -17749,6 +17731,28 @@
    "exit_price": 1.0,
    "pnl": 72.4138,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "106344140884672244852362960450351425553529942190707510041906768332631040225878",
+   "condition_id": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
+   "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
+   "outcome": "Lanlana Tararudee",
+   "slug": "wta-jone-tararud-2026-08-02",
+   "opened_at": "2026-08-03T15:35:24.932955+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.68,
+   "ask_depth": 10497.48,
+   "status": "won",
+   "closed_at": "2026-08-03T21:25:20.062540+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18876,6 +18880,6 @@
    "outcome": "Alexandra Eala"
   }
  ],
- "total_pnl": -281.86859999999956,
- "last_updated": "2026-08-03T20:20:28.089314+00:00"
+ "total_pnl": -234.80979999999957,
+ "last_updated": "2026-08-03T21:25:20.063739+00:00"
 }
