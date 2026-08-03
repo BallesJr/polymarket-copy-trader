@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9417.940015,
+ "bankroll": 9445.717795,
  "last_seen": {
-  "jtwyslljy": 1785766872,
+  "jtwyslljy": 1785770324,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8125,6 +8125,20 @@
    "SELL",
    325.08,
    1785766872
+  ],
+  [
+   "0x402dd6a025652826e80f88cc79b01b78d0757cf0254296bdf8c213692ecdadff",
+   "112820174912620417254819043865688041063133426091706822294469282465935238875452",
+   "SELL",
+   17999.97,
+   1785770270
+  ],
+  [
+   "0xf3d6075980fcd79d681e11c1b9b28d4bb40cf57b859da68805c0f62f8e9f7a8e",
+   "111437678189564788413989399680414708897196541310096905251380292925510778298262",
+   "BUY",
+   10000,
+   1785770324
   ]
  ],
  "leader_pos": {
@@ -12239,10 +12253,10 @@
    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
    "outcome": "Polina Kudermetova",
    "slug": "wta-korneev-kuderme-2026-08-03",
-   "shares": 4500.0,
-   "cost": 1575.0,
+   "shares": -13499.970000000001,
+   "cost": -1124.9955,
    "max_shares": 4500.0,
-   "last_trade_ts": 1785752678
+   "last_trade_ts": 1785770270
   },
   "jtwyslljy|21497355018504475542074460028165701252584666826927286200168484569279749208114": {
    "leader": "jtwyslljy",
@@ -12279,6 +12293,18 @@
    "cost": 379.52840000000003,
    "max_shares": 1227.64,
    "last_trade_ts": 1785766544
+  },
+  "jtwyslljy|111437678189564788413989399680414708897196541310096905251380292925510778298262": {
+   "leader": "jtwyslljy",
+   "asset": "111437678189564788413989399680414708897196541310096905251380292925510778298262",
+   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "outcome": "Alina Korneeva",
+   "slug": "wta-korneev-kuderme-2026-08-03",
+   "shares": 10000.0,
+   "cost": 8500.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785770324
   }
  },
  "positions": [
@@ -12352,24 +12378,6 @@
    "copy_delay_min": 3.2,
    "best_ask": 0.27,
    "ask_depth": 45093.85,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "112820174912620417254819043865688041063133426091706822294469282465935238875452",
-   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
-   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
-   "outcome": "Polina Kudermetova",
-   "slug": "wta-korneev-kuderme-2026-08-03",
-   "opened_at": "2026-08-03T10:30:36.485660+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 1575.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.36,
-   "ask_depth": 3257.9,
    "status": "open"
   }
  ],
@@ -17557,6 +17565,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112820174912620417254819043865688041063133426091706822294469282465935238875452",
+   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "outcome": "Polina Kudermetova",
+   "slug": "wta-korneev-kuderme-2026-08-03",
+   "opened_at": "2026-08-03T10:30:36.485660+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1575.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.36,
+   "ask_depth": 3257.9,
+   "status": "closed",
+   "closed_at": "2026-08-03T15:25:25.911681+00:00",
+   "exit_price": 0.1,
+   "pnl": -72.2222,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -18612,8 +18642,18 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
    "outcome": "Yakult Brothers"
+  },
+  {
+   "at": "2026-08-03T15:25:26.094959+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T15:00:00+00:00",
+   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
+   "copy_delay_min": 6.7,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "outcome": "Alina Korneeva"
   }
  ],
- "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T14:30:37.499175+00:00"
+ "total_pnl": -154.28239999999954,
+ "last_updated": "2026-08-03T15:25:26.744417+00:00"
 }
