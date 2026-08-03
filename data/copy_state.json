@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9345.717795,
+ "bankroll": 9518.131595,
  "last_seen": {
   "jtwyslljy": 1785775874,
   "0x53757615de": 1784324596
@@ -12460,24 +12460,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "57689363760547987318013752103822883193549744326454914442221915513721883275198",
-   "condition_id": "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7",
-   "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
-   "outcome": "Taylor Fritz",
-   "slug": "atp-fritz-jodar-2026-08-02",
-   "opened_at": "2026-08-02T10:15:30.892662+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 4640.0,
-   "copy_delay_min": 0.9,
-   "best_ask": 0.58,
-   "ask_depth": 5584.24,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "106344140884672244852362960450351425553529942190707510041906768332631040225878",
    "condition_id": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
    "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
@@ -17745,6 +17727,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "57689363760547987318013752103822883193549744326454914442221915513721883275198",
+   "condition_id": "0x7cc8729c2bea651d00f502c2f9707f44991b1605afbe9cf793fcc77393c547b7",
+   "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+   "outcome": "Taylor Fritz",
+   "slug": "atp-fritz-jodar-2026-08-02",
+   "opened_at": "2026-08-02T10:15:30.892662+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 4640.0,
+   "copy_delay_min": 0.9,
+   "best_ask": 0.58,
+   "ask_depth": 5584.24,
+   "status": "won",
+   "closed_at": "2026-08-03T20:20:28.088234+00:00",
+   "exit_price": 1.0,
+   "pnl": 72.4138,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -18872,6 +18876,6 @@
    "outcome": "Alexandra Eala"
   }
  ],
- "total_pnl": -354.28239999999954,
- "last_updated": "2026-08-03T17:40:29.921780+00:00"
+ "total_pnl": -281.86859999999956,
+ "last_updated": "2026-08-03T20:20:28.089314+00:00"
 }
