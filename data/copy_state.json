@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9345.717795,
  "last_seen": {
-  "jtwyslljy": 1785770844,
+  "jtwyslljy": 1785772229,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8146,6 +8146,13 @@
    "BUY",
    4500,
    1785770844
+  ],
+  [
+   "0x21003323f735402687f7122695933d2e7f2b7555af1fae20aa4b9fd026c96c33",
+   "19171287104522557990991439610357752426937872719857371820312710027665131302167",
+   "BUY",
+   10000,
+   1785772229
   ]
  ],
  "leader_pos": {
@@ -12324,6 +12331,18 @@
    "cost": 3060.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1785770844
+  },
+  "jtwyslljy|19171287104522557990991439610357752426937872719857371820312710027665131302167": {
+   "leader": "jtwyslljy",
+   "asset": "19171287104522557990991439610357752426937872719857371820312710027665131302167",
+   "condition_id": "0x136cbbe2aa639c6d76fbe21041f67a627bffa217b3682b90992c3d3761562271",
+   "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
+   "outcome": "Anhelina Kalinina",
+   "slug": "wta-kalinin-bondar-2026-08-03",
+   "shares": 10000.0,
+   "cost": 4900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785772229
   }
  },
  "positions": [
@@ -18689,8 +18708,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
    "outcome": "Alina Korneeva"
+  },
+  {
+   "at": "2026-08-03T15:55:22.843421+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T15:00:00+00:00",
+   "condition_id": "0x136cbbe2aa639c6d76fbe21041f67a627bffa217b3682b90992c3d3761562271",
+   "copy_delay_min": 4.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Anhelina Kalinina vs Anna Bondar",
+   "outcome": "Anhelina Kalinina"
   }
  ],
  "total_pnl": -154.28239999999954,
- "last_updated": "2026-08-03T15:35:25.546519+00:00"
+ "last_updated": "2026-08-03T15:55:23.241689+00:00"
 }
