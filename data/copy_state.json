@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9417.940015,
  "last_seen": {
-  "jtwyslljy": 1785758618,
+  "jtwyslljy": 1785761442,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8083,6 +8083,20 @@
    "SELL",
    2000,
    1785758618
+  ],
+  [
+   "0x832c0957b0570325f9215b4cac22809d286cc324d3e9bf7bfe73a2bc3858e6af",
+   "21497355018504475542074460028165701252584666826927286200168484569279749208114",
+   "BUY",
+   3257.03,
+   1785761270
+  ],
+  [
+   "0x019d4a81fa4b44488960a5ade3bf0e67ff8da0f295d2fa7730b7efe4247b914c",
+   "21497355018504475542074460028165701252584666826927286200168484569279749208114",
+   "BUY",
+   422.3,
+   1785761442
   ]
  ],
  "leader_pos": {
@@ -12201,6 +12215,18 @@
    "cost": 1575.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1785752678
+  },
+  "jtwyslljy|21497355018504475542074460028165701252584666826927286200168484569279749208114": {
+   "leader": "jtwyslljy",
+   "asset": "21497355018504475542074460028165701252584666826927286200168484569279749208114",
+   "condition_id": "0x5380fd8ced6cd8bc915aa9c7c673a2e68e5e940b2ce1fb3821c210883047e213",
+   "title": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-xtreme-tr7-2026-08-03",
+   "shares": 3679.3300000000004,
+   "cost": 1063.2736999638691,
+   "max_shares": 3679.3300000000004,
+   "last_trade_ts": 1785761442
   }
  },
  "positions": [
@@ -18504,8 +18530,18 @@
    "leader": "jtwyslljy",
    "title": "Warsaw: Julia Avdeeva vs Noma Noha Akugue",
    "outcome": "Noma Noha Akugue"
+  },
+  {
+   "at": "2026-08-03T12:55:23.902573+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T09:50:00+00:00",
+   "condition_id": "0x5380fd8ced6cd8bc915aa9c7c673a2e68e5e940b2ce1fb3821c210883047e213",
+   "copy_delay_min": 4.7,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T12:10:24.493435+00:00"
+ "last_updated": "2026-08-03T12:55:24.385695+00:00"
 }
