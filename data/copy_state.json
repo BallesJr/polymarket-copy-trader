@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9517.940015,
+ "bankroll": 9417.940015,
  "last_seen": {
-  "jtwyslljy": 1785751052,
+  "jtwyslljy": 1785752678,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8069,6 +8069,13 @@
    "BUY",
    13075.85,
    1785751052
+  ],
+  [
+   "0x9e34ade39bec4c431fba9c677283c58e0d1bbf477fbd47260c0cdfd233f314b2",
+   "112820174912620417254819043865688041063133426091706822294469282465935238875452",
+   "BUY",
+   4500,
+   1785752678
   ]
  ],
  "leader_pos": {
@@ -12175,6 +12182,18 @@
    "cost": 12422.057499999999,
    "max_shares": 13075.85,
    "last_trade_ts": 1785751052
+  },
+  "jtwyslljy|112820174912620417254819043865688041063133426091706822294469282465935238875452": {
+   "leader": "jtwyslljy",
+   "asset": "112820174912620417254819043865688041063133426091706822294469282465935238875452",
+   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "outcome": "Polina Kudermetova",
+   "slug": "wta-korneev-kuderme-2026-08-03",
+   "shares": 4500.0,
+   "cost": 1575.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1785752678
   }
  },
  "positions": [
@@ -12248,6 +12267,24 @@
    "copy_delay_min": 3.2,
    "best_ask": 0.27,
    "ask_depth": 45093.85,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112820174912620417254819043865688041063133426091706822294469282465935238875452",
+   "condition_id": "0xdb8cb00b45c272640c9ced6f60998afbb03574d322d5659f9d7d81e1c282ee06",
+   "title": "National Bank Open: Alina Korneeva vs Polina Kudermetova",
+   "outcome": "Polina Kudermetova",
+   "slug": "wta-korneev-kuderme-2026-08-03",
+   "opened_at": "2026-08-03T10:30:36.485660+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1575.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.36,
+   "ask_depth": 3257.9,
    "status": "open"
   }
  ],
@@ -18463,5 +18500,5 @@
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T10:00:43.919050+00:00"
+ "last_updated": "2026-08-03T10:30:37.124060+00:00"
 }
