@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9417.940015,
  "last_seen": {
-  "jtwyslljy": 1785766544,
+  "jtwyslljy": 1785766872,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8118,6 +8118,13 @@
    "BUY",
    26,
    1785766544
+  ],
+  [
+   "0x12287065872f03a4488d350a524abd3d4c3360ba5725bf2886271a38d01c98cb",
+   "27443828266886824497632200368805876537022646031262215475574679004655794838961",
+   "SELL",
+   325.08,
+   1785766872
   ]
  ],
  "leader_pos": {
@@ -12256,10 +12263,10 @@
    "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
    "outcome": "Yakult Brothers",
    "slug": "dota2-vg-yb1-2026-08-03",
-   "shares": 3000.0,
-   "cost": 600.0,
+   "shares": 2674.92,
+   "cost": 567.492,
    "max_shares": 3000.0,
-   "last_trade_ts": 1785766470
+   "last_trade_ts": 1785766872
   },
   "jtwyslljy|38717867915347712477776900306800516729502149729976785349941768644338647323567": {
    "leader": "jtwyslljy",
@@ -18595,8 +18602,18 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
    "outcome": "Yakult Brothers"
+  },
+  {
+   "at": "2026-08-03T14:30:36.863098+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-03T13:50:00+00:00",
+   "condition_id": "0x43c295d3de01887d6bb874bc001abbb81b832a4174c3d812ea22360090073726",
+   "copy_delay_min": 9.4,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Vici Gaming vs Yakult Brothers (BO3) - Games of the Future Playoffs",
+   "outcome": "Yakult Brothers"
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T14:25:23.890001+00:00"
+ "last_updated": "2026-08-03T14:30:37.499175+00:00"
 }
