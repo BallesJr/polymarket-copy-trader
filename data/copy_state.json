@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9417.940015,
  "last_seen": {
-  "jtwyslljy": 1785766526,
+  "jtwyslljy": 1785766544,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8111,6 +8111,13 @@
    "BUY",
    1201.64,
    1785766526
+  ],
+  [
+   "0x568fc2ab4e6ea0467673775afc3d9a1c7d532254d0baeda755d1628b227ddaf9",
+   "38717867915347712477776900306800516729502149729976785349941768644338647323567",
+   "BUY",
+   26,
+   1785766544
   ]
  ],
  "leader_pos": {
@@ -12261,10 +12268,10 @@
    "title": "Counter-Strike: MOUZ NXT vs Misa Esports (BO3) - ESL Challenger League Europe Cup #2 Group D",
    "outcome": "Misa Esports",
    "slug": "cs2-mouzn-mis-2026-08-03",
-   "shares": 1201.64,
-   "cost": 372.50840000000005,
-   "max_shares": 1201.64,
-   "last_trade_ts": 1785766526
+   "shares": 1227.64,
+   "cost": 379.52840000000003,
+   "max_shares": 1227.64,
+   "last_trade_ts": 1785766544
   }
  },
  "positions": [
@@ -18591,5 +18598,5 @@
   }
  ],
  "total_pnl": -82.06019999999953,
- "last_updated": "2026-08-03T14:15:32.702951+00:00"
+ "last_updated": "2026-08-03T14:25:23.890001+00:00"
 }
