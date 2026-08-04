@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9665.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785848430,
+  "jtwyslljy": 1785856052,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8279,6 +8279,13 @@
    "BUY",
    3199.73,
    1785848430
+  ],
+  [
+   "0xdaaa7ad489eea544a87ceb321d031eeb72db700339b87bd5001ea60fef7fdba0",
+   "101992366446909671936250718450880592310551715221405456398070141273986840700213",
+   "BUY",
+   4055.73,
+   1785856052
   ]
  ],
  "leader_pos": {
@@ -12541,6 +12548,18 @@
    "cost": 1375.8839,
    "max_shares": 3199.73,
    "last_trade_ts": 1785848430
+  },
+  "jtwyslljy|101992366446909671936250718450880592310551715221405456398070141273986840700213": {
+   "leader": "jtwyslljy",
+   "asset": "101992366446909671936250718450880592310551715221405456398070141273986840700213",
+   "condition_id": "0x79a1dfdd3f9fdc9e201043e0b27bd481a4cb8aa14d9f874421fb600865b55900",
+   "title": "Canadian Open: Sebastian Baez vs Mattia Bellucci",
+   "outcome": "Sebastian Baez",
+   "slug": "atp-baez-bellucc-2026-08-03",
+   "shares": 4055.73,
+   "cost": 2068.4223,
+   "max_shares": 4055.73,
+   "last_trade_ts": 1785856052
   }
  },
  "positions": [
@@ -19042,8 +19061,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-08-04T15:15:35.208897+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T15:00:00+00:00",
+   "condition_id": "0x79a1dfdd3f9fdc9e201043e0b27bd481a4cb8aa14d9f874421fb600865b55900",
+   "copy_delay_min": 8.0,
+   "leader": "jtwyslljy",
+   "title": "Canadian Open: Sebastian Baez vs Mattia Bellucci",
+   "outcome": "Sebastian Baez"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T13:05:26.735070+00:00"
+ "last_updated": "2026-08-04T15:15:35.775902+00:00"
 }
