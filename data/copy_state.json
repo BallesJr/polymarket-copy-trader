@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9365.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785864717,
+  "jtwyslljy": 1785866006,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8363,6 +8363,13 @@
    "SELL",
    11752,
    1785864717
+  ],
+  [
+   "0x536344c433598c090c690989cc9aa3e7194067dfb04813bb011244a8b7fc937f",
+   "29840134479446338898246719924558999061122770353796990572860274039689750816885",
+   "BUY",
+   30,
+   1785866006
   ]
  ],
  "leader_pos": {
@@ -12693,10 +12700,10 @@
    "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
    "outcome": "Elina Svitolina",
    "slug": "wta-svitoli-maneiro-2026-08-04",
-   "shares": 5473.84,
-   "cost": 2139.8413,
+   "shares": 5503.84,
+   "cost": 2163.1513,
    "max_shares": 9480.65,
-   "last_trade_ts": 1785863942
+   "last_trade_ts": 1785866006
   },
   "jtwyslljy|41397585424089043568292201802480302400304489957270564370961061138198664988916": {
    "leader": "jtwyslljy",
@@ -19326,8 +19333,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
    "outcome": "Elina Svitolina"
+  },
+  {
+   "at": "2026-08-04T18:00:46.860633+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T15:00:00+00:00",
+   "condition_id": "0x72bf3f448ac6325832ae705fac780d42878a11adea79d799b7632fe5f3c7006a",
+   "copy_delay_min": 7.3,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
+   "outcome": "Elina Svitolina"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T17:40:08.010802+00:00"
+ "last_updated": "2026-08-04T18:00:47.509320+00:00"
 }
