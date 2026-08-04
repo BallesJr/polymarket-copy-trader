@@ -12870,24 +12870,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "36795612047585219757892867570520184323663601648309066585258598853624874796809",
-   "condition_id": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
-   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
-   "outcome": "Gabriela Ruse",
-   "slug": "wta-ruse-potapov-2026-08-04",
-   "opened_at": "2026-08-04T16:15:38.562047+00:00",
-   "entry_price": 0.49,
-   "shares": 204.0816,
-   "stake": 100.0,
-   "leader_vwap": 0.49,
-   "leader_cost": 4900.0,
-   "copy_delay_min": 2.7,
-   "best_ask": 0.49,
-   "ask_depth": 4063.73,
-   "status": "open"
   }
  ],
  "closed": [
@@ -18250,6 +18232,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36795612047585219757892867570520184323663601648309066585258598853624874796809",
+   "condition_id": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
+   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ruse-potapov-2026-08-04",
+   "opened_at": "2026-08-04T16:15:38.562047+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.49,
+   "leader_cost": 4900.0,
+   "copy_delay_min": 2.7,
+   "best_ask": 0.49,
+   "ask_depth": 4063.73,
+   "status": "lost",
+   "closed_at": "2026-08-04T21:40:29.665871+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -19497,6 +19501,6 @@
    "outcome": "Elina Svitolina"
   }
  ],
- "total_pnl": -201.50369999999958,
- "last_updated": "2026-08-04T21:00:51.226994+00:00"
+ "total_pnl": -301.5036999999996,
+ "last_updated": "2026-08-04T21:40:29.666660+00:00"
 }
