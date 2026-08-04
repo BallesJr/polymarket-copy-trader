@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9665.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785835452,
+  "jtwyslljy": 1785841379,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8251,6 +8251,13 @@
    "BUY",
    10000,
    1785835452
+  ],
+  [
+   "0x5f253569e9b722090c575e72451ccb74dfcd098d74dfe18912ed02dc208be58f",
+   "12636096210381015731040186210710520070804288707901070391186593325543427179330",
+   "BUY",
+   8000,
+   1785841379
   ]
  ],
  "leader_pos": {
@@ -12501,6 +12508,18 @@
    "cost": 2898.7716995,
    "max_shares": 25000.0,
    "last_trade_ts": 1785835452
+  },
+  "jtwyslljy|12636096210381015731040186210710520070804288707901070391186593325543427179330": {
+   "leader": "jtwyslljy",
+   "asset": "12636096210381015731040186210710520070804288707901070391186593325543427179330",
+   "condition_id": "0xa52be7318e4d40ae96847ce996fe610ba11cb55513e79fd46423ec035b81af44",
+   "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "HANJIN BRION",
+   "slug": "lol-bro2-drx-2026-08-04",
+   "shares": 8000.0,
+   "cost": 3200.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1785841379
   }
  },
  "positions": [
@@ -18972,8 +18991,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Gen.G vs DN SOOPers (BO3) - KeSPA Cup Last Chance Qualifier",
    "outcome": "DN SOOPers"
+  },
+  {
+   "at": "2026-08-04T11:10:25.691727+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T11:00:00+00:00",
+   "condition_id": "0xa52be7318e4d40ae96847ce996fe610ba11cb55513e79fd46423ec035b81af44",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs Kiwoom DRX (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T09:30:35.008760+00:00"
+ "last_updated": "2026-08-04T11:10:26.135303+00:00"
 }
