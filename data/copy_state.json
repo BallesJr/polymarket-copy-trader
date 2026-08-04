@@ -12888,24 +12888,6 @@
    "best_ask": 0.49,
    "ask_depth": 4063.73,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "36900616709343013127221280431487858435345670069254707849657205376536315481791",
-   "condition_id": "0x0f7a43969727904abdf9fe37fbe8e9b20e871ca8d41ee7c35d210761109ceea6",
-   "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
-   "outcome": "Maja Chwalinska",
-   "slug": "wta-chwalin-gibson-2026-08-04",
-   "opened_at": "2026-08-04T18:30:35.208851+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 967.52,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.44,
-   "ask_depth": 7788.37,
-   "status": "open"
   }
  ],
  "closed": [
@@ -18246,6 +18228,28 @@
    "exit_price": 1.0,
    "pnl": 117.3913,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36900616709343013127221280431487858435345670069254707849657205376536315481791",
+   "condition_id": "0x0f7a43969727904abdf9fe37fbe8e9b20e871ca8d41ee7c35d210761109ceea6",
+   "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-chwalin-gibson-2026-08-04",
+   "opened_at": "2026-08-04T18:30:35.208851+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 967.52,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.44,
+   "ask_depth": 7788.37,
+   "status": "lost",
+   "closed_at": "2026-08-04T21:00:51.225808+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -19493,6 +19497,6 @@
    "outcome": "Elina Svitolina"
   }
  ],
- "total_pnl": -101.50369999999958,
- "last_updated": "2026-08-04T19:35:19.251043+00:00"
+ "total_pnl": -201.50369999999958,
+ "last_updated": "2026-08-04T21:00:51.226994+00:00"
 }
