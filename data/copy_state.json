@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9381.105175,
  "last_seen": {
-  "jtwyslljy": 1785867995,
+  "jtwyslljy": 1785868226,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8447,6 +8447,27 @@
    "BUY",
    2250.04,
    1785867995
+  ],
+  [
+   "0xfa0b89f66780867c88c445ebf786ee0a5830516d9697bb61c46f3763bf1f6fae",
+   "88382525950451483465116680985513329743359671370273206898078256428459183926496",
+   "BUY",
+   1474.14,
+   1785868137
+  ],
+  [
+   "0x5ba03e53d34009de51997abd9715e8be724f60ab5b9593722c5d6455411301ed",
+   "88382525950451483465116680985513329743359671370273206898078256428459183926496",
+   "SELL",
+   1474.14,
+   1785868166
+  ],
+  [
+   "0xd0913bfb1bae4fd7f67bec1222cd39a9d204c21b31d87589fd8ae4df629223ee",
+   "36900616709343013127221280431487858435345670069254707849657205376536315481791",
+   "BUY",
+   21,
+   1785868226
   ]
  ],
  "leader_pos": {
@@ -12813,10 +12834,22 @@
    "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
    "outcome": "Maja Chwalinska",
    "slug": "wta-chwalin-gibson-2026-08-04",
-   "shares": 2250.04,
-   "cost": 967.5172,
-   "max_shares": 2250.04,
-   "last_trade_ts": 1785867995
+   "shares": 2271.04,
+   "cost": 976.5472,
+   "max_shares": 2271.04,
+   "last_trade_ts": 1785868226
+  },
+  "jtwyslljy|88382525950451483465116680985513329743359671370273206898078256428459183926496": {
+   "leader": "jtwyslljy",
+   "asset": "88382525950451483465116680985513329743359671370273206898078256428459183926496",
+   "condition_id": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
+   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+   "outcome": "Anastasia Potapova",
+   "slug": "wta-ruse-potapov-2026-08-04",
+   "shares": 0.0,
+   "cost": 0.0,
+   "max_shares": 1474.14,
+   "last_trade_ts": 1785868166
   }
  },
  "positions": [
@@ -19457,5 +19490,5 @@
   }
  ],
  "total_pnl": -218.89499999999958,
- "last_updated": "2026-08-04T18:30:35.772582+00:00"
+ "last_updated": "2026-08-04T18:35:29.836736+00:00"
 }
