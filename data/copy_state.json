@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9665.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785856052,
+  "jtwyslljy": 1785858228,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8286,6 +8286,13 @@
    "BUY",
    4055.73,
    1785856052
+  ],
+  [
+   "0x182263941f558ca6a286e9f3671df9f2ece643d17732e57e9eb43c7869dab10c",
+   "50344030316205149324961868147223343318008991080929131289151877060703304030356",
+   "BUY",
+   15000,
+   1785858228
   ]
  ],
  "leader_pos": {
@@ -12560,6 +12567,18 @@
    "cost": 2068.4223,
    "max_shares": 4055.73,
    "last_trade_ts": 1785856052
+  },
+  "jtwyslljy|50344030316205149324961868147223343318008991080929131289151877060703304030356": {
+   "leader": "jtwyslljy",
+   "asset": "50344030316205149324961868147223343318008991080929131289151877060703304030356",
+   "condition_id": "0xb40602f685464f8d5b452ef1ef0107541c35be01d249250477e22fe0d182cac5",
+   "title": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
+   "outcome": "Martin Damm",
+   "slug": "atp-damm-tsitsip-2026-08-03",
+   "shares": 15000.0,
+   "cost": 5250.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1785858228
   }
  },
  "positions": [
@@ -19071,8 +19090,18 @@
    "leader": "jtwyslljy",
    "title": "Canadian Open: Sebastian Baez vs Mattia Bellucci",
    "outcome": "Sebastian Baez"
+  },
+  {
+   "at": "2026-08-04T15:50:30.367514+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T15:00:00+00:00",
+   "condition_id": "0xb40602f685464f8d5b452ef1ef0107541c35be01d249250477e22fe0d182cac5",
+   "copy_delay_min": 6.7,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Martin Damm vs Stefanos Tsitsipas",
+   "outcome": "Martin Damm"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T15:15:35.775902+00:00"
+ "last_updated": "2026-08-04T15:50:30.760795+00:00"
 }
