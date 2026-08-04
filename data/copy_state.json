@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9565.190395000001,
+ "bankroll": 9365.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785859643,
+  "jtwyslljy": 1785859977,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8300,6 +8300,20 @@
    "BUY",
    12000,
    1785859643
+  ],
+  [
+   "0x7b18c2eb55cf6b8fadd65c55cbf4651eed0932a4d61151ec7ef1d1824ac0157b",
+   "11304549622669427136678897432225107800556539420276619924875216478869807636477",
+   "BUY",
+   4849.34,
+   1785859718
+  ],
+  [
+   "0xd57a1f46e82f7a7d7be372702e19847a7b4913dc72b10f7c24cf5d252765c408",
+   "36795612047585219757892867570520184323663601648309066585258598853624874796809",
+   "BUY",
+   10000,
+   1785859977
   ]
  ],
  "leader_pos": {
@@ -12598,6 +12612,30 @@
    "cost": 5640.0,
    "max_shares": 12000.0,
    "last_trade_ts": 1785859643
+  },
+  "jtwyslljy|11304549622669427136678897432225107800556539420276619924875216478869807636477": {
+   "leader": "jtwyslljy",
+   "asset": "11304549622669427136678897432225107800556539420276619924875216478869807636477",
+   "condition_id": "0x189c3332cb908e7ba1452cf093377590400b0b80e9f473320c0aa9d3ef831100",
+   "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
+   "outcome": "Viktorija Golubic",
+   "slug": "wta-vekic-golubic-2026-08-04",
+   "shares": 4849.34,
+   "cost": 2182.203,
+   "max_shares": 4849.34,
+   "last_trade_ts": 1785859718
+  },
+  "jtwyslljy|36795612047585219757892867570520184323663601648309066585258598853624874796809": {
+   "leader": "jtwyslljy",
+   "asset": "36795612047585219757892867570520184323663601648309066585258598853624874796809",
+   "condition_id": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
+   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ruse-potapov-2026-08-04",
+   "shares": 10000.0,
+   "cost": 4900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1785859977
   }
  },
  "positions": [
@@ -12635,6 +12673,42 @@
    "copy_delay_min": 3.1,
    "best_ask": 0.47,
    "ask_depth": 28996.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11304549622669427136678897432225107800556539420276619924875216478869807636477",
+   "condition_id": "0x189c3332cb908e7ba1452cf093377590400b0b80e9f473320c0aa9d3ef831100",
+   "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
+   "outcome": "Viktorija Golubic",
+   "slug": "wta-vekic-golubic-2026-08-04",
+   "opened_at": "2026-08-04T16:15:38.357720+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 2182.2,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.46,
+   "ask_depth": 15364.01,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36795612047585219757892867570520184323663601648309066585258598853624874796809",
+   "condition_id": "0xc4004105b39f05cca34260716e0afcb0f3799cab0c3de1e1a98fbf6522811ef5",
+   "title": "National Bank Open: Gabriela Ruse vs Anastasia Potapova",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ruse-potapov-2026-08-04",
+   "opened_at": "2026-08-04T16:15:38.562047+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.49,
+   "leader_cost": 4900.0,
+   "copy_delay_min": 2.7,
+   "best_ask": 0.49,
+   "ask_depth": 4063.73,
    "status": "open"
   }
  ],
@@ -19140,5 +19214,5 @@
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T16:10:29.049452+00:00"
+ "last_updated": "2026-08-04T16:15:39.194616+00:00"
 }
