@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9665.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785813932,
+  "jtwyslljy": 1785832595,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8230,6 +8230,13 @@
    "BUY",
    259.81,
    1785813932
+  ],
+  [
+   "0x0f790bb56c02dc27d6249e061556d570b84442bf74196df662040f08c139758d",
+   "4084403460037045830058697868442407220237307939071487664821948735779753374057",
+   "BUY",
+   15771.74,
+   1785832595
   ]
  ],
  "leader_pos": {
@@ -12456,6 +12463,18 @@
    "cost": 36.373400000000004,
    "max_shares": 259.81,
    "last_trade_ts": 1785813932
+  },
+  "jtwyslljy|4084403460037045830058697868442407220237307939071487664821948735779753374057": {
+   "leader": "jtwyslljy",
+   "asset": "4084403460037045830058697868442407220237307939071487664821948735779753374057",
+   "condition_id": "0x24b8b20affe3f13e7bac712871a7adb7ea54a8ba937ac0c3280c0a1d217a1fad",
+   "title": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-t1-hle1-2026-08-04",
+   "shares": 15771.74,
+   "cost": 1892.6088,
+   "max_shares": 15771.74,
+   "last_trade_ts": 1785832595
   }
  },
  "positions": [
@@ -18897,8 +18916,18 @@
    "leader": "jtwyslljy",
    "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
    "outcome": "Alexandra Eala"
+  },
+  {
+   "at": "2026-08-04T08:40:34.544597+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T06:00:00+00:00",
+   "condition_id": "0x24b8b20affe3f13e7bac712871a7adb7ea54a8ba937ac0c3280c0a1d217a1fad",
+   "copy_delay_min": 4.0,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+   "outcome": "Hanwha Life Esports"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T03:30:33.012818+00:00"
+ "last_updated": "2026-08-04T08:40:35.022504+00:00"
 }
