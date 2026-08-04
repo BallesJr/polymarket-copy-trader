@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9365.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785862394,
+  "jtwyslljy": 1785863942,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8349,6 +8349,13 @@
    "BUY",
    14751.88,
    1785862394
+  ],
+  [
+   "0x285272ad3a6b6515142fab24489294fd7cd21ed63bfabe56abb9c6ee0b5dd168",
+   "29840134479446338898246719924558999061122770353796990572860274039689750816885",
+   "SELL",
+   4006.81,
+   1785863942
   ]
  ],
  "leader_pos": {
@@ -12679,10 +12686,10 @@
    "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
    "outcome": "Elina Svitolina",
    "slug": "wta-svitoli-maneiro-2026-08-04",
-   "shares": 9480.65,
-   "cost": 5024.7445,
+   "shares": 5473.84,
+   "cost": 2139.8413,
    "max_shares": 9480.65,
-   "last_trade_ts": 1785860375
+   "last_trade_ts": 1785863942
   },
   "jtwyslljy|41397585424089043568292201802480302400304489957270564370961061138198664988916": {
    "leader": "jtwyslljy",
@@ -19302,8 +19309,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Duncan Chan vs Thiago Agustin Tirante",
    "outcome": "Duncan Chan"
+  },
+  {
+   "at": "2026-08-04T17:25:31.110816+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-04T15:00:00+00:00",
+   "condition_id": "0x72bf3f448ac6325832ae705fac780d42878a11adea79d799b7632fe5f3c7006a",
+   "copy_delay_min": 6.5,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
+   "outcome": "Elina Svitolina"
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T17:00:57.066013+00:00"
+ "last_updated": "2026-08-04T17:25:31.811562+00:00"
 }
