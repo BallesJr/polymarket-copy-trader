@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9365.190395000001,
+ "bankroll": 9481.105175,
  "last_seen": {
-  "jtwyslljy": 1785866006,
+  "jtwyslljy": 1785866193,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8370,6 +8370,13 @@
    "BUY",
    30,
    1785866006
+  ],
+  [
+   "0xe9948daf5399d512d97539e22e0fe6ff5f140cb573b442116be42004967ed199",
+   "60041134462472037450567649196680252036249087575257695530930149340946623152764",
+   "SELL",
+   7500,
+   1785866193
   ]
  ],
  "leader_pos": {
@@ -12664,10 +12671,10 @@
    "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
    "outcome": "Ekaterina Alexandrova",
    "slug": "wta-osorio-alexand-2026-08-04",
-   "shares": 14999.879999999997,
-   "cost": -688.7536000000018,
+   "shares": 7499.879999999997,
+   "cost": -4513.753600000002,
    "max_shares": 26751.879999999997,
-   "last_trade_ts": 1785864717
+   "last_trade_ts": 1785866193
   },
   "jtwyslljy|11304549622669427136678897432225107800556539420276619924875216478869807636477": {
    "leader": "jtwyslljy",
@@ -12747,24 +12754,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "60041134462472037450567649196680252036249087575257695530930149340946623152764",
-   "condition_id": "0x0a616aa8490f3e9b14eb11addcc1dbdb6eca2ba762d350aabad6a439a3d47b9e",
-   "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
-   "outcome": "Ekaterina Alexandrova",
-   "slug": "wta-osorio-alexand-2026-08-04",
-   "opened_at": "2026-08-04T16:10:28.168973+00:00",
-   "entry_price": 0.47,
-   "shares": 212.766,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 5640.0,
-   "copy_delay_min": 3.1,
-   "best_ask": 0.47,
-   "ask_depth": 28996.4,
    "status": "open"
   },
   {
@@ -18098,6 +18087,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60041134462472037450567649196680252036249087575257695530930149340946623152764",
+   "condition_id": "0x0a616aa8490f3e9b14eb11addcc1dbdb6eca2ba762d350aabad6a439a3d47b9e",
+   "title": "National Bank Open: Camila Osorio vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-osorio-alexand-2026-08-04",
+   "opened_at": "2026-08-04T16:10:28.168973+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 5640.0,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.47,
+   "ask_depth": 28996.4,
+   "status": "closed",
+   "closed_at": "2026-08-04T18:05:22.922215+00:00",
+   "exit_price": 0.5448,
+   "pnl": 15.9148,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -19345,6 +19356,6 @@
    "outcome": "Elina Svitolina"
   }
  ],
- "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T18:00:47.509320+00:00"
+ "total_pnl": -218.89499999999958,
+ "last_updated": "2026-08-04T18:05:23.691233+00:00"
 }
