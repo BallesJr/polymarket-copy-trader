@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9365.190395000001,
  "last_seen": {
-  "jtwyslljy": 1785859977,
+  "jtwyslljy": 1785860174,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8314,6 +8314,13 @@
    "BUY",
    10000,
    1785859977
+  ],
+  [
+   "0x4fa356bcb9c6a79424a9db3fbca1e3684ec3fb85ab2842ff1c71d6c93a8f93f4",
+   "11304549622669427136678897432225107800556539420276619924875216478869807636477",
+   "BUY",
+   51,
+   1785860174
   ]
  ],
  "leader_pos": {
@@ -12620,10 +12627,10 @@
    "title": "National Bank Open: Donna Vekic vs Viktorija Golubic",
    "outcome": "Viktorija Golubic",
    "slug": "wta-vekic-golubic-2026-08-04",
-   "shares": 4849.34,
-   "cost": 2182.203,
-   "max_shares": 4849.34,
-   "last_trade_ts": 1785859718
+   "shares": 4900.34,
+   "cost": 2205.663,
+   "max_shares": 4900.34,
+   "last_trade_ts": 1785860174
   },
   "jtwyslljy|36795612047585219757892867570520184323663601648309066585258598853624874796809": {
    "leader": "jtwyslljy",
@@ -19214,5 +19221,5 @@
   }
  ],
  "total_pnl": -234.80979999999957,
- "last_updated": "2026-08-04T16:15:39.194616+00:00"
+ "last_updated": "2026-08-04T16:20:30.422752+00:00"
 }
