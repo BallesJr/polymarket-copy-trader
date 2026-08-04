@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9481.105175,
+ "bankroll": 9381.105175,
  "last_seen": {
-  "jtwyslljy": 1785867710,
+  "jtwyslljy": 1785867995,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8440,6 +8440,13 @@
    "BUY",
    95,
    1785867710
+  ],
+  [
+   "0x40798b8caf72d12680f8fc4b82d04f7cb7f9ff785d48f5a8bdd2a0d030a2d43c",
+   "36900616709343013127221280431487858435345670069254707849657205376536315481791",
+   "BUY",
+   2250.04,
+   1785867995
   ]
  ],
  "leader_pos": {
@@ -12798,6 +12805,18 @@
    "cost": 1101.8560999136118,
    "max_shares": 2903.08,
    "last_trade_ts": 1785862145
+  },
+  "jtwyslljy|36900616709343013127221280431487858435345670069254707849657205376536315481791": {
+   "leader": "jtwyslljy",
+   "asset": "36900616709343013127221280431487858435345670069254707849657205376536315481791",
+   "condition_id": "0x0f7a43969727904abdf9fe37fbe8e9b20e871ca8d41ee7c35d210761109ceea6",
+   "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-chwalin-gibson-2026-08-04",
+   "shares": 2250.04,
+   "cost": 967.5172,
+   "max_shares": 2250.04,
+   "last_trade_ts": 1785867995
   }
  },
  "positions": [
@@ -12853,6 +12872,24 @@
    "copy_delay_min": 2.7,
    "best_ask": 0.49,
    "ask_depth": 4063.73,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36900616709343013127221280431487858435345670069254707849657205376536315481791",
+   "condition_id": "0x0f7a43969727904abdf9fe37fbe8e9b20e871ca8d41ee7c35d210761109ceea6",
+   "title": "National Bank Open: Maja Chwalinska vs Talia Gibson",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-chwalin-gibson-2026-08-04",
+   "opened_at": "2026-08-04T18:30:35.208851+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 967.52,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.44,
+   "ask_depth": 7788.37,
    "status": "open"
   }
  ],
@@ -19420,5 +19457,5 @@
   }
  ],
  "total_pnl": -218.89499999999958,
- "last_updated": "2026-08-04T18:25:23.906437+00:00"
+ "last_updated": "2026-08-04T18:30:35.772582+00:00"
 }
