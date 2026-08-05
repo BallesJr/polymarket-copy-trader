@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9598.496475,
  "last_seen": {
-  "jtwyslljy": 1785868226,
+  "jtwyslljy": 1785896253,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8468,6 +8468,13 @@
    "BUY",
    21,
    1785868226
+  ],
+  [
+   "0x2e1f456dc8f369314d47536051bbc111fb82f0f9f0636b74f8ebd8431106be41",
+   "80790433573057667169970228041527599978646202689104649223848019452192435517232",
+   "BUY",
+   6999.99,
+   1785896253
   ]
  ],
  "leader_pos": {
@@ -12850,6 +12857,18 @@
    "cost": 0.0,
    "max_shares": 1474.14,
    "last_trade_ts": 1785868166
+  },
+  "jtwyslljy|80790433573057667169970228041527599978646202689104649223848019452192435517232": {
+   "leader": "jtwyslljy",
+   "asset": "80790433573057667169970228041527599978646202689104649223848019452192435517232",
+   "condition_id": "0xb3b54f1049afbcaa4f7f3c77d889c1499d562dac0bb6e1e5d499a024854a2372",
+   "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-cobolli-hanfman-2026-08-04",
+   "shares": 6999.99,
+   "cost": 2376.1484002974357,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1785896253
   }
  },
  "positions": [
@@ -19499,8 +19518,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Elina Svitolina vs Jessica Bouzas Maneiro",
    "outcome": "Elina Svitolina"
+  },
+  {
+   "at": "2026-08-05T02:25:30.047661+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T01:45:00+00:00",
+   "condition_id": "0xb3b54f1049afbcaa4f7f3c77d889c1499d562dac0bb6e1e5d499a024854a2372",
+   "copy_delay_min": 7.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
+   "outcome": "Flavio Cobolli"
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-04T21:40:29.666660+00:00"
+ "last_updated": "2026-08-05T02:25:30.733198+00:00"
 }
