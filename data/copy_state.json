@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8998.496475,
+ "bankroll": 9242.398875,
  "last_seen": {
   "jtwyslljy": 1785951909,
   "0x53757615de": 1784324596
@@ -13232,24 +13232,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "64054130466418200250166856483569626999067190339567416985931396074387593932468",
-   "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
-   "title": "National Bank Open: Valentin Vacherot vs Mariano Navone",
-   "outcome": "Mariano Navone",
-   "slug": "atp-vachero-navone-2026-08-06",
-   "opened_at": "2026-08-05T14:55:24.666445+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 3280.0,
-   "copy_delay_min": 4.7,
-   "best_ask": 0.41,
-   "ask_depth": 73042.7,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "65606343744060638257150094359242229652112707171946723671599119736397781492504",
    "condition_id": "0xa1b31bac0ea53770e042bd436afa607b8c5234246c8923feb26f242725ba811a",
    "title": "National Bank Open: Learner Tien vs Gael Monfils",
@@ -18733,6 +18715,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64054130466418200250166856483569626999067190339567416985931396074387593932468",
+   "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
+   "title": "National Bank Open: Valentin Vacherot vs Mariano Navone",
+   "outcome": "Mariano Navone",
+   "slug": "atp-vachero-navone-2026-08-06",
+   "opened_at": "2026-08-05T14:55:24.666445+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 3280.0,
+   "copy_delay_min": 4.7,
+   "best_ask": 0.41,
+   "ask_depth": 73042.7,
+   "status": "won",
+   "closed_at": "2026-08-05T17:55:21.398768+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20088,6 +20092,6 @@
    "outcome": "Sloane Stephens"
   }
  ],
- "total_pnl": -601.5036999999995,
- "last_updated": "2026-08-05T17:50:36.801993+00:00"
+ "total_pnl": -457.6012999999995,
+ "last_updated": "2026-08-05T17:55:21.400475+00:00"
 }
