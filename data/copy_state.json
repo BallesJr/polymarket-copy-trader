@@ -13045,24 +13045,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "15469460331352019135823646480486919090388437520615806921617791717165460861234",
-   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
-   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
-   "outcome": "Nongshim Red Force",
-   "slug": "lol-bro2-ns-2026-08-05",
-   "opened_at": "2026-08-05T06:30:42.545602+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.7,
-   "leader_cost": 3500.0,
-   "copy_delay_min": 7.9,
-   "best_ask": 0.7,
-   "ask_depth": 41015.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "29157307478711328163255012593661568193070862576476585623810735042881640216835",
    "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
@@ -18462,6 +18444,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "15469460331352019135823646480486919090388437520615806921617791717165460861234",
+   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
+   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-bro2-ns-2026-08-05",
+   "opened_at": "2026-08-05T06:30:42.545602+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 3500.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.7,
+   "ask_depth": 41015.42,
+   "status": "lost",
+   "closed_at": "2026-08-05T13:55:24.752434+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -19769,6 +19773,6 @@
    "outcome": "Gen.G"
   }
  ],
- "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T13:50:24.715556+00:00"
+ "total_pnl": -401.5036999999996,
+ "last_updated": "2026-08-05T13:55:24.753516+00:00"
 }
