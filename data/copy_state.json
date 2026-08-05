@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8998.496475,
  "last_seen": {
-  "jtwyslljy": 1785949383,
+  "jtwyslljy": 1785951279,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8636,6 +8636,27 @@
    "SELL",
    4000,
    1785949383
+  ],
+  [
+   "0x7680da252fbdbb3cde685fd0bbbdc0f368c01698c24722991a31d08e0bb59e0e",
+   "42148968476161162523696055716389238410030360371566542404135149558372692664775",
+   "BUY",
+   1527.59,
+   1785951039
+  ],
+  [
+   "0x4fccfee20f9f976cc17a48dba18645de24f34136436f13145854b6acfc58c9dc",
+   "42148968476161162523696055716389238410030360371566542404135149558372692664775",
+   "BUY",
+   470,
+   1785951191
+  ],
+  [
+   "0x5b0e5756b2d4a67c3b6fcc77438567ee28b17cfe2bf83c5268a0e64f69e4b574",
+   "41862166978611409683748567836452854814951448930951707578708668309625992742304",
+   "BUY",
+   34200,
+   1785951279
   ]
  ],
  "leader_pos": {
@@ -13150,6 +13171,30 @@
    "cost": 1954.5585598360692,
    "max_shares": 3653.237866,
    "last_trade_ts": 1785946695
+  },
+  "jtwyslljy|42148968476161162523696055716389238410030360371566542404135149558372692664775": {
+   "leader": "jtwyslljy",
+   "asset": "42148968476161162523696055716389238410030360371566542404135149558372692664775",
+   "condition_id": "0xc6a02ae7c024bc8c7fe2c4a4e8c1cfbce91b769f60627aaa868dd5821a4ce0de",
+   "title": "National Bank Open: Marie Bouzkova vs Taylor Townsend",
+   "outcome": "Taylor Townsend",
+   "slug": "wta-bouzkov-townsen-2026-08-06",
+   "shares": 1997.59,
+   "cost": 794.336,
+   "max_shares": 1997.59,
+   "last_trade_ts": 1785951191
+  },
+  "jtwyslljy|41862166978611409683748567836452854814951448930951707578708668309625992742304": {
+   "leader": "jtwyslljy",
+   "asset": "41862166978611409683748567836452854814951448930951707578708668309625992742304",
+   "condition_id": "0xa252f479452110c8b97f59fd1d7a8677eea0e68f3b5b12cb24179c25d1c93c57",
+   "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
+   "outcome": "Sloane Stephens",
+   "slug": "wta-stephen-bencic-2026-08-06",
+   "shares": 34200.0,
+   "cost": 4433.019499440001,
+   "max_shares": 34200.0,
+   "last_trade_ts": 1785951279
   }
  },
  "positions": [
@@ -13187,24 +13232,6 @@
    "copy_delay_min": 4.7,
    "best_ask": 0.41,
    "ask_depth": 73042.7,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "112647965304530970363429785540393358483049241807482041008463507399540389010465",
-   "condition_id": "0x548e1d555cad168968bd5daeb665cb48fca9d1d3e50a835a1d03b4a67b4fedd6",
-   "title": "National Bank Open: Zizou Bergs vs Sebastian Baez",
-   "outcome": "Sebastian Baez",
-   "slug": "atp-bergs-baez-2026-08-06",
-   "opened_at": "2026-08-05T14:55:24.876254+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 2150.0,
-   "copy_delay_min": 6.1,
-   "best_ask": 0.43,
-   "ask_depth": 6671.67,
    "status": "open"
   },
   {
@@ -18670,6 +18697,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112647965304530970363429785540393358483049241807482041008463507399540389010465",
+   "condition_id": "0x548e1d555cad168968bd5daeb665cb48fca9d1d3e50a835a1d03b4a67b4fedd6",
+   "title": "National Bank Open: Zizou Bergs vs Sebastian Baez",
+   "outcome": "Sebastian Baez",
+   "slug": "atp-bergs-baez-2026-08-06",
+   "opened_at": "2026-08-05T14:55:24.876254+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 2150.0,
+   "copy_delay_min": 6.1,
+   "best_ask": 0.43,
+   "ask_depth": 6671.67,
+   "status": "lost",
+   "closed_at": "2026-08-05T17:40:37.811799+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -19983,8 +20032,28 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Daria Kasatkina vs Elena Rybakina AND National Bank Open: Panna Udvardy vs Naomi Osaka AND National Bank Open: Mirra Andreeva vs Karolina Pliskova AND National Bank Open: Alycia Parks vs Alexandra Eala",
    "outcome": ""
+  },
+  {
+   "at": "2026-08-05T17:40:36.663932+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T16:40:00+00:00",
+   "condition_id": "0xc6a02ae7c024bc8c7fe2c4a4e8c1cfbce91b769f60627aaa868dd5821a4ce0de",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Marie Bouzkova vs Taylor Townsend",
+   "outcome": "Taylor Townsend"
+  },
+  {
+   "at": "2026-08-05T17:40:36.855753+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T16:40:00+00:00",
+   "condition_id": "0xa252f479452110c8b97f59fd1d7a8677eea0e68f3b5b12cb24179c25d1c93c57",
+   "copy_delay_min": 5.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
+   "outcome": "Sloane Stephens"
   }
  ],
- "total_pnl": -501.5036999999996,
- "last_updated": "2026-08-05T17:05:21.930689+00:00"
+ "total_pnl": -601.5036999999995,
+ "last_updated": "2026-08-05T17:40:37.813965+00:00"
 }
