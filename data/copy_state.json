@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8998.496475,
  "last_seen": {
-  "jtwyslljy": 1785941735,
+  "jtwyslljy": 1785946695,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8615,6 +8615,20 @@
    "BUY",
    7999.99,
    1785941735
+  ],
+  [
+   "0xb63bf5eb22b2f77548d1a7bca946f4e0bc33a23b6e78ee6b8bb9e17559676e82",
+   "64054130466418200250166856483569626999067190339567416985931396074387593932468",
+   "BUY",
+   1000,
+   1785946427
+  ],
+  [
+   "0x61736ea4a1d7321f8ad8fab1a4497ddc493da1adb1bf00dc4e2341d131adca5f",
+   "1487914675499529815493680431816748890870906638985261457789890517442729345024",
+   "BUY",
+   3653.237866,
+   1785946695
   ]
  ],
  "leader_pos": {
@@ -13089,10 +13103,10 @@
    "title": "National Bank Open: Valentin Vacherot vs Mariano Navone",
    "outcome": "Mariano Navone",
    "slug": "atp-vachero-navone-2026-08-06",
-   "shares": 8000.0,
-   "cost": 3280.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1785941439
+   "shares": 9000.0,
+   "cost": 3640.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1785946427
   },
   "jtwyslljy|19345633779594895469809466519833157693324781949083958184301091156870205558084": {
    "leader": "jtwyslljy",
@@ -13117,6 +13131,18 @@
    "cost": 2239.9972000000002,
    "max_shares": 7999.99,
    "last_trade_ts": 1785941735
+  },
+  "jtwyslljy|1487914675499529815493680431816748890870906638985261457789890517442729345024": {
+   "leader": "jtwyslljy",
+   "asset": "1487914675499529815493680431816748890870906638985261457789890517442729345024",
+   "condition_id": "0x034a213ea91db1b4041e8215068314d1420000000000000000000000000000",
+   "title": "National Bank Open: Daria Kasatkina vs Elena Rybakina AND National Bank Open: Panna Udvardy vs Naomi Osaka AND National Bank Open: Mirra Andreeva vs Karolina Pliskova AND National Bank Open: Alycia Parks vs Alexandra Eala",
+   "outcome": "",
+   "slug": "",
+   "shares": 3653.237866,
+   "cost": 1954.5585598360692,
+   "max_shares": 3653.237866,
+   "last_trade_ts": 1785946695
   }
  },
  "positions": [
@@ -19938,8 +19964,16 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Gen.G"
+  },
+  {
+   "at": "2026-08-05T16:20:25.564455+00:00",
+   "reason": "no_book_or_extreme",
+   "ask": null,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Daria Kasatkina vs Elena Rybakina AND National Bank Open: Panna Udvardy vs Naomi Osaka AND National Bank Open: Mirra Andreeva vs Karolina Pliskova AND National Bank Open: Alycia Parks vs Alexandra Eala",
+   "outcome": ""
   }
  ],
  "total_pnl": -401.5036999999996,
- "last_updated": "2026-08-05T15:01:10.345671+00:00"
+ "last_updated": "2026-08-05T16:20:25.982577+00:00"
 }
