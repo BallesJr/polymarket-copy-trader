@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.496475,
  "last_seen": {
-  "jtwyslljy": 1785935802,
+  "jtwyslljy": 1785937226,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8559,6 +8559,20 @@
    "BUY",
    2862.39,
    1785935802
+  ],
+  [
+   "0x840f17741c7ad00a3f9eb012b9d5bb66d7e2297fd05073afb3d00520ac620ad5",
+   "100137337249464261034286401619533837139462389714835449558973917660836583919370",
+   "SELL",
+   2000,
+   1785937199
+  ],
+  [
+   "0x38b23c65dd7d5e449de2a14e1acd325554cab21eb37120e8d8bffe51cd23f1c4",
+   "100137337249464261034286401619533837139462389714835449558973917660836583919370",
+   "SELL",
+   5000,
+   1785937226
   ]
  ],
  "leader_pos": {
@@ -12997,10 +13011,10 @@
    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Gen.G",
    "slug": "lol-hle1-gen-2026-08-05",
-   "shares": 15586.085908,
-   "cost": 6837.3727990439165,
+   "shares": 8586.085908,
+   "cost": 1216.792899043916,
    "max_shares": 15586.085908,
-   "last_trade_ts": 1785935802
+   "last_trade_ts": 1785937226
   }
  },
  "positions": [
@@ -19736,8 +19750,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Gen.G"
+  },
+  {
+   "at": "2026-08-05T13:45:27.703218+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T11:00:00+00:00",
+   "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
+   "copy_delay_min": 5.0,
+   "leader": "jtwyslljy",
+   "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G"
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T13:20:31.611051+00:00"
+ "last_updated": "2026-08-05T13:45:28.266827+00:00"
 }
