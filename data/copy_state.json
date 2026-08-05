@@ -13166,24 +13166,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "29157307478711328163255012593661568193070862576476585623810735042881640216835",
-   "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
-   "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "Hanwha Life Esports",
-   "slug": "lol-hle1-gen-2026-08-05",
-   "opened_at": "2026-08-05T10:45:30.353265+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 3825.0,
-   "copy_delay_min": 7.3,
-   "best_ask": 0.51,
-   "ask_depth": 97154.6,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "64054130466418200250166856483569626999067190339567416985931396074387593932468",
    "condition_id": "0x8829c327e1a8115ae11f32d17a2041a4fa9983264e389a4c1cd0c6b92149888a",
    "title": "National Bank Open: Valentin Vacherot vs Mariano Navone",
@@ -18659,6 +18641,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29157307478711328163255012593661568193070862576476585623810735042881640216835",
+   "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
+   "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-hle1-gen-2026-08-05",
+   "opened_at": "2026-08-05T10:45:30.353265+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 3825.0,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.51,
+   "ask_depth": 97154.6,
+   "status": "lost",
+   "closed_at": "2026-08-05T16:35:22.436827+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -19974,6 +19978,6 @@
    "outcome": ""
   }
  ],
- "total_pnl": -401.5036999999996,
- "last_updated": "2026-08-05T16:20:25.982577+00:00"
+ "total_pnl": -501.5036999999996,
+ "last_updated": "2026-08-05T16:35:22.438666+00:00"
 }
