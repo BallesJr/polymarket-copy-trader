@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.496475,
  "last_seen": {
-  "jtwyslljy": 1785926291,
+  "jtwyslljy": 1785929915,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8538,6 +8538,13 @@
    "BUY",
    7500,
    1785926291
+  ],
+  [
+   "0xa288d3e20efbe54f36c747db1cdd15a873ac029e5c7c33958d70e372a9575dee",
+   "100137337249464261034286401619533837139462389714835449558973917660836583919370",
+   "BUY",
+   12785.695908,
+   1785929915
   ]
  ],
  "leader_pos": {
@@ -12968,6 +12975,18 @@
    "cost": 3825.0,
    "max_shares": 7500.0,
    "last_trade_ts": 1785926291
+  },
+  "jtwyslljy|100137337249464261034286401619533837139462389714835449558973917660836583919370": {
+   "leader": "jtwyslljy",
+   "asset": "100137337249464261034286401619533837139462389714835449558973917660836583919370",
+   "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
+   "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G",
+   "slug": "lol-hle1-gen-2026-08-05",
+   "shares": 12785.695908,
+   "cost": 5378.689999043917,
+   "max_shares": 12785.695908,
+   "last_trade_ts": 1785929915
   }
  },
  "positions": [
@@ -19673,8 +19692,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-08-05T11:45:25.827443+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T11:00:00+00:00",
+   "condition_id": "0xc1714a28decf72cdfa86c4c7421c3002bcfed119f79ad527e5cc96e833738e1b",
+   "copy_delay_min": 6.8,
+   "leader": "jtwyslljy",
+   "title": "LoL: Hanwha Life Esports vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Gen.G"
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T10:45:30.986666+00:00"
+ "last_updated": "2026-08-05T11:45:26.317930+00:00"
 }
