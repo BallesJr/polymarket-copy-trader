@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9598.496475,
+ "bankroll": 9498.496475,
  "last_seen": {
-  "jtwyslljy": 1785896253,
+  "jtwyslljy": 1785910965,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8475,6 +8475,13 @@
    "BUY",
    6999.99,
    1785896253
+  ],
+  [
+   "0xa83c1b5ee7a0af3c9a13fe6b961de215133b629762cb2441bc085107e2bd67e2",
+   "15469460331352019135823646480486919090388437520615806921617791717165460861234",
+   "BUY",
+   5000,
+   1785910965
   ]
  ],
  "leader_pos": {
@@ -12869,6 +12876,18 @@
    "cost": 2376.1484002974357,
    "max_shares": 6999.99,
    "last_trade_ts": 1785896253
+  },
+  "jtwyslljy|15469460331352019135823646480486919090388437520615806921617791717165460861234": {
+   "leader": "jtwyslljy",
+   "asset": "15469460331352019135823646480486919090388437520615806921617791717165460861234",
+   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
+   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-bro2-ns-2026-08-05",
+   "shares": 5000.0,
+   "cost": 3500.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1785910965
   }
  },
  "positions": [
@@ -12888,6 +12907,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "15469460331352019135823646480486919090388437520615806921617791717165460861234",
+   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
+   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-bro2-ns-2026-08-05",
+   "opened_at": "2026-08-05T06:30:42.545602+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 3500.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.7,
+   "ask_depth": 41015.42,
    "status": "open"
   }
  ],
@@ -19531,5 +19568,5 @@
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T02:25:30.733198+00:00"
+ "last_updated": "2026-08-05T06:30:43.248282+00:00"
 }
