@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8998.496475,
  "last_seen": {
-  "jtwyslljy": 1785951279,
+  "jtwyslljy": 1785951909,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8657,6 +8657,20 @@
    "BUY",
    34200,
    1785951279
+  ],
+  [
+   "0x390fb6501b6406b111ec0ac15a66bf3eacd42741117c42035d4f40653052ba0b",
+   "42148968476161162523696055716389238410030360371566542404135149558372692664775",
+   "BUY",
+   1802.28,
+   1785951713
+  ],
+  [
+   "0x2ec7bd8c8dd713cb134d3dd4afe41fdfc65f48b29f51a3f5a2dede20b42939eb",
+   "41862166978611409683748567836452854814951448930951707578708668309625992742304",
+   "BUY",
+   10800,
+   1785951909
   ]
  ],
  "leader_pos": {
@@ -13179,10 +13193,10 @@
    "title": "National Bank Open: Marie Bouzkova vs Taylor Townsend",
    "outcome": "Taylor Townsend",
    "slug": "wta-bouzkov-townsen-2026-08-06",
-   "shares": 1997.59,
-   "cost": 794.336,
-   "max_shares": 1997.59,
-   "last_trade_ts": 1785951191
+   "shares": 3799.87,
+   "cost": 1839.6584,
+   "max_shares": 3799.87,
+   "last_trade_ts": 1785951713
   },
   "jtwyslljy|41862166978611409683748567836452854814951448930951707578708668309625992742304": {
    "leader": "jtwyslljy",
@@ -13191,10 +13205,10 @@
    "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
    "outcome": "Sloane Stephens",
    "slug": "wta-stephen-bencic-2026-08-06",
-   "shares": 34200.0,
-   "cost": 4433.019499440001,
-   "max_shares": 34200.0,
-   "last_trade_ts": 1785951279
+   "shares": 45000.0,
+   "cost": 5189.019499440001,
+   "max_shares": 45000.0,
+   "last_trade_ts": 1785951909
   }
  },
  "positions": [
@@ -20052,8 +20066,28 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
    "outcome": "Sloane Stephens"
+  },
+  {
+   "at": "2026-08-05T17:50:35.803148+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T16:40:00+00:00",
+   "condition_id": "0xc6a02ae7c024bc8c7fe2c4a4e8c1cfbce91b769f60627aaa868dd5821a4ce0de",
+   "copy_delay_min": 8.7,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Marie Bouzkova vs Taylor Townsend",
+   "outcome": "Taylor Townsend"
+  },
+  {
+   "at": "2026-08-05T17:50:35.953536+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T16:40:00+00:00",
+   "condition_id": "0xa252f479452110c8b97f59fd1d7a8677eea0e68f3b5b12cb24179c25d1c93c57",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
+   "outcome": "Sloane Stephens"
   }
  ],
  "total_pnl": -601.5036999999995,
- "last_updated": "2026-08-05T17:40:37.813965+00:00"
+ "last_updated": "2026-08-05T17:50:36.801993+00:00"
 }
