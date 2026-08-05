@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9198.496475,
+ "bankroll": 8998.496475,
  "last_seen": {
-  "jtwyslljy": 1785941439,
+  "jtwyslljy": 1785941735,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8601,6 +8601,20 @@
    "BUY",
    8000,
    1785941439
+  ],
+  [
+   "0x5d625fdf608a7349ac9bb93089ab3ec227a3ff2b97d4daced885e813aa74c6fa",
+   "19345633779594895469809466519833157693324781949083958184301091156870205558084",
+   "BUY",
+   7000,
+   1785941658
+  ],
+  [
+   "0x16c9b2c759a9c2fc4bc9b93e16887e4f3c54c598f030c2d07e50764e5add4588",
+   "65606343744060638257150094359242229652112707171946723671599119736397781492504",
+   "BUY",
+   7999.99,
+   1785941735
   ]
  ],
  "leader_pos": {
@@ -13079,6 +13093,30 @@
    "cost": 3280.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1785941439
+  },
+  "jtwyslljy|19345633779594895469809466519833157693324781949083958184301091156870205558084": {
+   "leader": "jtwyslljy",
+   "asset": "19345633779594895469809466519833157693324781949083958184301091156870205558084",
+   "condition_id": "0x6dd26ff4cf53e7799bc5474b800403fee98b1776967ec69e9dea535d3b8dec5a",
+   "title": "National Bank Open: Karen Khachanov vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-khachan-atmane-2026-08-06",
+   "shares": 7000.0,
+   "cost": 3150.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1785941658
+  },
+  "jtwyslljy|65606343744060638257150094359242229652112707171946723671599119736397781492504": {
+   "leader": "jtwyslljy",
+   "asset": "65606343744060638257150094359242229652112707171946723671599119736397781492504",
+   "condition_id": "0xa1b31bac0ea53770e042bd436afa607b8c5234246c8923feb26f242725ba811a",
+   "title": "National Bank Open: Learner Tien vs Gael Monfils",
+   "outcome": "Gael Monfils",
+   "slug": "atp-tien-monfils-2026-08-05",
+   "shares": 7999.99,
+   "cost": 2239.9972000000002,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1785941735
   }
  },
  "positions": [
@@ -13152,6 +13190,42 @@
    "copy_delay_min": 6.1,
    "best_ask": 0.43,
    "ask_depth": 6671.67,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65606343744060638257150094359242229652112707171946723671599119736397781492504",
+   "condition_id": "0xa1b31bac0ea53770e042bd436afa607b8c5234246c8923feb26f242725ba811a",
+   "title": "National Bank Open: Learner Tien vs Gael Monfils",
+   "outcome": "Gael Monfils",
+   "slug": "atp-tien-monfils-2026-08-05",
+   "opened_at": "2026-08-05T15:01:09.362838+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 2240.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.28,
+   "ask_depth": 1839.29,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19345633779594895469809466519833157693324781949083958184301091156870205558084",
+   "condition_id": "0x6dd26ff4cf53e7799bc5474b800403fee98b1776967ec69e9dea535d3b8dec5a",
+   "title": "National Bank Open: Karen Khachanov vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-khachan-atmane-2026-08-06",
+   "opened_at": "2026-08-05T15:01:09.581929+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 3150.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.45,
+   "ask_depth": 6814.02,
    "status": "open"
   }
  ],
@@ -19867,5 +19941,5 @@
   }
  ],
  "total_pnl": -401.5036999999996,
- "last_updated": "2026-08-05T14:55:25.558848+00:00"
+ "last_updated": "2026-08-05T15:01:10.345671+00:00"
 }
