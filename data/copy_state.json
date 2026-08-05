@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9498.496475,
  "last_seen": {
-  "jtwyslljy": 1785910965,
+  "jtwyslljy": 1785916631,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8482,6 +8482,13 @@
    "BUY",
    5000,
    1785910965
+  ],
+  [
+   "0x054b7601ae98cf555e80abb28c4d72450f2417373230e208bfa353a438715e01",
+   "82327411602169680631978699532515075665906877021962245761559172873965886356042",
+   "BUY",
+   10959.75,
+   1785916631
   ]
  ],
  "leader_pos": {
@@ -12888,6 +12895,18 @@
    "cost": 3500.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1785910965
+  },
+  "jtwyslljy|82327411602169680631978699532515075665906877021962245761559172873965886356042": {
+   "leader": "jtwyslljy",
+   "asset": "82327411602169680631978699532515075665906877021962245761559172873965886356042",
+   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
+   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "HANJIN BRION",
+   "slug": "lol-bro2-ns-2026-08-05",
+   "shares": 10959.75,
+   "cost": 3287.9249999999997,
+   "max_shares": 10959.75,
+   "last_trade_ts": 1785916631
   }
  },
  "positions": [
@@ -19565,8 +19584,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Flavio Cobolli vs Yannick Hanfmann",
    "outcome": "Flavio Cobolli"
+  },
+  {
+   "at": "2026-08-05T08:00:41.883053+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-05T08:00:00+00:00",
+   "condition_id": "0x0b1c0b22582e3189e0c2a1b3f684192352cacd19211095abcc8da3a50dfee528",
+   "copy_delay_min": 3.5,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T06:30:43.248282+00:00"
+ "last_updated": "2026-08-05T08:00:42.451105+00:00"
 }
