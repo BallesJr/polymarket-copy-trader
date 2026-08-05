@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9498.496475,
  "last_seen": {
-  "jtwyslljy": 1785919737,
+  "jtwyslljy": 1785919781,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8496,6 +8496,13 @@
    "BUY",
    8000,
    1785919737
+  ],
+  [
+   "0xa00ce48f5da78f99dcafc808466491bad675ca1ad78fc902fee47dc0fb486d32",
+   "15469460331352019135823646480486919090388437520615806921617791717165460861234",
+   "BUY",
+   5000,
+   1785919781
   ]
  ],
  "leader_pos": {
@@ -12898,10 +12905,10 @@
    "title": "LoL: HANJIN BRION vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "Nongshim Red Force",
    "slug": "lol-bro2-ns-2026-08-05",
-   "shares": 13000.0,
-   "cost": 6780.0,
-   "max_shares": 13000.0,
-   "last_trade_ts": 1785919737
+   "shares": 18000.0,
+   "cost": 8830.0,
+   "max_shares": 18000.0,
+   "last_trade_ts": 1785919781
   },
   "jtwyslljy|82327411602169680631978699532515075665906877021962245761559172873965886356042": {
    "leader": "jtwyslljy",
@@ -19604,5 +19611,5 @@
   }
  ],
  "total_pnl": -301.5036999999996,
- "last_updated": "2026-08-05T08:49:15.758841+00:00"
+ "last_updated": "2026-08-05T08:55:26.386244+00:00"
 }
