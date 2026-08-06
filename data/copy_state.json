@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9337.323667,
+ "bankroll": 9515.895067000001,
  "last_seen": {
   "jtwyslljy": 1786043769,
   "0x53757615de": 1784324596
@@ -13390,42 +13390,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "16008713183951512536105625976879315892369459390643735520150262354527437021500",
-   "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
-   "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-kalinsk-shnaide-2026-08-06",
-   "opened_at": "2026-08-06T16:32:01.629831+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 2016.0,
-   "copy_delay_min": 22.3,
-   "best_ask": 0.56,
-   "ask_depth": 31109.91,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "58480913486399007829866403033113906545539237907854728716636115169157172024986",
-   "condition_id": "0xe737e4c55073314ed0a9eca13e88a03a8364ace186af9c408398be37e01ed284",
-   "title": "National Bank Open: Luciano Darderi vs Juncheng Shang",
-   "outcome": "Juncheng Shang",
-   "slug": "atp-darderi-shang-2026-08-06",
-   "opened_at": "2026-08-06T16:32:01.753229+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.52,
-   "leader_cost": 3120.0,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.53,
-   "ask_depth": 40325.82,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "21911291421498539691376985293773403285766700061623720622009417634138195714221",
    "condition_id": "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389",
    "title": "National Bank Open: Jessica Pegula vs Kamilla Rakhimova",
@@ -18957,6 +18921,50 @@
    "exit_price": 0.4836,
    "pnl": 72.7026,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16008713183951512536105625976879315892369459390643735520150262354527437021500",
+   "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
+   "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-kalinsk-shnaide-2026-08-06",
+   "opened_at": "2026-08-06T16:32:01.629831+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 2016.0,
+   "copy_delay_min": 22.3,
+   "best_ask": 0.56,
+   "ask_depth": 31109.91,
+   "status": "won",
+   "closed_at": "2026-08-06T21:02:45.277613+00:00",
+   "exit_price": 1.0,
+   "pnl": 78.5714,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58480913486399007829866403033113906545539237907854728716636115169157172024986",
+   "condition_id": "0xe737e4c55073314ed0a9eca13e88a03a8364ace186af9c408398be37e01ed284",
+   "title": "National Bank Open: Luciano Darderi vs Juncheng Shang",
+   "outcome": "Juncheng Shang",
+   "slug": "atp-darderi-shang-2026-08-06",
+   "opened_at": "2026-08-06T16:32:01.753229+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 3120.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.53,
+   "ask_depth": 40325.82,
+   "status": "lost",
+   "closed_at": "2026-08-06T21:02:45.678938+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20332,6 +20340,6 @@
    "outcome": "Mariano Navone"
   }
  ],
- "total_pnl": -262.6764999999995,
- "last_updated": "2026-08-06T19:20:25.536198+00:00"
+ "total_pnl": -284.10509999999954,
+ "last_updated": "2026-08-06T21:02:45.680458+00:00"
 }
