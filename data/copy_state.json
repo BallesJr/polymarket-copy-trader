@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9637.323667,
+ "bankroll": 9437.323667,
  "last_seen": {
-  "jtwyslljy": 1785984090,
+  "jtwyslljy": 1786033460,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8706,6 +8706,34 @@
    "SELL",
    999,
    1785984090
+  ],
+  [
+   "0x8b267804acbccfef38ce6a8ede7a041302ce24cdf3d013ef4297d1010e696eeb",
+   "92284952935396240849022132515769440173486258029276169350922381778238758754454",
+   "BUY",
+   999.99,
+   1786032531
+  ],
+  [
+   "0x428637480f13b8c8f4f8fb846c0303d4d63f6b818bae6a44207916598f5fa560",
+   "16008713183951512536105625976879315892369459390643735520150262354527437021500",
+   "BUY",
+   3600,
+   1786032584
+  ],
+  [
+   "0xebf7401c91ae7d42fb07d8727d9c2786fcb0e26b51e7da95eaeef7f39c572bb8",
+   "92284952935396240849022132515769440173486258029276169350922381778238758754454",
+   "BUY",
+   3000,
+   1786032713
+  ],
+  [
+   "0xbe10b0d55cf9ba566f1bce6e023868c8fe4278984c740eaa634696325e98986a",
+   "58480913486399007829866403033113906545539237907854728716636115169157172024986",
+   "BUY",
+   6000,
+   1786033460
   ]
  ],
  "leader_pos": {
@@ -13244,6 +13272,42 @@
    "cost": 5189.019499440001,
    "max_shares": 45000.0,
    "last_trade_ts": 1785951909
+  },
+  "jtwyslljy|92284952935396240849022132515769440173486258029276169350922381778238758754454": {
+   "leader": "jtwyslljy",
+   "asset": "92284952935396240849022132515769440173486258029276169350922381778238758754454",
+   "condition_id": "0xc53908c9725eda4fd2d249fd5ae0cdca01a4929273da3a70fa4621e1614fa055",
+   "title": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
+   "outcome": "Talia Gibson",
+   "slug": "wta-gibson-alexand-2026-08-05",
+   "shares": 3999.99,
+   "cost": 2309.9934000000003,
+   "max_shares": 3999.99,
+   "last_trade_ts": 1786032713
+  },
+  "jtwyslljy|16008713183951512536105625976879315892369459390643735520150262354527437021500": {
+   "leader": "jtwyslljy",
+   "asset": "16008713183951512536105625976879315892369459390643735520150262354527437021500",
+   "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
+   "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-kalinsk-shnaide-2026-08-06",
+   "shares": 3600.0,
+   "cost": 2016.0000000000002,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1786032584
+  },
+  "jtwyslljy|58480913486399007829866403033113906545539237907854728716636115169157172024986": {
+   "leader": "jtwyslljy",
+   "asset": "58480913486399007829866403033113906545539237907854728716636115169157172024986",
+   "condition_id": "0xe737e4c55073314ed0a9eca13e88a03a8364ace186af9c408398be37e01ed284",
+   "title": "National Bank Open: Luciano Darderi vs Juncheng Shang",
+   "outcome": "Juncheng Shang",
+   "slug": "atp-darderi-shang-2026-08-06",
+   "shares": 6000.0,
+   "cost": 3120.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1786033460
   }
  },
  "positions": [
@@ -13263,6 +13327,42 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16008713183951512536105625976879315892369459390643735520150262354527437021500",
+   "condition_id": "0x64f6fafd9aeb085e22110bbad5cbee98271ed962158d95e468dce9f0f7ffb49f",
+   "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-kalinsk-shnaide-2026-08-06",
+   "opened_at": "2026-08-06T16:32:01.629831+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 2016.0,
+   "copy_delay_min": 22.3,
+   "best_ask": 0.56,
+   "ask_depth": 31109.91,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58480913486399007829866403033113906545539237907854728716636115169157172024986",
+   "condition_id": "0xe737e4c55073314ed0a9eca13e88a03a8364ace186af9c408398be37e01ed284",
+   "title": "National Bank Open: Luciano Darderi vs Juncheng Shang",
+   "outcome": "Juncheng Shang",
+   "slug": "atp-darderi-shang-2026-08-06",
+   "opened_at": "2026-08-06T16:32:01.753229+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 3120.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.53,
+   "ask_depth": 40325.82,
    "status": "open"
   }
  ],
@@ -20133,8 +20233,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Sloane Stephens vs Belinda Bencic",
    "outcome": "Sloane Stephens"
+  },
+  {
+   "at": "2026-08-06T16:32:01.880255+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-06T15:00:00+00:00",
+   "condition_id": "0xc53908c9725eda4fd2d249fd5ae0cdca01a4929273da3a70fa4621e1614fa055",
+   "copy_delay_min": 20.1,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
+   "outcome": "Talia Gibson"
   }
  ],
  "total_pnl": -262.6764999999995,
- "last_updated": "2026-08-06T02:45:35.820186+00:00"
+ "last_updated": "2026-08-06T16:32:02.435557+00:00"
 }
