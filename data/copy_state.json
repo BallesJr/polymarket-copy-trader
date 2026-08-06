@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9242.398875,
+ "bankroll": 9464.621075000001,
  "last_seen": {
   "jtwyslljy": 1785951909,
   "0x53757615de": 1784324596
@@ -13247,24 +13247,6 @@
    "best_ask": 0.28,
    "ask_depth": 1839.29,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "19345633779594895469809466519833157693324781949083958184301091156870205558084",
-   "condition_id": "0x6dd26ff4cf53e7799bc5474b800403fee98b1776967ec69e9dea535d3b8dec5a",
-   "title": "National Bank Open: Karen Khachanov vs Terence Atmane",
-   "outcome": "Terence Atmane",
-   "slug": "atp-khachan-atmane-2026-08-06",
-   "opened_at": "2026-08-05T15:01:09.581929+00:00",
-   "entry_price": 0.45,
-   "shares": 222.2222,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 3150.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.45,
-   "ask_depth": 6814.02,
-   "status": "open"
   }
  ],
  "closed": [
@@ -18737,6 +18719,28 @@
    "exit_price": 1.0,
    "pnl": 143.9024,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19345633779594895469809466519833157693324781949083958184301091156870205558084",
+   "condition_id": "0x6dd26ff4cf53e7799bc5474b800403fee98b1776967ec69e9dea535d3b8dec5a",
+   "title": "National Bank Open: Karen Khachanov vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-khachan-atmane-2026-08-06",
+   "opened_at": "2026-08-05T15:01:09.581929+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 3150.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.45,
+   "ask_depth": 6814.02,
+   "status": "won",
+   "closed_at": "2026-08-06T00:45:24.206096+00:00",
+   "exit_price": 1.0,
+   "pnl": 122.2222,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20092,6 +20096,6 @@
    "outcome": "Sloane Stephens"
   }
  ],
- "total_pnl": -457.6012999999995,
- "last_updated": "2026-08-05T17:55:21.400475+00:00"
+ "total_pnl": -335.37909999999954,
+ "last_updated": "2026-08-06T00:45:24.207520+00:00"
 }
