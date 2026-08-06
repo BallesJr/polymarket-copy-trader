@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9437.323667,
+ "bankroll": 9337.323667,
  "last_seen": {
-  "jtwyslljy": 1786034262,
+  "jtwyslljy": 1786036776,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8741,6 +8741,27 @@
    "BUY",
    999.99,
    1786034262
+  ],
+  [
+   "0x6458dc40d81e8dc9f492c2ac1dfbf274ef25a654704f00f2abee3f1ece4c93d5",
+   "21911291421498539691376985293773403285766700061623720622009417634138195714221",
+   "BUY",
+   12325.33,
+   1786036143
+  ],
+  [
+   "0x628630557434b8422c1647c7a1abab2c1b9798e5678e31e65ae9dbba8ef22580",
+   "16008713183951512536105625976879315892369459390643735520150262354527437021500",
+   "BUY",
+   3000,
+   1786036151
+  ],
+  [
+   "0x18e833af7c654a42f5a25b23a097fbb9deca796f9a5051ec11a0aad7da9004e4",
+   "720611727364361673183537800875435193483745500233125366521138603070271533239",
+   "BUY",
+   8373.08,
+   1786036776
   ]
  ],
  "leader_pos": {
@@ -13299,10 +13320,10 @@
    "title": "National Bank Open: Anna Kalinskaya vs Diana Shnaider",
    "outcome": "Diana Shnaider",
    "slug": "wta-kalinsk-shnaide-2026-08-06",
-   "shares": 3600.0,
-   "cost": 2016.0000000000002,
-   "max_shares": 3600.0,
-   "last_trade_ts": 1786032584
+   "shares": 6600.0,
+   "cost": 3696.0000000000005,
+   "max_shares": 6600.0,
+   "last_trade_ts": 1786036151
   },
   "jtwyslljy|58480913486399007829866403033113906545539237907854728716636115169157172024986": {
    "leader": "jtwyslljy",
@@ -13315,6 +13336,30 @@
    "cost": 3659.9946,
    "max_shares": 6999.99,
    "last_trade_ts": 1786034262
+  },
+  "jtwyslljy|21911291421498539691376985293773403285766700061623720622009417634138195714221": {
+   "leader": "jtwyslljy",
+   "asset": "21911291421498539691376985293773403285766700061623720622009417634138195714221",
+   "condition_id": "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389",
+   "title": "National Bank Open: Jessica Pegula vs Kamilla Rakhimova",
+   "outcome": "Kamilla Rakhimova",
+   "slug": "wta-pegula-rakhimo-2026-08-06",
+   "shares": 12325.33,
+   "cost": 1355.7863,
+   "max_shares": 12325.33,
+   "last_trade_ts": 1786036143
+  },
+  "jtwyslljy|720611727364361673183537800875435193483745500233125366521138603070271533239": {
+   "leader": "jtwyslljy",
+   "asset": "720611727364361673183537800875435193483745500233125366521138603070271533239",
+   "condition_id": "0x9753219edf8840b31672eed4564b30bc94dcec52664011003ba174504bfecea5",
+   "title": "National Bank Open: Mariano Navone vs Arthur Fils",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-fils-2026-08-06",
+   "shares": 8373.08,
+   "cost": 2009.5392,
+   "max_shares": 8373.08,
+   "last_trade_ts": 1786036776
   }
  },
  "positions": [
@@ -13370,6 +13415,24 @@
    "copy_delay_min": 7.7,
    "best_ask": 0.53,
    "ask_depth": 40325.82,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21911291421498539691376985293773403285766700061623720622009417634138195714221",
+   "condition_id": "0xc3d8d1f391212ec295be1dcafe5ffbe6f8329bdcbf1026f6fe21b8917ca20389",
+   "title": "National Bank Open: Jessica Pegula vs Kamilla Rakhimova",
+   "outcome": "Kamilla Rakhimova",
+   "slug": "wta-pegula-rakhimo-2026-08-06",
+   "opened_at": "2026-08-06T17:32:28.031390+00:00",
+   "entry_price": 0.12,
+   "shares": 833.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.11,
+   "leader_cost": 1355.79,
+   "copy_delay_min": 23.4,
+   "best_ask": 0.12,
+   "ask_depth": 30775.06,
    "status": "open"
   }
  ],
@@ -20250,8 +20313,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Talia Gibson vs Ekaterina Alexandrova",
    "outcome": "Talia Gibson"
+  },
+  {
+   "at": "2026-08-06T17:32:28.220662+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-06T16:40:00+00:00",
+   "condition_id": "0x9753219edf8840b31672eed4564b30bc94dcec52664011003ba174504bfecea5",
+   "copy_delay_min": 12.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Mariano Navone vs Arthur Fils",
+   "outcome": "Mariano Navone"
   }
  ],
  "total_pnl": -262.6764999999995,
- "last_updated": "2026-08-06T16:41:52.691928+00:00"
+ "last_updated": "2026-08-06T17:32:28.945410+00:00"
 }
