@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9337.323667,
  "last_seen": {
-  "jtwyslljy": 1786036776,
+  "jtwyslljy": 1786043769,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8762,6 +8762,13 @@
    "BUY",
    8373.08,
    1786036776
+  ],
+  [
+   "0x30d2119221aee599f2373f2492b7a7341e7418f5ad7ea7cae4c336dfdbc6fedf",
+   "58480913486399007829866403033113906545539237907854728716636115169157172024986",
+   "BUY",
+   8000,
+   1786043769
   ]
  ],
  "leader_pos": {
@@ -13332,10 +13339,10 @@
    "title": "National Bank Open: Luciano Darderi vs Juncheng Shang",
    "outcome": "Juncheng Shang",
    "slug": "atp-darderi-shang-2026-08-06",
-   "shares": 6999.99,
-   "cost": 3659.9946,
-   "max_shares": 6999.99,
-   "last_trade_ts": 1786034262
+   "shares": 14999.99,
+   "cost": 3979.9946,
+   "max_shares": 14999.99,
+   "last_trade_ts": 1786043769
   },
   "jtwyslljy|21911291421498539691376985293773403285766700061623720622009417634138195714221": {
    "leader": "jtwyslljy",
@@ -20326,5 +20333,5 @@
   }
  ],
  "total_pnl": -262.6764999999995,
- "last_updated": "2026-08-06T17:32:28.945410+00:00"
+ "last_updated": "2026-08-06T19:20:25.536198+00:00"
 }
