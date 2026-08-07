@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786126701,
+  "jtwyslljy": 1786126944,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8902,6 +8902,20 @@
    "SELL",
    2000,
    1786126701
+  ],
+  [
+   "0xcfde928481fe03f4972ced1f03d9691fd6b6ea7a021ecd39ba52732dd4163795",
+   "55203598357363994663133477990887366918919187552454998941868238492266285935715",
+   "SELL",
+   2500,
+   1786126786
+  ],
+  [
+   "0xb77bdb9cec25cac7e09ad68916882a9dd2436be29758eaf82251fc072dd10c1d",
+   "44319990099444878254794526482281983956654208041873517940601719945887110693270",
+   "BUY",
+   258,
+   1786126944
   ]
  ],
  "leader_pos": {
@@ -13616,10 +13630,22 @@
    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
    "outcome": "Tallon Griekspoor",
    "slug": "atp-grieksp-arnaldi-2026-08-07",
-   "shares": 10000.0,
-   "cost": 1350.0,
+   "shares": 7500.0,
+   "cost": -625.0,
    "max_shares": 20000.0,
-   "last_trade_ts": 1786126701
+   "last_trade_ts": 1786126786
+  },
+  "jtwyslljy|44319990099444878254794526482281983956654208041873517940601719945887110693270": {
+   "leader": "jtwyslljy",
+   "asset": "44319990099444878254794526482281983956654208041873517940601719945887110693270",
+   "condition_id": "0x328a0d56ad08af70ae82a7b677bd057bb4eeafffad91d460afd4ae3b619549dc",
+   "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-andreev-fernand-2026-08-08",
+   "shares": 258.0,
+   "cost": 54.18,
+   "max_shares": 258.0,
+   "last_trade_ts": 1786126944
   }
  },
  "positions": [
@@ -20772,5 +20798,5 @@
   }
  ],
  "total_pnl": -213.83479999999955,
- "last_updated": "2026-08-07T18:20:34.500499+00:00"
+ "last_updated": "2026-08-07T18:25:24.419325+00:00"
 }
