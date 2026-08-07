@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9515.895067000001,
+ "bankroll": 9415.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786110076,
+  "jtwyslljy": 1786113418,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8811,6 +8811,13 @@
    "BUY",
    10000,
    1786110076
+  ],
+  [
+   "0x8f4cd32c5e1e17e1e5dcc971d86646ace9eea4b910a322453887613ffac2e155",
+   "55427396103246600123699961124732278110227239297601236149630497429326165637087",
+   "BUY",
+   12000,
+   1786113418
   ]
  ],
  "leader_pos": {
@@ -13445,6 +13452,18 @@
    "cost": 7400.0,
    "max_shares": 15000.0,
    "last_trade_ts": 1786110076
+  },
+  "jtwyslljy|55427396103246600123699961124732278110227239297601236149630497429326165637087": {
+   "leader": "jtwyslljy",
+   "asset": "55427396103246600123699961124732278110227239297601236149630497429326165637087",
+   "condition_id": "0xaac5fa1525ed58f10a19671bfbb74a4671933a4ca8c7c807c59812804f092fd5",
+   "title": "National Bank Open: Iva Jovic vs Alina Korneeva",
+   "outcome": "Alina Korneeva",
+   "slug": "wta-jovic-korneev-2026-08-08",
+   "shares": 12000.0,
+   "cost": 4440.0,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1786113418
   }
  },
  "positions": [
@@ -13464,6 +13483,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55427396103246600123699961124732278110227239297601236149630497429326165637087",
+   "condition_id": "0xaac5fa1525ed58f10a19671bfbb74a4671933a4ca8c7c807c59812804f092fd5",
+   "title": "National Bank Open: Iva Jovic vs Alina Korneeva",
+   "outcome": "Alina Korneeva",
+   "slug": "wta-jovic-korneev-2026-08-08",
+   "opened_at": "2026-08-07T14:40:33.001849+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 4440.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.37,
+   "ask_depth": 82860.26,
    "status": "open"
   }
  ],
@@ -20483,5 +20520,5 @@
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T13:45:27.435486+00:00"
+ "last_updated": "2026-08-07T14:40:33.729273+00:00"
 }
