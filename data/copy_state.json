@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9515.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786107255,
+  "jtwyslljy": 1786110076,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8804,6 +8804,13 @@
    "BUY",
    5000,
    1786107255
+  ],
+  [
+   "0x0b6cedf1f7ca5297d9a224b95e4383f18eca33c8eaf398f76431612538b1da55",
+   "5771873010156235629414496169298306261816804761699629522506844964407152529192",
+   "BUY",
+   10000,
+   1786110076
   ]
  ],
  "leader_pos": {
@@ -13434,10 +13441,10 @@
    "title": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming",
    "slug": "lol-blg-tes-2026-08-07",
-   "shares": 5000.0,
-   "cost": 3500.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1786107255
+   "shares": 15000.0,
+   "cost": 7400.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1786110076
   }
  },
  "positions": [
@@ -20463,8 +20470,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-08-07T13:45:26.930406+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-07T12:30:00+00:00",
+   "condition_id": "0x3773cbfc174f847670c2d98e54ce030d022d7b057f476c2cffb0a52ba09dd0f4",
+   "copy_delay_min": 4.2,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs Top Esports (BO3) - LPL Group Ascend",
+   "outcome": "Bilibili Gaming"
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T13:00:46.296525+00:00"
+ "last_updated": "2026-08-07T13:45:27.435486+00:00"
 }
