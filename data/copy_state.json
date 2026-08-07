@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9515.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786100653,
+  "jtwyslljy": 1786102302,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8776,6 +8776,13 @@
    "BUY",
    7999.99,
    1786100653
+  ],
+  [
+   "0x86e89eb2db7bec230b05ee8d08a5ec7c5cd4c678a82abf89d7be484eed66f9b5",
+   "56790676400246502937766138104413774432138989237156118514101349622945997899953",
+   "BUY",
+   3512.56,
+   1786102302
   ]
  ],
  "leader_pos": {
@@ -13382,10 +13389,10 @@
    "title": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "BNK FEARX",
    "slug": "lol-fox1-bro2-2026-08-07",
-   "shares": 7999.99,
-   "cost": 2719.9966,
-   "max_shares": 7999.99,
-   "last_trade_ts": 1786100653
+   "shares": 11512.55,
+   "cost": 3243.752000041136,
+   "max_shares": 11512.55,
+   "last_trade_ts": 1786102302
   }
  },
  "positions": [
@@ -20371,8 +20378,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "BNK FEARX"
+  },
+  {
+   "at": "2026-08-07T11:35:19.589240+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-07T10:00:00+00:00",
+   "condition_id": "0x6972e2071fbdaa77ce4ea6a9eb33e23e8df55b3963afe57b386b8fa8b67f1a8b",
+   "copy_delay_min": 3.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T11:05:26.015780+00:00"
+ "last_updated": "2026-08-07T11:35:20.001382+00:00"
 }
