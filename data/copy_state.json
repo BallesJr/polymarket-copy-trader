@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9315.895067000001,
+ "bankroll": 9115.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786119703,
+  "jtwyslljy": 1786119724,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8825,6 +8825,20 @@
    "BUY",
    9000,
    1786119703
+  ],
+  [
+   "0x0c551db09ca89687db0e29eea0882de1dfdb78e0ec8c14e80bfc37fd93191bf6",
+   "54137840865610201445574226070665032282060705294786932770960141811396933281993",
+   "BUY",
+   4315.84,
+   1786119715
+  ],
+  [
+   "0xca48efea39b51dd1bea66d2963c7ea84bae49ca68369cdc8b1984b1998a25987",
+   "115120280153229660063976035953575840979784516099091886283532145932913458664684",
+   "BUY",
+   6000,
+   1786119724
   ]
  ],
  "leader_pos": {
@@ -13483,6 +13497,30 @@
    "cost": 3060.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1786119703
+  },
+  "jtwyslljy|54137840865610201445574226070665032282060705294786932770960141811396933281993": {
+   "leader": "jtwyslljy",
+   "asset": "54137840865610201445574226070665032282060705294786932770960141811396933281993",
+   "condition_id": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+   "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+   "outcome": "Casper Ruud",
+   "slug": "atp-ruud-fonseca-2026-08-07",
+   "shares": 4315.84,
+   "cost": 2028.4448,
+   "max_shares": 4315.84,
+   "last_trade_ts": 1786119715
+  },
+  "jtwyslljy|115120280153229660063976035953575840979784516099091886283532145932913458664684": {
+   "leader": "jtwyslljy",
+   "asset": "115120280153229660063976035953575840979784516099091886283532145932913458664684",
+   "condition_id": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
+   "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
+   "outcome": "Alexei Popyrin",
+   "slug": "atp-popyrin-tirante-2026-08-06",
+   "shares": 6000.0,
+   "cost": 3300.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1786119724
   }
  },
  "positions": [
@@ -13538,6 +13576,42 @@
    "copy_delay_min": 3.7,
    "best_ask": 0.34,
    "ask_depth": 38676.45,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "115120280153229660063976035953575840979784516099091886283532145932913458664684",
+   "condition_id": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
+   "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
+   "outcome": "Alexei Popyrin",
+   "slug": "atp-popyrin-tirante-2026-08-06",
+   "opened_at": "2026-08-07T16:30:37.311694+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.55,
+   "ask_depth": 36629.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54137840865610201445574226070665032282060705294786932770960141811396933281993",
+   "condition_id": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+   "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+   "outcome": "Casper Ruud",
+   "slug": "atp-ruud-fonseca-2026-08-07",
+   "opened_at": "2026-08-07T16:30:37.500433+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 2028.44,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.47,
+   "ask_depth": 5759.24,
    "status": "open"
   }
  ],
@@ -20557,5 +20631,5 @@
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T16:25:28.899318+00:00"
+ "last_updated": "2026-08-07T16:30:38.249114+00:00"
 }
