@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786122850,
+  "jtwyslljy": 1786124149,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8867,6 +8867,20 @@
    "BUY",
    438,
    1786122850
+  ],
+  [
+   "0x7da001ac75a1929395f679fdf76a60bc98ecd49c02a5297050972268b93d8af5",
+   "55203598357363994663133477990887366918919187552454998941868238492266285935715",
+   "BUY",
+   10000,
+   1786124058
+  ],
+  [
+   "0x3fabe519ae4b1182830762708826c9b1a66e51c9de15d4ce034e7f7555cf233e",
+   "55203598357363994663133477990887366918919187552454998941868238492266285935715",
+   "BUY",
+   10000,
+   1786124149
   ]
  ],
  "leader_pos": {
@@ -13573,6 +13587,18 @@
    "cost": 628.38,
    "max_shares": 1517.0,
    "last_trade_ts": 1786122850
+  },
+  "jtwyslljy|55203598357363994663133477990887366918919187552454998941868238492266285935715": {
+   "leader": "jtwyslljy",
+   "asset": "55203598357363994663133477990887366918919187552454998941868238492266285935715",
+   "condition_id": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
+   "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
+   "outcome": "Tallon Griekspoor",
+   "slug": "atp-grieksp-arnaldi-2026-08-07",
+   "shares": 20000.0,
+   "cost": 7200.0,
+   "max_shares": 20000.0,
+   "last_trade_ts": 1786124149
   }
  },
  "positions": [
@@ -20702,8 +20728,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
    "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-08-07T17:40:30.814735+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-07T16:40:00+00:00",
+   "condition_id": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
+   "copy_delay_min": 4.6,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
+   "outcome": "Tallon Griekspoor"
   }
  ],
  "total_pnl": -213.83479999999955,
- "last_updated": "2026-08-07T17:20:28.201579+00:00"
+ "last_updated": "2026-08-07T17:40:32.462276+00:00"
 }
