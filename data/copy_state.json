@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9415.895067000001,
+ "bankroll": 9315.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786113418,
+  "jtwyslljy": 1786119703,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8818,6 +8818,13 @@
    "BUY",
    12000,
    1786113418
+  ],
+  [
+   "0x6987f8fd3f0a20f8dca41ca6c51b1a643bea8483aeeb0aed7104e0cef9f505fb",
+   "63357245278646068215300299339189187933354949320463000719509411264153581629717",
+   "BUY",
+   9000,
+   1786119703
   ]
  ],
  "leader_pos": {
@@ -13464,6 +13471,18 @@
    "cost": 4440.0,
    "max_shares": 12000.0,
    "last_trade_ts": 1786113418
+  },
+  "jtwyslljy|63357245278646068215300299339189187933354949320463000719509411264153581629717": {
+   "leader": "jtwyslljy",
+   "asset": "63357245278646068215300299339189187933354949320463000719509411264153581629717",
+   "condition_id": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
+   "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-mensik-2026-08-07",
+   "shares": 9000.0,
+   "cost": 3060.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1786119703
   }
  },
  "positions": [
@@ -13501,6 +13520,24 @@
    "copy_delay_min": 3.6,
    "best_ask": 0.37,
    "ask_depth": 82860.26,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63357245278646068215300299339189187933354949320463000719509411264153581629717",
+   "condition_id": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
+   "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-mensik-2026-08-07",
+   "opened_at": "2026-08-07T16:25:28.098922+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.34,
+   "ask_depth": 38676.45,
    "status": "open"
   }
  ],
@@ -20520,5 +20557,5 @@
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T14:40:33.729273+00:00"
+ "last_updated": "2026-08-07T16:25:28.899318+00:00"
 }
