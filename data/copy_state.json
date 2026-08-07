@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9115.895067000001,
+ "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786122021,
+  "jtwyslljy": 1786122850,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8853,6 +8853,20 @@
    "BUY",
    944,
    1786122021
+  ],
+  [
+   "0xd397e17fb33ad384e364fd31d139f5e79a0b65c821c187d165d7665bbe243a4f",
+   "34321589925482853880810345515840303562073690895156321676787010961594878002730",
+   "BUY",
+   135,
+   1786122817
+  ],
+  [
+   "0xf0539a9b96f5321495cd6b7b76a668f165e63f7b41fdbf16c0b8ef9ffdaf8593",
+   "34321589925482853880810345515840303562073690895156321676787010961594878002730",
+   "BUY",
+   438,
+   1786122850
   ]
  ],
  "leader_pos": {
@@ -13555,10 +13569,10 @@
    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
    "outcome": "Alex Michelsen",
    "slug": "atp-aguilar-michels-2026-08-07",
-   "shares": 944.0,
-   "cost": 396.47999999999996,
-   "max_shares": 944.0,
-   "last_trade_ts": 1786122021
+   "shares": 1517.0,
+   "cost": 628.38,
+   "max_shares": 1517.0,
+   "last_trade_ts": 1786122850
   }
  },
  "positions": [
@@ -13578,24 +13592,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "55427396103246600123699961124732278110227239297601236149630497429326165637087",
-   "condition_id": "0xaac5fa1525ed58f10a19671bfbb74a4671933a4ca8c7c807c59812804f092fd5",
-   "title": "National Bank Open: Iva Jovic vs Alina Korneeva",
-   "outcome": "Alina Korneeva",
-   "slug": "wta-jovic-korneev-2026-08-08",
-   "opened_at": "2026-08-07T14:40:33.001849+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 4440.0,
-   "copy_delay_min": 3.6,
-   "best_ask": 0.37,
-   "ask_depth": 82860.26,
    "status": "open"
   },
   {
@@ -19233,6 +19229,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55427396103246600123699961124732278110227239297601236149630497429326165637087",
+   "condition_id": "0xaac5fa1525ed58f10a19671bfbb74a4671933a4ca8c7c807c59812804f092fd5",
+   "title": "National Bank Open: Iva Jovic vs Alina Korneeva",
+   "outcome": "Alina Korneeva",
+   "slug": "wta-jovic-korneev-2026-08-08",
+   "opened_at": "2026-08-07T14:40:33.001849+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 4440.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.37,
+   "ask_depth": 82860.26,
+   "status": "won",
+   "closed_at": "2026-08-07T17:20:28.199875+00:00",
+   "exit_price": 1.0,
+   "pnl": 170.2703,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20674,8 +20692,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Elise Mertens vs Naomi Osaka AND National Bank Open: Maya Joint vs Liudmila Samsonova AND National Bank Open: Caty McNally vs Alexandra Eala",
    "outcome": ""
+  },
+  {
+   "at": "2026-08-07T17:20:27.185967+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-07T16:30:00+00:00",
+   "condition_id": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
+   "copy_delay_min": 6.3,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
+   "outcome": "Alex Michelsen"
   }
  ],
- "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-07T17:05:23.165720+00:00"
+ "total_pnl": -213.83479999999955,
+ "last_updated": "2026-08-07T17:20:28.201579+00:00"
 }
