@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9515.895067000001,
  "last_seen": {
-  "jtwyslljy": 1786043769,
+  "jtwyslljy": 1786100653,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8769,6 +8769,13 @@
    "BUY",
    8000,
    1786043769
+  ],
+  [
+   "0x34e5a70f5a4aa7f4b30d180e58c60dd126b02a1b24b0cd7d573f402209d93b61",
+   "56790676400246502937766138104413774432138989237156118514101349622945997899953",
+   "BUY",
+   7999.99,
+   1786100653
   ]
  ],
  "leader_pos": {
@@ -13367,6 +13374,18 @@
    "cost": 2009.5392,
    "max_shares": 8373.08,
    "last_trade_ts": 1786036776
+  },
+  "jtwyslljy|56790676400246502937766138104413774432138989237156118514101349622945997899953": {
+   "leader": "jtwyslljy",
+   "asset": "56790676400246502937766138104413774432138989237156118514101349622945997899953",
+   "condition_id": "0x6972e2071fbdaa77ce4ea6a9eb33e23e8df55b3963afe57b386b8fa8b67f1a8b",
+   "title": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX",
+   "slug": "lol-fox1-bro2-2026-08-07",
+   "shares": 7999.99,
+   "cost": 2719.9966,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1786100653
   }
  },
  "positions": [
@@ -20342,8 +20361,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Mariano Navone vs Arthur Fils",
    "outcome": "Mariano Navone"
+  },
+  {
+   "at": "2026-08-07T11:05:25.480675+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-07T10:00:00+00:00",
+   "condition_id": "0x6972e2071fbdaa77ce4ea6a9eb33e23e8df55b3963afe57b386b8fa8b67f1a8b",
+   "copy_delay_min": 1.2,
+   "leader": "jtwyslljy",
+   "title": "LoL: BNK FEARX vs HANJIN BRION (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -384.10509999999954,
- "last_updated": "2026-08-06T23:05:28.011094+00:00"
+ "last_updated": "2026-08-07T11:05:26.015780+00:00"
 }
