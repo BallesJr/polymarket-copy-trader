@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9386.165367000001,
+ "bankroll": 9286.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786185720,
+  "jtwyslljy": 1786185822,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9007,6 +9007,20 @@
    "SELL",
    49,
    1786185720
+  ],
+  [
+   "0x0549b2b0dd1a0028c1ceed0afe5cb0de5939d4cc07c0c21575e60db46efdeb90",
+   "65090977956456921851671834665364384036997262871190653335146376002301565381479",
+   "BUY",
+   4500,
+   1786185814
+  ],
+  [
+   "0x8cc964b6baa9a533704fe7a41f2f5c85fc6bcb82f9a30d47af1c4276704538fe",
+   "95511380628738175302208896563324773414958259505944092521100130060144954019114",
+   "SELL",
+   10,
+   1786185822
   ]
  ],
  "leader_pos": {
@@ -13781,10 +13795,22 @@
    "title": "LoL: LGD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "LGD Gaming",
    "slug": "lol-lgd-al-2026-08-08",
-   "shares": 4043.1699999999996,
-   "cost": 323.9436,
+   "shares": 4033.1699999999996,
+   "cost": 323.1436,
    "max_shares": 4843.15,
-   "last_trade_ts": 1786185720
+   "last_trade_ts": 1786185822
+  },
+  "jtwyslljy|65090977956456921851671834665364384036997262871190653335146376002301565381479": {
+   "leader": "jtwyslljy",
+   "asset": "65090977956456921851671834665364384036997262871190653335146376002301565381479",
+   "condition_id": "0xc7d0a155c17c6c1c6558e0d24dc5b46c91ff000d5b31241ea6026f43ec44bc88",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-ns-dnf-2026-08-08",
+   "shares": 4500.0,
+   "cost": 1080.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1786185814
   }
  },
  "positions": [
@@ -13804,6 +13830,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65090977956456921851671834665364384036997262871190653335146376002301565381479",
+   "condition_id": "0xc7d0a155c17c6c1c6558e0d24dc5b46c91ff000d5b31241ea6026f43ec44bc88",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-ns-dnf-2026-08-08",
+   "opened_at": "2026-08-08T10:50:29.153420+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 1080.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.25,
+   "ask_depth": 11423.74,
    "status": "open"
   }
  ],
@@ -20989,5 +21033,5 @@
   }
  ],
  "total_pnl": -513.8347999999995,
- "last_updated": "2026-08-08T10:45:26.424292+00:00"
+ "last_updated": "2026-08-08T10:50:29.685552+00:00"
 }
