@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9586.165367000001,
+ "bankroll": 9486.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786209412,
+  "jtwyslljy": 1786210006,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9070,6 +9070,20 @@
    "BUY",
    2720,
    1786209412
+  ],
+  [
+   "0xa28368bcc1751ff05b82e92e0e8d347490ff6fc2c7aafb49915862d811bec819",
+   "91413159219413394003702037469906729988079165290072500928682194218671996724296",
+   "BUY",
+   6000,
+   1786209760
+  ],
+  [
+   "0xb61193ee6436371278096bf294d9eb88b81951e6f6807f18c4c90e561c4958aa",
+   "100085181349103904329572702860922550029453141432604219431165638400188337480524",
+   "BUY",
+   1288.76,
+   1786210006
   ]
  ],
  "leader_pos": {
@@ -13880,10 +13894,10 @@
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
    "outcome": "Iga Swiatek",
    "slug": "wta-kostyuk-swiatek-2026-08-09",
-   "shares": 5000.0,
-   "cost": 2650.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1786208154
+   "shares": 11000.0,
+   "cost": 4030.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1786209760
   },
   "jtwyslljy|12005740293651338713211895433541927406163000738496798169161261748201436248876": {
    "leader": "jtwyslljy",
@@ -13896,6 +13910,18 @@
    "cost": 1700.66,
    "max_shares": 6541.0,
    "last_trade_ts": 1786209412
+  },
+  "jtwyslljy|100085181349103904329572702860922550029453141432604219431165638400188337480524": {
+   "leader": "jtwyslljy",
+   "asset": "100085181349103904329572702860922550029453141432604219431165638400188337480524",
+   "condition_id": "0x311f32416a52f8ceab4b8766abc1500f68abf30d4ae3b409ecbd60588220a0c3",
+   "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-rinderk-nakashi-2026-08-08",
+   "shares": 1288.76,
+   "cost": 837.6940000000001,
+   "max_shares": 1288.76,
+   "last_trade_ts": 1786210006
   }
  },
  "positions": [
@@ -13933,6 +13959,24 @@
    "copy_delay_min": 6.2,
    "best_ask": 0.3,
    "ask_depth": 15908.28,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100085181349103904329572702860922550029453141432604219431165638400188337480524",
+   "condition_id": "0x311f32416a52f8ceab4b8766abc1500f68abf30d4ae3b409ecbd60588220a0c3",
+   "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-rinderk-nakashi-2026-08-08",
+   "opened_at": "2026-08-08T17:30:34.177157+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.65,
+   "leader_cost": 837.69,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.66,
+   "ask_depth": 41335.23,
    "status": "open"
   }
  ],
@@ -21157,8 +21201,18 @@
    "leader": "jtwyslljy",
    "title": "Will Real Madrid win on 2026-08-08?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-08T17:30:33.995087+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-08T16:30:00+00:00",
+   "condition_id": "0xc0d4b45343bc78ae8da917972e18cfbe455e3db50fb3019f85477949bfd1b8e0",
+   "copy_delay_min": 7.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
+   "outcome": "Iga Swiatek"
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T17:20:07.142211+00:00"
+ "last_updated": "2026-08-08T17:30:34.804174+00:00"
 }
