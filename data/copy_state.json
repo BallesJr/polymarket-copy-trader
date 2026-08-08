@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786214970,
+  "jtwyslljy": 1786215213,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9154,6 +9154,20 @@
    "SELL",
    44.98,
    1786214970
+  ],
+  [
+   "0x3753af97351834400d872e9107809a4dfb25e2afec22125e5b123b485efe523a",
+   "91413159219413394003702037469906729988079165290072500928682194218671996724296",
+   "SELL",
+   9955.03,
+   1786215000
+  ],
+  [
+   "0xa02c1d38f851706b05c483499b2344248af971c87d3c25af69e57e2ad3a090d9",
+   "7967231009919870071026719100178776224231435779616057266644553512029367661521",
+   "BUY",
+   6450,
+   1786215213
   ]
  ],
  "leader_pos": {
@@ -13964,10 +13978,10 @@
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
    "outcome": "Iga Swiatek",
    "slug": "wta-kostyuk-swiatek-2026-08-09",
-   "shares": 10955.02,
-   "cost": 3987.17904,
+   "shares": 999.9899999999998,
+   "cost": -5709.106040142745,
    "max_shares": 11000.0,
-   "last_trade_ts": 1786214970
+   "last_trade_ts": 1786215000
   },
   "jtwyslljy|12005740293651338713211895433541927406163000738496798169161261748201436248876": {
    "leader": "jtwyslljy",
@@ -14012,10 +14026,10 @@
    "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
    "outcome": "Luciano Darderi",
    "slug": "atp-borges-darderi-2026-08-08",
-   "shares": 73283.28,
-   "cost": 26234.32489992,
-   "max_shares": 73283.28,
-   "last_trade_ts": 1786214029
+   "shares": 79733.28,
+   "cost": 29072.12489961,
+   "max_shares": 79733.28,
+   "last_trade_ts": 1786215213
   }
  },
  "positions": [
@@ -21363,8 +21377,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
    "outcome": "Iga Swiatek"
+  },
+  {
+   "at": "2026-08-08T18:55:25.879152+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-08T16:30:00+00:00",
+   "condition_id": "0x8c183a99be9a090203538f44f9d09076963ac0c21d611df3ebd3df2e5860ec41",
+   "copy_delay_min": 1.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
+   "outcome": "Luciano Darderi"
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T18:50:30.318334+00:00"
+ "last_updated": "2026-08-08T18:55:26.292485+00:00"
 }
