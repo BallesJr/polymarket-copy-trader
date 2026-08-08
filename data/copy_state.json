@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786215213,
+  "jtwyslljy": 1786215355,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9168,6 +9168,13 @@
    "BUY",
    6450,
    1786215213
+  ],
+  [
+   "0xe82129e8213385f4e74098113359c1b46d20f6e2fd1598ed7a2cdb516025484b",
+   "7967231009919870071026719100178776224231435779616057266644553512029367661521",
+   "BUY",
+   4935.87,
+   1786215355
   ]
  ],
  "leader_pos": {
@@ -14026,10 +14033,10 @@
    "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
    "outcome": "Luciano Darderi",
    "slug": "atp-borges-darderi-2026-08-08",
-   "shares": 79733.28,
-   "cost": 29072.12489961,
-   "max_shares": 79733.28,
-   "last_trade_ts": 1786215213
+   "shares": 84669.15,
+   "cost": 31391.98379961,
+   "max_shares": 84669.15,
+   "last_trade_ts": 1786215355
   }
  },
  "positions": [
@@ -21387,8 +21394,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
    "outcome": "Luciano Darderi"
+  },
+  {
+   "at": "2026-08-08T19:00:48.967748+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-08T16:30:00+00:00",
+   "condition_id": "0x8c183a99be9a090203538f44f9d09076963ac0c21d611df3ebd3df2e5860ec41",
+   "copy_delay_min": 4.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
+   "outcome": "Luciano Darderi"
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T18:55:26.292485+00:00"
+ "last_updated": "2026-08-08T19:00:49.594496+00:00"
 }
