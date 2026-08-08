@@ -13731,24 +13731,6 @@
    "best_ask": 0.55,
    "ask_depth": 36629.56,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "54137840865610201445574226070665032282060705294786932770960141811396933281993",
-   "condition_id": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
-   "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
-   "outcome": "Casper Ruud",
-   "slug": "atp-ruud-fonseca-2026-08-07",
-   "opened_at": "2026-08-07T16:30:37.500433+00:00",
-   "entry_price": 0.47,
-   "shares": 212.766,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 2028.44,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.47,
-   "ask_depth": 5759.24,
-   "status": "open"
   }
  ],
  "closed": [
@@ -19375,6 +19357,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54137840865610201445574226070665032282060705294786932770960141811396933281993",
+   "condition_id": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+   "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+   "outcome": "Casper Ruud",
+   "slug": "atp-ruud-fonseca-2026-08-07",
+   "opened_at": "2026-08-07T16:30:37.500433+00:00",
+   "entry_price": 0.47,
+   "shares": 212.766,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 2028.44,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.47,
+   "ask_depth": 5759.24,
+   "status": "lost",
+   "closed_at": "2026-08-08T01:45:30.483683+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20858,6 +20862,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -313.8347999999995,
- "last_updated": "2026-08-08T01:00:44.105926+00:00"
+ "total_pnl": -413.8347999999995,
+ "last_updated": "2026-08-08T01:45:30.485025+00:00"
 }
