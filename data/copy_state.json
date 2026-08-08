@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786210450,
+  "jtwyslljy": 1786213201,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9098,6 +9098,20 @@
    "BUY",
    47996.32,
    1786210450
+  ],
+  [
+   "0xea06dabfa44c113d1ae9bdf4d0e38eafd0f3ff1765a5b282a80e1a1d38b7cc47",
+   "7967231009919870071026719100178776224231435779616057266644553512029367661521",
+   "BUY",
+   7285.29,
+   1786213138
+  ],
+  [
+   "0xb3217c6558dbb5bceb0f3fe75fc683c7f4feb3d78473419a1b053804e73c3d6b",
+   "7967231009919870071026719100178776224231435779616057266644553512029367661521",
+   "BUY",
+   7500,
+   1786213201
   ]
  ],
  "leader_pos": {
@@ -13948,6 +13962,18 @@
    "cost": 14398.895999999999,
    "max_shares": 47996.32,
    "last_trade_ts": 1786210450
+  },
+  "jtwyslljy|7967231009919870071026719100178776224231435779616057266644553512029367661521": {
+   "leader": "jtwyslljy",
+   "asset": "7967231009919870071026719100178776224231435779616057266644553512029367661521",
+   "condition_id": "0x8c183a99be9a090203538f44f9d09076963ac0c21d611df3ebd3df2e5860ec41",
+   "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
+   "outcome": "Luciano Darderi",
+   "slug": "atp-borges-darderi-2026-08-08",
+   "shares": 14785.29,
+   "cost": 4651.998600000001,
+   "max_shares": 14785.29,
+   "last_trade_ts": 1786213201
   }
  },
  "positions": [
@@ -21255,8 +21281,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Marta Kostyuk vs Iga Swiatek",
    "outcome": "Iga Swiatek"
+  },
+  {
+   "at": "2026-08-08T18:25:19.713612+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-08T16:30:00+00:00",
+   "condition_id": "0x8c183a99be9a090203538f44f9d09076963ac0c21d611df3ebd3df2e5860ec41",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
+   "outcome": "Luciano Darderi"
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T17:45:27.965069+00:00"
+ "last_updated": "2026-08-08T18:25:20.291305+00:00"
 }
