@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9686.165367000001,
+ "bankroll": 9586.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786185822,
+  "jtwyslljy": 1786207153,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9021,6 +9021,13 @@
    "SELL",
    10,
    1786185822
+  ],
+  [
+   "0x8f3e1b5847dc3860df2c6b2c2d808527fe65c00e5c94042ab8250e39740affd1",
+   "66820926763622631901894290505278107165068825764071676969096642934855147606343",
+   "BUY",
+   12000,
+   1786207153
   ]
  ],
  "leader_pos": {
@@ -13811,6 +13818,18 @@
    "cost": 1080.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1786185814
+  },
+  "jtwyslljy|66820926763622631901894290505278107165068825764071676969096642934855147606343": {
+   "leader": "jtwyslljy",
+   "asset": "66820926763622631901894290505278107165068825764071676969096642934855147606343",
+   "condition_id": "0x1c061ccb2863b66b5c83dea496aa062690903813ae604b9a94a89fbd5b4df2fb",
+   "title": "National Bank Open: Jessica Pegula vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-pegula-shnaide-2026-08-09",
+   "shares": 12000.0,
+   "cost": 3600.0,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1786207153
   }
  },
  "positions": [
@@ -13830,6 +13849,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66820926763622631901894290505278107165068825764071676969096642934855147606343",
+   "condition_id": "0x1c061ccb2863b66b5c83dea496aa062690903813ae604b9a94a89fbd5b4df2fb",
+   "title": "National Bank Open: Jessica Pegula vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-pegula-shnaide-2026-08-09",
+   "opened_at": "2026-08-08T16:45:26.662370+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 3600.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.3,
+   "ask_depth": 15908.28,
    "status": "open"
   }
  ],
@@ -21037,5 +21074,5 @@
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T15:35:21.989476+00:00"
+ "last_updated": "2026-08-08T16:45:27.263786+00:00"
 }
