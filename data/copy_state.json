@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9386.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786130014,
+  "jtwyslljy": 1786179831,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -8951,6 +8951,13 @@
    "BUY",
    1000,
    1786130014
+  ],
+  [
+   "0x4e1343aac7ff96e74049039200041bc0f1421e18a80e9d2659520bcf45b84b91",
+   "92186278327712354992745670775716070890363711913610478497379869461593400288972",
+   "BUY",
+   2150.7,
+   1786179831
   ]
  ],
  "leader_pos": {
@@ -13693,6 +13700,18 @@
    "cost": 470.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1786130014
+  },
+  "jtwyslljy|92186278327712354992745670775716070890363711913610478497379869461593400288972": {
+   "leader": "jtwyslljy",
+   "asset": "92186278327712354992745670775716070890363711913610478497379869461593400288972",
+   "condition_id": "0x377d771fbb92cb291fefa615427826f82e66adbf27dd9b2f9142331ea8a6e087",
+   "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-t1-hle1-2026-08-08",
+   "shares": 2150.7,
+   "cost": 666.717,
+   "max_shares": 2150.7,
+   "last_trade_ts": 1786179831
   }
  },
  "positions": [
@@ -20864,8 +20883,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-08-08T09:10:26.895910+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-08T08:00:00+00:00",
+   "condition_id": "0x377d771fbb92cb291fefa615427826f82e66adbf27dd9b2f9142331ea8a6e087",
+   "copy_delay_min": 6.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports"
   }
  ],
  "total_pnl": -513.8347999999995,
- "last_updated": "2026-08-08T02:35:21.245878+00:00"
+ "last_updated": "2026-08-08T09:10:27.341942+00:00"
 }
