@@ -13716,24 +13716,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "63357245278646068215300299339189187933354949320463000719509411264153581629717",
-   "condition_id": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
-   "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
-   "outcome": "Terence Atmane",
-   "slug": "atp-atmane-mensik-2026-08-07",
-   "opened_at": "2026-08-07T16:25:28.098922+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 3060.0,
-   "copy_delay_min": 3.7,
-   "best_ask": 0.34,
-   "ask_depth": 38676.45,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "115120280153229660063976035953575840979784516099091886283532145932913458664684",
    "condition_id": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
    "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
@@ -19371,6 +19353,28 @@
    "exit_price": 1.0,
    "pnl": 170.2703,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63357245278646068215300299339189187933354949320463000719509411264153581629717",
+   "condition_id": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
+   "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-mensik-2026-08-07",
+   "opened_at": "2026-08-07T16:25:28.098922+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.34,
+   "ask_depth": 38676.45,
+   "status": "lost",
+   "closed_at": "2026-08-08T01:00:44.104121+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20854,6 +20858,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -213.83479999999955,
- "last_updated": "2026-08-07T19:20:31.785688+00:00"
+ "total_pnl": -313.8347999999995,
+ "last_updated": "2026-08-08T01:00:44.105926+00:00"
 }
