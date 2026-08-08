@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9486.165367000001,
  "last_seen": {
-  "jtwyslljy": 1786210006,
+  "jtwyslljy": 1786210243,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9084,6 +9084,13 @@
    "BUY",
    1288.76,
    1786210006
+  ],
+  [
+   "0xb7ed6cc0edee05cf4677fb77dcffc0aa5bcd005c5f50ecf80f641970de8bdb85",
+   "100085181349103904329572702860922550029453141432604219431165638400188337480524",
+   "BUY",
+   8,
+   1786210243
   ]
  ],
  "leader_pos": {
@@ -13918,10 +13925,10 @@
    "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
    "outcome": "Brandon Nakashima",
    "slug": "atp-rinderk-nakashi-2026-08-08",
-   "shares": 1288.76,
-   "cost": 837.6940000000001,
-   "max_shares": 1288.76,
-   "last_trade_ts": 1786210006
+   "shares": 1296.76,
+   "cost": 842.974,
+   "max_shares": 1296.76,
+   "last_trade_ts": 1786210243
   }
  },
  "positions": [
@@ -21214,5 +21221,5 @@
   }
  ],
  "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T17:30:34.804174+00:00"
+ "last_updated": "2026-08-08T17:35:26.302154+00:00"
 }
