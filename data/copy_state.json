@@ -13713,24 +13713,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "115120280153229660063976035953575840979784516099091886283532145932913458664684",
-   "condition_id": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
-   "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
-   "outcome": "Alexei Popyrin",
-   "slug": "atp-popyrin-tirante-2026-08-06",
-   "opened_at": "2026-08-07T16:30:37.311694+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 3300.0,
-   "copy_delay_min": 8.5,
-   "best_ask": 0.55,
-   "ask_depth": 36629.56,
-   "status": "open"
   }
  ],
  "closed": [
@@ -19379,6 +19361,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "115120280153229660063976035953575840979784516099091886283532145932913458664684",
+   "condition_id": "0xfdc87415f6d29a6d6519f03b784fdfc740db3caeb11b2c61f3e6bba140658851",
+   "title": "National Bank Open: Alexei Popyrin vs Thiago Agustin Tirante",
+   "outcome": "Alexei Popyrin",
+   "slug": "atp-popyrin-tirante-2026-08-06",
+   "opened_at": "2026-08-07T16:30:37.311694+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.55,
+   "ask_depth": 36629.56,
+   "status": "lost",
+   "closed_at": "2026-08-08T02:35:21.244192+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -20862,6 +20866,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -413.8347999999995,
- "last_updated": "2026-08-08T01:45:30.485025+00:00"
+ "total_pnl": -513.8347999999995,
+ "last_updated": "2026-08-08T02:35:21.245878+00:00"
 }
