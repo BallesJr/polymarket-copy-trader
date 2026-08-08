@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9386.165367000001,
+ "bankroll": 9719.498667000002,
  "last_seen": {
   "jtwyslljy": 1786218258,
   "0x53757615de": 1784324596
@@ -14081,24 +14081,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "66820926763622631901894290505278107165068825764071676969096642934855147606343",
-   "condition_id": "0x1c061ccb2863b66b5c83dea496aa062690903813ae604b9a94a89fbd5b4df2fb",
-   "title": "National Bank Open: Jessica Pegula vs Diana Shnaider",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-pegula-shnaide-2026-08-09",
-   "opened_at": "2026-08-08T16:45:26.662370+00:00",
-   "entry_price": 0.3,
-   "shares": 333.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 3600.0,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.3,
-   "ask_depth": 15908.28,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "100085181349103904329572702860922550029453141432604219431165638400188337480524",
    "condition_id": "0x311f32416a52f8ceab4b8766abc1500f68abf30d4ae3b409ecbd60588220a0c3",
    "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
@@ -19824,6 +19806,28 @@
    "exit_price": 1.0,
    "pnl": 300.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66820926763622631901894290505278107165068825764071676969096642934855147606343",
+   "condition_id": "0x1c061ccb2863b66b5c83dea496aa062690903813ae604b9a94a89fbd5b4df2fb",
+   "title": "National Bank Open: Jessica Pegula vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-pegula-shnaide-2026-08-09",
+   "opened_at": "2026-08-08T16:45:26.662370+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 3600.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.3,
+   "ask_depth": 15908.28,
+   "status": "won",
+   "closed_at": "2026-08-08T21:02:30.435840+00:00",
+   "exit_price": 1.0,
+   "pnl": 233.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21427,6 +21431,6 @@
    "outcome": "Luciano Darderi"
   }
  ],
- "total_pnl": -213.83479999999952,
- "last_updated": "2026-08-08T19:50:27.574813+00:00"
+ "total_pnl": 19.49850000000049,
+ "last_updated": "2026-08-08T21:02:30.437604+00:00"
 }
