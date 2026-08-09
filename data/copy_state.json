@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9871.013867000001,
  "last_seen": {
-  "jtwyslljy": 1786218258,
+  "jtwyslljy": 1786268202,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9196,6 +9196,13 @@
    "SELL",
    469.26,
    1786218258
+  ],
+  [
+   "0xa9e576dd66bb79dc149175482f9718108154b4f9f62fdc21596de24b9786a280",
+   "71554567140477701232236779715296312780126562489207472430244093936081845975202",
+   "BUY",
+   2000,
+   1786268202
   ]
  ],
  "leader_pos": {
@@ -14058,6 +14065,18 @@
    "cost": -55380.10725039001,
    "max_shares": 84669.15,
    "last_trade_ts": 1786216108
+  },
+  "jtwyslljy|71554567140477701232236779715296312780126562489207472430244093936081845975202": {
+   "leader": "jtwyslljy",
+   "asset": "71554567140477701232236779715296312780126562489207472430244093936081845975202",
+   "condition_id": "0x110655c3a2be0c0831983b1d1e1f4ab884bb1c9e06cf21b3bb9944c71b6f11fc",
+   "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-dk-kt-2026-08-09",
+   "shares": 2000.0,
+   "cost": 1160.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786268202
   }
  },
  "positions": [
@@ -21437,8 +21456,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Nuno Borges vs Luciano Darderi",
    "outcome": "Luciano Darderi"
+  },
+  {
+   "at": "2026-08-09T09:40:30.298454+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-09T08:00:00+00:00",
+   "condition_id": "0x110655c3a2be0c0831983b1d1e1f4ab884bb1c9e06cf21b3bb9944c71b6f11fc",
+   "copy_delay_min": 3.8,
+   "leader": "jtwyslljy",
+   "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA"
   }
  ],
  "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T04:30:32.660596+00:00"
+ "last_updated": "2026-08-09T09:40:30.794005+00:00"
 }
