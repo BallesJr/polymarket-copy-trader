@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9719.498667000002,
+ "bankroll": 9871.013867000001,
  "last_seen": {
   "jtwyslljy": 1786218258,
   "0x53757615de": 1784324596
@@ -14081,24 +14081,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "100085181349103904329572702860922550029453141432604219431165638400188337480524",
-   "condition_id": "0x311f32416a52f8ceab4b8766abc1500f68abf30d4ae3b409ecbd60588220a0c3",
-   "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
-   "outcome": "Brandon Nakashima",
-   "slug": "atp-rinderk-nakashi-2026-08-08",
-   "opened_at": "2026-08-08T17:30:34.177157+00:00",
-   "entry_price": 0.66,
-   "shares": 151.5152,
-   "stake": 100.0,
-   "leader_vwap": 0.65,
-   "leader_cost": 837.69,
-   "copy_delay_min": 3.8,
-   "best_ask": 0.66,
-   "ask_depth": 41335.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "57922112528450185489421605863726618641612881521927977094753105932210626384243",
    "condition_id": "0xbf2213af301c1ac4feb6654edc513758e6e544836f5f252dbc8082f4bce2ab82",
    "title": "National Bank Open: Arthur Fils vs Cameron Norrie",
@@ -19828,6 +19810,28 @@
    "exit_price": 1.0,
    "pnl": 233.3333,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100085181349103904329572702860922550029453141432604219431165638400188337480524",
+   "condition_id": "0x311f32416a52f8ceab4b8766abc1500f68abf30d4ae3b409ecbd60588220a0c3",
+   "title": "National Bank Open: Arthur Rinderknech vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-rinderk-nakashi-2026-08-08",
+   "opened_at": "2026-08-08T17:30:34.177157+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.65,
+   "leader_cost": 837.69,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.66,
+   "ask_depth": 41335.23,
+   "status": "won",
+   "closed_at": "2026-08-09T00:45:25.148220+00:00",
+   "exit_price": 1.0,
+   "pnl": 51.5152,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21431,6 +21435,6 @@
    "outcome": "Luciano Darderi"
   }
  ],
- "total_pnl": 19.49850000000049,
- "last_updated": "2026-08-08T21:02:30.437604+00:00"
+ "total_pnl": 71.01370000000048,
+ "last_updated": "2026-08-09T00:45:25.149822+00:00"
 }
