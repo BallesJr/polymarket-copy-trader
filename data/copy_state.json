@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9771.013867000001,
  "last_seen": {
-  "jtwyslljy": 1786297210,
+  "jtwyslljy": 1786297774,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9252,6 +9252,13 @@
    "BUY",
    5000,
    1786297210
+  ],
+  [
+   "0xb9d6822bf15137d7f4083e303ff22dd1006d3f1eaba72eed6fc6079d9963fcd0",
+   "115188207440749381668337625330981981818462181712361244633251438441702268761187",
+   "SELL",
+   28,
+   1786297774
   ]
  ],
  "leader_pos": {
@@ -14158,10 +14165,10 @@
    "title": "National Bank Open: Learner Tien vs Thiago Agustin Tirante",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-tien-tirante-2026-08-10",
-   "shares": 507.22,
-   "cost": 157.2382,
+   "shares": 479.22,
+   "cost": 148.2782,
    "max_shares": 507.22,
-   "last_trade_ts": 1786293489
+   "last_trade_ts": 1786297774
   },
   "jtwyslljy|105007735552749145418213217351302739743361524709636765362654452896695246430471": {
    "leader": "jtwyslljy",
@@ -21624,5 +21631,5 @@
   }
  ],
  "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T17:45:27.223669+00:00"
+ "last_updated": "2026-08-09T17:55:19.256615+00:00"
 }
