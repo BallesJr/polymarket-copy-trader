@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9771.013867000001,
  "last_seen": {
-  "jtwyslljy": 1786296082,
+  "jtwyslljy": 1786297210,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9245,6 +9245,13 @@
    "BUY",
    2000,
    1786296082
+  ],
+  [
+   "0xf8cff0a613c9958e00b3f814eabd4f64f351abfe5f4226c5fe5cdd9b9936e015",
+   "67558792333982642043042448469589707173852838375563164151799011142816677320901",
+   "BUY",
+   5000,
+   1786297210
   ]
  ],
  "leader_pos": {
@@ -14139,10 +14146,10 @@
    "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
    "outcome": "Liudmila Samsonova",
    "slug": "wta-samsono-rybakin-2026-08-09",
-   "shares": 5000.0,
-   "cost": 1300.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1786293433
+   "shares": 10000.0,
+   "cost": 2000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1786297210
   },
   "jtwyslljy|115188207440749381668337625330981981818462181712361244633251438441702268761187": {
    "leader": "jtwyslljy",
@@ -21604,8 +21611,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Tallon Griekspoor vs Daniel Merida Aguilar",
    "outcome": "Tallon Griekspoor"
+  },
+  {
+   "at": "2026-08-09T17:45:26.692110+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-09T16:35:00+00:00",
+   "condition_id": "0xe9bb180cc6f12fba3547cff6e959f0ca9e3b12fbfce651edb33d0d17f7da5271",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
+   "outcome": "Liudmila Samsonova"
   }
  ],
  "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T17:28:34.585540+00:00"
+ "last_updated": "2026-08-09T17:45:27.223669+00:00"
 }
