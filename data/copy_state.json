@@ -14078,24 +14078,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "57922112528450185489421605863726618641612881521927977094753105932210626384243",
-   "condition_id": "0xbf2213af301c1ac4feb6654edc513758e6e544836f5f252dbc8082f4bce2ab82",
-   "title": "National Bank Open: Arthur Fils vs Cameron Norrie",
-   "outcome": "Cameron Norrie",
-   "slug": "atp-fils-norrie-2026-08-08",
-   "opened_at": "2026-08-08T17:45:27.349506+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 14398.9,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.31,
-   "ask_depth": 15638.35,
-   "status": "open"
   }
  ],
  "closed": [
@@ -19832,6 +19814,28 @@
    "exit_price": 1.0,
    "pnl": 51.5152,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "57922112528450185489421605863726618641612881521927977094753105932210626384243",
+   "condition_id": "0xbf2213af301c1ac4feb6654edc513758e6e544836f5f252dbc8082f4bce2ab82",
+   "title": "National Bank Open: Arthur Fils vs Cameron Norrie",
+   "outcome": "Cameron Norrie",
+   "slug": "atp-fils-norrie-2026-08-08",
+   "opened_at": "2026-08-08T17:45:27.349506+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 14398.9,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.31,
+   "ask_depth": 15638.35,
+   "status": "lost",
+   "closed_at": "2026-08-09T04:30:32.659034+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21435,6 +21439,6 @@
    "outcome": "Luciano Darderi"
   }
  ],
- "total_pnl": 71.01370000000048,
- "last_updated": "2026-08-09T00:45:25.149822+00:00"
+ "total_pnl": -28.986299999999517,
+ "last_updated": "2026-08-09T04:30:32.660596+00:00"
 }
