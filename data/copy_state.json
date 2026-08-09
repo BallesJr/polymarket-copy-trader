@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9871.013867000001,
  "last_seen": {
-  "jtwyslljy": 1786268202,
+  "jtwyslljy": 1786293259,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9203,6 +9203,13 @@
    "BUY",
    2000,
    1786268202
+  ],
+  [
+   "0x56e21aa9730f416a82e60d65c973e0c6cb4b2665e9036a17d692ba8add3388d7",
+   "50768771724142225900506623030401994950676431775629383524209381477960456745285",
+   "BUY",
+   3000,
+   1786293259
   ]
  ],
  "leader_pos": {
@@ -14077,6 +14084,18 @@
    "cost": 1160.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1786268202
+  },
+  "jtwyslljy|50768771724142225900506623030401994950676431775629383524209381477960456745285": {
+   "leader": "jtwyslljy",
+   "asset": "50768771724142225900506623030401994950676431775629383524209381477960456745285",
+   "condition_id": "0x121970de9cca427401a4d1e80a298573ca394a44d15ba6ad663c006417956ebf",
+   "title": "National Bank Open: Tallon Griekspoor vs Daniel Merida Aguilar",
+   "outcome": "Tallon Griekspoor",
+   "slug": "atp-grieksp-aguilar-2026-08-10",
+   "shares": 3000.0,
+   "cost": 1650.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786293259
   }
  },
  "positions": [
@@ -21466,8 +21485,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Dplus KIA"
+  },
+  {
+   "at": "2026-08-09T16:40:26.493258+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-09T16:35:00+00:00",
+   "condition_id": "0x121970de9cca427401a4d1e80a298573ca394a44d15ba6ad663c006417956ebf",
+   "copy_delay_min": 6.1,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Tallon Griekspoor vs Daniel Merida Aguilar",
+   "outcome": "Tallon Griekspoor"
   }
  ],
  "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T09:40:30.794005+00:00"
+ "last_updated": "2026-08-09T16:40:26.958641+00:00"
 }
