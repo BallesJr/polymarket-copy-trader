@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9871.013867000001,
  "last_seen": {
-  "jtwyslljy": 1786293259,
+  "jtwyslljy": 1786293489,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9210,6 +9210,20 @@
    "BUY",
    3000,
    1786293259
+  ],
+  [
+   "0x508d2953441d4c2a6cfd42eebe99d731867cae293df67bd20dcec0bff0fb570e",
+   "67558792333982642043042448469589707173852838375563164151799011142816677320901",
+   "BUY",
+   5000,
+   1786293433
+  ],
+  [
+   "0xce2ffb92ce184f75d7bdbe439314732787f9221a5d2a13a0022ada464abe6223",
+   "115188207440749381668337625330981981818462181712361244633251438441702268761187",
+   "BUY",
+   507.22,
+   1786293489
   ]
  ],
  "leader_pos": {
@@ -14096,6 +14110,30 @@
    "cost": 1650.0000000000002,
    "max_shares": 3000.0,
    "last_trade_ts": 1786293259
+  },
+  "jtwyslljy|67558792333982642043042448469589707173852838375563164151799011142816677320901": {
+   "leader": "jtwyslljy",
+   "asset": "67558792333982642043042448469589707173852838375563164151799011142816677320901",
+   "condition_id": "0xe9bb180cc6f12fba3547cff6e959f0ca9e3b12fbfce651edb33d0d17f7da5271",
+   "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
+   "outcome": "Liudmila Samsonova",
+   "slug": "wta-samsono-rybakin-2026-08-09",
+   "shares": 5000.0,
+   "cost": 1300.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1786293433
+  },
+  "jtwyslljy|115188207440749381668337625330981981818462181712361244633251438441702268761187": {
+   "leader": "jtwyslljy",
+   "asset": "115188207440749381668337625330981981818462181712361244633251438441702268761187",
+   "condition_id": "0x8195a99c93660e18bc49209359cf9cb539af42cfa00cb5000f6f5aeecef8dc57",
+   "title": "National Bank Open: Learner Tien vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-tien-tirante-2026-08-10",
+   "shares": 507.22,
+   "cost": 157.2382,
+   "max_shares": 507.22,
+   "last_trade_ts": 1786293489
   }
  },
  "positions": [
@@ -21495,8 +21533,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Tallon Griekspoor vs Daniel Merida Aguilar",
    "outcome": "Tallon Griekspoor"
+  },
+  {
+   "at": "2026-08-09T16:45:28.629496+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-09T16:35:00+00:00",
+   "condition_id": "0xe9bb180cc6f12fba3547cff6e959f0ca9e3b12fbfce651edb33d0d17f7da5271",
+   "copy_delay_min": 8.2,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
+   "outcome": "Liudmila Samsonova"
   }
  ],
  "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T16:40:26.958641+00:00"
+ "last_updated": "2026-08-09T16:45:29.071363+00:00"
 }
