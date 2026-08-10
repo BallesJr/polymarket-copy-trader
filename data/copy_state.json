@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9956.199067000001,
+ "bankroll": 9856.199067000001,
  "last_seen": {
-  "jtwyslljy": 1786302943,
+  "jtwyslljy": 1786384510,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9273,6 +9273,13 @@
    "SELL",
    9000,
    1786302943
+  ],
+  [
+   "0xca35070f03074b65363f096ac6a930f08294e778298d60c5541775c494c4cf22",
+   "34691510069031117755834214800869745291092253295564665516660269316660628637961",
+   "BUY",
+   8000,
+   1786384510
   ]
  ],
  "leader_pos": {
@@ -14195,6 +14202,18 @@
    "cost": 2650.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1786294083
+  },
+  "jtwyslljy|34691510069031117755834214800869745291092253295564665516660269316660628637961": {
+   "leader": "jtwyslljy",
+   "asset": "34691510069031117755834214800869745291092253295564665516660269316660628637961",
+   "condition_id": "0x94a39addec8bd24a2d03deeaa43bdee6a2b11eca403cd12495eb24132cc23173",
+   "title": "National Bank Open: Diana Shnaider vs Iga Swiatek",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-swiatek-2026-08-11",
+   "shares": 8000.0,
+   "cost": 2320.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1786384510
   }
  },
  "positions": [
@@ -14214,6 +14233,24 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.46,
    "ask_depth": 2134.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34691510069031117755834214800869745291092253295564665516660269316660628637961",
+   "condition_id": "0x94a39addec8bd24a2d03deeaa43bdee6a2b11eca403cd12495eb24132cc23173",
+   "title": "National Bank Open: Diana Shnaider vs Iga Swiatek",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-swiatek-2026-08-11",
+   "opened_at": "2026-08-10T18:00:48.683499+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2320.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.29,
+   "ask_depth": 42806.21,
    "status": "open"
   }
  ],
@@ -21659,5 +21696,5 @@
   }
  ],
  "total_pnl": 56.19890000000048,
- "last_updated": "2026-08-10T00:45:27.289412+00:00"
+ "last_updated": "2026-08-10T18:00:50.536399+00:00"
 }
