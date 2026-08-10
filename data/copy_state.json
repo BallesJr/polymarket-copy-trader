@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9771.013867000001,
+ "bankroll": 9956.199067000001,
  "last_seen": {
   "jtwyslljy": 1786302943,
   "0x53757615de": 1784324596
@@ -14215,24 +14215,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "105007735552749145418213217351302739743361524709636765362654452896695246430471",
-   "condition_id": "0xfc1cb9a7badff7e3774d4fba0bdcce064caabf966eb57290359bb63a14917c2c",
-   "title": "National Bank Open: Joao Fonseca vs Ben Shelton",
-   "outcome": "Ben Shelton",
-   "slug": "atp-fonseca-shelton-2026-08-10",
-   "opened_at": "2026-08-09T16:55:27.341418+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 2650.0,
-   "copy_delay_min": 7.4,
-   "best_ask": 0.54,
-   "ask_depth": 32168.88,
-   "status": "open"
   }
  ],
  "closed": [
@@ -19991,6 +19973,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "105007735552749145418213217351302739743361524709636765362654452896695246430471",
+   "condition_id": "0xfc1cb9a7badff7e3774d4fba0bdcce064caabf966eb57290359bb63a14917c2c",
+   "title": "National Bank Open: Joao Fonseca vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-fonseca-shelton-2026-08-10",
+   "opened_at": "2026-08-09T16:55:27.341418+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2650.0,
+   "copy_delay_min": 7.4,
+   "best_ask": 0.54,
+   "ask_depth": 32168.88,
+   "status": "won",
+   "closed_at": "2026-08-10T00:45:27.287615+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21654,6 +21658,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": -28.986299999999517,
- "last_updated": "2026-08-09T19:20:31.194213+00:00"
+ "total_pnl": 56.19890000000048,
+ "last_updated": "2026-08-10T00:45:27.289412+00:00"
 }
