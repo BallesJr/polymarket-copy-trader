@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9856.199067000001,
+ "bankroll": 9656.199067000001,
  "last_seen": {
-  "jtwyslljy": 1786384510,
+  "jtwyslljy": 1786385350,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9280,6 +9280,20 @@
    "BUY",
    8000,
    1786384510
+  ],
+  [
+   "0x5260d6c3f6f5d57c95cb67f750d87ce9dd135402762b4c7b0041368f31719fa6",
+   "112572782652712459344467707127844813205706477512183125298958798934459345767188",
+   "BUY",
+   4500,
+   1786385245
+  ],
+  [
+   "0xc5cfb7db2d23c3965973a7168d8ebf891a0a941a47657644430d8a3aec38b5bf",
+   "102247880946507142060261895383639499024623276908348209338665099019545571254500",
+   "BUY",
+   7000,
+   1786385350
   ]
  ],
  "leader_pos": {
@@ -14214,6 +14228,30 @@
    "cost": 2320.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1786384510
+  },
+  "jtwyslljy|112572782652712459344467707127844813205706477512183125298958798934459345767188": {
+   "leader": "jtwyslljy",
+   "asset": "112572782652712459344467707127844813205706477512183125298958798934459345767188",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "shares": 4500.0,
+   "cost": 2430.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1786385245
+  },
+  "jtwyslljy|102247880946507142060261895383639499024623276908348209338665099019545571254500": {
+   "leader": "jtwyslljy",
+   "asset": "102247880946507142060261895383639499024623276908348209338665099019545571254500",
+   "condition_id": "0xb9b85712d00829998098c457ebfe3e891b037fc5804c33a89b24631185f197f7",
+   "title": "National Bank Open: Ekaterina Alexandrova vs Elina Svitolina",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-svitoli-2026-08-11",
+   "shares": 7000.0,
+   "cost": 2029.9999999999998,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1786385350
   }
  },
  "positions": [
@@ -14251,6 +14289,42 @@
    "copy_delay_min": 5.6,
    "best_ask": 0.29,
    "ask_depth": 42806.21,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112572782652712459344467707127844813205706477512183125298958798934459345767188",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "opened_at": "2026-08-10T18:15:24.789384+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 2430.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.54,
+   "ask_depth": 30829.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102247880946507142060261895383639499024623276908348209338665099019545571254500",
+   "condition_id": "0xb9b85712d00829998098c457ebfe3e891b037fc5804c33a89b24631185f197f7",
+   "title": "National Bank Open: Ekaterina Alexandrova vs Elina Svitolina",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-svitoli-2026-08-11",
+   "opened_at": "2026-08-10T18:15:24.928579+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2030.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.29,
+   "ask_depth": 11499.48,
    "status": "open"
   }
  ],
@@ -21696,5 +21770,5 @@
   }
  ],
  "total_pnl": 56.19890000000048,
- "last_updated": "2026-08-10T18:00:50.536399+00:00"
+ "last_updated": "2026-08-10T18:15:25.510910+00:00"
 }
