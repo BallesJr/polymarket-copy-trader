@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9756.199067000001,
+ "bankroll": 9941.384267000001,
  "last_seen": {
   "jtwyslljy": 1786467648,
   "0x53757615de": 1784324596
@@ -14351,24 +14351,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "112572782652712459344467707127844813205706477512183125298958798934459345767188",
-   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
-   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-fils-2026-08-11",
-   "opened_at": "2026-08-10T18:15:24.789384+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 2430.0,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.54,
-   "ask_depth": 30829.56,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "67595109736830075730963636962488819885599608680317919731663499100926394915325",
    "condition_id": "0x7e8d5e2089c8bfc5eeb99d1f6449dff8ae1c0bc3fbd4959921e46d6a019682d6",
    "title": "National Bank Open: Daniel Merida Aguilar vs Learner Tien",
@@ -14401,24 +14383,6 @@
    "copy_delay_min": 3.5,
    "best_ask": 0.57,
    "ask_depth": 90289.4,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "26408097413984087516508508165248158044536720425593514919473421470041710576480",
-   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
-   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
-   "outcome": "Arthur Fils",
-   "slug": "atp-jodar-fils-2026-08-11",
-   "opened_at": "2026-08-11T17:05:27.885493+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 6880.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.43,
-   "ask_depth": 14797.61,
    "status": "open"
   }
  ],
@@ -20266,6 +20230,50 @@
    "exit_price": 1.0,
    "pnl": 400.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112572782652712459344467707127844813205706477512183125298958798934459345767188",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "opened_at": "2026-08-10T18:15:24.789384+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 2430.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.54,
+   "ask_depth": 30829.56,
+   "status": "won",
+   "closed_at": "2026-08-11T21:45:25.636024+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26408097413984087516508508165248158044536720425593514919473421470041710576480",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Arthur Fils",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "opened_at": "2026-08-11T17:05:27.885493+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 6880.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.43,
+   "ask_depth": 14797.61,
+   "status": "lost",
+   "closed_at": "2026-08-11T21:45:25.873897+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21929,6 +21937,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": 256.1989000000005,
- "last_updated": "2026-08-11T17:05:28.390123+00:00"
+ "total_pnl": 241.3841000000005,
+ "last_updated": "2026-08-11T21:45:25.875514+00:00"
 }
