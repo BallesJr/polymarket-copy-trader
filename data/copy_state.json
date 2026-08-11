@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9556.199067000001,
+ "bankroll": 10056.199067000001,
  "last_seen": {
   "jtwyslljy": 1786432768,
   "0x53757615de": 1784324596
@@ -14309,24 +14309,6 @@
    "best_ask": 0.54,
    "ask_depth": 30829.56,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "48827028097068649868170398414008921004131836667843900022685130161593646343931",
-   "condition_id": "0x45a5bdf9359a730d3dcb814cb34e2ec8527ace22521b53b9f6b067b17a218324",
-   "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
-   "outcome": "DN SOOPers",
-   "slug": "lol-hle1-dnf-2026-08-11",
-   "opened_at": "2026-08-11T07:25:29.725508+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 1000.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.2,
-   "ask_depth": 12233.81,
-   "status": "open"
   }
  ],
  "closed": [
@@ -20151,6 +20133,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "48827028097068649868170398414008921004131836667843900022685130161593646343931",
+   "condition_id": "0x45a5bdf9359a730d3dcb814cb34e2ec8527ace22521b53b9f6b067b17a218324",
+   "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "DN SOOPers",
+   "slug": "lol-hle1-dnf-2026-08-11",
+   "opened_at": "2026-08-11T07:25:29.725508+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.2,
+   "ask_depth": 12233.81,
+   "status": "won",
+   "closed_at": "2026-08-11T14:50:30.777691+00:00",
+   "exit_price": 1.0,
+   "pnl": 400.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21814,6 +21818,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": -143.8010999999995,
- "last_updated": "2026-08-11T07:25:30.324310+00:00"
+ "total_pnl": 256.1989000000005,
+ "last_updated": "2026-08-11T14:50:30.779173+00:00"
 }
