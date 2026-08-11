@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9856.199067000001,
+ "bankroll": 9756.199067000001,
  "last_seen": {
-  "jtwyslljy": 1786466844,
+  "jtwyslljy": 1786467648,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9315,6 +9315,13 @@
    "BUY",
    5766.93,
    1786466844
+  ],
+  [
+   "0xe67e7179b05eff2630d832f2768e6cdabd93e0037a532b855036b8708f8a1de8",
+   "26408097413984087516508508165248158044536720425593514919473421470041710576480",
+   "BUY",
+   16000,
+   1786467648
   ]
  ],
  "leader_pos": {
@@ -14309,6 +14316,18 @@
    "cost": 2076.0948,
    "max_shares": 5766.93,
    "last_trade_ts": 1786466844
+  },
+  "jtwyslljy|26408097413984087516508508165248158044536720425593514919473421470041710576480": {
+   "leader": "jtwyslljy",
+   "asset": "26408097413984087516508508165248158044536720425593514919473421470041710576480",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Arthur Fils",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "shares": 16000.0,
+   "cost": 6880.0,
+   "max_shares": 16000.0,
+   "last_trade_ts": 1786467648
   }
  },
  "positions": [
@@ -14382,6 +14401,24 @@
    "copy_delay_min": 3.5,
    "best_ask": 0.57,
    "ask_depth": 90289.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26408097413984087516508508165248158044536720425593514919473421470041710576480",
+   "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
+   "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
+   "outcome": "Arthur Fils",
+   "slug": "atp-jodar-fils-2026-08-11",
+   "opened_at": "2026-08-11T17:05:27.885493+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 6880.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.43,
+   "ask_depth": 14797.61,
    "status": "open"
   }
  ],
@@ -21893,5 +21930,5 @@
   }
  ],
  "total_pnl": 256.1989000000005,
- "last_updated": "2026-08-11T16:50:28.427143+00:00"
+ "last_updated": "2026-08-11T17:05:28.390123+00:00"
 }
