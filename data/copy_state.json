@@ -14275,24 +14275,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "34691510069031117755834214800869745291092253295564665516660269316660628637961",
-   "condition_id": "0x94a39addec8bd24a2d03deeaa43bdee6a2b11eca403cd12495eb24132cc23173",
-   "title": "National Bank Open: Diana Shnaider vs Iga Swiatek",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-shnaide-swiatek-2026-08-11",
-   "opened_at": "2026-08-10T18:00:48.683499+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 2320.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.29,
-   "ask_depth": 42806.21,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "112572782652712459344467707127844813205706477512183125298958798934459345767188",
    "condition_id": "0x8fb8c5b5e504f8b1bbf18ac9aa85aefc65bba1ffc5075c91910d0dd9767c7486",
    "title": "National Bank Open: Rafael Jodar vs Arthur Fils",
@@ -20106,6 +20088,28 @@
    "exit_price": 1.0,
    "pnl": 85.1852,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34691510069031117755834214800869745291092253295564665516660269316660628637961",
+   "condition_id": "0x94a39addec8bd24a2d03deeaa43bdee6a2b11eca403cd12495eb24132cc23173",
+   "title": "National Bank Open: Diana Shnaider vs Iga Swiatek",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-swiatek-2026-08-11",
+   "opened_at": "2026-08-10T18:00:48.683499+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2320.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.29,
+   "ask_depth": 42806.21,
+   "status": "lost",
+   "closed_at": "2026-08-11T00:50:29.199306+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21769,6 +21773,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": 56.19890000000048,
- "last_updated": "2026-08-10T18:15:25.510910+00:00"
+ "total_pnl": -43.80109999999952,
+ "last_updated": "2026-08-11T00:50:29.201097+00:00"
 }
