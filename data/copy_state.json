@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10056.199067000001,
+ "bankroll": 9856.199067000001,
  "last_seen": {
-  "jtwyslljy": 1786432768,
+  "jtwyslljy": 1786466844,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9301,6 +9301,20 @@
    "BUY",
    5000,
    1786432768
+  ],
+  [
+   "0x655a2dc1fcc5fb82ed4bcf3c4f9c3de8cae2cc47009560d051bb09bc185851fd",
+   "104486740643081254974525752019998672030199162695221654704624103829298972481194",
+   "BUY",
+   4200,
+   1786466818
+  ],
+  [
+   "0xea8e1de62f966f4caad1129347627d20933851717a144f697104dcc0520db258",
+   "67595109736830075730963636962488819885599608680317919731663499100926394915325",
+   "BUY",
+   5766.93,
+   1786466844
   ]
  ],
  "leader_pos": {
@@ -14271,6 +14285,30 @@
    "cost": 1000.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1786432768
+  },
+  "jtwyslljy|104486740643081254974525752019998672030199162695221654704624103829298972481194": {
+   "leader": "jtwyslljy",
+   "asset": "104486740643081254974525752019998672030199162695221654704624103829298972481194",
+   "condition_id": "0x328fe8cc2126f93b70dc9b8672eb9d57f047b7446a25a01791f745fcf16609e2",
+   "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-mensik-shelton-2026-08-11",
+   "shares": 4200.0,
+   "cost": 2394.0,
+   "max_shares": 4200.0,
+   "last_trade_ts": 1786466818
+  },
+  "jtwyslljy|67595109736830075730963636962488819885599608680317919731663499100926394915325": {
+   "leader": "jtwyslljy",
+   "asset": "67595109736830075730963636962488819885599608680317919731663499100926394915325",
+   "condition_id": "0x7e8d5e2089c8bfc5eeb99d1f6449dff8ae1c0bc3fbd4959921e46d6a019682d6",
+   "title": "National Bank Open: Daniel Merida Aguilar vs Learner Tien",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-tien-2026-08-11",
+   "shares": 5766.93,
+   "cost": 2076.0948,
+   "max_shares": 5766.93,
+   "last_trade_ts": 1786466844
   }
  },
  "positions": [
@@ -14308,6 +14346,42 @@
    "copy_delay_min": 8.0,
    "best_ask": 0.54,
    "ask_depth": 30829.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67595109736830075730963636962488819885599608680317919731663499100926394915325",
+   "condition_id": "0x7e8d5e2089c8bfc5eeb99d1f6449dff8ae1c0bc3fbd4959921e46d6a019682d6",
+   "title": "National Bank Open: Daniel Merida Aguilar vs Learner Tien",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-tien-2026-08-11",
+   "opened_at": "2026-08-11T16:50:27.372200+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2076.09,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.37,
+   "ask_depth": 35336.99,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104486740643081254974525752019998672030199162695221654704624103829298972481194",
+   "condition_id": "0x328fe8cc2126f93b70dc9b8672eb9d57f047b7446a25a01791f745fcf16609e2",
+   "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-mensik-shelton-2026-08-11",
+   "opened_at": "2026-08-11T16:50:27.587183+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2394.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.57,
+   "ask_depth": 90289.4,
    "status": "open"
   }
  ],
@@ -21819,5 +21893,5 @@
   }
  ],
  "total_pnl": 256.1989000000005,
- "last_updated": "2026-08-11T14:50:30.779173+00:00"
+ "last_updated": "2026-08-11T16:50:28.427143+00:00"
 }
