@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9656.199067000001,
+ "bankroll": 9556.199067000001,
  "last_seen": {
-  "jtwyslljy": 1786385350,
+  "jtwyslljy": 1786432768,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9294,6 +9294,13 @@
    "BUY",
    7000,
    1786385350
+  ],
+  [
+   "0x09a1497a9e598cfdcd5fff0e656b97e101f5e880390d522b8b8f1b1822fcf2dd",
+   "48827028097068649868170398414008921004131836667843900022685130161593646343931",
+   "BUY",
+   5000,
+   1786432768
   ]
  ],
  "leader_pos": {
@@ -14252,6 +14259,18 @@
    "cost": 2029.9999999999998,
    "max_shares": 7000.0,
    "last_trade_ts": 1786385350
+  },
+  "jtwyslljy|48827028097068649868170398414008921004131836667843900022685130161593646343931": {
+   "leader": "jtwyslljy",
+   "asset": "48827028097068649868170398414008921004131836667843900022685130161593646343931",
+   "condition_id": "0x45a5bdf9359a730d3dcb814cb34e2ec8527ace22521b53b9f6b067b17a218324",
+   "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "DN SOOPers",
+   "slug": "lol-hle1-dnf-2026-08-11",
+   "shares": 5000.0,
+   "cost": 1000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1786432768
   }
  },
  "positions": [
@@ -14289,6 +14308,24 @@
    "copy_delay_min": 8.0,
    "best_ask": 0.54,
    "ask_depth": 30829.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "48827028097068649868170398414008921004131836667843900022685130161593646343931",
+   "condition_id": "0x45a5bdf9359a730d3dcb814cb34e2ec8527ace22521b53b9f6b067b17a218324",
+   "title": "LoL: Hanwha Life Esports vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "DN SOOPers",
+   "slug": "lol-hle1-dnf-2026-08-11",
+   "opened_at": "2026-08-11T07:25:29.725508+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.2,
+   "ask_depth": 12233.81,
    "status": "open"
   }
  ],
@@ -21778,5 +21815,5 @@
   }
  ],
  "total_pnl": -143.8010999999995,
- "last_updated": "2026-08-11T02:50:28.287664+00:00"
+ "last_updated": "2026-08-11T07:25:30.324310+00:00"
 }
