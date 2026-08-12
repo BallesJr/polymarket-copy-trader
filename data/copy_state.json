@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9916.822867,
+ "bankroll": 10070.669067,
  "last_seen": {
   "jtwyslljy": 1786546383,
   "0x53757615de": 1784324596
@@ -14471,42 +14471,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "18776301082341150343973705764442698355846753604381609172524369297867637043372",
-   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
-   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "KT Rolster",
-   "slug": "lol-kt-dk-2026-08-12",
-   "opened_at": "2026-08-12T08:50:33.033560+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 1110.0,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.37,
-   "ask_depth": 125087.31,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "54168830547435529454436627291590270129722808725775536743528705116159111874519",
-   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
-   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "Dplus KIA",
-   "slug": "lol-kt-dk-2026-08-12",
-   "opened_at": "2026-08-12T10:15:28.619614+00:00",
-   "entry_price": 0.65,
-   "shares": 153.8462,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 1732.44,
-   "copy_delay_min": 8.4,
-   "best_ask": 0.65,
-   "ask_depth": 1661.63,
-   "status": "open"
   }
  ],
  "closed": [
@@ -20441,6 +20405,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "18776301082341150343973705764442698355846753604381609172524369297867637043372",
+   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
+   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-kt-dk-2026-08-12",
+   "opened_at": "2026-08-12T08:50:33.033560+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 1110.0,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.37,
+   "ask_depth": 125087.31,
+   "status": "lost",
+   "closed_at": "2026-08-12T15:15:29.119351+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54168830547435529454436627291590270129722808725775536743528705116159111874519",
+   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
+   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-kt-dk-2026-08-12",
+   "opened_at": "2026-08-12T10:15:28.619614+00:00",
+   "entry_price": 0.65,
+   "shares": 153.8462,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1732.44,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.65,
+   "ask_depth": 1661.63,
+   "status": "won",
+   "closed_at": "2026-08-12T15:15:29.585772+00:00",
+   "exit_price": 1.0,
+   "pnl": 53.8462,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -22154,6 +22162,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": 216.8227000000005,
- "last_updated": "2026-08-12T14:55:27.400709+00:00"
+ "total_pnl": 170.66890000000052,
+ "last_updated": "2026-08-12T15:15:29.587275+00:00"
 }
