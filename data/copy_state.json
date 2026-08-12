@@ -14348,24 +14348,6 @@
    "best_ask": 0.46,
    "ask_depth": 2134.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "67595109736830075730963636962488819885599608680317919731663499100926394915325",
-   "condition_id": "0x7e8d5e2089c8bfc5eeb99d1f6449dff8ae1c0bc3fbd4959921e46d6a019682d6",
-   "title": "National Bank Open: Daniel Merida Aguilar vs Learner Tien",
-   "outcome": "Daniel Merida Aguilar",
-   "slug": "atp-aguilar-tien-2026-08-11",
-   "opened_at": "2026-08-11T16:50:27.372200+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 2076.09,
-   "copy_delay_min": 3.0,
-   "best_ask": 0.37,
-   "ask_depth": 35336.99,
-   "status": "open"
   }
  ],
  "closed": [
@@ -20278,6 +20260,28 @@
    "exit_price": 1.0,
    "pnl": 75.4386,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67595109736830075730963636962488819885599608680317919731663499100926394915325",
+   "condition_id": "0x7e8d5e2089c8bfc5eeb99d1f6449dff8ae1c0bc3fbd4959921e46d6a019682d6",
+   "title": "National Bank Open: Daniel Merida Aguilar vs Learner Tien",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-tien-2026-08-11",
+   "opened_at": "2026-08-11T16:50:27.372200+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2076.09,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.37,
+   "ask_depth": 35336.99,
+   "status": "lost",
+   "closed_at": "2026-08-12T01:35:26.705951+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21941,6 +21945,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": 316.8227000000005,
- "last_updated": "2026-08-12T00:05:23.784859+00:00"
+ "total_pnl": 216.8227000000005,
+ "last_updated": "2026-08-12T01:35:26.707727+00:00"
 }
