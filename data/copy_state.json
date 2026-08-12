@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9916.822867,
  "last_seen": {
-  "jtwyslljy": 1786529365,
+  "jtwyslljy": 1786530874,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9357,6 +9357,20 @@
    "BUY",
    4000,
    1786529365
+  ],
+  [
+   "0x3bb9c5ed8420afcbf42e57e8c7ee8d379c306ce06dfcc4b04a9f6e24394af55a",
+   "54168830547435529454436627291590270129722808725775536743528705116159111874519",
+   "BUY",
+   2000,
+   1786530814
+  ],
+  [
+   "0x0f97c5c5e4cf17daf1c8186c6d2ad0bade7309400cbc0809c5f22c3e01fbe0df",
+   "16299260096200653317901895502208095746927363367294658912797401699960237782921",
+   "SELL",
+   1229.53,
+   1786530874
   ]
  ],
  "leader_pos": {
@@ -14395,10 +14409,10 @@
    "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Dplus KIA",
    "slug": "lol-kt-dk-2026-08-12",
-   "shares": 2706.94,
-   "cost": 1732.4416,
-   "max_shares": 2706.94,
-   "last_trade_ts": 1786529221
+   "shares": 4706.9400000000005,
+   "cost": 3032.4416,
+   "max_shares": 4706.9400000000005,
+   "last_trade_ts": 1786530814
   },
   "jtwyslljy|16299260096200653317901895502208095746927363367294658912797401699960237782921": {
    "leader": "jtwyslljy",
@@ -14407,10 +14421,10 @@
    "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend",
    "slug": "lol-edg-al-2026-08-12",
-   "shares": 4000.0,
-   "cost": 2560.0,
+   "shares": 2770.4700000000003,
+   "cost": 1846.8726000000001,
    "max_shares": 4000.0,
-   "last_trade_ts": 1786529365
+   "last_trade_ts": 1786530874
   }
  },
  "positions": [
@@ -22082,8 +22096,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-08-12T10:40:28.463388+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T09:00:00+00:00",
+   "condition_id": "0x4bd9cb7e0222ed3ecde18eef48f5c5d49f5c139e3df26e557dd20bb9d6412ce8",
+   "copy_delay_min": 5.9,
+   "leader": "jtwyslljy",
+   "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend"
   }
  ],
  "total_pnl": 216.8227000000005,
- "last_updated": "2026-08-12T10:15:29.393160+00:00"
+ "last_updated": "2026-08-12T10:40:29.035773+00:00"
 }
