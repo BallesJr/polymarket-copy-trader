@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9970.669067,
+ "bankroll": 9870.669067,
  "last_seen": {
-  "jtwyslljy": 1786555797,
+  "jtwyslljy": 1786556125,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9406,6 +9406,13 @@
    "BUY",
    12000,
    1786555797
+  ],
+  [
+   "0x330c6239d463aa2bb4b2a5f701e095b3aef12d455fcd174fcc374d7d3a986adf",
+   "99347306366519381964153463146530871619855032205361362717026886770072740705321",
+   "BUY",
+   3000,
+   1786556125
   ]
  ],
  "leader_pos": {
@@ -14496,6 +14503,18 @@
    "cost": 10120.0,
    "max_shares": 23000.0,
    "last_trade_ts": 1786555797
+  },
+  "jtwyslljy|99347306366519381964153463146530871619855032205361362717026886770072740705321": {
+   "leader": "jtwyslljy",
+   "asset": "99347306366519381964153463146530871619855032205361362717026886770072740705321",
+   "condition_id": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
+   "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-nakashi-2026-08-12",
+   "shares": 3000.0,
+   "cost": 2040.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786556125
   }
  },
  "positions": [
@@ -14533,6 +14552,24 @@
    "copy_delay_min": 0.6,
    "best_ask": 0.44,
    "ask_depth": 25977.35,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "99347306366519381964153463146530871619855032205361362717026886770072740705321",
+   "condition_id": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
+   "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-nakashi-2026-08-12",
+   "opened_at": "2026-08-12T17:38:17.350438+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 2040.0,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.68,
+   "ask_depth": 115182.59,
    "status": "open"
   }
  ],
@@ -22236,5 +22273,5 @@
   }
  ],
  "total_pnl": 170.66890000000052,
- "last_updated": "2026-08-12T17:30:35.950768+00:00"
+ "last_updated": "2026-08-12T17:38:18.044330+00:00"
 }
