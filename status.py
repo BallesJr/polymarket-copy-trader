@@ -53,9 +53,10 @@ def main():
         except (ValueError, IndexError, json.JSONDecodeError):
             pass
         if cur is None and not m:
-            won = clob_winner(p["condition_id"], p["asset"])
-            if won is not None:
-                state, cur = ("WON" if won else "LOST"), (1.0 if won else 0.0)
+            px = clob_winner(p["condition_id"], p["asset"])
+            if px is not None:
+                state = "WON" if px > 0.5 else "REFUND" if px == 0.5 else "LOST"
+                cur = px
         if cur is None:
             # no book and no resolution: don't assume cost value, mark at 0
             state, cur = "no data", 0.0

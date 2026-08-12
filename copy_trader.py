@@ -128,7 +128,9 @@ def sim_fill(book, side, budget=None, size=None, limit_px=None):
 
 def clob_winner(condition_id, asset):
     """Gamma omits resolved markets from condition_ids queries; CLOB still serves
-    them per-condition with winner flags. None = not resolved yet / unknown."""
+    them per-condition with winner flags. Returns payout per share (1.0/0.0, or
+    0.5 for canceled matches resolved 50/50 with no winner flag), None = not
+    resolved yet / unknown."""
     try:
         r = requests.get(f"{CLOB}/markets/{condition_id}", timeout=20)
         r.raise_for_status()
@@ -137,11 +139,18 @@ def clob_winner(condition_id, asset):
         print(f"  [ERR] clob market {condition_id[:10]}: {e}")
         return None
     toks = m.get("tokens") or []
-    if not m.get("closed") or not any(t.get("winner") for t in toks):
+    if not m.get("closed"):
         return None
-    for t in toks:
-        if t.get("token_id") == asset:
-            return bool(t.get("winner"))
+    if any(t.get("winner") for t in toks):
+        for t in toks:
+            if t.get("token_id") == asset:
+                return 1.0 if t.get("winner") else 0.0
+        return None
+    # closed with no winner on any token: canceled markets (walkover/retirement)
+    # settle 50/50 and never get a winner flag; require the 0.5 price signature
+    # so a closed-but-not-yet-resolved market keeps waiting
+    if toks and all(float(t.get("price") or 0) == 0.5 for t in toks):
+        return 0.5
     return None
 
 def game_start_ts(condition_id, _cache={}):
@@ -188,29 +197,31 @@ def resolve_positions(st):
     still_open = []
     for p in st["positions"]:
         m = closed_info.get(p["condition_id"])
-        won = None
+        px = None
         if m and m.get("closed"):
             try:
                 tokens = json.loads(m.get("clobTokenIds", "[]"))
                 prices = [float(x) for x in json.loads(m.get("outcomePrices", "[]"))]
-                idx = tokens.index(p["asset"])
-                won = prices[idx] > 0.5
+                gp = prices[tokens.index(p["asset"])]
+                # snap to final payouts; anything else means not fully resolved
+                px = 1.0 if gp >= 0.99 else 0.0 if gp <= 0.01 else 0.5 if gp == 0.5 else None
             except (ValueError, IndexError, json.JSONDecodeError):
-                won = None
-        if won is None and (m is None or m.get("closed")):
-            won = clob_winner(p["condition_id"], p["asset"])
+                px = None
+        if px is None and (m is None or m.get("closed")):
+            px = clob_winner(p["condition_id"], p["asset"])
             time.sleep(0.1)
-        if won is None:
+        if px is None:
             still_open.append(p)
             continue
-        payout = p["shares"] * (1.0 if won else 0.0)
-        p.update(status="won" if won else "lost", closed_at=iso(),
-                 exit_price=1.0 if won else 0.0, pnl=round(payout - p["stake"], 4),
+        payout = p["shares"] * px
+        status = "won" if px > 0.5 else "refund" if px == 0.5 else "lost"
+        p.update(status=status, closed_at=iso(),
+                 exit_price=px, pnl=round(payout - p["stake"], 4),
                  close_reason="resolved")
         st["bankroll"] += payout
         st["total_pnl"] += p["pnl"]
         st["closed"].append(p)
-        print(f"  [RESOLVED {'WIN' if won else 'LOSS'}] {p['title'][:50]} ({p['outcome']}) pnl {p['pnl']:+.2f}")
+        print(f"  [RESOLVED {status.upper()}] {p['title'][:50]} ({p['outcome']}) pnl {p['pnl']:+.2f}")
     st["positions"] = still_open
 
 def cycle(st):
