@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9941.384267000001,
+ "bankroll": 10116.822867,
  "last_seen": {
   "jtwyslljy": 1786467648,
   "0x53757615de": 1784324596
@@ -14366,24 +14366,6 @@
    "best_ask": 0.37,
    "ask_depth": 35336.99,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "104486740643081254974525752019998672030199162695221654704624103829298972481194",
-   "condition_id": "0x328fe8cc2126f93b70dc9b8672eb9d57f047b7446a25a01791f745fcf16609e2",
-   "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
-   "outcome": "Ben Shelton",
-   "slug": "atp-mensik-shelton-2026-08-11",
-   "opened_at": "2026-08-11T16:50:27.587183+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 2394.0,
-   "copy_delay_min": 3.5,
-   "best_ask": 0.57,
-   "ask_depth": 90289.4,
-   "status": "open"
   }
  ],
  "closed": [
@@ -20274,6 +20256,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104486740643081254974525752019998672030199162695221654704624103829298972481194",
+   "condition_id": "0x328fe8cc2126f93b70dc9b8672eb9d57f047b7446a25a01791f745fcf16609e2",
+   "title": "National Bank Open: Jakub Mensik vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-mensik-shelton-2026-08-11",
+   "opened_at": "2026-08-11T16:50:27.587183+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2394.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.57,
+   "ask_depth": 90289.4,
+   "status": "won",
+   "closed_at": "2026-08-12T00:05:23.783284+00:00",
+   "exit_price": 1.0,
+   "pnl": 75.4386,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -21937,6 +21941,6 @@
    "outcome": "Liudmila Samsonova"
   }
  ],
- "total_pnl": 241.3841000000005,
- "last_updated": "2026-08-11T21:45:25.875514+00:00"
+ "total_pnl": 316.8227000000005,
+ "last_updated": "2026-08-12T00:05:23.784859+00:00"
 }
