@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10016.822867,
+ "bankroll": 9916.822867,
  "last_seen": {
-  "jtwyslljy": 1786529173,
+  "jtwyslljy": 1786529365,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9336,6 +9336,27 @@
    "BUY",
    836.61,
    1786529173
+  ],
+  [
+   "0x319c05725dc689078e4a2026d165b83940e4ba53a766970853d55267dc283c42",
+   "54168830547435529454436627291590270129722808725775536743528705116159111874519",
+   "BUY",
+   2706.94,
+   1786529221
+  ],
+  [
+   "0xe5b928ef229ee28ceb0ead14fabe9b8e2ca60c316c5432f80e89cfde6b2c1e80",
+   "83918012109539856325069121542829351861121755068443319105428160825083612328645",
+   "BUY",
+   3000,
+   1786529281
+  ],
+  [
+   "0xf9bcc092d05b1ca8794b4e219219bcf252ca0df589753d348d818550ecaeba4d",
+   "16299260096200653317901895502208095746927363367294658912797401699960237782921",
+   "BUY",
+   4000,
+   1786529365
   ]
  ],
  "leader_pos": {
@@ -14362,10 +14383,34 @@
    "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
    "outcome": "Nongshim Red Force",
    "slug": "lol-dnf-ns-2026-08-12",
-   "shares": 836.61,
-   "cost": 334.644,
-   "max_shares": 836.61,
-   "last_trade_ts": 1786529173
+   "shares": 3836.61,
+   "cost": 685.8468,
+   "max_shares": 3836.61,
+   "last_trade_ts": 1786529281
+  },
+  "jtwyslljy|54168830547435529454436627291590270129722808725775536743528705116159111874519": {
+   "leader": "jtwyslljy",
+   "asset": "54168830547435529454436627291590270129722808725775536743528705116159111874519",
+   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
+   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-kt-dk-2026-08-12",
+   "shares": 2706.94,
+   "cost": 1732.4416,
+   "max_shares": 2706.94,
+   "last_trade_ts": 1786529221
+  },
+  "jtwyslljy|16299260096200653317901895502208095746927363367294658912797401699960237782921": {
+   "leader": "jtwyslljy",
+   "asset": "16299260096200653317901895502208095746927363367294658912797401699960237782921",
+   "condition_id": "0x4bd9cb7e0222ed3ecde18eef48f5c5d49f5c139e3df26e557dd20bb9d6412ce8",
+   "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend",
+   "slug": "lol-edg-al-2026-08-12",
+   "shares": 4000.0,
+   "cost": 2560.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1786529365
   }
  },
  "positions": [
@@ -14403,6 +14448,24 @@
    "copy_delay_min": 2.9,
    "best_ask": 0.37,
    "ask_depth": 125087.31,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54168830547435529454436627291590270129722808725775536743528705116159111874519",
+   "condition_id": "0x77601218f89d0166a46923aa9a410fec4b75b40c971cfee68af05956fbf7e10a",
+   "title": "LoL: KT Rolster vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA",
+   "slug": "lol-kt-dk-2026-08-12",
+   "opened_at": "2026-08-12T10:15:28.619614+00:00",
+   "entry_price": 0.65,
+   "shares": 153.8462,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1732.44,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.65,
+   "ask_depth": 1661.63,
    "status": "open"
   }
  ],
@@ -21999,8 +22062,28 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Liudmila Samsonova vs Elena Rybakina",
    "outcome": "Liudmila Samsonova"
+  },
+  {
+   "at": "2026-08-12T10:15:28.750804+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T08:00:00+00:00",
+   "condition_id": "0x621f09a374447eb0965f70f78e67bb79dd773e7ca76a7646f1dd94b787597968",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: DN SOOPers vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force"
+  },
+  {
+   "at": "2026-08-12T10:15:28.879843+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T09:00:00+00:00",
+   "condition_id": "0x4bd9cb7e0222ed3ecde18eef48f5c5d49f5c139e3df26e557dd20bb9d6412ce8",
+   "copy_delay_min": 6.0,
+   "leader": "jtwyslljy",
+   "title": "LoL: EDward Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend"
   }
  ],
  "total_pnl": 216.8227000000005,
- "last_updated": "2026-08-12T10:10:24.802160+00:00"
+ "last_updated": "2026-08-12T10:15:29.393160+00:00"
 }
