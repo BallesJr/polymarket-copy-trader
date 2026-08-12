@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9870.669067,
+ "bankroll": 9979.364717,
  "last_seen": {
   "jtwyslljy": 1786556125,
   "0x53757615de": 1784324596
@@ -14520,24 +14520,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "88071826543365117504496343038354159648076254276823928049229500655309670865588",
-   "condition_id": "0x59bd255a6b59d96cd1080858a5c47f4c9c872d2c55548ecaab088e0faa3c811c",
-   "title": "Swedish Open: Alejandro Tabilo vs Thiago Agustin Tirante",
-   "outcome": "Thiago Agustin Tirante",
-   "slug": "atp-tabilo-tirante-2026-07-17",
-   "opened_at": "2026-07-17T06:40:44.846904+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 4140.0,
-   "copy_delay_min": 7.3,
-   "best_ask": 0.46,
-   "ask_depth": 2134.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "66637820407304201646122137659668789933309332134728114443782639182600124598971",
    "condition_id": "0xa010c8e7ab644ca49a8c7d015bd80d6524e2d822fec6077e1f1019327507c65b",
    "title": "Will Paris Saint-Germain win on 2026-08-12?",
@@ -20549,6 +20531,28 @@
    "exit_price": 1.0,
    "pnl": 53.8462,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88071826543365117504496343038354159648076254276823928049229500655309670865588",
+   "condition_id": "0x59bd255a6b59d96cd1080858a5c47f4c9c872d2c55548ecaab088e0faa3c811c",
+   "title": "Swedish Open: Alejandro Tabilo vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-tabilo-tirante-2026-07-17",
+   "opened_at": "2026-07-17T06:40:44.846904+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 4140.0,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.46,
+   "ask_depth": 2134.93,
+   "status": "refund",
+   "closed_at": "2026-08-12T21:05:24.211887+00:00",
+   "exit_price": 0.5,
+   "pnl": 8.6957,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -22272,6 +22276,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": 170.66890000000052,
- "last_updated": "2026-08-12T17:38:18.044330+00:00"
+ "total_pnl": 179.3646000000005,
+ "last_updated": "2026-08-12T21:05:24.213578+00:00"
 }
