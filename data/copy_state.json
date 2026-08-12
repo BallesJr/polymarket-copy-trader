@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9916.822867,
  "last_seen": {
-  "jtwyslljy": 1786545741,
+  "jtwyslljy": 1786546383,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9378,6 +9378,13 @@
    "BUY",
    7800.23,
    1786545741
+  ],
+  [
+   "0x946edb120332c3315b9c328f9c587d2f313955789434eed264cb28d526286ead",
+   "85975130767219596412057108166141445703777898379611360487270296100474119092646",
+   "BUY",
+   5000,
+   1786546383
   ]
  ],
  "leader_pos": {
@@ -14440,10 +14447,10 @@
    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming",
    "slug": "lol-blg-jdg-2026-08-12",
-   "shares": 7800.23,
-   "cost": 3470.377299900948,
-   "max_shares": 7800.23,
-   "last_trade_ts": 1786545741
+   "shares": 12800.23,
+   "cost": 3918.612499900948,
+   "max_shares": 12800.23,
+   "last_trade_ts": 1786546383
   }
  },
  "positions": [
@@ -22135,8 +22142,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-08-12T14:55:26.954758+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T12:30:00+00:00",
+   "condition_id": "0x0643b1b4ba5556e1900e347b4660567817d59bb008c53afd599f7cadb8929acf",
+   "copy_delay_min": 2.4,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "Bilibili Gaming"
   }
  ],
  "total_pnl": 216.8227000000005,
- "last_updated": "2026-08-12T14:45:25.013795+00:00"
+ "last_updated": "2026-08-12T14:55:27.400709+00:00"
 }
