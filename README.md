@@ -10,9 +10,9 @@ Polymarket's leaderboard is full of wallets with impressive PnL, but a leaderboa
 - **Skill-vs-luck screen**: Computed per-wallet metrics designed to kill survivorship stories: realized PnL windowed to the same 30 days as the leaderboard, complete round-trips only (markets touched by SPLIT/MERGE dropped as unverifiable), daily-PnL t-statistic, PnL concentration (top-1/top-5 share), first-half vs second-half consistency, and truncation flags for wallets that hit the harvest cap.
 - **Deep verification**: For the shortlist, re-harvested 180 days of history (chunking by time windows to bypass the API's offset cap) and recomputed monthly PnL matrices and t-stats *excluding June 2026* — if a wallet's edge only exists during the World Cup, copying it afterwards buys nothing.
 - **Copyability profile**: For each candidate, measured the PnL-weighted median hours between their first entry in a market and their last cash flow (the reaction window a copier gets), edge per share bought, and how their PnL survives 1/2/3 cents of entry+exit slippage. Two wallets passed every filter and became the leaders.
-- **Copy bot**: A paper trader that aggregates each leader's micro-orders into net cost per token and mirrors positions once conviction crosses a threshold, filling against the live CLOB order book — walking real ask depth with a price limit, not assuming the leader's price. Exits when the leader unwinds, waiting for bid depth to absorb us; resolutions settle at $1/$0 via the Gamma API with a CLOB winner-flag fallback (Gamma silently omits resolved markets).
-- **Skip log**: Entries rejected for chasing (ask beyond leader VWAP + limit) or thin books are recorded with the prices involved — the cost of *not* getting fills is part of what a copier pays.
-- **Automation**: Each cycle runs on GitHub Actions, triggered every 10 minutes by an external cron via `workflow_dispatch` — GitHub's own scheduler proved unreliable for this (a 30-minute cron fired every 1–4 hours in practice; the cron remains as fallback). State is committed back to the repo only when something beyond the timestamp changed.
+- **Copy bot**: A paper trader that aggregates each leader's micro-orders into net cost per token and mirrors positions once conviction crosses a threshold, filling against the live CLOB order book — walking real ask depth with a price limit, not assuming the leader's price. Since 2026-07-22, entries whose fill would land at/after the scheduled game start are skipped: an in-play fill prices in what the leader knew (see results). Exits when the leader unwinds, waiting for bid depth to absorb us; resolutions settle at $1/$0 via the Gamma API with a CLOB winner-flag fallback (Gamma silently omits resolved markets), and canceled matches that resolve 50/50 with no winner flag settle at $0.50.
+- **Skip log**: Entries rejected for chasing (ask beyond leader VWAP + limit), thin books, or landing in-play are recorded with the prices and timestamps involved — the cost of *not* getting fills is part of what a copier pays, and the in-play skips double as an unfiltered shadow series to test the filter against.
+- **Automation**: Each cycle runs on GitHub Actions, triggered every 5 minutes (10 before 2026-07-22) by an external cron via `workflow_dispatch` — GitHub's own scheduler proved unreliable for this (a 30-minute cron fired every 1–4 hours in practice; the cron remains as fallback). State is committed back to the repo only when something beyond the timestamp changed.
 
 ---
 
@@ -24,7 +24,7 @@ Polymarket's leaderboard is full of wallets with impressive PnL, but a leaderboa
 - `analyze_deep.py`: Long-window verification (monthly PnL, World-Cup-excluded t-stats) and the copyability profile.
 - `copy_trader.py`: The paper copy bot; persists state to `data/copy_state.json`.
 - `status.py`: Read-only portfolio status — open positions marked to live books, recent closes.
-- `.github/workflows/copy-trader.yml`: Runs one bot cycle; dispatched externally every 10 minutes.
+- `.github/workflows/copy-trader.yml`: Runs one bot cycle; dispatched externally every 5 minutes.
 
 ---
 
@@ -37,15 +37,29 @@ Polymarket's leaderboard is full of wallets with impressive PnL, but a leaderboa
 | Exit trigger | leader below 50% of their max shares |
 | Max chase | leader VWAP + $0.15, walking real ask depth |
 | Price band | [0.03, 0.97] |
+| In-play filter | skip entries at/after scheduled game start (since 2026-07-22) |
 | Initial bankroll | $10,000 paper |
 
 ---
 
 ## PAPER TRADING RESULTS
 
-Live state (bankroll, open/closed positions, skips, per-position leader VWAP and copy delay) is in `data/copy_state.json`, updated after every cycle.
+Live state (bankroll, open/closed positions, skips, per-position leader VWAP and copy delay) is in `data/copy_state.json`, updated after every cycle. The numbers below are a snapshot, **last updated 2026-08-12** — they go stale the moment the bot runs again, so if that date is old, trust the state file over this section.
 
-**Regime note**: positions opened before 2026-07-05 ~12:30 UTC ran under GitHub's unreliable scheduler and carry copy delays of 26–130 minutes; the external 10-minute trigger deployed that day brings delays down to single digits. The two regimes answer different questions (what a slow copier gets vs a fast one), so analyses should split on that boundary.
+### Snapshot as of 2026-08-12 (bot live since 2026-07-03)
+
+| Period (by open date) | Trades | Realized PnL | Win rate | Avg / trade |
+|---|---|---|---|---|
+| Before in-play filter (07-03 → 07-22) | 191 | −$1,937 | 38.7% | −$10.14 |
+| After filter + 5-min trigger (07-22 → 08-12) | 81 | **+$2,108** | 46.9% | +$26.03 (t = 1.53) |
+
+Cumulative realized PnL is back above water (+$171 on the $10,000 paper bankroll). The honest caveat: a counterfactual replay of the 141 entries the in-play filter skipped (entry at the market price at skip time, same $100 stake, 134 resolved) would have made **+$1,485 too** — the copied trades beat the skipped ones by only ~$15/trade (Welch t = 0.69, not significant). So far the turnaround says more about the leader's regime than about the filter; the filter stays because the skipped set still underperforms the copied set and skipping costs nothing, but its value is unproven. (The counterfactual flatters the skips slightly: last-trade prices ignore the in-play spread a marketable order would actually cross.)
+
+**Regime notes** — analyses should split on these boundaries:
+
+- before 2026-07-05 ~12:30 UTC: GitHub's unreliable scheduler, copy delays of 26–130 minutes;
+- 2026-07-05 → 2026-07-22: external 10-minute trigger, single-digit delays (median 7.6 min, p90 13.9);
+- since 2026-07-22 23:30 UTC: in-play filter live and the trigger halved to 5 minutes (median delay 5.6 min, p90 9.6).
 
 ---
 
