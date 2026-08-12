@@ -14520,24 +14520,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "66637820407304201646122137659668789933309332134728114443782639182600124598971",
-   "condition_id": "0xa010c8e7ab644ca49a8c7d015bd80d6524e2d822fec6077e1f1019327507c65b",
-   "title": "Will Paris Saint-Germain win on 2026-08-12?",
-   "outcome": "No",
-   "slug": "usc-psg-av-2026-08-12",
-   "opened_at": "2026-08-12T17:30:35.043624+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 10120.0,
-   "copy_delay_min": 0.6,
-   "best_ask": 0.44,
-   "ask_depth": 25977.35,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "99347306366519381964153463146530871619855032205361362717026886770072740705321",
    "condition_id": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
    "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
@@ -20553,6 +20535,28 @@
    "exit_price": 0.5,
    "pnl": 8.6957,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66637820407304201646122137659668789933309332134728114443782639182600124598971",
+   "condition_id": "0xa010c8e7ab644ca49a8c7d015bd80d6524e2d822fec6077e1f1019327507c65b",
+   "title": "Will Paris Saint-Germain win on 2026-08-12?",
+   "outcome": "No",
+   "slug": "usc-psg-av-2026-08-12",
+   "opened_at": "2026-08-12T17:30:35.043624+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 10120.0,
+   "copy_delay_min": 0.6,
+   "best_ask": 0.44,
+   "ask_depth": 25977.35,
+   "status": "lost",
+   "closed_at": "2026-08-12T23:35:25.189631+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -22276,6 +22280,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": 179.3646000000005,
- "last_updated": "2026-08-12T21:05:24.213578+00:00"
+ "total_pnl": 79.36460000000051,
+ "last_updated": "2026-08-12T23:35:25.191489+00:00"
 }
