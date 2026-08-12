@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10070.669067,
  "last_seen": {
-  "jtwyslljy": 1786546383,
+  "jtwyslljy": 1786547887,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9385,6 +9385,13 @@
    "BUY",
    5000,
    1786546383
+  ],
+  [
+   "0x066680b905dabc1328d4f31055d86cc2d229b886205bec41c0df4b8938e547fa",
+   "34461556193813855173428986995707463620646748376125152796756311213440430750679",
+   "BUY",
+   5000,
+   1786547887
   ]
  ],
  "leader_pos": {
@@ -14451,6 +14458,18 @@
    "cost": 3918.612499900948,
    "max_shares": 12800.23,
    "last_trade_ts": 1786546383
+  },
+  "jtwyslljy|34461556193813855173428986995707463620646748376125152796756311213440430750679": {
+   "leader": "jtwyslljy",
+   "asset": "34461556193813855173428986995707463620646748376125152796756311213440430750679",
+   "condition_id": "0x41904c1ddf43fd90b92e247e6b150a796eb23389eace700980c77e280960be1e",
+   "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+   "outcome": "B8",
+   "slug": "cs2-prv-b8-2026-08-12",
+   "shares": 5000.0,
+   "cost": 1690.1434000000002,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1786547887
   }
  },
  "positions": [
@@ -22160,8 +22179,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-08-12T15:20:32.944730+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T14:45:00+00:00",
+   "condition_id": "0x41904c1ddf43fd90b92e247e6b150a796eb23389eace700980c77e280960be1e",
+   "copy_delay_min": 2.4,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
+   "outcome": "B8"
   }
  ],
  "total_pnl": 170.66890000000052,
- "last_updated": "2026-08-12T15:15:29.587275+00:00"
+ "last_updated": "2026-08-12T15:20:43.313180+00:00"
 }
