@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9879.364717,
  "last_seen": {
-  "jtwyslljy": 1786603986,
+  "jtwyslljy": 1786613446,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9441,6 +9441,13 @@
    "BUY",
    35000,
    1786603986
+  ],
+  [
+   "0x310168779bee356ed1e9b0a6e8b1f4ed385686c58613daba89cf5dfd659c8828",
+   "113908883482535318783973644731161691413694011032511862015137588209443057797164",
+   "BUY",
+   3000,
+   1786613446
   ]
  ],
  "leader_pos": {
@@ -14591,6 +14598,18 @@
    "cost": 15050.0,
    "max_shares": 35000.0,
    "last_trade_ts": 1786603986
+  },
+  "jtwyslljy|113908883482535318783973644731161691413694011032511862015137588209443057797164": {
+   "leader": "jtwyslljy",
+   "asset": "113908883482535318783973644731161691413694011032511862015137588209443057797164",
+   "condition_id": "0xef3a95c29d4750a22ec450b6e37aff1cf1b2bda1e21a752cfcc14d482e5ea651",
+   "title": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX",
+   "slug": "lol-drx-fox1-2026-08-13",
+   "shares": 3000.0,
+   "cost": 1680.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786613446
   }
  },
  "positions": [
@@ -22406,8 +22425,18 @@
    "leader": "jtwyslljy",
    "title": "Kansas City Royals vs. Los Angeles Dodgers",
    "outcome": "Kansas City Royals"
+  },
+  {
+   "at": "2026-08-13T09:40:26.804247+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T08:00:00+00:00",
+   "condition_id": "0xef3a95c29d4750a22ec450b6e37aff1cf1b2bda1e21a752cfcc14d482e5ea651",
+   "copy_delay_min": 9.7,
+   "leader": "jtwyslljy",
+   "title": "LoL: Kiwoom DRX vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T07:00:43.289818+00:00"
+ "last_updated": "2026-08-13T09:40:27.021992+00:00"
 }
