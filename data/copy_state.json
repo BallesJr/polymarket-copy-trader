@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9479.364717,
  "last_seen": {
-  "jtwyslljy": 1786640184,
+  "jtwyslljy": 1786640310,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9532,6 +9532,13 @@
    "BUY",
    5000,
    1786640184
+  ],
+  [
+   "0x73d8c04fbc487d5f30ae26381287837e357cc98d5f551ae566e6762910526b25",
+   "47516000204429128257930254332844365796306542701443101050738220022244494333314",
+   "BUY",
+   10000,
+   1786640310
   ]
  ],
  "leader_pos": {
@@ -14750,10 +14757,10 @@
    "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
    "outcome": "Darja Vidmanova",
    "slug": "wta-vidmano-kalinin-2026-08-13",
-   "shares": 13000.0,
-   "cost": 4838.5814001,
-   "max_shares": 13000.0,
-   "last_trade_ts": 1786640184
+   "shares": 23000.0,
+   "cost": 6438.5814001,
+   "max_shares": 23000.0,
+   "last_trade_ts": 1786640310
   },
   "jtwyslljy|108967261842572361192388412828302526681231091481517575098450959988751236949914": {
    "leader": "jtwyslljy",
@@ -22719,8 +22726,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
    "outcome": "Darja Vidmanova"
+  },
+  {
+   "at": "2026-08-13T17:05:21.177349+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T15:10:00+00:00",
+   "condition_id": "0x107dcfc3061b3990d169cc28d09f979adbee452b0d5e6d30af5cf34037652e5c",
+   "copy_delay_min": 6.8,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
+   "outcome": "Darja Vidmanova"
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T17:00:49.318376+00:00"
+ "last_updated": "2026-08-13T17:05:21.463903+00:00"
 }
