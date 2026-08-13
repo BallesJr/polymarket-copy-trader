@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9979.364717,
  "last_seen": {
-  "jtwyslljy": 1786586173,
+  "jtwyslljy": 1786591422,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9420,6 +9420,13 @@
    "BUY",
    2000,
    1786586173
+  ],
+  [
+   "0xb6592fe5c05b5322bd781a8d6326fde3a10f3419a2061a4b5585153cc2024cc3",
+   "38153956507454164102279446359073203739752930638077107256593311905923408985256",
+   "BUY",
+   3333,
+   1786591422
   ]
  ],
  "leader_pos": {
@@ -14534,6 +14541,18 @@
    "cost": 1000.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1786586173
+  },
+  "jtwyslljy|38153956507454164102279446359073203739752930638077107256593311905923408985256": {
+   "leader": "jtwyslljy",
+   "asset": "38153956507454164102279446359073203739752930638077107256593311905923408985256",
+   "condition_id": "0xb070077bf16827445a91856027beb8010c6242a24a47aae0af36e83894e81883",
+   "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-gauff-rybakin-2026-08-12",
+   "shares": 3333.0,
+   "cost": 1666.5,
+   "max_shares": 3333.0,
+   "last_trade_ts": 1786591422
   }
  },
  "positions": [],
@@ -22310,8 +22329,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Elina Svitolina vs Iga Swiatek",
    "outcome": "Iga Swiatek"
+  },
+  {
+   "at": "2026-08-13T03:30:35.243903+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T02:50:00+00:00",
+   "condition_id": "0xb070077bf16827445a91856027beb8010c6242a24a47aae0af36e83894e81883",
+   "copy_delay_min": 6.9,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
+   "outcome": "Elena Rybakina"
   }
  ],
  "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T02:00:40.850030+00:00"
+ "last_updated": "2026-08-13T03:30:35.244337+00:00"
 }
