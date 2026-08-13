@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9479.364717,
+ "bankroll": 9379.364717,
  "last_seen": {
-  "jtwyslljy": 1786640622,
+  "jtwyslljy": 1786643323,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9553,6 +9553,27 @@
    "BUY",
    2000,
    1786640622
+  ],
+  [
+   "0x6c26035e75f334b735ad0a8c7e459fce4cc203c38db88d0f2439735c26d67916",
+   "100051074072980169583476532946858977012817894011189514742827608619338025717813",
+   "BUY",
+   7148.9,
+   1786643133
+  ],
+  [
+   "0xfe816e3efede35ef2eab918ee10b5bc15f74ea64710b5af9eca633da6b42922c",
+   "100051074072980169583476532946858977012817894011189514742827608619338025717813",
+   "BUY",
+   2848.99,
+   1786643178
+  ],
+  [
+   "0xd0f5c27457e3432f7f7d66964ad76fdf37524dbb57ba5db0bd6df909eafbf67c",
+   "3509089010377765916131961828110392003762660469157823998420577303369987030714",
+   "BUY",
+   3499.99,
+   1786643323
   ]
  ],
  "leader_pos": {
@@ -14823,6 +14844,30 @@
    "cost": 1220.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1786640622
+  },
+  "jtwyslljy|100051074072980169583476532946858977012817894011189514742827608619338025717813": {
+   "leader": "jtwyslljy",
+   "asset": "100051074072980169583476532946858977012817894011189514742827608619338025717813",
+   "condition_id": "0x5e68ef759e8b9856972b1cbfd70803a2e449a394c77b7c3a778f52ce94ed4f4a",
+   "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
+   "outcome": "Dino Prizmic",
+   "slug": "atp-norrie-prizmic-2026-08-13",
+   "shares": 9997.89,
+   "cost": 3527.7513999999996,
+   "max_shares": 9997.89,
+   "last_trade_ts": 1786643178
+  },
+  "jtwyslljy|3509089010377765916131961828110392003762660469157823998420577303369987030714": {
+   "leader": "jtwyslljy",
+   "asset": "3509089010377765916131961828110392003762660469157823998420577303369987030714",
+   "condition_id": "0xe84f22824a32f0b8f19260cabb9bb046e737fa1e7f46a8619e4735889a6192c8",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski",
+   "outcome": "Jan Choinski",
+   "slug": "atp-tirante-choinsk-2026-08-13",
+   "shares": 3499.99,
+   "cost": 1189.9966,
+   "max_shares": 3499.99,
+   "last_trade_ts": 1786643323
   }
  },
  "positions": [
@@ -14896,6 +14941,24 @@
    "copy_delay_min": 8.0,
    "best_ask": 0.54,
    "ask_depth": 4759.33,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3509089010377765916131961828110392003762660469157823998420577303369987030714",
+   "condition_id": "0xe84f22824a32f0b8f19260cabb9bb046e737fa1e7f46a8619e4735889a6192c8",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski",
+   "outcome": "Jan Choinski",
+   "slug": "atp-tirante-choinsk-2026-08-13",
+   "opened_at": "2026-08-13T17:50:28.571049+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1190.0,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.34,
+   "ask_depth": 66396.91,
    "status": "open"
   }
  ],
@@ -22794,8 +22857,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Gabriela Ruse vs Magda Linette",
    "outcome": "Gabriela Ruse"
+  },
+  {
+   "at": "2026-08-13T17:50:28.772530+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T17:40:00+00:00",
+   "condition_id": "0x5e68ef759e8b9856972b1cbfd70803a2e449a394c77b7c3a778f52ce94ed4f4a",
+   "copy_delay_min": 4.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
+   "outcome": "Dino Prizmic"
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T17:09:32.768029+00:00"
+ "last_updated": "2026-08-13T17:50:29.137480+00:00"
 }
