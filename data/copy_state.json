@@ -14645,26 +14645,7 @@
    "last_trade_ts": 1786625097
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "76166142632502863111636033986770521770002601481581842235949590565123761079906",
-   "condition_id": "0x3a128e0a8ffd4b487c52237eae1fbafde68edaeec9a38d33c2375f7cd6140f69",
-   "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "Hanwha Life Esports",
-   "slug": "lol-gen-hle1-2026-08-13",
-   "opened_at": "2026-08-13T07:00:43.132301+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 15050.0,
-   "copy_delay_min": 7.6,
-   "best_ask": 0.44,
-   "ask_depth": 19958.34,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -20707,6 +20688,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76166142632502863111636033986770521770002601481581842235949590565123761079906",
+   "condition_id": "0x3a128e0a8ffd4b487c52237eae1fbafde68edaeec9a38d33c2375f7cd6140f69",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-gen-hle1-2026-08-13",
+   "opened_at": "2026-08-13T07:00:43.132301+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 15050.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.44,
+   "ask_depth": 19958.34,
+   "status": "lost",
+   "closed_at": "2026-08-13T15:45:34.035858+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -22480,6 +22483,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T12:50:25.637950+00:00"
+ "total_pnl": -120.63539999999949,
+ "last_updated": "2026-08-13T15:45:34.037515+00:00"
 }
