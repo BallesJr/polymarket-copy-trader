@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9979.364717,
+ "bankroll": 9879.364717,
  "last_seen": {
-  "jtwyslljy": 1786592961,
+  "jtwyslljy": 1786603986,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9434,6 +9434,13 @@
    "BUY",
    14337.23,
    1786592961
+  ],
+  [
+   "0xc733d54cb7116f4e5b03123eefda5db41d16dfee83f9537685274beaa4f2902c",
+   "76166142632502863111636033986770521770002601481581842235949590565123761079906",
+   "BUY",
+   35000,
+   1786603986
   ]
  ],
  "leader_pos": {
@@ -14572,9 +14579,40 @@
    "cost": 1433.723,
    "max_shares": 14337.23,
    "last_trade_ts": 1786592961
+  },
+  "jtwyslljy|76166142632502863111636033986770521770002601481581842235949590565123761079906": {
+   "leader": "jtwyslljy",
+   "asset": "76166142632502863111636033986770521770002601481581842235949590565123761079906",
+   "condition_id": "0x3a128e0a8ffd4b487c52237eae1fbafde68edaeec9a38d33c2375f7cd6140f69",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-gen-hle1-2026-08-13",
+   "shares": 35000.0,
+   "cost": 15050.0,
+   "max_shares": 35000.0,
+   "last_trade_ts": 1786603986
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "76166142632502863111636033986770521770002601481581842235949590565123761079906",
+   "condition_id": "0x3a128e0a8ffd4b487c52237eae1fbafde68edaeec9a38d33c2375f7cd6140f69",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-gen-hle1-2026-08-13",
+   "opened_at": "2026-08-13T07:00:43.132301+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 15050.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.44,
+   "ask_depth": 19958.34,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -22371,5 +22409,5 @@
   }
  ],
  "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T04:00:44.556092+00:00"
+ "last_updated": "2026-08-13T07:00:43.289818+00:00"
 }
