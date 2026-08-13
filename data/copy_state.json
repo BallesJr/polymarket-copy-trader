@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9379.364717,
+ "bankroll": 9079.364717,
  "last_seen": {
-  "jtwyslljy": 1786643323,
+  "jtwyslljy": 1786643604,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9574,6 +9574,34 @@
    "BUY",
    3499.99,
    1786643323
+  ],
+  [
+   "0xe18d4b74d3337440ea54d06ba5134f7b205634999c53a12026006269ace708dc",
+   "98507965838568863984779212063282383123218890053997267930434016871277203056610",
+   "BUY",
+   3000,
+   1786643395
+  ],
+  [
+   "0xf380faa633610d6d336b840a3a085bfcb91019f54bc2a251d35595519f573da1",
+   "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "BUY",
+   3500,
+   1786643427
+  ],
+  [
+   "0xc552b80947f4ac1cb83990bda4837690d28ba8cf735972ccad18736207ffd8eb",
+   "62060634784623357369508887927739082118611089931743416553772906573972299212419",
+   "BUY",
+   3000,
+   1786643583
+  ],
+  [
+   "0xf380933fc9c0274865f429d65f24b11ed845cae8bfb2df3f4a78f7bc58070659",
+   "5448963729102427728273079507854701604746807898146829415457065774844734170549",
+   "BUY",
+   3999.99,
+   1786643604
   ]
  ],
  "leader_pos": {
@@ -14780,10 +14808,10 @@
    "title": "Cincinnati Open: Mariano Navone vs Raphael Collignon",
    "outcome": "Mariano Navone",
    "slug": "atp-navone-collign-2026-08-13",
-   "shares": 3000.0,
-   "cost": 1320.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1786639528
+   "shares": 6000.0,
+   "cost": 2640.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1786643395
   },
   "jtwyslljy|47516000204429128257930254332844365796306542701443101050738220022244494333314": {
    "leader": "jtwyslljy",
@@ -14868,6 +14896,42 @@
    "cost": 1189.9966,
    "max_shares": 3499.99,
    "last_trade_ts": 1786643323
+  },
+  "jtwyslljy|29376722840915946356874501461233219938391951868705383198332369025340279074599": {
+   "leader": "jtwyslljy",
+   "asset": "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
+   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-svajda-bellucc-2026-08-13",
+   "shares": 3500.0,
+   "cost": 1330.0,
+   "max_shares": 3500.0,
+   "last_trade_ts": 1786643427
+  },
+  "jtwyslljy|62060634784623357369508887927739082118611089931743416553772906573972299212419": {
+   "leader": "jtwyslljy",
+   "asset": "62060634784623357369508887927739082118611089931743416553772906573972299212419",
+   "condition_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
+   "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-nakashi-2026-08-13",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786643583
+  },
+  "jtwyslljy|5448963729102427728273079507854701604746807898146829415457065774844734170549": {
+   "leader": "jtwyslljy",
+   "asset": "5448963729102427728273079507854701604746807898146829415457065774844734170549",
+   "condition_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
+   "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-rybakin-2026-08-13",
+   "shares": 3999.99,
+   "cost": 2239.9944,
+   "max_shares": 3999.99,
+   "last_trade_ts": 1786643604
   }
  },
  "positions": [
@@ -14959,6 +15023,60 @@
    "copy_delay_min": 1.7,
    "best_ask": 0.34,
    "ask_depth": 66396.91,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62060634784623357369508887927739082118611089931743416553772906573972299212419",
+   "condition_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
+   "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-nakashi-2026-08-13",
+   "opened_at": "2026-08-13T17:55:24.036374+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 2070.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.69,
+   "ask_depth": 23686.73,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
+   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-svajda-bellucc-2026-08-13",
+   "opened_at": "2026-08-13T17:55:24.183615+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1330.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.38,
+   "ask_depth": 13648.95,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5448963729102427728273079507854701604746807898146829415457065774844734170549",
+   "condition_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
+   "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-rybakin-2026-08-13",
+   "opened_at": "2026-08-13T17:55:24.319460+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 2239.99,
+   "copy_delay_min": 2.0,
+   "best_ask": 0.56,
+   "ask_depth": 40873.7,
    "status": "open"
   }
  ],
@@ -22870,5 +22988,5 @@
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T17:50:29.137480+00:00"
+ "last_updated": "2026-08-13T17:55:24.698579+00:00"
 }
