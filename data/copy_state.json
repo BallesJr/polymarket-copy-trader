@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9079.364717,
+ "bankroll": 9076.423525,
  "last_seen": {
-  "jtwyslljy": 1786643604,
+  "jtwyslljy": 1786646581,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9602,6 +9602,27 @@
    "BUY",
    3999.99,
    1786643604
+  ],
+  [
+   "0xb9d2656d775486129b933054146e625a1c08012402ee5c5f02af2c9b40070054",
+   "70947492875840491611478231879163767711213732816399451576426708184784244098031",
+   "BUY",
+   2000,
+   1786646514
+  ],
+  [
+   "0x2720dfe23892626dfd3985bcc427d0b30ebbb263d60ae9b521f112278470a644",
+   "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "BUY",
+   500,
+   1786646553
+  ],
+  [
+   "0x77aaf2ebeab071827a69ad82aacc3e2f902b8593942a245efcf3ac8d563b267c",
+   "3509089010377765916131961828110392003762660469157823998420577303369987030714",
+   "SELL",
+   3499.99,
+   1786646581
   ]
  ],
  "leader_pos": {
@@ -14892,10 +14913,10 @@
    "title": "Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski",
    "outcome": "Jan Choinski",
    "slug": "atp-tirante-choinsk-2026-08-13",
-   "shares": 3499.99,
-   "cost": 1189.9966,
+   "shares": 0.0,
+   "cost": 34.999900000000025,
    "max_shares": 3499.99,
-   "last_trade_ts": 1786643323
+   "last_trade_ts": 1786646581
   },
   "jtwyslljy|29376722840915946356874501461233219938391951868705383198332369025340279074599": {
    "leader": "jtwyslljy",
@@ -14904,10 +14925,10 @@
    "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
    "outcome": "Mattia Bellucci",
    "slug": "atp-svajda-bellucc-2026-08-13",
-   "shares": 3500.0,
-   "cost": 1330.0,
-   "max_shares": 3500.0,
-   "last_trade_ts": 1786643427
+   "shares": 4000.0,
+   "cost": 1520.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1786646553
   },
   "jtwyslljy|62060634784623357369508887927739082118611089931743416553772906573972299212419": {
    "leader": "jtwyslljy",
@@ -14932,6 +14953,18 @@
    "cost": 2239.9944,
    "max_shares": 3999.99,
    "last_trade_ts": 1786643604
+  },
+  "jtwyslljy|70947492875840491611478231879163767711213732816399451576426708184784244098031": {
+   "leader": "jtwyslljy",
+   "asset": "70947492875840491611478231879163767711213732816399451576426708184784244098031",
+   "condition_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
+   "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
+   "outcome": "Gael Monfils",
+   "slug": "atp-hijikat-monfils-2026-08-13",
+   "shares": 2000.0,
+   "cost": 1140.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786646514
   }
  },
  "positions": [
@@ -15009,24 +15042,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "3509089010377765916131961828110392003762660469157823998420577303369987030714",
-   "condition_id": "0xe84f22824a32f0b8f19260cabb9bb046e737fa1e7f46a8619e4735889a6192c8",
-   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski",
-   "outcome": "Jan Choinski",
-   "slug": "atp-tirante-choinsk-2026-08-13",
-   "opened_at": "2026-08-13T17:50:28.571049+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 1190.0,
-   "copy_delay_min": 1.7,
-   "best_ask": 0.34,
-   "ask_depth": 66396.91,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "62060634784623357369508887927739082118611089931743416553772906573972299212419",
    "condition_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
    "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
@@ -15077,6 +15092,24 @@
    "copy_delay_min": 2.0,
    "best_ask": 0.56,
    "ask_depth": 40873.7,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70947492875840491611478231879163767711213732816399451576426708184784244098031",
+   "condition_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
+   "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
+   "outcome": "Gael Monfils",
+   "slug": "atp-hijikat-monfils-2026-08-13",
+   "opened_at": "2026-08-13T18:45:35.242107+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1140.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.57,
+   "ask_depth": 20165.94,
    "status": "open"
   }
  ],
@@ -21144,6 +21177,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3509089010377765916131961828110392003762660469157823998420577303369987030714",
+   "condition_id": "0xe84f22824a32f0b8f19260cabb9bb046e737fa1e7f46a8619e4735889a6192c8",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jan Choinski",
+   "outcome": "Jan Choinski",
+   "slug": "atp-tirante-choinsk-2026-08-13",
+   "opened_at": "2026-08-13T17:50:28.571049+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1190.0,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.34,
+   "ask_depth": 66396.91,
+   "status": "closed",
+   "closed_at": "2026-08-13T18:45:35.006595+00:00",
+   "exit_price": 0.33,
+   "pnl": -2.9412,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -22987,6 +23042,6 @@
    "outcome": "Dino Prizmic"
   }
  ],
- "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T17:55:24.698579+00:00"
+ "total_pnl": -123.57659999999949,
+ "last_updated": "2026-08-13T18:45:35.603252+00:00"
 }
