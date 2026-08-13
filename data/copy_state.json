@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9479.364717,
  "last_seen": {
-  "jtwyslljy": 1786640310,
+  "jtwyslljy": 1786640622,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9539,6 +9539,20 @@
    "BUY",
    10000,
    1786640310
+  ],
+  [
+   "0xf087c7401aa672073399aa7f47fe18e8483c1355169bec40d75d1e7cc9d57625",
+   "23008688032765562259960758847330666442383791167052072075475023935649104755880",
+   "BUY",
+   2000,
+   1786640614
+  ],
+  [
+   "0x8932631337b216a8f8b2ca67c17a7f4fa2532b853bd34acc180ee25bbb8fb318",
+   "111265550317871481762768543348253353054218133890793672378406310209053066151472",
+   "BUY",
+   2000,
+   1786640622
   ]
  ],
  "leader_pos": {
@@ -14785,6 +14799,30 @@
    "cost": 1890.0000000000002,
    "max_shares": 3500.0,
    "last_trade_ts": 1786639966
+  },
+  "jtwyslljy|23008688032765562259960758847330666442383791167052072075475023935649104755880": {
+   "leader": "jtwyslljy",
+   "asset": "23008688032765562259960758847330666442383791167052072075475023935649104755880",
+   "condition_id": "0x92858bae2d5f9589c571f4f7c33b60266502a3fa32cdb73a69cd366147ccfe65",
+   "title": "Cincinnati Open: Gabriela Ruse vs Magda Linette",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ruse-linette-2026-08-13",
+   "shares": 2000.0,
+   "cost": 1200.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786640614
+  },
+  "jtwyslljy|111265550317871481762768543348253353054218133890793672378406310209053066151472": {
+   "leader": "jtwyslljy",
+   "asset": "111265550317871481762768543348253353054218133890793672378406310209053066151472",
+   "condition_id": "0x9967d95e09022e10212fc6b27bd25e89a67a3515c8b693182af4e16dc3439040",
+   "title": "Cincinnati Open: Antonia Ruzic vs Magdalena Frech",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-ruzic-frech-2026-08-13",
+   "shares": 2000.0,
+   "cost": 1220.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786640622
   }
  },
  "positions": [
@@ -22736,8 +22774,28 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
    "outcome": "Darja Vidmanova"
+  },
+  {
+   "at": "2026-08-13T17:09:32.073591+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T17:00:00+00:00",
+   "condition_id": "0x9967d95e09022e10212fc6b27bd25e89a67a3515c8b693182af4e16dc3439040",
+   "copy_delay_min": 5.8,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Antonia Ruzic vs Magdalena Frech",
+   "outcome": "Magdalena Frech"
+  },
+  {
+   "at": "2026-08-13T17:09:32.297673+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T17:00:00+00:00",
+   "condition_id": "0x92858bae2d5f9589c571f4f7c33b60266502a3fa32cdb73a69cd366147ccfe65",
+   "copy_delay_min": 6.0,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Gabriela Ruse vs Magda Linette",
+   "outcome": "Gabriela Ruse"
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T17:05:21.463903+00:00"
+ "last_updated": "2026-08-13T17:09:32.768029+00:00"
 }
