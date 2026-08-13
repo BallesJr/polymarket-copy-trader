@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9979.364717,
  "last_seen": {
-  "jtwyslljy": 1786556125,
+  "jtwyslljy": 1786586173,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9413,6 +9413,13 @@
    "BUY",
    3000,
    1786556125
+  ],
+  [
+   "0x5f5c8c6d40dc6053566924061310f517c33508a73d6cc1c5853c2717b879551a",
+   "7923166012848556867863949621747389258516827816838119658385700738645328758326",
+   "BUY",
+   2000,
+   1786586173
   ]
  ],
  "leader_pos": {
@@ -14515,6 +14522,18 @@
    "cost": 2040.0000000000002,
    "max_shares": 3000.0,
    "last_trade_ts": 1786556125
+  },
+  "jtwyslljy|7923166012848556867863949621747389258516827816838119658385700738645328758326": {
+   "leader": "jtwyslljy",
+   "asset": "7923166012848556867863949621747389258516827816838119658385700738645328758326",
+   "condition_id": "0xfab32d5c5ead65612e5990f151b70110ea6ffc33e17bf58d5112fbbca53a5331",
+   "title": "National Bank Open: Elina Svitolina vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-svitoli-swiatek-2026-08-12",
+   "shares": 2000.0,
+   "cost": 1000.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786586173
   }
  },
  "positions": [],
@@ -22281,8 +22300,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs B8 (BO1) - Esports World Cup Group C",
    "outcome": "B8"
+  },
+  {
+   "at": "2026-08-13T02:00:40.849595+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-12T23:00:00+00:00",
+   "condition_id": "0xfab32d5c5ead65612e5990f151b70110ea6ffc33e17bf58d5112fbbca53a5331",
+   "copy_delay_min": 4.4,
+   "leader": "jtwyslljy",
+   "title": "National Bank Open: Elina Svitolina vs Iga Swiatek",
+   "outcome": "Iga Swiatek"
   }
  ],
  "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T00:55:20.231575+00:00"
+ "last_updated": "2026-08-13T02:00:40.850030+00:00"
 }
