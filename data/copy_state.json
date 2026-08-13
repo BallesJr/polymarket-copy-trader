@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9579.364717,
+ "bankroll": 9479.364717,
  "last_seen": {
-  "jtwyslljy": 1786639936,
+  "jtwyslljy": 1786640184,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9511,6 +9511,27 @@
    "BUY",
    2300,
    1786639936
+  ],
+  [
+   "0x83c2b127205d28a9a43f4a75860d0c6d8e1eb5ef0cf303064208f7fc270817dc",
+   "69146524538123424786818669773029281862772501067221869913874805065296105512013",
+   "BUY",
+   3500,
+   1786639966
+  ],
+  [
+   "0x05c29183da9b6823f25de4486653b7310aa5d663c726a3205d706427b19f7dbc",
+   "47516000204429128257930254332844365796306542701443101050738220022244494333314",
+   "BUY",
+   2000,
+   1786639980
+  ],
+  [
+   "0x1c469266b5ea724d3815d3f93dd6ea78d368abb943b5a312670128aec0fb5fc5",
+   "47516000204429128257930254332844365796306542701443101050738220022244494333314",
+   "BUY",
+   5000,
+   1786640184
   ]
  ],
  "leader_pos": {
@@ -14729,10 +14750,10 @@
    "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
    "outcome": "Darja Vidmanova",
    "slug": "wta-vidmano-kalinin-2026-08-13",
-   "shares": 6000.0,
-   "cost": 2798.5814001,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1786639849
+   "shares": 13000.0,
+   "cost": 4838.5814001,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1786640184
   },
   "jtwyslljy|108967261842572361192388412828302526681231091481517575098450959988751236949914": {
    "leader": "jtwyslljy",
@@ -14745,6 +14766,18 @@
    "cost": 1127.0,
    "max_shares": 2300.0,
    "last_trade_ts": 1786639936
+  },
+  "jtwyslljy|69146524538123424786818669773029281862772501067221869913874805065296105512013": {
+   "leader": "jtwyslljy",
+   "asset": "69146524538123424786818669773029281862772501067221869913874805065296105512013",
+   "condition_id": "0x8328c21b1a9837733b0cfa6bb5f5b2f03a38894b257b1d5bdf640e42f8cb3fc5",
+   "title": "Cincinnati Open: Tatjana Maria vs Dayana Yastremska",
+   "outcome": "Tatjana Maria",
+   "slug": "wta-maria-yastrem-2026-08-13",
+   "shares": 3500.0,
+   "cost": 1890.0000000000002,
+   "max_shares": 3500.0,
+   "last_trade_ts": 1786639966
   }
  },
  "positions": [
@@ -14800,6 +14833,24 @@
    "copy_delay_min": 3.1,
    "best_ask": 0.49,
    "ask_depth": 23109.47,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69146524538123424786818669773029281862772501067221869913874805065296105512013",
+   "condition_id": "0x8328c21b1a9837733b0cfa6bb5f5b2f03a38894b257b1d5bdf640e42f8cb3fc5",
+   "title": "Cincinnati Open: Tatjana Maria vs Dayana Yastremska",
+   "outcome": "Tatjana Maria",
+   "slug": "wta-maria-yastrem-2026-08-13",
+   "opened_at": "2026-08-13T17:00:48.644311+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 1890.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.54,
+   "ask_depth": 4759.33,
    "status": "open"
   }
  ],
@@ -22658,8 +22709,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
    "outcome": "Darja Vidmanova"
+  },
+  {
+   "at": "2026-08-13T17:00:48.850094+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T15:10:00+00:00",
+   "condition_id": "0x107dcfc3061b3990d169cc28d09f979adbee452b0d5e6d30af5cf34037652e5c",
+   "copy_delay_min": 4.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Darja Vidmanova vs Anhelina Kalinina",
+   "outcome": "Darja Vidmanova"
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T16:55:23.634515+00:00"
+ "last_updated": "2026-08-13T17:00:49.318376+00:00"
 }
