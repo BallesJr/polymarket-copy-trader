@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9979.364717,
  "last_seen": {
-  "jtwyslljy": 1786591422,
+  "jtwyslljy": 1786592961,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9427,6 +9427,13 @@
    "BUY",
    3333,
    1786591422
+  ],
+  [
+   "0x8c8e7eecbe2ec1d8423b36eb2c5f222a02570252a955b150d7162a582088c9bb",
+   "37705296241892350469356550182025378450835922534699553478109345506197920398505",
+   "BUY",
+   14337.23,
+   1786592961
   ]
  ],
  "leader_pos": {
@@ -14553,6 +14560,18 @@
    "cost": 1666.5,
    "max_shares": 3333.0,
    "last_trade_ts": 1786591422
+  },
+  "jtwyslljy|37705296241892350469356550182025378450835922534699553478109345506197920398505": {
+   "leader": "jtwyslljy",
+   "asset": "37705296241892350469356550182025378450835922534699553478109345506197920398505",
+   "condition_id": "0xf8c1aa1f4c9fbdea7ece6130078c1fc7d856e929c1d9dda7f5fdee804b625289",
+   "title": "Kansas City Royals vs. Los Angeles Dodgers",
+   "outcome": "Kansas City Royals",
+   "slug": "mlb-kc-lad-2026-08-12",
+   "shares": 14337.23,
+   "cost": 1433.723,
+   "max_shares": 14337.23,
+   "last_trade_ts": 1786592961
   }
  },
  "positions": [],
@@ -22339,8 +22358,18 @@
    "leader": "jtwyslljy",
    "title": "National Bank Open: Coco Gauff vs Elena Rybakina",
    "outcome": "Elena Rybakina"
+  },
+  {
+   "at": "2026-08-13T04:00:44.555696+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T02:10:00+00:00",
+   "condition_id": "0xf8c1aa1f4c9fbdea7ece6130078c1fc7d856e929c1d9dda7f5fdee804b625289",
+   "copy_delay_min": 11.4,
+   "leader": "jtwyslljy",
+   "title": "Kansas City Royals vs. Los Angeles Dodgers",
+   "outcome": "Kansas City Royals"
   }
  ],
  "total_pnl": -20.635399999999493,
- "last_updated": "2026-08-13T03:30:35.244337+00:00"
+ "last_updated": "2026-08-13T04:00:44.556092+00:00"
 }
