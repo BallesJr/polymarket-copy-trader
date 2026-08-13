@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9076.423525,
+ "bankroll": 9261.608725,
  "last_seen": {
   "jtwyslljy": 1786648521,
   "0x53757615de": 1784324596
@@ -15052,24 +15052,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "69146524538123424786818669773029281862772501067221869913874805065296105512013",
-   "condition_id": "0x8328c21b1a9837733b0cfa6bb5f5b2f03a38894b257b1d5bdf640e42f8cb3fc5",
-   "title": "Cincinnati Open: Tatjana Maria vs Dayana Yastremska",
-   "outcome": "Tatjana Maria",
-   "slug": "wta-maria-yastrem-2026-08-13",
-   "opened_at": "2026-08-13T17:00:48.644311+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 1890.0,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.54,
-   "ask_depth": 4759.33,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "62060634784623357369508887927739082118611089931743416553772906573972299212419",
    "condition_id": "0x3a2ef65b2988a853b16ca1b00cabaef5d425e6962b657bba49140f9bc94c7c88",
    "title": "National Bank Open: Ben Shelton vs Brandon Nakashima",
@@ -21227,6 +21209,28 @@
    "exit_price": 0.33,
    "pnl": -2.9412,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69146524538123424786818669773029281862772501067221869913874805065296105512013",
+   "condition_id": "0x8328c21b1a9837733b0cfa6bb5f5b2f03a38894b257b1d5bdf640e42f8cb3fc5",
+   "title": "Cincinnati Open: Tatjana Maria vs Dayana Yastremska",
+   "outcome": "Tatjana Maria",
+   "slug": "wta-maria-yastrem-2026-08-13",
+   "opened_at": "2026-08-13T17:00:48.644311+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 1890.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.54,
+   "ask_depth": 4759.33,
+   "status": "won",
+   "closed_at": "2026-08-13T21:50:27.451336+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.1852,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -23080,6 +23084,6 @@
    "outcome": "Dino Prizmic"
   }
  ],
- "total_pnl": -123.57659999999949,
- "last_updated": "2026-08-13T19:20:27.751060+00:00"
+ "total_pnl": -38.39139999999949,
+ "last_updated": "2026-08-13T21:50:27.453229+00:00"
 }
