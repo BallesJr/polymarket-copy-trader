@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9879.364717,
+ "bankroll": 9679.364717,
  "last_seen": {
-  "jtwyslljy": 1786639213,
+  "jtwyslljy": 1786639528,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9476,6 +9476,20 @@
    "BUY",
    1010.21,
    1786639213
+  ],
+  [
+   "0x1e638341578b4299a62aef38e1922228093066c411b27272d049aad6283007bf",
+   "96600589489465534300579106720715181126777024514279504905302419763642729918267",
+   "BUY",
+   1800,
+   1786639474
+  ],
+  [
+   "0xc7ecde25b346cc4beb3e0c5802700cb3a09d264b7af5c4c014f0ba40cd7f0f4a",
+   "98507965838568863984779212063282383123218890053997267930434016871277203056610",
+   "BUY",
+   3000,
+   1786639528
   ]
  ],
  "leader_pos": {
@@ -14662,9 +14676,70 @@
    "cost": 585.806900027873,
    "max_shares": 1010.21,
    "last_trade_ts": 1786639213
+  },
+  "jtwyslljy|96600589489465534300579106720715181126777024514279504905302419763642729918267": {
+   "leader": "jtwyslljy",
+   "asset": "96600589489465534300579106720715181126777024514279504905302419763642729918267",
+   "condition_id": "0x4583ae29998115189eebd272995745bfde282fcabacbad9c46a017ee6fd5dd30",
+   "title": "Cincinnati Open: Marton Fucsovics vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-fucsovi-atmane-2026-08-13",
+   "shares": 1800.0,
+   "cost": 1188.0,
+   "max_shares": 1800.0,
+   "last_trade_ts": 1786639474
+  },
+  "jtwyslljy|98507965838568863984779212063282383123218890053997267930434016871277203056610": {
+   "leader": "jtwyslljy",
+   "asset": "98507965838568863984779212063282383123218890053997267930434016871277203056610",
+   "condition_id": "0x6d5d314d99305fb619b78d1d4e09a177187977eaa1d78de3d447421c2586ff9b",
+   "title": "Cincinnati Open: Mariano Navone vs Raphael Collignon",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-collign-2026-08-13",
+   "shares": 3000.0,
+   "cost": 1320.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786639528
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "96600589489465534300579106720715181126777024514279504905302419763642729918267",
+   "condition_id": "0x4583ae29998115189eebd272995745bfde282fcabacbad9c46a017ee6fd5dd30",
+   "title": "Cincinnati Open: Marton Fucsovics vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-fucsovi-atmane-2026-08-13",
+   "opened_at": "2026-08-13T16:50:26.940898+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 1188.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.66,
+   "ask_depth": 31498.57,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98507965838568863984779212063282383123218890053997267930434016871277203056610",
+   "condition_id": "0x6d5d314d99305fb619b78d1d4e09a177187977eaa1d78de3d447421c2586ff9b",
+   "title": "Cincinnati Open: Mariano Navone vs Raphael Collignon",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-collign-2026-08-13",
+   "opened_at": "2026-08-13T16:50:27.135338+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 1320.0,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.44,
+   "ask_depth": 6038.11,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -22513,5 +22588,5 @@
   }
  ],
  "total_pnl": -120.63539999999949,
- "last_updated": "2026-08-13T16:45:30.271356+00:00"
+ "last_updated": "2026-08-13T16:50:27.462332+00:00"
 }
