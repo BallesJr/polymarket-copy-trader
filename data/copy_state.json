@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9076.423525,
  "last_seen": {
-  "jtwyslljy": 1786647309,
+  "jtwyslljy": 1786648521,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9637,6 +9637,20 @@
    "SELL",
    1000,
    1786647309
+  ],
+  [
+   "0xed7cd27e323204e39fbdbb84073862a16f7e20f8425b065a96999db3a38b3ec8",
+   "100051074072980169583476532946858977012817894011189514742827608619338025717813",
+   "BUY",
+   5000,
+   1786648399
+  ],
+  [
+   "0xeb18f8fe90c3d628b7bfb925c68fa825baf63d9c18dd682f36ba44fd79ad76c1",
+   "100051074072980169583476532946858977012817894011189514742827608619338025717813",
+   "BUY",
+   2000,
+   1786648521
   ]
  ],
  "leader_pos": {
@@ -14915,10 +14929,10 @@
    "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
    "outcome": "Dino Prizmic",
    "slug": "atp-norrie-prizmic-2026-08-13",
-   "shares": 2348.289999999999,
-   "cost": 1385.8633999999993,
+   "shares": 9348.289999999999,
+   "cost": 4165.863399999999,
    "max_shares": 9997.89,
-   "last_trade_ts": 1786647012
+   "last_trade_ts": 1786648521
   },
   "jtwyslljy|3509089010377765916131961828110392003762660469157823998420577303369987030714": {
    "leader": "jtwyslljy",
@@ -23054,8 +23068,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
    "outcome": "Dino Prizmic"
+  },
+  {
+   "at": "2026-08-13T19:20:27.375560+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T17:40:00+00:00",
+   "condition_id": "0x5e68ef759e8b9856972b1cbfd70803a2e449a394c77b7c3a778f52ce94ed4f4a",
+   "copy_delay_min": 5.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
+   "outcome": "Dino Prizmic"
   }
  ],
  "total_pnl": -123.57659999999949,
- "last_updated": "2026-08-13T19:00:48.849668+00:00"
+ "last_updated": "2026-08-13T19:20:27.751060+00:00"
 }
