@@ -14517,26 +14517,7 @@
    "last_trade_ts": 1786556125
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "99347306366519381964153463146530871619855032205361362717026886770072740705321",
-   "condition_id": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
-   "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-nakashi-2026-08-12",
-   "opened_at": "2026-08-12T17:38:17.350438+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 2040.0,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.68,
-   "ask_depth": 115182.59,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -20557,6 +20538,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "99347306366519381964153463146530871619855032205361362717026886770072740705321",
+   "condition_id": "0x987f24d77f17d9086dabc50d1d6680121be6279f55522f3c58298fc9e1c14fa5",
+   "title": "National Bank Open: Rafael Jodar vs Brandon Nakashima",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-nakashi-2026-08-12",
+   "opened_at": "2026-08-12T17:38:17.350438+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 2040.0,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.68,
+   "ask_depth": 115182.59,
+   "status": "lost",
+   "closed_at": "2026-08-13T00:55:20.230064+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -22280,6 +22283,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": 79.36460000000051,
- "last_updated": "2026-08-12T23:35:25.191489+00:00"
+ "total_pnl": -20.635399999999493,
+ "last_updated": "2026-08-13T00:55:20.231575+00:00"
 }
