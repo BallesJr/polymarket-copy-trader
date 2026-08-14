@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786720755,
+  "jtwyslljy": 1786722817,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9882,6 +9882,27 @@
    "SELL",
    967,
    1786720755
+  ],
+  [
+   "0x01f38410d8caa87366798865dab7b0f0d782b797148ebd8c29d2e332cfb55edf",
+   "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "BUY",
+   6000,
+   1786722805
+  ],
+  [
+   "0x4e57baad45204c8f2787c64149500b574be61298a2e945c2890fccf3df531e8d",
+   "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "BUY",
+   775,
+   1786722810
+  ],
+  [
+   "0xac9fb6d729f74ae89def57c5050e4f04bcd5f5242ef538337f66bbe7a91e938b",
+   "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "BUY",
+   5000,
+   1786722817
   ]
  ],
  "leader_pos": {
@@ -15424,10 +15445,10 @@
    "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
    "outcome": "Kyrian Jacquet",
    "slug": "atp-jacquet-vallejo-2026-08-14",
-   "shares": 2000.0,
-   "cost": 1380.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1786720699
+   "shares": 13775.0,
+   "cost": 2489.75,
+   "max_shares": 13775.0,
+   "last_trade_ts": 1786722817
   }
  },
  "positions": [
@@ -23755,8 +23776,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
    "outcome": "Kyrian Jacquet"
+  },
+  {
+   "at": "2026-08-14T15:55:21.869515+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x3ae1308e51206a98e16813ab3461b8456c505d8e54624d2c0b8861e0a0a2b4c3",
+   "copy_delay_min": 1.7,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
+   "outcome": "Kyrian Jacquet"
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T15:25:23.360167+00:00"
+ "last_updated": "2026-08-14T15:55:22.025424+00:00"
 }
