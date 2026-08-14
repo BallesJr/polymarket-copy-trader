@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10182.012213,
+ "bankroll": 10263.591162,
  "last_seen": {
-  "jtwyslljy": 1786675515,
+  "jtwyslljy": 1786676026,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9693,6 +9693,20 @@
    "BUY",
    135,
    1786675515
+  ],
+  [
+   "0xd59be26e202a71dedcae2aca3e114441dd58f276cf27d85c62ad23c7b8a81333",
+   "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "SELL",
+   3000,
+   1786675980
+  ],
+  [
+   "0x3c1524d16033074f5b2303eb01dd635f20c6bbd060967c9f56a2f1b5deb6110b",
+   "41796543369807970923492864592508469197420008797098829580026538717900169202443",
+   "BUY",
+   2300,
+   1786676026
   ]
  ],
  "leader_pos": {
@@ -14995,10 +15009,10 @@
    "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
    "outcome": "Mattia Bellucci",
    "slug": "atp-svajda-bellucc-2026-08-13",
-   "shares": 3000.0,
-   "cost": 1150.0,
+   "shares": 0.0,
+   "cost": 70.0,
    "max_shares": 4000.0,
-   "last_trade_ts": 1786647309
+   "last_trade_ts": 1786675980
   },
   "jtwyslljy|62060634784623357369508887927739082118611089931743416553772906573972299212419": {
    "leader": "jtwyslljy",
@@ -15059,28 +15073,21 @@
    "cost": 3291.0947,
    "max_shares": 13098.509999999998,
    "last_trade_ts": 1786675515
+  },
+  "jtwyslljy|41796543369807970923492864592508469197420008797098829580026538717900169202443": {
+   "leader": "jtwyslljy",
+   "asset": "41796543369807970923492864592508469197420008797098829580026538717900169202443",
+   "condition_id": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
+   "title": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "outcome": "Caty McNally",
+   "slug": "wta-mcnally-kessler-2026-08-13",
+   "shares": 2300.0,
+   "cost": 1265.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1786676026
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "29376722840915946356874501461233219938391951868705383198332369025340279074599",
-   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
-   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
-   "outcome": "Mattia Bellucci",
-   "slug": "atp-svajda-bellucc-2026-08-13",
-   "opened_at": "2026-08-13T17:55:24.183615+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 1330.0,
-   "copy_delay_min": 4.9,
-   "best_ask": 0.38,
-   "ask_depth": 13648.95,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -21321,6 +21328,28 @@
    "exit_price": 0.08,
    "pnl": -85.9649,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29376722840915946356874501461233219938391951868705383198332369025340279074599",
+   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
+   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-svajda-bellucc-2026-08-13",
+   "opened_at": "2026-08-13T17:55:24.183615+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1330.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.38,
+   "ask_depth": 13648.95,
+   "status": "closed",
+   "closed_at": "2026-08-14T02:55:21.054410+00:00",
+   "exit_price": 0.31,
+   "pnl": -18.4211,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -23212,8 +23241,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
    "outcome": "Katie Boulter"
+  },
+  {
+   "at": "2026-08-14T02:55:21.255351+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T02:50:00+00:00",
+   "condition_id": "0x5d0791acd1d1c0289dc7256f065e81f9c2bb264793290d0b1453b2e5f5d5add5",
+   "copy_delay_min": 1.6,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Caty McNally vs McCartney Kessler",
+   "outcome": "Caty McNally"
   }
  ],
- "total_pnl": 282.0121000000005,
- "last_updated": "2026-08-14T02:50:27.209500+00:00"
+ "total_pnl": 263.59100000000046,
+ "last_updated": "2026-08-14T02:55:21.255762+00:00"
 }
