@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786696825,
+  "jtwyslljy": 1786697065,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9763,6 +9763,13 @@
    "BUY",
    2500,
    1786696825
+  ],
+  [
+   "0x31578015edca043ebdefb1032970626bf22aeb3698ff54e5e23df664c5011612",
+   "12882005432876685729101666739711387042632624883280996419680952131878822147382",
+   "BUY",
+   1500,
+   1786697065
   ]
  ],
  "leader_pos": {
@@ -15197,10 +15204,10 @@
    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Dplus KIA",
    "slug": "lol-t1-dk-2026-08-14",
-   "shares": 5000.0,
-   "cost": 1575.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1786696825
+   "shares": 6500.0,
+   "cost": 1890.0,
+   "max_shares": 6500.0,
+   "last_trade_ts": 1786697065
   },
   "jtwyslljy|63601662133817868892703250469706814821469289268505682719699181281198130248101": {
    "leader": "jtwyslljy",
@@ -23466,8 +23473,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Dplus KIA"
+  },
+  {
+   "at": "2026-08-14T08:50:27.100786+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T08:00:00+00:00",
+   "condition_id": "0xe31e3400328593e19db0515a472b421ea46aeff768bc82b14581ceeeb0bc2a6f",
+   "copy_delay_min": 6.0,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs Dplus KIA (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Dplus KIA"
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T08:45:33.714415+00:00"
+ "last_updated": "2026-08-14T08:50:27.488290+00:00"
 }
