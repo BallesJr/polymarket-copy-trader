@@ -15389,24 +15389,6 @@
    "best_ask": 0.45,
    "ask_depth": 7324.55,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "63601662133817868892703250469706814821469289268505682719699181281198130248101",
-   "condition_id": "0x83c71e47035e6c6ca622cb40a83bcf92e9e2321de43d39a6f8a20f33fb538509",
-   "title": "LoL: Team WE vs Top Esports (BO3) - LPL Group Ascend",
-   "outcome": "Top Esports",
-   "slug": "lol-we-tes-2026-08-14",
-   "opened_at": "2026-08-14T08:03:08.049627+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.7,
-   "leader_cost": 2940.0,
-   "copy_delay_min": 1.7,
-   "best_ask": 0.7,
-   "ask_depth": 27904.76,
-   "status": "open"
   }
  ],
  "closed": [
@@ -21671,6 +21653,28 @@
    "exit_price": 0.31,
    "pnl": -18.4211,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63601662133817868892703250469706814821469289268505682719699181281198130248101",
+   "condition_id": "0x83c71e47035e6c6ca622cb40a83bcf92e9e2321de43d39a6f8a20f33fb538509",
+   "title": "LoL: Team WE vs Top Esports (BO3) - LPL Group Ascend",
+   "outcome": "Top Esports",
+   "slug": "lol-we-tes-2026-08-14",
+   "opened_at": "2026-08-14T08:03:08.049627+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 2940.0,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.7,
+   "ask_depth": 27904.76,
+   "status": "lost",
+   "closed_at": "2026-08-14T13:35:30.420095+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -23674,6 +23678,6 @@
    "outcome": "Anyones Legend"
   }
  ],
- "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T12:35:23.393448+00:00"
+ "total_pnl": 163.59100000000046,
+ "last_updated": "2026-08-14T13:35:30.421621+00:00"
 }
