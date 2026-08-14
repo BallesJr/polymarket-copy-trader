@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10263.591162,
  "last_seen": {
-  "jtwyslljy": 1786682403,
+  "jtwyslljy": 1786691709,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9721,6 +9721,13 @@
    "SELL",
    1500.01,
    1786682403
+  ],
+  [
+   "0x6bd5f08e6d98a5a1a5a9b3794c711ef27db34487e9272eb19fb529f8c09cee5c",
+   "61853116127766913107764882844736496394027888610148442279146263481877454239626",
+   "BUY",
+   16200,
+   1786691709
   ]
  ],
  "leader_pos": {
@@ -15111,6 +15118,18 @@
    "cost": 314.9977,
    "max_shares": 2000.0,
    "last_trade_ts": 1786682403
+  },
+  "jtwyslljy|61853116127766913107764882844736496394027888610148442279146263481877454239626": {
+   "leader": "jtwyslljy",
+   "asset": "61853116127766913107764882844736496394027888610148442279146263481877454239626",
+   "condition_id": "0x1a1b97419b915e22c1ab2ed5a526797bac286ad74c422db4a2ad690ae4a1b997",
+   "title": "LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming",
+   "slug": "lol-edg-lgd-2026-08-14",
+   "shares": 16200.0,
+   "cost": 6156.0,
+   "max_shares": 16200.0,
+   "last_trade_ts": 1786691709
   }
  },
  "positions": [],
@@ -23287,8 +23306,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
    "outcome": "Zachary Svajda"
+  },
+  {
+   "at": "2026-08-14T07:20:29.751428+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T07:00:00+00:00",
+   "condition_id": "0x1a1b97419b915e22c1ab2ed5a526797bac286ad74c422db4a2ad690ae4a1b997",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "LoL: EDward Gaming vs LGD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming"
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T04:45:27.306243+00:00"
+ "last_updated": "2026-08-14T07:20:29.751856+00:00"
 }
