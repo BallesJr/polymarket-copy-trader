@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9563.591162,
+ "bankroll": 9658.328006,
  "last_seen": {
-  "jtwyslljy": 1786727341,
+  "jtwyslljy": 1786727847,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10015,6 +10015,20 @@
    "BUY",
    5000,
    1786727341
+  ],
+  [
+   "0xedf070cb80ae668f8671145e4d31052d03b33c677c511757d1066082c515378b",
+   "104501991963573636671893414265903544711255224289213095428388105879287947023801",
+   "SELL",
+   10000,
+   1786727695
+  ],
+  [
+   "0x112951c8bbd154fa9658652735959543066c3b02401678ca13b626b2eef0fb13",
+   "65149139251643174760598463704216046190092402816140185885902098926950667077397",
+   "BUY",
+   2118,
+   1786727847
   ]
  ],
  "leader_pos": {
@@ -15605,10 +15619,10 @@
    "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
    "outcome": "Liudmila Samsonova",
    "slug": "wta-putints-samsono-2026-08-13",
-   "shares": 781.68,
-   "cost": 554.9928,
-   "max_shares": 781.68,
-   "last_trade_ts": 1786723455
+   "shares": 2899.68,
+   "cost": 2079.9528,
+   "max_shares": 2899.68,
+   "last_trade_ts": 1786727847
   },
   "jtwyslljy|76631600873412704613718400399900861411061139082024764373892116235606791754182": {
    "leader": "jtwyslljy",
@@ -15653,10 +15667,10 @@
    "title": "Cincinnati Open: Alex Michelsen vs Jesper de Jong",
    "outcome": "Jesper de Jong",
    "slug": "atp-michels-jong-2026-08-13",
-   "shares": 10000.0,
-   "cost": 1900.0,
+   "shares": 0.0,
+   "cost": 100.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1786726998
+   "last_trade_ts": 1786727695
   },
   "jtwyslljy|23641526274547553498259315527645503518270834768819222805525495295319119283979": {
    "leader": "jtwyslljy",
@@ -15742,24 +15756,6 @@
    "copy_delay_min": 5.1,
    "best_ask": 0.69,
    "ask_depth": 14781.43,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "104501991963573636671893414265903544711255224289213095428388105879287947023801",
-   "condition_id": "0xe36934b5a0432c027f5bc2c1be1ecb655e718ccc95059fd717d74687f1637116",
-   "title": "Cincinnati Open: Alex Michelsen vs Jesper de Jong",
-   "outcome": "Jesper de Jong",
-   "slug": "atp-michels-jong-2026-08-13",
-   "opened_at": "2026-08-14T17:10:28.217341+00:00",
-   "entry_price": 0.19,
-   "shares": 526.3158,
-   "stake": 100.0,
-   "leader_vwap": 0.19,
-   "leader_cost": 1900.0,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.19,
-   "ask_depth": 39383.64,
    "status": "open"
   }
  ],
@@ -22069,6 +22065,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104501991963573636671893414265903544711255224289213095428388105879287947023801",
+   "condition_id": "0xe36934b5a0432c027f5bc2c1be1ecb655e718ccc95059fd717d74687f1637116",
+   "title": "Cincinnati Open: Alex Michelsen vs Jesper de Jong",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-michels-jong-2026-08-13",
+   "opened_at": "2026-08-14T17:10:28.217341+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 1900.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.19,
+   "ask_depth": 39383.64,
+   "status": "closed",
+   "closed_at": "2026-08-14T17:20:30.430719+00:00",
+   "exit_price": 0.18,
+   "pnl": -5.2632,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -24162,6 +24180,6 @@
    "outcome": "Coleman Wong"
   }
  ],
- "total_pnl": 63.59100000000046,
- "last_updated": "2026-08-14T17:15:30.312146+00:00"
+ "total_pnl": 58.327800000000465,
+ "last_updated": "2026-08-14T17:20:30.772842+00:00"
 }
