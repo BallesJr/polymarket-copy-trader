@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10063.591162,
+ "bankroll": 9763.591162,
  "last_seen": {
-  "jtwyslljy": 1786723023,
+  "jtwyslljy": 1786723455,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9910,6 +9910,34 @@
    "BUY",
    1999.99,
    1786723023
+  ],
+  [
+   "0x5abddb522f22dcf93768f51ceb941f305bfe651c651977568b4da70651c5f50f",
+   "32926114636434284318640631939684276163258537768995122809226181999001833539594",
+   "BUY",
+   1500,
+   1786723405
+  ],
+  [
+   "0x73b9515edfb2a98d279902b81a4c789aa406817a850ae4ea5bb9192a60cf75cb",
+   "61086596078072563882853740053795910057902692346818470734991724404386358815062",
+   "BUY",
+   3600,
+   1786723423
+  ],
+  [
+   "0x25589e9f5597df93d0f0dc3577125572de0942cf2a3be99c623736c9fe7f6f84",
+   "32926114636434284318640631939684276163258537768995122809226181999001833539594",
+   "BUY",
+   300,
+   1786723434
+  ],
+  [
+   "0x4e2789ed7a3038843e7d40da9040bce64fc71ca701e5b4b544fcac590b6b2786",
+   "65149139251643174760598463704216046190092402816140185885902098926950667077397",
+   "BUY",
+   781.68,
+   1786723455
   ]
  ],
  "leader_pos": {
@@ -15468,6 +15496,42 @@
    "cost": 1339.9933,
    "max_shares": 1999.99,
    "last_trade_ts": 1786723023
+  },
+  "jtwyslljy|32926114636434284318640631939684276163258537768995122809226181999001833539594": {
+   "leader": "jtwyslljy",
+   "asset": "32926114636434284318640631939684276163258537768995122809226181999001833539594",
+   "condition_id": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
+   "title": "Cincinnati Open: Elvina Kalieva vs Oleksandra Oliynykova",
+   "outcome": "Elvina Kalieva",
+   "slug": "wta-kalieva-oliynyk-2026-08-13",
+   "shares": 1800.0,
+   "cost": 1206.0,
+   "max_shares": 1800.0,
+   "last_trade_ts": 1786723434
+  },
+  "jtwyslljy|61086596078072563882853740053795910057902692346818470734991724404386358815062": {
+   "leader": "jtwyslljy",
+   "asset": "61086596078072563882853740053795910057902692346818470734991724404386358815062",
+   "condition_id": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
+   "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-vandewi-2026-08-14",
+   "shares": 3600.0,
+   "cost": 1836.0,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1786723423
+  },
+  "jtwyslljy|65149139251643174760598463704216046190092402816140185885902098926950667077397": {
+   "leader": "jtwyslljy",
+   "asset": "65149139251643174760598463704216046190092402816140185885902098926950667077397",
+   "condition_id": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
+   "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+   "outcome": "Liudmila Samsonova",
+   "slug": "wta-putints-samsono-2026-08-13",
+   "shares": 781.68,
+   "cost": 554.9928,
+   "max_shares": 781.68,
+   "last_trade_ts": 1786723455
   }
  },
  "positions": [
@@ -15487,6 +15551,60 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.45,
    "ask_depth": 7324.55,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32926114636434284318640631939684276163258537768995122809226181999001833539594",
+   "condition_id": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
+   "title": "Cincinnati Open: Elvina Kalieva vs Oleksandra Oliynykova",
+   "outcome": "Elvina Kalieva",
+   "slug": "wta-kalieva-oliynyk-2026-08-13",
+   "opened_at": "2026-08-14T16:05:22.180454+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 1206.0,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.67,
+   "ask_depth": 55076.51,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61086596078072563882853740053795910057902692346818470734991724404386358815062",
+   "condition_id": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
+   "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-vandewi-2026-08-14",
+   "opened_at": "2026-08-14T16:05:22.339792+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 1836.0,
+   "copy_delay_min": 1.6,
+   "best_ask": 0.51,
+   "ask_depth": 5937.77,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65149139251643174760598463704216046190092402816140185885902098926950667077397",
+   "condition_id": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
+   "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+   "outcome": "Liudmila Samsonova",
+   "slug": "wta-putints-samsono-2026-08-13",
+   "opened_at": "2026-08-14T16:05:22.488132+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 554.99,
+   "copy_delay_min": 1.1,
+   "best_ask": 0.72,
+   "ask_depth": 17688.94,
    "status": "open"
   }
  ],
@@ -23818,5 +23936,5 @@
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T16:00:42.948819+00:00"
+ "last_updated": "2026-08-14T16:05:22.789435+00:00"
 }
