@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9658.328006,
+ "bankroll": 9558.328006,
  "last_seen": {
-  "jtwyslljy": 1786729269,
+  "jtwyslljy": 1786729722,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10043,6 +10043,20 @@
    "BUY",
    12613.46,
    1786729269
+  ],
+  [
+   "0x8ffee40bedba97fac1beeacb148272b94e4472fd666eef9d9f4fb9a1779dff90",
+   "115595885428493780767548047210145442395527648725654885437816767845403448979745",
+   "BUY",
+   14500,
+   1786729579
+  ],
+  [
+   "0xa7b7446344c85a9a824f8c72dca2fa0ae7b228ab044e74427fe1aef46fceaf10",
+   "111055054519352050112029158850822857092423117086128785236920072833084509142632",
+   "BUY",
+   5748,
+   1786729722
   ]
  ],
  "leader_pos": {
@@ -15705,10 +15719,22 @@
    "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
    "outcome": "Tomas Machac",
    "slug": "atp-machac-busta-2026-08-13",
-   "shares": 12613.46,
-   "cost": 4162.4418,
-   "max_shares": 12613.46,
-   "last_trade_ts": 1786729269
+   "shares": 27113.46,
+   "cost": 8222.4418,
+   "max_shares": 27113.46,
+   "last_trade_ts": 1786729579
+  },
+  "jtwyslljy|111055054519352050112029158850822857092423117086128785236920072833084509142632": {
+   "leader": "jtwyslljy",
+   "asset": "111055054519352050112029158850822857092423117086128785236920072833084509142632",
+   "condition_id": "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71",
+   "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-walton-mejia-2026-08-14",
+   "shares": 5748.0,
+   "cost": 2011.8,
+   "max_shares": 5748.0,
+   "last_trade_ts": 1786729722
   }
  },
  "positions": [
@@ -15782,6 +15808,24 @@
    "copy_delay_min": 5.1,
    "best_ask": 0.69,
    "ask_depth": 14781.43,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "111055054519352050112029158850822857092423117086128785236920072833084509142632",
+   "condition_id": "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71",
+   "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-walton-mejia-2026-08-14",
+   "opened_at": "2026-08-14T17:50:26.732371+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 2011.8,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.36,
+   "ask_depth": 26840.83,
    "status": "open"
   }
  ],
@@ -24214,8 +24258,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-08-14T17:50:26.871957+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T17:20:00+00:00",
+   "condition_id": "0x9363d8829c28b135f4952bf56c945d43bfa150417a65d086089e76f6fe68c939",
+   "copy_delay_min": 4.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+   "outcome": "Tomas Machac"
   }
  ],
  "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T17:45:30.354150+00:00"
+ "last_updated": "2026-08-14T17:50:27.145984+00:00"
 }
