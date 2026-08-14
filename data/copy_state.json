@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9663.591162,
+ "bankroll": 9563.591162,
  "last_seen": {
-  "jtwyslljy": 1786725804,
+  "jtwyslljy": 1786727161,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9973,6 +9973,41 @@
    "BUY",
    1079.11,
    1786725804
+  ],
+  [
+   "0x6f8578a365eb31feb9af5191e01bf8988b64ea90d22b438a663e505a76b8e473",
+   "56196469882788076755457523325707714549844676022380174422105448136708238161207",
+   "BUY",
+   5000,
+   1786726933
+  ],
+  [
+   "0x41ca9bcec24f66f0e3f349e0eb94e5654f9ee0d06347c7d04e4c3592d0ecc846",
+   "104501991963573636671893414265903544711255224289213095428388105879287947023801",
+   "BUY",
+   10000,
+   1786726998
+  ],
+  [
+   "0x1361709eea910be4dea6fa6f99c8d7fb8550f80ffd5b779f2eb2f3f7f85901ae",
+   "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "SELL",
+   1000.45,
+   1786727124
+  ],
+  [
+   "0x78aefbaaa7e7e55e90c027a90de59c635cafbfff261b0075c24533395b811a61",
+   "23641526274547553498259315527645503518270834768819222805525495295319119283979",
+   "BUY",
+   1000,
+   1786727133
+  ],
+  [
+   "0x2bba324b3f43309a1854acc32dab695a4ab3b7cd2634199a95e128ea3af6c243",
+   "23641526274547553498259315527645503518270834768819222805525495295319119283979",
+   "BUY",
+   3000,
+   1786727161
   ]
  ],
  "leader_pos": {
@@ -15503,10 +15538,10 @@
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Daniel Altmaier",
    "slug": "atp-wong-altmaie-2026-08-14",
-   "shares": 1000.4499999999998,
-   "cost": 530.8219999999999,
+   "shares": -2.2737367544323206e-13,
+   "cost": 30.596999999999866,
    "max_shares": 3000.0,
-   "last_trade_ts": 1786720755
+   "last_trade_ts": 1786727124
   },
   "jtwyslljy|51866361274875347667926020494040291955221367046983057938894614681921043349178": {
    "leader": "jtwyslljy",
@@ -15587,10 +15622,10 @@
    "title": "Cincinnati Open: Sebastian Baez vs Grigor Dimitrov",
    "outcome": "Sebastian Baez",
    "slug": "atp-baez-dimitro-2026-08-13",
-   "shares": 6.68,
-   "cost": 2.8055999999999996,
-   "max_shares": 6.68,
-   "last_trade_ts": 1786725733
+   "shares": 5006.68,
+   "cost": 702.8056000000001,
+   "max_shares": 5006.68,
+   "last_trade_ts": 1786726933
   },
   "jtwyslljy|11148507776624103831063349849057657065230720950771264423521824634624226452611": {
    "leader": "jtwyslljy",
@@ -15603,6 +15638,30 @@
    "cost": 733.7948,
    "max_shares": 1079.11,
    "last_trade_ts": 1786725804
+  },
+  "jtwyslljy|104501991963573636671893414265903544711255224289213095428388105879287947023801": {
+   "leader": "jtwyslljy",
+   "asset": "104501991963573636671893414265903544711255224289213095428388105879287947023801",
+   "condition_id": "0xe36934b5a0432c027f5bc2c1be1ecb655e718ccc95059fd717d74687f1637116",
+   "title": "Cincinnati Open: Alex Michelsen vs Jesper de Jong",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-michels-jong-2026-08-13",
+   "shares": 10000.0,
+   "cost": 1900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1786726998
+  },
+  "jtwyslljy|23641526274547553498259315527645503518270834768819222805525495295319119283979": {
+   "leader": "jtwyslljy",
+   "asset": "23641526274547553498259315527645503518270834768819222805525495295319119283979",
+   "condition_id": "0x606b07c8a0bbbc440dec93b26c8813b93b3e2c167ad65f96fafc8ae2500165d3",
+   "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
+   "outcome": "Coleman Wong",
+   "slug": "atp-wong-altmaie-2026-08-14",
+   "shares": 4000.0,
+   "cost": 1729.9499999,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1786727161
   }
  },
  "positions": [
@@ -15676,6 +15735,24 @@
    "copy_delay_min": 5.1,
    "best_ask": 0.69,
    "ask_depth": 14781.43,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104501991963573636671893414265903544711255224289213095428388105879287947023801",
+   "condition_id": "0xe36934b5a0432c027f5bc2c1be1ecb655e718ccc95059fd717d74687f1637116",
+   "title": "Cincinnati Open: Alex Michelsen vs Jesper de Jong",
+   "outcome": "Jesper de Jong",
+   "slug": "atp-michels-jong-2026-08-13",
+   "opened_at": "2026-08-14T17:10:28.217341+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 1900.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.19,
+   "ask_depth": 39383.64,
    "status": "open"
   }
  ],
@@ -24046,8 +24123,28 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Nikola Bartunkova vs Alina Charaeva",
    "outcome": "Nikola Bartunkova"
+  },
+  {
+   "at": "2026-08-14T17:10:28.374264+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T16:30:00+00:00",
+   "condition_id": "0xba098ff5a890a37f9fc33e1a46f51a7d0dcdbbb71f86708ee39a53ae8742955b",
+   "copy_delay_min": 8.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Sebastian Baez vs Grigor Dimitrov",
+   "outcome": "Sebastian Baez"
+  },
+  {
+   "at": "2026-08-14T17:10:28.522650+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x606b07c8a0bbbc440dec93b26c8813b93b3e2c167ad65f96fafc8ae2500165d3",
+   "copy_delay_min": 4.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
+   "outcome": "Coleman Wong"
   }
  ],
  "total_pnl": 63.59100000000046,
- "last_updated": "2026-08-14T16:55:24.307989+00:00"
+ "last_updated": "2026-08-14T17:10:28.897328+00:00"
 }
