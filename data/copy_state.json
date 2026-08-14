@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786698759,
+  "jtwyslljy": 1786698927,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9784,6 +9784,20 @@
    "BUY",
    10,
    1786698759
+  ],
+  [
+   "0x53641eab20029b1e3d298d4ed4136778335a9fccaaacc3069ef081c68088ea62",
+   "64668172167711604019715186222824944338693111460367065137032921758495495127809",
+   "SELL",
+   10,
+   1786698903
+  ],
+  [
+   "0xc71f6281959b1fa97163d91713bc8447518fbb1adac26d9add5f1557199b7e26",
+   "15595081936246780886940656289399636714509677762753928040257148545998496082698",
+   "SELL",
+   10,
+   1786698927
   ]
  ],
  "leader_pos": {
@@ -15242,10 +15256,10 @@
    "title": "Will Arsenal win the 2026-27 English Premier League (EPL) Championship?",
    "outcome": "No",
    "slug": "epl-2027-champion-20260701200428749",
-   "shares": 10.0,
-   "cost": 6.1,
+   "shares": 0.0,
+   "cost": 0.09999999999999964,
    "max_shares": 10.0,
-   "last_trade_ts": 1786698750
+   "last_trade_ts": 1786698903
   },
   "jtwyslljy|15595081936246780886940656289399636714509677762753928040257148545998496082698": {
    "leader": "jtwyslljy",
@@ -15254,10 +15268,10 @@
    "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
    "outcome": "No",
    "slug": "epl-2027-champion-20260701200428749",
-   "shares": 10.0,
-   "cost": 7.4,
+   "shares": 0.0,
+   "cost": 0.10000000000000053,
    "max_shares": 10.0,
-   "last_trade_ts": 1786698759
+   "last_trade_ts": 1786698927
   }
  },
  "positions": [
@@ -23524,5 +23538,5 @@
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T09:15:28.140024+00:00"
+ "last_updated": "2026-08-14T09:20:29.886483+00:00"
 }
