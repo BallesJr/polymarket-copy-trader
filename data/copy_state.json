@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9658.328006,
  "last_seen": {
-  "jtwyslljy": 1786728988,
+  "jtwyslljy": 1786729269,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10036,6 +10036,13 @@
    "SELL",
    4000,
    1786728988
+  ],
+  [
+   "0x2424e8274a32f540e5b82e373c98b6a85803be61634777922015880be6cc6007",
+   "115595885428493780767548047210145442395527648725654885437816767845403448979745",
+   "BUY",
+   12613.46,
+   1786729269
   ]
  ],
  "leader_pos": {
@@ -15690,6 +15697,18 @@
    "cost": 2879.9499999,
    "max_shares": 9000.0,
    "last_trade_ts": 1786727341
+  },
+  "jtwyslljy|115595885428493780767548047210145442395527648725654885437816767845403448979745": {
+   "leader": "jtwyslljy",
+   "asset": "115595885428493780767548047210145442395527648725654885437816767845403448979745",
+   "condition_id": "0x9363d8829c28b135f4952bf56c945d43bfa150417a65d086089e76f6fe68c939",
+   "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+   "outcome": "Tomas Machac",
+   "slug": "atp-machac-busta-2026-08-13",
+   "shares": 12613.46,
+   "cost": 4162.4418,
+   "max_shares": 12613.46,
+   "last_trade_ts": 1786729269
   }
  },
  "positions": [
@@ -24185,8 +24204,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Coleman Wong"
+  },
+  {
+   "at": "2026-08-14T17:45:29.951272+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T17:20:00+00:00",
+   "condition_id": "0x9363d8829c28b135f4952bf56c945d43bfa150417a65d086089e76f6fe68c939",
+   "copy_delay_min": 4.3,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
+   "outcome": "Tomas Machac"
   }
  ],
  "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T17:40:26.787427+00:00"
+ "last_updated": "2026-08-14T17:45:30.354150+00:00"
 }
