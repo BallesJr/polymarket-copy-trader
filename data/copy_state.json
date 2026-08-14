@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9558.328006,
+ "bankroll": 9703.255506,
  "last_seen": {
   "jtwyslljy": 1786734115,
   "0x53757615de": 1784324596
@@ -15856,24 +15856,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "11148507776624103831063349849057657065230720950771264423521824634624226452611",
-   "condition_id": "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9",
-   "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-kokkina-2026-08-13",
-   "opened_at": "2026-08-14T16:48:31.176758+00:00",
-   "entry_price": 0.69,
-   "shares": 144.9275,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 733.79,
-   "copy_delay_min": 5.1,
-   "best_ask": 0.69,
-   "ask_depth": 14781.43,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "111055054519352050112029158850822857092423117086128785236920072833084509142632",
    "condition_id": "0x0f0152281c867a8b1290332a936df74ae00fe535c3e0d23eb1fa80b70cd3bb71",
    "title": "Cincinnati Open: Adam Walton vs Nicolas Mejia",
@@ -22241,6 +22223,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11148507776624103831063349849057657065230720950771264423521824634624226452611",
+   "condition_id": "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9",
+   "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-kokkina-2026-08-13",
+   "opened_at": "2026-08-14T16:48:31.176758+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 733.79,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.69,
+   "ask_depth": 14781.43,
+   "status": "won",
+   "closed_at": "2026-08-14T22:44:38.224724+00:00",
+   "exit_price": 1.0,
+   "pnl": 44.9275,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -24384,6 +24388,6 @@
    "outcome": "Mark Lajal"
   }
  ],
- "total_pnl": -41.672199999999535,
- "last_updated": "2026-08-14T21:15:26.230022+00:00"
+ "total_pnl": 3.2553000000004673,
+ "last_updated": "2026-08-14T22:44:38.226327+00:00"
 }
