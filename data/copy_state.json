@@ -15608,24 +15608,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "23873209337604096948763060458217675098410689987009113959223186526633642530177",
-   "condition_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
-   "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
-   "outcome": "JD Gaming",
-   "slug": "lol-al-jdg-2026-08-14",
-   "opened_at": "2026-08-14T07:25:23.200430+00:00",
-   "entry_price": 0.45,
-   "shares": 222.2222,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 4840.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.45,
-   "ask_depth": 7324.55,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "32926114636434284318640631939684276163258537768995122809226181999001833539594",
    "condition_id": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
    "title": "Cincinnati Open: Elvina Kalieva vs Oleksandra Oliynykova",
@@ -21981,6 +21963,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23873209337604096948763060458217675098410689987009113959223186526633642530177",
+   "condition_id": "0x8ce33e7b4a7f62a665eb1c61d1fce7ac2843c1b67838c75fa524fee612619387",
+   "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "JD Gaming",
+   "slug": "lol-al-jdg-2026-08-14",
+   "opened_at": "2026-08-14T07:25:23.200430+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 4840.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.45,
+   "ask_depth": 7324.55,
+   "status": "lost",
+   "closed_at": "2026-08-14T16:55:24.306247+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -24044,6 +24048,6 @@
    "outcome": "Nikola Bartunkova"
   }
  ],
- "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T16:48:31.789243+00:00"
+ "total_pnl": 63.59100000000046,
+ "last_updated": "2026-08-14T16:55:24.307989+00:00"
 }
