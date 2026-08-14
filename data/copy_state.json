@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9763.591162,
+ "bankroll": 9663.591162,
  "last_seen": {
-  "jtwyslljy": 1786724608,
+  "jtwyslljy": 1786725804,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9959,6 +9959,20 @@
    "BUY",
    2000,
    1786724608
+  ],
+  [
+   "0x888d2e7f28763e93af2482aba9422b9ea73853a654382b7271c1405a54068da2",
+   "56196469882788076755457523325707714549844676022380174422105448136708238161207",
+   "BUY",
+   6.68,
+   1786725733
+  ],
+  [
+   "0xa468a15fe603b518975a5199837fe8a03c1b9978ce05c99a28f18f39e6e3ee33",
+   "11148507776624103831063349849057657065230720950771264423521824634624226452611",
+   "BUY",
+   1079.11,
+   1786725804
   ]
  ],
  "leader_pos": {
@@ -15565,6 +15579,30 @@
    "cost": 1119.9,
    "max_shares": 4000.0,
    "last_trade_ts": 1786724608
+  },
+  "jtwyslljy|56196469882788076755457523325707714549844676022380174422105448136708238161207": {
+   "leader": "jtwyslljy",
+   "asset": "56196469882788076755457523325707714549844676022380174422105448136708238161207",
+   "condition_id": "0xba098ff5a890a37f9fc33e1a46f51a7d0dcdbbb71f86708ee39a53ae8742955b",
+   "title": "Cincinnati Open: Sebastian Baez vs Grigor Dimitrov",
+   "outcome": "Sebastian Baez",
+   "slug": "atp-baez-dimitro-2026-08-13",
+   "shares": 6.68,
+   "cost": 2.8055999999999996,
+   "max_shares": 6.68,
+   "last_trade_ts": 1786725733
+  },
+  "jtwyslljy|11148507776624103831063349849057657065230720950771264423521824634624226452611": {
+   "leader": "jtwyslljy",
+   "asset": "11148507776624103831063349849057657065230720950771264423521824634624226452611",
+   "condition_id": "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9",
+   "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-kokkina-2026-08-13",
+   "shares": 1079.11,
+   "cost": 733.7948,
+   "max_shares": 1079.11,
+   "last_trade_ts": 1786725804
   }
  },
  "positions": [
@@ -15638,6 +15676,24 @@
    "copy_delay_min": 1.1,
    "best_ask": 0.72,
    "ask_depth": 17688.94,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11148507776624103831063349849057657065230720950771264423521824634624226452611",
+   "condition_id": "0xa5ca29e8a6668f42d4085eee8d2779a70aac8469807bc0ef8d3fc98487ad50b9",
+   "title": "Cincinnati Open: Nuno Borges vs Thanasi Kokkinakis",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-kokkina-2026-08-13",
+   "opened_at": "2026-08-14T16:48:31.176758+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 733.79,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.69,
+   "ask_depth": 14781.43,
    "status": "open"
   }
  ],
@@ -23989,5 +24045,5 @@
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T16:30:33.849766+00:00"
+ "last_updated": "2026-08-14T16:48:31.789243+00:00"
 }
