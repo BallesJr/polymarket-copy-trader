@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10167.977125,
+ "bankroll": 10182.012213,
  "last_seen": {
-  "jtwyslljy": 1786648521,
+  "jtwyslljy": 1786674490,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9651,6 +9651,13 @@
    "BUY",
    2000,
    1786648521
+  ],
+  [
+   "0x5695fdc5fec1b8e4387680b9f2a4f89e7b8a6d43cef7e3f03b1626e6bd016145",
+   "70947492875840491611478231879163767711213732816399451576426708184784244098031",
+   "SELL",
+   3000,
+   1786674490
   ]
  ],
  "leader_pos": {
@@ -14989,10 +14996,10 @@
    "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
    "outcome": "Gael Monfils",
    "slug": "atp-hijikat-monfils-2026-08-13",
-   "shares": 2000.0,
-   "cost": 1140.0,
+   "shares": -1000.0,
+   "cost": 840.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1786646514
+   "last_trade_ts": 1786674490
   }
  },
  "positions": [
@@ -15012,24 +15019,6 @@
    "copy_delay_min": 4.9,
    "best_ask": 0.38,
    "ask_depth": 13648.95,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "70947492875840491611478231879163767711213732816399451576426708184784244098031",
-   "condition_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
-   "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
-   "outcome": "Gael Monfils",
-   "slug": "atp-hijikat-monfils-2026-08-13",
-   "opened_at": "2026-08-13T18:45:35.242107+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 1140.0,
-   "copy_delay_min": 3.7,
-   "best_ask": 0.57,
-   "ask_depth": 20165.94,
    "status": "open"
   }
  ],
@@ -21251,6 +21240,28 @@
    "exit_price": 1.0,
    "pnl": 44.9275,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70947492875840491611478231879163767711213732816399451576426708184784244098031",
+   "condition_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
+   "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
+   "outcome": "Gael Monfils",
+   "slug": "atp-hijikat-monfils-2026-08-13",
+   "opened_at": "2026-08-13T18:45:35.242107+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1140.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.57,
+   "ask_depth": 20165.94,
+   "status": "closed",
+   "closed_at": "2026-08-14T02:30:35.542073+00:00",
+   "exit_price": 0.08,
+   "pnl": -85.9649,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -23104,6 +23115,6 @@
    "outcome": "Dino Prizmic"
   }
  ],
- "total_pnl": 367.9770000000005,
- "last_updated": "2026-08-14T02:20:27.418292+00:00"
+ "total_pnl": 282.0121000000005,
+ "last_updated": "2026-08-14T02:30:35.800414+00:00"
 }
