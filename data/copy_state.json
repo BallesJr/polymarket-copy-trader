@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786720338,
+  "jtwyslljy": 1786720755,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9854,6 +9854,34 @@
    "BUY",
    3000,
    1786720338
+  ],
+  [
+   "0xd1ad59e95c67dbcceb020979342221df836ef176f095d3e4d25cd6324afbdb76",
+   "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "BUY",
+   2000,
+   1786720699
+  ],
+  [
+   "0xbe837b33df3fdde02959a21a560f83c644c5f7d39e76a9b972a9e4c37eb9b4c8",
+   "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "SELL",
+   32.55,
+   1786720731
+  ],
+  [
+   "0x0b6299e00b8699b9bc3486a5dcd98ad43972dfdaa30bc00f3b9891c1d0f8ff5f",
+   "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "SELL",
+   1000,
+   1786720740
+  ],
+  [
+   "0xfbbe307f15707f3bb5dab1020236b4c60a24f733a42e3e9d57225ecc9b265513",
+   "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "SELL",
+   967,
+   1786720755
   ]
  ],
  "leader_pos": {
@@ -15384,10 +15412,22 @@
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Daniel Altmaier",
    "slug": "atp-wong-altmaie-2026-08-14",
-   "shares": 3000.0,
-   "cost": 1260.0,
+   "shares": 1000.4499999999998,
+   "cost": 530.8219999999999,
    "max_shares": 3000.0,
-   "last_trade_ts": 1786720338
+   "last_trade_ts": 1786720755
+  },
+  "jtwyslljy|51866361274875347667926020494040291955221367046983057938894614681921043349178": {
+   "leader": "jtwyslljy",
+   "asset": "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "condition_id": "0x3ae1308e51206a98e16813ab3461b8456c505d8e54624d2c0b8861e0a0a2b4c3",
+   "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
+   "outcome": "Kyrian Jacquet",
+   "slug": "atp-jacquet-vallejo-2026-08-14",
+   "shares": 2000.0,
+   "cost": 1380.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786720699
   }
  },
  "positions": [
@@ -23705,8 +23745,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Daniel Altmaier"
+  },
+  {
+   "at": "2026-08-14T15:25:23.080833+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x3ae1308e51206a98e16813ab3461b8456c505d8e54624d2c0b8861e0a0a2b4c3",
+   "copy_delay_min": 7.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
+   "outcome": "Kyrian Jacquet"
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T15:15:25.585574+00:00"
+ "last_updated": "2026-08-14T15:25:23.360167+00:00"
 }
