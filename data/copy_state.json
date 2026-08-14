@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786710412,
+  "jtwyslljy": 1786720338,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9847,6 +9847,13 @@
    "BUY",
    5000,
    1786710412
+  ],
+  [
+   "0x97dbafc03b8d082c1dc97be87c1a23a36491e8499cc9062f19aaa38b0f138d57",
+   "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "BUY",
+   3000,
+   1786720338
   ]
  ],
  "leader_pos": {
@@ -15369,6 +15376,18 @@
    "cost": 546.42,
    "max_shares": 1301.0,
    "last_trade_ts": 1786709322
+  },
+  "jtwyslljy|113817248441198968108909874282111535675668221140886454978714549332729092361783": {
+   "leader": "jtwyslljy",
+   "asset": "113817248441198968108909874282111535675668221140886454978714549332729092361783",
+   "condition_id": "0x606b07c8a0bbbc440dec93b26c8813b93b3e2c167ad65f96fafc8ae2500165d3",
+   "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-wong-altmaie-2026-08-14",
+   "shares": 3000.0,
+   "cost": 1260.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786720338
   }
  },
  "positions": [
@@ -23676,8 +23695,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-08-14T15:15:25.332681+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x606b07c8a0bbbc440dec93b26c8813b93b3e2c167ad65f96fafc8ae2500165d3",
+   "copy_delay_min": 3.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier"
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T13:35:30.421621+00:00"
+ "last_updated": "2026-08-14T15:15:25.585574+00:00"
 }
