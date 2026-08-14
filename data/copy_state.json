@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9563.591162,
  "last_seen": {
-  "jtwyslljy": 1786727161,
+  "jtwyslljy": 1786727341,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10008,6 +10008,13 @@
    "BUY",
    3000,
    1786727161
+  ],
+  [
+   "0x2769f75461b6a89bdaeb0d027da679b9412523a9be8f7303f0c4d87b5dcc3a62",
+   "23641526274547553498259315527645503518270834768819222805525495295319119283979",
+   "BUY",
+   5000,
+   1786727341
   ]
  ],
  "leader_pos": {
@@ -15658,10 +15665,10 @@
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Coleman Wong",
    "slug": "atp-wong-altmaie-2026-08-14",
-   "shares": 4000.0,
-   "cost": 1729.9499999,
-   "max_shares": 4000.0,
-   "last_trade_ts": 1786727161
+   "shares": 9000.0,
+   "cost": 2879.9499999,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1786727341
   }
  },
  "positions": [
@@ -24143,8 +24150,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
    "outcome": "Coleman Wong"
+  },
+  {
+   "at": "2026-08-14T17:15:29.900984+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x606b07c8a0bbbc440dec93b26c8813b93b3e2c167ad65f96fafc8ae2500165d3",
+   "copy_delay_min": 6.5,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Coleman Wong vs Daniel Altmaier",
+   "outcome": "Coleman Wong"
   }
  ],
  "total_pnl": 63.59100000000046,
- "last_updated": "2026-08-14T17:10:28.897328+00:00"
+ "last_updated": "2026-08-14T17:15:30.312146+00:00"
 }
