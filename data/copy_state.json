@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786706719,
+  "jtwyslljy": 1786709322,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9833,6 +9833,13 @@
    "BUY",
    8250,
    1786706719
+  ],
+  [
+   "0x7b3b6bd61b0b4eb35e4dace187fe049653bdc755e768f768b3e0893d3c400b00",
+   "68975376536741749947575715482145847817802270549576225769301728173712669181647",
+   "BUY",
+   1301,
+   1786709322
   ]
  ],
  "leader_pos": {
@@ -15343,6 +15350,18 @@
    "cost": 3300.0,
    "max_shares": 8250.0,
    "last_trade_ts": 1786706719
+  },
+  "jtwyslljy|68975376536741749947575715482145847817802270549576225769301728173712669181647": {
+   "leader": "jtwyslljy",
+   "asset": "68975376536741749947575715482145847817802270549576225769301728173712669181647",
+   "condition_id": "0xd4732ec59f1909c1500b62a79487c415dc60467b4aa5f6924921b08b521e83e0",
+   "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
+   "outcome": "TYLOO",
+   "slug": "cs2-tyloo-lvg-2026-08-14",
+   "shares": 1301.0,
+   "cost": 546.42,
+   "max_shares": 1301.0,
+   "last_trade_ts": 1786709322
   }
  },
  "positions": [
@@ -23626,8 +23645,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
    "outcome": "Lynn Vision"
+  },
+  {
+   "at": "2026-08-14T12:10:28.060593+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T11:00:00+00:00",
+   "condition_id": "0xd4732ec59f1909c1500b62a79487c415dc60467b4aa5f6924921b08b521e83e0",
+   "copy_delay_min": 1.8,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
+   "outcome": "TYLOO"
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T11:30:39.453028+00:00"
+ "last_updated": "2026-08-14T12:10:28.411335+00:00"
 }
