@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10063.591162,
  "last_seen": {
-  "jtwyslljy": 1786705803,
+  "jtwyslljy": 1786706719,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9826,6 +9826,13 @@
    "SELL",
    10,
    1786705803
+  ],
+  [
+   "0xe03ced607c943ada3caca5d2e177d3994ecf06a2f9b66129f4bcf8fd9715ba91",
+   "107883030934844390210030633029812159139746478779315611895110184029995322300333",
+   "BUY",
+   8250,
+   1786706719
   ]
  ],
  "leader_pos": {
@@ -15324,6 +15331,18 @@
    "cost": 1650.0000000000002,
    "max_shares": 3000.0,
    "last_trade_ts": 1786705735
+  },
+  "jtwyslljy|107883030934844390210030633029812159139746478779315611895110184029995322300333": {
+   "leader": "jtwyslljy",
+   "asset": "107883030934844390210030633029812159139746478779315611895110184029995322300333",
+   "condition_id": "0xd4732ec59f1909c1500b62a79487c415dc60467b4aa5f6924921b08b521e83e0",
+   "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
+   "outcome": "Lynn Vision",
+   "slug": "cs2-tyloo-lvg-2026-08-14",
+   "shares": 8250.0,
+   "cost": 3300.0,
+   "max_shares": 8250.0,
+   "last_trade_ts": 1786706719
   }
  },
  "positions": [
@@ -23597,8 +23616,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Anyone's Legend vs JD Gaming (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-08-14T11:30:39.060265+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T11:00:00+00:00",
+   "condition_id": "0xd4732ec59f1909c1500b62a79487c415dc60467b4aa5f6924921b08b521e83e0",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - Esports World Cup Group C",
+   "outcome": "Lynn Vision"
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T11:15:23.970099+00:00"
+ "last_updated": "2026-08-14T11:30:39.453028+00:00"
 }
