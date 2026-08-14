@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9703.255506,
+ "bankroll": 9899.333906,
  "last_seen": {
   "jtwyslljy": 1786734115,
   "0x53757615de": 1784324596
@@ -15820,24 +15820,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "61086596078072563882853740053795910057902692346818470734991724404386358815062",
-   "condition_id": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
-   "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
-   "outcome": "Xinyu Wang",
-   "slug": "wta-wa-vandewi-2026-08-14",
-   "opened_at": "2026-08-14T16:05:22.339792+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 1836.0,
-   "copy_delay_min": 1.6,
-   "best_ask": 0.51,
-   "ask_depth": 5937.77,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "65149139251643174760598463704216046190092402816140185885902098926950667077397",
    "condition_id": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
    "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
@@ -22249,6 +22231,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61086596078072563882853740053795910057902692346818470734991724404386358815062",
+   "condition_id": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
+   "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-vandewi-2026-08-14",
+   "opened_at": "2026-08-14T16:05:22.339792+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 1836.0,
+   "copy_delay_min": 1.6,
+   "best_ask": 0.51,
+   "ask_depth": 5937.77,
+   "status": "won",
+   "closed_at": "2026-08-14T23:05:23.071348+00:00",
+   "exit_price": 1.0,
+   "pnl": 96.0784,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -24392,6 +24396,6 @@
    "outcome": "Mark Lajal"
   }
  ],
- "total_pnl": -96.74469999999954,
- "last_updated": "2026-08-14T23:00:44.440112+00:00"
+ "total_pnl": -0.6662999999995378,
+ "last_updated": "2026-08-14T23:05:23.072643+00:00"
 }
