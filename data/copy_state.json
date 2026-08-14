@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9558.328006,
  "last_seen": {
-  "jtwyslljy": 1786730007,
+  "jtwyslljy": 1786730107,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10078,6 +10078,13 @@
    "BUY",
    15000,
    1786730007
+  ],
+  [
+   "0x6cf465b9daea66df13d59759e9ec0f1bda30a7ac24998cc06f66bde07bdfa94f",
+   "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+   "BUY",
+   15499.99,
+   1786730107
   ]
  ],
  "leader_pos": {
@@ -15764,10 +15771,10 @@
    "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
    "outcome": "Mananchaya Sawangkaew",
    "slug": "wta-sawangk-blinkov-2026-08-14",
-   "shares": 60000.0,
-   "cost": 19800.0,
-   "max_shares": 60000.0,
-   "last_trade_ts": 1786730007
+   "shares": 75499.99,
+   "cost": 24449.997,
+   "max_shares": 75499.99,
+   "last_trade_ts": 1786730107
   }
  },
  "positions": [
@@ -24311,8 +24318,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
    "outcome": "Mananchaya Sawangkaew"
+  },
+  {
+   "at": "2026-08-14T18:00:29.680200+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T16:30:00+00:00",
+   "condition_id": "0xe62bc7ed9b629b08145ed0ca2705429cc3e4d560bf0339d29dbd10742e853020",
+   "copy_delay_min": 5.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
+   "outcome": "Mananchaya Sawangkaew"
   }
  ],
  "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T17:55:20.839716+00:00"
+ "last_updated": "2026-08-14T18:00:29.940170+00:00"
 }
