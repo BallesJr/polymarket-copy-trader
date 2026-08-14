@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9658.328006,
  "last_seen": {
-  "jtwyslljy": 1786727847,
+  "jtwyslljy": 1786728988,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10029,6 +10029,13 @@
    "BUY",
    2118,
    1786727847
+  ],
+  [
+   "0x15b5c968ec19068e1ed9e4a55ac991d6696edc300d1f0bf05c6d797eb6042947",
+   "76631600873412704613718400399900861411061139082024764373892116235606791754182",
+   "SELL",
+   4000,
+   1786728988
   ]
  ],
  "leader_pos": {
@@ -15631,10 +15638,10 @@
    "title": "Cincinnati Open: Nikola Bartunkova vs Alina Charaeva",
    "outcome": "Nikola Bartunkova",
    "slug": "wta-bartunk-charaev-2026-08-14",
-   "shares": 4000.0,
-   "cost": 1119.9,
+   "shares": 0.0,
+   "cost": -2560.1,
    "max_shares": 4000.0,
-   "last_trade_ts": 1786724608
+   "last_trade_ts": 1786728988
   },
   "jtwyslljy|56196469882788076755457523325707714549844676022380174422105448136708238161207": {
    "leader": "jtwyslljy",
@@ -24181,5 +24188,5 @@
   }
  ],
  "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T17:20:30.772842+00:00"
+ "last_updated": "2026-08-14T17:40:26.787427+00:00"
 }
