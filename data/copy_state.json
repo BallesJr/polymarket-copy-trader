@@ -15820,24 +15820,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "32926114636434284318640631939684276163258537768995122809226181999001833539594",
-   "condition_id": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
-   "title": "Cincinnati Open: Elvina Kalieva vs Oleksandra Oliynykova",
-   "outcome": "Elvina Kalieva",
-   "slug": "wta-kalieva-oliynyk-2026-08-13",
-   "opened_at": "2026-08-14T16:05:22.180454+00:00",
-   "entry_price": 0.67,
-   "shares": 149.2537,
-   "stake": 100.0,
-   "leader_vwap": 0.67,
-   "leader_cost": 1206.0,
-   "copy_delay_min": 1.5,
-   "best_ask": 0.67,
-   "ask_depth": 55076.51,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "61086596078072563882853740053795910057902692346818470734991724404386358815062",
    "condition_id": "0xf6e3cd9a991072115121e28251dfa1651d6f329ba8a6f78e0c18bf801150c0a8",
    "title": "Cincinnati Open: Xinyu Wang vs Hanne Vandewinkel",
@@ -22237,6 +22219,28 @@
    "exit_price": 0.18,
    "pnl": -5.2632,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32926114636434284318640631939684276163258537768995122809226181999001833539594",
+   "condition_id": "0x07f644c66cffd67fc3b69acf3a52e60b989303eb2802292e63184a169e93a54f",
+   "title": "Cincinnati Open: Elvina Kalieva vs Oleksandra Oliynykova",
+   "outcome": "Elvina Kalieva",
+   "slug": "wta-kalieva-oliynyk-2026-08-13",
+   "opened_at": "2026-08-14T16:05:22.180454+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 1206.0,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.67,
+   "ask_depth": 55076.51,
+   "status": "lost",
+   "closed_at": "2026-08-14T21:15:26.228134+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -24380,6 +24384,6 @@
    "outcome": "Mark Lajal"
   }
  ],
- "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T19:04:15.975872+00:00"
+ "total_pnl": -41.672199999999535,
+ "last_updated": "2026-08-14T21:15:26.230022+00:00"
 }
