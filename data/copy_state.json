@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9692.963025,
+ "bankroll": 9871.534425,
  "last_seen": {
   "jtwyslljy": 1786648521,
   "0x53757615de": 1784324596
@@ -15052,24 +15052,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "5448963729102427728273079507854701604746807898146829415457065774844734170549",
-   "condition_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
-   "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
-   "outcome": "Iga Swiatek",
-   "slug": "wta-swiatek-rybakin-2026-08-13",
-   "opened_at": "2026-08-13T17:55:24.319460+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 2239.99,
-   "copy_delay_min": 2.0,
-   "best_ask": 0.56,
-   "ask_depth": 40873.7,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "70947492875840491611478231879163767711213732816399451576426708184784244098031",
    "condition_id": "0xf8ec54defc15705ce9ab2e48748a3fdf5df1d162fe461305ef3a40ff394fd81d",
    "title": "Cincinnati Open: Rinky Hijikata vs Gael Monfils",
@@ -21239,6 +21221,28 @@
    "exit_price": 1.0,
    "pnl": 127.2727,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5448963729102427728273079507854701604746807898146829415457065774844734170549",
+   "condition_id": "0x9e6177bb37665f55a3e1cb9bc64f5acb1b5cee6acf5626dc704450e94c12fc58",
+   "title": "National Bank Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-rybakin-2026-08-13",
+   "opened_at": "2026-08-13T17:55:24.319460+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 2239.99,
+   "copy_delay_min": 2.0,
+   "best_ask": 0.56,
+   "ask_depth": 40873.7,
+   "status": "won",
+   "closed_at": "2026-08-14T00:05:26.686685+00:00",
+   "exit_price": 1.0,
+   "pnl": 78.5714,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -23092,6 +23096,6 @@
    "outcome": "Dino Prizmic"
   }
  ],
- "total_pnl": 192.9629000000005,
- "last_updated": "2026-08-13T23:35:25.228115+00:00"
+ "total_pnl": 271.5343000000005,
+ "last_updated": "2026-08-14T00:05:26.688562+00:00"
 }
