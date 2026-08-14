@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10182.012213,
  "last_seen": {
-  "jtwyslljy": 1786675446,
+  "jtwyslljy": 1786675515,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9686,6 +9686,13 @@
    "BUY",
    1194.79,
    1786675446
+  ],
+  [
+   "0xfed5f60531a936f1a53eeaa96126fa92d56c1e83e6daef736dfa6e29a11bcdb3",
+   "104455441156799145185405903069921120884179104723166713230487911442030813091629",
+   "BUY",
+   135,
+   1786675515
   ]
  ],
  "leader_pos": {
@@ -15048,10 +15055,10 @@
    "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
    "outcome": "Katie Boulter",
    "slug": "wta-boulter-volynet-2026-08-13",
-   "shares": 12963.509999999998,
-   "cost": 3253.2947,
-   "max_shares": 12963.509999999998,
-   "last_trade_ts": 1786675446
+   "shares": 13098.509999999998,
+   "cost": 3291.0947,
+   "max_shares": 13098.509999999998,
+   "last_trade_ts": 1786675515
   }
  },
  "positions": [
@@ -23195,8 +23202,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
    "outcome": "Katie Boulter"
+  },
+  {
+   "at": "2026-08-14T02:50:27.047829+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T23:10:00+00:00",
+   "condition_id": "0x66056f7aae0be68b3e2628ad587f38d3a2b58fe95e135afdf7cb852369c6effb",
+   "copy_delay_min": 5.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
+   "outcome": "Katie Boulter"
   }
  ],
  "total_pnl": 282.0121000000005,
- "last_updated": "2026-08-14T02:45:30.371269+00:00"
+ "last_updated": "2026-08-14T02:50:27.209500+00:00"
 }
