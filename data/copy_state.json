@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9763.591162,
  "last_seen": {
-  "jtwyslljy": 1786723455,
+  "jtwyslljy": 1786723852,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9938,6 +9938,13 @@
    "BUY",
    781.68,
    1786723455
+  ],
+  [
+   "0x021bb7046dfb84db605230b3cabb47d220e29be920986cf28e6ab62e7a6fea84",
+   "51866361274875347667926020494040291955221367046983057938894614681921043349178",
+   "BUY",
+   25,
+   1786723852
   ]
  ],
  "leader_pos": {
@@ -15480,10 +15487,10 @@
    "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
    "outcome": "Kyrian Jacquet",
    "slug": "atp-jacquet-vallejo-2026-08-14",
-   "shares": 13775.0,
-   "cost": 2489.75,
-   "max_shares": 13775.0,
-   "last_trade_ts": 1786722817
+   "shares": 13800.0,
+   "cost": 2491.75,
+   "max_shares": 13800.0,
+   "last_trade_ts": 1786723852
   },
   "jtwyslljy|106720743786198437602347534356622751929556551954547937674258817947314076749351": {
    "leader": "jtwyslljy",
@@ -23933,8 +23940,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Daria Snigur vs Yulia Starodubtseva",
    "outcome": "Daria Snigur"
+  },
+  {
+   "at": "2026-08-14T16:15:27.859340+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0x3ae1308e51206a98e16813ab3461b8456c505d8e54624d2c0b8861e0a0a2b4c3",
+   "copy_delay_min": 4.6,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
+   "outcome": "Kyrian Jacquet"
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T16:05:22.789435+00:00"
+ "last_updated": "2026-08-14T16:15:28.122025+00:00"
 }
