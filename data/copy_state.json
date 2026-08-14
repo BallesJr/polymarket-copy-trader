@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10263.591162,
  "last_seen": {
-  "jtwyslljy": 1786680774,
+  "jtwyslljy": 1786682403,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9714,6 +9714,13 @@
    "BUY",
    2000,
    1786680774
+  ],
+  [
+   "0x4e8b7703f4227e3754316fab651c7350a65357dde3d595d9af7d177738e8fa81",
+   "14266595270285453974346377947949801809708943491910237309293199876081790228630",
+   "SELL",
+   1500.01,
+   1786682403
   ]
  ],
  "leader_pos": {
@@ -15100,10 +15107,10 @@
    "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
    "outcome": "Zachary Svajda",
    "slug": "atp-svajda-bellucc-2026-08-13",
-   "shares": 2000.0,
-   "cost": 660.0,
+   "shares": 499.99,
+   "cost": 314.9977,
    "max_shares": 2000.0,
-   "last_trade_ts": 1786680774
+   "last_trade_ts": 1786682403
   }
  },
  "positions": [],
@@ -23283,5 +23290,5 @@
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T04:20:26.547820+00:00"
+ "last_updated": "2026-08-14T04:45:27.306243+00:00"
 }
