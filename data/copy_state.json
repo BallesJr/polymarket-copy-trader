@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9763.591162,
  "last_seen": {
-  "jtwyslljy": 1786723852,
+  "jtwyslljy": 1786724608,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9945,6 +9945,20 @@
    "BUY",
    25,
    1786723852
+  ],
+  [
+   "0x87647d2063182b8807051f86142868fa3380dfc1a99916b1a61c6bb1c462edb0",
+   "76631600873412704613718400399900861411061139082024764373892116235606791754182",
+   "BUY",
+   2000,
+   1786724550
+  ],
+  [
+   "0x88da731de1d7d271b19a8db2a5cdf19889073ed3a530c12e99ba692dd2bde83c",
+   "76631600873412704613718400399900861411061139082024764373892116235606791754182",
+   "BUY",
+   2000,
+   1786724608
   ]
  ],
  "leader_pos": {
@@ -15539,6 +15553,18 @@
    "cost": 554.9928,
    "max_shares": 781.68,
    "last_trade_ts": 1786723455
+  },
+  "jtwyslljy|76631600873412704613718400399900861411061139082024764373892116235606791754182": {
+   "leader": "jtwyslljy",
+   "asset": "76631600873412704613718400399900861411061139082024764373892116235606791754182",
+   "condition_id": "0xef1c49c539d898a87cff3d5258ef82fd77fc7bf46cd1621c4614bc037eb148d0",
+   "title": "Cincinnati Open: Nikola Bartunkova vs Alina Charaeva",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-bartunk-charaev-2026-08-14",
+   "shares": 4000.0,
+   "cost": 1119.9,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1786724608
   }
  },
  "positions": [
@@ -23950,8 +23976,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Kyrian Jacquet vs Adolfo Vallejo",
    "outcome": "Kyrian Jacquet"
+  },
+  {
+   "at": "2026-08-14T16:30:33.559491+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T15:10:00+00:00",
+   "condition_id": "0xef1c49c539d898a87cff3d5258ef82fd77fc7bf46cd1621c4614bc037eb148d0",
+   "copy_delay_min": 7.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Nikola Bartunkova vs Alina Charaeva",
+   "outcome": "Nikola Bartunkova"
   }
  ],
  "total_pnl": 163.59100000000046,
- "last_updated": "2026-08-14T16:15:28.122025+00:00"
+ "last_updated": "2026-08-14T16:30:33.849766+00:00"
 }
