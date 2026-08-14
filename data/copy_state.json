@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10263.591162,
  "last_seen": {
-  "jtwyslljy": 1786676026,
+  "jtwyslljy": 1786680774,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9707,6 +9707,13 @@
    "BUY",
    2300,
    1786676026
+  ],
+  [
+   "0xf3a99e1e1cece0aa2511249f50cb49e87e56e03f7a8751b7a0ddcc1e5c0f3fe2",
+   "14266595270285453974346377947949801809708943491910237309293199876081790228630",
+   "BUY",
+   2000,
+   1786680774
   ]
  ],
  "leader_pos": {
@@ -15085,6 +15092,18 @@
    "cost": 1265.0,
    "max_shares": 2300.0,
    "last_trade_ts": 1786676026
+  },
+  "jtwyslljy|14266595270285453974346377947949801809708943491910237309293199876081790228630": {
+   "leader": "jtwyslljy",
+   "asset": "14266595270285453974346377947949801809708943491910237309293199876081790228630",
+   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
+   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
+   "outcome": "Zachary Svajda",
+   "slug": "atp-svajda-bellucc-2026-08-13",
+   "shares": 2000.0,
+   "cost": 660.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786680774
   }
  },
  "positions": [],
@@ -23251,8 +23270,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Caty McNally vs McCartney Kessler",
    "outcome": "Caty McNally"
+  },
+  {
+   "at": "2026-08-14T04:20:26.547342+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T02:45:00+00:00",
+   "condition_id": "0xcfd447f2377329f74696ba99865d42913ca7dd4aa744f6c80e9b5e38a3f49bdf",
+   "copy_delay_min": 7.5,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Zachary Svajda vs Mattia Bellucci",
+   "outcome": "Zachary Svajda"
   }
  ],
  "total_pnl": 263.59100000000046,
- "last_updated": "2026-08-14T02:55:21.255762+00:00"
+ "last_updated": "2026-08-14T04:20:26.547820+00:00"
 }
