@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9558.328006,
  "last_seen": {
-  "jtwyslljy": 1786729722,
+  "jtwyslljy": 1786730007,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10057,6 +10057,27 @@
    "BUY",
    5748,
    1786729722
+  ],
+  [
+   "0xe14da3e9da9b290daf5f6ef436a82b0e5eef9b33204a61e3cfd39924e28834ba",
+   "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+   "BUY",
+   30000,
+   1786729953
+  ],
+  [
+   "0x04a1f7563a4b1d58f34f4827ed74030823d1123a92f52c5b4034a9b461506576",
+   "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+   "BUY",
+   15000,
+   1786729978
+  ],
+  [
+   "0x4f949972494d0ddda19131fc84e8259c73497c603f6d4eebc256ed336b12f5b5",
+   "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+   "BUY",
+   15000,
+   1786730007
   ]
  ],
  "leader_pos": {
@@ -15735,6 +15756,18 @@
    "cost": 2011.8,
    "max_shares": 5748.0,
    "last_trade_ts": 1786729722
+  },
+  "jtwyslljy|93084290307165664269575066020030300274831273278768229420515746887264289910617": {
+   "leader": "jtwyslljy",
+   "asset": "93084290307165664269575066020030300274831273278768229420515746887264289910617",
+   "condition_id": "0xe62bc7ed9b629b08145ed0ca2705429cc3e4d560bf0339d29dbd10742e853020",
+   "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
+   "outcome": "Mananchaya Sawangkaew",
+   "slug": "wta-sawangk-blinkov-2026-08-14",
+   "shares": 60000.0,
+   "cost": 19800.0,
+   "max_shares": 60000.0,
+   "last_trade_ts": 1786730007
   }
  },
  "positions": [
@@ -24268,8 +24301,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Tomas Machac vs Pablo Carreno Busta",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-08-14T17:55:20.692661+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T16:30:00+00:00",
+   "condition_id": "0xe62bc7ed9b629b08145ed0ca2705429cc3e4d560bf0339d29dbd10742e853020",
+   "copy_delay_min": 1.9,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Mananchaya Sawangkaew vs Anna Blinkova",
+   "outcome": "Mananchaya Sawangkaew"
   }
  ],
  "total_pnl": 58.327800000000465,
- "last_updated": "2026-08-14T17:50:27.145984+00:00"
+ "last_updated": "2026-08-14T17:55:20.839716+00:00"
 }
