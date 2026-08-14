@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10182.012213,
  "last_seen": {
-  "jtwyslljy": 1786674753,
+  "jtwyslljy": 1786675038,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9665,6 +9665,20 @@
    "BUY",
    3000,
    1786674753
+  ],
+  [
+   "0x0dff841ca5bb51e41d1810d5131858eb5e999a307a7f5edb9eebb43c5d120709",
+   "104455441156799145185405903069921120884179104723166713230487911442030813091629",
+   "BUY",
+   1768.72,
+   1786674979
+  ],
+  [
+   "0x10c7fd6d502c0b646efc8d149836ac93bef00000e966881bf93f6562bd0b1831",
+   "104455441156799145185405903069921120884179104723166713230487911442030813091629",
+   "BUY",
+   10000,
+   1786675038
   ]
  ],
  "leader_pos": {
@@ -15019,6 +15033,18 @@
    "cost": 2280.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1786674753
+  },
+  "jtwyslljy|104455441156799145185405903069921120884179104723166713230487911442030813091629": {
+   "leader": "jtwyslljy",
+   "asset": "104455441156799145185405903069921120884179104723166713230487911442030813091629",
+   "condition_id": "0x66056f7aae0be68b3e2628ad587f38d3a2b58fe95e135afdf7cb852369c6effb",
+   "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
+   "outcome": "Katie Boulter",
+   "slug": "wta-boulter-volynet-2026-08-13",
+   "shares": 11768.72,
+   "cost": 2906.8056,
+   "max_shares": 11768.72,
+   "last_trade_ts": 1786675038
   }
  },
  "positions": [
@@ -23142,8 +23168,18 @@
    "leader": "jtwyslljy",
    "title": "Titans vs. 49ers",
    "outcome": "Titans"
+  },
+  {
+   "at": "2026-08-14T02:40:24.296406+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-13T23:10:00+00:00",
+   "condition_id": "0x66056f7aae0be68b3e2628ad587f38d3a2b58fe95e135afdf7cb852369c6effb",
+   "copy_delay_min": 3.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Katie Boulter vs Katie Volynets",
+   "outcome": "Katie Boulter"
   }
  ],
  "total_pnl": 282.0121000000005,
- "last_updated": "2026-08-14T02:35:21.112137+00:00"
+ "last_updated": "2026-08-14T02:40:24.448535+00:00"
 }
