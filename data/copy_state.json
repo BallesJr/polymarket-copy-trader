@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10182.012213,
  "last_seen": {
-  "jtwyslljy": 1786674490,
+  "jtwyslljy": 1786674753,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -9658,6 +9658,13 @@
    "SELL",
    3000,
    1786674490
+  ],
+  [
+   "0x5a77c22b2ee18c7abd2ad1a4c569cba958983a09145f77f25157dd1c6a503019",
+   "106051931098980376159070340448990504199467891330631271984373634751552157519128",
+   "BUY",
+   3000,
+   1786674753
   ]
  ],
  "leader_pos": {
@@ -15000,6 +15007,18 @@
    "cost": 840.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1786674490
+  },
+  "jtwyslljy|106051931098980376159070340448990504199467891330631271984373634751552157519128": {
+   "leader": "jtwyslljy",
+   "asset": "106051931098980376159070340448990504199467891330631271984373634751552157519128",
+   "condition_id": "0x59bc53c46bcc5b0e2726fb2c430d79ace93549881df1753362655f30edf184d9",
+   "title": "Titans vs. 49ers",
+   "outcome": "Titans",
+   "slug": "nfl-ten-sf-2026-08-14",
+   "shares": 3000.0,
+   "cost": 2280.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786674753
   }
  },
  "positions": [
@@ -23113,8 +23132,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Cameron Norrie vs Dino Prizmic",
    "outcome": "Dino Prizmic"
+  },
+  {
+   "at": "2026-08-14T02:35:20.967820+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-14T01:00:00+00:00",
+   "condition_id": "0x59bc53c46bcc5b0e2726fb2c430d79ace93549881df1753362655f30edf184d9",
+   "copy_delay_min": 2.8,
+   "leader": "jtwyslljy",
+   "title": "Titans vs. 49ers",
+   "outcome": "Titans"
   }
  ],
  "total_pnl": 282.0121000000005,
- "last_updated": "2026-08-14T02:30:35.800414+00:00"
+ "last_updated": "2026-08-14T02:35:21.112137+00:00"
 }
