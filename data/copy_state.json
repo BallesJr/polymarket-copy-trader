@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8938.222806,
  "last_seen": {
-  "jtwyslljy": 1786809681,
+  "jtwyslljy": 1786811514,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10295,6 +10295,13 @@
    "BUY",
    1250,
    1786809681
+  ],
+  [
+   "0xcdc2bcd8c8f96a91c968cfa21d71bf68fe67f425e0d0c48f4a33e5b59bfc9392",
+   "6181991527667853332669116846010080398024056113778478779637380627756249812863",
+   "BUY",
+   1000,
+   1786811514
   ]
  ],
  "leader_pos": {
@@ -16213,6 +16220,18 @@
    "cost": 23250.0,
    "max_shares": 31000.0,
    "last_trade_ts": 1786808092
+  },
+  "jtwyslljy|6181991527667853332669116846010080398024056113778478779637380627756249812863": {
+   "leader": "jtwyslljy",
+   "asset": "6181991527667853332669116846010080398024056113778478779637380627756249812863",
+   "condition_id": "0x1acd92f5aec41db1661c63b2d5dde097066629fb790e783b6085eb198a160441",
+   "title": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-9z-2026-08-15",
+   "shares": 1000.0,
+   "cost": 609.95711,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1786811514
   }
  },
  "positions": [
@@ -25078,8 +25097,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
    "outcome": "Shuai Zhang"
+  },
+  {
+   "at": "2026-08-15T16:40:28.997719+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T14:20:00+00:00",
+   "condition_id": "0x1acd92f5aec41db1661c63b2d5dde097066629fb790e783b6085eb198a160441",
+   "copy_delay_min": 8.6,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
+   "outcome": "FURIA"
   }
  ],
  "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T16:10:26.622532+00:00"
+ "last_updated": "2026-08-15T16:40:29.485997+00:00"
 }
