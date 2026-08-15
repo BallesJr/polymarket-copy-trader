@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9938.222806,
+ "bankroll": 9838.222806,
  "last_seen": {
-  "jtwyslljy": 1786793382,
+  "jtwyslljy": 1786797127,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10155,6 +10155,13 @@
    "BUY",
    1568.92,
    1786793382
+  ],
+  [
+   "0xa7d3a402051c35ca325e66cc4e6047090e498891234f61b9d895a8e7a76f8be3",
+   "2919408392518342384923153237808638578314660503823134086780803298232703397334",
+   "BUY",
+   51894.99,
+   1786797127
   ]
  ],
  "leader_pos": {
@@ -15917,6 +15924,18 @@
    "cost": 392.23,
    "max_shares": 1568.92,
    "last_trade_ts": 1786793382
+  },
+  "jtwyslljy|2919408392518342384923153237808638578314660503823134086780803298232703397334": {
+   "leader": "jtwyslljy",
+   "asset": "2919408392518342384923153237808638578314660503823134086780803298232703397334",
+   "condition_id": "0xb1108f9ec10976dac713992a12c8786aec4a1a00d5ab59f9ce0a987caa7ef854",
+   "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "Team WE",
+   "slug": "lol-blg-we-2026-08-15",
+   "shares": 51894.99,
+   "cost": 12454.7976,
+   "max_shares": 51894.99,
+   "last_trade_ts": 1786797127
   }
  },
  "positions": [
@@ -15936,6 +15955,24 @@
    "copy_delay_min": 6.8,
    "best_ask": 0.27,
    "ask_depth": 4374.16,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2919408392518342384923153237808638578314660503823134086780803298232703397334",
+   "condition_id": "0xb1108f9ec10976dac713992a12c8786aec4a1a00d5ab59f9ce0a987caa7ef854",
+   "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "Team WE",
+   "slug": "lol-blg-we-2026-08-15",
+   "opened_at": "2026-08-15T12:40:28.391337+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 12454.8,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.25,
+   "ask_depth": 57999.42,
    "status": "open"
   }
  ],
@@ -24561,5 +24598,5 @@
   }
  ],
  "total_pnl": 38.22260000000046,
- "last_updated": "2026-08-15T11:40:26.646900+00:00"
+ "last_updated": "2026-08-15T12:40:28.711844+00:00"
 }
