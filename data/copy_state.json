@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8938.222806,
  "last_seen": {
-  "jtwyslljy": 1786809480,
+  "jtwyslljy": 1786809681,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10288,6 +10288,13 @@
    "BUY",
    2000,
    1786809480
+  ],
+  [
+   "0x91950cca6620a5a75045f7414b51a6ba083cb4c56d5b027bfa98140b67f828f7",
+   "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "BUY",
+   1250,
+   1786809681
   ]
  ],
  "leader_pos": {
@@ -16118,10 +16125,10 @@
    "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
    "outcome": "Shuai Zhang",
    "slug": "wta-zhang-day-2026-08-15",
-   "shares": 35250.41,
-   "cost": 7342.6927,
-   "max_shares": 35250.41,
-   "last_trade_ts": 1786809198
+   "shares": 36500.41,
+   "cost": 7767.6927,
+   "max_shares": 36500.41,
+   "last_trade_ts": 1786809681
   },
   "jtwyslljy|14752257575574793676347123673464716049629060592967784548581391610340190724990": {
    "leader": "jtwyslljy",
@@ -25061,8 +25068,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
    "outcome": "Shuai Zhang"
+  },
+  {
+   "at": "2026-08-15T16:10:26.288958+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T15:10:00+00:00",
+   "condition_id": "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf",
+   "copy_delay_min": 9.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
+   "outcome": "Shuai Zhang"
   }
  ],
  "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T16:01:37.235919+00:00"
+ "last_updated": "2026-08-15T16:10:26.622532+00:00"
 }
