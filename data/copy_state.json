@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8938.222806,
  "last_seen": {
-  "jtwyslljy": 1786808092,
+  "jtwyslljy": 1786809198,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10260,6 +10260,27 @@
    "BUY",
    31000,
    1786808092
+  ],
+  [
+   "0x9d7f65b09945ac0ac60ef4a91397f5f0c93b42d7d573d0dd711702fd9235b480",
+   "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "BUY",
+   20000,
+   1786808962
+  ],
+  [
+   "0x864677649556373f91a93e9b5898587e39059fb03c90d60f51da889fad2ff0bf",
+   "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "BUY",
+   12500,
+   1786808986
+  ],
+  [
+   "0x48754639debc839809cb67c044af01156210a21974efe30c34b17b9b38536a4b",
+   "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "BUY",
+   1500,
+   1786809198
   ]
  ],
  "leader_pos": {
@@ -16090,10 +16111,10 @@
    "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
    "outcome": "Shuai Zhang",
    "slug": "wta-zhang-day-2026-08-15",
-   "shares": 1250.41,
-   "cost": 587.6927000000001,
-   "max_shares": 1250.41,
-   "last_trade_ts": 1786806486
+   "shares": 35250.41,
+   "cost": 7342.6927,
+   "max_shares": 35250.41,
+   "last_trade_ts": 1786809198
   },
   "jtwyslljy|14752257575574793676347123673464716049629060592967784548581391610340190724990": {
    "leader": "jtwyslljy",
@@ -25023,8 +25044,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
    "outcome": "Kayla Day"
+  },
+  {
+   "at": "2026-08-15T16:00:39.593145+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T15:10:00+00:00",
+   "condition_id": "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
+   "outcome": "Shuai Zhang"
   }
  ],
  "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T15:40:26.934222+00:00"
+ "last_updated": "2026-08-15T16:00:39.853848+00:00"
 }
