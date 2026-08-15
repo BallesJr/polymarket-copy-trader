@@ -16270,24 +16270,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "2919408392518342384923153237808638578314660503823134086780803298232703397334",
-   "condition_id": "0xb1108f9ec10976dac713992a12c8786aec4a1a00d5ab59f9ce0a987caa7ef854",
-   "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
-   "outcome": "Team WE",
-   "slug": "lol-blg-we-2026-08-15",
-   "opened_at": "2026-08-15T12:40:28.391337+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.24,
-   "leader_cost": 12454.8,
-   "copy_delay_min": 8.3,
-   "best_ask": 0.25,
-   "ask_depth": 57999.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "17399211082646773932892601119324795583517219435195514266975462754855930387228",
    "condition_id": "0xb74bf288c6511e1eabbb373810ca403002cfd7288a5e95c54fa1fa782d709350",
    "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
@@ -22927,6 +22909,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2919408392518342384923153237808638578314660503823134086780803298232703397334",
+   "condition_id": "0xb1108f9ec10976dac713992a12c8786aec4a1a00d5ab59f9ce0a987caa7ef854",
+   "title": "LoL: Bilibili Gaming vs Team WE (BO3) - LPL Group Ascend",
+   "outcome": "Team WE",
+   "slug": "lol-blg-we-2026-08-15",
+   "opened_at": "2026-08-15T12:40:28.391337+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 12454.8,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.25,
+   "ask_depth": 57999.42,
+   "status": "lost",
+   "closed_at": "2026-08-15T17:40:27.817987+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25170,6 +25174,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T16:54:47.591517+00:00"
+ "total_pnl": -161.77739999999955,
+ "last_updated": "2026-08-15T17:40:27.819446+00:00"
 }
