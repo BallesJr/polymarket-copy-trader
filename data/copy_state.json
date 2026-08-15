@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10038.222806,
  "last_seen": {
-  "jtwyslljy": 1786734115,
+  "jtwyslljy": 1786765860,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10113,6 +10113,13 @@
    "BUY",
    13999.99,
    1786734115
+  ],
+  [
+   "0xf68224afc1a1e6885009b1a14e0260da95cca0d74ebc394a02c6d1f36ecfc399",
+   "13018116503820657601784670673166479821002703514782621990285227429585623260837",
+   "BUY",
+   1500,
+   1786765860
   ]
  ],
  "leader_pos": {
@@ -15815,6 +15822,18 @@
    "cost": 5073.9916,
    "max_shares": 14951.49,
    "last_trade_ts": 1786734115
+  },
+  "jtwyslljy|13018116503820657601784670673166479821002703514782621990285227429585623260837": {
+   "leader": "jtwyslljy",
+   "asset": "13018116503820657601784670673166479821002703514782621990285227429585623260837",
+   "condition_id": "0xf2bf720c68d59fafb47886b1acdba85da232c6b52c4423cc12a6c02d3cf6c189",
+   "title": "Texas Rangers vs. Athletics",
+   "outcome": "Athletics",
+   "slug": "mlb-tex-oak-2026-08-14",
+   "shares": 1500.0,
+   "cost": 1155.0,
+   "max_shares": 1500.0,
+   "last_trade_ts": 1786765860
   }
  },
  "positions": [],
@@ -24397,8 +24416,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Mark Lajal vs Juan Manuel Cerundolo",
    "outcome": "Mark Lajal"
+  },
+  {
+   "at": "2026-08-15T03:55:24.146090+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T01:40:00+00:00",
+   "condition_id": "0xf2bf720c68d59fafb47886b1acdba85da232c6b52c4423cc12a6c02d3cf6c189",
+   "copy_delay_min": 4.4,
+   "leader": "jtwyslljy",
+   "title": "Texas Rangers vs. Athletics",
+   "outcome": "Athletics"
   }
  ],
  "total_pnl": 38.22260000000046,
- "last_updated": "2026-08-15T00:45:27.519599+00:00"
+ "last_updated": "2026-08-15T03:55:24.146556+00:00"
 }
