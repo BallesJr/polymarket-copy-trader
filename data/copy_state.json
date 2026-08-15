@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9938.222806,
  "last_seen": {
-  "jtwyslljy": 1786787692,
+  "jtwyslljy": 1786790908,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10141,6 +10141,13 @@
    "BUY",
    1000,
    1786787692
+  ],
+  [
+   "0xeb167d865b3556be67414b2a254e09eb8ce7db4e692be6a864b4fadf16bb4d83",
+   "70001828277054942684767819599883695170577758504383072916306509908460065630661",
+   "BUY",
+   1999.99,
+   1786790908
   ]
  ],
  "leader_pos": {
@@ -15879,6 +15886,18 @@
    "cost": 1379.9932,
    "max_shares": 1999.99,
    "last_trade_ts": 1786787692
+  },
+  "jtwyslljy|70001828277054942684767819599883695170577758504383072916306509908460065630661": {
+   "leader": "jtwyslljy",
+   "asset": "70001828277054942684767819599883695170577758504383072916306509908460065630661",
+   "condition_id": "0x0b19141ed80dc3e3bd3a8c74fbbdc9702fe19271baa9adeca8303e6d0d1dbd94",
+   "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend",
+   "slug": "lol-tt-al-2026-08-15",
+   "shares": 1999.99,
+   "cost": 1079.9946,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1786790908
   }
  },
  "positions": [
@@ -24510,8 +24529,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "Hanwha Life Esports"
+  },
+  {
+   "at": "2026-08-15T10:55:21.678557+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T10:00:00+00:00",
+   "condition_id": "0x0b19141ed80dc3e3bd3a8c74fbbdc9702fe19271baa9adeca8303e6d0d1dbd94",
+   "copy_delay_min": 6.9,
+   "leader": "jtwyslljy",
+   "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend"
   }
  ],
  "total_pnl": 38.22260000000046,
- "last_updated": "2026-08-15T10:00:41.841654+00:00"
+ "last_updated": "2026-08-15T10:55:21.858334+00:00"
 }
