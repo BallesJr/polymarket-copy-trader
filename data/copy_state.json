@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9438.222806,
+ "bankroll": 9038.222806,
  "last_seen": {
-  "jtwyslljy": 1786805941,
+  "jtwyslljy": 1786806654,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10190,6 +10190,48 @@
    "BUY",
    1500,
    1786805941
+  ],
+  [
+   "0x5b77150a6165252fed61d497f263e9da83ce914168342539441ca0df7cef9410",
+   "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "BUY",
+   1250.41,
+   1786806486
+  ],
+  [
+   "0xf20aea7f03951dd9e25501698d64c33b257ca413227cb5dfd26cb974c2981e67",
+   "14752257575574793676347123673464716049629060592967784548581391610340190724990",
+   "BUY",
+   2000,
+   1786806495
+  ],
+  [
+   "0xfbbc924f41e9dd46f51436d9067b00fe91c7dbea5bee3ff3f33fc3e4ce9adb4d",
+   "82066378579076212587304466643972497355740599067816466561205167538298443923646",
+   "BUY",
+   1700,
+   1786806508
+  ],
+  [
+   "0xa3ea0385292a51fd99aeecf92edd29101801b85afe3c744b7c39e8a01e64cc23",
+   "63110787617077843696867441926023065144890052515713987441077911723341155993170",
+   "BUY",
+   1500,
+   1786806514
+  ],
+  [
+   "0xa880eeb8722ba0c20cd1fa997d89c12dfb45529582f2e10317b0b31f29389ef3",
+   "97500922814512311945868558875423710050036832121838285297948929393816917868285",
+   "BUY",
+   1300,
+   1786806532
+  ],
+  [
+   "0xad414749f6449f6a9e5be4cbbff4881c7f4bdad07cd0f971865e5df1985e0dfe",
+   "17399211082646773932892601119324795583517219435195514266975462754855930387228",
+   "BUY",
+   100,
+   1786806654
   ]
  ],
  "leader_pos": {
@@ -16008,10 +16050,70 @@
    "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
    "outcome": "Terence Atmane",
    "slug": "atp-atmane-etcheve-2026-08-15",
+   "shares": 1600.0,
+   "cost": 1008.0,
+   "max_shares": 1600.0,
+   "last_trade_ts": 1786806654
+  },
+  "jtwyslljy|61835705598492550503080623649711983391611458786359988039573609542734867488930": {
+   "leader": "jtwyslljy",
+   "asset": "61835705598492550503080623649711983391611458786359988039573609542734867488930",
+   "condition_id": "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf",
+   "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
+   "outcome": "Shuai Zhang",
+   "slug": "wta-zhang-day-2026-08-15",
+   "shares": 1250.41,
+   "cost": 587.6927000000001,
+   "max_shares": 1250.41,
+   "last_trade_ts": 1786806486
+  },
+  "jtwyslljy|14752257575574793676347123673464716049629060592967784548581391610340190724990": {
+   "leader": "jtwyslljy",
+   "asset": "14752257575574793676347123673464716049629060592967784548581391610340190724990",
+   "condition_id": "0x0a42e6c1fb35590689bd8c019c42f10c47a8f28d69dfdf14e42c256bf877d761",
+   "title": "Cincinnati Open: Jelena Ostapenko vs Magdalena Frech",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-ostapen-frech-2026-08-15",
+   "shares": 2000.0,
+   "cost": 1000.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786806495
+  },
+  "jtwyslljy|82066378579076212587304466643972497355740599067816466561205167538298443923646": {
+   "leader": "jtwyslljy",
+   "asset": "82066378579076212587304466643972497355740599067816466561205167538298443923646",
+   "condition_id": "0x7bebe445ed4fff0a42dbe4308efac2b334c778a1d0c4b739f69a98f4cf0c2da4",
+   "title": "Cincinnati Open: Sorana Cirstea vs Nikola Bartunkova",
+   "outcome": "Sorana Cirstea",
+   "slug": "wta-cirstea-bartunk-2026-08-15",
+   "shares": 1700.0,
+   "cost": 1020.0,
+   "max_shares": 1700.0,
+   "last_trade_ts": 1786806508
+  },
+  "jtwyslljy|63110787617077843696867441926023065144890052515713987441077911723341155993170": {
+   "leader": "jtwyslljy",
+   "asset": "63110787617077843696867441926023065144890052515713987441077911723341155993170",
+   "condition_id": "0x5fc4af665d62cd9e1f92c6fae61a197fc7dbfe3d899a62f18d58185b0bb98707",
+   "title": "Cincinnati Open: Linda Noskova vs Katie Boulter",
+   "outcome": "Linda Noskova",
+   "slug": "wta-noskova-boulter-2026-08-15",
    "shares": 1500.0,
-   "cost": 945.0,
+   "cost": 1155.0,
    "max_shares": 1500.0,
-   "last_trade_ts": 1786805941
+   "last_trade_ts": 1786806514
+  },
+  "jtwyslljy|97500922814512311945868558875423710050036832121838285297948929393816917868285": {
+   "leader": "jtwyslljy",
+   "asset": "97500922814512311945868558875423710050036832121838285297948929393816917868285",
+   "condition_id": "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9",
+   "title": "Cincinnati Open: Simona Waltert vs Jessica Pegula",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-waltert-pegula-2026-08-15",
+   "shares": 1300.0,
+   "cost": 1209.0,
+   "max_shares": 1300.0,
+   "last_trade_ts": 1786806532
   }
  },
  "positions": [
@@ -16103,6 +16205,78 @@
    "copy_delay_min": 6.8,
    "best_ask": 0.48,
    "ask_depth": 126.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82066378579076212587304466643972497355740599067816466561205167538298443923646",
+   "condition_id": "0x7bebe445ed4fff0a42dbe4308efac2b334c778a1d0c4b739f69a98f4cf0c2da4",
+   "title": "Cincinnati Open: Sorana Cirstea vs Nikola Bartunkova",
+   "outcome": "Sorana Cirstea",
+   "slug": "wta-cirstea-bartunk-2026-08-15",
+   "opened_at": "2026-08-15T15:15:30.120041+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 1020.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.6,
+   "ask_depth": 9422.38,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63110787617077843696867441926023065144890052515713987441077911723341155993170",
+   "condition_id": "0x5fc4af665d62cd9e1f92c6fae61a197fc7dbfe3d899a62f18d58185b0bb98707",
+   "title": "Cincinnati Open: Linda Noskova vs Katie Boulter",
+   "outcome": "Linda Noskova",
+   "slug": "wta-noskova-boulter-2026-08-15",
+   "opened_at": "2026-08-15T15:15:30.320221+00:00",
+   "entry_price": 0.77,
+   "shares": 129.8701,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 1155.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.77,
+   "ask_depth": 306.92,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14752257575574793676347123673464716049629060592967784548581391610340190724990",
+   "condition_id": "0x0a42e6c1fb35590689bd8c019c42f10c47a8f28d69dfdf14e42c256bf877d761",
+   "title": "Cincinnati Open: Jelena Ostapenko vs Magdalena Frech",
+   "outcome": "Magdalena Frech",
+   "slug": "wta-ostapen-frech-2026-08-15",
+   "opened_at": "2026-08-15T15:15:30.716282+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.5,
+   "ask_depth": 26926.94,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97500922814512311945868558875423710050036832121838285297948929393816917868285",
+   "condition_id": "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9",
+   "title": "Cincinnati Open: Simona Waltert vs Jessica Pegula",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-waltert-pegula-2026-08-15",
+   "opened_at": "2026-08-15T15:15:30.909796+00:00",
+   "entry_price": 0.93,
+   "shares": 107.5269,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 1209.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.93,
+   "ask_depth": 1303.42,
    "status": "open"
   }
  ],
@@ -24747,8 +24921,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: ThunderTalk Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-08-15T15:15:30.523096+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-15T15:10:00+00:00",
+   "condition_id": "0xb84ad439a1dcad962f88a2722a6af4770d0ee2be4eba829de913399e7e2007cf",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Shuai Zhang vs Kayla Day",
+   "outcome": "Shuai Zhang"
   }
  ],
  "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T15:05:23.987739+00:00"
+ "last_updated": "2026-08-15T15:15:31.300573+00:00"
 }
