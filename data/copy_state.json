@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9899.333906,
+ "bankroll": 10038.222806,
  "last_seen": {
   "jtwyslljy": 1786734115,
   "0x53757615de": 1784324596
@@ -15817,26 +15817,7 @@
    "last_trade_ts": 1786734115
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "65149139251643174760598463704216046190092402816140185885902098926950667077397",
-   "condition_id": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
-   "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
-   "outcome": "Liudmila Samsonova",
-   "slug": "wta-putints-samsono-2026-08-13",
-   "opened_at": "2026-08-14T16:05:22.488132+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.71,
-   "leader_cost": 554.99,
-   "copy_delay_min": 1.1,
-   "best_ask": 0.72,
-   "ask_depth": 17688.94,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -22253,6 +22234,28 @@
    "exit_price": 1.0,
    "pnl": 96.0784,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65149139251643174760598463704216046190092402816140185885902098926950667077397",
+   "condition_id": "0x5685c534ce5dca14ab141388f65bb70414af7f4c65c29950886e691ff4042e5b",
+   "title": "Cincinnati Open: Yulia Putintseva vs Liudmila Samsonova",
+   "outcome": "Liudmila Samsonova",
+   "slug": "wta-putints-samsono-2026-08-13",
+   "opened_at": "2026-08-14T16:05:22.488132+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 554.99,
+   "copy_delay_min": 1.1,
+   "best_ask": 0.72,
+   "ask_depth": 17688.94,
+   "status": "won",
+   "closed_at": "2026-08-15T00:45:27.517846+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -24396,6 +24399,6 @@
    "outcome": "Mark Lajal"
   }
  ],
- "total_pnl": -0.6662999999995378,
- "last_updated": "2026-08-14T23:05:23.072643+00:00"
+ "total_pnl": 38.22260000000046,
+ "last_updated": "2026-08-15T00:45:27.519599+00:00"
 }
