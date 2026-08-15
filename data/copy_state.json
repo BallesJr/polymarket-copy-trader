@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9468.092906,
+ "bankroll": 9575.619806,
  "last_seen": {
   "jtwyslljy": 1786812550,
   "0x53757615de": 1784324596
@@ -16288,24 +16288,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "71001047273013222104005032333777691104641994144623627757691918706439112437784",
-   "condition_id": "0xf9393c404ec4cdf58e281aec64698ecfd00504f909670a7f02da50ff6f225039",
-   "title": "Cincinnati Open: Quentin Halys vs Alex de Minaur",
-   "outcome": "Quentin Halys",
-   "slug": "atp-halys-minaur-2026-08-15",
-   "opened_at": "2026-08-15T15:05:23.303634+00:00",
-   "entry_price": 0.3,
-   "shares": 333.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 870.0,
-   "copy_delay_min": 7.2,
-   "best_ask": 0.3,
-   "ask_depth": 16205.25,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
    "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
    "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
@@ -16338,24 +16320,6 @@
    "copy_delay_min": 6.8,
    "best_ask": 0.48,
    "ask_depth": 126.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "97500922814512311945868558875423710050036832121838285297948929393816917868285",
-   "condition_id": "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9",
-   "title": "Cincinnati Open: Simona Waltert vs Jessica Pegula",
-   "outcome": "Jessica Pegula",
-   "slug": "wta-waltert-pegula-2026-08-15",
-   "opened_at": "2026-08-15T15:15:30.909796+00:00",
-   "entry_price": 0.93,
-   "shares": 107.5269,
-   "stake": 100.0,
-   "leader_vwap": 0.93,
-   "leader_cost": 1209.0,
-   "copy_delay_min": 6.6,
-   "best_ask": 0.93,
-   "ask_depth": 1303.42,
    "status": "open"
   }
  ],
@@ -22951,6 +22915,50 @@
    "exit_price": 1.0,
    "pnl": 66.6667,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71001047273013222104005032333777691104641994144623627757691918706439112437784",
+   "condition_id": "0xf9393c404ec4cdf58e281aec64698ecfd00504f909670a7f02da50ff6f225039",
+   "title": "Cincinnati Open: Quentin Halys vs Alex de Minaur",
+   "outcome": "Quentin Halys",
+   "slug": "atp-halys-minaur-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.303634+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 870.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.3,
+   "ask_depth": 16205.25,
+   "status": "lost",
+   "closed_at": "2026-08-15T22:55:24.688700+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97500922814512311945868558875423710050036832121838285297948929393816917868285",
+   "condition_id": "0xd309880e35bbf145912a339a318781c0e3fec4b0ddf12b47a226e65f8e3b30d9",
+   "title": "Cincinnati Open: Simona Waltert vs Jessica Pegula",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-waltert-pegula-2026-08-15",
+   "opened_at": "2026-08-15T15:15:30.909796+00:00",
+   "entry_price": 0.93,
+   "shares": 107.5269,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 1209.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.93,
+   "ask_depth": 1303.42,
+   "status": "won",
+   "closed_at": "2026-08-15T22:55:24.982929+00:00",
+   "exit_price": 1.0,
+   "pnl": 7.5269,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25194,6 +25202,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -31.907299999999523,
- "last_updated": "2026-08-15T22:05:24.944751+00:00"
+ "total_pnl": -124.38039999999951,
+ "last_updated": "2026-08-15T22:55:24.984547+00:00"
 }
