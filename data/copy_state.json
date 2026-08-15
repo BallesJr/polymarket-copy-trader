@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10038.222806,
+ "bankroll": 9938.222806,
  "last_seen": {
-  "jtwyslljy": 1786765860,
+  "jtwyslljy": 1786777116,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10120,6 +10120,13 @@
    "BUY",
    1500,
    1786765860
+  ],
+  [
+   "0xfbc2ded5b4444b88deb3a62caf4b9b09fd53c1e36c7eb031e11938fb83e93a2f",
+   "111771016650879311712213412863006342760749646063280603646064589150908948353077",
+   "BUY",
+   1999.99,
+   1786777116
   ]
  ],
  "leader_pos": {
@@ -15834,9 +15841,40 @@
    "cost": 1155.0,
    "max_shares": 1500.0,
    "last_trade_ts": 1786765860
+  },
+  "jtwyslljy|111771016650879311712213412863006342760749646063280603646064589150908948353077": {
+   "leader": "jtwyslljy",
+   "asset": "111771016650879311712213412863006342760749646063280603646064589150908948353077",
+   "condition_id": "0x64bd53521dd843095c63a78a4b4080a2482bab48dc7a2c3cc0e336559accc528",
+   "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-hle1-kt-2026-08-15",
+   "shares": 1999.99,
+   "cost": 559.9972,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1786777116
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "111771016650879311712213412863006342760749646063280603646064589150908948353077",
+   "condition_id": "0x64bd53521dd843095c63a78a4b4080a2482bab48dc7a2c3cc0e336559accc528",
+   "title": "LoL: Hanwha Life Esports vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-hle1-kt-2026-08-15",
+   "opened_at": "2026-08-15T07:05:24.862913+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 560.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.27,
+   "ask_depth": 4374.16,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -24429,5 +24467,5 @@
   }
  ],
  "total_pnl": 38.22260000000046,
- "last_updated": "2026-08-15T03:55:24.146556+00:00"
+ "last_updated": "2026-08-15T07:05:25.080321+00:00"
 }
