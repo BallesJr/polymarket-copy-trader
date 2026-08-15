@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8838.222806,
+ "bankroll": 8971.556106,
  "last_seen": {
   "jtwyslljy": 1786812550,
   "0x53757615de": 1784324596
@@ -16414,24 +16414,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "48617435853744567803937689181878250693585381198057395170456579271776632380149",
-   "condition_id": "0xea04e5d7dc90f493c1f2b0186694a628ca5981c78b2090b7d1bc84c5766e40af",
-   "title": "Will Getafe CF win on 2026-08-15?",
-   "outcome": "No",
-   "slug": "lal-ala-get-2026-08-15",
-   "opened_at": "2026-08-15T15:40:26.591766+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 23250.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.75,
-   "ask_depth": 25160.41,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "5085487403989345929001438942109134831429471363648820159405570368076298332904",
    "condition_id": "0xe0c81e7a3a84597dad5db3101e6295b1f35aaedec4d511ee5121dd6571d65357",
    "title": "Will Deportivo Alav\u00e9s win on 2026-08-15?",
@@ -22931,6 +22913,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "48617435853744567803937689181878250693585381198057395170456579271776632380149",
+   "condition_id": "0xea04e5d7dc90f493c1f2b0186694a628ca5981c78b2090b7d1bc84c5766e40af",
+   "title": "Will Getafe CF win on 2026-08-15?",
+   "outcome": "No",
+   "slug": "lal-ala-get-2026-08-15",
+   "opened_at": "2026-08-15T15:40:26.591766+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 23250.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.75,
+   "ask_depth": 25160.41,
+   "status": "won",
+   "closed_at": "2026-08-15T19:59:45.837426+00:00",
+   "exit_price": 1.0,
+   "pnl": 33.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25174,6 +25178,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -161.77739999999955,
- "last_updated": "2026-08-15T17:40:27.819446+00:00"
+ "total_pnl": -128.44409999999954,
+ "last_updated": "2026-08-15T19:59:45.839314+00:00"
 }
