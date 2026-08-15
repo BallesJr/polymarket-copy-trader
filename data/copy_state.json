@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9838.222806,
+ "bankroll": 9438.222806,
  "last_seen": {
-  "jtwyslljy": 1786797127,
+  "jtwyslljy": 1786805941,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10162,6 +10162,34 @@
    "BUY",
    51894.99,
    1786797127
+  ],
+  [
+   "0xbfbc10f2fed2fe27853bf1143ad52b20372acbf29b3d9decf64962c0135a360d",
+   "58390503146407073453764477580686555820720278194059155835658168475245277795652",
+   "BUY",
+   3000,
+   1786805853
+  ],
+  [
+   "0x21978436959cfe413f6d31512ce7385ddbf6c241e1fb7788b4f03f090ceb0a27",
+   "71001047273013222104005032333777691104641994144623627757691918706439112437784",
+   "BUY",
+   3000,
+   1786805890
+  ],
+  [
+   "0xda2a32e8b74a00bb548b43be8fb70152eab28e4f67e7faf51e3a8036b9aadc95",
+   "57640782675891150233322399912959585357154467878892595695890897722771020744009",
+   "BUY",
+   2000,
+   1786805914
+  ],
+  [
+   "0xbe196ac4361832d684246c7c4d68f0d876cc10bb20d5228870ecdd0e516afbea",
+   "17399211082646773932892601119324795583517219435195514266975462754855930387228",
+   "BUY",
+   1500,
+   1786805941
   ]
  ],
  "leader_pos": {
@@ -15936,6 +15964,54 @@
    "cost": 12454.7976,
    "max_shares": 51894.99,
    "last_trade_ts": 1786797127
+  },
+  "jtwyslljy|58390503146407073453764477580686555820720278194059155835658168475245277795652": {
+   "leader": "jtwyslljy",
+   "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
+   "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
+   "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-vachero-2026-08-15",
+   "shares": 3000.0,
+   "cost": 1020.0000000000001,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786805853
+  },
+  "jtwyslljy|71001047273013222104005032333777691104641994144623627757691918706439112437784": {
+   "leader": "jtwyslljy",
+   "asset": "71001047273013222104005032333777691104641994144623627757691918706439112437784",
+   "condition_id": "0xf9393c404ec4cdf58e281aec64698ecfd00504f909670a7f02da50ff6f225039",
+   "title": "Cincinnati Open: Quentin Halys vs Alex de Minaur",
+   "outcome": "Quentin Halys",
+   "slug": "atp-halys-minaur-2026-08-15",
+   "shares": 3000.0,
+   "cost": 869.9999999999999,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786805890
+  },
+  "jtwyslljy|57640782675891150233322399912959585357154467878892595695890897722771020744009": {
+   "leader": "jtwyslljy",
+   "asset": "57640782675891150233322399912959585357154467878892595695890897722771020744009",
+   "condition_id": "0xd6ab2e87528f45361a9db928d0cf7507df6ac5aff623bc00fb88232bd9f86f0e",
+   "title": "Cincinnati Open: Tommy Paul vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-paul-hurkacz-2026-08-15",
+   "shares": 2000.0,
+   "cost": 960.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786805914
+  },
+  "jtwyslljy|17399211082646773932892601119324795583517219435195514266975462754855930387228": {
+   "leader": "jtwyslljy",
+   "asset": "17399211082646773932892601119324795583517219435195514266975462754855930387228",
+   "condition_id": "0xb74bf288c6511e1eabbb373810ca403002cfd7288a5e95c54fa1fa782d709350",
+   "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-etcheve-2026-08-15",
+   "shares": 1500.0,
+   "cost": 945.0,
+   "max_shares": 1500.0,
+   "last_trade_ts": 1786805941
   }
  },
  "positions": [
@@ -15955,6 +16031,78 @@
    "copy_delay_min": 8.3,
    "best_ask": 0.25,
    "ask_depth": 57999.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17399211082646773932892601119324795583517219435195514266975462754855930387228",
+   "condition_id": "0xb74bf288c6511e1eabbb373810ca403002cfd7288a5e95c54fa1fa782d709350",
+   "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-etcheve-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.108447+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.63,
+   "leader_cost": 945.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.63,
+   "ask_depth": 10957.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71001047273013222104005032333777691104641994144623627757691918706439112437784",
+   "condition_id": "0xf9393c404ec4cdf58e281aec64698ecfd00504f909670a7f02da50ff6f225039",
+   "title": "Cincinnati Open: Quentin Halys vs Alex de Minaur",
+   "outcome": "Quentin Halys",
+   "slug": "atp-halys-minaur-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.303634+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 870.0,
+   "copy_delay_min": 7.2,
+   "best_ask": 0.3,
+   "ask_depth": 16205.25,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
+   "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
+   "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-vachero-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.481630+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1020.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.35,
+   "ask_depth": 8730.21,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "57640782675891150233322399912959585357154467878892595695890897722771020744009",
+   "condition_id": "0xd6ab2e87528f45361a9db928d0cf7507df6ac5aff623bc00fb88232bd9f86f0e",
+   "title": "Cincinnati Open: Tommy Paul vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-paul-hurkacz-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.666980+00:00",
+   "entry_price": 0.4839,
+   "shares": 206.6537,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 960.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.48,
+   "ask_depth": 126.03,
    "status": "open"
   }
  ],
@@ -24602,5 +24750,5 @@
   }
  ],
  "total_pnl": -61.77739999999954,
- "last_updated": "2026-08-15T13:15:27.115546+00:00"
+ "last_updated": "2026-08-15T15:05:23.987739+00:00"
 }
