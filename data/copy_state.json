@@ -16303,24 +16303,6 @@
    "best_ask": 0.35,
    "ask_depth": 8730.21,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "57640782675891150233322399912959585357154467878892595695890897722771020744009",
-   "condition_id": "0xd6ab2e87528f45361a9db928d0cf7507df6ac5aff623bc00fb88232bd9f86f0e",
-   "title": "Cincinnati Open: Tommy Paul vs Hubert Hurkacz",
-   "outcome": "Hubert Hurkacz",
-   "slug": "atp-paul-hurkacz-2026-08-15",
-   "opened_at": "2026-08-15T15:05:23.666980+00:00",
-   "entry_price": 0.4839,
-   "shares": 206.6537,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 960.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.48,
-   "ask_depth": 126.03,
-   "status": "open"
   }
  ],
  "closed": [
@@ -22959,6 +22941,28 @@
    "exit_price": 1.0,
    "pnl": 7.5269,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "57640782675891150233322399912959585357154467878892595695890897722771020744009",
+   "condition_id": "0xd6ab2e87528f45361a9db928d0cf7507df6ac5aff623bc00fb88232bd9f86f0e",
+   "title": "Cincinnati Open: Tommy Paul vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-paul-hurkacz-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.666980+00:00",
+   "entry_price": 0.4839,
+   "shares": 206.6537,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 960.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.48,
+   "ask_depth": 126.03,
+   "status": "lost",
+   "closed_at": "2026-08-16T00:45:25.739757+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25202,6 +25206,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -124.38039999999951,
- "last_updated": "2026-08-15T22:55:24.984547+00:00"
+ "total_pnl": -224.3803999999995,
+ "last_updated": "2026-08-16T00:45:25.740914+00:00"
 }
