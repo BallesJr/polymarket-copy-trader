@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9576.314306,
+ "bankroll": 9709.647606,
  "last_seen": {
   "jtwyslljy": 1786902298,
   "0x53757615de": 1784324596
@@ -16730,24 +16730,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "33928716075635889302528417691656552237417909764826988466432249556510348521556",
-   "condition_id": "0x37c89fc5cb92c5ad0713a32a49a9a6cfcb95606412a24d496b9512cd4592854c",
-   "title": "Cincinnati Open: Learner Tien vs Sebastian Baez",
-   "outcome": "Learner Tien",
-   "slug": "atp-tien-baez-2026-08-16",
-   "opened_at": "2026-08-16T15:45:25.062412+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 750.0,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.75,
-   "ask_depth": 15499.65,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "107296951077844050279430653227748921583277288914958824403521730550870379045428",
    "condition_id": "0x7892744f56068b4c8aade930d2b54c9db831ededb612c37384bb71895539a93e",
    "title": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs",
@@ -23529,6 +23511,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33928716075635889302528417691656552237417909764826988466432249556510348521556",
+   "condition_id": "0x37c89fc5cb92c5ad0713a32a49a9a6cfcb95606412a24d496b9512cd4592854c",
+   "title": "Cincinnati Open: Learner Tien vs Sebastian Baez",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-baez-2026-08-16",
+   "opened_at": "2026-08-16T15:45:25.062412+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 750.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.75,
+   "ask_depth": 15499.65,
+   "status": "won",
+   "closed_at": "2026-08-16T22:44:13.229029+00:00",
+   "exit_price": 1.0,
+   "pnl": 33.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25940,6 +25944,6 @@
    "outcome": "Janice Tjen"
   }
  ],
- "total_pnl": -23.685899999999492,
- "last_updated": "2026-08-16T19:25:19.467317+00:00"
+ "total_pnl": 9.64740000000051,
+ "last_updated": "2026-08-16T22:44:13.230738+00:00"
 }
