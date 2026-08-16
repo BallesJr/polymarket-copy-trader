@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10020.064306,
  "last_seen": {
-  "jtwyslljy": 1786812550,
+  "jtwyslljy": 1786870852,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10323,6 +10323,20 @@
    "BUY",
    219,
    1786812550
+  ],
+  [
+   "0xad0e40eaeb68aded3a212fc5c51268bf9221493f81518fb410a5e6ccbe43d18a",
+   "31707656722465422977190920295558941573063633834949721176855024182888171884798",
+   "BUY",
+   2000,
+   1786870788
+  ],
+  [
+   "0xd4a5f7879c41ca0f9866d075ff0a57d664ff07eb423d0c4dc0b825576f49b14c",
+   "17006332368653167501390794931375637032762198261718069628382582347909991473707",
+   "BUY",
+   3000,
+   1786870852
   ]
  ],
  "leader_pos": {
@@ -16265,6 +16279,30 @@
    "cost": 37501.92,
    "max_shares": 62499.55,
    "last_trade_ts": 1786812550
+  },
+  "jtwyslljy|31707656722465422977190920295558941573063633834949721176855024182888171884798": {
+   "leader": "jtwyslljy",
+   "asset": "31707656722465422977190920295558941573063633834949721176855024182888171884798",
+   "condition_id": "0x66b7c275ddc4f9372e69f33753f1067dfaa452a03b7b236d24c5a41cad4aa07f",
+   "title": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "JD Gaming",
+   "slug": "lol-lgd-jdg-2026-08-16",
+   "shares": 2000.0,
+   "cost": 1280.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786870788
+  },
+  "jtwyslljy|17006332368653167501390794931375637032762198261718069628382582347909991473707": {
+   "leader": "jtwyslljy",
+   "asset": "17006332368653167501390794931375637032762198261718069628382582347909991473707",
+   "condition_id": "0xc4236dcca3bc3403c780305c0563bb484e5ebf598313f5ba508e71c6987ea1b3",
+   "title": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "T1",
+   "slug": "lol-t1-gen-2026-08-16",
+   "shares": 3000.0,
+   "cost": 690.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786870852
   }
  },
  "positions": [],
@@ -25211,8 +25249,28 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs 9z (BO3) - Esports World Cup Group D",
    "outcome": "FURIA"
+  },
+  {
+   "at": "2026-08-16T09:10:23.601453+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T07:00:00+00:00",
+   "condition_id": "0x66b7c275ddc4f9372e69f33753f1067dfaa452a03b7b236d24c5a41cad4aa07f",
+   "copy_delay_min": 10.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: LGD Gaming vs JD Gaming (BO3) - LPL Group Ascend",
+   "outcome": "JD Gaming"
+  },
+  {
+   "at": "2026-08-16T09:10:23.732529+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T08:00:00+00:00",
+   "condition_id": "0xc4236dcca3bc3403c780305c0563bb484e5ebf598313f5ba508e71c6987ea1b3",
+   "copy_delay_min": 9.5,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs Gen.G (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "T1"
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T01:35:20.544626+00:00"
+ "last_updated": "2026-08-16T09:10:23.732803+00:00"
 }
