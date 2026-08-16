@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10020.064306,
+ "bankroll": 9920.064306,
  "last_seen": {
-  "jtwyslljy": 1786870852,
+  "jtwyslljy": 1786873162,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10337,6 +10337,13 @@
    "BUY",
    3000,
    1786870852
+  ],
+  [
+   "0x6a68d95ad458df9a1110c8545ab71bb094cd29f37a0690e6f1f2f33df9ce48f4",
+   "108199638951247431067330311844955514176868616546571370178236108123627267309827",
+   "BUY",
+   3000,
+   1786873162
   ]
  ],
  "leader_pos": {
@@ -16303,9 +16310,40 @@
    "cost": 690.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1786870852
+  },
+  "jtwyslljy|108199638951247431067330311844955514176868616546571370178236108123627267309827": {
+   "leader": "jtwyslljy",
+   "asset": "108199638951247431067330311844955514176868616546571370178236108123627267309827",
+   "condition_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
+   "title": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Invictus Gaming",
+   "slug": "lol-wb-ig1-2026-08-16",
+   "shares": 3000.0,
+   "cost": 1920.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786873162
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "108199638951247431067330311844955514176868616546571370178236108123627267309827",
+   "condition_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
+   "title": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Invictus Gaming",
+   "slug": "lol-wb-ig1-2026-08-16",
+   "opened_at": "2026-08-16T09:45:28.018409+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1920.0,
+   "copy_delay_min": 6.1,
+   "best_ask": 0.64,
+   "ask_depth": 39088.06,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -25272,5 +25310,5 @@
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T09:10:23.732803+00:00"
+ "last_updated": "2026-08-16T09:45:28.332700+00:00"
 }
