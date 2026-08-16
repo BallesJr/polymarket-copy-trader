@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9976.314306,
+ "bankroll": 9676.314306,
  "last_seen": {
-  "jtwyslljy": 1786894668,
+  "jtwyslljy": 1786894792,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10435,6 +10435,27 @@
    "BUY",
    3000,
    1786894668
+  ],
+  [
+   "0x4ff1b1e4398d2bf289ce06d0a953a4233fb45355156dedfd981e8361535e8bf8",
+   "107296951077844050279430653227748921583277288914958824403521730550870379045428",
+   "BUY",
+   1900,
+   1786894732
+  ],
+  [
+   "0xf60ba9ecc7baa800260dad4c62e4480d4a027a0506cd15ed35bf52db013a7a22",
+   "33928716075635889302528417691656552237417909764826988466432249556510348521556",
+   "BUY",
+   1000,
+   1786894785
+  ],
+  [
+   "0xeff69f6d08edcd5d311052a53e762ed80726f2c20816f82a4073d90cda07e876",
+   "100959822709339175916279581652810426729944711138208702068771603820703859430512",
+   "BUY",
+   1000,
+   1786894792
   ]
  ],
  "leader_pos": {
@@ -16509,6 +16530,42 @@
    "cost": 930.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1786894668
+  },
+  "jtwyslljy|107296951077844050279430653227748921583277288914958824403521730550870379045428": {
+   "leader": "jtwyslljy",
+   "asset": "107296951077844050279430653227748921583277288914958824403521730550870379045428",
+   "condition_id": "0x7892744f56068b4c8aade930d2b54c9db831ededb612c37384bb71895539a93e",
+   "title": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-bergs-2026-08-16",
+   "shares": 1900.0,
+   "cost": 1007.0,
+   "max_shares": 1900.0,
+   "last_trade_ts": 1786894732
+  },
+  "jtwyslljy|33928716075635889302528417691656552237417909764826988466432249556510348521556": {
+   "leader": "jtwyslljy",
+   "asset": "33928716075635889302528417691656552237417909764826988466432249556510348521556",
+   "condition_id": "0x37c89fc5cb92c5ad0713a32a49a9a6cfcb95606412a24d496b9512cd4592854c",
+   "title": "Cincinnati Open: Learner Tien vs Sebastian Baez",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-baez-2026-08-16",
+   "shares": 1000.0,
+   "cost": 750.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1786894785
+  },
+  "jtwyslljy|100959822709339175916279581652810426729944711138208702068771603820703859430512": {
+   "leader": "jtwyslljy",
+   "asset": "100959822709339175916279581652810426729944711138208702068771603820703859430512",
+   "condition_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
+   "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-faria-2026-08-16",
+   "shares": 1000.0,
+   "cost": 830.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1786894792
   }
  },
  "positions": [
@@ -16528,6 +16585,60 @@
    "copy_delay_min": 2.6,
    "best_ask": 0.31,
    "ask_depth": 11096.34,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100959822709339175916279581652810426729944711138208702068771603820703859430512",
+   "condition_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
+   "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-faria-2026-08-16",
+   "opened_at": "2026-08-16T15:45:24.888216+00:00",
+   "entry_price": 0.83,
+   "shares": 120.4819,
+   "stake": 100.0,
+   "leader_vwap": 0.83,
+   "leader_cost": 830.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.83,
+   "ask_depth": 26069.11,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33928716075635889302528417691656552237417909764826988466432249556510348521556",
+   "condition_id": "0x37c89fc5cb92c5ad0713a32a49a9a6cfcb95606412a24d496b9512cd4592854c",
+   "title": "Cincinnati Open: Learner Tien vs Sebastian Baez",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-baez-2026-08-16",
+   "opened_at": "2026-08-16T15:45:25.062412+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 750.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.75,
+   "ask_depth": 15499.65,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107296951077844050279430653227748921583277288914958824403521730550870379045428",
+   "condition_id": "0x7892744f56068b4c8aade930d2b54c9db831ededb612c37384bb71895539a93e",
+   "title": "Cincinnati Open: Daniel Merida Aguilar vs Zizou Bergs",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-bergs-2026-08-16",
+   "opened_at": "2026-08-16T15:45:25.243333+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 1007.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.53,
+   "ask_depth": 10327.33,
    "status": "open"
   }
  ],
@@ -25599,5 +25710,5 @@
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T15:40:26.314469+00:00"
+ "last_updated": "2026-08-16T15:45:25.585775+00:00"
 }
