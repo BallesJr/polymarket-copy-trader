@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9676.314306,
  "last_seen": {
-  "jtwyslljy": 1786896582,
+  "jtwyslljy": 1786896729,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10491,6 +10491,27 @@
    "BUY",
    981.8,
    1786896582
+  ],
+  [
+   "0x46747520ffc1a20019e7201a0596f14dcd1b9f34502911791395309b77c9d644",
+   "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "BUY",
+   15000,
+   1786896598
+  ],
+  [
+   "0x0682593622beb5614c8eb5452c7aa16147811ae757874d9567ff26905ccaa2b4",
+   "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "BUY",
+   102,
+   1786896637
+  ],
+  [
+   "0x3507ec0a2d1f7e8b7ef84900e9dbf4cf265b534ffe87100a487a1fe1aba7e924",
+   "41924321237365618465031407088885727141320835484251042755139392602866363606147",
+   "BUY",
+   1000,
+   1786896729
   ]
  ],
  "leader_pos": {
@@ -16537,10 +16558,10 @@
    "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
    "outcome": "Casper Ruud",
    "slug": "atp-oconnel-ruud-2026-08-16",
-   "shares": 63173.21000000001,
-   "cost": 24660.686898320666,
-   "max_shares": 63173.21000000001,
-   "last_trade_ts": 1786896582
+   "shares": 78275.21,
+   "cost": 29496.386898320667,
+   "max_shares": 78275.21,
+   "last_trade_ts": 1786896637
   },
   "jtwyslljy|69099997664399325023876720271060734679526229723158930401975668541718074264645": {
    "leader": "jtwyslljy",
@@ -16601,6 +16622,18 @@
    "cost": 830.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1786894792
+  },
+  "jtwyslljy|41924321237365618465031407088885727141320835484251042755139392602866363606147": {
+   "leader": "jtwyslljy",
+   "asset": "41924321237365618465031407088885727141320835484251042755139392602866363606147",
+   "condition_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "outcome": "Viktorija Golubic",
+   "slug": "wta-tjen-golubic-2026-08-16",
+   "shares": 1000.0,
+   "cost": 260.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1786896729
   }
  },
  "positions": [
@@ -25772,8 +25805,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
    "outcome": "Casper Ruud"
+  },
+  {
+   "at": "2026-08-16T16:20:27.126568+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:05:00+00:00",
+   "condition_id": "0x056e22ecb716a741445319aa5dedd5d95abc76d864505cfee3518e49c662c1c1",
+   "copy_delay_min": 9.8,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
+   "outcome": "Casper Ruud"
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:10:51.410196+00:00"
+ "last_updated": "2026-08-16T16:20:27.308242+00:00"
 }
