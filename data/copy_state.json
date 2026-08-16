@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9676.314306,
  "last_seen": {
-  "jtwyslljy": 1786897675,
+  "jtwyslljy": 1786897863,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10519,6 +10519,13 @@
    "BUY",
    205,
    1786897675
+  ],
+  [
+   "0x2758dc779f5baa53bbc1e5b0fea0b04a3dc42f8db483eff187062545d1cede8f",
+   "41924321237365618465031407088885727141320835484251042755139392602866363606147",
+   "BUY",
+   2000,
+   1786897863
   ]
  ],
  "leader_pos": {
@@ -16637,10 +16644,10 @@
    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
    "outcome": "Viktorija Golubic",
    "slug": "wta-tjen-golubic-2026-08-16",
-   "shares": 1205.0,
-   "cost": 301.0,
-   "max_shares": 1205.0,
-   "last_trade_ts": 1786897675
+   "shares": 3205.0,
+   "cost": 561.0,
+   "max_shares": 3205.0,
+   "last_trade_ts": 1786897863
   }
  },
  "positions": [
@@ -25822,8 +25829,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
    "outcome": "Casper Ruud"
+  },
+  {
+   "at": "2026-08-16T16:40:26.517332+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:00:00+00:00",
+   "condition_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "copy_delay_min": 9.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "outcome": "Viktorija Golubic"
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:35:26.072459+00:00"
+ "last_updated": "2026-08-16T16:40:26.824426+00:00"
 }
