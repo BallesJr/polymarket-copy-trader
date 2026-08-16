@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9920.064306,
  "last_seen": {
-  "jtwyslljy": 1786892592,
+  "jtwyslljy": 1786893039,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10400,6 +10400,20 @@
    "BUY",
    175.23,
    1786892592
+  ],
+  [
+   "0x37a3cf32bf2bd2a4a9bf306c0b36c11b69f3c3929f141563cea036ebdc4f062e",
+   "43038253676193068196390166644643986362334243191376091665623550399108802595629",
+   "BUY",
+   21,
+   1786892934
+  ],
+  [
+   "0x5c94a79fb7ab63aaf010725cd6a2309e9dfe5c16c4de088cf2023dfeded39202",
+   "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "BUY",
+   500,
+   1786893039
   ]
  ],
  "leader_pos": {
@@ -16410,10 +16424,10 @@
    "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
    "outcome": "Marco Trungelliti",
    "slug": "atp-trungel-medvede-2026-08-15",
-   "shares": 4892.43,
-   "cost": 831.7131,
-   "max_shares": 4892.43,
-   "last_trade_ts": 1786892349
+   "shares": 4913.43,
+   "cost": 835.2831000000001,
+   "max_shares": 4913.43,
+   "last_trade_ts": 1786892934
   },
   "jtwyslljy|77781108111903951577034517038958425808906207632279849483765882952489354266789": {
    "leader": "jtwyslljy",
@@ -16438,6 +16452,18 @@
    "cost": 84.1104,
    "max_shares": 175.23,
    "last_trade_ts": 1786892592
+  },
+  "jtwyslljy|72773794031323103223348259187062087894187578227868845200492754552118090631751": {
+   "leader": "jtwyslljy",
+   "asset": "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "condition_id": "0x056e22ecb716a741445319aa5dedd5d95abc76d864505cfee3518e49c662c1c1",
+   "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
+   "outcome": "Casper Ruud",
+   "slug": "atp-oconnel-ruud-2026-08-16",
+   "shares": 500.0,
+   "cost": 380.0,
+   "max_shares": 500.0,
+   "last_trade_ts": 1786893039
   }
  },
  "positions": [
@@ -25483,8 +25509,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva",
    "outcome": "Mirra Andreeva"
+  },
+  {
+   "at": "2026-08-16T15:15:29.588759+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:05:00+00:00",
+   "condition_id": "0xf0ba5044f380f881ce1d37a0a3038ade98ce4abe86a02243b57aa698d1aa0394",
+   "copy_delay_min": 6.6,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
+   "outcome": "Marco Trungelliti"
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T15:10:27.161821+00:00"
+ "last_updated": "2026-08-16T15:15:29.748854+00:00"
 }
