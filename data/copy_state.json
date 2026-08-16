@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9920.064306,
+ "bankroll": 9976.314306,
  "last_seen": {
-  "jtwyslljy": 1786894047,
+  "jtwyslljy": 1786894668,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10428,6 +10428,13 @@
    "BUY",
    21977.9,
    1786894047
+  ],
+  [
+   "0x64f646c99e471d08c0876f29805c13ad9f6676842dfeab94c6c64b75a9912e38",
+   "44354345577638530177705443682958445305936249944280737931835732916888429211566",
+   "BUY",
+   3000,
+   1786894668
   ]
  ],
  "leader_pos": {
@@ -16490,25 +16497,37 @@
    "cost": 13931.975,
    "max_shares": 55727.9,
    "last_trade_ts": 1786894047
+  },
+  "jtwyslljy|44354345577638530177705443682958445305936249944280737931835732916888429211566": {
+   "leader": "jtwyslljy",
+   "asset": "44354345577638530177705443682958445305936249944280737931835732916888429211566",
+   "condition_id": "0x8cb9d527416db370493cb8fce92f7b5ea6a1a90ea5000a9e71e73f8f9a3d0c6d",
+   "title": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-fonseca-zandsch-2026-08-16",
+   "shares": 3000.0,
+   "cost": 930.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786894668
   }
  },
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "108199638951247431067330311844955514176868616546571370178236108123627267309827",
-   "condition_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
-   "title": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
-   "outcome": "Invictus Gaming",
-   "slug": "lol-wb-ig1-2026-08-16",
-   "opened_at": "2026-08-16T09:45:28.018409+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
+   "asset": "44354345577638530177705443682958445305936249944280737931835732916888429211566",
+   "condition_id": "0x8cb9d527416db370493cb8fce92f7b5ea6a1a90ea5000a9e71e73f8f9a3d0c6d",
+   "title": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-fonseca-zandsch-2026-08-16",
+   "opened_at": "2026-08-16T15:40:25.765781+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
    "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 1920.0,
-   "copy_delay_min": 6.1,
-   "best_ask": 0.64,
-   "ask_depth": 39088.06,
+   "leader_vwap": 0.31,
+   "leader_cost": 930.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.31,
+   "ask_depth": 11096.34,
    "status": "open"
   }
  ],
@@ -23214,6 +23233,28 @@
    "exit_price": 1.0,
    "pnl": 185.7143,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "108199638951247431067330311844955514176868616546571370178236108123627267309827",
+   "condition_id": "0x57ebba23afe9193586f18981fbf7c739dd5e473218a7df0ed298bff877cbe569",
+   "title": "LoL: Weibo Gaming vs Invictus Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "Invictus Gaming",
+   "slug": "lol-wb-ig1-2026-08-16",
+   "opened_at": "2026-08-16T09:45:28.018409+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1920.0,
+   "copy_delay_min": 6.1,
+   "best_ask": 0.64,
+   "ask_depth": 39088.06,
+   "status": "won",
+   "closed_at": "2026-08-16T15:40:26.312698+00:00",
+   "exit_price": 1.0,
+   "pnl": 56.25,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25557,6 +25598,6 @@
    "outcome": "Janice Tjen"
   }
  ],
- "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T15:30:31.392911+00:00"
+ "total_pnl": 76.31410000000051,
+ "last_updated": "2026-08-16T15:40:26.314469+00:00"
 }
