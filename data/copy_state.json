@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9920.064306,
  "last_seen": {
-  "jtwyslljy": 1786892349,
+  "jtwyslljy": 1786892592,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10386,6 +10386,20 @@
    "BUY",
    4892.43,
    1786892349
+  ],
+  [
+   "0x2a5de6c77bfed046c8fcf3a92131d81f0b67b46f65992909038320240b0f45bc",
+   "77781108111903951577034517038958425808906207632279849483765882952489354266789",
+   "BUY",
+   800,
+   1786892565
+  ],
+  [
+   "0x85f07c8be4905c30a422835c8efa61ce0acb32a3725d486ed2e09d8ce61f619e",
+   "2267900204984046133344700056638429335456820064622744365002659737605590828897",
+   "BUY",
+   175.23,
+   1786892592
   ]
  ],
  "leader_pos": {
@@ -16400,6 +16414,30 @@
    "cost": 831.7131,
    "max_shares": 4892.43,
    "last_trade_ts": 1786892349
+  },
+  "jtwyslljy|77781108111903951577034517038958425808906207632279849483765882952489354266789": {
+   "leader": "jtwyslljy",
+   "asset": "77781108111903951577034517038958425808906207632279849483765882952489354266789",
+   "condition_id": "0xada1d7714e132ffe113d316fbfeb7465d5eeb8ba76f82899d1032e0f4ff78117",
+   "title": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva",
+   "outcome": "Mirra Andreeva",
+   "slug": "wta-oliynyk-andreev-2026-08-16",
+   "shares": 800.0,
+   "cost": 728.0,
+   "max_shares": 800.0,
+   "last_trade_ts": 1786892565
+  },
+  "jtwyslljy|2267900204984046133344700056638429335456820064622744365002659737605590828897": {
+   "leader": "jtwyslljy",
+   "asset": "2267900204984046133344700056638429335456820064622744365002659737605590828897",
+   "condition_id": "0x9b9d8e2d6473045b3ad32fc5992093a6995c7dec18180999c2c279b29f6b794d",
+   "title": "Counter-Strike: 9z vs magic (BO3) - Esports World Cup Group D",
+   "outcome": "9z",
+   "slug": "cs2-9z-mgc-2026-08-16",
+   "shares": 175.23,
+   "cost": 84.1104,
+   "max_shares": 175.23,
+   "last_trade_ts": 1786892592
   }
  },
  "positions": [
@@ -25435,8 +25473,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
    "outcome": "Marco Trungelliti"
+  },
+  {
+   "at": "2026-08-16T15:10:26.998701+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:00:00+00:00",
+   "condition_id": "0xada1d7714e132ffe113d316fbfeb7465d5eeb8ba76f82899d1032e0f4ff78117",
+   "copy_delay_min": 7.7,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Oleksandra Oliynykova vs Mirra Andreeva",
+   "outcome": "Mirra Andreeva"
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T15:05:21.827973+00:00"
+ "last_updated": "2026-08-16T15:10:27.161821+00:00"
 }
