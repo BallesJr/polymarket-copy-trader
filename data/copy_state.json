@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9676.314306,
  "last_seen": {
-  "jtwyslljy": 1786896729,
+  "jtwyslljy": 1786897675,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10512,6 +10512,13 @@
    "BUY",
    1000,
    1786896729
+  ],
+  [
+   "0xf40bacbf41683d0780bde83f18c88d4e510da6ff16559f06b455273d458ec494",
+   "41924321237365618465031407088885727141320835484251042755139392602866363606147",
+   "BUY",
+   205,
+   1786897675
   ]
  ],
  "leader_pos": {
@@ -16630,10 +16637,10 @@
    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
    "outcome": "Viktorija Golubic",
    "slug": "wta-tjen-golubic-2026-08-16",
-   "shares": 1000.0,
-   "cost": 260.0,
-   "max_shares": 1000.0,
-   "last_trade_ts": 1786896729
+   "shares": 1205.0,
+   "cost": 301.0,
+   "max_shares": 1205.0,
+   "last_trade_ts": 1786897675
   }
  },
  "positions": [
@@ -25818,5 +25825,5 @@
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:20:27.308242+00:00"
+ "last_updated": "2026-08-16T16:35:26.072459+00:00"
 }
