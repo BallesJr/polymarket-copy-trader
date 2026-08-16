@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9575.619806,
+ "bankroll": 9734.350006,
  "last_seen": {
   "jtwyslljy": 1786812550,
   "0x53757615de": 1784324596
@@ -16270,24 +16270,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "17399211082646773932892601119324795583517219435195514266975462754855930387228",
-   "condition_id": "0xb74bf288c6511e1eabbb373810ca403002cfd7288a5e95c54fa1fa782d709350",
-   "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
-   "outcome": "Terence Atmane",
-   "slug": "atp-atmane-etcheve-2026-08-15",
-   "opened_at": "2026-08-15T15:05:23.108447+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.63,
-   "leader_cost": 945.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.63,
-   "ask_depth": 10957.36,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
    "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
    "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
@@ -22963,6 +22945,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17399211082646773932892601119324795583517219435195514266975462754855930387228",
+   "condition_id": "0xb74bf288c6511e1eabbb373810ca403002cfd7288a5e95c54fa1fa782d709350",
+   "title": "Cincinnati Open: Terence Atmane vs Tomas Etcheverry",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-etcheve-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.108447+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.63,
+   "leader_cost": 945.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.63,
+   "ask_depth": 10957.36,
+   "status": "won",
+   "closed_at": "2026-08-16T01:15:26.091386+00:00",
+   "exit_price": 1.0,
+   "pnl": 58.7302,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25206,6 +25210,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -224.3803999999995,
- "last_updated": "2026-08-16T00:45:25.740914+00:00"
+ "total_pnl": -165.6501999999995,
+ "last_updated": "2026-08-16T01:15:26.093255+00:00"
 }
