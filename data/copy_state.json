@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9920.064306,
  "last_seen": {
-  "jtwyslljy": 1786893039,
+  "jtwyslljy": 1786894047,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10414,6 +10414,20 @@
    "BUY",
    500,
    1786893039
+  ],
+  [
+   "0xbe24d9df7486e4309682e534998b72af115926fd2110d8f0dee289fccc5112cc",
+   "69099997664399325023876720271060734679526229723158930401975668541718074264645",
+   "BUY",
+   33750,
+   1786894026
+  ],
+  [
+   "0x57db715d5a552a3d0c28589c1f892a20ef2de5ef685c5af560e38a1215610a0a",
+   "69099997664399325023876720271060734679526229723158930401975668541718074264645",
+   "BUY",
+   21977.9,
+   1786894047
   ]
  ],
  "leader_pos": {
@@ -16464,6 +16478,18 @@
    "cost": 380.0,
    "max_shares": 500.0,
    "last_trade_ts": 1786893039
+  },
+  "jtwyslljy|69099997664399325023876720271060734679526229723158930401975668541718074264645": {
+   "leader": "jtwyslljy",
+   "asset": "69099997664399325023876720271060734679526229723158930401975668541718074264645",
+   "condition_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "outcome": "Janice Tjen",
+   "slug": "wta-tjen-golubic-2026-08-16",
+   "shares": 55727.9,
+   "cost": 13931.975,
+   "max_shares": 55727.9,
+   "last_trade_ts": 1786894047
   }
  },
  "positions": [
@@ -25519,8 +25545,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
    "outcome": "Marco Trungelliti"
+  },
+  {
+   "at": "2026-08-16T15:30:31.155186+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:00:00+00:00",
+   "condition_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "copy_delay_min": 3.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "outcome": "Janice Tjen"
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T15:15:29.748854+00:00"
+ "last_updated": "2026-08-16T15:30:31.392911+00:00"
 }
