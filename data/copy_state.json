@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9576.314306,
  "last_seen": {
-  "jtwyslljy": 1786898692,
+  "jtwyslljy": 1786901985,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10540,6 +10540,20 @@
    "BUY",
    2444.323538,
    1786898692
+  ],
+  [
+   "0xc74b46e82b04afd59229cc2027db376a5e5e6cb3160d9e1188c7438d07750ba7",
+   "69099997664399325023876720271060734679526229723158930401975668541718074264645",
+   "BUY",
+   2000,
+   1786901877
+  ],
+  [
+   "0xe5986d4f2f943058adca01475d01baa9921475e1e6f5acbeb2953396a62d2fa6",
+   "44354345577638530177705443682958445305936249944280737931835732916888429211566",
+   "BUY",
+   3000,
+   1786901985
   ]
  ],
  "leader_pos": {
@@ -16598,10 +16612,10 @@
    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
    "outcome": "Janice Tjen",
    "slug": "wta-tjen-golubic-2026-08-16",
-   "shares": 55655.9,
-   "cost": 13888.055,
-   "max_shares": 55727.9,
-   "last_trade_ts": 1786895604
+   "shares": 57655.9,
+   "cost": 15106.01562,
+   "max_shares": 57655.9,
+   "last_trade_ts": 1786901877
   },
   "jtwyslljy|44354345577638530177705443682958445305936249944280737931835732916888429211566": {
    "leader": "jtwyslljy",
@@ -16610,10 +16624,10 @@
    "title": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp",
    "outcome": "Botic van de Zandschulp",
    "slug": "atp-fonseca-zandsch-2026-08-16",
-   "shares": 3000.0,
-   "cost": 930.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1786894668
+   "shares": 6000.0,
+   "cost": 1320.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1786901985
   },
   "jtwyslljy|107296951077844050279430653227748921583277288914958824403521730550870379045428": {
    "leader": "jtwyslljy",
@@ -25903,8 +25917,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Tamara Korpatsch vs Iva Jovic AND Cincinnati Open: Marta Kostyuk vs Sofia Kenin AND Cincinnati Open: Tereza Valentova vs Elina Svitolina",
    "outcome": ""
+  },
+  {
+   "at": "2026-08-16T17:41:34.885032+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:00:00+00:00",
+   "condition_id": "0x1373e25b6a3a139a5a4fb35bd5329e40e862f2979a73cca51ba03173e6f6ca34",
+   "copy_delay_min": 3.6,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
+   "outcome": "Janice Tjen"
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:50:27.231251+00:00"
+ "last_updated": "2026-08-16T17:41:35.058898+00:00"
 }
