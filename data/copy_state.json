@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9734.350006,
+ "bankroll": 10020.064306,
  "last_seen": {
   "jtwyslljy": 1786812550,
   "0x53757615de": 1784324596
@@ -16267,26 +16267,7 @@
    "last_trade_ts": 1786812550
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
-   "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
-   "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
-   "outcome": "Adolfo Vallejo",
-   "slug": "atp-vallejo-vachero-2026-08-15",
-   "opened_at": "2026-08-15T15:05:23.481630+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 1020.0,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.35,
-   "ask_depth": 8730.21,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -22967,6 +22948,28 @@
    "exit_price": 1.0,
    "pnl": 58.7302,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58390503146407073453764477580686555820720278194059155835658168475245277795652",
+   "condition_id": "0x735082415ad5f8d02e5f5e7c2c6d3c3172bc61bd471e5730909202a642ef3ef8",
+   "title": "Cincinnati Open: Adolfo Vallejo vs Valentin Vacherot",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-vachero-2026-08-15",
+   "opened_at": "2026-08-15T15:05:23.481630+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1020.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.35,
+   "ask_depth": 8730.21,
+   "status": "won",
+   "closed_at": "2026-08-16T01:35:20.543332+00:00",
+   "exit_price": 1.0,
+   "pnl": 185.7143,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25210,6 +25213,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -165.6501999999995,
- "last_updated": "2026-08-16T01:15:26.093255+00:00"
+ "total_pnl": 20.064100000000508,
+ "last_updated": "2026-08-16T01:35:20.544626+00:00"
 }
