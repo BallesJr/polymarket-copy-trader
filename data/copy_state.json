@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9676.314306,
  "last_seen": {
-  "jtwyslljy": 1786896234,
+  "jtwyslljy": 1786896582,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10477,6 +10477,20 @@
    "BUY",
    17000,
    1786896234
+  ],
+  [
+   "0xbb5a00bdb933d52009f4925e219b8800962aad400e9ac387ccb516e0dc764320",
+   "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "BUY",
+   11684.68,
+   1786896379
+  ],
+  [
+   "0xb6114ad042946fbe1ff9ff0b6f41d220b340380f1e8d27d50e1bb96c482b427b",
+   "72773794031323103223348259187062087894187578227868845200492754552118090631751",
+   "BUY",
+   981.8,
+   1786896582
   ]
  ],
  "leader_pos": {
@@ -16523,10 +16537,10 @@
    "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
    "outcome": "Casper Ruud",
    "slug": "atp-oconnel-ruud-2026-08-16",
-   "shares": 50506.73,
-   "cost": 19799.303698320666,
-   "max_shares": 50506.73,
-   "last_trade_ts": 1786896234
+   "shares": 63173.21000000001,
+   "cost": 24660.686898320666,
+   "max_shares": 63173.21000000001,
+   "last_trade_ts": 1786896582
   },
   "jtwyslljy|69099997664399325023876720271060734679526229723158930401975668541718074264645": {
    "leader": "jtwyslljy",
@@ -25748,8 +25762,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
    "outcome": "Casper Ruud"
+  },
+  {
+   "at": "2026-08-16T16:10:51.016799+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:05:00+00:00",
+   "condition_id": "0x056e22ecb716a741445319aa5dedd5d95abc76d864505cfee3518e49c662c1c1",
+   "copy_delay_min": 1.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Christopher O'Connell vs Casper Ruud",
+   "outcome": "Casper Ruud"
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:10:22.836054+00:00"
+ "last_updated": "2026-08-16T16:10:51.410196+00:00"
 }
