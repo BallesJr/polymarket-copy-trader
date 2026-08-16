@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9920.064306,
  "last_seen": {
-  "jtwyslljy": 1786886617,
+  "jtwyslljy": 1786892349,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10379,6 +10379,13 @@
    "BUY",
    1000,
    1786886617
+  ],
+  [
+   "0xd2939ed7159da5012f074b74174f2615aaccf15b72de7ca87e1aab938599ede7",
+   "43038253676193068196390166644643986362334243191376091665623550399108802595629",
+   "BUY",
+   4892.43,
+   1786892349
   ]
  ],
  "leader_pos": {
@@ -16381,6 +16388,18 @@
    "cost": 830.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1786886617
+  },
+  "jtwyslljy|43038253676193068196390166644643986362334243191376091665623550399108802595629": {
+   "leader": "jtwyslljy",
+   "asset": "43038253676193068196390166644643986362334243191376091665623550399108802595629",
+   "condition_id": "0xf0ba5044f380f881ce1d37a0a3038ade98ce4abe86a02243b57aa698d1aa0394",
+   "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-medvede-2026-08-15",
+   "shares": 4892.43,
+   "cost": 831.7131,
+   "max_shares": 4892.43,
+   "last_trade_ts": 1786892349
   }
  },
  "positions": [
@@ -25406,8 +25425,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Top Esports vs EDward Gaming (BO3) - LPL Group Ascend",
    "outcome": "Top Esports"
+  },
+  {
+   "at": "2026-08-16T15:05:21.553387+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-16T15:00:00+00:00",
+   "condition_id": "0xf0ba5044f380f881ce1d37a0a3038ade98ce4abe86a02243b57aa698d1aa0394",
+   "copy_delay_min": 6.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Marco Trungelliti vs Daniil Medvedev",
+   "outcome": "Marco Trungelliti"
   }
  ],
  "total_pnl": 20.064100000000508,
- "last_updated": "2026-08-16T13:30:33.622027+00:00"
+ "last_updated": "2026-08-16T15:05:21.827973+00:00"
 }
