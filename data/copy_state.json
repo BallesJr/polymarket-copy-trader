@@ -16712,24 +16712,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "44354345577638530177705443682958445305936249944280737931835732916888429211566",
-   "condition_id": "0x8cb9d527416db370493cb8fce92f7b5ea6a1a90ea5000a9e71e73f8f9a3d0c6d",
-   "title": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp",
-   "outcome": "Botic van de Zandschulp",
-   "slug": "atp-fonseca-zandsch-2026-08-16",
-   "opened_at": "2026-08-16T15:40:25.765781+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.31,
-   "leader_cost": 930.0,
-   "copy_delay_min": 2.6,
-   "best_ask": 0.31,
-   "ask_depth": 11096.34,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "100959822709339175916279581652810426729944711138208702068771603820703859430512",
    "condition_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
    "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
@@ -23525,6 +23507,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "44354345577638530177705443682958445305936249944280737931835732916888429211566",
+   "condition_id": "0x8cb9d527416db370493cb8fce92f7b5ea6a1a90ea5000a9e71e73f8f9a3d0c6d",
+   "title": "Cincinnati Open: Joao Fonseca vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-fonseca-zandsch-2026-08-16",
+   "opened_at": "2026-08-16T15:40:25.765781+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.31,
+   "leader_cost": 930.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.31,
+   "ask_depth": 11096.34,
+   "status": "lost",
+   "closed_at": "2026-08-16T19:25:19.465624+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25936,6 +25940,6 @@
    "outcome": "Janice Tjen"
   }
  ],
- "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T17:50:27.134137+00:00"
+ "total_pnl": -23.685899999999492,
+ "last_updated": "2026-08-16T19:25:19.467317+00:00"
 }
