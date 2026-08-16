@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9676.314306,
+ "bankroll": 9576.314306,
  "last_seen": {
-  "jtwyslljy": 1786897863,
+  "jtwyslljy": 1786898470,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10526,6 +10526,13 @@
    "BUY",
    2000,
    1786897863
+  ],
+  [
+   "0x0672b9ed1913d3e09dcda0e926e07fb7165631b2df34ce89dd67d9d01c6c7e6c",
+   "22451215275407095950574515721401687997870841321024975107161193009640882088169",
+   "BUY",
+   2000,
+   1786898470
   ]
  ],
  "leader_pos": {
@@ -16648,6 +16655,18 @@
    "cost": 561.0,
    "max_shares": 3205.0,
    "last_trade_ts": 1786897863
+  },
+  "jtwyslljy|22451215275407095950574515721401687997870841321024975107161193009640882088169": {
+   "leader": "jtwyslljy",
+   "asset": "22451215275407095950574515721401687997870841321024975107161193009640882088169",
+   "condition_id": "0x0d7ce769ae544bce70117a1bcd3243c86a97cb57e6cf482fd81a1b46c20c7abc",
+   "title": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-blinkov-alexand-2026-08-16",
+   "shares": 2000.0,
+   "cost": 1460.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1786898470
   }
  },
  "positions": [
@@ -16721,6 +16740,24 @@
    "copy_delay_min": 6.5,
    "best_ask": 0.53,
    "ask_depth": 10327.33,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22451215275407095950574515721401687997870841321024975107161193009640882088169",
+   "condition_id": "0x0d7ce769ae544bce70117a1bcd3243c86a97cb57e6cf482fd81a1b46c20c7abc",
+   "title": "Cincinnati Open: Anna Blinkova vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-blinkov-alexand-2026-08-16",
+   "opened_at": "2026-08-16T16:45:26.780200+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 1460.0,
+   "copy_delay_min": 4.3,
+   "best_ask": 0.73,
+   "ask_depth": 1484.21,
    "status": "open"
   }
  ],
@@ -25842,5 +25879,5 @@
   }
  ],
  "total_pnl": 76.31410000000051,
- "last_updated": "2026-08-16T16:40:26.824426+00:00"
+ "last_updated": "2026-08-16T16:45:27.058001+00:00"
 }
