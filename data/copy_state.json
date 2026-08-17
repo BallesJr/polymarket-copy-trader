@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9535.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786985001,
+  "jtwyslljy": 1786985260,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10729,6 +10729,13 @@
    "BUY",
    24154.32,
    1786985001
+  ],
+  [
+   "0x79f277fd532fa734b17686c048dc43f025da17072a537c0f68479326c14f78ef",
+   "82149352699870214603913015993754392149701977560547094177244652528780088494214",
+   "BUY",
+   13000,
+   1786985260
   ]
  ],
  "leader_pos": {
@@ -16967,10 +16974,10 @@
    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
    "outcome": "Diane Parry",
    "slug": "wta-parry-boisson-2026-08-17",
-   "shares": 78494.73000000001,
-   "cost": 21018.077100000002,
-   "max_shares": 78494.73000000001,
-   "last_trade_ts": 1786985001
+   "shares": 91494.73000000001,
+   "cost": 24918.077100000002,
+   "max_shares": 91494.73000000001,
+   "last_trade_ts": 1786985260
   },
   "jtwyslljy|64441165074673275325304365997029501333744333618968335891275465730368996812466": {
    "leader": "jtwyslljy",
@@ -26476,8 +26483,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
    "outcome": "Diane Parry"
+  },
+  {
+   "at": "2026-08-17T16:55:05.036442+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T15:10:00+00:00",
+   "condition_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
+   "copy_delay_min": 7.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "outcome": "Diane Parry"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T16:50:27.044723+00:00"
+ "last_updated": "2026-08-17T16:55:05.266519+00:00"
 }
