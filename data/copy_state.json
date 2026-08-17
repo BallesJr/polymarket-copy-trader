@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9626.240556,
+ "bankroll": 9757.819456000001,
  "last_seen": {
   "jtwyslljy": 1786987503,
   "0x53757615de": 1786954867
@@ -17070,24 +17070,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "23677346851704408532652565551778428467015728435912860163543199493331137543446",
-   "condition_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
-   "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-shnaide-chwalin-2026-08-17",
-   "opened_at": "2026-08-17T15:45:26.290995+00:00",
-   "entry_price": 0.76,
-   "shares": 131.5789,
-   "stake": 100.0,
-   "leader_vwap": 0.76,
-   "leader_cost": 1140.0,
-   "copy_delay_min": 11.6,
-   "best_ask": 0.76,
-   "ask_depth": 14811.42,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "36558361155571004643096067939782692717571964004134736984000492669504968318508",
    "condition_id": "0x1cc71c84c39b6fb700a565c4d63b04dd2baa52e78fb9b7a97d8005aa27fc2ff8",
    "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
@@ -23983,6 +23965,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23677346851704408532652565551778428467015728435912860163543199493331137543446",
+   "condition_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
+   "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-chwalin-2026-08-17",
+   "opened_at": "2026-08-17T15:45:26.290995+00:00",
+   "entry_price": 0.76,
+   "shares": 131.5789,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 1140.0,
+   "copy_delay_min": 11.6,
+   "best_ask": 0.76,
+   "ask_depth": 14811.42,
+   "status": "won",
+   "closed_at": "2026-08-17T23:35:23.644474+00:00",
+   "exit_price": 1.0,
+   "pnl": 31.5789,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -26544,6 +26548,6 @@
    "outcome": "Lois Boisson"
   }
  ],
- "total_pnl": -73.7596999999995,
- "last_updated": "2026-08-17T23:15:27.507587+00:00"
+ "total_pnl": -42.18079999999949,
+ "last_updated": "2026-08-17T23:35:23.645778+00:00"
 }
