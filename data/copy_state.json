@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10035.313106000001,
+ "bankroll": 9835.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786980033,
+  "jtwyslljy": 1786980996,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10659,6 +10659,34 @@
    "BUY",
    3000,
    1786980033
+  ],
+  [
+   "0x5c5bf325a50d377570a2513578d9c22db83cc256dda5781bbf2389f83a358999",
+   "23677346851704408532652565551778428467015728435912860163543199493331137543446",
+   "BUY",
+   1500,
+   1786980829
+  ],
+  [
+   "0xfa3d840fe674f73206f5e598d27a062fb74d5168a3cd605ab7399923e766a407",
+   "105837187161780446796422800018038000956450623487439548160622882608811718913966",
+   "BUY",
+   4000,
+   1786980844
+  ],
+  [
+   "0x6b67dac57fc647d1a792ff6d53513b4aec266cf808a311ff082b30c43aa2670d",
+   "82149352699870214603913015993754392149701977560547094177244652528780088494214",
+   "BUY",
+   36790.41,
+   1786980937
+  ],
+  [
+   "0x9e2059ce38b03cae9a07b8561f76f148b623f0ea1e9d31ed1d21eb01ab9ab3dd",
+   "82149352699870214603913015993754392149701977560547094177244652528780088494214",
+   "BUY",
+   17550,
+   1786980996
   ]
  ],
  "leader_pos": {
@@ -16865,9 +16893,82 @@
    "cost": 1620.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1786980033
+  },
+  "jtwyslljy|23677346851704408532652565551778428467015728435912860163543199493331137543446": {
+   "leader": "jtwyslljy",
+   "asset": "23677346851704408532652565551778428467015728435912860163543199493331137543446",
+   "condition_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
+   "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-chwalin-2026-08-17",
+   "shares": 1500.0,
+   "cost": 1140.0,
+   "max_shares": 1500.0,
+   "last_trade_ts": 1786980829
+  },
+  "jtwyslljy|105837187161780446796422800018038000956450623487439548160622882608811718913966": {
+   "leader": "jtwyslljy",
+   "asset": "105837187161780446796422800018038000956450623487439548160622882608811718913966",
+   "condition_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
+   "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-anisimo-2026-08-17",
+   "shares": 4000.0,
+   "cost": 1840.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1786980844
+  },
+  "jtwyslljy|82149352699870214603913015993754392149701977560547094177244652528780088494214": {
+   "leader": "jtwyslljy",
+   "asset": "82149352699870214603913015993754392149701977560547094177244652528780088494214",
+   "condition_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "outcome": "Diane Parry",
+   "slug": "wta-parry-boisson-2026-08-17",
+   "shares": 54340.41,
+   "cost": 14496.410700000002,
+   "max_shares": 54340.41,
+   "last_trade_ts": 1786980996
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "105837187161780446796422800018038000956450623487439548160622882608811718913966",
+   "condition_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
+   "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-anisimo-2026-08-17",
+   "opened_at": "2026-08-17T15:45:25.881998+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 1840.0,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.46,
+   "ask_depth": 2306.58,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23677346851704408532652565551778428467015728435912860163543199493331137543446",
+   "condition_id": "0xa50ccad0b6e8635efef7ce9cc701ad6cc918fdc443ea897560fc22826e9cec4b",
+   "title": "Cincinnati Open: Diana Shnaider vs Maja Chwalinska",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-chwalin-2026-08-17",
+   "opened_at": "2026-08-17T15:45:26.290995+00:00",
+   "entry_price": 0.76,
+   "shares": 131.5789,
+   "stake": 100.0,
+   "leader_vwap": 0.76,
+   "leader_cost": 1140.0,
+   "copy_delay_min": 11.6,
+   "best_ask": 0.76,
+   "ask_depth": 14811.42,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26191,8 +26292,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
    "outcome": "Martin Landaluce"
+  },
+  {
+   "at": "2026-08-17T15:45:26.089936+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T15:10:00+00:00",
+   "condition_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
+   "copy_delay_min": 8.8,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "outcome": "Diane Parry"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T15:39:46.650895+00:00"
+ "last_updated": "2026-08-17T15:45:26.673530+00:00"
 }
