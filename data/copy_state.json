@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10035.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786933210,
+  "jtwyslljy": 1786934461,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10575,6 +10575,13 @@
    "BUY",
    1000,
    1786933210
+  ],
+  [
+   "0x26de6f9156c1be14c0e747e03d19f8bb23d377eba9fe789a4ea2dc4808e49ae8",
+   "47272219109256399719780692471352315749356703813065545717542240836554429189830",
+   "BUY",
+   4000,
+   1786934461
   ]
  ],
  "leader_pos": {
@@ -16729,10 +16736,10 @@
    "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
    "outcome": "Lorenzo Sonego",
    "slug": "atp-sonego-tiafoe-2026-08-16",
-   "shares": 4000.0,
-   "cost": 1590.0,
-   "max_shares": 4000.0,
-   "last_trade_ts": 1786933210
+   "shares": 8000.0,
+   "cost": 2350.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1786934461
   }
  },
  "positions": [],
@@ -25999,8 +26006,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
    "outcome": "Lorenzo Sonego"
+  },
+  {
+   "at": "2026-08-17T02:50:27.278983+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T02:05:00+00:00",
+   "condition_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
+   "copy_delay_min": 9.4,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "outcome": "Lorenzo Sonego"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T02:30:37.890865+00:00"
+ "last_updated": "2026-08-17T02:50:27.279394+00:00"
 }
