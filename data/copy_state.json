@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10035.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786939330,
+  "jtwyslljy": 1786979496,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10645,6 +10645,13 @@
    "SELL",
    376,
    1786954867
+  ],
+  [
+   "0x36f55e726d5856d67b8358c4d460453cb86f42012e113851010c954961e5285c",
+   "82664837136378631461959301434402713444235760010631661082611098239564135184326",
+   "BUY",
+   3000,
+   1786979496
   ]
  ],
  "leader_pos": {
@@ -16827,6 +16834,18 @@
    "cost": -397.8799999904,
    "max_shares": 0.0,
    "last_trade_ts": 1786954867
+  },
+  "jtwyslljy|82664837136378631461959301434402713444235760010631661082611098239564135184326": {
+   "leader": "jtwyslljy",
+   "asset": "82664837136378631461959301434402713444235760010631661082611098239564135184326",
+   "condition_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "outcome": "Lois Boisson",
+   "slug": "wta-parry-boisson-2026-08-17",
+   "shares": 3000.0,
+   "cost": 1500.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786979496
   }
  },
  "positions": [],
@@ -26133,8 +26152,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Tereza Valentova vs Elina Svitolina",
    "outcome": "Elina Svitolina"
+  },
+  {
+   "at": "2026-08-17T15:20:28.003612+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T15:10:00+00:00",
+   "condition_id": "0x131927e6dd9239abd54a0bca31df2bc8333597f190238ff34bc70f99fd614290",
+   "copy_delay_min": 8.9,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
+   "outcome": "Lois Boisson"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T08:25:20.132865+00:00"
+ "last_updated": "2026-08-17T15:20:28.004071+00:00"
 }
