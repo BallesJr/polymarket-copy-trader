@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9635.313106000001,
+ "bankroll": 9535.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786981590,
+  "jtwyslljy": 1786982455,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10701,6 +10701,20 @@
    "BUY",
    5000,
    1786981590
+  ],
+  [
+   "0xa0c6033dac0463d5e1be7f9605bddc1b9773016ad4d30621dd62e174c64123a4",
+   "37929502052329426130160836820243443596371269494805934700117131326218887281387",
+   "BUY",
+   1829.82,
+   1786982295
+  ],
+  [
+   "0x9b16f8e93241f7039d4b55137fe54a02d0be8e5cb0aeab3553c0b29679244483",
+   "36558361155571004643096067939782692717571964004134736984000492669504968318508",
+   "BUY",
+   1694.87,
+   1786982455
   ]
  ],
  "leader_pos": {
@@ -16967,6 +16981,30 @@
    "cost": 982.725,
    "max_shares": 5000.0,
    "last_trade_ts": 1786981590
+  },
+  "jtwyslljy|37929502052329426130160836820243443596371269494805934700117131326218887281387": {
+   "leader": "jtwyslljy",
+   "asset": "37929502052329426130160836820243443596371269494805934700117131326218887281387",
+   "condition_id": "0x5a84f759cc706f148f1e38988346e483286f41468fbabecd5a5c077945d3fa70",
+   "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-sakkari-2026-08-17",
+   "shares": 1829.82,
+   "cost": 951.5064,
+   "max_shares": 1829.82,
+   "last_trade_ts": 1786982295
+  },
+  "jtwyslljy|36558361155571004643096067939782692717571964004134736984000492669504968318508": {
+   "leader": "jtwyslljy",
+   "asset": "36558361155571004643096067939782692717571964004134736984000492669504968318508",
+   "condition_id": "0x1cc71c84c39b6fb700a565c4d63b04dd2baa52e78fb9b7a97d8005aa27fc2ff8",
+   "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
+   "outcome": "Linda Noskova",
+   "slug": "wta-noskova-tauson-2026-08-17",
+   "shares": 1694.87,
+   "cost": 1169.4602999999997,
+   "max_shares": 1694.87,
+   "last_trade_ts": 1786982455
   }
  },
  "positions": [
@@ -17040,6 +17078,24 @@
    "copy_delay_min": 8.9,
    "best_ask": 0.19,
    "ask_depth": 103.05,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36558361155571004643096067939782692717571964004134736984000492669504968318508",
+   "condition_id": "0x1cc71c84c39b6fb700a565c4d63b04dd2baa52e78fb9b7a97d8005aa27fc2ff8",
+   "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
+   "outcome": "Linda Noskova",
+   "slug": "wta-noskova-tauson-2026-08-17",
+   "opened_at": "2026-08-17T16:10:22.836001+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 1169.46,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.7,
+   "ask_depth": 14344.82,
    "status": "open"
   }
  ],
@@ -26376,8 +26432,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
    "outcome": "Diane Parry"
+  },
+  {
+   "at": "2026-08-17T16:10:22.965733+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T15:10:00+00:00",
+   "condition_id": "0x5a84f759cc706f148f1e38988346e483286f41468fbabecd5a5c077945d3fa70",
+   "copy_delay_min": 12.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
+   "outcome": "Iga Swiatek"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T15:55:24.708954+00:00"
+ "last_updated": "2026-08-17T16:10:23.254534+00:00"
 }
