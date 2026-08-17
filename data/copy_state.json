@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9535.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786982455,
+  "jtwyslljy": 1786983687,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10715,6 +10715,13 @@
    "BUY",
    1694.87,
    1786982455
+  ],
+  [
+   "0xbd1fbf9fcbcc5c6540d038030dd444a0fdf80ffd8310f76ad192347829282000",
+   "101566978423247463563763867686098882837094483272092814244491422436681673825900",
+   "BUY",
+   3000,
+   1786983687
   ]
  ],
  "leader_pos": {
@@ -16917,10 +16924,10 @@
    "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
    "outcome": "Martin Landaluce",
    "slug": "atp-tirante-landalu-2026-08-17",
-   "shares": 3000.0,
-   "cost": 1620.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1786980033
+   "shares": 6000.0,
+   "cost": 2250.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1786983687
   },
   "jtwyslljy|23677346851704408532652565551778428467015728435912860163543199493331137543446": {
    "leader": "jtwyslljy",
@@ -26442,8 +26449,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Iga Swiatek vs Maria Sakkari",
    "outcome": "Iga Swiatek"
+  },
+  {
+   "at": "2026-08-17T16:30:33.144734+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T15:10:00+00:00",
+   "condition_id": "0x1aeb392f4e0e96215fc360b9dc09ca664fe1d02fe09ec7bc3c47cb2afe0a68b1",
+   "copy_delay_min": 9.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Martin Landaluce",
+   "outcome": "Martin Landaluce"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T16:10:23.254534+00:00"
+ "last_updated": "2026-08-17T16:30:33.410004+00:00"
 }
