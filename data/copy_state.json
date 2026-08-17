@@ -16709,26 +16709,7 @@
    "last_trade_ts": 1786898692
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "100959822709339175916279581652810426729944711138208702068771603820703859430512",
-   "condition_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
-   "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
-   "outcome": "Ben Shelton",
-   "slug": "atp-shelton-faria-2026-08-16",
-   "opened_at": "2026-08-16T15:45:24.888216+00:00",
-   "entry_price": 0.83,
-   "shares": 120.4819,
-   "stake": 100.0,
-   "leader_vwap": 0.83,
-   "leader_cost": 830.0,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.83,
-   "ask_depth": 26069.11,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -23541,6 +23522,28 @@
    "exit_price": 1.0,
    "pnl": 36.9863,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100959822709339175916279581652810426729944711138208702068771603820703859430512",
+   "condition_id": "0x8a7611c4fdcf3e5910c1249ae02680a678a22eecf09c2fc25c2d07bb18baa96b",
+   "title": "Cincinnati Open: Ben Shelton vs Jaime Faria",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-faria-2026-08-16",
+   "opened_at": "2026-08-16T15:45:24.888216+00:00",
+   "entry_price": 0.83,
+   "shares": 120.4819,
+   "stake": 100.0,
+   "leader_vwap": 0.83,
+   "leader_cost": 830.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.83,
+   "ask_depth": 26069.11,
+   "status": "lost",
+   "closed_at": "2026-08-17T02:10:23.628668+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -25952,6 +25955,6 @@
    "outcome": "Janice Tjen"
   }
  ],
- "total_pnl": 135.3129000000005,
- "last_updated": "2026-08-17T00:05:20.555149+00:00"
+ "total_pnl": 35.3129000000005,
+ "last_updated": "2026-08-17T02:10:23.630343+00:00"
 }
