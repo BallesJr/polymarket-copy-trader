@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 10035.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786902298,
+  "jtwyslljy": 1786932847,
   "0x53757615de": 1784324596
  },
  "seen_keys": [
@@ -10561,6 +10561,13 @@
    "SELL",
    4999.98,
    1786902298
+  ],
+  [
+   "0x7d23b0136b12f35783689c9f2fdd0afbef7a6117a1080f417b8c490de06d3af1",
+   "47272219109256399719780692471352315749356703813065545717542240836554429189830",
+   "BUY",
+   3000,
+   1786932847
   ]
  ],
  "leader_pos": {
@@ -16707,6 +16714,18 @@
    "cost": 1470.709620074772,
    "max_shares": 2444.323538,
    "last_trade_ts": 1786898692
+  },
+  "jtwyslljy|47272219109256399719780692471352315749356703813065545717542240836554429189830": {
+   "leader": "jtwyslljy",
+   "asset": "47272219109256399719780692471352315749356703813065545717542240836554429189830",
+   "condition_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
+   "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "outcome": "Lorenzo Sonego",
+   "slug": "atp-sonego-tiafoe-2026-08-16",
+   "shares": 3000.0,
+   "cost": 1170.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1786932847
   }
  },
  "positions": [],
@@ -25953,8 +25972,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Janice Tjen vs Viktorija Golubic",
    "outcome": "Janice Tjen"
+  },
+  {
+   "at": "2026-08-17T02:25:20.972445+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-17T02:05:00+00:00",
+   "condition_id": "0x542ea9fe1a48c357b45072ba9408b7e1eebee1252fe04882c3f50218ccd297fc",
+   "copy_delay_min": 11.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Lorenzo Sonego vs Frances Tiafoe",
+   "outcome": "Lorenzo Sonego"
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T02:10:23.630343+00:00"
+ "last_updated": "2026-08-17T02:25:20.972867+00:00"
 }
