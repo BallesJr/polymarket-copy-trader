@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9835.313106000001,
+ "bankroll": 9635.313106000001,
  "last_seen": {
-  "jtwyslljy": 1786980996,
+  "jtwyslljy": 1786981590,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10687,6 +10687,20 @@
    "BUY",
    17550,
    1786980996
+  ],
+  [
+   "0x924bb403300ba7403bbbf72f26a8b2fef763d31918af681e53393a5d01987eaa",
+   "64441165074673275325304365997029501333744333618968335891275465730368996812466",
+   "BUY",
+   3600,
+   1786981557
+  ],
+  [
+   "0x532d1ff995ed022646f764c90be071287eb548f8996af81e7099dd2ed6fef413",
+   "80627655280123782696628734219274140812252585312039032952697538711575089382733",
+   "BUY",
+   5000,
+   1786981590
   ]
  ],
  "leader_pos": {
@@ -16929,6 +16943,30 @@
    "cost": 14496.410700000002,
    "max_shares": 54340.41,
    "last_trade_ts": 1786980996
+  },
+  "jtwyslljy|64441165074673275325304365997029501333744333618968335891275465730368996812466": {
+   "leader": "jtwyslljy",
+   "asset": "64441165074673275325304365997029501333744333618968335891275465730368996812466",
+   "condition_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
+   "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-cirstea-kalinsk-2026-08-17",
+   "shares": 3600.0,
+   "cost": 1800.0,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1786981557
+  },
+  "jtwyslljy|80627655280123782696628734219274140812252585312039032952697538711575089382733": {
+   "leader": "jtwyslljy",
+   "asset": "80627655280123782696628734219274140812252585312039032952697538711575089382733",
+   "condition_id": "0x0d3636f587c9178f0629fe3426428ec43972f0ffc7045f56ad6ecee5ac8602b3",
+   "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
+   "outcome": "Emma Navarro",
+   "slug": "wta-navarro-pegula-2026-08-17",
+   "shares": 5000.0,
+   "cost": 982.725,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1786981590
   }
  },
  "positions": [
@@ -16966,6 +17004,42 @@
    "copy_delay_min": 11.6,
    "best_ask": 0.76,
    "ask_depth": 14811.42,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64441165074673275325304365997029501333744333618968335891275465730368996812466",
+   "condition_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
+   "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-cirstea-kalinsk-2026-08-17",
+   "opened_at": "2026-08-17T15:55:24.175141+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1800.0,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.5,
+   "ask_depth": 19461.81,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80627655280123782696628734219274140812252585312039032952697538711575089382733",
+   "condition_id": "0x0d3636f587c9178f0629fe3426428ec43972f0ffc7045f56ad6ecee5ac8602b3",
+   "title": "Cincinnati Open: Emma Navarro vs Jessica Pegula",
+   "outcome": "Emma Navarro",
+   "slug": "wta-navarro-pegula-2026-08-17",
+   "opened_at": "2026-08-17T15:55:24.356094+00:00",
+   "entry_price": 0.198,
+   "shares": 505.1525,
+   "stake": 100.0,
+   "leader_vwap": 0.1965,
+   "leader_cost": 982.73,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.19,
+   "ask_depth": 103.05,
    "status": "open"
   }
  ],
@@ -26305,5 +26379,5 @@
   }
  ],
  "total_pnl": 35.3129000000005,
- "last_updated": "2026-08-17T15:45:26.673530+00:00"
+ "last_updated": "2026-08-17T15:55:24.708954+00:00"
 }
