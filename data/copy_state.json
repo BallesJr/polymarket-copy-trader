@@ -17088,24 +17088,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "64441165074673275325304365997029501333744333618968335891275465730368996812466",
-   "condition_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
-   "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
-   "outcome": "Anna Kalinskaya",
-   "slug": "wta-cirstea-kalinsk-2026-08-17",
-   "opened_at": "2026-08-17T15:55:24.175141+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 1800.0,
-   "copy_delay_min": 9.4,
-   "best_ask": 0.5,
-   "ask_depth": 19461.81,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "36558361155571004643096067939782692717571964004134736984000492669504968318508",
    "condition_id": "0x1cc71c84c39b6fb700a565c4d63b04dd2baa52e78fb9b7a97d8005aa27fc2ff8",
    "title": "Cincinnati Open: Linda Noskova vs Clara Tauson",
@@ -23979,6 +23961,28 @@
    "exit_price": 0.18,
    "pnl": -9.0726,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64441165074673275325304365997029501333744333618968335891275465730368996812466",
+   "condition_id": "0x1c948373b7a2ae06b2381c7eabb0592a9c08725fb03eec6fcd1036f13868d138",
+   "title": "Cincinnati Open: Sorana Cirstea vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-cirstea-kalinsk-2026-08-17",
+   "opened_at": "2026-08-17T15:55:24.175141+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1800.0,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.5,
+   "ask_depth": 19461.81,
+   "status": "lost",
+   "closed_at": "2026-08-17T23:15:27.505965+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -26540,6 +26544,6 @@
    "outcome": "Lois Boisson"
   }
  ],
- "total_pnl": 26.240300000000495,
- "last_updated": "2026-08-17T17:30:34.642181+00:00"
+ "total_pnl": -73.7596999999995,
+ "last_updated": "2026-08-17T23:15:27.507587+00:00"
 }
