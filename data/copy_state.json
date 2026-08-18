@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9900.676556,
+ "bankroll": 9800.676556,
  "last_seen": {
-  "jtwyslljy": 1787027587,
+  "jtwyslljy": 1787037381,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10764,6 +10764,13 @@
    "BUY",
    1000,
    1787027587
+  ],
+  [
+   "0x3d2a7d091490a9b91965652eb5af7fef03a99b8252e425b5e0672e75b45bad77",
+   "64453625603605254052217604785267319625453134777497489021641476848308831825427",
+   "BUY",
+   2500,
+   1787037381
   ]
  ],
  "leader_pos": {
@@ -17054,9 +17061,40 @@
    "cost": 1169.4602999999997,
    "max_shares": 1694.87,
    "last_trade_ts": 1786982455
+  },
+  "jtwyslljy|64453625603605254052217604785267319625453134777497489021641476848308831825427": {
+   "leader": "jtwyslljy",
+   "asset": "64453625603605254052217604785267319625453134777497489021641476848308831825427",
+   "condition_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "DN SOOPers",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "shares": 2500.0,
+   "cost": 1250.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1787037381
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "64453625603605254052217604785267319625453134777497489021641476848308831825427",
+   "condition_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "DN SOOPers",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "opened_at": "2026-08-18T07:25:22.009413+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1250.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.5,
+   "ask_depth": 19427.1,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26563,5 +26601,5 @@
   }
  ],
  "total_pnl": -99.32369999999949,
- "last_updated": "2026-08-18T05:30:31.275682+00:00"
+ "last_updated": "2026-08-18T07:25:22.261489+00:00"
 }
