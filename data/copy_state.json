@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9898.676556,
  "last_seen": {
-  "jtwyslljy": 1787054529,
+  "jtwyslljy": 1787067307,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10799,6 +10799,13 @@
    "BUY",
    1079.34,
    1787054529
+  ],
+  [
+   "0xe4a4e53d5d990b7d417295da9b463eac1ec70d3d19003095043fac745a9f9863",
+   "88792547770256967801170702520503615694502243264152503583919839944040413759613",
+   "BUY",
+   10000,
+   1787067307
   ]
  ],
  "leader_pos": {
@@ -17125,6 +17132,18 @@
    "cost": 140.3142,
    "max_shares": 1079.34,
    "last_trade_ts": 1787054529
+  },
+  "jtwyslljy|88792547770256967801170702520503615694502243264152503583919839944040413759613": {
+   "leader": "jtwyslljy",
+   "asset": "88792547770256967801170702520503615694502243264152503583919839944040413759613",
+   "condition_id": "0xdb179416eb8c1ef9b0becb127775427b133efb7a5a0c568c2d5bfdbbf98773bc",
+   "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-rublev-borges-2026-08-18",
+   "shares": 10000.0,
+   "cost": 3791.954,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1787067307
   }
  },
  "positions": [],
@@ -26673,8 +26692,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
    "outcome": "Nongshim Red Force"
+  },
+  {
+   "at": "2026-08-18T15:40:28.018844+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-18T15:10:00+00:00",
+   "condition_id": "0xdb179416eb8c1ef9b0becb127775427b133efb7a5a0c568c2d5bfdbbf98773bc",
+   "copy_delay_min": 5.3,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -101.32369999999949,
- "last_updated": "2026-08-18T12:10:25.141120+00:00"
+ "last_updated": "2026-08-18T15:40:28.019279+00:00"
 }
