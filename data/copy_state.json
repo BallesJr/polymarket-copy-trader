@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9898.676556,
+ "bankroll": 9698.676556,
  "last_seen": {
-  "jtwyslljy": 1787067307,
+  "jtwyslljy": 1787078314,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10806,6 +10806,48 @@
    "BUY",
    10000,
    1787067307
+  ],
+  [
+   "0x6d8764bde5c14d8b271b7d47304a87c17de01c0c5b9ff37ea69819c5ac290ebe",
+   "1750892213043293697722967276652700100119266178300367749210011079943021717371",
+   "BUY",
+   7000,
+   1787078197
+  ],
+  [
+   "0x8bbf0cf6008900db943c7fa29f999ad029c706f07223d309eb7829b5219c113f",
+   "104398581512420928736290597548283149666113495993147320563844329099111094879573",
+   "BUY",
+   7000,
+   1787078239
+  ],
+  [
+   "0x6ed4307399530fe796d193737d3ead75f303d07cec39f5c12c6bfc99d97ac24e",
+   "98629433961925042114880246967251169826955374521210601874395981087439587823421",
+   "BUY",
+   7000,
+   1787078275
+  ],
+  [
+   "0x441eb3425bbd4c694d7e63ecda58d851de0bd4507f4e622b1855208e75ea8599",
+   "104398581512420928736290597548283149666113495993147320563844329099111094879573",
+   "BUY",
+   2000,
+   1787078289
+  ],
+  [
+   "0xc4b3f3bf58d7911d13305cc828a574b8c93abc12e65858aadd05dd1b233d9b0a",
+   "98629433961925042114880246967251169826955374521210601874395981087439587823421",
+   "BUY",
+   1999.99,
+   1787078298
+  ],
+  [
+   "0x19be6988acf4b7586af3a1c580e5cc7829523a3af1e7eb59b05b6a3107bd3067",
+   "1750892213043293697722967276652700100119266178300367749210011079943021717371",
+   "BUY",
+   2000,
+   1787078314
   ]
  ],
  "leader_pos": {
@@ -17144,9 +17186,82 @@
    "cost": 3791.954,
    "max_shares": 10000.0,
    "last_trade_ts": 1787067307
+  },
+  "jtwyslljy|1750892213043293697722967276652700100119266178300367749210011079943021717371": {
+   "leader": "jtwyslljy",
+   "asset": "1750892213043293697722967276652700100119266178300367749210011079943021717371",
+   "condition_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
+   "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-nakashi-medvede-2026-08-18",
+   "shares": 9000.0,
+   "cost": 3870.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1787078314
+  },
+  "jtwyslljy|104398581512420928736290597548283149666113495993147320563844329099111094879573": {
+   "leader": "jtwyslljy",
+   "asset": "104398581512420928736290597548283149666113495993147320563844329099111094879573",
+   "condition_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
+   "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-walton-2026-08-18",
+   "shares": 9000.0,
+   "cost": 5130.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1787078289
+  },
+  "jtwyslljy|98629433961925042114880246967251169826955374521210601874395981087439587823421": {
+   "leader": "jtwyslljy",
+   "asset": "98629433961925042114880246967251169826955374521210601874395981087439587823421",
+   "condition_id": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
+   "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-tiafoe-2026-08-18",
+   "shares": 8999.99,
+   "cost": 4859.9946,
+   "max_shares": 8999.99,
+   "last_trade_ts": 1787078298
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "98629433961925042114880246967251169826955374521210601874395981087439587823421",
+   "condition_id": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
+   "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-tiafoe-2026-08-18",
+   "opened_at": "2026-08-18T18:40:25.982230+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 4859.99,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.54,
+   "ask_depth": 34139.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104398581512420928736290597548283149666113495993147320563844329099111094879573",
+   "condition_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
+   "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-walton-2026-08-18",
+   "opened_at": "2026-08-18T18:40:26.181934+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 5130.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.57,
+   "ask_depth": 19882.74,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26702,8 +26817,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Andrey Rublev vs Nuno Borges",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-08-18T18:40:26.370983+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-18T18:40:00+00:00",
+   "condition_id": "0x2182f29dc74fa806d339b812e387147dc49422fee17cd67252de6c193f86db18",
+   "copy_delay_min": 1.9,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+   "outcome": "Brandon Nakashima"
   }
  ],
  "total_pnl": -101.32369999999949,
- "last_updated": "2026-08-18T15:40:28.019279+00:00"
+ "last_updated": "2026-08-18T18:40:26.804765+00:00"
 }
