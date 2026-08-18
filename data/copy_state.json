@@ -17056,26 +17056,7 @@
    "last_trade_ts": 1786982455
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "105837187161780446796422800018038000956450623487439548160622882608811718913966",
-   "condition_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
-   "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
-   "outcome": "Alexandra Eala",
-   "slug": "wta-eala-anisimo-2026-08-17",
-   "opened_at": "2026-08-17T15:45:25.881998+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 1840.0,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.46,
-   "ask_depth": 2306.58,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -23998,6 +23979,28 @@
    "exit_price": 1.0,
    "pnl": 42.8571,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "105837187161780446796422800018038000956450623487439548160622882608811718913966",
+   "condition_id": "0xd720d155365c4b147dd4df8c55a3561e520965459a69b36707a053a2021f5253",
+   "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-anisimo-2026-08-17",
+   "opened_at": "2026-08-17T15:45:25.881998+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 1840.0,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.46,
+   "ask_depth": 2306.58,
+   "status": "lost",
+   "closed_at": "2026-08-18T05:30:31.273990+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -26559,6 +26562,6 @@
    "outcome": "Lois Boisson"
   }
  ],
- "total_pnl": 0.6763000000005093,
- "last_updated": "2026-08-18T04:40:24.838673+00:00"
+ "total_pnl": -99.32369999999949,
+ "last_updated": "2026-08-18T05:30:31.275682+00:00"
 }
