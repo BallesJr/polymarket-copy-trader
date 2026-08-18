@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9898.676556,
  "last_seen": {
-  "jtwyslljy": 1787043109,
+  "jtwyslljy": 1787046589,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10778,6 +10778,13 @@
    "SELL",
    2500,
    1787043109
+  ],
+  [
+   "0x1b3b59a3af28cc484a6956a21653ec91bf5ec08a8b05d24b1e992d84b0afe3be",
+   "91139635598592075206531191346543584071609481550130776528207384380881068962215",
+   "BUY",
+   8000,
+   1787046589
   ]
  ],
  "leader_pos": {
@@ -17080,6 +17087,18 @@
    "cost": 25.0,
    "max_shares": 2500.0,
    "last_trade_ts": 1787043109
+  },
+  "jtwyslljy|91139635598592075206531191346543584071609481550130776528207384380881068962215": {
+   "leader": "jtwyslljy",
+   "asset": "91139635598592075206531191346543584071609481550130776528207384380881068962215",
+   "condition_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-ns-dnf-2026-08-18",
+   "shares": 8000.0,
+   "cost": 2800.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1787046589
   }
  },
  "positions": [],
@@ -26608,8 +26627,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Diane Parry vs Lois Boisson",
    "outcome": "Lois Boisson"
+  },
+  {
+   "at": "2026-08-18T09:55:25.094990+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-18T09:00:00+00:00",
+   "condition_id": "0x819a8392acd00ada07a213b558837dd03cc4b24fc360a7c6e7bdef9f838dc66c",
+   "copy_delay_min": 5.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: Nongshim Red Force vs DN SOOPers (BO5) - KeSPA Cup Playoffs",
+   "outcome": "Nongshim Red Force"
   }
  ],
  "total_pnl": -101.32369999999949,
- "last_updated": "2026-08-18T08:55:18.446373+00:00"
+ "last_updated": "2026-08-18T09:55:25.095441+00:00"
 }
