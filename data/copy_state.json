@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9898.676556,
  "last_seen": {
-  "jtwyslljy": 1787050134,
+  "jtwyslljy": 1787054529,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10792,6 +10792,13 @@
    "BUY",
    5000,
    1787050134
+  ],
+  [
+   "0xb90354b03485b7f684ea5e24b0a20cf0b05e86042e8373e259b1dc6722ee7cea",
+   "106258719779889013737076910727741539950521702081907804583363720287765650756027",
+   "BUY",
+   1079.34,
+   1787054529
   ]
  ],
  "leader_pos": {
@@ -17106,6 +17113,18 @@
    "cost": 3650.0,
    "max_shares": 13000.0,
    "last_trade_ts": 1787050134
+  },
+  "jtwyslljy|106258719779889013737076910727741539950521702081907804583363720287765650756027": {
+   "leader": "jtwyslljy",
+   "asset": "106258719779889013737076910727741539950521702081907804583363720287765650756027",
+   "condition_id": "0xc184b548e22b5cfd5c03e82994fdc576cc01b0cba49aa8f007fd2a7a16c02f29",
+   "title": "LoL: Gen.G Global Academy vs HANJIN BRION Challengers (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+   "outcome": "Gen.G Global Academy",
+   "slug": "lol-genga-bro1-2026-08-18",
+   "shares": 1079.34,
+   "cost": 140.3142,
+   "max_shares": 1079.34,
+   "last_trade_ts": 1787054529
   }
  },
  "positions": [],
@@ -26657,5 +26676,5 @@
   }
  ],
  "total_pnl": -101.32369999999949,
- "last_updated": "2026-08-18T10:55:21.463455+00:00"
+ "last_updated": "2026-08-18T12:10:25.141120+00:00"
 }
