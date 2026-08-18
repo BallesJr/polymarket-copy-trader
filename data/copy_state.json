@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9900.676556,
  "last_seen": {
-  "jtwyslljy": 1786987503,
+  "jtwyslljy": 1787027587,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10757,6 +10757,13 @@
    "BUY",
    2279.21,
    1786987503
+  ],
+  [
+   "0xc30d183d7e94255981ae59d540a1a2d9ee19e2ebad1356d9bcd6ec09fa5bd19b",
+   "105837187161780446796422800018038000956450623487439548160622882608811718913966",
+   "BUY",
+   1000,
+   1787027587
   ]
  ],
  "leader_pos": {
@@ -16983,10 +16990,10 @@
    "title": "Cincinnati Open: Alexandra Eala vs Amanda Anisimova",
    "outcome": "Alexandra Eala",
    "slug": "wta-eala-anisimo-2026-08-17",
-   "shares": 4000.0,
-   "cost": 1840.0,
-   "max_shares": 4000.0,
-   "last_trade_ts": 1786980844
+   "shares": 5000.0,
+   "cost": 2280.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787027587
   },
   "jtwyslljy|82149352699870214603913015993754392149701977560547094177244652528780088494214": {
    "leader": "jtwyslljy",
@@ -26553,5 +26560,5 @@
   }
  ],
  "total_pnl": 0.6763000000005093,
- "last_updated": "2026-08-18T01:05:28.235089+00:00"
+ "last_updated": "2026-08-18T04:40:24.838673+00:00"
 }
