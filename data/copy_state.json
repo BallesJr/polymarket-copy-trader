@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9574.115156,
  "last_seen": {
-  "jtwyslljy": 1787140545,
+  "jtwyslljy": 1787140908,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10890,6 +10890,13 @@
    "BUY",
    7000,
    1787140545
+  ],
+  [
+   "0xb1e3dd320cd78a99780010c1834c07d986d3fd1c45cae82ce2b5bf8a5ef5be9a",
+   "33129214749481191984559917382820668773022633601836516503773133650704487515454",
+   "BUY",
+   10000,
+   1787140908
   ]
  ],
  "leader_pos": {
@@ -17312,6 +17319,18 @@
    "cost": 34104.71280000079,
    "max_shares": 59246.06,
    "last_trade_ts": 1787140545
+  },
+  "jtwyslljy|33129214749481191984559917382820668773022633601836516503773133650704487515454": {
+   "leader": "jtwyslljy",
+   "asset": "33129214749481191984559917382820668773022633601836516503773133650704487515454",
+   "condition_id": "0x634a39ac345ff54a655468b3027719c9de9275ad7b5dafad5f5295ec1143575e",
+   "title": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers",
+   "slug": "lol-bro2-dnf-2026-08-19",
+   "shares": 10000.0,
+   "cost": 2800.0000000000005,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1787140908
   }
  },
  "positions": [
@@ -26989,8 +27008,18 @@
    "leader": "jtwyslljy",
    "title": "Los Angeles Dodgers vs. Colorado Rockies",
    "outcome": "Los Angeles Dodgers"
+  },
+  {
+   "at": "2026-08-19T12:10:23.461827+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T11:15:00+00:00",
+   "condition_id": "0x634a39ac345ff54a655468b3027719c9de9275ad7b5dafad5f5295ec1143575e",
+   "copy_delay_min": 8.6,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "DN SOOPers"
   }
  ],
  "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T12:05:22.541678+00:00"
+ "last_updated": "2026-08-19T12:10:23.770800+00:00"
 }
