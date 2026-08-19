@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9408.897756,
+ "bankroll": 9308.897756,
  "last_seen": {
-  "jtwyslljy": 1787161102,
+  "jtwyslljy": 1787164039,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -11037,6 +11037,20 @@
    "BUY",
    10000,
    1787161102
+  ],
+  [
+   "0xf43e917e20e2f56847fe73092e21c8209b5d4414531f56b29ee5e6d2e1b26617",
+   "12290647698074337301291235963506756707124083871104093931752326838747719465248",
+   "SELL",
+   3500,
+   1787163918
+  ],
+  [
+   "0x3cb98ccbfa295a8d9b45d7f10f785874f3a5e366a357aa729f1c78e72d9abdfe",
+   "53105098760741468994257631844270816275107280190488219064636905890582753677908",
+   "BUY",
+   5000,
+   1787164039
   ]
  ],
  "leader_pos": {
@@ -17551,10 +17565,10 @@
    "title": "Cincinnati Open: Madison Keys vs Xiyu Wang",
    "outcome": "Xiyu Wang",
    "slug": "wta-keys-wan-2026-08-19",
-   "shares": 7500.0,
-   "cost": 1725.0,
+   "shares": 4000.0,
+   "cost": 955.0,
    "max_shares": 7500.0,
-   "last_trade_ts": 1787160453
+   "last_trade_ts": 1787163918
   },
   "jtwyslljy|8755741796808376676617922839073561900605236454727939958369842267155781445700": {
    "leader": "jtwyslljy",
@@ -17627,6 +17641,18 @@
    "cost": 840.0000000000001,
    "max_shares": 6000.0,
    "last_trade_ts": 1787161009
+  },
+  "jtwyslljy|53105098760741468994257631844270816275107280190488219064636905890582753677908": {
+   "leader": "jtwyslljy",
+   "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
+   "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
+   "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-musetti-2026-08-19",
+   "shares": 5000.0,
+   "cost": 1400.0000000000002,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787164039
   }
  },
  "positions": [
@@ -17718,6 +17744,24 @@
    "copy_delay_min": 3.7,
    "best_ask": 0.24,
    "ask_depth": 14440.11,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
+   "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
+   "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-musetti-2026-08-19",
+   "opened_at": "2026-08-19T18:30:35.187374+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 1400.0,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.28,
+   "ask_depth": 53448.08,
    "status": "open"
   }
  ],
@@ -27491,5 +27535,5 @@
   }
  ],
  "total_pnl": -91.10249999999951,
- "last_updated": "2026-08-19T17:54:24.083955+00:00"
+ "last_updated": "2026-08-19T18:30:35.540362+00:00"
 }
