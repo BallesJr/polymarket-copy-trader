@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9698.676556,
+ "bankroll": 9874.115156,
  "last_seen": {
   "jtwyslljy": 1787078314,
   "0x53757615de": 1786954867
@@ -17242,24 +17242,6 @@
    "best_ask": 0.54,
    "ask_depth": 34139.27,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "104398581512420928736290597548283149666113495993147320563844329099111094879573",
-   "condition_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
-   "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
-   "outcome": "Jaime Faria",
-   "slug": "atp-faria-walton-2026-08-18",
-   "opened_at": "2026-08-18T18:40:26.181934+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 5130.0,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.57,
-   "ask_depth": 19882.74,
-   "status": "open"
   }
  ],
  "closed": [
@@ -24228,6 +24210,28 @@
    "exit_price": 0.49,
    "pnl": -2.0,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104398581512420928736290597548283149666113495993147320563844329099111094879573",
+   "condition_id": "0x6a571e1b83c8238df6cf49e89ff815d98b522d01db7af1568a514f3d37ec8ce0",
+   "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-walton-2026-08-18",
+   "opened_at": "2026-08-18T18:40:26.181934+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 5130.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.57,
+   "ask_depth": 19882.74,
+   "status": "won",
+   "closed_at": "2026-08-19T00:00:43.437637+00:00",
+   "exit_price": 1.0,
+   "pnl": 75.4386,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -26829,6 +26833,6 @@
    "outcome": "Brandon Nakashima"
   }
  ],
- "total_pnl": -101.32369999999949,
- "last_updated": "2026-08-18T18:40:26.804765+00:00"
+ "total_pnl": -25.885099999999497,
+ "last_updated": "2026-08-19T00:00:43.439207+00:00"
 }
