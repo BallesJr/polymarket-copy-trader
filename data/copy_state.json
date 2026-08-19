@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9674.115156,
+ "bankroll": 9574.115156,
  "last_seen": {
-  "jtwyslljy": 1787120686,
+  "jtwyslljy": 1787123776,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10869,6 +10869,13 @@
    "BUY",
    32000,
    1787120686
+  ],
+  [
+   "0xc62678d7c1cd1f7fbd88dd7fdfc3bf31e4cecb14efc9b898273d60e731be6c76",
+   "112322683979529218929017371312093499535821839330408701803227089250084829015628",
+   "BUY",
+   52000,
+   1787123776
   ]
  ],
  "leader_pos": {
@@ -17279,6 +17286,18 @@
    "cost": 8000.0,
    "max_shares": 32000.0,
    "last_trade_ts": 1787120686
+  },
+  "jtwyslljy|112322683979529218929017371312093499535821839330408701803227089250084829015628": {
+   "leader": "jtwyslljy",
+   "asset": "112322683979529218929017371312093499535821839330408701803227089250084829015628",
+   "condition_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
+   "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend",
+   "slug": "lol-al-tes-2026-08-19",
+   "shares": 52000.0,
+   "cost": 30159.999999999996,
+   "max_shares": 52000.0,
+   "last_trade_ts": 1787123776
   }
  },
  "positions": [
@@ -17316,6 +17335,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.27,
    "ask_depth": 2801.07,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112322683979529218929017371312093499535821839330408701803227089250084829015628",
+   "condition_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
+   "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend",
+   "slug": "lol-al-tes-2026-08-19",
+   "opened_at": "2026-08-19T07:25:21.841356+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 30160.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.58,
+   "ask_depth": 787.28,
    "status": "open"
   }
  ],
@@ -26941,5 +26978,5 @@
   }
  ],
  "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T06:30:39.755492+00:00"
+ "last_updated": "2026-08-19T07:25:22.121561+00:00"
 }
