@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9274.115156,
  "last_seen": {
-  "jtwyslljy": 1787160453,
+  "jtwyslljy": 1787160763,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10981,6 +10981,20 @@
    "BUY",
    7500,
    1787160453
+  ],
+  [
+   "0x6e9f1032c081e68722954017f5ef491f654194b1a45e0e827f9007dd87c8742a",
+   "8755741796808376676617922839073561900605236454727939958369842267155781445700",
+   "BUY",
+   305,
+   1787160747
+  ],
+  [
+   "0x24181b8d490d816ee4b61fb8cbb966e9b9625c282ca7529a060568eb6ee6c416",
+   "8755741796808376676617922839073561900605236454727939958369842267155781445700",
+   "BUY",
+   3000,
+   1787160763
   ]
  ],
  "leader_pos": {
@@ -17499,6 +17513,18 @@
    "cost": 1725.0,
    "max_shares": 7500.0,
    "last_trade_ts": 1787160453
+  },
+  "jtwyslljy|8755741796808376676617922839073561900605236454727939958369842267155781445700": {
+   "leader": "jtwyslljy",
+   "asset": "8755741796808376676617922839073561900605236454727939958369842267155781445700",
+   "condition_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
+   "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-cobolli-2026-08-19",
+   "shares": 3305.0,
+   "cost": 589.3000000000001,
+   "max_shares": 3305.0,
+   "last_trade_ts": 1787160763
   }
  },
  "positions": [
@@ -27272,8 +27298,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
    "outcome": "Thiago Agustin Tirante"
+  },
+  {
+   "at": "2026-08-19T17:35:22.098836+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T15:10:00+00:00",
+   "condition_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
+   "copy_delay_min": 2.6,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "outcome": "Rafael Jodar"
   }
  ],
  "total_pnl": -425.8850999999995,
- "last_updated": "2026-08-19T17:30:36.765078+00:00"
+ "last_updated": "2026-08-19T17:35:22.277074+00:00"
 }
