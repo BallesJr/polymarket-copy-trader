@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9374.115156,
  "last_seen": {
-  "jtwyslljy": 1787158492,
+  "jtwyslljy": 1787158981,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10946,6 +10946,13 @@
    "BUY",
    4453.98,
    1787158492
+  ],
+  [
+   "0xaa3192d27737630e72ca02de4258c0f63804848c93d5b682b95ee6966b07c33c",
+   "113357785535622692719190194948421196892658073988682265226395148168171517109532",
+   "BUY",
+   6722.36,
+   1787158981
   ]
  ],
  "leader_pos": {
@@ -17436,31 +17443,13 @@
    "title": "Celtic FC vs. LASK Linz: Team to Advance",
    "outcome": "LASK Linz",
    "slug": "ucl-cel-lin2-2026-08-19-more-markets",
-   "shares": 4453.98,
-   "cost": 1636.8517000799097,
-   "max_shares": 4453.98,
-   "last_trade_ts": 1787158492
+   "shares": 11176.34,
+   "cost": 4191.34850007991,
+   "max_shares": 11176.34,
+   "last_trade_ts": 1787158981
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "112322683979529218929017371312093499535821839330408701803227089250084829015628",
-   "condition_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
-   "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
-   "outcome": "Anyones Legend",
-   "slug": "lol-al-tes-2026-08-19",
-   "opened_at": "2026-08-19T07:25:21.841356+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 30160.0,
-   "copy_delay_min": 9.1,
-   "best_ask": 0.58,
-   "ask_depth": 787.28,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "21846686050842964097019005967475860276076358518283318361686686733097761603598",
@@ -24552,6 +24541,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "112322683979529218929017371312093499535821839330408701803227089250084829015628",
+   "condition_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
+   "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
+   "outcome": "Anyones Legend",
+   "slug": "lol-al-tes-2026-08-19",
+   "opened_at": "2026-08-19T07:25:21.841356+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 30160.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.58,
+   "ask_depth": 787.28,
+   "status": "lost",
+   "closed_at": "2026-08-19T17:05:23.163732+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27183,6 +27194,6 @@
    "outcome": "Flavio Cobolli"
   }
  ],
- "total_pnl": -325.8850999999995,
- "last_updated": "2026-08-19T17:00:46.571839+00:00"
+ "total_pnl": -425.8850999999995,
+ "last_updated": "2026-08-19T17:05:23.165614+00:00"
 }
