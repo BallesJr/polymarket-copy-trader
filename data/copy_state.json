@@ -17362,24 +17362,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "102993175178679834463649507036979484181848032913915187726341143862684286569677",
-   "condition_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
-   "title": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "KT Rolster",
-   "slug": "lol-gen-kt-2026-08-19",
-   "opened_at": "2026-08-19T03:30:34.751604+00:00",
-   "entry_price": 0.17,
-   "shares": 588.2353,
-   "stake": 100.0,
-   "leader_vwap": 0.17,
-   "leader_cost": 850.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.17,
-   "ask_depth": 40650.13,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "100683475899817433858972675584383687487788149347162101672226640215473540227989",
    "condition_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
    "title": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
@@ -24443,6 +24425,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102993175178679834463649507036979484181848032913915187726341143862684286569677",
+   "condition_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
+   "title": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-gen-kt-2026-08-19",
+   "opened_at": "2026-08-19T03:30:34.751604+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 850.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.17,
+   "ask_depth": 40650.13,
+   "status": "lost",
+   "closed_at": "2026-08-19T13:12:37.375597+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27064,6 +27068,6 @@
    "outcome": "DN SOOPers"
   }
  ],
- "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T13:05:19.961445+00:00"
+ "total_pnl": -225.8850999999995,
+ "last_updated": "2026-08-19T13:12:37.377204+00:00"
 }
