@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9874.115156,
  "last_seen": {
-  "jtwyslljy": 1787078314,
+  "jtwyslljy": 1787109381,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10848,6 +10848,13 @@
    "BUY",
    2000,
    1787078314
+  ],
+  [
+   "0xa74f2a68a978a1d136035ff412c63e5de56a8573c877e26890698c8c91d76d3a",
+   "47829624818990590553283776160291493034837940904803441211783560364079807011408",
+   "BUY",
+   1000,
+   1787109381
   ]
  ],
  "leader_pos": {
@@ -17222,6 +17229,18 @@
    "cost": 4859.9946,
    "max_shares": 8999.99,
    "last_trade_ts": 1787078298
+  },
+  "jtwyslljy|47829624818990590553283776160291493034837940904803441211783560364079807011408": {
+   "leader": "jtwyslljy",
+   "asset": "47829624818990590553283776160291493034837940904803441211783560364079807011408",
+   "condition_id": "0x6fd6cd1e9fa323c78aacf905fd598f1ce817a06c69ad0f70761710c959d49686",
+   "title": "Los Angeles Dodgers vs. Colorado Rockies",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-lad-col-2026-08-18",
+   "shares": 1000.0,
+   "cost": 910.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1787109381
   }
  },
  "positions": [],
@@ -26834,8 +26853,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
    "outcome": "Brandon Nakashima"
+  },
+  {
+   "at": "2026-08-19T03:25:19.710566+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T00:40:00+00:00",
+   "condition_id": "0x6fd6cd1e9fa323c78aacf905fd598f1ce817a06c69ad0f70761710c959d49686",
+   "copy_delay_min": 9.0,
+   "leader": "jtwyslljy",
+   "title": "Los Angeles Dodgers vs. Colorado Rockies",
+   "outcome": "Los Angeles Dodgers"
   }
  ],
  "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T03:10:23.136529+00:00"
+ "last_updated": "2026-08-19T03:25:19.711059+00:00"
 }
