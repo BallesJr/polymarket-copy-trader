@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9574.115156,
+ "bankroll": 9474.115156,
  "last_seen": {
-  "jtwyslljy": 1787143774,
+  "jtwyslljy": 1787144194,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10904,6 +10904,13 @@
    "BUY",
    5088.87,
    1787143774
+  ],
+  [
+   "0xf7be068de96d1cfbb0b6076f59cae04e9d88cb6f9472c4348c4de12d73855a29",
+   "21846686050842964097019005967475860276076358518283318361686686733097761603598",
+   "BUY",
+   12000,
+   1787144194
   ]
  ],
  "leader_pos": {
@@ -17338,6 +17345,18 @@
    "cost": 2800.0000000000005,
    "max_shares": 10000.0,
    "last_trade_ts": 1787140908
+  },
+  "jtwyslljy|21846686050842964097019005967475860276076358518283318361686686733097761603598": {
+   "leader": "jtwyslljy",
+   "asset": "21846686050842964097019005967475860276076358518283318361686686733097761603598",
+   "condition_id": "0xde36c43387299957f6e355d69a27965855cff458c48abf7dd7577c9aff4b3979",
+   "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming",
+   "slug": "lol-we-edg-2026-08-19",
+   "shares": 12000.0,
+   "cost": 2760.0,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1787144194
   }
  },
  "positions": [
@@ -17393,6 +17412,24 @@
    "copy_delay_min": 9.1,
    "best_ask": 0.58,
    "ask_depth": 787.28,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21846686050842964097019005967475860276076358518283318361686686733097761603598",
+   "condition_id": "0xde36c43387299957f6e355d69a27965855cff458c48abf7dd7577c9aff4b3979",
+   "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
+   "outcome": "EDward Gaming",
+   "slug": "lol-we-edg-2026-08-19",
+   "opened_at": "2026-08-19T13:05:19.679774+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 2760.0,
+   "copy_delay_min": 8.8,
+   "best_ask": 0.23,
+   "ask_depth": 88167.53,
    "status": "open"
   }
  ],
@@ -27028,5 +27065,5 @@
   }
  ],
  "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T12:55:22.381196+00:00"
+ "last_updated": "2026-08-19T13:05:19.961445+00:00"
 }
