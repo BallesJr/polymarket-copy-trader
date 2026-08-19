@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9374.115156,
  "last_seen": {
-  "jtwyslljy": 1787159746,
+  "jtwyslljy": 1787160007,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10967,6 +10967,13 @@
    "SELL",
    4999,
    1787159746
+  ],
+  [
+   "0xd89d9d1d660faa83ce2f1418a289f263f40ddd93ae039817b0a7deb2b110ecf6",
+   "79768281795426420752277039002122937479068324226361815683273340473148658999943",
+   "BUY",
+   6000,
+   1787160007
   ]
  ],
  "leader_pos": {
@@ -17461,6 +17468,18 @@
    "cost": 4191.34850007991,
    "max_shares": 11176.34,
    "last_trade_ts": 1787158981
+  },
+  "jtwyslljy|79768281795426420752277039002122937479068324226361815683273340473148658999943": {
+   "leader": "jtwyslljy",
+   "asset": "79768281795426420752277039002122937479068324226361815683273340473148658999943",
+   "condition_id": "0x4e3000c90abf7cee5df0bbbee2f20ebd64c2f901989fbda806d9ec80e41f28ca",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-tirante-mensik-2026-08-19",
+   "shares": 6000.0,
+   "cost": 2220.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1787160007
   }
  },
  "positions": [
@@ -27206,8 +27225,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
    "outcome": "Flavio Cobolli"
+  },
+  {
+   "at": "2026-08-19T17:25:20.415563+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T17:10:00+00:00",
+   "condition_id": "0x4e3000c90abf7cee5df0bbbee2f20ebd64c2f901989fbda806d9ec80e41f28ca",
+   "copy_delay_min": 5.2,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+   "outcome": "Thiago Agustin Tirante"
   }
  ],
  "total_pnl": -425.8850999999995,
- "last_updated": "2026-08-19T17:20:25.147570+00:00"
+ "last_updated": "2026-08-19T17:25:20.656066+00:00"
 }
