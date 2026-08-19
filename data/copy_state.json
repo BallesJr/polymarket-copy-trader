@@ -17362,24 +17362,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "100683475899817433858972675584383687487788149347162101672226640215473540227989",
-   "condition_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
-   "title": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
-   "outcome": "LNG Esports",
-   "slug": "lol-lng-wb-2026-08-19",
-   "opened_at": "2026-08-19T06:30:39.470718+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.25,
-   "leader_cost": 8000.0,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.27,
-   "ask_depth": 2801.07,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "112322683979529218929017371312093499535821839330408701803227089250084829015628",
    "condition_id": "0x864f6585e6b90acc5aa3de9bd51b24aef054d0506ca430bd0e1fcd4ff69e898b",
    "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
@@ -24447,6 +24429,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100683475899817433858972675584383687487788149347162101672226640215473540227989",
+   "condition_id": "0xbef57e09ca87b7d054a78f7c8ddaad50502aac0f8bc0e749594ab06f5933c270",
+   "title": "LoL: LNG Esports vs Weibo Gaming (BO3) - LPL Group Nirvana",
+   "outcome": "LNG Esports",
+   "slug": "lol-lng-wb-2026-08-19",
+   "opened_at": "2026-08-19T06:30:39.470718+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 8000.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.27,
+   "ask_depth": 2801.07,
+   "status": "lost",
+   "closed_at": "2026-08-19T14:05:21.527533+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27068,6 +27072,6 @@
    "outcome": "DN SOOPers"
   }
  ],
- "total_pnl": -225.8850999999995,
- "last_updated": "2026-08-19T13:12:37.377204+00:00"
+ "total_pnl": -325.8850999999995,
+ "last_updated": "2026-08-19T14:05:21.529071+00:00"
 }
