@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9108.897756,
  "last_seen": {
-  "jtwyslljy": 1787164606,
+  "jtwyslljy": 1787165911,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -11093,6 +11093,13 @@
    "SELL",
    5000,
    1787164606
+  ],
+  [
+   "0x1de4df6ecde6b2a011925716e3331f5a9a01ff729778b3489c6bed4ade608580",
+   "79768281795426420752277039002122937479068324226361815683273340473148658999943",
+   "SELL",
+   56.34,
+   1787165911
   ]
  ],
  "leader_pos": {
@@ -17595,10 +17602,10 @@
    "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-tirante-mensik-2026-08-19",
-   "shares": 6000.0,
-   "cost": 2220.0,
+   "shares": 5943.66,
+   "cost": 2165.2938599999998,
    "max_shares": 6000.0,
-   "last_trade_ts": 1787160007
+   "last_trade_ts": 1787165911
   },
   "jtwyslljy|12290647698074337301291235963506756707124083871104093931752326838747719465248": {
    "leader": "jtwyslljy",
@@ -27656,8 +27663,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
    "outcome": "Jessica Pegula"
+  },
+  {
+   "at": "2026-08-19T19:00:48.111254+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T17:10:00+00:00",
+   "condition_id": "0x4e3000c90abf7cee5df0bbbee2f20ebd64c2f901989fbda806d9ec80e41f28ca",
+   "copy_delay_min": 2.3,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+   "outcome": "Thiago Agustin Tirante"
   }
  ],
  "total_pnl": -91.10249999999951,
- "last_updated": "2026-08-19T18:40:29.121591+00:00"
+ "last_updated": "2026-08-19T19:00:48.413826+00:00"
 }
