@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9374.115156,
+ "bankroll": 9274.115156,
  "last_seen": {
-  "jtwyslljy": 1787160007,
+  "jtwyslljy": 1787160453,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10974,6 +10974,13 @@
    "BUY",
    6000,
    1787160007
+  ],
+  [
+   "0x9e3692dcdaacf2f451d9ab098476b9f8288ff7a8285993a632d20893b39bf4d3",
+   "12290647698074337301291235963506756707124083871104093931752326838747719465248",
+   "BUY",
+   7500,
+   1787160453
   ]
  ],
  "leader_pos": {
@@ -17480,6 +17487,18 @@
    "cost": 2220.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1787160007
+  },
+  "jtwyslljy|12290647698074337301291235963506756707124083871104093931752326838747719465248": {
+   "leader": "jtwyslljy",
+   "asset": "12290647698074337301291235963506756707124083871104093931752326838747719465248",
+   "condition_id": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
+   "title": "Cincinnati Open: Madison Keys vs Xiyu Wang",
+   "outcome": "Xiyu Wang",
+   "slug": "wta-keys-wan-2026-08-19",
+   "shares": 7500.0,
+   "cost": 1725.0,
+   "max_shares": 7500.0,
+   "last_trade_ts": 1787160453
   }
  },
  "positions": [
@@ -17517,6 +17536,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12290647698074337301291235963506756707124083871104093931752326838747719465248",
+   "condition_id": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
+   "title": "Cincinnati Open: Madison Keys vs Xiyu Wang",
+   "outcome": "Xiyu Wang",
+   "slug": "wta-keys-wan-2026-08-19",
+   "opened_at": "2026-08-19T17:30:36.403350+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1725.0,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.23,
+   "ask_depth": 4160.76,
    "status": "open"
   }
  ],
@@ -27238,5 +27275,5 @@
   }
  ],
  "total_pnl": -425.8850999999995,
- "last_updated": "2026-08-19T17:25:20.656066+00:00"
+ "last_updated": "2026-08-19T17:30:36.765078+00:00"
 }
