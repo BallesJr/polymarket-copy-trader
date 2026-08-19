@@ -17797,24 +17797,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "4689212520129732166898562868170116047885842316994317630234065514996416127895",
-   "condition_id": "0x448943d3ef2d695a407f4f90ed87d10314b868e75f0d4b31ca6ae8b9a85c657d",
-   "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-shnaide-rybakin-2026-08-19",
-   "opened_at": "2026-08-19T17:40:26.150570+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 1800.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.31,
-   "ask_depth": 23461.32,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "46051113527963356219475439797811838597616987428003512538179397705103614202893",
    "condition_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
    "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
@@ -24984,6 +24966,28 @@
    "exit_price": 1.0,
    "pnl": 334.7826,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4689212520129732166898562868170116047885842316994317630234065514996416127895",
+   "condition_id": "0x448943d3ef2d695a407f4f90ed87d10314b868e75f0d4b31ca6ae8b9a85c657d",
+   "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-rybakin-2026-08-19",
+   "opened_at": "2026-08-19T17:40:26.150570+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 1800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.31,
+   "ask_depth": 23461.32,
+   "status": "lost",
+   "closed_at": "2026-08-19T23:00:43.380107+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27675,6 +27679,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -91.10249999999951,
- "last_updated": "2026-08-19T19:00:48.413826+00:00"
+ "total_pnl": -191.1024999999995,
+ "last_updated": "2026-08-19T23:00:43.381871+00:00"
 }
