@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9274.115156,
+ "bankroll": 8974.115156,
  "last_seen": {
-  "jtwyslljy": 1787160763,
+  "jtwyslljy": 1787161102,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10995,6 +10995,48 @@
    "BUY",
    3000,
    1787160763
+  ],
+  [
+   "0x4463f0fe3adb976ff9b5b06e9f76590153a99eb48657edb017835370d272e805",
+   "113309625490806296514522250539826502701139608806365809321063865775155312221545",
+   "BUY",
+   5000,
+   1787160924
+  ],
+  [
+   "0xee202394b5c511e6c700b3abfe56eb846d5e7a3ac43cb090c2385350e6e82999",
+   "64535921156816519771942669561323579372135074590937092089376595369411914849344",
+   "BUY",
+   5000,
+   1787160967
+  ],
+  [
+   "0x4569dd077e31b700423e6d704be943f168d26a93f0b2fc7bf50f039e480aef09",
+   "4689212520129732166898562868170116047885842316994317630234065514996416127895",
+   "BUY",
+   6000,
+   1787160987
+  ],
+  [
+   "0x3a820d7bfa6c6d691f1447695e4d6cdaa2257deaf152443126b3acc88ce33504",
+   "46051113527963356219475439797811838597616987428003512538179397705103614202893",
+   "BUY",
+   4532.4,
+   1787161002
+  ],
+  [
+   "0x23d562e5fbe898c0e4bc9473ff5d5359fbcedcb0c1ad15f754b33e37f5fc98f9",
+   "13786538933404425449634416447880493594824247500692246727372749870590192598282",
+   "BUY",
+   6000,
+   1787161009
+  ],
+  [
+   "0xc0838140efffdc59218f3f283a1fe362860e0ee602f7047c16ce9cab1eacc113",
+   "8755741796808376676617922839073561900605236454727939958369842267155781445700",
+   "BUY",
+   10000,
+   1787161102
   ]
  ],
  "leader_pos": {
@@ -17521,10 +17563,70 @@
    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
    "outcome": "Rafael Jodar",
    "slug": "atp-jodar-cobolli-2026-08-19",
-   "shares": 3305.0,
-   "cost": 589.3000000000001,
-   "max_shares": 3305.0,
-   "last_trade_ts": 1787160763
+   "shares": 13305.0,
+   "cost": 1789.3000000000002,
+   "max_shares": 13305.0,
+   "last_trade_ts": 1787161102
+  },
+  "jtwyslljy|113309625490806296514522250539826502701139608806365809321063865775155312221545": {
+   "leader": "jtwyslljy",
+   "asset": "113309625490806296514522250539826502701139608806365809321063865775155312221545",
+   "condition_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
+   "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
+   "outcome": "Sorana Cirstea",
+   "slug": "wta-cirstea-pegula-2026-08-19",
+   "shares": 5000.0,
+   "cost": 300.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787160924
+  },
+  "jtwyslljy|64535921156816519771942669561323579372135074590937092089376595369411914849344": {
+   "leader": "jtwyslljy",
+   "asset": "64535921156816519771942669561323579372135074590937092089376595369411914849344",
+   "condition_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
+   "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "outcome": "Marta Kostyuk",
+   "slug": "wta-kostyuk-andreev-2026-08-19",
+   "shares": 5000.0,
+   "cost": 1550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787160967
+  },
+  "jtwyslljy|4689212520129732166898562868170116047885842316994317630234065514996416127895": {
+   "leader": "jtwyslljy",
+   "asset": "4689212520129732166898562868170116047885842316994317630234065514996416127895",
+   "condition_id": "0x448943d3ef2d695a407f4f90ed87d10314b868e75f0d4b31ca6ae8b9a85c657d",
+   "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-rybakin-2026-08-19",
+   "shares": 6000.0,
+   "cost": 1800.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1787160987
+  },
+  "jtwyslljy|46051113527963356219475439797811838597616987428003512538179397705103614202893": {
+   "leader": "jtwyslljy",
+   "asset": "46051113527963356219475439797811838597616987428003512538179397705103614202893",
+   "condition_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
+   "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-gauff-bouzkov-2026-08-19",
+   "shares": 4532.4,
+   "cost": 1042.452,
+   "max_shares": 4532.4,
+   "last_trade_ts": 1787161002
+  },
+  "jtwyslljy|13786538933404425449634416447880493594824247500692246727372749870590192598282": {
+   "leader": "jtwyslljy",
+   "asset": "13786538933404425449634416447880493594824247500692246727372749870590192598282",
+   "condition_id": "0xc2edef5cdadd09971b336b9b7f8fa3a1a57725bafadccf1785c6c1a6d09550c6",
+   "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-sabalen-bejlek-2026-08-19",
+   "shares": 6000.0,
+   "cost": 840.0000000000001,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1787161009
   }
  },
  "positions": [
@@ -17580,6 +17682,60 @@
    "copy_delay_min": 3.0,
    "best_ask": 0.23,
    "ask_depth": 4160.76,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13786538933404425449634416447880493594824247500692246727372749870590192598282",
+   "condition_id": "0xc2edef5cdadd09971b336b9b7f8fa3a1a57725bafadccf1785c6c1a6d09550c6",
+   "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-sabalen-bejlek-2026-08-19",
+   "opened_at": "2026-08-19T17:40:25.974198+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 840.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.14,
+   "ask_depth": 8243.78,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4689212520129732166898562868170116047885842316994317630234065514996416127895",
+   "condition_id": "0x448943d3ef2d695a407f4f90ed87d10314b868e75f0d4b31ca6ae8b9a85c657d",
+   "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-shnaide-rybakin-2026-08-19",
+   "opened_at": "2026-08-19T17:40:26.150570+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 1800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.31,
+   "ask_depth": 23461.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46051113527963356219475439797811838597616987428003512538179397705103614202893",
+   "condition_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
+   "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-gauff-bouzkov-2026-08-19",
+   "opened_at": "2026-08-19T17:40:26.311927+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1042.45,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.24,
+   "ask_depth": 14440.11,
    "status": "open"
   }
  ],
@@ -27308,8 +27464,28 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
    "outcome": "Rafael Jodar"
+  },
+  {
+   "at": "2026-08-19T17:40:25.687939+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T15:10:00+00:00",
+   "condition_id": "0x60ec7dc1f9223fc56c8465583a5da658e029ab854fa0b587a8c5fec0ac4d5c70",
+   "copy_delay_min": 2.1,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+   "outcome": "Rafael Jodar"
+  },
+  {
+   "at": "2026-08-19T17:40:25.836120+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T17:10:00+00:00",
+   "condition_id": "0xdbb98d866363c79ffcdf8f5a97331d99a3ea77ba1fd0ee0efdb223cc4d2588be",
+   "copy_delay_min": 4.3,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
+   "outcome": "Marta Kostyuk"
   }
  ],
  "total_pnl": -425.8850999999995,
- "last_updated": "2026-08-19T17:35:22.277074+00:00"
+ "last_updated": "2026-08-19T17:40:26.602082+00:00"
 }
