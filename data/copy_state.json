@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9874.115156,
+ "bankroll": 9774.115156,
  "last_seen": {
-  "jtwyslljy": 1787109381,
+  "jtwyslljy": 1787109805,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10855,6 +10855,13 @@
    "BUY",
    1000,
    1787109381
+  ],
+  [
+   "0x6f2bfb0eae557b6b6a798b51cacdb3e322ffcee3811d45970834d835b918509c",
+   "102993175178679834463649507036979484181848032913915187726341143862684286569677",
+   "BUY",
+   5000,
+   1787109805
   ]
  ],
  "leader_pos": {
@@ -17241,9 +17248,40 @@
    "cost": 910.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1787109381
+  },
+  "jtwyslljy|102993175178679834463649507036979484181848032913915187726341143862684286569677": {
+   "leader": "jtwyslljy",
+   "asset": "102993175178679834463649507036979484181848032913915187726341143862684286569677",
+   "condition_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
+   "title": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-gen-kt-2026-08-19",
+   "shares": 5000.0,
+   "cost": 850.0000000000001,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787109805
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "102993175178679834463649507036979484181848032913915187726341143862684286569677",
+   "condition_id": "0xcfe1dc82b8014341ac9813c5a1a1cd918b77b660e0f7e9d83fe65d43202ddb34",
+   "title": "LoL: Gen.G vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-gen-kt-2026-08-19",
+   "opened_at": "2026-08-19T03:30:34.751604+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 850.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.17,
+   "ask_depth": 40650.13,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26866,5 +26904,5 @@
   }
  ],
  "total_pnl": -125.8850999999995,
- "last_updated": "2026-08-19T03:25:19.711059+00:00"
+ "last_updated": "2026-08-19T03:30:35.031666+00:00"
 }
