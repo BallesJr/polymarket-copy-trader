@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9474.115156,
+ "bankroll": 9374.115156,
  "last_seen": {
-  "jtwyslljy": 1787157658,
+  "jtwyslljy": 1787158492,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -10939,6 +10939,13 @@
    "BUY",
    3000,
    1787157658
+  ],
+  [
+   "0x24364e9f73ae464d5b362a64997f1a75353bd6fe46385ce9a2798f7addc9c630",
+   "113357785535622692719190194948421196892658073988682265226395148168171517109532",
+   "BUY",
+   4453.98,
+   1787158492
   ]
  ],
  "leader_pos": {
@@ -17421,6 +17428,18 @@
    "cost": 1353.2191,
    "max_shares": 8000.0,
    "last_trade_ts": 1787157658
+  },
+  "jtwyslljy|113357785535622692719190194948421196892658073988682265226395148168171517109532": {
+   "leader": "jtwyslljy",
+   "asset": "113357785535622692719190194948421196892658073988682265226395148168171517109532",
+   "condition_id": "0x0415c30d78ddcbd3575d094efad77e52a52144645c53c815e7f25d76a9dfdf42",
+   "title": "Celtic FC vs. LASK Linz: Team to Advance",
+   "outcome": "LASK Linz",
+   "slug": "ucl-cel-lin2-2026-08-19-more-markets",
+   "shares": 4453.98,
+   "cost": 1636.8517000799097,
+   "max_shares": 4453.98,
+   "last_trade_ts": 1787158492
   }
  },
  "positions": [
@@ -17458,6 +17477,24 @@
    "copy_delay_min": 8.8,
    "best_ask": 0.23,
    "ask_depth": 88167.53,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113357785535622692719190194948421196892658073988682265226395148168171517109532",
+   "condition_id": "0x0415c30d78ddcbd3575d094efad77e52a52144645c53c815e7f25d76a9dfdf42",
+   "title": "Celtic FC vs. LASK Linz: Team to Advance",
+   "outcome": "LASK Linz",
+   "slug": "ucl-cel-lin2-2026-08-19-more-markets",
+   "opened_at": "2026-08-19T17:00:45.904375+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.3675,
+   "leader_cost": 1636.85,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.38,
+   "ask_depth": 6727.36,
    "status": "open"
   }
  ],
@@ -27147,5 +27184,5 @@
   }
  ],
  "total_pnl": -325.8850999999995,
- "last_updated": "2026-08-19T16:45:29.224780+00:00"
+ "last_updated": "2026-08-19T17:00:46.571839+00:00"
 }
