@@ -17224,26 +17224,7 @@
    "last_trade_ts": 1787078298
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "98629433961925042114880246967251169826955374521210601874395981087439587823421",
-   "condition_id": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
-   "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
-   "outcome": "Learner Tien",
-   "slug": "atp-tien-tiafoe-2026-08-18",
-   "opened_at": "2026-08-18T18:40:25.982230+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 4859.99,
-   "copy_delay_min": 2.1,
-   "best_ask": 0.54,
-   "ask_depth": 34139.27,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -24232,6 +24213,28 @@
    "exit_price": 1.0,
    "pnl": 75.4386,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98629433961925042114880246967251169826955374521210601874395981087439587823421",
+   "condition_id": "0xc5b9793afda2f61179031e45513b21521bf3fae3fae461542d2c6cec0476b65d",
+   "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-tiafoe-2026-08-18",
+   "opened_at": "2026-08-18T18:40:25.982230+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 4859.99,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.54,
+   "ask_depth": 34139.27,
+   "status": "lost",
+   "closed_at": "2026-08-19T03:10:23.134946+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -26833,6 +26836,6 @@
    "outcome": "Brandon Nakashima"
   }
  ],
- "total_pnl": -25.885099999999497,
- "last_updated": "2026-08-19T00:00:43.439207+00:00"
+ "total_pnl": -125.8850999999995,
+ "last_updated": "2026-08-19T03:10:23.136529+00:00"
 }
