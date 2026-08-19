@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9308.897756,
+ "bankroll": 9108.897756,
  "last_seen": {
-  "jtwyslljy": 1787164039,
+  "jtwyslljy": 1787164281,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -11051,6 +11051,41 @@
    "BUY",
    5000,
    1787164039
+  ],
+  [
+   "0x75d6664943d5ebd949f33f892a3f2a95e4c68f0a722265318fec4a194af7844a",
+   "101993723280318588095269552677513614243468522914094483863215766758552749720910",
+   "BUY",
+   3500,
+   1787164053
+  ],
+  [
+   "0x00aec9fbf99e8014110e309e57c21d93b450f171651e6199998026edf3bf5950",
+   "63990314594874252197435788747008410881995594688602708800696005344349769449361",
+   "BUY",
+   3000,
+   1787164063
+  ],
+  [
+   "0x332849ca6d2d01e4afca1d4e0c6f414df9989bd83c824e63dd9b6194b31e63ca",
+   "76851094039558389609964012759066573036972959480875907050696289596752331251858",
+   "BUY",
+   710.29,
+   1787164105
+  ],
+  [
+   "0x5bae7a69b897f7074782ec9e54b7d921d8d818af4ae3754a5c11f770cdfddcdc",
+   "76851094039558389609964012759066573036972959480875907050696289596752331251858",
+   "BUY",
+   419,
+   1787164254
+  ],
+  [
+   "0x446f1ce9fdcbaa6b8838337a7544d39b51751ef119239d4371f7c9c184b0c631",
+   "76851094039558389609964012759066573036972959480875907050696289596752331251858",
+   "BUY",
+   771.56,
+   1787164281
   ]
  ],
  "leader_pos": {
@@ -17653,6 +17688,42 @@
    "cost": 1400.0000000000002,
    "max_shares": 5000.0,
    "last_trade_ts": 1787164039
+  },
+  "jtwyslljy|101993723280318588095269552677513614243468522914094483863215766758552749720910": {
+   "leader": "jtwyslljy",
+   "asset": "101993723280318588095269552677513614243468522914094483863215766758552749720910",
+   "condition_id": "0x1821330c11e4d8d638e485391dbf6af3edb96f84bb4c78f86237ed9eac447895",
+   "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-tiafoe-augeral-2026-08-19",
+   "shares": 3500.0,
+   "cost": 1225.0,
+   "max_shares": 3500.0,
+   "last_trade_ts": 1787164053
+  },
+  "jtwyslljy|63990314594874252197435788747008410881995594688602708800696005344349769449361": {
+   "leader": "jtwyslljy",
+   "asset": "63990314594874252197435788747008410881995594688602708800696005344349769449361",
+   "condition_id": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
+   "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-nakashi-2026-08-19",
+   "shares": 3000.0,
+   "cost": 1230.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1787164063
+  },
+  "jtwyslljy|76851094039558389609964012759066573036972959480875907050696289596752331251858": {
+   "leader": "jtwyslljy",
+   "asset": "76851094039558389609964012759066573036972959480875907050696289596752331251858",
+   "condition_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
+   "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-cirstea-pegula-2026-08-19",
+   "shares": 1900.85,
+   "cost": 1277.850309996383,
+   "max_shares": 1900.85,
+   "last_trade_ts": 1787164281
   }
  },
  "positions": [
@@ -17762,6 +17833,42 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.28,
    "ask_depth": 53448.08,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63990314594874252197435788747008410881995594688602708800696005344349769449361",
+   "condition_id": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
+   "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-nakashi-2026-08-19",
+   "opened_at": "2026-08-19T18:35:22.005340+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1230.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.41,
+   "ask_depth": 40966.63,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101993723280318588095269552677513614243468522914094483863215766758552749720910",
+   "condition_id": "0x1821330c11e4d8d638e485391dbf6af3edb96f84bb4c78f86237ed9eac447895",
+   "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-tiafoe-augeral-2026-08-19",
+   "opened_at": "2026-08-19T18:35:22.230220+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1225.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.35,
+   "ask_depth": 17261.14,
    "status": "open"
   }
  ],
@@ -27532,8 +27639,18 @@
    "leader": "jtwyslljy",
    "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
    "outcome": "Marta Kostyuk"
+  },
+  {
+   "at": "2026-08-19T18:35:21.728025+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-19T16:50:00+00:00",
+   "condition_id": "0xae12963cf344013decffa9bb13ce1741018de836bab2b685152a271bc54cc817",
+   "copy_delay_min": 4.0,
+   "leader": "jtwyslljy",
+   "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
+   "outcome": "Jessica Pegula"
   }
  ],
  "total_pnl": -91.10249999999951,
- "last_updated": "2026-08-19T18:30:35.540362+00:00"
+ "last_updated": "2026-08-19T18:35:22.717907+00:00"
 }
