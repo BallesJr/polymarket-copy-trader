@@ -18077,24 +18077,6 @@
    "best_ask": 0.43,
    "ask_depth": 16958.96,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "14846230078595164349039762680006893469986201637789664294206750633829822760830",
-   "condition_id": "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a",
-   "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
-   "outcome": "Amanda Anisimova",
-   "slug": "wta-anisimo-pegula-2026-08-21",
-   "opened_at": "2026-08-20T14:20:27.301297+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 1058.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.46,
-   "ask_depth": 9888.49,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25393,6 +25375,28 @@
    "exit_price": 1.0,
    "pnl": 88.6792,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14846230078595164349039762680006893469986201637789664294206750633829822760830",
+   "condition_id": "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a",
+   "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-anisimo-pegula-2026-08-21",
+   "opened_at": "2026-08-20T14:20:27.301297+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 1058.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.46,
+   "ask_depth": 9888.49,
+   "status": "lost",
+   "closed_at": "2026-08-20T20:05:25.669290+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28114,6 +28118,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": -524.5065999999995,
- "last_updated": "2026-08-20T15:55:24.592720+00:00"
+ "total_pnl": -624.5065999999995,
+ "last_updated": "2026-08-20T20:05:25.670820+00:00"
 }
