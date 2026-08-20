@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9075.49361,
+ "bankroll": 9319.39601,
  "last_seen": {
   "jtwyslljy": 1787241040,
   "0x53757615de": 1787221213
@@ -18044,24 +18044,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "107759038851301481633667444957611788693079257261931626861511244041356801483709",
-   "condition_id": "0x9b43e1b923451435407af0b9455891ca655548ce9e3e8810e98c082c4ce78793",
-   "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
-   "outcome": "Flavio Cobolli",
-   "slug": "atp-paul-cobolli-2026-08-21",
-   "opened_at": "2026-08-20T14:15:26.371055+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 1025.0,
-   "copy_delay_min": 5.1,
-   "best_ask": 0.41,
-   "ask_depth": 24533.71,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "39954337057029259182701291329285685818347478237523360641807434928762098614784",
    "condition_id": "0x3bae865f39fd0cc48f2fe2e751567bff85a09a195ff6661a92b376daee3d9351",
    "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
@@ -25397,6 +25379,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107759038851301481633667444957611788693079257261931626861511244041356801483709",
+   "condition_id": "0x9b43e1b923451435407af0b9455891ca655548ce9e3e8810e98c082c4ce78793",
+   "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-paul-cobolli-2026-08-21",
+   "opened_at": "2026-08-20T14:15:26.371055+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1025.0,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.41,
+   "ask_depth": 24533.71,
+   "status": "won",
+   "closed_at": "2026-08-20T22:25:21.010473+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28118,6 +28122,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": -624.5065999999995,
- "last_updated": "2026-08-20T20:05:25.670820+00:00"
+ "total_pnl": -480.6041999999995,
+ "last_updated": "2026-08-20T22:25:21.011193+00:00"
 }
