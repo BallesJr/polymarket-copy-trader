@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9375.49361,
+ "bankroll": 9275.49361,
  "last_seen": {
-  "jtwyslljy": 1787234259,
+  "jtwyslljy": 1787235021,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11233,6 +11233,13 @@
    "BUY",
    2180.58,
    1787234259
+  ],
+  [
+   "0x986c60a5881ecfd1769b2f0f142d91260185dae7f2659d60f799143e9fdbcb51",
+   "107759038851301481633667444957611788693079257261931626861511244041356801483709",
+   "BUY",
+   2500,
+   1787235021
   ]
  ],
  "leader_pos": {
@@ -17943,6 +17950,18 @@
    "cost": 736.550799957762,
    "max_shares": 4797.1,
    "last_trade_ts": 1787234259
+  },
+  "jtwyslljy|107759038851301481633667444957611788693079257261931626861511244041356801483709": {
+   "leader": "jtwyslljy",
+   "asset": "107759038851301481633667444957611788693079257261931626861511244041356801483709",
+   "condition_id": "0x9b43e1b923451435407af0b9455891ca655548ce9e3e8810e98c082c4ce78793",
+   "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-paul-cobolli-2026-08-21",
+   "shares": 2500.0,
+   "cost": 1025.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1787235021
   }
  },
  "positions": [
@@ -17962,6 +17981,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107759038851301481633667444957611788693079257261931626861511244041356801483709",
+   "condition_id": "0x9b43e1b923451435407af0b9455891ca655548ce9e3e8810e98c082c4ce78793",
+   "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-paul-cobolli-2026-08-21",
+   "opened_at": "2026-08-20T14:15:26.371055+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1025.0,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.41,
+   "ask_depth": 24533.71,
    "status": "open"
   }
  ],
@@ -27983,5 +28020,5 @@
   }
  ],
  "total_pnl": -524.5065999999995,
- "last_updated": "2026-08-20T14:00:43.634902+00:00"
+ "last_updated": "2026-08-20T14:15:26.709785+00:00"
 }
