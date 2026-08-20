@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9375.49361,
  "last_seen": {
-  "jtwyslljy": 1787232763,
+  "jtwyslljy": 1787234259,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11205,6 +11205,34 @@
    "BUY",
    165.78,
    1787232763
+  ],
+  [
+   "0x34755a6e7f47ee77adb85fe276256d81c99ae4ccb7dc9327d86a8d181e8745ca",
+   "25130955772391258512814785486882673577077165448554727253227686715313067196889",
+   "BUY",
+   1500,
+   1787234233
+  ],
+  [
+   "0x4f82b9bbea273e9e8ff08e0ca176106fcdf20f92a29b44e65b1d67d8585256bb",
+   "25130955772391258512814785486882673577077165448554727253227686715313067196889",
+   "BUY",
+   694.32,
+   1787234247
+  ],
+  [
+   "0x8b3186516a5d15b8fc03a28411a5ee6c299e9eafa3ecd5447bc7664f279ab44b",
+   "25130955772391258512814785486882673577077165448554727253227686715313067196889",
+   "BUY",
+   422.2,
+   1787234251
+  ],
+  [
+   "0x1135cc5aba0a5b2a40c7d935d018c0d60e78324d1e09dce8941c2b75e57d1573",
+   "25130955772391258512814785486882673577077165448554727253227686715313067196889",
+   "BUY",
+   2180.58,
+   1787234259
   ]
  ],
  "leader_pos": {
@@ -17903,6 +17931,18 @@
    "cost": 2287.5455,
    "max_shares": 4200.7699999999995,
    "last_trade_ts": 1787232763
+  },
+  "jtwyslljy|25130955772391258512814785486882673577077165448554727253227686715313067196889": {
+   "leader": "jtwyslljy",
+   "asset": "25130955772391258512814785486882673577077165448554727253227686715313067196889",
+   "condition_id": "0x9158bb965a8a5a9bac0b29bc4774567771c780255ecda1ebd0b291bebe4c5e90",
+   "title": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs",
+   "outcome": "B8",
+   "slug": "cs2-b8-ts7-2026-08-20",
+   "shares": 4797.1,
+   "cost": 736.550799957762,
+   "max_shares": 4797.1,
+   "last_trade_ts": 1787234259
   }
  },
  "positions": [
@@ -27930,8 +27970,18 @@
    "leader": "jtwyslljy",
    "title": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-08-20T14:00:43.307724+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-20T13:30:00+00:00",
+   "condition_id": "0x9158bb965a8a5a9bac0b29bc4774567771c780255ecda1ebd0b291bebe4c5e90",
+   "copy_delay_min": 3.1,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs",
+   "outcome": "B8"
   }
  ],
  "total_pnl": -524.5065999999995,
- "last_updated": "2026-08-20T13:35:22.125002+00:00"
+ "last_updated": "2026-08-20T14:00:43.634902+00:00"
 }
