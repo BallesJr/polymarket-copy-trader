@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9275.49361,
+ "bankroll": 9075.49361,
  "last_seen": {
-  "jtwyslljy": 1787235021,
+  "jtwyslljy": 1787235112,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11240,6 +11240,20 @@
    "BUY",
    2500,
    1787235021
+  ],
+  [
+   "0xe0283c9b47e076c4afeda9c4703c54ae165479121913ad45b972cc516c533170",
+   "14846230078595164349039762680006893469986201637789664294206750633829822760830",
+   "BUY",
+   2300,
+   1787235102
+  ],
+  [
+   "0x542d6bec15129407668f4c10ea124c0b8947756a7c4123b194412940009ab087",
+   "39954337057029259182701291329285685818347478237523360641807434928762098614784",
+   "BUY",
+   2300,
+   1787235112
   ]
  ],
  "leader_pos": {
@@ -17962,6 +17976,30 @@
    "cost": 1025.0,
    "max_shares": 2500.0,
    "last_trade_ts": 1787235021
+  },
+  "jtwyslljy|14846230078595164349039762680006893469986201637789664294206750633829822760830": {
+   "leader": "jtwyslljy",
+   "asset": "14846230078595164349039762680006893469986201637789664294206750633829822760830",
+   "condition_id": "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a",
+   "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-anisimo-pegula-2026-08-21",
+   "shares": 2300.0,
+   "cost": 1058.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1787235102
+  },
+  "jtwyslljy|39954337057029259182701291329285685818347478237523360641807434928762098614784": {
+   "leader": "jtwyslljy",
+   "asset": "39954337057029259182701291329285685818347478237523360641807434928762098614784",
+   "condition_id": "0x3bae865f39fd0cc48f2fe2e751567bff85a09a195ff6661a92b376daee3d9351",
+   "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-swiatek-rybakin-2026-08-20",
+   "shares": 2300.0,
+   "cost": 989.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1787235112
   }
  },
  "positions": [
@@ -17999,6 +18037,42 @@
    "copy_delay_min": 5.1,
    "best_ask": 0.41,
    "ask_depth": 24533.71,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39954337057029259182701291329285685818347478237523360641807434928762098614784",
+   "condition_id": "0x3bae865f39fd0cc48f2fe2e751567bff85a09a195ff6661a92b376daee3d9351",
+   "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-swiatek-rybakin-2026-08-20",
+   "opened_at": "2026-08-20T14:20:27.096343+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 989.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.43,
+   "ask_depth": 16958.96,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14846230078595164349039762680006893469986201637789664294206750633829822760830",
+   "condition_id": "0x9f250ad26e602f713ac1dd8e2cb98914fc1d008f080acad56930fe86abe0c75a",
+   "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-anisimo-pegula-2026-08-21",
+   "opened_at": "2026-08-20T14:20:27.301297+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 1058.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.46,
+   "ask_depth": 9888.49,
    "status": "open"
   }
  ],
@@ -28020,5 +28094,5 @@
   }
  ],
  "total_pnl": -524.5065999999995,
- "last_updated": "2026-08-20T14:15:26.709785+00:00"
+ "last_updated": "2026-08-20T14:20:27.663454+00:00"
 }
