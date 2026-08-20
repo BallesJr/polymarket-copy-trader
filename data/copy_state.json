@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9108.897756,
+ "bankroll": 9288.897759,
  "last_seen": {
-  "jtwyslljy": 1787186973,
+  "jtwyslljy": 1787187345,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -11121,6 +11121,20 @@
    "BUY",
    5000,
    1787186973
+  ],
+  [
+   "0x91e381156828e1bb634c9b6825d97a0fefb847fb193c0dd38a3a55d74a200717",
+   "101993723280318588095269552677513614243468522914094483863215766758552749720910",
+   "SELL",
+   3500,
+   1787187324
+  ],
+  [
+   "0x829963e9d7dc538d4fc978ac73d963f895fedc6a4f150d289b866ebac2ce19c9",
+   "13786538933404425449634416447880493594824247500692246727372749870590192598282",
+   "SELL",
+   4662.18,
+   1787187345
   ]
  ],
  "leader_pos": {
@@ -17707,10 +17721,10 @@
    "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
    "outcome": "Sara Bejlek",
    "slug": "wta-sabalen-bejlek-2026-08-19",
-   "shares": 6000.0,
-   "cost": 840.0000000000001,
+   "shares": 1337.8199999999997,
+   "cost": 280.53840000000014,
    "max_shares": 6000.0,
-   "last_trade_ts": 1787161009
+   "last_trade_ts": 1787187345
   },
   "jtwyslljy|53105098760741468994257631844270816275107280190488219064636905890582753677908": {
    "leader": "jtwyslljy",
@@ -17731,10 +17745,10 @@
    "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
    "outcome": "Frances Tiafoe",
    "slug": "atp-tiafoe-augeral-2026-08-19",
-   "shares": 3500.0,
-   "cost": 1225.0,
+   "shares": 0.0,
+   "cost": 70.0,
    "max_shares": 3500.0,
-   "last_trade_ts": 1787164053
+   "last_trade_ts": 1787187324
   },
   "jtwyslljy|63990314594874252197435788747008410881995594688602708800696005344349769449361": {
    "leader": "jtwyslljy",
@@ -17800,24 +17814,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "13786538933404425449634416447880493594824247500692246727372749870590192598282",
-   "condition_id": "0xc2edef5cdadd09971b336b9b7f8fa3a1a57725bafadccf1785c6c1a6d09550c6",
-   "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
-   "outcome": "Sara Bejlek",
-   "slug": "wta-sabalen-bejlek-2026-08-19",
-   "opened_at": "2026-08-19T17:40:25.974198+00:00",
-   "entry_price": 0.14,
-   "shares": 714.2857,
-   "stake": 100.0,
-   "leader_vwap": 0.14,
-   "leader_cost": 840.0,
-   "copy_delay_min": 3.6,
-   "best_ask": 0.14,
-   "ask_depth": 8243.78,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
    "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
    "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
@@ -17850,24 +17846,6 @@
    "copy_delay_min": 7.6,
    "best_ask": 0.41,
    "ask_depth": 40966.63,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "101993723280318588095269552677513614243468522914094483863215766758552749720910",
-   "condition_id": "0x1821330c11e4d8d638e485391dbf6af3edb96f84bb4c78f86237ed9eac447895",
-   "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
-   "outcome": "Frances Tiafoe",
-   "slug": "atp-tiafoe-augeral-2026-08-19",
-   "opened_at": "2026-08-19T18:35:22.230220+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 1225.0,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.35,
-   "ask_depth": 17261.14,
    "status": "open"
   }
  ],
@@ -25013,6 +24991,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13786538933404425449634416447880493594824247500692246727372749870590192598282",
+   "condition_id": "0xc2edef5cdadd09971b336b9b7f8fa3a1a57725bafadccf1785c6c1a6d09550c6",
+   "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-sabalen-bejlek-2026-08-19",
+   "opened_at": "2026-08-19T17:40:25.974198+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 840.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.14,
+   "ask_depth": 8243.78,
+   "status": "closed",
+   "closed_at": "2026-08-20T01:05:18.854141+00:00",
+   "exit_price": 0.12,
+   "pnl": -14.2857,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101993723280318588095269552677513614243468522914094483863215766758552749720910",
+   "condition_id": "0x1821330c11e4d8d638e485391dbf6af3edb96f84bb4c78f86237ed9eac447895",
+   "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-tiafoe-augeral-2026-08-19",
+   "opened_at": "2026-08-19T18:35:22.230220+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 1225.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.35,
+   "ask_depth": 17261.14,
+   "status": "closed",
+   "closed_at": "2026-08-20T01:05:18.854222+00:00",
+   "exit_price": 0.33,
+   "pnl": -5.7143,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -27704,6 +27726,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -291.1024999999995,
- "last_updated": "2026-08-20T01:00:37.431875+00:00"
+ "total_pnl": -311.1024999999995,
+ "last_updated": "2026-08-20T01:05:19.163912+00:00"
 }
