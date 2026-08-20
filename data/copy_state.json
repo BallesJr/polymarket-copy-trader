@@ -17804,24 +17804,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "46051113527963356219475439797811838597616987428003512538179397705103614202893",
-   "condition_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
-   "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
-   "outcome": "Marie Bouzkova",
-   "slug": "wta-gauff-bouzkov-2026-08-19",
-   "opened_at": "2026-08-19T17:40:26.311927+00:00",
-   "entry_price": 0.24,
-   "shares": 416.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.23,
-   "leader_cost": 1042.45,
-   "copy_delay_min": 3.7,
-   "best_ask": 0.24,
-   "ask_depth": 14440.11,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
    "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
    "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
@@ -24995,6 +24977,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46051113527963356219475439797811838597616987428003512538179397705103614202893",
+   "condition_id": "0x85184fbfeaa8622d8753b545ea7e60dcb6aa45ac0c0866fec617b3b0a30d0df5",
+   "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-gauff-bouzkov-2026-08-19",
+   "opened_at": "2026-08-19T17:40:26.311927+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1042.45,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.24,
+   "ask_depth": 14440.11,
+   "status": "lost",
+   "closed_at": "2026-08-20T00:50:24.761481+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27686,6 +27690,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -191.1024999999995,
- "last_updated": "2026-08-20T00:45:27.158999+00:00"
+ "total_pnl": -291.1024999999995,
+ "last_updated": "2026-08-20T00:50:24.762506+00:00"
 }
