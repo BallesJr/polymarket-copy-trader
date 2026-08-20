@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9186.814409999999,
+ "bankroll": 9375.49361,
  "last_seen": {
   "jtwyslljy": 1787228407,
   "0x53757615de": 1787221213
@@ -17890,24 +17890,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "1010399022514445056965246279898538760275841148723924641598936717580005410635",
-   "condition_id": "0xa813d824c347c725eeb781fd0ad00d2f0fe5d3dc2438e408698876b2fe00c216",
-   "title": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "Hanwha Life Esports",
-   "slug": "lol-dk-hle1-2026-08-20",
-   "opened_at": "2026-08-20T07:15:25.771283+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 2650.0,
-   "copy_delay_min": 4.7,
-   "best_ask": 0.53,
-   "ask_depth": 107508.87,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25184,6 +25166,28 @@
    "exit_price": 0.47,
    "pnl": -2.0833,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1010399022514445056965246279898538760275841148723924641598936717580005410635",
+   "condition_id": "0xa813d824c347c725eeb781fd0ad00d2f0fe5d3dc2438e408698876b2fe00c216",
+   "title": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-dk-hle1-2026-08-20",
+   "opened_at": "2026-08-20T07:15:25.771283+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 2650.0,
+   "copy_delay_min": 4.7,
+   "best_ask": 0.53,
+   "ask_depth": 107508.87,
+   "status": "won",
+   "closed_at": "2026-08-20T12:35:22.091652+00:00",
+   "exit_price": 1.0,
+   "pnl": 88.6792,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27875,6 +27879,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -613.1857999999995,
- "last_updated": "2026-08-20T12:25:21.514293+00:00"
+ "total_pnl": -524.5065999999995,
+ "last_updated": "2026-08-20T12:35:22.093471+00:00"
 }
