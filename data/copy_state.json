@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9075.49361,
  "last_seen": {
-  "jtwyslljy": 1787235112,
+  "jtwyslljy": 1787241040,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11254,6 +11254,27 @@
    "BUY",
    2300,
    1787235112
+  ],
+  [
+   "0xe5ee3cef89ea8dfe2c301dfed1234a1d843fdd42ce692d26b1108aba935233f0",
+   "107759038851301481633667444957611788693079257261931626861511244041356801483709",
+   "BUY",
+   1500,
+   1787240893
+  ],
+  [
+   "0xab062b3a897628643dbd0d94575835943d3edc31a95b48140464a937d082cf92",
+   "14846230078595164349039762680006893469986201637789664294206750633829822760830",
+   "BUY",
+   2300,
+   1787241019
+  ],
+  [
+   "0xb7aee9bb2dd0bcae89db76b738958377746c799dcc55b98e4950bfe9dfa8d6f9",
+   "39954337057029259182701291329285685818347478237523360641807434928762098614784",
+   "SELL",
+   768.26,
+   1787241040
   ]
  ],
  "leader_pos": {
@@ -17972,10 +17993,10 @@
    "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
    "outcome": "Flavio Cobolli",
    "slug": "atp-paul-cobolli-2026-08-21",
-   "shares": 2500.0,
-   "cost": 1025.0,
-   "max_shares": 2500.0,
-   "last_trade_ts": 1787235021
+   "shares": 4000.0,
+   "cost": 1625.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1787240893
   },
   "jtwyslljy|14846230078595164349039762680006893469986201637789664294206750633829822760830": {
    "leader": "jtwyslljy",
@@ -17984,10 +18005,10 @@
    "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
    "outcome": "Amanda Anisimova",
    "slug": "wta-anisimo-pegula-2026-08-21",
-   "shares": 2300.0,
-   "cost": 1058.0,
-   "max_shares": 2300.0,
-   "last_trade_ts": 1787235102
+   "shares": 4600.0,
+   "cost": 2093.0,
+   "max_shares": 4600.0,
+   "last_trade_ts": 1787241019
   },
   "jtwyslljy|39954337057029259182701291329285685818347478237523360641807434928762098614784": {
    "leader": "jtwyslljy",
@@ -17996,10 +18017,10 @@
    "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
    "outcome": "Elena Rybakina",
    "slug": "wta-swiatek-rybakin-2026-08-20",
-   "shares": 2300.0,
-   "cost": 989.0,
+   "shares": 1531.74,
+   "cost": 666.3308,
    "max_shares": 2300.0,
-   "last_trade_ts": 1787235112
+   "last_trade_ts": 1787241040
   }
  },
  "positions": [
@@ -28094,5 +28115,5 @@
   }
  ],
  "total_pnl": -524.5065999999995,
- "last_updated": "2026-08-20T14:20:27.663454+00:00"
+ "last_updated": "2026-08-20T15:55:24.592720+00:00"
 }
