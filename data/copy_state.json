@@ -17800,24 +17800,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
-   "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
-   "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
-   "outcome": "Jaime Faria",
-   "slug": "atp-faria-musetti-2026-08-19",
-   "opened_at": "2026-08-19T18:30:35.187374+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.28,
-   "leader_cost": 1400.0,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.28,
-   "ask_depth": 53448.08,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25050,6 +25032,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
+   "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
+   "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
+   "outcome": "Jaime Faria",
+   "slug": "atp-faria-musetti-2026-08-19",
+   "opened_at": "2026-08-19T18:30:35.187374+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 1400.0,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.28,
+   "ask_depth": 53448.08,
+   "status": "lost",
+   "closed_at": "2026-08-20T03:15:27.016725+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27741,6 +27745,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -511.1024999999995,
- "last_updated": "2026-08-20T01:40:27.445587+00:00"
+ "total_pnl": -611.1024999999995,
+ "last_updated": "2026-08-20T03:15:27.018297+00:00"
 }
