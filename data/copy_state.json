@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9288.897759,
  "last_seen": {
-  "jtwyslljy": 1787187345,
+  "jtwyslljy": 1787189538,
   "0x53757615de": 1786954867
  },
  "seen_keys": [
@@ -11135,6 +11135,13 @@
    "SELL",
    4662.18,
    1787187345
+  ],
+  [
+   "0x32f898fb7e5a37b755e12595f10ce5169b51bd43cda88dccc14e01e4708b20c6",
+   "53105098760741468994257631844270816275107280190488219064636905890582753677908",
+   "BUY",
+   1999.99,
+   1787189538
   ]
  ],
  "leader_pos": {
@@ -17733,10 +17740,10 @@
    "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
    "outcome": "Jaime Faria",
    "slug": "atp-faria-musetti-2026-08-19",
-   "shares": 5000.0,
-   "cost": 1400.0000000000002,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1787164039
+   "shares": 6999.99,
+   "cost": 1719.9984000000002,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1787189538
   },
   "jtwyslljy|101993723280318588095269552677513614243468522914094483863215766758552749720910": {
    "leader": "jtwyslljy",
@@ -17796,24 +17803,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "12290647698074337301291235963506756707124083871104093931752326838747719465248",
-   "condition_id": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
-   "title": "Cincinnati Open: Madison Keys vs Xiyu Wang",
-   "outcome": "Xiyu Wang",
-   "slug": "wta-keys-wan-2026-08-19",
-   "opened_at": "2026-08-19T17:30:36.403350+00:00",
-   "entry_price": 0.23,
-   "shares": 434.7826,
-   "stake": 100.0,
-   "leader_vwap": 0.23,
-   "leader_cost": 1725.0,
-   "copy_delay_min": 3.0,
-   "best_ask": 0.23,
-   "ask_depth": 4160.76,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "53105098760741468994257631844270816275107280190488219064636905890582753677908",
    "condition_id": "0xd13611826e213e4799922c893edb1057e19f30f96162b1faa992de96a77fe421",
    "title": "Cincinnati Open: Jaime Faria vs Lorenzo Musetti",
@@ -17828,24 +17817,6 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.28,
    "ask_depth": 53448.08,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "63990314594874252197435788747008410881995594688602708800696005344349769449361",
-   "condition_id": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
-   "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-nakashi-2026-08-19",
-   "opened_at": "2026-08-19T18:35:22.005340+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 1230.0,
-   "copy_delay_min": 7.6,
-   "best_ask": 0.41,
-   "ask_depth": 40966.63,
    "status": "open"
   }
  ],
@@ -25035,6 +25006,50 @@
    "exit_price": 0.33,
    "pnl": -5.7143,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12290647698074337301291235963506756707124083871104093931752326838747719465248",
+   "condition_id": "0x21c5344608988eb6c3e5d6f9082d3bfb353fa963171363754e6d2ff3c0d0533f",
+   "title": "Cincinnati Open: Madison Keys vs Xiyu Wang",
+   "outcome": "Xiyu Wang",
+   "slug": "wta-keys-wan-2026-08-19",
+   "opened_at": "2026-08-19T17:30:36.403350+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1725.0,
+   "copy_delay_min": 3.0,
+   "best_ask": 0.23,
+   "ask_depth": 4160.76,
+   "status": "lost",
+   "closed_at": "2026-08-20T01:40:27.178189+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "63990314594874252197435788747008410881995594688602708800696005344349769449361",
+   "condition_id": "0x7e054991016aee3bb2045ca5a36b519489859934e558445d1349c5c7f5146007",
+   "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-nakashi-2026-08-19",
+   "opened_at": "2026-08-19T18:35:22.005340+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1230.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.41,
+   "ask_depth": 40966.63,
+   "status": "lost",
+   "closed_at": "2026-08-20T01:40:27.444150+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -27726,6 +27741,6 @@
    "outcome": "Thiago Agustin Tirante"
   }
  ],
- "total_pnl": -311.1024999999995,
- "last_updated": "2026-08-20T01:05:19.163912+00:00"
+ "total_pnl": -511.1024999999995,
+ "last_updated": "2026-08-20T01:40:27.445587+00:00"
 }
