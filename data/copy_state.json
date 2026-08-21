@@ -18041,24 +18041,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "39954337057029259182701291329285685818347478237523360641807434928762098614784",
-   "condition_id": "0x3bae865f39fd0cc48f2fe2e751567bff85a09a195ff6661a92b376daee3d9351",
-   "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
-   "outcome": "Elena Rybakina",
-   "slug": "wta-swiatek-rybakin-2026-08-20",
-   "opened_at": "2026-08-20T14:20:27.096343+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 989.0,
-   "copy_delay_min": 8.6,
-   "best_ask": 0.43,
-   "ask_depth": 16958.96,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25401,6 +25383,28 @@
    "exit_price": 1.0,
    "pnl": 143.9024,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39954337057029259182701291329285685818347478237523360641807434928762098614784",
+   "condition_id": "0x3bae865f39fd0cc48f2fe2e751567bff85a09a195ff6661a92b376daee3d9351",
+   "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-swiatek-rybakin-2026-08-20",
+   "opened_at": "2026-08-20T14:20:27.096343+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 989.0,
+   "copy_delay_min": 8.6,
+   "best_ask": 0.43,
+   "ask_depth": 16958.96,
+   "status": "lost",
+   "closed_at": "2026-08-21T01:45:03.296607+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28122,6 +28126,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": -480.6041999999995,
- "last_updated": "2026-08-20T22:25:21.011193+00:00"
+ "total_pnl": -580.6041999999995,
+ "last_updated": "2026-08-21T01:45:03.298432+00:00"
 }
