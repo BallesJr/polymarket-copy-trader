@@ -18105,24 +18105,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "55781785968272072489226205458484434878422066591396814463332696100033340271215",
-   "condition_id": "0x8f172fca6b16f787f6a859ef9bc918dcf80eee45cb55baf434e67f7588d77bdf",
-   "title": "Will Arsenal FC win on 2026-08-21?",
-   "outcome": "No",
-   "slug": "epl-ars-cov-2026-08-21",
-   "opened_at": "2026-08-21T17:20:23.042076+00:00",
-   "entry_price": 0.19,
-   "shares": 526.3158,
-   "stake": 100.0,
-   "leader_vwap": 0.19,
-   "leader_cost": 9498.1,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.19,
-   "ask_depth": 50645.86,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25509,6 +25491,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55781785968272072489226205458484434878422066591396814463332696100033340271215",
+   "condition_id": "0x8f172fca6b16f787f6a859ef9bc918dcf80eee45cb55baf434e67f7588d77bdf",
+   "title": "Will Arsenal FC win on 2026-08-21?",
+   "outcome": "No",
+   "slug": "epl-ars-cov-2026-08-21",
+   "opened_at": "2026-08-21T17:20:23.042076+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 9498.1,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.19,
+   "ask_depth": 50645.86,
+   "status": "lost",
+   "closed_at": "2026-08-21T21:20:26.321299+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28230,6 +28234,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": -680.6041999999995,
- "last_updated": "2026-08-21T17:20:23.300707+00:00"
+ "total_pnl": -780.6041999999995,
+ "last_updated": "2026-08-21T21:20:26.322445+00:00"
 }
