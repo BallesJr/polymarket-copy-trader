@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9319.39601,
+ "bankroll": 9219.39601,
  "last_seen": {
-  "jtwyslljy": 1787308231,
+  "jtwyslljy": 1787308690,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11289,6 +11289,13 @@
    "BUY",
    55,
    1787308231
+  ],
+  [
+   "0x195f564d12508987142aecd8d50f061d77a32d37072c100c70b29b892272a6e7",
+   "58553509037633931763239231673662582020087629820842186962996633033005756337300",
+   "BUY",
+   2000,
+   1787308690
   ]
  ],
  "leader_pos": {
@@ -18047,6 +18054,18 @@
    "cost": 21.996000000000002,
    "max_shares": 274.95,
    "last_trade_ts": 1787308231
+  },
+  "jtwyslljy|58553509037633931763239231673662582020087629820842186962996633033005756337300": {
+   "leader": "jtwyslljy",
+   "asset": "58553509037633931763239231673662582020087629820842186962996633033005756337300",
+   "condition_id": "0xa05862606d887ed25719559a79356af1622917172cb1eeb07dec0916ccbdb027",
+   "title": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-kt-t1-2026-08-21",
+   "shares": 2000.0,
+   "cost": 580.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1787308690
   }
  },
  "positions": [
@@ -18066,6 +18085,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58553509037633931763239231673662582020087629820842186962996633033005756337300",
+   "condition_id": "0xa05862606d887ed25719559a79356af1622917172cb1eeb07dec0916ccbdb027",
+   "title": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-kt-t1-2026-08-21",
+   "opened_at": "2026-08-21T10:40:24.745676+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 580.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.29,
+   "ask_depth": 183924.09,
    "status": "open"
   }
  ],
@@ -28153,5 +28190,5 @@
   }
  ],
  "total_pnl": -580.6041999999995,
- "last_updated": "2026-08-21T10:35:21.635775+00:00"
+ "last_updated": "2026-08-21T10:40:25.047274+00:00"
 }
