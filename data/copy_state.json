@@ -18086,24 +18086,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "58553509037633931763239231673662582020087629820842186962996633033005756337300",
-   "condition_id": "0xa05862606d887ed25719559a79356af1622917172cb1eeb07dec0916ccbdb027",
-   "title": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group",
-   "outcome": "KT Rolster",
-   "slug": "lol-kt-t1-2026-08-21",
-   "opened_at": "2026-08-21T10:40:24.745676+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 580.0,
-   "copy_delay_min": 2.2,
-   "best_ask": 0.29,
-   "ask_depth": 183924.09,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25468,6 +25450,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "58553509037633931763239231673662582020087629820842186962996633033005756337300",
+   "condition_id": "0xa05862606d887ed25719559a79356af1622917172cb1eeb07dec0916ccbdb027",
+   "title": "LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "KT Rolster",
+   "slug": "lol-kt-t1-2026-08-21",
+   "opened_at": "2026-08-21T10:40:24.745676+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 580.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.29,
+   "ask_depth": 183924.09,
+   "status": "lost",
+   "closed_at": "2026-08-21T16:35:22.226465+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28189,6 +28193,6 @@
    "outcome": "B8"
   }
  ],
- "total_pnl": -580.6041999999995,
- "last_updated": "2026-08-21T10:40:25.047274+00:00"
+ "total_pnl": -680.6041999999995,
+ "last_updated": "2026-08-21T16:35:22.228106+00:00"
 }
