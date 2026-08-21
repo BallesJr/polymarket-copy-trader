@@ -313,21 +313,33 @@ def cycle(st):
 
     for k in entry_keys:
         lp = st["leader_pos"][k]
+        # priced before the in_play check so a skip can record the fill it would
+        # have got: reconstructing it later from last-trade prices overstates the
+        # shadow portfolio (in-play spreads are wide), which biases the
+        # copies-vs-skips comparison against the filter.
+        ask, ask_sz = best(books.get(lp["asset"]), "asks")
+        vwap = lp["cost"] / lp["shares"] if lp["shares"] > 0 else None
+        limit_px = min(MAX_PRICE, vwap + MAX_CHASE) if vwap is not None else MAX_PRICE
+        shares, cost = sim_fill(books.get(lp["asset"]), "asks", budget=STAKE_USD, limit_px=limit_px)
+
         gst = game_start_ts(lp["condition_id"])
         if gst is not None and now_ts() >= gst:
+            # cf_would_enter: the other entry gates, so the counterfactual only
+            # counts trades the bot would actually have taken but for in_play
             st["skips"].append({"at": iso(), "reason": "in_play", "game_start": iso(gst),
-                                "condition_id": lp["condition_id"],
+                                "condition_id": lp["condition_id"], "asset": lp["asset"],
                                 "copy_delay_min": round((t0 - lp["last_trade_ts"]) / 60, 1),
+                                "cf_ask": ask, "cf_shares": round(shares, 4),
+                                "cf_cost": round(cost, 2),
+                                "cf_entry": round(cost / shares, 4) if shares > 0 else None,
+                                "cf_would_enter": (ask is not None and MIN_PRICE <= ask <= MAX_PRICE
+                                                   and cost >= STAKE_USD * 0.999),
                                 **{x: lp[x] for x in ("leader", "title", "outcome")}})
             print(f"  [SKIP in_play] {lp['title'][:45]} started {iso(gst)}")
             continue
-        ask, ask_sz = best(books.get(lp["asset"]), "asks")
-        vwap = lp["cost"] / lp["shares"] if lp["shares"] > 0 else None
         if ask is None or not (MIN_PRICE <= ask <= MAX_PRICE):
             st["skips"].append({"at": iso(), "reason": "no_book_or_extreme", "ask": ask, **{x: lp[x] for x in ("leader", "title", "outcome")}})
             continue
-        limit_px = min(MAX_PRICE, vwap + MAX_CHASE) if vwap is not None else MAX_PRICE
-        shares, cost = sim_fill(books.get(lp["asset"]), "asks", budget=STAKE_USD, limit_px=limit_px)
         if cost < STAKE_USD * 0.999:
             reason = "chase" if shares <= 0 else "thin_book"
             st["skips"].append({"at": iso(), "reason": reason, "ask": ask, "fillable_usd": round(cost, 2),
