@@ -18188,24 +18188,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "107949259451799158451654813666177003375197141591389308439068107520469405477421",
-   "condition_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
-   "title": "Will FC Internazionale Milano win on 2026-08-22?",
-   "outcome": "No",
-   "slug": "sea-int-mon-2026-08-22",
-   "opened_at": "2026-08-22T14:45:22.951760+00:00",
-   "entry_price": 0.18,
-   "shares": 555.5556,
-   "stake": 100.0,
-   "leader_vwap": 0.17,
-   "leader_cost": 1530.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.18,
-   "ask_depth": 31028.42,
-   "status": "open"
   }
  ],
  "closed": [
@@ -25636,6 +25618,28 @@
    "exit_price": 1.0,
    "pnl": 244.8276,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107949259451799158451654813666177003375197141591389308439068107520469405477421",
+   "condition_id": "0x8a24f97a20f511de4e6d13d8317e78d95ec7753e3f359434e4ac6e3f7bb13a9b",
+   "title": "Will FC Internazionale Milano win on 2026-08-22?",
+   "outcome": "No",
+   "slug": "sea-int-mon-2026-08-22",
+   "opened_at": "2026-08-22T14:45:22.951760+00:00",
+   "entry_price": 0.18,
+   "shares": 555.5556,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 1530.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.18,
+   "ask_depth": 31028.42,
+   "status": "lost",
+   "closed_at": "2026-08-22T18:50:28.421943+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28389,6 +28393,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -535.7765999999996,
- "last_updated": "2026-08-22T16:40:25.405921+00:00"
+ "total_pnl": -635.7765999999996,
+ "last_updated": "2026-08-22T18:50:28.423587+00:00"
 }
