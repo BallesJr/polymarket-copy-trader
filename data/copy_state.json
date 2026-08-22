@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9264.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787409496,
+  "jtwyslljy": 1787411956,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11324,6 +11324,13 @@
    "BUY",
    9000,
    1787409496
+  ],
+  [
+   "0x7197875baa038d4b986d96c6202e1f9c3f44ea2f80126540574aac9ab7991661",
+   "97986244429993405301006613239860350847262749399039648046285499627250726259070",
+   "BUY",
+   7000,
+   1787411956
   ]
  ],
  "leader_pos": {
@@ -18130,6 +18137,18 @@
    "cost": 1530.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1787409496
+  },
+  "jtwyslljy|97986244429993405301006613239860350847262749399039648046285499627250726259070": {
+   "leader": "jtwyslljy",
+   "asset": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
+   "condition_id": "0xaea50c46b138456d358138b2c1737f22cc692ac199e2cfa0c1e86e2babf9e37b",
+   "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-fut-2026-08-22",
+   "shares": 7000.0,
+   "cost": 3220.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1787411956
   }
  },
  "positions": [
@@ -28317,8 +28336,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: B8 vs Spirit (BO3) - Esports World Cup Playoffs",
    "outcome": "B8"
+  },
+  {
+   "at": "2026-08-22T15:25:23.038474+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-22T14:10:00+00:00",
+   "condition_id": "0xaea50c46b138456d358138b2c1737f22cc692ac199e2cfa0c1e86e2babf9e37b",
+   "asset": "97986244429993405301006613239860350847262749399039648046285499627250726259070",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+   "outcome": "FURIA"
   }
  ],
  "total_pnl": -535.7765999999996,
- "last_updated": "2026-08-22T14:45:23.267502+00:00"
+ "last_updated": "2026-08-22T15:25:23.290009+00:00"
 }
