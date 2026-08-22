@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9264.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787411956,
+  "jtwyslljy": 1787416363,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11331,6 +11331,13 @@
    "BUY",
    7000,
    1787411956
+  ],
+  [
+   "0xdd6127e2f4a867cfeb4bf5a83b82ac46e309a9ea4422d62d166155cefa1c4d02",
+   "106097507563207366656128211272102606813640480566040502556739122593152799405537",
+   "BUY",
+   2230.99,
+   1787416363
   ]
  ],
  "leader_pos": {
@@ -18149,6 +18156,18 @@
    "cost": 3220.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1787411956
+  },
+  "jtwyslljy|106097507563207366656128211272102606813640480566040502556739122593152799405537": {
+   "leader": "jtwyslljy",
+   "asset": "106097507563207366656128211272102606813640480566040502556739122593152799405537",
+   "condition_id": "0x7c6cd7a3bc858e069d886098c7909b2c733a7f8f586f72a012eb56f7a6686fcb",
+   "title": "Will Brentford FC win on 2026-08-22?",
+   "outcome": "No",
+   "slug": "epl-bre-tot-2026-08-22",
+   "shares": 2230.99,
+   "cost": 1179.204800034006,
+   "max_shares": 2230.99,
+   "last_trade_ts": 1787416363
   }
  },
  "positions": [
@@ -28352,8 +28371,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
    "outcome": "FURIA"
+  },
+  {
+   "at": "2026-08-22T16:40:25.105350+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-22T16:30:00+00:00",
+   "condition_id": "0x7c6cd7a3bc858e069d886098c7909b2c733a7f8f586f72a012eb56f7a6686fcb",
+   "asset": "106097507563207366656128211272102606813640480566040502556739122593152799405537",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.49,
+   "cf_shares": 204.0816,
+   "cf_cost": 100.0,
+   "cf_entry": 0.49,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Brentford FC win on 2026-08-22?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -535.7765999999996,
- "last_updated": "2026-08-22T15:25:23.290009+00:00"
+ "last_updated": "2026-08-22T16:40:25.405921+00:00"
 }
