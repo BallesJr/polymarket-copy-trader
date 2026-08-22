@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9119.39601,
+ "bankroll": 9019.39601,
  "last_seen": {
-  "jtwyslljy": 1787332431,
+  "jtwyslljy": 1787395711,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11303,6 +11303,13 @@
    "BUY",
    49990,
    1787332431
+  ],
+  [
+   "0x97f7b74d3a98666178bf0f522260cd29d0c41b68d568dd526a2b5879c5883682",
+   "33675515372785133828554002831769509345534725525339163755362161424943422616600",
+   "BUY",
+   38972.95,
+   1787395711
   ]
  ],
  "leader_pos": {
@@ -18085,6 +18092,18 @@
    "cost": 9498.1,
    "max_shares": 49990.0,
    "last_trade_ts": 1787332431
+  },
+  "jtwyslljy|33675515372785133828554002831769509345534725525339163755362161424943422616600": {
+   "leader": "jtwyslljy",
+   "asset": "33675515372785133828554002831769509345534725525339163755362161424943422616600",
+   "condition_id": "0xb3994763c19cc41c329430af07f902ee95a339acbfbfff0065148f350097ca0d",
+   "title": "Will Manchester United FC win on 2026-08-22?",
+   "outcome": "No",
+   "slug": "epl-hul-mun-2026-08-22",
+   "shares": 38972.95,
+   "cost": 10912.426,
+   "max_shares": 38972.95,
+   "last_trade_ts": 1787395711
   }
  },
  "positions": [
@@ -18104,6 +18123,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33675515372785133828554002831769509345534725525339163755362161424943422616600",
+   "condition_id": "0xb3994763c19cc41c329430af07f902ee95a339acbfbfff0065148f350097ca0d",
+   "title": "Will Manchester United FC win on 2026-08-22?",
+   "outcome": "No",
+   "slug": "epl-hul-mun-2026-08-22",
+   "opened_at": "2026-08-22T10:50:27.041121+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 10912.43,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.29,
+   "ask_depth": 101409.96,
    "status": "open"
   }
  ],
@@ -28235,5 +28272,5 @@
   }
  ],
  "total_pnl": -780.6041999999995,
- "last_updated": "2026-08-21T21:20:26.322445+00:00"
+ "last_updated": "2026-08-22T10:50:27.327669+00:00"
 }
