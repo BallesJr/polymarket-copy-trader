@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9164.223610000001,
+ "bankroll": 9364.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787493013,
+  "jtwyslljy": 1787497704,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11478,6 +11478,13 @@
    "SELL",
    138,
    1787493013
+  ],
+  [
+   "0xaf31d6da7328272ecc55aa1f4ee514b0ce118372b358da906444498f63bc4630",
+   "19465042376938046370645996978533178856094756007616213764056773203745426378137",
+   "BUY",
+   1999.99,
+   1787497704
   ]
  ],
  "leader_pos": {
@@ -18380,6 +18387,18 @@
    "cost": 1089.4920999041701,
    "max_shares": 5928.35,
    "last_trade_ts": 1787493013
+  },
+  "jtwyslljy|19465042376938046370645996978533178856094756007616213764056773203745426378137": {
+   "leader": "jtwyslljy",
+   "asset": "19465042376938046370645996978533178856094756007616213764056773203745426378137",
+   "condition_id": "0xcadb1942623d7a37bf86833af324e80125ee32d2db9e2d1a664f4a0622a5970f",
+   "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-23?",
+   "outcome": "Yes",
+   "slug": "lal-mad-vil-2026-08-23",
+   "shares": 1999.99,
+   "cost": 1119.9944,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1787497704
   }
  },
  "positions": [
@@ -18399,24 +18418,6 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "62544970405809567140889021892280183888833398602606646583475871592850798992814",
-   "condition_id": "0x4979aea56ca8ab86f7346775df8e942156238c300370b03420477d0237f521e3",
-   "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
-   "outcome": "Nongshim Red Force",
-   "slug": "lol-fox1-ns-2026-08-23",
-   "opened_at": "2026-08-23T05:40:26.827992+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 8329.73,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.5,
-   "ask_depth": 745.97,
    "status": "open"
   }
  ],
@@ -25870,6 +25871,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62544970405809567140889021892280183888833398602606646583475871592850798992814",
+   "condition_id": "0x4979aea56ca8ab86f7346775df8e942156238c300370b03420477d0237f521e3",
+   "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-fox1-ns-2026-08-23",
+   "opened_at": "2026-08-23T05:40:26.827992+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 8329.73,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.5,
+   "ask_depth": 745.97,
+   "status": "won",
+   "closed_at": "2026-08-23T15:15:27.575944+00:00",
+   "exit_price": 1.0,
+   "pnl": 100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28701,8 +28724,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-08-23T15:15:27.060829+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-23T15:00:00+00:00",
+   "condition_id": "0xcadb1942623d7a37bf86833af324e80125ee32d2db9e2d1a664f4a0622a5970f",
+   "asset": "19465042376938046370645996978533178856094756007616213764056773203745426378137",
+   "copy_delay_min": 7.0,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-23?",
+   "outcome": "Yes"
   }
  ],
- "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-23T13:53:42.300460+00:00"
+ "total_pnl": -535.7765999999996,
+ "last_updated": "2026-08-23T15:15:27.577614+00:00"
 }
