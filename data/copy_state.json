@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787463286,
+  "jtwyslljy": 1787473111,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11345,6 +11345,13 @@
    "BUY",
    17353.6,
    1787463286
+  ],
+  [
+   "0xfd76bee7053f11feedbabc463865ccaaf48b1ef5d169e3240653d1b1723f60ee",
+   "105717336415824188396323710698848701902178478068973000541904427172521007243289",
+   "BUY",
+   2300,
+   1787473111
   ]
  ],
  "leader_pos": {
@@ -18187,6 +18194,18 @@
    "cost": 8329.728,
    "max_shares": 17353.6,
    "last_trade_ts": 1787463286
+  },
+  "jtwyslljy|105717336415824188396323710698848701902178478068973000541904427172521007243289": {
+   "leader": "jtwyslljy",
+   "asset": "105717336415824188396323710698848701902178478068973000541904427172521007243289",
+   "condition_id": "0x0ba31a59ae7b92571ff0f2a6f5bf8843fa88d5c9f4d0d962d21917ba0b2bdb42",
+   "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+   "outcome": "TEAM VISION",
+   "slug": "dota2-vsn2-ts8-2026-08-23",
+   "shares": 2300.0,
+   "cost": 713.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1787473111
   }
  },
  "positions": [
@@ -28428,8 +28447,24 @@
    "leader": "jtwyslljy",
    "title": "Will Brentford FC win on 2026-08-22?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-23T08:25:21.685947+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-23T06:15:00+00:00",
+   "condition_id": "0x0ba31a59ae7b92571ff0f2a6f5bf8843fa88d5c9f4d0d962d21917ba0b2bdb42",
+   "asset": "105717336415824188396323710698848701902178478068973000541904427172521007243289",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.35,
+   "cf_shares": 280.0833,
+   "cf_cost": 100.0,
+   "cf_entry": 0.357,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+   "outcome": "TEAM VISION"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-23T05:40:27.196004+00:00"
+ "last_updated": "2026-08-23T08:25:21.830932+00:00"
 }
