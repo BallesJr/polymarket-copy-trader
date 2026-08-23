@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787473111,
+  "jtwyslljy": 1787474427,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11352,6 +11352,13 @@
    "BUY",
    2300,
    1787473111
+  ],
+  [
+   "0x4683b6ac75a6a8b656a4d1d7485ff98ea29b9f2dff477555df5353f4852f66e9",
+   "29451212288942523875866073520699179285456273964613514019907022730480080601755",
+   "BUY",
+   3000,
+   1787474427
   ]
  ],
  "leader_pos": {
@@ -18206,6 +18213,18 @@
    "cost": 713.0,
    "max_shares": 2300.0,
    "last_trade_ts": 1787473111
+  },
+  "jtwyslljy|29451212288942523875866073520699179285456273964613514019907022730480080601755": {
+   "leader": "jtwyslljy",
+   "asset": "29451212288942523875866073520699179285456273964613514019907022730480080601755",
+   "condition_id": "0x16c03919efa35dee2d85cb642f8e060f501b4fc9cc2f910f656107ba2df34417",
+   "title": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "T1",
+   "slug": "lol-hle1-t1-2026-08-23",
+   "shares": 3000.0,
+   "cost": 750.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1787474427
   }
  },
  "positions": [
@@ -28463,8 +28482,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
    "outcome": "TEAM VISION"
+  },
+  {
+   "at": "2026-08-23T08:45:22.502143+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-23T08:00:00+00:00",
+   "condition_id": "0x16c03919efa35dee2d85cb642f8e060f501b4fc9cc2f910f656107ba2df34417",
+   "asset": "29451212288942523875866073520699179285456273964613514019907022730480080601755",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group",
+   "outcome": "T1"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-23T08:25:21.830932+00:00"
+ "last_updated": "2026-08-23T08:45:22.675010+00:00"
 }
