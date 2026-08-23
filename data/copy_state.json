@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9264.223610000001,
+ "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787416363,
+  "jtwyslljy": 1787463286,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11338,6 +11338,13 @@
    "BUY",
    2230.99,
    1787416363
+  ],
+  [
+   "0xb25e7713d49a5ec599497860a849e70d2d0689908f4060852251a545de72a33d",
+   "62544970405809567140889021892280183888833398602606646583475871592850798992814",
+   "BUY",
+   17353.6,
+   1787463286
   ]
  ],
  "leader_pos": {
@@ -18168,6 +18175,18 @@
    "cost": 1179.204800034006,
    "max_shares": 2230.99,
    "last_trade_ts": 1787416363
+  },
+  "jtwyslljy|62544970405809567140889021892280183888833398602606646583475871592850798992814": {
+   "leader": "jtwyslljy",
+   "asset": "62544970405809567140889021892280183888833398602606646583475871592850798992814",
+   "condition_id": "0x4979aea56ca8ab86f7346775df8e942156238c300370b03420477d0237f521e3",
+   "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-fox1-ns-2026-08-23",
+   "shares": 17353.6,
+   "cost": 8329.728,
+   "max_shares": 17353.6,
+   "last_trade_ts": 1787463286
   }
  },
  "positions": [
@@ -18187,6 +18206,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62544970405809567140889021892280183888833398602606646583475871592850798992814",
+   "condition_id": "0x4979aea56ca8ab86f7346775df8e942156238c300370b03420477d0237f521e3",
+   "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-fox1-ns-2026-08-23",
+   "opened_at": "2026-08-23T05:40:26.827992+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 8329.73,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.5,
+   "ask_depth": 745.97,
    "status": "open"
   }
  ],
@@ -28394,5 +28431,5 @@
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-22T18:50:28.423587+00:00"
+ "last_updated": "2026-08-23T05:40:27.196004+00:00"
 }
