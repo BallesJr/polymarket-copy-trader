@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787482923,
+  "jtwyslljy": 1787486868,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11387,6 +11387,13 @@
    "BUY",
    3351.95,
    1787482923
+  ],
+  [
+   "0xced27965759f27dfbfa7e13fe9f22d9ac24b60541690fd86fb8c893aff606c25",
+   "67819071028010921288544697428644386023361410661023810587705450609789144619567",
+   "BUY",
+   5000,
+   1787486868
   ]
  ],
  "leader_pos": {
@@ -18265,6 +18272,18 @@
    "cost": 1057.958399928355,
    "max_shares": 4326.2,
    "last_trade_ts": 1787482923
+  },
+  "jtwyslljy|67819071028010921288544697428644386023361410661023810587705450609789144619567": {
+   "leader": "jtwyslljy",
+   "asset": "67819071028010921288544697428644386023361410661023810587705450609789144619567",
+   "condition_id": "0x65e192c00f6ffe5e487ada218f0792aa5ce0a9d1017360ad21ac7d95ef54324a",
+   "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+   "outcome": "FUT Esports",
+   "slug": "cs2-fut-ts7-2026-08-23",
+   "shares": 5000.0,
+   "cost": 1250.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787486868
   }
  },
  "positions": [
@@ -28554,8 +28573,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
    "outcome": "FURIA"
+  },
+  {
+   "at": "2026-08-23T12:15:26.880749+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-23T12:05:00+00:00",
+   "condition_id": "0x65e192c00f6ffe5e487ada218f0792aa5ce0a9d1017360ad21ac7d95ef54324a",
+   "asset": "67819071028010921288544697428644386023361410661023810587705450609789144619567",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.26,
+   "cf_shares": 371.4074,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2692,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+   "outcome": "FUT Esports"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-23T11:05:19.242300+00:00"
+ "last_updated": "2026-08-23T12:15:27.200319+00:00"
 }
