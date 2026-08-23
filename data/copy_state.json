@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787478750,
+  "jtwyslljy": 1787482923,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11366,6 +11366,27 @@
    "BUY",
    12000,
    1787478750
+  ],
+  [
+   "0x2f5f9886b040bfab66690426aaac905d1bbce32454e75d18c461eb62072bfd49",
+   "56752268543981756264950774127128093596220504706047536986577909793640924344722",
+   "BUY",
+   288.98,
+   1787482839
+  ],
+  [
+   "0x9f4f745d2b5a5b68d018dc57c9051e585b601f90a2a78a674d79f0ee0a6ba948",
+   "56752268543981756264950774127128093596220504706047536986577909793640924344722",
+   "BUY",
+   685.27,
+   1787482906
+  ],
+  [
+   "0x24ed37872e590c3f548dabc4b428a8ea29f19d7efd4c1efe182edbacd23fc56e",
+   "56752268543981756264950774127128093596220504706047536986577909793640924344722",
+   "BUY",
+   3351.95,
+   1787482923
   ]
  ],
  "leader_pos": {
@@ -18232,6 +18253,18 @@
    "cost": 750.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1787474427
+  },
+  "jtwyslljy|56752268543981756264950774127128093596220504706047536986577909793640924344722": {
+   "leader": "jtwyslljy",
+   "asset": "56752268543981756264950774127128093596220504706047536986577909793640924344722",
+   "condition_id": "0x304f367fa5c9a0b0136570368ca1648dc7ea53f51446bf8163077a67b2bae3ae",
+   "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-lgc-2026-08-23",
+   "shares": 4326.2,
+   "cost": 1057.958399928355,
+   "max_shares": 4326.2,
+   "last_trade_ts": 1787482923
   }
  },
  "positions": [
@@ -28505,8 +28538,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group",
    "outcome": "T1"
+  },
+  {
+   "at": "2026-08-23T11:05:19.082269+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-23T08:00:00+00:00",
+   "condition_id": "0x304f367fa5c9a0b0136570368ca1648dc7ea53f51446bf8163077a67b2bae3ae",
+   "asset": "56752268543981756264950774127128093596220504706047536986577909793640924344722",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.11,
+   "cf_shares": 846.0833,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1182,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
+   "outcome": "FURIA"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-23T10:00:40.685373+00:00"
+ "last_updated": "2026-08-23T11:05:19.242300+00:00"
 }
