@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9364.223610000001,
+ "bankroll": 9264.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787501149,
+  "jtwyslljy": 1787584534,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11534,6 +11534,13 @@
    "SELL",
    121,
    1787501149
+  ],
+  [
+   "0xad1dc619fd53a14f84f0c1f20e4fcfb06b4ba3b4ce0a32945983625be9284147",
+   "12053056217068383476156887718679104051518485295387603291161271603503170433366",
+   "BUY",
+   10500,
+   1787584534
   ]
  ],
  "leader_pos": {
@@ -18472,6 +18479,18 @@
    "cost": 0.0,
    "max_shares": 121.0,
    "last_trade_ts": 1787501149
+  },
+  "jtwyslljy|12053056217068383476156887718679104051518485295387603291161271603503170433366": {
+   "leader": "jtwyslljy",
+   "asset": "12053056217068383476156887718679104051518485295387603291161271603503170433366",
+   "condition_id": "0xe945f7138a82949a0cfa2afdfa4a52f935fb7960c294cdcd13b427ca2ec92357",
+   "title": "Will Chelsea FC win on 2026-08-24?",
+   "outcome": "No",
+   "slug": "epl-ful-che-2026-08-24",
+   "shares": 10500.0,
+   "cost": 5250.0,
+   "max_shares": 10500.0,
+   "last_trade_ts": 1787584534
   }
  },
  "positions": [
@@ -18491,6 +18510,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12053056217068383476156887718679104051518485295387603291161271603503170433366",
+   "condition_id": "0xe945f7138a82949a0cfa2afdfa4a52f935fb7960c294cdcd13b427ca2ec92357",
+   "title": "Will Chelsea FC win on 2026-08-24?",
+   "outcome": "No",
+   "slug": "epl-ful-che-2026-08-24",
+   "opened_at": "2026-08-24T15:25:19.941653+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 5250.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.5,
+   "ask_depth": 223221.52,
    "status": "open"
   }
  ],
@@ -28832,5 +28869,5 @@
   }
  ],
  "total_pnl": -535.7765999999996,
- "last_updated": "2026-08-23T16:10:26.249699+00:00"
+ "last_updated": "2026-08-24T15:25:20.226274+00:00"
 }
