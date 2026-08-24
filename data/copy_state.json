@@ -18511,24 +18511,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "12053056217068383476156887718679104051518485295387603291161271603503170433366",
-   "condition_id": "0xe945f7138a82949a0cfa2afdfa4a52f935fb7960c294cdcd13b427ca2ec92357",
-   "title": "Will Chelsea FC win on 2026-08-24?",
-   "outcome": "No",
-   "slug": "epl-ful-che-2026-08-24",
-   "opened_at": "2026-08-24T15:25:19.941653+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 5250.0,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.5,
-   "ask_depth": 223221.52,
-   "status": "open"
   }
  ],
  "closed": [
@@ -26003,6 +25985,28 @@
    "exit_price": 1.0,
    "pnl": 100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12053056217068383476156887718679104051518485295387603291161271603503170433366",
+   "condition_id": "0xe945f7138a82949a0cfa2afdfa4a52f935fb7960c294cdcd13b427ca2ec92357",
+   "title": "Will Chelsea FC win on 2026-08-24?",
+   "outcome": "No",
+   "slug": "epl-ful-che-2026-08-24",
+   "opened_at": "2026-08-24T15:25:19.941653+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 5250.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.5,
+   "ask_depth": 223221.52,
+   "status": "lost",
+   "closed_at": "2026-08-24T21:20:24.496557+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -28868,6 +28872,6 @@
    "outcome": "Anyones Legend"
   }
  ],
- "total_pnl": -535.7765999999996,
- "last_updated": "2026-08-24T15:25:20.226274+00:00"
+ "total_pnl": -635.7765999999996,
+ "last_updated": "2026-08-24T21:20:24.498473+00:00"
 }
