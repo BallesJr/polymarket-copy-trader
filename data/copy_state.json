@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787677513,
+  "jtwyslljy": 1787677789,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11583,6 +11583,13 @@
    "BUY",
    4000,
    1787677513
+  ],
+  [
+   "0x1071a684323288b78654ed87c957ae93888cd5897653226583e6f29d59e4544d",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   5673.01,
+   1787677789
   ]
  ],
  "leader_pos": {
@@ -18553,10 +18560,10 @@
    "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
    "outcome": "Luka Mikrut",
    "slug": "atp-mikrut-izquier-2026-08-25",
-   "shares": 52399.6,
-   "cost": 32805.1944,
-   "max_shares": 52399.6,
-   "last_trade_ts": 1787677513
+   "shares": 58072.61,
+   "cost": 36038.8101,
+   "max_shares": 58072.61,
+   "last_trade_ts": 1787677789
   }
  },
  "positions": [
@@ -28986,8 +28993,24 @@
    "leader": "jtwyslljy",
    "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
    "outcome": "Luka Mikrut"
+  },
+  {
+   "at": "2026-08-25T17:15:24.961507+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-25T16:55:00+00:00",
+   "condition_id": "0xffec793cff6e9048e0f0f59f082d0937d29ee87c28a91fe0a2ffa30f2c02d556",
+   "asset": "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
+   "outcome": "Luka Mikrut"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-25T17:10:24.432537+00:00"
+ "last_updated": "2026-08-25T17:15:25.336179+00:00"
 }
