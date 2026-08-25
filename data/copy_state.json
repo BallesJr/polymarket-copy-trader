@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787672058,
+  "jtwyslljy": 1787677363,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11548,6 +11548,13 @@
    "BUY",
    11850,
    1787672058
+  ],
+  [
+   "0xfed6487572c0860089e8cd4a12e5904f11433388e6b780b87f29bc9b2e500393",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   24366.1,
+   1787677363
   ]
  ],
  "leader_pos": {
@@ -18510,6 +18517,18 @@
    "cost": 6872.999999999999,
    "max_shares": 11850.0,
    "last_trade_ts": 1787672058
+  },
+  "jtwyslljy|99386529959318553471927348938428980791105237344020063673407707976212205880214": {
+   "leader": "jtwyslljy",
+   "asset": "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "condition_id": "0xffec793cff6e9048e0f0f59f082d0937d29ee87c28a91fe0a2ffa30f2c02d556",
+   "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
+   "outcome": "Luka Mikrut",
+   "slug": "atp-mikrut-izquier-2026-08-25",
+   "shares": 24366.1,
+   "cost": 15106.981999999998,
+   "max_shares": 24366.1,
+   "last_trade_ts": 1787677363
   }
  },
  "positions": [
@@ -28907,8 +28926,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-08-25T17:05:23.604034+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-25T16:55:00+00:00",
+   "condition_id": "0xffec793cff6e9048e0f0f59f082d0937d29ee87c28a91fe0a2ffa30f2c02d556",
+   "asset": "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "copy_delay_min": 2.7,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
+   "outcome": "Luka Mikrut"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-25T15:40:27.894885+00:00"
+ "last_updated": "2026-08-25T17:05:24.007298+00:00"
 }
