@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9264.223610000001,
+ "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787584534,
+  "jtwyslljy": 1787672058,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11541,6 +11541,13 @@
    "BUY",
    10500,
    1787584534
+  ],
+  [
+   "0x4265cc1ba1fd5320a39d00763cc07fed079cf97ce29fabc0785c934917175d32",
+   "100510278288959141727378919477589861455731373924453683817153693527793010564540",
+   "BUY",
+   11850,
+   1787672058
   ]
  ],
  "leader_pos": {
@@ -18491,6 +18498,18 @@
    "cost": 5250.0,
    "max_shares": 10500.0,
    "last_trade_ts": 1787584534
+  },
+  "jtwyslljy|100510278288959141727378919477589861455731373924453683817153693527793010564540": {
+   "leader": "jtwyslljy",
+   "asset": "100510278288959141727378919477589861455731373924453683817153693527793010564540",
+   "condition_id": "0xfc2375a75aa019adf9666f36dd9713f44651a4a9132ceec113a6882354f49aac",
+   "title": "Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
+   "outcome": "MH Hapoel Beer Sheva",
+   "slug": "ucl-sf-hbs-2026-08-25-more-markets",
+   "shares": 11850.0,
+   "cost": 6872.999999999999,
+   "max_shares": 11850.0,
+   "last_trade_ts": 1787672058
   }
  },
  "positions": [
@@ -18510,6 +18529,24 @@
    "copy_delay_min": 5.9,
    "best_ask": 0.38,
    "ask_depth": 6727.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100510278288959141727378919477589861455731373924453683817153693527793010564540",
+   "condition_id": "0xfc2375a75aa019adf9666f36dd9713f44651a4a9132ceec113a6882354f49aac",
+   "title": "Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
+   "outcome": "MH Hapoel Beer Sheva",
+   "slug": "ucl-sf-hbs-2026-08-25-more-markets",
+   "opened_at": "2026-08-25T15:40:27.612425+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 6873.0,
+   "copy_delay_min": 6.1,
+   "best_ask": 0.59,
+   "ask_depth": 39155.17,
    "status": "open"
   }
  ],
@@ -28873,5 +28910,5 @@
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-24T21:20:24.498473+00:00"
+ "last_updated": "2026-08-25T15:40:27.894885+00:00"
 }
