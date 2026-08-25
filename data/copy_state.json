@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787677363,
+  "jtwyslljy": 1787677513,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11555,6 +11555,34 @@
    "BUY",
    24366.1,
    1787677363
+  ],
+  [
+   "0x3b8786a4f18eb96d3a71ad3ee17c95453160375622dd0cb96e6db568daa0f90c",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   27.5,
+   1787677422
+  ],
+  [
+   "0x961f1c2f0cc3cb6923c6be42c32b7256acc6f0b96a2bdf0b3edfab8dda0073e4",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   15000,
+   1787677452
+  ],
+  [
+   "0x790e396cbc1439cd0227f2c5181aa85e738bf515184e7691fd8432940c5106a8",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   9006,
+   1787677510
+  ],
+  [
+   "0x83c73d1d6c9f0185047eea452044ef803d70292695f9a892ddb14993fc8b852c",
+   "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "BUY",
+   4000,
+   1787677513
   ]
  ],
  "leader_pos": {
@@ -18525,10 +18553,10 @@
    "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
    "outcome": "Luka Mikrut",
    "slug": "atp-mikrut-izquier-2026-08-25",
-   "shares": 24366.1,
-   "cost": 15106.981999999998,
-   "max_shares": 24366.1,
-   "last_trade_ts": 1787677363
+   "shares": 52399.6,
+   "cost": 32805.1944,
+   "max_shares": 52399.6,
+   "last_trade_ts": 1787677513
   }
  },
  "positions": [
@@ -28942,8 +28970,24 @@
    "leader": "jtwyslljy",
    "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
    "outcome": "Luka Mikrut"
+  },
+  {
+   "at": "2026-08-25T17:10:24.153225+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-25T16:55:00+00:00",
+   "condition_id": "0xffec793cff6e9048e0f0f59f082d0937d29ee87c28a91fe0a2ffa30f2c02d556",
+   "asset": "99386529959318553471927348938428980791105237344020063673407707976212205880214",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
+   "outcome": "Luka Mikrut"
   }
  ],
  "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-25T17:05:24.007298+00:00"
+ "last_updated": "2026-08-25T17:10:24.432537+00:00"
 }
