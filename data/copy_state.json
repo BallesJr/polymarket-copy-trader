@@ -18584,24 +18584,6 @@
    "best_ask": 0.38,
    "ask_depth": 6727.36,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "100510278288959141727378919477589861455731373924453683817153693527793010564540",
-   "condition_id": "0xfc2375a75aa019adf9666f36dd9713f44651a4a9132ceec113a6882354f49aac",
-   "title": "Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
-   "outcome": "MH Hapoel Beer Sheva",
-   "slug": "ucl-sf-hbs-2026-08-25-more-markets",
-   "opened_at": "2026-08-25T15:40:27.612425+00:00",
-   "entry_price": 0.59,
-   "shares": 169.4915,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 6873.0,
-   "copy_delay_min": 6.1,
-   "best_ask": 0.59,
-   "ask_depth": 39155.17,
-   "status": "open"
   }
  ],
  "closed": [
@@ -26098,6 +26080,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100510278288959141727378919477589861455731373924453683817153693527793010564540",
+   "condition_id": "0xfc2375a75aa019adf9666f36dd9713f44651a4a9132ceec113a6882354f49aac",
+   "title": "Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance",
+   "outcome": "MH Hapoel Beer Sheva",
+   "slug": "ucl-sf-hbs-2026-08-25-more-markets",
+   "opened_at": "2026-08-25T15:40:27.612425+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 6873.0,
+   "copy_delay_min": 6.1,
+   "best_ask": 0.59,
+   "ask_depth": 39155.17,
+   "status": "lost",
+   "closed_at": "2026-08-25T19:55:24.204040+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -29011,6 +29015,6 @@
    "outcome": "Luka Mikrut"
   }
  ],
- "total_pnl": -635.7765999999996,
- "last_updated": "2026-08-25T17:15:25.336179+00:00"
+ "total_pnl": -735.7765999999996,
+ "last_updated": "2026-08-25T19:55:24.205361+00:00"
 }
