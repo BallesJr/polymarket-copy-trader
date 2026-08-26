@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787706756,
+  "jtwyslljy": 1787707117,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11597,6 +11597,20 @@
    "BUY",
    2000,
    1787706756
+  ],
+  [
+   "0x5170a714f1e93395b5b1b57d227a2b8b1fa9111403b842973d6969d2d1348c94",
+   "16105665756864203891666757622817258056655689288289378364253231679527245196492",
+   "SELL",
+   2000,
+   1787707099
+  ],
+  [
+   "0xf4aca44806ddcedb3bd11fbd05e390f78dc1108871a053d60a033c08d46ee689",
+   "62446003094543320371079259053158537451083636491490104136388417477992864079097",
+   "BUY",
+   2500,
+   1787707117
   ]
  ],
  "leader_pos": {
@@ -18579,10 +18593,22 @@
    "title": "Milwaukee Brewers vs. New York Mets",
    "outcome": "Milwaukee Brewers",
    "slug": "mlb-mil-nym-2026-08-25",
-   "shares": 2000.0,
-   "cost": 500.0,
+   "shares": 0.0,
+   "cost": 180.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1787706756
+   "last_trade_ts": 1787707099
+  },
+  "jtwyslljy|62446003094543320371079259053158537451083636491490104136388417477992864079097": {
+   "leader": "jtwyslljy",
+   "asset": "62446003094543320371079259053158537451083636491490104136388417477992864079097",
+   "condition_id": "0x455017aeeb812643f1ff38fede7650be6258297043384222b28ec9c59f1cf10c",
+   "title": "Houston Astros vs. New York Yankees",
+   "outcome": "New York Yankees",
+   "slug": "mlb-hou-nyy-2026-08-25",
+   "shares": 2500.0,
+   "cost": 1500.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1787707117
   }
  },
  "positions": [
@@ -29048,8 +29074,24 @@
    "leader": "jtwyslljy",
    "title": "Milwaukee Brewers vs. New York Mets",
    "outcome": "Milwaukee Brewers"
+  },
+  {
+   "at": "2026-08-26T01:25:29.778711+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-25T23:05:00+00:00",
+   "condition_id": "0x455017aeeb812643f1ff38fede7650be6258297043384222b28ec9c59f1cf10c",
+   "asset": "62446003094543320371079259053158537451083636491490104136388417477992864079097",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.87,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Houston Astros vs. New York Yankees",
+   "outcome": "New York Yankees"
   }
  ],
  "total_pnl": -735.7765999999996,
- "last_updated": "2026-08-26T01:20:24.245802+00:00"
+ "last_updated": "2026-08-26T01:25:29.977955+00:00"
 }
