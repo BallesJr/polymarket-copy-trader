@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787710219,
+  "jtwyslljy": 1787711232,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11625,6 +11625,13 @@
    "SELL",
    4999.95,
    1787710219
+  ],
+  [
+   "0xf81f3a9cddeeb75622ae9a6ceed21a65eed1354a8a5333a1179b05904f4e472e",
+   "29980974456409178098149224403689696124955234423784071263321565391961185350500",
+   "BUY",
+   5000,
+   1787711232
   ]
  ],
  "leader_pos": {
@@ -18635,6 +18642,18 @@
    "cost": 1200.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1787710162
+  },
+  "jtwyslljy|29980974456409178098149224403689696124955234423784071263321565391961185350500": {
+   "leader": "jtwyslljy",
+   "asset": "29980974456409178098149224403689696124955234423784071263321565391961185350500",
+   "condition_id": "0xff14e839f47b1b292ee9424f5429d8fa299f6d411bc2479be53c27405095d9a7",
+   "title": "Cleveland Guardians vs. Los Angeles Angels",
+   "outcome": "Los Angeles Angels",
+   "slug": "mlb-cle-laa-2026-08-25",
+   "shares": 5000.0,
+   "cost": 4550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787711232
   }
  },
  "positions": [
@@ -29132,8 +29151,24 @@
    "leader": "jtwyslljy",
    "title": "Pittsburgh Pirates vs. San Diego Padres",
    "outcome": "Pittsburgh Pirates"
+  },
+  {
+   "at": "2026-08-26T02:30:32.203487+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-26T01:38:00+00:00",
+   "condition_id": "0xff14e839f47b1b292ee9424f5429d8fa299f6d411bc2479be53c27405095d9a7",
+   "asset": "29980974456409178098149224403689696124955234423784071263321565391961185350500",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.92,
+   "cf_shares": 108.6957,
+   "cf_cost": 100.0,
+   "cf_entry": 0.92,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Cleveland Guardians vs. Los Angeles Angels",
+   "outcome": "Los Angeles Angels"
   }
  ],
  "total_pnl": -735.7765999999996,
- "last_updated": "2026-08-26T02:15:27.470137+00:00"
+ "last_updated": "2026-08-26T02:30:32.421553+00:00"
 }
