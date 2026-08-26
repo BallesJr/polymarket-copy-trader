@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9427.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787747079,
+  "jtwyslljy": 1787757252,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11653,6 +11653,13 @@
    "BUY",
    1167.41,
    1787747079
+  ],
+  [
+   "0x40f80e06df0c22ac7a8b563ac3abf516c46009f8bb8f626999ea953698b44bda",
+   "61260111934600778252839834609794840571274330186525094940808251163190196804525",
+   "BUY",
+   999.99,
+   1787757252
   ]
  ],
  "leader_pos": {
@@ -18699,6 +18706,18 @@
    "cost": 939.520699996605,
    "max_shares": 1167.41,
    "last_trade_ts": 1787747079
+  },
+  "jtwyslljy|61260111934600778252839834609794840571274330186525094940808251163190196804525": {
+   "leader": "jtwyslljy",
+   "asset": "61260111934600778252839834609794840571274330186525094940808251163190196804525",
+   "condition_id": "0x81e11c490206e9aa982bcd4ef28539acc154f249859f77a96fefb67a94281faf",
+   "title": "US Open, Qualification WTA: Qinwen Zheng vs Clara Burel",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-burel-2026-08-26",
+   "shares": 999.99,
+   "cost": 809.9919000000001,
+   "max_shares": 999.99,
+   "last_trade_ts": 1787757252
   }
  },
  "positions": [],
@@ -29247,8 +29266,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
    "outcome": "KT Rolster"
+  },
+  {
+   "at": "2026-08-26T15:48:42.049523+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-26T15:05:00+00:00",
+   "condition_id": "0x81e11c490206e9aa982bcd4ef28539acc154f249859f77a96fefb67a94281faf",
+   "asset": "61260111934600778252839834609794840571274330186525094940808251163190196804525",
+   "copy_delay_min": 34.5,
+   "cf_ask": 0.95,
+   "cf_shares": 105.2632,
+   "cf_cost": 100.0,
+   "cf_entry": 0.95,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open, Qualification WTA: Qinwen Zheng vs Clara Burel",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -572.6186999999995,
- "last_updated": "2026-08-26T12:30:35.566315+00:00"
+ "last_updated": "2026-08-26T15:48:42.050040+00:00"
 }
