@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787707117,
+  "jtwyslljy": 1787710219,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11611,6 +11611,20 @@
    "BUY",
    2500,
    1787707117
+  ],
+  [
+   "0x100400266784e1cc8b7228c2f54f530028cc70eeebf1fdcb81d43724b8673adc",
+   "49500584393440726630578513006764767754119007025421338840531796807362086372249",
+   "BUY",
+   3000,
+   1787710162
+  ],
+  [
+   "0xe8c62b8d859f4d80d261af099abb39658cc3464fd845f556f802e6aa6f68e3b3",
+   "62446003094543320371079259053158537451083636491490104136388417477992864079097",
+   "SELL",
+   4999.95,
+   1787710219
   ]
  ],
  "leader_pos": {
@@ -18605,10 +18619,22 @@
    "title": "Houston Astros vs. New York Yankees",
    "outcome": "New York Yankees",
    "slug": "mlb-hou-nyy-2026-08-25",
-   "shares": 2500.0,
-   "cost": 1500.0,
+   "shares": -2499.95,
+   "cost": 1050.0045,
    "max_shares": 2500.0,
-   "last_trade_ts": 1787707117
+   "last_trade_ts": 1787710219
+  },
+  "jtwyslljy|49500584393440726630578513006764767754119007025421338840531796807362086372249": {
+   "leader": "jtwyslljy",
+   "asset": "49500584393440726630578513006764767754119007025421338840531796807362086372249",
+   "condition_id": "0x802764873b0f1a02f3d018d91269a0e6355db8920a8ab42a307aa06b8b3d289f",
+   "title": "Pittsburgh Pirates vs. San Diego Padres",
+   "outcome": "Pittsburgh Pirates",
+   "slug": "mlb-pit-sd-2026-08-25",
+   "shares": 3000.0,
+   "cost": 1200.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1787710162
   }
  },
  "positions": [
@@ -29090,8 +29116,24 @@
    "leader": "jtwyslljy",
    "title": "Houston Astros vs. New York Yankees",
    "outcome": "New York Yankees"
+  },
+  {
+   "at": "2026-08-26T02:15:27.248255+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-26T01:40:00+00:00",
+   "condition_id": "0x802764873b0f1a02f3d018d91269a0e6355db8920a8ab42a307aa06b8b3d289f",
+   "asset": "49500584393440726630578513006764767754119007025421338840531796807362086372249",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Pittsburgh Pirates vs. San Diego Padres",
+   "outcome": "Pittsburgh Pirates"
   }
  ],
  "total_pnl": -735.7765999999996,
- "last_updated": "2026-08-26T01:25:29.977955+00:00"
+ "last_updated": "2026-08-26T02:15:27.470137+00:00"
 }
