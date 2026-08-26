@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9164.223610000001,
  "last_seen": {
-  "jtwyslljy": 1787677789,
+  "jtwyslljy": 1787706756,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11590,6 +11590,13 @@
    "BUY",
    5673.01,
    1787677789
+  ],
+  [
+   "0xe53f2fed982a9b6d197c21758c7f6cbe3ee440710b98bce3305c62bde07b8dd5",
+   "16105665756864203891666757622817258056655689288289378364253231679527245196492",
+   "BUY",
+   2000,
+   1787706756
   ]
  ],
  "leader_pos": {
@@ -18564,6 +18571,18 @@
    "cost": 36038.8101,
    "max_shares": 58072.61,
    "last_trade_ts": 1787677789
+  },
+  "jtwyslljy|16105665756864203891666757622817258056655689288289378364253231679527245196492": {
+   "leader": "jtwyslljy",
+   "asset": "16105665756864203891666757622817258056655689288289378364253231679527245196492",
+   "condition_id": "0x9e12343e61b66ee66778d0afd33c7209f0d7fc7fe882ece7514bbf525a968973",
+   "title": "Milwaukee Brewers vs. New York Mets",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-nym-2026-08-25",
+   "shares": 2000.0,
+   "cost": 500.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1787706756
   }
  },
  "positions": [
@@ -29013,8 +29032,24 @@
    "leader": "jtwyslljy",
    "title": "US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo",
    "outcome": "Luka Mikrut"
+  },
+  {
+   "at": "2026-08-26T01:20:23.946280+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-25T23:10:00+00:00",
+   "condition_id": "0x9e12343e61b66ee66778d0afd33c7209f0d7fc7fe882ece7514bbf525a968973",
+   "asset": "16105665756864203891666757622817258056655689288289378364253231679527245196492",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. New York Mets",
+   "outcome": "Milwaukee Brewers"
   }
  ],
  "total_pnl": -735.7765999999996,
- "last_updated": "2026-08-25T19:55:24.205361+00:00"
+ "last_updated": "2026-08-26T01:20:24.245802+00:00"
 }
