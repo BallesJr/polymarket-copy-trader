@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9427.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787711232,
+  "jtwyslljy": 1787735589,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11632,6 +11632,13 @@
    "BUY",
    5000,
    1787711232
+  ],
+  [
+   "0xd8e84720a1ca6e98ac142d35737113cf5af41951e548e23220d982eba46f644e",
+   "114283985034904245274663815157465834406434237483982563654628616450508498990179",
+   "BUY",
+   5000,
+   1787735589
   ]
  ],
  "leader_pos": {
@@ -18654,6 +18661,18 @@
    "cost": 4550.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1787711232
+  },
+  "jtwyslljy|114283985034904245274663815157465834406434237483982563654628616450508498990179": {
+   "leader": "jtwyslljy",
+   "asset": "114283985034904245274663815157465834406434237483982563654628616450508498990179",
+   "condition_id": "0x734626872014bd0c544dd1f6f904414a6100565c5f2eafe8b97ac254ac21b1fb",
+   "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+   "outcome": "HANJIN BRION",
+   "slug": "lol-kt-bro2-2026-08-26",
+   "shares": 5000.0,
+   "cost": 700.0000000000001,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787735589
   }
  },
  "positions": [],
@@ -29170,8 +29189,24 @@
    "leader": "jtwyslljy",
    "title": "Cleveland Guardians vs. Los Angeles Angels",
    "outcome": "Los Angeles Angels"
+  },
+  {
+   "at": "2026-08-26T09:15:26.906159+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-26T08:00:00+00:00",
+   "condition_id": "0x734626872014bd0c544dd1f6f904414a6100565c5f2eafe8b97ac254ac21b1fb",
+   "asset": "114283985034904245274663815157465834406434237483982563654628616450508498990179",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -572.6186999999995,
- "last_updated": "2026-08-26T02:45:24.256098+00:00"
+ "last_updated": "2026-08-26T09:15:26.906592+00:00"
 }
