@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9164.223610000001,
+ "bankroll": 9427.381510000001,
  "last_seen": {
   "jtwyslljy": 1787711232,
   "0x53757615de": 1787221213
@@ -18656,26 +18656,7 @@
    "last_trade_ts": 1787711232
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "113357785535622692719190194948421196892658073988682265226395148168171517109532",
-   "condition_id": "0x0415c30d78ddcbd3575d094efad77e52a52144645c53c815e7f25d76a9dfdf42",
-   "title": "Celtic FC vs. LASK Linz: Team to Advance",
-   "outcome": "LASK Linz",
-   "slug": "ucl-cel-lin2-2026-08-19-more-markets",
-   "opened_at": "2026-08-19T17:00:45.904375+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.3675,
-   "leader_cost": 1636.85,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.38,
-   "ask_depth": 6727.36,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26192,6 +26173,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113357785535622692719190194948421196892658073988682265226395148168171517109532",
+   "condition_id": "0x0415c30d78ddcbd3575d094efad77e52a52144645c53c815e7f25d76a9dfdf42",
+   "title": "Celtic FC vs. LASK Linz: Team to Advance",
+   "outcome": "LASK Linz",
+   "slug": "ucl-cel-lin2-2026-08-19-more-markets",
+   "opened_at": "2026-08-19T17:00:45.904375+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.3675,
+   "leader_cost": 1636.85,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.38,
+   "ask_depth": 6727.36,
+   "status": "won",
+   "closed_at": "2026-08-26T02:45:24.253612+00:00",
+   "exit_price": 1.0,
+   "pnl": 163.1579,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -29169,6 +29172,6 @@
    "outcome": "Los Angeles Angels"
   }
  ],
- "total_pnl": -735.7765999999996,
- "last_updated": "2026-08-26T02:30:32.421553+00:00"
+ "total_pnl": -572.6186999999995,
+ "last_updated": "2026-08-26T02:45:24.256098+00:00"
 }
