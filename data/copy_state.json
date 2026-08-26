@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9427.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787735589,
+  "jtwyslljy": 1787747079,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11639,6 +11639,20 @@
    "BUY",
    5000,
    1787735589
+  ],
+  [
+   "0x5c21a00436c22819fd6d5763e0d6d1cd49f2d488bd4840701b7debfe622b94bb",
+   "114283985034904245274663815157465834406434237483982563654628616450508498990179",
+   "SELL",
+   5000,
+   1787747013
+  ],
+  [
+   "0x6bf7c1960d972671eedb5b20b8c59bfc811d8e5d4916c767f17bcdec6745c4d7",
+   "38180209719688990386266128934798881282414824189029243540324418795366509057128",
+   "BUY",
+   1167.41,
+   1787747079
   ]
  ],
  "leader_pos": {
@@ -18669,10 +18683,22 @@
    "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION",
    "slug": "lol-kt-bro2-2026-08-26",
-   "shares": 5000.0,
-   "cost": 700.0000000000001,
+   "shares": 0.0,
+   "cost": -130.56069999999988,
    "max_shares": 5000.0,
-   "last_trade_ts": 1787735589
+   "last_trade_ts": 1787747013
+  },
+  "jtwyslljy|38180209719688990386266128934798881282414824189029243540324418795366509057128": {
+   "leader": "jtwyslljy",
+   "asset": "38180209719688990386266128934798881282414824189029243540324418795366509057128",
+   "condition_id": "0x734626872014bd0c544dd1f6f904414a6100565c5f2eafe8b97ac254ac21b1fb",
+   "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+   "outcome": "KT Rolster",
+   "slug": "lol-kt-bro2-2026-08-26",
+   "shares": 1167.41,
+   "cost": 939.520699996605,
+   "max_shares": 1167.41,
+   "last_trade_ts": 1787747079
   }
  },
  "positions": [],
@@ -29205,8 +29231,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-08-26T12:30:35.565875+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-26T08:00:00+00:00",
+   "condition_id": "0x734626872014bd0c544dd1f6f904414a6100565c5f2eafe8b97ac254ac21b1fb",
+   "asset": "38180209719688990386266128934798881282414824189029243540324418795366509057128",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.83,
+   "cf_shares": 120.4819,
+   "cf_cost": 100.0,
+   "cf_entry": 0.83,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
+   "outcome": "KT Rolster"
   }
  ],
  "total_pnl": -572.6186999999995,
- "last_updated": "2026-08-26T09:15:26.906592+00:00"
+ "last_updated": "2026-08-26T12:30:35.566315+00:00"
 }
