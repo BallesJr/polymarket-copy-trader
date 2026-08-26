@@ -18753,26 +18753,7 @@
    "last_trade_ts": 1787769519
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "16458274828566206580394548274986620610310791912021103730179055589677523170576",
-   "condition_id": "0x244594c21b55f9f07af5a288ff9f41ff77324aa24b6fcc6f8341337c23c62806",
-   "title": "Will Real Madrid CF win on 2026-08-26?",
-   "outcome": "No",
-   "slug": "lal-rea-rso-2026-08-26",
-   "opened_at": "2026-08-26T17:55:21.205029+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 2713.2,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.2,
-   "ask_depth": 793383.12,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26311,6 +26292,28 @@
    "exit_price": 1.0,
    "pnl": 163.1579,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16458274828566206580394548274986620610310791912021103730179055589677523170576",
+   "condition_id": "0x244594c21b55f9f07af5a288ff9f41ff77324aa24b6fcc6f8341337c23c62806",
+   "title": "Will Real Madrid CF win on 2026-08-26?",
+   "outcome": "No",
+   "slug": "lal-rea-rso-2026-08-26",
+   "opened_at": "2026-08-26T17:55:21.205029+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 2713.2,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.2,
+   "ask_depth": 793383.12,
+   "status": "lost",
+   "closed_at": "2026-08-26T22:40:21.407613+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -29336,6 +29339,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -572.6186999999995,
- "last_updated": "2026-08-26T18:40:27.118558+00:00"
+ "total_pnl": -672.6186999999995,
+ "last_updated": "2026-08-26T22:40:21.409334+00:00"
 }
