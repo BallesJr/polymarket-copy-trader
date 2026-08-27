@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9127.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787839557,
+  "jtwyslljy": 1787852746,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11709,6 +11709,13 @@
    "BUY",
    7000,
    1787839557
+  ],
+  [
+   "0x12f2a478952bae55b0f01c26898b0e8fe86ccf78401af0e1a0b8fcc98346a4ce",
+   "74514313383605069102129419106365357015050833393280890281820355811699483593467",
+   "BUY",
+   2203.81,
+   1787852746
   ]
  ],
  "leader_pos": {
@@ -18827,6 +18834,18 @@
    "cost": 3010.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1787839557
+  },
+  "jtwyslljy|74514313383605069102129419106365357015050833393280890281820355811699483593467": {
+   "leader": "jtwyslljy",
+   "asset": "74514313383605069102129419106365357015050833393280890281820355811699483593467",
+   "condition_id": "0x22a21921a9dad2575c6e27979f44decb5acdc270027113da17f74a49d9a6c87e",
+   "title": "Colorado Rockies vs. Washington Nationals",
+   "outcome": "Washington Nationals",
+   "slug": "mlb-col-wsh-2026-08-27",
+   "shares": 2203.81,
+   "cost": 1696.9337,
+   "max_shares": 2203.81,
+   "last_trade_ts": 1787852746
   }
  },
  "positions": [
@@ -29482,8 +29501,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
    "outcome": "9z"
+  },
+  {
+   "at": "2026-08-27T17:55:22.734234+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-27T17:05:00+00:00",
+   "condition_id": "0x22a21921a9dad2575c6e27979f44decb5acdc270027113da17f74a49d9a6c87e",
+   "asset": "74514313383605069102129419106365357015050833393280890281820355811699483593467",
+   "copy_delay_min": 9.6,
+   "cf_ask": 0.74,
+   "cf_shares": 134.08,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7458,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Colorado Rockies vs. Washington Nationals",
+   "outcome": "Washington Nationals"
   }
  ],
  "total_pnl": -672.6186999999995,
- "last_updated": "2026-08-27T14:15:29.493637+00:00"
+ "last_updated": "2026-08-27T17:55:23.121787+00:00"
 }
