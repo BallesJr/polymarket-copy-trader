@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9327.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787769519,
+  "jtwyslljy": 1787823652,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11681,6 +11681,13 @@
    "BUY",
    3885,
    1787769519
+  ],
+  [
+   "0x40154329e5748b09ea74053c069a67e928021b740e3bfd84e67c288a93d4616b",
+   "59117402421846390716056394897803981743620133681003450876543534827345244703741",
+   "BUY",
+   2000,
+   1787823652
   ]
  ],
  "leader_pos": {
@@ -18751,6 +18758,18 @@
    "cost": 22513.2558,
    "max_shares": 123566.31,
    "last_trade_ts": 1787769519
+  },
+  "jtwyslljy|59117402421846390716056394897803981743620133681003450876543534827345244703741": {
+   "leader": "jtwyslljy",
+   "asset": "59117402421846390716056394897803981743620133681003450876543534827345244703741",
+   "condition_id": "0x1f5bdbdc5a04c08257f994a0862578cfc014af074f1f67103c9b3dccef69fae4",
+   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
+   "outcome": "Nongshim Red Force",
+   "slug": "lol-ns-fox1-2026-08-27",
+   "shares": 2000.0,
+   "cost": 1140.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1787823652
   }
  },
  "positions": [],
@@ -29337,8 +29356,24 @@
    "leader": "jtwyslljy",
    "title": "US Open, Qualification WTA: Qinwen Zheng vs Clara Burel",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-08-27T09:45:24.231613+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-27T08:00:00+00:00",
+   "condition_id": "0x1f5bdbdc5a04c08257f994a0862578cfc014af074f1f67103c9b3dccef69fae4",
+   "asset": "59117402421846390716056394897803981743620133681003450876543534827345244703741",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
+   "outcome": "Nongshim Red Force"
   }
  ],
  "total_pnl": -672.6186999999995,
- "last_updated": "2026-08-26T22:40:21.409334+00:00"
+ "last_updated": "2026-08-27T09:45:24.232069+00:00"
 }
