@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9327.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787823652,
+  "jtwyslljy": 1787835961,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11688,6 +11688,13 @@
    "BUY",
    2000,
    1787823652
+  ],
+  [
+   "0x8db27dc420b68a2b4c28b3d9f4ff0606d27c30c60c68a68a1311a69d943ecce2",
+   "58450694094541903664788960228305380353879965982118304302782026420135538265298",
+   "BUY",
+   18987.35,
+   1787835961
   ]
  ],
  "leader_pos": {
@@ -18770,6 +18777,18 @@
    "cost": 1140.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1787823652
+  },
+  "jtwyslljy|58450694094541903664788960228305380353879965982118304302782026420135538265298": {
+   "leader": "jtwyslljy",
+   "asset": "58450694094541903664788960228305380353879965982118304302782026420135538265298",
+   "condition_id": "0x7840fceeb6fdd5696d74bb46d0ea8ecc08ece146f8148c748f6b54fee92e715d",
+   "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
+   "outcome": "9z",
+   "slug": "cs2-mouz-9z-2026-08-27",
+   "shares": 18987.35,
+   "cost": 3440.5506991325046,
+   "max_shares": 18987.35,
+   "last_trade_ts": 1787835961
   }
  },
  "positions": [],
@@ -29372,8 +29391,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "Nongshim Red Force"
+  },
+  {
+   "at": "2026-08-27T13:10:27.300181+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-27T12:00:00+00:00",
+   "condition_id": "0x7840fceeb6fdd5696d74bb46d0ea8ecc08ece146f8148c748f6b54fee92e715d",
+   "asset": "58450694094541903664788960228305380353879965982118304302782026420135538265298",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.19,
+   "cf_shares": 520.286,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1922,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
+   "outcome": "9z"
   }
  ],
  "total_pnl": -672.6186999999995,
- "last_updated": "2026-08-27T09:45:24.232069+00:00"
+ "last_updated": "2026-08-27T13:10:27.300666+00:00"
 }
