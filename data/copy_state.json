@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9354.65421,
  "last_seen": {
-  "jtwyslljy": 1787855464,
+  "jtwyslljy": 1787857038,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11744,6 +11744,20 @@
    "BUY",
    155.25,
    1787855464
+  ],
+  [
+   "0x3647c0c75959fc1b592ccbba719016c60b704999cd597d554d0056a91d7574f8",
+   "87831034794557996194504916290004666323675465078207554520069695936397200210770",
+   "SELL",
+   4099.52,
+   1787857020
+  ],
+  [
+   "0xd19a6908edeb04369bf49be48c6ab983fcde779ad25b3af223cdc3764ae06cc4",
+   "99110697037331886214849854496910055453578754451629514291638787871278678427714",
+   "BUY",
+   2000,
+   1787857038
   ]
  ],
  "leader_pos": {
@@ -18882,10 +18896,22 @@
    "title": "Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B",
    "outcome": "Lynn Vision",
    "slug": "cs2-fal2-lvg-2026-08-27",
-   "shares": 3610.51,
-   "cost": 419.19705001952605,
+   "shares": -489.0100000000002,
+   "cost": -568.787269980474,
    "max_shares": 3610.51,
-   "last_trade_ts": 1787855464
+   "last_trade_ts": 1787857020
+  },
+  "jtwyslljy|99110697037331886214849854496910055453578754451629514291638787871278678427714": {
+   "leader": "jtwyslljy",
+   "asset": "99110697037331886214849854496910055453578754451629514291638787871278678427714",
+   "condition_id": "0x6cfe2f3e1398b3f36fcfee2a39f295dcab03835fcec5d38f3f8711ad4c7ac54d",
+   "title": "Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+   "outcome": "Team Falcons",
+   "slug": "cs2-fal2-lvg-2026-08-27",
+   "shares": 2000.0,
+   "cost": 1498.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1787857038
   }
  },
  "positions": [
@@ -29561,8 +29587,24 @@
    "leader": "jtwyslljy",
    "title": "Colorado Rockies vs. Washington Nationals",
    "outcome": "Washington Nationals"
+  },
+  {
+   "at": "2026-08-27T19:00:46.003374+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-27T17:10:00+00:00",
+   "condition_id": "0x6cfe2f3e1398b3f36fcfee2a39f295dcab03835fcec5d38f3f8711ad4c7ac54d",
+   "asset": "99110697037331886214849854496910055453578754451629514291638787871278678427714",
+   "copy_delay_min": 3.5,
+   "cf_ask": 0.738,
+   "cf_shares": 135.5014,
+   "cf_cost": 100.0,
+   "cf_entry": 0.738,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+   "outcome": "Team Falcons"
   }
  ],
  "total_pnl": -545.3459999999995,
- "last_updated": "2026-08-27T18:40:41.122230+00:00"
+ "last_updated": "2026-08-27T19:00:46.151636+00:00"
 }
