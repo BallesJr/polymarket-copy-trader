@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9227.381510000001,
+ "bankroll": 9127.381510000001,
  "last_seen": {
-  "jtwyslljy": 1787838262,
+  "jtwyslljy": 1787839557,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11702,6 +11702,13 @@
    "BUY",
    14000,
    1787838262
+  ],
+  [
+   "0x402dc8ec7e1fffbe1482e7d5788a6a14d10c294ed5b91008981a186c3e824f64",
+   "96356855469354545871156619640805425995192269981885912633483310168891595359056",
+   "BUY",
+   7000,
+   1787839557
   ]
  ],
  "leader_pos": {
@@ -18808,6 +18815,18 @@
    "cost": 2940.0,
    "max_shares": 14000.0,
    "last_trade_ts": 1787838262
+  },
+  "jtwyslljy|96356855469354545871156619640805425995192269981885912633483310168891595359056": {
+   "leader": "jtwyslljy",
+   "asset": "96356855469354545871156619640805425995192269981885912633483310168891595359056",
+   "condition_id": "0xc1143157dd8b1f11df1e7f76d2c1aec4b78cb3ab8cbffc48131be40fcb4aa024",
+   "title": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-fut-2026-08-27",
+   "shares": 7000.0,
+   "cost": 3010.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1787839557
   }
  },
  "positions": [
@@ -18827,6 +18846,24 @@
    "copy_delay_min": 6.2,
    "best_ask": 0.21,
    "ask_depth": 121895.09,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "96356855469354545871156619640805425995192269981885912633483310168891595359056",
+   "condition_id": "0xc1143157dd8b1f11df1e7f76d2c1aec4b78cb3ab8cbffc48131be40fcb4aa024",
+   "title": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-fut-2026-08-27",
+   "opened_at": "2026-08-27T14:15:29.137940+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 3010.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.44,
+   "ask_depth": 23722.22,
    "status": "open"
   }
  ],
@@ -29448,5 +29485,5 @@
   }
  ],
  "total_pnl": -672.6186999999995,
- "last_updated": "2026-08-27T13:50:33.854279+00:00"
+ "last_updated": "2026-08-27T14:15:29.493637+00:00"
 }
