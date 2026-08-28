@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.65421,
  "last_seen": {
-  "jtwyslljy": 1787915727,
+  "jtwyslljy": 1787917420,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11814,6 +11814,27 @@
    "BUY",
    10000,
    1787915727
+  ],
+  [
+   "0xd4edcc33d6c1d6570add618671199c45408745a69d6fb920d652b7fa8bf5bf95",
+   "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "BUY",
+   5000,
+   1787917396
+  ],
+  [
+   "0x1a76046ae85aa194425d421f1c7b7827436cf8e96d9400deb3a73b649517a95b",
+   "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "BUY",
+   5408.13,
+   1787917401
+  ],
+  [
+   "0x4a033c5b4f300f4b2db164a54fc02747a92f06a6417fd9286fcf6c51896656fd",
+   "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "BUY",
+   92,
+   1787917420
   ]
  ],
  "leader_pos": {
@@ -19000,10 +19021,10 @@
    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION",
    "slug": "lol-bro2-fox1-2026-08-28",
-   "shares": 6500.0,
-   "cost": 2015.0,
-   "max_shares": 6500.0,
-   "last_trade_ts": 1787906154
+   "shares": 17000.13,
+   "cost": 8259.1567,
+   "max_shares": 17000.13,
+   "last_trade_ts": 1787917420
   },
   "jtwyslljy|3757987651261046849947519211193041412621121565169760275836621339555455461700": {
    "leader": "jtwyslljy",
@@ -29801,8 +29822,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "BNK FEARX"
+  },
+  {
+   "at": "2026-08-28T11:50:26.954386+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-28T08:00:00+00:00",
+   "condition_id": "0xd17f0c421fddd350b611f07bf209e7332a53773b26711d98170723ad4268fb54",
+   "asset": "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.17,
+   "cf_shares": 558.4444,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1791,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T11:20:24.720448+00:00"
+ "last_updated": "2026-08-28T11:50:27.215260+00:00"
 }
