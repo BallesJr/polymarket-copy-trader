@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9316.99991,
+ "bankroll": 9440.3332532,
  "last_seen": {
-  "jtwyslljy": 1787943681,
+  "jtwyslljy": 1787945673,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11884,6 +11884,34 @@
    "BUY",
    106400,
    1787943681
+  ],
+  [
+   "0x972979313206742b62344a2a029e75cfde4d27859c87870d2b44cfb05056c6c5",
+   "91359958821960283095829889365628180663161959706512387819631370508219645134083",
+   "BUY",
+   16797.77,
+   1787945481
+  ],
+  [
+   "0x8ab132ff82a3647c8ea768bb91bfaa35c7641755c4dfe420fcdf0d179f8328da",
+   "91359958821960283095829889365628180663161959706512387819631370508219645134083",
+   "BUY",
+   3819.97,
+   1787945508
+  ],
+  [
+   "0xf7eb0c3aaede00970b9093eaf223b6584c166f3c50a71f2dd91ac1ecc88c9efe",
+   "91359958821960283095829889365628180663161959706512387819631370508219645134083",
+   "BUY",
+   3500,
+   1787945590
+  ],
+  [
+   "0xcb1fea725076b3a0092b7de6d87d11febd4d1d15782bdbd18e2b7feb3fef47e0",
+   "8434289762596636858025919564050978446495346769641375752984416584322321410032",
+   "SELL",
+   5500,
+   1787945673
   ]
  ],
  "leader_pos": {
@@ -19130,10 +19158,10 @@
    "title": "Counter-Strike: M80 vs FURIA (BO3) - BLAST Open Porto Group A",
    "outcome": "FURIA",
    "slug": "cs2-m80-furia-2026-08-28",
-   "shares": 5500.0,
-   "cost": 4455.0,
+   "shares": 0.0,
+   "cost": -1039.5,
    "max_shares": 5500.0,
-   "last_trade_ts": 1787935567
+   "last_trade_ts": 1787945673
   },
   "jtwyslljy|91359958821960283095829889365628180663161959706512387819631370508219645134083": {
    "leader": "jtwyslljy",
@@ -19142,32 +19170,13 @@
    "title": "Will AC Milan win on 2026-08-28?",
    "outcome": "No",
    "slug": "sea-mil-ven-2026-08-28",
-   "shares": 106400.0,
-   "cost": 37240.0,
-   "max_shares": 106400.0,
-   "last_trade_ts": 1787943681
+   "shares": 130517.74,
+   "cost": 47698.64770010815,
+   "max_shares": 130517.74,
+   "last_trade_ts": 1787945590
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "8434289762596636858025919564050978446495346769641375752984416584322321410032",
-   "condition_id": "0x34a3aa04f9ebd0f204624e5ae57fec2160bdcfffdafea59b6ac713c909a9c384",
-   "title": "Counter-Strike: M80 vs FURIA (BO3) - BLAST Open Porto Group A",
-   "outcome": "FURIA",
-   "slug": "cs2-m80-furia-2026-08-28",
-   "opened_at": "2026-08-28T16:50:35.244692+00:00",
-   "entry_price": 0.81,
-   "shares": 123.4568,
-   "stake": 100.0,
-   "leader_vwap": 0.81,
-   "leader_cost": 4455.0,
-   "copy_delay_min": 4.5,
-   "best_ask": 0.81,
-   "ask_depth": 4143.39,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -26816,6 +26825,28 @@
    "exit_price": 1.0,
    "pnl": 23.4568,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8434289762596636858025919564050978446495346769641375752984416584322321410032",
+   "condition_id": "0x34a3aa04f9ebd0f204624e5ae57fec2160bdcfffdafea59b6ac713c909a9c384",
+   "title": "Counter-Strike: M80 vs FURIA (BO3) - BLAST Open Porto Group A",
+   "outcome": "FURIA",
+   "slug": "cs2-m80-furia-2026-08-28",
+   "opened_at": "2026-08-28T16:50:35.244692+00:00",
+   "entry_price": 0.81,
+   "shares": 123.4568,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 4455.0,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.81,
+   "ask_depth": 4143.39,
+   "status": "closed",
+   "closed_at": "2026-08-28T19:40:24.394387+00:00",
+   "exit_price": 0.999,
+   "pnl": 23.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -29999,8 +30030,24 @@
    "leader": "jtwyslljy",
    "title": "Will AC Milan win on 2026-08-28?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-28T19:40:24.523284+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-28T18:45:00+00:00",
+   "condition_id": "0x9870edeb13d428e8ca03936a3c3583219b11227bc88d389272a11e0fb5a9c513",
+   "asset": "91359958821960283095829889365628180663161959706512387819631370508219645134083",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.45,
+   "cf_shares": 222.2222,
+   "cf_cost": 100.0,
+   "cf_entry": 0.45,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will AC Milan win on 2026-08-28?",
+   "outcome": "No"
   }
  ],
- "total_pnl": -583.0002999999995,
- "last_updated": "2026-08-28T19:05:26.653106+00:00"
+ "total_pnl": -559.6669999999995,
+ "last_updated": "2026-08-28T19:40:24.523791+00:00"
 }
