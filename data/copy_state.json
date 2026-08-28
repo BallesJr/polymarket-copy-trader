@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.65421,
  "last_seen": {
-  "jtwyslljy": 1787917420,
+  "jtwyslljy": 1787917812,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11835,6 +11835,20 @@
    "BUY",
    92,
    1787917420
+  ],
+  [
+   "0xc0e9236f7d69918d07b6c561a8e55d52ea6998b273707c460a0f4f705dee4c5b",
+   "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "BUY",
+   1999.99,
+   1787917806
+  ],
+  [
+   "0x684896a4cfeeacb00311aad669da0b11a5f699263bbea8df819cd7cbbb75b740",
+   "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "BUY",
+   7999.99,
+   1787917812
   ]
  ],
  "leader_pos": {
@@ -19021,10 +19035,10 @@
    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION",
    "slug": "lol-bro2-fox1-2026-08-28",
-   "shares": 17000.13,
-   "cost": 8259.1567,
-   "max_shares": 17000.13,
-   "last_trade_ts": 1787917420
+   "shares": 27000.11,
+   "cost": 9659.153900000001,
+   "max_shares": 27000.11,
+   "last_trade_ts": 1787917812
   },
   "jtwyslljy|3757987651261046849947519211193041412621121565169760275836621339555455461700": {
    "leader": "jtwyslljy",
@@ -29838,8 +29852,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-08-28T11:55:25.477520+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-28T08:00:00+00:00",
+   "condition_id": "0xd17f0c421fddd350b611f07bf209e7332a53773b26711d98170723ad4268fb54",
+   "asset": "75959611925415720991952573489593458064887830359119121987170321436477748737548",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.12,
+   "cf_shares": 833.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.12,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T11:50:27.215260+00:00"
+ "last_updated": "2026-08-28T11:55:25.629316+00:00"
 }
