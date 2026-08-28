@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9293.54311,
+ "bankroll": 9193.54311,
  "last_seen": {
-  "jtwyslljy": 1787925316,
+  "jtwyslljy": 1787935567,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11870,6 +11870,13 @@
    "BUY",
    4500,
    1787925316
+  ],
+  [
+   "0x57796150c0f6d7c0d49a00daeb8387fade55fa5cc37134a38e117e9f7af79999",
+   "8434289762596636858025919564050978446495346769641375752984416584322321410032",
+   "BUY",
+   5500,
+   1787935567
   ]
  ],
  "leader_pos": {
@@ -19108,6 +19115,18 @@
    "cost": 3645.0000000000005,
    "max_shares": 4500.0,
    "last_trade_ts": 1787925316
+  },
+  "jtwyslljy|8434289762596636858025919564050978446495346769641375752984416584322321410032": {
+   "leader": "jtwyslljy",
+   "asset": "8434289762596636858025919564050978446495346769641375752984416584322321410032",
+   "condition_id": "0x34a3aa04f9ebd0f204624e5ae57fec2160bdcfffdafea59b6ac713c909a9c384",
+   "title": "Counter-Strike: M80 vs FURIA (BO3) - BLAST Open Porto Group A",
+   "outcome": "FURIA",
+   "slug": "cs2-m80-furia-2026-08-28",
+   "shares": 5500.0,
+   "cost": 4455.0,
+   "max_shares": 5500.0,
+   "last_trade_ts": 1787935567
   }
  },
  "positions": [
@@ -19127,6 +19146,24 @@
    "copy_delay_min": 10.1,
    "best_ask": 0.81,
    "ask_depth": 71267.82,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8434289762596636858025919564050978446495346769641375752984416584322321410032",
+   "condition_id": "0x34a3aa04f9ebd0f204624e5ae57fec2160bdcfffdafea59b6ac713c909a9c384",
+   "title": "Counter-Strike: M80 vs FURIA (BO3) - BLAST Open Porto Group A",
+   "outcome": "FURIA",
+   "slug": "cs2-m80-furia-2026-08-28",
+   "opened_at": "2026-08-28T16:50:35.244692+00:00",
+   "entry_price": 0.81,
+   "shares": 123.4568,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 4455.0,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.81,
+   "ask_depth": 4143.39,
    "status": "open"
   }
  ],
@@ -29926,5 +29963,5 @@
   }
  ],
  "total_pnl": -606.4570999999995,
- "last_updated": "2026-08-28T14:30:38.165587+00:00"
+ "last_updated": "2026-08-28T16:50:35.655234+00:00"
 }
