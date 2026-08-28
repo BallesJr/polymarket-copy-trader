@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9154.65421,
+ "bankroll": 9293.54311,
  "last_seen": {
   "jtwyslljy": 1787925316,
   "0x53757615de": 1787221213
@@ -19113,24 +19113,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "109509887076187844206157945924364912957310265222285236060410162122595073261603",
-   "condition_id": "0x5870b740a7486fd25ff3862fac7715ad677e343e7b230c8e3355e3353a37baa0",
-   "title": "Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A",
-   "outcome": "Spirit",
-   "slug": "cs2-g2-ts7-2026-08-28",
-   "opened_at": "2026-08-28T11:15:28.688854+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.71,
-   "leader_cost": 1136.0,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.72,
-   "ask_depth": 144905.65,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "80972908855969336688161308323840452389021025932289889512888551886891229924406",
    "condition_id": "0xe15e7ecc3e4a097d4a6053b6bc243e528fa2ea7ae77c992a4cc2f25d5beaf51f",
    "title": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
@@ -26752,6 +26734,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109509887076187844206157945924364912957310265222285236060410162122595073261603",
+   "condition_id": "0x5870b740a7486fd25ff3862fac7715ad677e343e7b230c8e3355e3353a37baa0",
+   "title": "Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A",
+   "outcome": "Spirit",
+   "slug": "cs2-g2-ts7-2026-08-28",
+   "opened_at": "2026-08-28T11:15:28.688854+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 1136.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.72,
+   "ask_depth": 144905.65,
+   "status": "won",
+   "closed_at": "2026-08-28T14:30:38.163519+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -29921,6 +29925,6 @@
    "outcome": "HANJIN BRION"
   }
  ],
- "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T14:05:20.097070+00:00"
+ "total_pnl": -606.4570999999995,
+ "last_updated": "2026-08-28T14:30:38.165587+00:00"
 }
