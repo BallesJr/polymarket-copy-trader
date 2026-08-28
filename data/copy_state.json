@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9354.65421,
  "last_seen": {
-  "jtwyslljy": 1787906154,
+  "jtwyslljy": 1787910042,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11793,6 +11793,13 @@
    "BUY",
    6500,
    1787906154
+  ],
+  [
+   "0x1efe67ea22d6b7b1b449044cf43f404f4b57082dd7fa215ea0a555bc86260ba9",
+   "3757987651261046849947519211193041412621121565169760275836621339555455461700",
+   "BUY",
+   1285,
+   1787910042
   ]
  ],
  "leader_pos": {
@@ -18983,6 +18990,18 @@
    "cost": 2015.0,
    "max_shares": 6500.0,
    "last_trade_ts": 1787906154
+  },
+  "jtwyslljy|3757987651261046849947519211193041412621121565169760275836621339555455461700": {
+   "leader": "jtwyslljy",
+   "asset": "3757987651261046849947519211193041412621121565169760275836621339555455461700",
+   "condition_id": "0xb2dc704192739c0ada46200a753d700a6a3113dc1c84389470faf8d052be3f16",
+   "title": "Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A",
+   "outcome": "Aurora Gaming",
+   "slug": "cs2-aur1-dendel-2026-08-28",
+   "shares": 1285.0,
+   "cost": 1130.8,
+   "max_shares": 1285.0,
+   "last_trade_ts": 1787910042
   }
  },
  "positions": [],
@@ -29693,8 +29712,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
    "outcome": "HANJIN BRION"
+  },
+  {
+   "at": "2026-08-28T09:45:25.258390+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-28T09:00:00+00:00",
+   "condition_id": "0xb2dc704192739c0ada46200a753d700a6a3113dc1c84389470faf8d052be3f16",
+   "asset": "3757987651261046849947519211193041412621121565169760275836621339555455461700",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.89,
+   "cf_shares": 112.3596,
+   "cf_cost": 100.0,
+   "cf_entry": 0.89,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs DENDELE CS (BO3) - BLAST Open Porto Group A",
+   "outcome": "Aurora Gaming"
   }
  ],
  "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T08:40:28.868834+00:00"
+ "last_updated": "2026-08-28T09:45:25.258900+00:00"
 }
