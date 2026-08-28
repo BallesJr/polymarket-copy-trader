@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9354.65421,
+ "bankroll": 9254.65421,
  "last_seen": {
-  "jtwyslljy": 1787910042,
+  "jtwyslljy": 1787915419,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11800,6 +11800,13 @@
    "BUY",
    1285,
    1787910042
+  ],
+  [
+   "0x78586277c78a1919d1cdcaac819975a99b4d87e0f55f15544d0f82d2e6071911",
+   "109509887076187844206157945924364912957310265222285236060410162122595073261603",
+   "BUY",
+   1600,
+   1787915419
   ]
  ],
  "leader_pos": {
@@ -19002,9 +19009,40 @@
    "cost": 1130.8,
    "max_shares": 1285.0,
    "last_trade_ts": 1787910042
+  },
+  "jtwyslljy|109509887076187844206157945924364912957310265222285236060410162122595073261603": {
+   "leader": "jtwyslljy",
+   "asset": "109509887076187844206157945924364912957310265222285236060410162122595073261603",
+   "condition_id": "0x5870b740a7486fd25ff3862fac7715ad677e343e7b230c8e3355e3353a37baa0",
+   "title": "Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A",
+   "outcome": "Spirit",
+   "slug": "cs2-g2-ts7-2026-08-28",
+   "shares": 1600.0,
+   "cost": 1136.0,
+   "max_shares": 1600.0,
+   "last_trade_ts": 1787915419
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "109509887076187844206157945924364912957310265222285236060410162122595073261603",
+   "condition_id": "0x5870b740a7486fd25ff3862fac7715ad677e343e7b230c8e3355e3353a37baa0",
+   "title": "Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A",
+   "outcome": "Spirit",
+   "slug": "cs2-g2-ts7-2026-08-28",
+   "opened_at": "2026-08-28T11:15:28.688854+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 1136.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.72,
+   "ask_depth": 144905.65,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -29731,5 +29769,5 @@
   }
  ],
  "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T09:45:25.258900+00:00"
+ "last_updated": "2026-08-28T11:15:28.892033+00:00"
 }
