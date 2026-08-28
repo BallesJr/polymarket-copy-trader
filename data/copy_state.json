@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9254.65421,
+ "bankroll": 9154.65421,
  "last_seen": {
-  "jtwyslljy": 1787919273,
+  "jtwyslljy": 1787925316,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11863,6 +11863,13 @@
    "BUY",
    1046.12,
    1787919273
+  ],
+  [
+   "0x93bfd820ab4d5be4bd8cefa8cc8338019b4e24bc19d91754a7dcd7c32a6aac31",
+   "80972908855969336688161308323840452389021025932289889512888551886891229924406",
+   "BUY",
+   4500,
+   1787925316
   ]
  ],
  "leader_pos": {
@@ -19089,6 +19096,18 @@
    "cost": 5241.513,
    "max_shares": 10000.0,
    "last_trade_ts": 1787915727
+  },
+  "jtwyslljy|80972908855969336688161308323840452389021025932289889512888551886891229924406": {
+   "leader": "jtwyslljy",
+   "asset": "80972908855969336688161308323840452389021025932289889512888551886891229924406",
+   "condition_id": "0xe15e7ecc3e4a097d4a6053b6bc243e528fa2ea7ae77c992a4cc2f25d5beaf51f",
+   "title": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
+   "outcome": "Natus Vincere",
+   "slug": "cs2-navi-pain-2026-08-28",
+   "shares": 4500.0,
+   "cost": 3645.0000000000005,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1787925316
   }
  },
  "positions": [
@@ -19108,6 +19127,24 @@
    "copy_delay_min": 5.2,
    "best_ask": 0.72,
    "ask_depth": 144905.65,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80972908855969336688161308323840452389021025932289889512888551886891229924406",
+   "condition_id": "0xe15e7ecc3e4a097d4a6053b6bc243e528fa2ea7ae77c992a4cc2f25d5beaf51f",
+   "title": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
+   "outcome": "Natus Vincere",
+   "slug": "cs2-navi-pain-2026-08-28",
+   "opened_at": "2026-08-28T14:05:19.830791+00:00",
+   "entry_price": 0.81,
+   "shares": 123.4568,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 3645.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.81,
+   "ask_depth": 71267.82,
    "status": "open"
   }
  ],
@@ -29885,5 +29922,5 @@
   }
  ],
  "total_pnl": -645.3459999999995,
- "last_updated": "2026-08-28T12:20:30.367876+00:00"
+ "last_updated": "2026-08-28T14:05:20.097070+00:00"
 }
