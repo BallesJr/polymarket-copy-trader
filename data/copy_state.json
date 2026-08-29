@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788014340,
+  "jtwyslljy": 1788015825,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12122,6 +12122,20 @@
    "BUY",
    1087.4,
    1788014340
+  ],
+  [
+   "0xdcea2d331ad2d8c851edf0f3a00087221714c386630f73a89eb986b53c95849e",
+   "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "BUY",
+   65,
+   1788015756
+  ],
+  [
+   "0x48428adbadfa93307eee3c4b37d59cb801216b69e92f7b8e2146d4acd67b4d31",
+   "112216128948385253754281946148259682639773672512251166378703244366488423357904",
+   "BUY",
+   7126.83,
+   1788015825
   ]
  ],
  "leader_pos": {
@@ -19500,10 +19514,22 @@
    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
    "outcome": "FUT Esports",
    "slug": "cs2-fut-lvg-2026-08-29",
-   "shares": 4739.75,
-   "cost": 2865.598,
-   "max_shares": 4739.75,
-   "last_trade_ts": 1788014340
+   "shares": 4804.75,
+   "cost": 2914.348,
+   "max_shares": 4804.75,
+   "last_trade_ts": 1788015756
+  },
+  "jtwyslljy|112216128948385253754281946148259682639773672512251166378703244366488423357904": {
+   "leader": "jtwyslljy",
+   "asset": "112216128948385253754281946148259682639773672512251166378703244366488423357904",
+   "condition_id": "0x071d859ba8a107fc83b8d1dd33c525cd59e1d93c95880d3b85e2398dc229b7a5",
+   "title": "Will SV 07 Elversberg win on 2026-08-29?",
+   "outcome": "No",
+   "slug": "bun-elv-b04-2026-08-29",
+   "shares": 7126.83,
+   "cost": 137.036600081172,
+   "max_shares": 7126.83,
+   "last_trade_ts": 1788015825
   }
  },
  "positions": [
@@ -30615,8 +30641,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
    "outcome": "FUT Esports"
+  },
+  {
+   "at": "2026-08-29T15:05:22.866960+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T13:30:00+00:00",
+   "condition_id": "0xf1c907c335da228d21ccd1c5a9ec5d8e41097f47648ebbe37e5f55bd2483feb1",
+   "asset": "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "copy_delay_min": 2.8,
+   "cf_ask": 0.74,
+   "cf_shares": 135.1351,
+   "cf_cost": 100.0,
+   "cf_entry": 0.74,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T14:45:25.493396+00:00"
+ "last_updated": "2026-08-29T15:05:23.044250+00:00"
 }
