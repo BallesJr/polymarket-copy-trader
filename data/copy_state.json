@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9240.3332532,
  "last_seen": {
-  "jtwyslljy": 1787986452,
+  "jtwyslljy": 1787986632,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11947,6 +11947,13 @@
    "BUY",
    300,
    1787986452
+  ],
+  [
+   "0x34bfa832175092df725882914cecb29d6bffd5cc653665762bcd842eebb1efa0",
+   "54506248157182039361588814259111066019167142525594412953137488818131770061177",
+   "BUY",
+   50000,
+   1787986632
   ]
  ],
  "leader_pos": {
@@ -19245,6 +19252,18 @@
    "cost": 20487.2036,
    "max_shares": 33334.759999999995,
    "last_trade_ts": 1787986452
+  },
+  "jtwyslljy|54506248157182039361588814259111066019167142525594412953137488818131770061177": {
+   "leader": "jtwyslljy",
+   "asset": "54506248157182039361588814259111066019167142525594412953137488818131770061177",
+   "condition_id": "0xc91c4af8eb423ada63f6b5abb5efee80b4d1a15fed776c4cc7015138353e8554",
+   "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
+   "outcome": "Hector Santiago",
+   "slug": "ufc-law-hecsan-2026-08-29",
+   "shares": 50000.0,
+   "cost": 12000.0,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1787986632
   }
  },
  "positions": [
@@ -30154,8 +30173,24 @@
    "leader": "jtwyslljy",
    "title": "Will AC Milan win on 2026-08-28?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-29T07:00:43.093153+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T07:00:00+00:00",
+   "condition_id": "0xc91c4af8eb423ada63f6b5abb5efee80b4d1a15fed776c4cc7015138353e8554",
+   "asset": "54506248157182039361588814259111066019167142525594412953137488818131770061177",
+   "copy_delay_min": 3.5,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
+   "outcome": "Hector Santiago"
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T06:55:25.265620+00:00"
+ "last_updated": "2026-08-29T07:00:43.456057+00:00"
 }
