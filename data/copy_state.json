@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9268.5383532,
+ "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788002125,
+  "jtwyslljy": 1788002289,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12080,6 +12080,20 @@
    "BUY",
    1381.83,
    1788002125
+  ],
+  [
+   "0x0bceb992d55c7ea92ad846f2f2195908f87a2de00e289603229f952af5d6a93e",
+   "7238092178586456100002039647575276686369232490574825304262095954213421930852",
+   "BUY",
+   266.74,
+   1788002139
+  ],
+  [
+   "0x7a138e7c1264f1faf17e4462139eaffe51ad6bd91d47276353ca8c403e2c6904",
+   "7238092178586456100002039647575276686369232490574825304262095954213421930852",
+   "BUY",
+   2000,
+   1788002289
   ]
  ],
  "leader_pos": {
@@ -19446,10 +19460,10 @@
    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "outcome": "T1",
    "slug": "lol-t1-fox1-2026-08-29",
-   "shares": 1446.83,
-   "cost": 694.4784,
-   "max_shares": 1446.83,
-   "last_trade_ts": 1788002125
+   "shares": 3713.5699999999997,
+   "cost": 1820.0536,
+   "max_shares": 3713.5699999999997,
+   "last_trade_ts": 1788002289
   }
  },
  "positions": [
@@ -19469,24 +19483,6 @@
    "copy_delay_min": 3.9,
    "best_ask": 0.67,
    "ask_depth": 107362.02,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "39805627663400146285839897172117322802166113313820802567932459837516300047657",
-   "condition_id": "0x01d3701fc860535e8e7b91f7f8dbac7f205b6f30fe6bde7a71dee2159b6f8430",
-   "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
-   "outcome": "Liu Ce",
-   "slug": "ufc-celiu-lev1-2026-08-29",
-   "opened_at": "2026-08-29T06:45:25.820747+00:00",
-   "entry_price": 0.62,
-   "shares": 161.2903,
-   "stake": 100.0,
-   "leader_vwap": 0.61,
-   "leader_cost": 11001.2,
-   "copy_delay_min": 1.2,
-   "best_ask": 0.62,
-   "ask_depth": 10921.49,
    "status": "open"
   }
  ],
@@ -27182,6 +27178,28 @@
    "exit_price": 1.0,
    "pnl": 28.2051,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39805627663400146285839897172117322802166113313820802567932459837516300047657",
+   "condition_id": "0x01d3701fc860535e8e7b91f7f8dbac7f205b6f30fe6bde7a71dee2159b6f8430",
+   "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
+   "outcome": "Liu Ce",
+   "slug": "ufc-celiu-lev1-2026-08-29",
+   "opened_at": "2026-08-29T06:45:25.820747+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 11001.2,
+   "copy_delay_min": 1.2,
+   "best_ask": 0.62,
+   "ask_depth": 10921.49,
+   "status": "won",
+   "closed_at": "2026-08-29T11:25:24.474490+00:00",
+   "exit_price": 1.0,
+   "pnl": 61.2903,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -30509,8 +30527,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "outcome": "T1"
+  },
+  {
+   "at": "2026-08-29T11:25:23.710745+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T08:00:00+00:00",
+   "condition_id": "0xe37b3ab474f79dfaac2480da5c61a3c81c279c7bf1718b85db4880f0398e712c",
+   "asset": "7238092178586456100002039647575276686369232490574825304262095954213421930852",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.68,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+   "outcome": "T1"
   }
  ],
- "total_pnl": -531.4618999999994,
- "last_updated": "2026-08-29T11:20:29.261849+00:00"
+ "total_pnl": -470.17159999999944,
+ "last_updated": "2026-08-29T11:25:24.476444+00:00"
 }
