@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9140.3332532,
+ "bankroll": 9268.5383532,
  "last_seen": {
   "jtwyslljy": 1787994789,
   "0x53757615de": 1787221213
@@ -19455,24 +19455,6 @@
    "best_ask": 0.62,
    "ask_depth": 10921.49,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "51726433106200185404563543560934196822012683538888577205893957153939979971903",
-   "condition_id": "0x258e95d5368fccdcb6e5b70f2e4f5b8433bbe3812d2cf7c22d4fa0a3af96e42f",
-   "title": "Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B",
-   "outcome": "Vitality",
-   "slug": "cs2-vit-9z-2026-08-29",
-   "opened_at": "2026-08-29T07:50:25.913111+00:00",
-   "entry_price": 0.78,
-   "shares": 128.2051,
-   "stake": 100.0,
-   "leader_vwap": 0.77,
-   "leader_cost": 1863.68,
-   "copy_delay_min": 8.3,
-   "best_ask": 0.78,
-   "ask_depth": 10849.94,
-   "status": "open"
   }
  ],
  "closed": [
@@ -27145,6 +27127,28 @@
    "exit_price": 0.999,
    "pnl": 23.3333,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51726433106200185404563543560934196822012683538888577205893957153939979971903",
+   "condition_id": "0x258e95d5368fccdcb6e5b70f2e4f5b8433bbe3812d2cf7c22d4fa0a3af96e42f",
+   "title": "Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B",
+   "outcome": "Vitality",
+   "slug": "cs2-vit-9z-2026-08-29",
+   "opened_at": "2026-08-29T07:50:25.913111+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 1863.68,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.78,
+   "ask_depth": 10849.94,
+   "status": "won",
+   "closed_at": "2026-08-29T11:15:32.454855+00:00",
+   "exit_price": 1.0,
+   "pnl": 28.2051,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -30442,6 +30446,6 @@
    "outcome": "BNK FEARX"
   }
  ],
- "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T09:15:29.079078+00:00"
+ "total_pnl": -531.4618999999994,
+ "last_updated": "2026-08-29T11:15:32.456746+00:00"
 }
