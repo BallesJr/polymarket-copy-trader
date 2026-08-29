@@ -19786,24 +19786,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "42738017135979262444378578631954169478732852656424670096583837898523646170521",
-   "condition_id": "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f",
-   "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
-   "outcome": "Top Esports",
-   "slug": "lol-tes-lgd-2026-08-29",
-   "opened_at": "2026-08-29T06:45:25.618556+00:00",
-   "entry_price": 0.67,
-   "shares": 149.2537,
-   "stake": 100.0,
-   "leader_vwap": 0.67,
-   "leader_cost": 3350.0,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.67,
-   "ask_depth": 107362.02,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "104914738070725006942397150555392706143426280068561830103728359679962971571164",
    "condition_id": "0xf4cad1aff5701953f55578f48fa9d8dde899c7ce231f469388bf02bf68cb3425",
    "title": "Will ACF Fiorentina win on 2026-08-29?",
@@ -27571,6 +27553,28 @@
    "exit_price": 1.0,
    "pnl": 61.2903,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42738017135979262444378578631954169478732852656424670096583837898523646170521",
+   "condition_id": "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f",
+   "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-tes-lgd-2026-08-29",
+   "opened_at": "2026-08-29T06:45:25.618556+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 3350.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.67,
+   "ask_depth": 107362.02,
+   "status": "lost",
+   "closed_at": "2026-08-29T17:30:41.294388+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -31028,6 +31032,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T16:50:26.681439+00:00"
+ "total_pnl": -570.1715999999994,
+ "last_updated": "2026-08-29T17:30:41.296046+00:00"
 }
