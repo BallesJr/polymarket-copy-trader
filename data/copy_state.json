@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788003027,
+  "jtwyslljy": 1788014340,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12108,6 +12108,20 @@
    "BUY",
    37,
    1788003027
+  ],
+  [
+   "0xe05c5fea0411870ca44080f6930f1aa4519088f6eb704469b8375fb42d6f5663",
+   "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "BUY",
+   3652.35,
+   1788014275
+  ],
+  [
+   "0x448447777a9f84fe5689358cbeb1b3a614d13710b631f76df577db3e892c8706",
+   "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "BUY",
+   1087.4,
+   1788014340
   ]
  ],
  "leader_pos": {
@@ -19478,6 +19492,18 @@
    "cost": 1838.5536,
    "max_shares": 3750.5699999999997,
    "last_trade_ts": 1788003027
+  },
+  "jtwyslljy|76503812196456926561000613306091315769940098473354033477480244767348428869503": {
+   "leader": "jtwyslljy",
+   "asset": "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "condition_id": "0xf1c907c335da228d21ccd1c5a9ec5d8e41097f47648ebbe37e5f55bd2483feb1",
+   "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports",
+   "slug": "cs2-fut-lvg-2026-08-29",
+   "shares": 4739.75,
+   "cost": 2865.598,
+   "max_shares": 4739.75,
+   "last_trade_ts": 1788014340
   }
  },
  "positions": [
@@ -30573,8 +30599,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "outcome": "T1"
+  },
+  {
+   "at": "2026-08-29T14:45:25.301885+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T13:30:00+00:00",
+   "condition_id": "0xf1c907c335da228d21ccd1c5a9ec5d8e41097f47648ebbe37e5f55bd2483feb1",
+   "asset": "76503812196456926561000613306091315769940098473354033477480244767348428869503",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T11:35:20.982592+00:00"
+ "last_updated": "2026-08-29T14:45:25.493396+00:00"
 }
