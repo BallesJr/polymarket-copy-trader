@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9129.8286532,
  "last_seen": {
-  "jtwyslljy": 1788021165,
+  "jtwyslljy": 1788021481,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12227,6 +12227,13 @@
    "BUY",
    6000,
    1788021165
+  ],
+  [
+   "0xcdd8a30a87f774639de21f5b8818c5433ef7a8179099bfcf36dc2325fa6de682",
+   "70733771208209988022974583331163712536164949456622738550871481858383719249925",
+   "BUY",
+   14000,
+   1788021481
   ]
  ],
  "leader_pos": {
@@ -19717,6 +19724,18 @@
    "cost": 3840.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1788021165
+  },
+  "jtwyslljy|70733771208209988022974583331163712536164949456622738550871481858383719249925": {
+   "leader": "jtwyslljy",
+   "asset": "70733771208209988022974583331163712536164949456622738550871481858383719249925",
+   "condition_id": "0xaa14750821d2fa00d7cbf754d2b72275d2a9b7f58c16878f0808b010f5cfad2b",
+   "title": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
+   "outcome": "No",
+   "slug": "bun-dor-hsv-2026-08-29",
+   "shares": 14000.0,
+   "cost": 4059.9999999999995,
+   "max_shares": 14000.0,
+   "last_trade_ts": 1788021481
   }
  },
  "positions": [
@@ -30930,8 +30949,24 @@
    "leader": "jtwyslljy",
    "title": "Will 1. FC K\u00f6ln win on 2026-08-29?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-08-29T16:40:27.825762+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T16:30:00+00:00",
+   "condition_id": "0xaa14750821d2fa00d7cbf754d2b72275d2a9b7f58c16878f0808b010f5cfad2b",
+   "asset": "70733771208209988022974583331163712536164949456622738550871481858383719249925",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T16:35:22.527736+00:00"
+ "last_updated": "2026-08-29T16:40:28.243248+00:00"
 }
