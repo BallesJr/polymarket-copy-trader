@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788016171,
+  "jtwyslljy": 1788016660,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12150,6 +12150,13 @@
    "BUY",
    2694.4,
    1788016171
+  ],
+  [
+   "0x0dcddc396af57a5d8a992dd561aa7d68994a48a567a4077f676bb4f138ff55c1",
+   "35973952654876106587125898807669979852049915885963919929639125276953332089689",
+   "BUY",
+   2500,
+   1788016660
   ]
  ],
  "leader_pos": {
@@ -19556,6 +19563,18 @@
    "cost": 1769.5600000000002,
    "max_shares": 2722.4,
    "last_trade_ts": 1788016171
+  },
+  "jtwyslljy|35973952654876106587125898807669979852049915885963919929639125276953332089689": {
+   "leader": "jtwyslljy",
+   "asset": "35973952654876106587125898807669979852049915885963919929639125276953332089689",
+   "condition_id": "0xe4f68771bbf9806b2b7b88eeb5dcaf79a733e29b29267aee1b7ce470c2c49e50",
+   "title": "Will 1. FC K\u00f6ln win on 2026-08-29?",
+   "outcome": "Yes",
+   "slug": "bun-koe-hof-2026-08-29",
+   "shares": 2500.0,
+   "cost": 2050.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1788016660
   }
  },
  "positions": [
@@ -30699,8 +30718,24 @@
    "leader": "jtwyslljy",
    "title": "Will AFC Bournemouth win on 2026-08-29?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-08-29T15:25:20.782535+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T13:30:00+00:00",
+   "condition_id": "0xe4f68771bbf9806b2b7b88eeb5dcaf79a733e29b29267aee1b7ce470c2c49e50",
+   "asset": "35973952654876106587125898807669979852049915885963919929639125276953332089689",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.92,
+   "cf_shares": 108.6957,
+   "cf_cost": 100.0,
+   "cf_entry": 0.92,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will 1. FC K\u00f6ln win on 2026-08-29?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T15:10:31.388388+00:00"
+ "last_updated": "2026-08-29T15:25:21.033654+00:00"
 }
