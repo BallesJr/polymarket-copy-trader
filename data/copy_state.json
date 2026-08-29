@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9140.3332532,
  "last_seen": {
-  "jtwyslljy": 1787992750,
+  "jtwyslljy": 1787992920,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12010,6 +12010,20 @@
    "BUY",
    17000,
    1787992750
+  ],
+  [
+   "0x50160e1a3ea932cec2b23448cc57a44106bed2cf9030a2d42cdecc47142b4653",
+   "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "BUY",
+   5423.2,
+   1787992819
+  ],
+  [
+   "0x3f5636a8ef3842884530aeb13823f8f5e1aa8952ef806adc4085a0c357c8b7fb",
+   "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "BUY",
+   17000,
+   1787992920
   ]
  ],
  "leader_pos": {
@@ -19344,6 +19358,18 @@
    "cost": 1863.6849,
    "max_shares": 2420.37,
    "last_trade_ts": 1787989329
+  },
+  "jtwyslljy|80946752743612889411240255644602123076012052878017630947932125097242419481144": {
+   "leader": "jtwyslljy",
+   "asset": "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "condition_id": "0x98862311b50e76e9713f82d512980f875df74f3af1b826578803e2ceea44be18",
+   "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
+   "outcome": "Kevin Borjas",
+   "slug": "ufc-rei-kev15-2026-08-29",
+   "shares": 22423.2,
+   "cost": 3085.016,
+   "max_shares": 22423.2,
+   "last_trade_ts": 1787992920
   }
  },
  "positions": [
@@ -30319,8 +30345,24 @@
    "leader": "jtwyslljy",
    "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
    "outcome": "Hector Santiago"
+  },
+  {
+   "at": "2026-08-29T08:45:24.010391+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T07:00:00+00:00",
+   "condition_id": "0x98862311b50e76e9713f82d512980f875df74f3af1b826578803e2ceea44be18",
+   "asset": "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "copy_delay_min": 3.4,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
+   "outcome": "Kevin Borjas"
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T08:40:23.603860+00:00"
+ "last_updated": "2026-08-29T08:45:24.310429+00:00"
 }
