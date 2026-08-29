@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9129.8286532,
+ "bankroll": 9276.8874532,
  "last_seen": {
   "jtwyslljy": 1788026838,
   "0x53757615de": 1787221213
@@ -19823,24 +19823,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "89902893216461356411935226012627082260424135392765244218886279205399897780593",
-   "condition_id": "0xa8d7f431a64f407dd01c10dfc40d29ed2ad40c1d40a3c56f6047751b36a50d4e",
-   "title": "Will AC Monza win on 2026-08-29?",
-   "outcome": "No",
-   "slug": "sea-mon-udi-2026-08-29",
-   "opened_at": "2026-08-29T16:00:47.225348+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 4284.0,
-   "copy_delay_min": 5.9,
-   "best_ask": 0.68,
-   "ask_depth": 76842.79,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "38974009331647574307486964154380741223296752486424181282661660530688322351734",
    "condition_id": "0x494c90405f3983224bab5d39f6f48a138c413417993b7a7825abba978c934e9b",
    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
@@ -27594,6 +27576,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "89902893216461356411935226012627082260424135392765244218886279205399897780593",
+   "condition_id": "0xa8d7f431a64f407dd01c10dfc40d29ed2ad40c1d40a3c56f6047751b36a50d4e",
+   "title": "Will AC Monza win on 2026-08-29?",
+   "outcome": "No",
+   "slug": "sea-mon-udi-2026-08-29",
+   "opened_at": "2026-08-29T16:00:47.225348+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 4284.0,
+   "copy_delay_min": 5.9,
+   "best_ask": 0.68,
+   "ask_depth": 76842.79,
+   "status": "won",
+   "closed_at": "2026-08-29T18:55:22.314746+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -31051,6 +31055,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -570.1715999999994,
- "last_updated": "2026-08-29T18:10:25.140277+00:00"
+ "total_pnl": -523.1127999999994,
+ "last_updated": "2026-08-29T18:55:22.316221+00:00"
 }
