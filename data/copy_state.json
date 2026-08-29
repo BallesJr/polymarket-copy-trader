@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788002518,
+  "jtwyslljy": 1788003027,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12101,6 +12101,13 @@
    "BUY",
    20,
    1788002518
+  ],
+  [
+   "0xc7fa2332278f466bbc2159909ba6e2d4a840417496ca8cd2241119c16e66f6b9",
+   "7238092178586456100002039647575276686369232490574825304262095954213421930852",
+   "BUY",
+   37,
+   1788003027
   ]
  ],
  "leader_pos": {
@@ -19467,10 +19474,10 @@
    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "outcome": "T1",
    "slug": "lol-t1-fox1-2026-08-29",
-   "shares": 3713.5699999999997,
-   "cost": 1820.0536,
-   "max_shares": 3713.5699999999997,
-   "last_trade_ts": 1788002289
+   "shares": 3750.5699999999997,
+   "cost": 1838.5536,
+   "max_shares": 3750.5699999999997,
+   "last_trade_ts": 1788003027
   }
  },
  "positions": [
@@ -30550,8 +30557,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "outcome": "T1"
+  },
+  {
+   "at": "2026-08-29T11:35:20.839352+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T08:00:00+00:00",
+   "condition_id": "0xe37b3ab474f79dfaac2480da5c61a3c81c279c7bf1718b85db4880f0398e712c",
+   "asset": "7238092178586456100002039647575276686369232490574825304262095954213421930852",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.6,
+   "cf_shares": 160.9048,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6215,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+   "outcome": "T1"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T11:30:37.925736+00:00"
+ "last_updated": "2026-08-29T11:35:20.982592+00:00"
 }
