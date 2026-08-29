@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9429.8286532,
  "last_seen": {
-  "jtwyslljy": 1788015825,
+  "jtwyslljy": 1788016171,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12136,6 +12136,20 @@
    "BUY",
    7126.83,
    1788015825
+  ],
+  [
+   "0xbb72cada20ff70cbaf27b8c6cd68da9762209e41ae16a0cfd05bc0a61df7b7d0",
+   "26287222117424513944576531166574044704303019683551563853626910907290042523705",
+   "BUY",
+   28,
+   1788016134
+  ],
+  [
+   "0xeb7769072d75fd054a4cf6ebca68d92293f4978ea24797f24c5b97f52d24f1bc",
+   "26287222117424513944576531166574044704303019683551563853626910907290042523705",
+   "BUY",
+   2694.4,
+   1788016171
   ]
  ],
  "leader_pos": {
@@ -19530,6 +19544,18 @@
    "cost": 137.036600081172,
    "max_shares": 7126.83,
    "last_trade_ts": 1788015825
+  },
+  "jtwyslljy|26287222117424513944576531166574044704303019683551563853626910907290042523705": {
+   "leader": "jtwyslljy",
+   "asset": "26287222117424513944576531166574044704303019683551563853626910907290042523705",
+   "condition_id": "0x1acd5a75f344dae60c2de50562ef74ce292972fc8106b9520b727c87c04886cf",
+   "title": "Will AFC Bournemouth win on 2026-08-29?",
+   "outcome": "Yes",
+   "slug": "epl-bou-eve-2026-08-29",
+   "shares": 2722.4,
+   "cost": 1769.5600000000002,
+   "max_shares": 2722.4,
+   "last_trade_ts": 1788016171
   }
  },
  "positions": [
@@ -30657,8 +30683,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
    "outcome": "FUT Esports"
+  },
+  {
+   "at": "2026-08-29T15:10:31.220716+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T14:00:00+00:00",
+   "condition_id": "0x1acd5a75f344dae60c2de50562ef74ce292972fc8106b9520b727c87c04886cf",
+   "asset": "26287222117424513944576531166574044704303019683551563853626910907290042523705",
+   "copy_delay_min": 1.0,
+   "cf_ask": 0.66,
+   "cf_shares": 151.5152,
+   "cf_cost": 100.0,
+   "cf_entry": 0.66,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will AFC Bournemouth win on 2026-08-29?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T15:05:23.044250+00:00"
+ "last_updated": "2026-08-29T15:10:31.388388+00:00"
 }
