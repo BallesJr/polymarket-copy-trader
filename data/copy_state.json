@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9440.3332532,
+ "bankroll": 9240.3332532,
  "last_seen": {
-  "jtwyslljy": 1787945878,
+  "jtwyslljy": 1787985855,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11919,6 +11919,20 @@
    "BUY",
    425,
    1787945878
+  ],
+  [
+   "0x4ac95aa01c473840a2a427006572ab01c05582d41db1262d8eead854328a058a",
+   "42738017135979262444378578631954169478732852656424670096583837898523646170521",
+   "BUY",
+   5000,
+   1787985691
+  ],
+  [
+   "0x0ff681640eca582b8436856467fe62f88f52bfcf554b0cf72c93d7ee8e43b0b7",
+   "39805627663400146285839897172117322802166113313820802567932459837516300047657",
+   "BUY",
+   18034.76,
+   1787985855
   ]
  ],
  "leader_pos": {
@@ -19193,9 +19207,70 @@
    "cost": 242.24999999999997,
    "max_shares": 425.0,
    "last_trade_ts": 1787945878
+  },
+  "jtwyslljy|42738017135979262444378578631954169478732852656424670096583837898523646170521": {
+   "leader": "jtwyslljy",
+   "asset": "42738017135979262444378578631954169478732852656424670096583837898523646170521",
+   "condition_id": "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f",
+   "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-tes-lgd-2026-08-29",
+   "shares": 5000.0,
+   "cost": 3350.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1787985691
+  },
+  "jtwyslljy|39805627663400146285839897172117322802166113313820802567932459837516300047657": {
+   "leader": "jtwyslljy",
+   "asset": "39805627663400146285839897172117322802166113313820802567932459837516300047657",
+   "condition_id": "0x01d3701fc860535e8e7b91f7f8dbac7f205b6f30fe6bde7a71dee2159b6f8430",
+   "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
+   "outcome": "Liu Ce",
+   "slug": "ufc-celiu-lev1-2026-08-29",
+   "shares": 18034.76,
+   "cost": 11001.203599999999,
+   "max_shares": 18034.76,
+   "last_trade_ts": 1787985855
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "42738017135979262444378578631954169478732852656424670096583837898523646170521",
+   "condition_id": "0x7df1d4ec251ba238a5578afbaf4a83e5650c69d2b92d59a0629fc3d67cbcb05f",
+   "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-tes-lgd-2026-08-29",
+   "opened_at": "2026-08-29T06:45:25.618556+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 3350.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.67,
+   "ask_depth": 107362.02,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39805627663400146285839897172117322802166113313820802567932459837516300047657",
+   "condition_id": "0x01d3701fc860535e8e7b91f7f8dbac7f205b6f30fe6bde7a71dee2159b6f8430",
+   "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
+   "outcome": "Liu Ce",
+   "slug": "ufc-celiu-lev1-2026-08-29",
+   "opened_at": "2026-08-29T06:45:25.820747+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 11001.2,
+   "copy_delay_min": 1.2,
+   "best_ask": 0.62,
+   "ask_depth": 10921.49,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -30068,5 +30143,5 @@
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-28T19:45:24.581994+00:00"
+ "last_updated": "2026-08-29T06:45:26.121256+00:00"
 }
