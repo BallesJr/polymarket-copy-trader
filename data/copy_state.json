@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9140.3332532,
  "last_seen": {
-  "jtwyslljy": 1787989329,
+  "jtwyslljy": 1787989708,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11989,6 +11989,13 @@
    "BUY",
    2420.37,
    1787989329
+  ],
+  [
+   "0x69cc71cfd3c0ec995ebc4cc4ee1f0d9c4636949ae1208c49b08af0c91be46501",
+   "54506248157182039361588814259111066019167142525594412953137488818131770061177",
+   "BUY",
+   12611.82,
+   1787989708
   ]
  ],
  "leader_pos": {
@@ -19295,10 +19302,10 @@
    "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
    "outcome": "Hector Santiago",
    "slug": "ufc-law-hecsan-2026-08-29",
-   "shares": 50000.0,
-   "cost": 12000.0,
-   "max_shares": 50000.0,
-   "last_trade_ts": 1787986632
+   "shares": 62611.82,
+   "cost": 15026.836800000001,
+   "max_shares": 62611.82,
+   "last_trade_ts": 1787989708
   },
   "jtwyslljy|115283509683684793706628230556986483839084571556785455963722385167054875704433": {
    "leader": "jtwyslljy",
@@ -30282,8 +30289,24 @@
    "leader": "jtwyslljy",
    "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
    "outcome": "Ding Meng"
+  },
+  {
+   "at": "2026-08-29T07:55:22.525198+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T07:00:00+00:00",
+   "condition_id": "0xc91c4af8eb423ada63f6b5abb5efee80b4d1a15fed776c4cc7015138353e8554",
+   "asset": "54506248157182039361588814259111066019167142525594412953137488818131770061177",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
+   "outcome": "Hector Santiago"
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T07:50:26.309282+00:00"
+ "last_updated": "2026-08-29T07:55:22.895223+00:00"
 }
