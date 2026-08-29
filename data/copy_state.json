@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9240.3332532,
  "last_seen": {
-  "jtwyslljy": 1787987235,
+  "jtwyslljy": 1787987662,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -11968,6 +11968,20 @@
    "BUY",
    15102.44,
    1787987235
+  ],
+  [
+   "0x6a0247cd84849211154e6833cce1437afa094f121cdddc134db309fc3d634da4",
+   "115283509683684793706628230556986483839084571556785455963722385167054875704433",
+   "BUY",
+   27000,
+   1787987553
+  ],
+  [
+   "0x67ee16cb7257116713943ecd11ff1786b37b82a01daa78c6f4f44124fb4bcb67",
+   "39805627663400146285839897172117322802166113313820802567932459837516300047657",
+   "BUY",
+   1896.99,
+   1787987662
   ]
  ],
  "leader_pos": {
@@ -19262,10 +19276,10 @@
    "title": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",
    "outcome": "Liu Ce",
    "slug": "ufc-celiu-lev1-2026-08-29",
-   "shares": 65437.2,
-   "cost": 40390.716400000005,
-   "max_shares": 65437.2,
-   "last_trade_ts": 1787987235
+   "shares": 67334.19,
+   "cost": 41585.820100000004,
+   "max_shares": 67334.19,
+   "last_trade_ts": 1787987662
   },
   "jtwyslljy|54506248157182039361588814259111066019167142525594412953137488818131770061177": {
    "leader": "jtwyslljy",
@@ -19278,6 +19292,18 @@
    "cost": 12000.0,
    "max_shares": 50000.0,
    "last_trade_ts": 1787986632
+  },
+  "jtwyslljy|115283509683684793706628230556986483839084571556785455963722385167054875704433": {
+   "leader": "jtwyslljy",
+   "asset": "115283509683684793706628230556986483839084571556785455963722385167054875704433",
+   "condition_id": "0x4854d96c75984fd9fa7c71979501e346268e64a177938ea035f261c4d058d2aa",
+   "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
+   "outcome": "Ding Meng",
+   "slug": "ufc-din2-camnel-2026-08-29",
+   "shares": 27000.0,
+   "cost": 15120.000000000002,
+   "max_shares": 27000.0,
+   "last_trade_ts": 1787987553
   }
  },
  "positions": [
@@ -30203,8 +30229,24 @@
    "leader": "jtwyslljy",
    "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
    "outcome": "Hector Santiago"
+  },
+  {
+   "at": "2026-08-29T07:20:29.585297+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T07:00:00+00:00",
+   "condition_id": "0x4854d96c75984fd9fa7c71979501e346268e64a177938ea035f261c4d058d2aa",
+   "asset": "115283509683684793706628230556986483839084571556785455963722385167054875704433",
+   "copy_delay_min": 7.9,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
+   "outcome": "Ding Meng"
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T07:10:28.690259+00:00"
+ "last_updated": "2026-08-29T07:20:29.923472+00:00"
 }
