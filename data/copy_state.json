@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9504.1601532,
+ "bankroll": 9660.4101532,
  "last_seen": {
   "jtwyslljy": 1788026838,
   "0x53757615de": 1787221213
@@ -19802,26 +19802,7 @@
    "last_trade_ts": 1788026838
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "38974009331647574307486964154380741223296752486424181282661660530688322351734",
-   "condition_id": "0x494c90405f3983224bab5d39f6f48a138c413417993b7a7825abba978c934e9b",
-   "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
-   "outcome": "Team Falcons",
-   "slug": "cs2-lgc-fal2-2026-08-29",
-   "opened_at": "2026-08-29T16:35:22.166868+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 3840.0,
-   "copy_delay_min": 2.6,
-   "best_ask": 0.64,
-   "ask_depth": 13308.47,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -27602,6 +27583,28 @@
    "exit_price": 1.0,
    "pnl": 127.2727,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "38974009331647574307486964154380741223296752486424181282661660530688322351734",
+   "condition_id": "0x494c90405f3983224bab5d39f6f48a138c413417993b7a7825abba978c934e9b",
+   "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
+   "outcome": "Team Falcons",
+   "slug": "cs2-lgc-fal2-2026-08-29",
+   "opened_at": "2026-08-29T16:35:22.166868+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 3840.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.64,
+   "ask_depth": 13308.47,
+   "status": "won",
+   "closed_at": "2026-08-29T20:20:30.148274+00:00",
+   "exit_price": 1.0,
+   "pnl": 56.25,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -31059,6 +31062,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -395.84009999999944,
- "last_updated": "2026-08-29T19:00:47.543499+00:00"
+ "total_pnl": -339.59009999999944,
+ "last_updated": "2026-08-29T20:20:30.149892+00:00"
 }
