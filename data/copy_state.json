@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9129.8286532,
  "last_seen": {
-  "jtwyslljy": 1788021481,
+  "jtwyslljy": 1788021784,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12234,6 +12234,27 @@
    "BUY",
    14000,
    1788021481
+  ],
+  [
+   "0x579c2e2c9af64a081de34013453b97fcabdbb8182296cfa16c5a8bbecff20978",
+   "33305817121206431555700966719570871797625978359660241310397127754357105712208",
+   "BUY",
+   42,
+   1788021685
+  ],
+  [
+   "0x5ac0b7211b98569c196a118e6a3ddac4ea9f900c935f5b90518e28c8a0776fa0",
+   "100239611859973374378535574941672577814349047277022458242701074087324023190833",
+   "BUY",
+   9750,
+   1788021715
+  ],
+  [
+   "0xc7159fc8852a316de089f760feab052ea3d6cfbb657882b13ab06de4b1116942",
+   "33305817121206431555700966719570871797625978359660241310397127754357105712208",
+   "SELL",
+   54,
+   1788021784
   ]
  ],
  "leader_pos": {
@@ -19736,6 +19757,30 @@
    "cost": 4059.9999999999995,
    "max_shares": 14000.0,
    "last_trade_ts": 1788021481
+  },
+  "jtwyslljy|33305817121206431555700966719570871797625978359660241310397127754357105712208": {
+   "leader": "jtwyslljy",
+   "asset": "33305817121206431555700966719570871797625978359660241310397127754357105712208",
+   "condition_id": "0x5217e3bfd7d421d7a42e6524f1fa7a30f6e9b7b9accebd5235411571560129ac",
+   "title": "Will AC Monza vs. Udinese Calcio end in a draw?",
+   "outcome": "No",
+   "slug": "sea-mon-udi-2026-08-29",
+   "shares": -12.0,
+   "cost": -7.740000000000009,
+   "max_shares": 42.0,
+   "last_trade_ts": 1788021784
+  },
+  "jtwyslljy|100239611859973374378535574941672577814349047277022458242701074087324023190833": {
+   "leader": "jtwyslljy",
+   "asset": "100239611859973374378535574941672577814349047277022458242701074087324023190833",
+   "condition_id": "0x3d6d4f832e03d8815f936ded1ac44aa14d698d5dfcdf60db1746ddc2a70cecf7",
+   "title": "Will US Sassuolo Calcio vs. Torino FC end in a draw?",
+   "outcome": "No",
+   "slug": "sea-sas-tor-2026-08-29",
+   "shares": 9750.0,
+   "cost": 6825.0,
+   "max_shares": 9750.0,
+   "last_trade_ts": 1788021715
   }
  },
  "positions": [
@@ -30965,8 +31010,24 @@
    "leader": "jtwyslljy",
    "title": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-29T16:50:26.353398+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T16:30:00+00:00",
+   "condition_id": "0x3d6d4f832e03d8815f936ded1ac44aa14d698d5dfcdf60db1746ddc2a70cecf7",
+   "asset": "100239611859973374378535574941672577814349047277022458242701074087324023190833",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will US Sassuolo Calcio vs. Torino FC end in a draw?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -470.17159999999944,
- "last_updated": "2026-08-29T16:40:28.243248+00:00"
+ "last_updated": "2026-08-29T16:50:26.681439+00:00"
 }
