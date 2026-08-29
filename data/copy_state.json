@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9140.3332532,
  "last_seen": {
-  "jtwyslljy": 1787992920,
+  "jtwyslljy": 1787994300,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12024,6 +12024,20 @@
    "BUY",
    17000,
    1787992920
+  ],
+  [
+   "0x4968fb1a94a2bc563527e459e17e3c60014d552946ede9da143b322a4a09f257",
+   "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "BUY",
+   1576,
+   1787994226
+  ],
+  [
+   "0x4513b0d62b2722b8b740522e40d5f14f50a3be129107b5cab6fbda0597130fab",
+   "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "BUY",
+   28001,
+   1787994300
   ]
  ],
  "leader_pos": {
@@ -19366,10 +19380,10 @@
    "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
    "outcome": "Kevin Borjas",
    "slug": "ufc-rei-kev15-2026-08-29",
-   "shares": 22423.2,
-   "cost": 3085.016,
-   "max_shares": 22423.2,
-   "last_trade_ts": 1787992920
+   "shares": 52000.2,
+   "cost": 7225.796,
+   "max_shares": 52000.2,
+   "last_trade_ts": 1787994300
   }
  },
  "positions": [
@@ -30361,8 +30375,24 @@
    "leader": "jtwyslljy",
    "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
    "outcome": "Kevin Borjas"
+  },
+  {
+   "at": "2026-08-29T09:05:22.325015+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-29T07:00:00+00:00",
+   "condition_id": "0x98862311b50e76e9713f82d512980f875df74f3af1b826578803e2ceea44be18",
+   "asset": "80946752743612889411240255644602123076012052878017630947932125097242419481144",
+   "copy_delay_min": 0.4,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
+   "outcome": "Kevin Borjas"
   }
  ],
  "total_pnl": -559.6669999999995,
- "last_updated": "2026-08-29T08:45:24.310429+00:00"
+ "last_updated": "2026-08-29T09:05:22.592918+00:00"
 }
