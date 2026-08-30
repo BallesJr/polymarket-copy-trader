@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9360.4101532,
+ "bankroll": 9160.4101532,
  "last_seen": {
-  "jtwyslljy": 1788105816,
+  "jtwyslljy": 1788105945,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12353,6 +12353,27 @@
    "BUY",
    6999.99,
    1788105816
+  ],
+  [
+   "0x90b6020e24327634cbd727e690c2f7261c1a52175b938feb3cbb3e883d1ac3ef",
+   "19282403768477883302778824282418801779783244008295005599319416737233436241805",
+   "BUY",
+   5000,
+   1788105892
+  ],
+  [
+   "0x08e7cece3c050df33ef6376b37a3983a72a5efe586c11ae3907e9be36ea16015",
+   "85233391666299678827251762709559818983117757355349602567239878571449982146240",
+   "BUY",
+   5000,
+   1788105924
+  ],
+  [
+   "0x9e5ce9b22ba1268a1643be9282dce5e4a604e9cd266e8bee47641220635b7648",
+   "51238230512164580693844269384077570675406186080950821144299595377982893365084",
+   "BUY",
+   3000,
+   1788105945
   ]
  ],
  "leader_pos": {
@@ -19995,10 +20016,34 @@
    "title": "US Open WTA: Shuai Zhang vs Leylah Fernandez",
    "outcome": "Leylah Fernandez",
    "slug": "wta-zhang-fernand-2026-08-30",
-   "shares": 6999.99,
-   "cost": 4759.9932,
-   "max_shares": 6999.99,
-   "last_trade_ts": 1788105816
+   "shares": 9999.99,
+   "cost": 6799.9932,
+   "max_shares": 9999.99,
+   "last_trade_ts": 1788105945
+  },
+  "jtwyslljy|19282403768477883302778824282418801779783244008295005599319416737233436241805": {
+   "leader": "jtwyslljy",
+   "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
+   "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
+   "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
+   "outcome": "Emiliana Arango",
+   "slug": "wta-arango-wa-2026-08-30",
+   "shares": 5000.0,
+   "cost": 1350.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788105892
+  },
+  "jtwyslljy|85233391666299678827251762709559818983117757355349602567239878571449982146240": {
+   "leader": "jtwyslljy",
+   "asset": "85233391666299678827251762709559818983117757355349602567239878571449982146240",
+   "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
+   "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+   "outcome": "Lois Boisson",
+   "slug": "wta-navarro-boisson-2026-08-30",
+   "shares": 5000.0,
+   "cost": 1450.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788105924
   }
  },
  "positions": [
@@ -20054,6 +20099,42 @@
    "copy_delay_min": 6.9,
    "best_ask": 0.68,
    "ask_depth": 10093.9,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
+   "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
+   "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
+   "outcome": "Emiliana Arango",
+   "slug": "wta-arango-wa-2026-08-30",
+   "opened_at": "2026-08-30T16:15:28.697324+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1350.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.27,
+   "ask_depth": 8658.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85233391666299678827251762709559818983117757355349602567239878571449982146240",
+   "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
+   "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+   "outcome": "Lois Boisson",
+   "slug": "wta-navarro-boisson-2026-08-30",
+   "opened_at": "2026-08-30T16:15:28.878310+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 1450.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.29,
+   "ask_depth": 9289.03,
    "status": "open"
   }
  ],
@@ -31477,5 +31558,5 @@
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:10:29.601764+00:00"
+ "last_updated": "2026-08-30T16:15:29.318613+00:00"
 }
