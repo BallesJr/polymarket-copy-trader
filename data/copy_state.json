@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9660.4101532,
  "last_seen": {
-  "jtwyslljy": 1788087499,
+  "jtwyslljy": 1788093918,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12297,6 +12297,13 @@
    "BUY",
    2626.86,
    1788087499
+  ],
+  [
+   "0x7b63ba5ab860e75e31b2c47727409239be07265d24ba8acb3535d36518f49433",
+   "111213267767494322030345495210250697890597059432407918845680084434770130748874",
+   "BUY",
+   1189.607833,
+   1788093918
   ]
  ],
  "leader_pos": {
@@ -19859,6 +19866,18 @@
    "cost": 2800.0000000000005,
    "max_shares": 10000.0,
    "last_trade_ts": 1788084390
+  },
+  "jtwyslljy|111213267767494322030345495210250697890597059432407918845680084434770130748874": {
+   "leader": "jtwyslljy",
+   "asset": "111213267767494322030345495210250697890597059432407918845680084434770130748874",
+   "condition_id": "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74",
+   "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+   "outcome": "Aurora Gaming",
+   "slug": "cs2-m80-aur1-2026-08-30",
+   "shares": 1189.607833,
+   "cost": 1036.4899929746384,
+   "max_shares": 1189.607833,
+   "last_trade_ts": 1788093918
   }
  },
  "positions": [],
@@ -31199,8 +31218,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
    "outcome": "JD Gaming"
+  },
+  {
+   "at": "2026-08-30T12:55:22.037103+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T12:20:00+00:00",
+   "condition_id": "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74",
+   "asset": "111213267767494322030345495210250697890597059432407918845680084434770130748874",
+   "copy_delay_min": 10.1,
+   "cf_ask": 0.88,
+   "cf_shares": 113.6364,
+   "cf_cost": 100.0,
+   "cf_entry": 0.88,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+   "outcome": "Aurora Gaming"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T11:00:43.132584+00:00"
+ "last_updated": "2026-08-30T12:55:22.037613+00:00"
 }
