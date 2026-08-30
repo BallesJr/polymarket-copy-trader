@@ -20342,24 +20342,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "35751591715450143090092921457234664945579188861458834978577855105703420293876",
-   "condition_id": "0xe456796d9cd9c76064f2ec5738856266969aaf80338d671991a9bdd4c915f48c",
-   "title": "Will Real Madrid CF win on 2026-08-30?",
-   "outcome": "No",
-   "slug": "lal-rea-mala-2026-08-30",
-   "opened_at": "2026-08-30T14:40:27.579224+00:00",
-   "entry_price": 0.11,
-   "shares": 909.0909,
-   "stake": 100.0,
-   "leader_vwap": 0.11,
-   "leader_cost": 8140.33,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.11,
-   "ask_depth": 15895.94,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
    "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
    "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
@@ -28353,6 +28335,28 @@
    "exit_price": 0.1613,
    "pnl": -74.791,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35751591715450143090092921457234664945579188861458834978577855105703420293876",
+   "condition_id": "0xe456796d9cd9c76064f2ec5738856266969aaf80338d671991a9bdd4c915f48c",
+   "title": "Will Real Madrid CF win on 2026-08-30?",
+   "outcome": "No",
+   "slug": "lal-rea-mala-2026-08-30",
+   "opened_at": "2026-08-30T14:40:27.579224+00:00",
+   "entry_price": 0.11,
+   "shares": 909.0909,
+   "stake": 100.0,
+   "leader_vwap": 0.11,
+   "leader_cost": 8140.33,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.11,
+   "ask_depth": 15895.94,
+   "status": "lost",
+   "closed_at": "2026-08-30T20:20:30.084180+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32050,6 +32054,6 @@
    "outcome": "Jaume Munar"
   }
  ],
- "total_pnl": -328.43339999999944,
- "last_updated": "2026-08-30T19:40:32.955232+00:00"
+ "total_pnl": -428.43339999999944,
+ "last_updated": "2026-08-30T20:20:30.085713+00:00"
 }
