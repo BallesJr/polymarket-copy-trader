@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9460.4101532,
  "last_seen": {
-  "jtwyslljy": 1788100468,
+  "jtwyslljy": 1788105456,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12332,6 +12332,13 @@
    "BUY",
    74003.03,
    1788100468
+  ],
+  [
+   "0x7e8f3dde819a80d55fb425724e419fd81c299074085e1a3f7e82ebfb42dc18ca",
+   "53944898778587064763107549702969339841332208432179352577420815057156448141426",
+   "BUY",
+   7920.8,
+   1788105456
   ]
  ],
  "leader_pos": {
@@ -19942,6 +19949,18 @@
    "cost": 8140.3333,
    "max_shares": 74003.03,
    "last_trade_ts": 1788100468
+  },
+  "jtwyslljy|53944898778587064763107549702969339841332208432179352577420815057156448141426": {
+   "leader": "jtwyslljy",
+   "asset": "53944898778587064763107549702969339841332208432179352577420815057156448141426",
+   "condition_id": "0x2f005c139f92cfc88d3436afcb2642090276c758e532c770e6e50758743cc903",
+   "title": "Will Ipswich Town FC win on 2026-08-30?",
+   "outcome": "No",
+   "slug": "epl-mun-ips-2026-08-30",
+   "shares": 7920.8,
+   "cost": 6970.304,
+   "max_shares": 7920.8,
+   "last_trade_ts": 1788105456
   }
  },
  "positions": [
@@ -31367,8 +31386,24 @@
    "leader": "jtwyslljy",
    "title": "Will Brighton & Hove Albion FC win on 2026-08-30?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-30T16:05:23.275114+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T15:30:00+00:00",
+   "condition_id": "0x2f005c139f92cfc88d3436afcb2642090276c758e532c770e6e50758743cc903",
+   "asset": "53944898778587064763107549702969339841332208432179352577420815057156448141426",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Ipswich Town FC win on 2026-08-30?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T14:40:27.959484+00:00"
+ "last_updated": "2026-08-30T16:05:23.576995+00:00"
 }
