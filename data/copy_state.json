@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9160.4101532,
+ "bankroll": 9060.4101532,
  "last_seen": {
-  "jtwyslljy": 1788106821,
+  "jtwyslljy": 1788106971,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12388,6 +12388,27 @@
    "BUY",
    995,
    1788106821
+  ],
+  [
+   "0x4b76b434261a08c2fb4713c05735d7a0b2c9da0c472553fa4df57410153631d0",
+   "28107476006194185284905479325324379055132660999316122354376818030085994718915",
+   "BUY",
+   5000,
+   1788106848
+  ],
+  [
+   "0x79a714b131430fa39a928aa5bfde22cdec33f144171cb9bdd69e4e5147f1b82b",
+   "23287460188493431745722607318719716153576927471364470574375711291372211450255",
+   "BUY",
+   6000,
+   1788106932
+  ],
+  [
+   "0xc279f41bcd348ecce8679bb30465077db5a89d8ced5c13f74c05b5d68f3b1bf2",
+   "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "BUY",
+   2000,
+   1788106971
   ]
  ],
  "leader_pos": {
@@ -20070,6 +20091,42 @@
    "cost": 659.9000000000001,
    "max_shares": 1000.0,
    "last_trade_ts": 1788106821
+  },
+  "jtwyslljy|28107476006194185284905479325324379055132660999316122354376818030085994718915": {
+   "leader": "jtwyslljy",
+   "asset": "28107476006194185284905479325324379055132660999316122354376818030085994718915",
+   "condition_id": "0x358df22acd9d848c82b52b50b15495c873bb6280bbac860657828b616b7eab49",
+   "title": "US Open ATP: Yibing Wu vs Adam Walton",
+   "outcome": "Adam Walton",
+   "slug": "atp-wu-walton-2026-08-30",
+   "shares": 5000.0,
+   "cost": 1250.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788106848
+  },
+  "jtwyslljy|23287460188493431745722607318719716153576927471364470574375711291372211450255": {
+   "leader": "jtwyslljy",
+   "asset": "23287460188493431745722607318719716153576927471364470574375711291372211450255",
+   "condition_id": "0x4fbe9a6036a0b4a2a3ad65e72749111d1820a29b975dbea719f0d9ae71273733",
+   "title": "US Open ATP: Dino Prizmic vs Alexander Shevchenko",
+   "outcome": "Dino Prizmic",
+   "slug": "atp-prizmic-shevche-2026-08-30",
+   "shares": 6000.0,
+   "cost": 3900.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1788106932
+  },
+  "jtwyslljy|77755804679685464722562221838615051972729320421710398281681595898203670202652": {
+   "leader": "jtwyslljy",
+   "asset": "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
+   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-munar-atmane-2026-08-30",
+   "shares": 2000.0,
+   "cost": 1280.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1788106971
   }
  },
  "positions": [
@@ -20161,6 +20218,24 @@
    "copy_delay_min": 10.1,
    "best_ask": 0.29,
    "ask_depth": 9289.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
+   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-munar-atmane-2026-08-30",
+   "opened_at": "2026-08-30T16:30:36.183862+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1280.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.64,
+   "ask_depth": 37377.39,
    "status": "open"
   }
  ],
@@ -31597,8 +31672,40 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
    "outcome": "Arthur Rinderknech"
+  },
+  {
+   "at": "2026-08-30T16:30:36.053423+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T15:05:00+00:00",
+   "condition_id": "0x358df22acd9d848c82b52b50b15495c873bb6280bbac860657828b616b7eab49",
+   "asset": "28107476006194185284905479325324379055132660999316122354376818030085994718915",
+   "copy_delay_min": 9.8,
+   "cf_ask": 0.16,
+   "cf_shares": 625.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.16,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Yibing Wu vs Adam Walton",
+   "outcome": "Adam Walton"
+  },
+  {
+   "at": "2026-08-30T16:30:36.336639+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T15:05:00+00:00",
+   "condition_id": "0x4fbe9a6036a0b4a2a3ad65e72749111d1820a29b975dbea719f0d9ae71273733",
+   "asset": "23287460188493431745722607318719716153576927471364470574375711291372211450255",
+   "copy_delay_min": 8.4,
+   "cf_ask": 0.81,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Dino Prizmic vs Alexander Shevchenko",
+   "outcome": "Dino Prizmic"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:25:25.537285+00:00"
+ "last_updated": "2026-08-30T16:30:36.605792+00:00"
 }
