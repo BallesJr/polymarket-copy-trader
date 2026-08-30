@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9060.4101532,
+ "bankroll": 8560.4101532,
  "last_seen": {
-  "jtwyslljy": 1788106971,
+  "jtwyslljy": 1788107271,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12409,6 +12409,41 @@
    "BUY",
    2000,
    1788106971
+  ],
+  [
+   "0x377158c0e213dea8fca1728d02a3616c9f613c582b85506530543104afd4ffce",
+   "80363568501667100237085114426116336913303431182608526758638296174338799822351",
+   "BUY",
+   4000,
+   1788107173
+  ],
+  [
+   "0x1e5b886791fb02c32dd3cd96b5bc5bde3c7fd5ced64d9c2efd5319a0f14b4060",
+   "43252023102154344767688104044190229169683931248546626375154667205233985135074",
+   "BUY",
+   3000,
+   1788107197
+  ],
+  [
+   "0x171b390dcc33c8269e7385ceab3c403025768ec0c302d3887a3d9de51e564f43",
+   "47197743673676409383142835961575135787075284106067024531809325881253993786597",
+   "BUY",
+   3000,
+   1788107211
+  ],
+  [
+   "0xa3c3f1d282d7a00cf3602c969039bb8651cc5d19663f478e813863c5a830900f",
+   "1791505704503379291587690188367813476221955675336114788658839539540843259136",
+   "BUY",
+   7000,
+   1788107251
+  ],
+  [
+   "0xc9460c08718e28170bbbdc3a15b057db0956c860c2c6e5edfc7a15bcff23cbc5",
+   "49174450266278906508001314424167774057959718571165034175576331677488640026383",
+   "BUY",
+   3000,
+   1788107271
   ]
  ],
  "leader_pos": {
@@ -20127,6 +20162,66 @@
    "cost": 1280.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1788106971
+  },
+  "jtwyslljy|80363568501667100237085114426116336913303431182608526758638296174338799822351": {
+   "leader": "jtwyslljy",
+   "asset": "80363568501667100237085114426116336913303431182608526758638296174338799822351",
+   "condition_id": "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa",
+   "title": "US Open ATP: Miomir Kecmanovic vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-kecmano-shapova-2026-08-30",
+   "shares": 4000.0,
+   "cost": 2280.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1788107173
+  },
+  "jtwyslljy|43252023102154344767688104044190229169683931248546626375154667205233985135074": {
+   "leader": "jtwyslljy",
+   "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
+   "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
+   "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
+   "outcome": "Rei Sakamoto",
+   "slug": "atp-vukic-sakamot-2026-08-30",
+   "shares": 3000.0,
+   "cost": 1739.9999999999998,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788107197
+  },
+  "jtwyslljy|47197743673676409383142835961575135787075284106067024531809325881253993786597": {
+   "leader": "jtwyslljy",
+   "asset": "47197743673676409383142835961575135787075284106067024531809325881253993786597",
+   "condition_id": "0x43af6df3e5601e8532b22108707fd5c7d5bc002fe51acdfbf945a73e7f0003a3",
+   "title": "US Open ATP: Tomas Etcheverry vs Vit Kopriva",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-kopriva-2026-08-30",
+   "shares": 3000.0,
+   "cost": 1890.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788107211
+  },
+  "jtwyslljy|1791505704503379291587690188367813476221955675336114788658839539540843259136": {
+   "leader": "jtwyslljy",
+   "asset": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
+   "condition_id": "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1",
+   "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-djokovi-2026-08-30",
+   "shares": 7000.0,
+   "cost": 1260.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1788107251
+  },
+  "jtwyslljy|49174450266278906508001314424167774057959718571165034175576331677488640026383": {
+   "leader": "jtwyslljy",
+   "asset": "49174450266278906508001314424167774057959718571165034175576331677488640026383",
+   "condition_id": "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6",
+   "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-wolf-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788107271
   }
  },
  "positions": [
@@ -20236,6 +20331,96 @@
    "copy_delay_min": 7.7,
    "best_ask": 0.64,
    "ask_depth": 37377.39,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47197743673676409383142835961575135787075284106067024531809325881253993786597",
+   "condition_id": "0x43af6df3e5601e8532b22108707fd5c7d5bc002fe51acdfbf945a73e7f0003a3",
+   "title": "US Open ATP: Tomas Etcheverry vs Vit Kopriva",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-kopriva-2026-08-30",
+   "opened_at": "2026-08-30T16:35:22.769538+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.63,
+   "leader_cost": 1890.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.63,
+   "ask_depth": 323.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
+   "condition_id": "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1",
+   "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-djokovi-2026-08-30",
+   "opened_at": "2026-08-30T16:35:22.901553+00:00",
+   "entry_price": 0.18,
+   "shares": 555.5556,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 1260.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.18,
+   "ask_depth": 5973.12,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80363568501667100237085114426116336913303431182608526758638296174338799822351",
+   "condition_id": "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa",
+   "title": "US Open ATP: Miomir Kecmanovic vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-kecmano-shapova-2026-08-30",
+   "opened_at": "2026-08-30T16:35:23.035270+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2280.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.57,
+   "ask_depth": 22958.19,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
+   "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
+   "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
+   "outcome": "Rei Sakamoto",
+   "slug": "atp-vukic-sakamot-2026-08-30",
+   "opened_at": "2026-08-30T16:35:23.176576+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1740.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.58,
+   "ask_depth": 7616.04,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "49174450266278906508001314424167774057959718571165034175576331677488640026383",
+   "condition_id": "0xe1c87ee33da186a81f6579102ffa3363d9ed7b7aacfec34e31b8cdc450f33bd6",
+   "title": "US Open ATP: Alexander Bublik vs J.J. Wolf",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-wolf-2026-08-30",
+   "opened_at": "2026-08-30T16:35:23.325439+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 2070.0,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.69,
+   "ask_depth": 5048.92,
    "status": "open"
   }
  ],
@@ -31707,5 +31892,5 @@
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:30:36.605792+00:00"
+ "last_updated": "2026-08-30T16:35:23.600655+00:00"
 }
