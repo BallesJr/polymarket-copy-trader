@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8846.357853200001,
+ "bankroll": 8871.566853200002,
  "last_seen": {
-  "jtwyslljy": 1788117870,
+  "jtwyslljy": 1788118129,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12500,6 +12500,34 @@
    "SELL",
    2000,
    1788117870
+  ],
+  [
+   "0x007e8da97c22a1e93854fbf4ee582156a4478c40348da66c5dcf8a59d6b39979",
+   "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "BUY",
+   3000,
+   1788117952
+  ],
+  [
+   "0x2c564cb75efc116327afcd97bbba935b09e50b653930029c82a347f873df1ead",
+   "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "BUY",
+   3000,
+   1788117954
+  ],
+  [
+   "0x881a6f68cccc741f4cc9dc8475ef0b8779b2a68a7a3bf95bb7f44a2b8f25fa30",
+   "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "SELL",
+   5118.81,
+   1788118111
+  ],
+  [
+   "0x53daefa807531637e9104da101d7730e9e665281704497d6af2a9ecd01933eef",
+   "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "SELL",
+   570,
+   1788118129
   ]
  ],
  "leader_pos": {
@@ -20214,10 +20242,10 @@
    "title": "US Open ATP: Jaume Munar vs Terence Atmane",
    "outcome": "Terence Atmane",
    "slug": "atp-munar-atmane-2026-08-30",
-   "shares": 2000.0,
-   "cost": 1280.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1788106971
+   "shares": 2311.1899999999996,
+   "cost": 1443.7949800422678,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1788118129
   },
   "jtwyslljy|80363568501667100237085114426116336913303431182608526758638296174338799822351": {
    "leader": "jtwyslljy",
@@ -20345,24 +20373,6 @@
    "copy_delay_min": 10.1,
    "best_ask": 0.29,
    "ask_depth": 9289.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "77755804679685464722562221838615051972729320421710398281681595898203670202652",
-   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
-   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
-   "outcome": "Terence Atmane",
-   "slug": "atp-munar-atmane-2026-08-30",
-   "opened_at": "2026-08-30T16:30:36.183862+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 1280.0,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.64,
-   "ask_depth": 37377.39,
    "status": "open"
   },
   {
@@ -28302,6 +28312,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77755804679685464722562221838615051972729320421710398281681595898203670202652",
+   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
+   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "outcome": "Terence Atmane",
+   "slug": "atp-munar-atmane-2026-08-30",
+   "opened_at": "2026-08-30T16:30:36.183862+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1280.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.64,
+   "ask_depth": 37377.39,
+   "status": "closed",
+   "closed_at": "2026-08-30T19:35:23.501902+00:00",
+   "exit_price": 0.1613,
+   "pnl": -74.791,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -31983,6 +32015,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -253.64239999999947,
- "last_updated": "2026-08-30T19:28:50.252261+00:00"
+ "total_pnl": -328.43339999999944,
+ "last_updated": "2026-08-30T19:35:23.896768+00:00"
 }
