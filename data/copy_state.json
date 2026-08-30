@@ -20342,24 +20342,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
-   "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
-   "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
-   "outcome": "Emiliana Arango",
-   "slug": "wta-arango-wa-2026-08-30",
-   "opened_at": "2026-08-30T16:15:28.697324+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.27,
-   "leader_cost": 1350.0,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.27,
-   "ask_depth": 8658.93,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "85233391666299678827251762709559818983117757355349602567239878571449982146240",
    "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
    "title": "US Open WTA: Emma Navarro vs Lois Boisson",
@@ -28357,6 +28339,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
+   "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
+   "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
+   "outcome": "Emiliana Arango",
+   "slug": "wta-arango-wa-2026-08-30",
+   "opened_at": "2026-08-30T16:15:28.697324+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1350.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.27,
+   "ask_depth": 8658.93,
+   "status": "lost",
+   "closed_at": "2026-08-30T20:50:29.828438+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32054,6 +32058,6 @@
    "outcome": "Jaume Munar"
   }
  ],
- "total_pnl": -428.43339999999944,
- "last_updated": "2026-08-30T20:20:30.085713+00:00"
+ "total_pnl": -528.4333999999994,
+ "last_updated": "2026-08-30T20:50:29.830216+00:00"
 }
