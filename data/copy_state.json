@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9460.4101532,
+ "bankroll": 9360.4101532,
  "last_seen": {
-  "jtwyslljy": 1788105456,
+  "jtwyslljy": 1788105816,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12339,6 +12339,20 @@
    "BUY",
    7920.8,
    1788105456
+  ],
+  [
+   "0xaa6d07b2109971e10e4b6be60bb6ad5ae0fa27522ba052e90c7ec14467114532",
+   "21242989787101340525112722422914363114959825102905756561297234657694402429282",
+   "BUY",
+   7000,
+   1788105772
+  ],
+  [
+   "0xebe079487366da7aa7aa01a37efc4c32a4fd2659493a235e0a2da179c31b129e",
+   "51238230512164580693844269384077570675406186080950821144299595377982893365084",
+   "BUY",
+   6999.99,
+   1788105816
   ]
  ],
  "leader_pos": {
@@ -19961,6 +19975,30 @@
    "cost": 6970.304,
    "max_shares": 7920.8,
    "last_trade_ts": 1788105456
+  },
+  "jtwyslljy|21242989787101340525112722422914363114959825102905756561297234657694402429282": {
+   "leader": "jtwyslljy",
+   "asset": "21242989787101340525112722422914363114959825102905756561297234657694402429282",
+   "condition_id": "0x7cda3b9fd4aec6e3c56cb52451f4eb7ec479801fa018dcaea53e532044b10dd7",
+   "title": "US Open WTA: Talia Gibson vs Donna Vekic",
+   "outcome": "Talia Gibson",
+   "slug": "wta-gibson-vekic-2026-08-30",
+   "shares": 7000.0,
+   "cost": 1960.0000000000002,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1788105772
+  },
+  "jtwyslljy|51238230512164580693844269384077570675406186080950821144299595377982893365084": {
+   "leader": "jtwyslljy",
+   "asset": "51238230512164580693844269384077570675406186080950821144299595377982893365084",
+   "condition_id": "0xe77b67bc2c60bd3ef4a1ece0a488851564ab4e28a5cc73880f988c9f9788c4a7",
+   "title": "US Open WTA: Shuai Zhang vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-zhang-fernand-2026-08-30",
+   "shares": 6999.99,
+   "cost": 4759.9932,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1788105816
   }
  },
  "positions": [
@@ -19998,6 +20036,24 @@
    "copy_delay_min": 6.0,
    "best_ask": 0.11,
    "ask_depth": 15895.94,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51238230512164580693844269384077570675406186080950821144299595377982893365084",
+   "condition_id": "0xe77b67bc2c60bd3ef4a1ece0a488851564ab4e28a5cc73880f988c9f9788c4a7",
+   "title": "US Open WTA: Shuai Zhang vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-zhang-fernand-2026-08-30",
+   "opened_at": "2026-08-30T16:10:29.176632+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 4759.99,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.68,
+   "ask_depth": 10093.9,
    "status": "open"
   }
  ],
@@ -31402,8 +31458,24 @@
    "leader": "jtwyslljy",
    "title": "Will Ipswich Town FC win on 2026-08-30?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-30T16:10:28.967114+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T15:05:00+00:00",
+   "condition_id": "0x7cda3b9fd4aec6e3c56cb52451f4eb7ec479801fa018dcaea53e532044b10dd7",
+   "asset": "21242989787101340525112722422914363114959825102905756561297234657694402429282",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.09,
+   "cf_shares": 1045.834,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0956,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Talia Gibson vs Donna Vekic",
+   "outcome": "Talia Gibson"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:05:23.576995+00:00"
+ "last_updated": "2026-08-30T16:10:29.601764+00:00"
 }
