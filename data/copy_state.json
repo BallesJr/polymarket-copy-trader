@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9660.4101532,
  "last_seen": {
-  "jtwyslljy": 1788084390,
+  "jtwyslljy": 1788086448,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12283,6 +12283,13 @@
    "BUY",
    10000,
    1788084390
+  ],
+  [
+   "0x5c6e43a4396fed11b614f9795eecc513040333f5309f9ac96290862fe79992bc",
+   "64717374109977139925022275129628600538061948437780498435102148462767695403200",
+   "BUY",
+   33,
+   1788086448
   ]
  ],
  "leader_pos": {
@@ -19829,10 +19836,10 @@
    "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
    "outcome": "JD Gaming",
    "slug": "lol-jdg-we-2026-08-30",
-   "shares": 5567.171345000001,
-   "cost": 3332.2299989304506,
-   "max_shares": 5567.171345000001,
-   "last_trade_ts": 1788084309
+   "shares": 5600.171345000001,
+   "cost": 3339.489998930451,
+   "max_shares": 5600.171345000001,
+   "last_trade_ts": 1788086448
   },
   "jtwyslljy|102821988932241692706326278964452061768149621100764965458094273168870397992280": {
    "leader": "jtwyslljy",
@@ -31153,8 +31160,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
    "outcome": "Dplus KIA"
+  },
+  {
+   "at": "2026-08-30T10:45:25.508150+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T09:00:00+00:00",
+   "condition_id": "0xcff62c28139670186b90dd7fb96cbf37f9ca3c98dc30ef2a28d7b4fa303fff54",
+   "asset": "64717374109977139925022275129628600538061948437780498435102148462767695403200",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.22,
+   "cf_shares": 454.5455,
+   "cf_cost": 100.0,
+   "cf_entry": 0.22,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+   "outcome": "JD Gaming"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T10:10:26.961922+00:00"
+ "last_updated": "2026-08-30T10:45:25.508712+00:00"
 }
