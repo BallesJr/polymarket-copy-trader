@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8699.2990532,
+ "bankroll": 8846.357853200001,
  "last_seen": {
   "jtwyslljy": 1788116677,
   "0x53757615de": 1787221213
@@ -20299,24 +20299,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "51238230512164580693844269384077570675406186080950821144299595377982893365084",
-   "condition_id": "0xe77b67bc2c60bd3ef4a1ece0a488851564ab4e28a5cc73880f988c9f9788c4a7",
-   "title": "US Open WTA: Shuai Zhang vs Leylah Fernandez",
-   "outcome": "Leylah Fernandez",
-   "slug": "wta-zhang-fernand-2026-08-30",
-   "opened_at": "2026-08-30T16:10:29.176632+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 4759.99,
-   "copy_delay_min": 6.9,
-   "best_ask": 0.68,
-   "ask_depth": 10093.9,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "19282403768477883302778824282418801779783244008295005599319416737233436241805",
    "condition_id": "0x2da0020f09ece28197609ecce4c5cc0f0401d33a9420113c17488b1dfdc218ed",
    "title": "US Open WTA: Emiliana Arango vs Xinyu Wang",
@@ -28284,6 +28266,28 @@
    "exit_price": 1.0,
    "pnl": 38.8889,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51238230512164580693844269384077570675406186080950821144299595377982893365084",
+   "condition_id": "0xe77b67bc2c60bd3ef4a1ece0a488851564ab4e28a5cc73880f988c9f9788c4a7",
+   "title": "US Open WTA: Shuai Zhang vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-zhang-fernand-2026-08-30",
+   "opened_at": "2026-08-30T16:10:29.176632+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 4759.99,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.68,
+   "ask_depth": 10093.9,
+   "status": "won",
+   "closed_at": "2026-08-30T19:20:29.718776+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -31965,6 +31969,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -300.70119999999946,
- "last_updated": "2026-08-30T19:15:30.364662+00:00"
+ "total_pnl": -253.64239999999947,
+ "last_updated": "2026-08-30T19:20:29.720565+00:00"
 }
