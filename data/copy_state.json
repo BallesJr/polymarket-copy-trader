@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9660.4101532,
  "last_seen": {
-  "jtwyslljy": 1788093918,
+  "jtwyslljy": 1788094374,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12304,6 +12304,20 @@
    "BUY",
    1189.607833,
    1788093918
+  ],
+  [
+   "0xb3cbd6d788b143ede88336ee8e69b6520a50e77fc843b3b4e068053e32a37e4c",
+   "111213267767494322030345495210250697890597059432407918845680084434770130748874",
+   "BUY",
+   1165.82,
+   1788094249
+  ],
+  [
+   "0xeb155143d3b570f090cc07b9b7db6c0af276c4b6751877a6055f3d24e5805106",
+   "9240938927382819470182516731378737780715608156770481335793061408011251730378",
+   "BUY",
+   6000,
+   1788094374
   ]
  ],
  "leader_pos": {
@@ -19874,10 +19888,22 @@
    "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
    "outcome": "Aurora Gaming",
    "slug": "cs2-m80-aur1-2026-08-30",
-   "shares": 1189.607833,
-   "cost": 1036.4899929746384,
-   "max_shares": 1189.607833,
-   "last_trade_ts": 1788093918
+   "shares": 2355.4278329999997,
+   "cost": 2062.4115929746386,
+   "max_shares": 2355.4278329999997,
+   "last_trade_ts": 1788094249
+  },
+  "jtwyslljy|9240938927382819470182516731378737780715608156770481335793061408011251730378": {
+   "leader": "jtwyslljy",
+   "asset": "9240938927382819470182516731378737780715608156770481335793061408011251730378",
+   "condition_id": "0x531e07f1a2b3d9e71e9b6ff01400cc98ddd767d48537153d7a6c1a83857fd885",
+   "title": "Will Brighton & Hove Albion FC win on 2026-08-30?",
+   "outcome": "No",
+   "slug": "epl-che-bri-2026-08-30",
+   "shares": 6000.0,
+   "cost": 4620.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1788094374
   }
  },
  "positions": [],
@@ -31234,8 +31260,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
    "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-08-30T13:00:44.118923+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T12:20:00+00:00",
+   "condition_id": "0x6cb6bb1a334d2983ef8f3c55fe2a2a5cd9e5b3dab32a20b8365253468ff2eb74",
+   "asset": "111213267767494322030345495210250697890597059432407918845680084434770130748874",
+   "copy_delay_min": 9.9,
+   "cf_ask": 0.89,
+   "cf_shares": 112.3596,
+   "cf_cost": 100.0,
+   "cf_entry": 0.89,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+   "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-08-30T13:00:44.247805+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T13:00:00+00:00",
+   "condition_id": "0x531e07f1a2b3d9e71e9b6ff01400cc98ddd767d48537153d7a6c1a83857fd885",
+   "asset": "9240938927382819470182516731378737780715608156770481335793061408011251730378",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.77,
+   "cf_shares": 129.8701,
+   "cf_cost": 100.0,
+   "cf_entry": 0.77,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Brighton & Hove Albion FC win on 2026-08-30?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T12:55:22.037613+00:00"
+ "last_updated": "2026-08-30T13:00:44.248376+00:00"
 }
