@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9660.4101532,
  "last_seen": {
-  "jtwyslljy": 1788026838,
+  "jtwyslljy": 1788080517,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12262,6 +12262,13 @@
    "BUY",
    748.31,
    1788026838
+  ],
+  [
+   "0x2317e33e2362694b2655429818cbc8296811518225dea7d320659d309dc92178",
+   "64717374109977139925022275129628600538061948437780498435102148462767695403200",
+   "BUY",
+   3000,
+   1788080517
   ]
  ],
  "leader_pos": {
@@ -19800,6 +19807,18 @@
    "cost": 97.2803,
    "max_shares": 748.31,
    "last_trade_ts": 1788026838
+  },
+  "jtwyslljy|64717374109977139925022275129628600538061948437780498435102148462767695403200": {
+   "leader": "jtwyslljy",
+   "asset": "64717374109977139925022275129628600538061948437780498435102148462767695403200",
+   "condition_id": "0xcff62c28139670186b90dd7fb96cbf37f9ca3c98dc30ef2a28d7b4fa303fff54",
+   "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+   "outcome": "JD Gaming",
+   "slug": "lol-jdg-we-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788080517
   }
  },
  "positions": [],
@@ -31060,8 +31079,24 @@
    "leader": "jtwyslljy",
    "title": "Will US Sassuolo Calcio vs. Torino FC end in a draw?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-08-30T09:10:25.247511+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T09:00:00+00:00",
+   "condition_id": "0xcff62c28139670186b90dd7fb96cbf37f9ca3c98dc30ef2a28d7b4fa303fff54",
+   "asset": "64717374109977139925022275129628600538061948437780498435102148462767695403200",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+   "outcome": "JD Gaming"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-29T20:20:30.149892+00:00"
+ "last_updated": "2026-08-30T09:10:25.248012+00:00"
 }
