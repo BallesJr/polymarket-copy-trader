@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8871.566853200002,
+ "bankroll": 9047.005453200001,
  "last_seen": {
   "jtwyslljy": 1788118308,
   "0x53757615de": 1787221213
@@ -20396,24 +20396,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "80363568501667100237085114426116336913303431182608526758638296174338799822351",
-   "condition_id": "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa",
-   "title": "US Open ATP: Miomir Kecmanovic vs Denis Shapovalov",
-   "outcome": "Denis Shapovalov",
-   "slug": "atp-kecmano-shapova-2026-08-30",
-   "opened_at": "2026-08-30T16:35:23.035270+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 2280.0,
-   "copy_delay_min": 9.1,
-   "best_ask": 0.57,
-   "ask_depth": 22958.19,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
    "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
    "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
@@ -28361,6 +28343,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "80363568501667100237085114426116336913303431182608526758638296174338799822351",
+   "condition_id": "0x8375934e304a22f4409c4d541daf5c2bac39b86b98630c2ece95425a039fd9fa",
+   "title": "US Open ATP: Miomir Kecmanovic vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-kecmano-shapova-2026-08-30",
+   "opened_at": "2026-08-30T16:35:23.035270+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2280.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.57,
+   "ask_depth": 22958.19,
+   "status": "won",
+   "closed_at": "2026-08-30T23:20:29.445387+00:00",
+   "exit_price": 1.0,
+   "pnl": 75.4386,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32058,6 +32062,6 @@
    "outcome": "Jaume Munar"
   }
  ],
- "total_pnl": -528.4333999999994,
- "last_updated": "2026-08-30T20:50:29.830216+00:00"
+ "total_pnl": -452.99479999999943,
+ "last_updated": "2026-08-30T23:20:29.447061+00:00"
 }
