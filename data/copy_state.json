@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8871.566853200002,
  "last_seen": {
-  "jtwyslljy": 1788118129,
+  "jtwyslljy": 1788118308,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12528,6 +12528,13 @@
    "SELL",
    570,
    1788118129
+  ],
+  [
+   "0xd921362459f2dff5822ecc557c02f17a6c61fad2a26e1e6e06c10c5771bb1a54",
+   "108718093338712731663126960153345881101729018265142989089542286947985469094294",
+   "BUY",
+   1935,
+   1788118308
   ]
  ],
  "leader_pos": {
@@ -20318,6 +20325,18 @@
    "cost": 360.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788117870
+  },
+  "jtwyslljy|108718093338712731663126960153345881101729018265142989089542286947985469094294": {
+   "leader": "jtwyslljy",
+   "asset": "108718093338712731663126960153345881101729018265142989089542286947985469094294",
+   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
+   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "outcome": "Jaume Munar",
+   "slug": "atp-munar-atmane-2026-08-30",
+   "shares": 1935.0,
+   "cost": 1723.6330000604999,
+   "max_shares": 1935.0,
+   "last_trade_ts": 1788118308
   }
  },
  "positions": [
@@ -32013,8 +32032,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-08-30T19:40:32.417653+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T17:10:00+00:00",
+   "condition_id": "0xd8418ecb65af402d08c22f76c9ccd55a068017dea7978aae69f15a6f8470445c",
+   "asset": "108718093338712731663126960153345881101729018265142989089542286947985469094294",
+   "copy_delay_min": 8.7,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "outcome": "Jaume Munar"
   }
  ],
  "total_pnl": -328.43339999999944,
- "last_updated": "2026-08-30T19:35:23.896768+00:00"
+ "last_updated": "2026-08-30T19:40:32.955232+00:00"
 }
