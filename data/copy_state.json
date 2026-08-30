@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8560.4101532,
+ "bankroll": 8699.2990532,
  "last_seen": {
   "jtwyslljy": 1788107718,
   "0x53757615de": 1787221213
@@ -20246,24 +20246,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "109796197924224359616476205325529650369213444908737845755534521128299101932572",
-   "condition_id": "0x6aa0f0e9bedc0ec3a4ae5bc582fc2c52ccad570d7fe1d7e7a1b27dcc5b5cd36c",
-   "title": "Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B",
-   "outcome": "FUT Esports",
-   "slug": "cs2-ice-fut-2026-08-30",
-   "opened_at": "2026-08-30T14:10:29.349694+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.73,
-   "leader_cost": 3650.0,
-   "copy_delay_min": 8.1,
-   "best_ask": 0.72,
-   "ask_depth": 41249.78,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "35751591715450143090092921457234664945579188861458834978577855105703420293876",
    "condition_id": "0xe456796d9cd9c76064f2ec5738856266969aaf80338d671991a9bdd4c915f48c",
    "title": "Will Real Madrid CF win on 2026-08-30?",
@@ -28245,6 +28227,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109796197924224359616476205325529650369213444908737845755534521128299101932572",
+   "condition_id": "0x6aa0f0e9bedc0ec3a4ae5bc582fc2c52ccad570d7fe1d7e7a1b27dcc5b5cd36c",
+   "title": "Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports",
+   "slug": "cs2-ice-fut-2026-08-30",
+   "opened_at": "2026-08-30T14:10:29.349694+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 3650.0,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.72,
+   "ask_depth": 41249.78,
+   "status": "won",
+   "closed_at": "2026-08-30T17:10:28.326995+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -31926,6 +31930,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:40:27.536524+00:00"
+ "total_pnl": -300.70119999999946,
+ "last_updated": "2026-08-30T17:10:28.328280+00:00"
 }
