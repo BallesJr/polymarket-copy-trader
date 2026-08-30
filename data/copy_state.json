@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9660.4101532,
+ "bankroll": 9560.4101532,
  "last_seen": {
-  "jtwyslljy": 1788094374,
+  "jtwyslljy": 1788098545,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12318,6 +12318,13 @@
    "BUY",
    6000,
    1788094374
+  ],
+  [
+   "0x8ed2ac7801e63da0d3cf11edb34512066974039028101b8a6d4710288ec54a5e",
+   "109796197924224359616476205325529650369213444908737845755534521128299101932572",
+   "BUY",
+   5000,
+   1788098545
   ]
  ],
  "leader_pos": {
@@ -19904,9 +19911,40 @@
    "cost": 4620.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1788094374
+  },
+  "jtwyslljy|109796197924224359616476205325529650369213444908737845755534521128299101932572": {
+   "leader": "jtwyslljy",
+   "asset": "109796197924224359616476205325529650369213444908737845755534521128299101932572",
+   "condition_id": "0x6aa0f0e9bedc0ec3a4ae5bc582fc2c52ccad570d7fe1d7e7a1b27dcc5b5cd36c",
+   "title": "Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports",
+   "slug": "cs2-ice-fut-2026-08-30",
+   "shares": 5000.0,
+   "cost": 3650.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788098545
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "109796197924224359616476205325529650369213444908737845755534521128299101932572",
+   "condition_id": "0x6aa0f0e9bedc0ec3a4ae5bc582fc2c52ccad570d7fe1d7e7a1b27dcc5b5cd36c",
+   "title": "Counter-Strike: Inner Circle Esports vs FUT Esports (BO3) - BLAST Open Porto Group B",
+   "outcome": "FUT Esports",
+   "slug": "cs2-ice-fut-2026-08-30",
+   "opened_at": "2026-08-30T14:10:29.349694+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 3650.0,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.72,
+   "ask_depth": 41249.78,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -31295,5 +31333,5 @@
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T13:00:44.248376+00:00"
+ "last_updated": "2026-08-30T14:10:29.646705+00:00"
 }
