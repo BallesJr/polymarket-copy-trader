@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8560.4101532,
  "last_seen": {
-  "jtwyslljy": 1788107271,
+  "jtwyslljy": 1788107718,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12444,6 +12444,13 @@
    "BUY",
    3000,
    1788107271
+  ],
+  [
+   "0xbf7462c2b00963e3ce84818c8bfc1f1ae23d16e79f8fc79772c65e3b54a815ec",
+   "80463635355492439449942440965091633074979082588327014151698433993236012052115",
+   "BUY",
+   3000,
+   1788107718
   ]
  ],
  "leader_pos": {
@@ -20222,6 +20229,18 @@
    "cost": 2070.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788107271
+  },
+  "jtwyslljy|80463635355492439449942440965091633074979082588327014151698433993236012052115": {
+   "leader": "jtwyslljy",
+   "asset": "80463635355492439449942440965091633074979082588327014151698433993236012052115",
+   "condition_id": "0xed5bf90284a92592c425d0053d4725c78c216d8340db632d7a173aae0fab2a0c",
+   "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
+   "outcome": "Vitality",
+   "slug": "cs2-vit-lgc-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2190.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788107718
   }
  },
  "positions": [
@@ -31889,8 +31908,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Dino Prizmic vs Alexander Shevchenko",
    "outcome": "Dino Prizmic"
+  },
+  {
+   "at": "2026-08-30T16:40:27.190310+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-30T16:30:00+00:00",
+   "condition_id": "0xed5bf90284a92592c425d0053d4725c78c216d8340db632d7a173aae0fab2a0c",
+   "asset": "80463635355492439449942440965091633074979082588327014151698433993236012052115",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -339.59009999999944,
- "last_updated": "2026-08-30T16:35:23.600655+00:00"
+ "last_updated": "2026-08-30T16:40:27.536524+00:00"
 }
