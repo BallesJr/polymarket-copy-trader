@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9906.2187532,
+ "bankroll": 9806.2187532,
  "last_seen": {
-  "jtwyslljy": 1788192055,
+  "jtwyslljy": 1788193767,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12542,6 +12542,20 @@
    "BUY",
    19096.32,
    1788192055
+  ],
+  [
+   "0x16dc79c603aa4f976b2e2e2dec8ef279d3705584e9e7f08cf6646873923c0311",
+   "16401993540575928407680482831903157517781898301630974123281236900064897709972",
+   "BUY",
+   4000,
+   1788193747
+  ],
+  [
+   "0x4b077c1994d83c943af92fb675aee1b16d342583a0e94ced35aaa260e2379cc7",
+   "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "BUY",
+   2000,
+   1788193767
   ]
  ],
  "leader_pos": {
@@ -20356,6 +20370,30 @@
    "cost": 8020.4544,
    "max_shares": 19096.32,
    "last_trade_ts": 1788192055
+  },
+  "jtwyslljy|16401993540575928407680482831903157517781898301630974123281236900064897709972": {
+   "leader": "jtwyslljy",
+   "asset": "16401993540575928407680482831903157517781898301630974123281236900064897709972",
+   "condition_id": "0x979f70e893b2a145f8867f3f111e9fc37387ee199a811bcf6d07406e01d9efcc",
+   "title": "US Open ATP: Matteo Arnaldi vs James Duckworth",
+   "outcome": "James Duckworth",
+   "slug": "atp-arnaldi-duckwor-2026-08-30",
+   "shares": 4000.0,
+   "cost": 1560.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1788193747
+  },
+  "jtwyslljy|7927534371486121821643357840767687365823042221041179666328507492781112728667": {
+   "leader": "jtwyslljy",
+   "asset": "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "condition_id": "0xe543cec96cf0cc7a178a5170967a7dcb5c41f83156281c95db4aba4fd031bbe1",
+   "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-virtane-rublev-2026-08-31",
+   "shares": 2000.0,
+   "cost": 1480.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1788193767
   }
  },
  "positions": [
@@ -20393,6 +20431,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.58,
    "ask_depth": 7616.04,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16401993540575928407680482831903157517781898301630974123281236900064897709972",
+   "condition_id": "0x979f70e893b2a145f8867f3f111e9fc37387ee199a811bcf6d07406e01d9efcc",
+   "title": "US Open ATP: Matteo Arnaldi vs James Duckworth",
+   "outcome": "James Duckworth",
+   "slug": "atp-arnaldi-duckwor-2026-08-30",
+   "opened_at": "2026-08-31T16:35:22.986615+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1560.0,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.39,
+   "ask_depth": 8174.75,
    "status": "open"
   }
  ],
@@ -32107,8 +32163,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Qinwen Zheng vs Kristina Liutova",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-08-31T16:35:22.855341+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:10:00+00:00",
+   "condition_id": "0xe543cec96cf0cc7a178a5170967a7dcb5c41f83156281c95db4aba4fd031bbe1",
+   "asset": "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.75,
+   "cf_shares": 133.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.75,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T16:10:30.091277+00:00"
+ "last_updated": "2026-08-31T16:35:23.294714+00:00"
 }
