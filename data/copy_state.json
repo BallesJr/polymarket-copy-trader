@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9350.663153200001,
+ "bankroll": 9906.2187532,
  "last_seen": {
   "jtwyslljy": 1788118308,
   "0x53757615de": 1787221213
@@ -20360,24 +20360,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
-   "condition_id": "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1",
-   "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
-   "outcome": "Mariano Navone",
-   "slug": "atp-navone-djokovi-2026-08-30",
-   "opened_at": "2026-08-30T16:35:22.901553+00:00",
-   "entry_price": 0.18,
-   "shares": 555.5556,
-   "stake": 100.0,
-   "leader_vwap": 0.18,
-   "leader_cost": 1260.0,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.18,
-   "ask_depth": 5973.12,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
    "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
    "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
@@ -28373,6 +28355,28 @@
    "exit_price": 1.0,
    "pnl": 44.9275,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1791505704503379291587690188367813476221955675336114788658839539540843259136",
+   "condition_id": "0x0e1590e4801e320f20aae9d30278c9095217eda18075a9eb8e5f90027642d8b1",
+   "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-djokovi-2026-08-30",
+   "opened_at": "2026-08-30T16:35:22.901553+00:00",
+   "entry_price": 0.18,
+   "shares": 555.5556,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 1260.0,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.18,
+   "ask_depth": 5973.12,
+   "status": "won",
+   "closed_at": "2026-08-31T04:40:28.955136+00:00",
+   "exit_price": 1.0,
+   "pnl": 455.5556,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32070,6 +32074,6 @@
    "outcome": "Jaume Munar"
   }
  ],
- "total_pnl": -349.3370999999994,
- "last_updated": "2026-08-31T04:30:35.705588+00:00"
+ "total_pnl": 106.21850000000063,
+ "last_updated": "2026-08-31T04:40:28.957476+00:00"
 }
