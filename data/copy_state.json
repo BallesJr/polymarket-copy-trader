@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9106.2187532,
+ "bankroll": 9006.2187532,
  "last_seen": {
-  "jtwyslljy": 1788199689,
+  "jtwyslljy": 1788200143,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12696,6 +12696,13 @@
    "BUY",
    14110.45,
    1788199689
+  ],
+  [
+   "0xb2a4a792fa71f3dd8edee8b62aecda071fbde702edfedc8688497db5a633d68b",
+   "26809602428611055171627644812578544032222990029042365055562632757193745114575",
+   "BUY",
+   70000,
+   1788200143
   ]
  ],
  "leader_pos": {
@@ -20678,6 +20685,18 @@
    "cost": 1693.2540000000001,
    "max_shares": 14110.45,
    "last_trade_ts": 1788199689
+  },
+  "jtwyslljy|26809602428611055171627644812578544032222990029042365055562632757193745114575": {
+   "leader": "jtwyslljy",
+   "asset": "26809602428611055171627644812578544032222990029042365055562632757193745114575",
+   "condition_id": "0xd4cea7608974a3f2df2c6cd4aac691f17d251b874ee4e8eea39af6949c4ad995",
+   "title": "Will Arsenal FC win on 2026-08-31?",
+   "outcome": "No",
+   "slug": "epl-ast-ars-2026-08-31",
+   "shares": 70000.0,
+   "cost": 25200.0,
+   "max_shares": 70000.0,
+   "last_trade_ts": 1788200143
   }
  },
  "positions": [
@@ -20859,6 +20878,24 @@
    "copy_delay_min": 4.8,
    "best_ask": 0.93,
    "ask_depth": 1806.4,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26809602428611055171627644812578544032222990029042365055562632757193745114575",
+   "condition_id": "0xd4cea7608974a3f2df2c6cd4aac691f17d251b874ee4e8eea39af6949c4ad995",
+   "title": "Will Arsenal FC win on 2026-08-31?",
+   "outcome": "No",
+   "slug": "epl-ast-ars-2026-08-31",
+   "opened_at": "2026-08-31T18:20:30.123488+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 25200.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.36,
+   "ask_depth": 869054.67,
    "status": "open"
   }
  ],
@@ -32688,5 +32725,5 @@
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T18:12:08.581185+00:00"
+ "last_updated": "2026-08-31T18:20:30.790912+00:00"
 }
