@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9106.2187532,
  "last_seen": {
-  "jtwyslljy": 1788199536,
+  "jtwyslljy": 1788199689,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12689,6 +12689,13 @@
    "BUY",
    3000,
    1788199536
+  ],
+  [
+   "0x268ffc4b162a4d658ad7f9a37e997003a675c8548222acf2b088953ead38cb7e",
+   "64178007451443469934773691437339699795984461346097812643308734674637397398443",
+   "BUY",
+   14110.45,
+   1788199689
   ]
  ],
  "leader_pos": {
@@ -20659,6 +20666,18 @@
    "cost": 1609.88215,
    "max_shares": 10000.0,
    "last_trade_ts": 1788198777
+  },
+  "jtwyslljy|64178007451443469934773691437339699795984461346097812643308734674637397398443": {
+   "leader": "jtwyslljy",
+   "asset": "64178007451443469934773691437339699795984461346097812643308734674637397398443",
+   "condition_id": "0x297fe2f6faf226fd6c14723f2ea87277e100169bb16ae13bae2f607528a2065f",
+   "title": "US Open ATP: Roman Safiullin vs Carlos Alcaraz",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-safiull-alcaraz-2026-08-30",
+   "shares": 14110.45,
+   "cost": 1693.2540000000001,
+   "max_shares": 14110.45,
+   "last_trade_ts": 1788199689
   }
  },
  "positions": [
@@ -32650,8 +32669,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Stefanos Tsitsipas vs Arthur Fils",
    "outcome": "Arthur Fils"
+  },
+  {
+   "at": "2026-08-31T18:12:08.430999+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T17:30:00+00:00",
+   "condition_id": "0x297fe2f6faf226fd6c14723f2ea87277e100169bb16ae13bae2f607528a2065f",
+   "asset": "64178007451443469934773691437339699795984461346097812643308734674637397398443",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.13,
+   "cf_shares": 769.2308,
+   "cf_cost": 100.0,
+   "cf_entry": 0.13,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Roman Safiullin vs Carlos Alcaraz",
+   "outcome": "Roman Safiullin"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T18:10:27.790172+00:00"
+ "last_updated": "2026-08-31T18:12:08.581185+00:00"
 }
