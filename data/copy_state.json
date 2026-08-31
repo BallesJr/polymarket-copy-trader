@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9806.2187532,
  "last_seen": {
-  "jtwyslljy": 1788193767,
+  "jtwyslljy": 1788194118,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12556,6 +12556,34 @@
    "BUY",
    2000,
    1788193767
+  ],
+  [
+   "0xc36192e42612637f01e0bc7a655aa0f79034870a04ce8d406ff2f83ff92f52fa",
+   "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "BUY",
+   17760.93,
+   1788193960
+  ],
+  [
+   "0x9540d3645d7c5af03c6ca0a827ed84af781ac1995f7e856dd2ef7eea8e806657",
+   "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "BUY",
+   19935.32,
+   1788193980
+  ],
+  [
+   "0xa150bd367bc7df8075fd1af03e4e1196089dff609e671a1c95889ab7480d6cf5",
+   "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "BUY",
+   16586.81,
+   1788194005
+  ],
+  [
+   "0x8c9fbfd96e95511752bac51fe860fe5937985ad9e53150cd2c4eb9bf68f851fc",
+   "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "BUY",
+   9.33,
+   1788194118
   ]
  ],
  "leader_pos": {
@@ -20394,6 +20422,18 @@
    "cost": 1480.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1788193767
+  },
+  "jtwyslljy|22793371822679645207027643133562275002577318567684963885542788049659318281559": {
+   "leader": "jtwyslljy",
+   "asset": "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "condition_id": "0x0d728b0782ebf5ae5423491c1adc692f8bc44c8a93ec8d92272909a0da323b1c",
+   "title": "US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic",
+   "outcome": "Aleksandar Kovacevic",
+   "slug": "atp-vachero-kovacev-2026-08-30",
+   "shares": 54292.39,
+   "cost": 4343.6711000000005,
+   "max_shares": 54292.39,
+   "last_trade_ts": 1788194118
   }
  },
  "positions": [
@@ -32179,8 +32219,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-08-31T16:40:27.647739+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:00:00+00:00",
+   "condition_id": "0x0d728b0782ebf5ae5423491c1adc692f8bc44c8a93ec8d92272909a0da323b1c",
+   "asset": "22793371822679645207027643133562275002577318567684963885542788049659318281559",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.08,
+   "cf_shares": 1250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.08,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic",
+   "outcome": "Aleksandar Kovacevic"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T16:35:23.294714+00:00"
+ "last_updated": "2026-08-31T16:40:27.946296+00:00"
 }
