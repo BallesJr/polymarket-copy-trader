@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9806.2187532,
+ "bankroll": 9506.2187532,
  "last_seen": {
-  "jtwyslljy": 1788195429,
+  "jtwyslljy": 1788197122,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12598,6 +12598,34 @@
    "BUY",
    20519.61,
    1788195429
+  ],
+  [
+   "0x387777a4d0d1354d84224e18c69a262327100f5bc547837c0872faa14aa010de",
+   "9639285838628412373034777823065856019371403041248236046948008117997193581971",
+   "BUY",
+   91.79,
+   1788197055
+  ],
+  [
+   "0x14122d7a758602eb95366d48ce7d2c3e1ec4fe581b8e0144f764aaa0307a34d3",
+   "60807052074918141774165922492694314803155738942176105799041998201267435580312",
+   "BUY",
+   3000,
+   1788197092
+  ],
+  [
+   "0xc99162444f9e91674cf37b73140d6a5e6ad2bd3c325b89d348f1a000a4095afe",
+   "13093953316032873128723498881233680666646560005521998386398109716957664012576",
+   "BUY",
+   2199.75,
+   1788197103
+  ],
+  [
+   "0x1e1c510f866f69488ccba7b0c43d891d7971a6c62de364f62d80abcd1e56574e",
+   "10062325126008393516409861512499424979321740347800894299359151205753393963927",
+   "BUY",
+   685.79,
+   1788197122
   ]
  ],
  "leader_pos": {
@@ -20448,6 +20476,54 @@
    "cost": 4343.6711000000005,
    "max_shares": 54292.39,
    "last_trade_ts": 1788194118
+  },
+  "jtwyslljy|9639285838628412373034777823065856019371403041248236046948008117997193581971": {
+   "leader": "jtwyslljy",
+   "asset": "9639285838628412373034777823065856019371403041248236046948008117997193581971",
+   "condition_id": "0x2f16c34c3652392b845d7e373e32ecbeb8055820747573096123098a136eb77d",
+   "title": "US Open ATP: Felix Auger-Aliassime vs Rinky Hijikata",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-augeral-hijikat-2026-08-30",
+   "shares": 91.79,
+   "cost": 81.6931,
+   "max_shares": 91.79,
+   "last_trade_ts": 1788197055
+  },
+  "jtwyslljy|60807052074918141774165922492694314803155738942176105799041998201267435580312": {
+   "leader": "jtwyslljy",
+   "asset": "60807052074918141774165922492694314803155738942176105799041998201267435580312",
+   "condition_id": "0x14b3f992c694ce2530ed6ec13f0795407769d0285e3d357c82527a86df138809",
+   "title": "US Open ATP: Ben Shelton vs Tallon Griekspoor",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-grieksp-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2610.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788197092
+  },
+  "jtwyslljy|13093953316032873128723498881233680666646560005521998386398109716957664012576": {
+   "leader": "jtwyslljy",
+   "asset": "13093953316032873128723498881233680666646560005521998386398109716957664012576",
+   "condition_id": "0x97af68680bbdd486b3509584be2808ec1d802178bd940537e5e85d82a502fe7e",
+   "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-damm-tiafoe-2026-08-30",
+   "shares": 2199.75,
+   "cost": 1715.805,
+   "max_shares": 2199.75,
+   "last_trade_ts": 1788197103
+  },
+  "jtwyslljy|10062325126008393516409861512499424979321740347800894299359151205753393963927": {
+   "leader": "jtwyslljy",
+   "asset": "10062325126008393516409861512499424979321740347800894299359151205753393963927",
+   "condition_id": "0x1d6d49f52dbe9801ca158d908c3a9e0efca3bf3f071233fede564ab6d44e5df0",
+   "title": "US Open ATP: Jakub Mensik vs Shintaro Mochizuki",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-mochizu-2026-08-30",
+   "shares": 685.79,
+   "cost": 610.3530999999999,
+   "max_shares": 685.79,
+   "last_trade_ts": 1788197122
   }
  },
  "positions": [
@@ -20503,6 +20579,60 @@
    "copy_delay_min": 6.3,
    "best_ask": 0.39,
    "ask_depth": 8174.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13093953316032873128723498881233680666646560005521998386398109716957664012576",
+   "condition_id": "0x97af68680bbdd486b3509584be2808ec1d802178bd940537e5e85d82a502fe7e",
+   "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-damm-tiafoe-2026-08-30",
+   "opened_at": "2026-08-31T17:30:43.612341+00:00",
+   "entry_price": 0.79,
+   "shares": 126.5823,
+   "stake": 100.0,
+   "leader_vwap": 0.78,
+   "leader_cost": 1715.81,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.79,
+   "ask_depth": 45744.74,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10062325126008393516409861512499424979321740347800894299359151205753393963927",
+   "condition_id": "0x1d6d49f52dbe9801ca158d908c3a9e0efca3bf3f071233fede564ab6d44e5df0",
+   "title": "US Open ATP: Jakub Mensik vs Shintaro Mochizuki",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-mochizu-2026-08-30",
+   "opened_at": "2026-08-31T17:30:44.511258+00:00",
+   "entry_price": 0.9,
+   "shares": 111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.89,
+   "leader_cost": 610.35,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.9,
+   "ask_depth": 26432.18,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60807052074918141774165922492694314803155738942176105799041998201267435580312",
+   "condition_id": "0x14b3f992c694ce2530ed6ec13f0795407769d0285e3d357c82527a86df138809",
+   "title": "US Open ATP: Ben Shelton vs Tallon Griekspoor",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-grieksp-2026-08-30",
+   "opened_at": "2026-08-31T17:30:44.709670+00:00",
+   "entry_price": 0.88,
+   "shares": 113.6364,
+   "stake": 100.0,
+   "leader_vwap": 0.87,
+   "leader_cost": 2610.0,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.88,
+   "ask_depth": 3784.3,
    "status": "open"
   }
  ],
@@ -32268,5 +32398,5 @@
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T17:05:25.767240+00:00"
+ "last_updated": "2026-08-31T17:30:45.049686+00:00"
 }
