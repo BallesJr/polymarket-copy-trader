@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9406.2187532,
+ "bankroll": 9206.2187532,
  "last_seen": {
-  "jtwyslljy": 1788197946,
+  "jtwyslljy": 1788198273,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12633,6 +12633,34 @@
    "BUY",
    3000,
    1788197946
+  ],
+  [
+   "0x067c5e66e37244385b81c03dd1b3902128972c05ed3fc7db2bc2852fc208b289",
+   "8463027383340394832560152572062456382871461084900761530630324519719905725092",
+   "BUY",
+   1687.5,
+   1788197979
+  ],
+  [
+   "0x9349376b647608ac5c46565910cc1c00394170a6ce697a142d6b3ee0ab039eea",
+   "8463027383340394832560152572062456382871461084900761530630324519719905725092",
+   "BUY",
+   983.18,
+   1788198007
+  ],
+  [
+   "0xdab55d4288f5b2260304814ed9c1608ab24459dea08079551880ed37e8ff7364",
+   "69997329206714811774745058856111490996403366413377776518804135278081155087512",
+   "BUY",
+   2000,
+   1788198250
+  ],
+  [
+   "0xff45299b5562704fec235d2ea2c365f390e98198690138217c2abd331ca4a089",
+   "113426346801413834005417428995308563112263112887488434054027722901176413651193",
+   "BUY",
+   3000,
+   1788198273
   ]
  ],
  "leader_pos": {
@@ -20543,6 +20571,42 @@
    "cost": 2580.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788197946
+  },
+  "jtwyslljy|8463027383340394832560152572062456382871461084900761530630324519719905725092": {
+   "leader": "jtwyslljy",
+   "asset": "8463027383340394832560152572062456382871461084900761530630324519719905725092",
+   "condition_id": "0x0caef97f7539ecacb0a9ee8be74ddd1757628fe170fa0fe4b0d24ef15758397e",
+   "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
+   "outcome": "Team Falcons",
+   "slug": "cs2-mouz-fal2-2026-08-31",
+   "shares": 2670.68,
+   "cost": 808.67710008125,
+   "max_shares": 2670.68,
+   "last_trade_ts": 1788198007
+  },
+  "jtwyslljy|69997329206714811774745058856111490996403366413377776518804135278081155087512": {
+   "leader": "jtwyslljy",
+   "asset": "69997329206714811774745058856111490996403366413377776518804135278081155087512",
+   "condition_id": "0xc22c2ca2bdeca83eddd2c84c052f370d2c02b490afcdfacdbc22d5af2d681562",
+   "title": "US Open WTA: Maja Chwalinska vs Taylor Townsend",
+   "outcome": "Taylor Townsend",
+   "slug": "wta-chwalin-townsen-2026-08-30",
+   "shares": 2000.0,
+   "cost": 1320.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1788198250
+  },
+  "jtwyslljy|113426346801413834005417428995308563112263112887488434054027722901176413651193": {
+   "leader": "jtwyslljy",
+   "asset": "113426346801413834005417428995308563112263112887488434054027722901176413651193",
+   "condition_id": "0xf44faa12571d31ba70f8d3e0622a00afba9af0ed9b007513710c949e62f6bcb9",
+   "title": "US Open WTA: Daria Snigur vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-snigur-shnaide-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2040.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788198273
   }
  },
  "positions": [
@@ -20670,6 +20734,42 @@
    "copy_delay_min": 1.4,
    "best_ask": 0.86,
    "ask_depth": 27573.23,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113426346801413834005417428995308563112263112887488434054027722901176413651193",
+   "condition_id": "0xf44faa12571d31ba70f8d3e0622a00afba9af0ed9b007513710c949e62f6bcb9",
+   "title": "US Open WTA: Daria Snigur vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-snigur-shnaide-2026-08-30",
+   "opened_at": "2026-08-31T17:45:26.063277+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 2040.0,
+   "copy_delay_min": 0.9,
+   "best_ask": 0.68,
+   "ask_depth": 12008.52,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69997329206714811774745058856111490996403366413377776518804135278081155087512",
+   "condition_id": "0xc22c2ca2bdeca83eddd2c84c052f370d2c02b490afcdfacdbc22d5af2d681562",
+   "title": "US Open WTA: Maja Chwalinska vs Taylor Townsend",
+   "outcome": "Taylor Townsend",
+   "slug": "wta-chwalin-townsen-2026-08-30",
+   "opened_at": "2026-08-31T17:45:26.188150+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 1320.0,
+   "copy_delay_min": 1.3,
+   "best_ask": 0.67,
+   "ask_depth": 1852.49,
    "status": "open"
   }
  ],
@@ -32432,8 +32532,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-08-31T17:45:26.313540+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:35:00+00:00",
+   "condition_id": "0x0caef97f7539ecacb0a9ee8be74ddd1757628fe170fa0fe4b0d24ef15758397e",
+   "asset": "8463027383340394832560152572062456382871461084900761530630324519719905725092",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.24,
+   "cf_shares": 416.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.24,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
+   "outcome": "Team Falcons"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T17:40:32.016857+00:00"
+ "last_updated": "2026-08-31T17:45:26.635276+00:00"
 }
