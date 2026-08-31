@@ -20702,24 +20702,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "85233391666299678827251762709559818983117757355349602567239878571449982146240",
-   "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
-   "title": "US Open WTA: Emma Navarro vs Lois Boisson",
-   "outcome": "Lois Boisson",
-   "slug": "wta-navarro-boisson-2026-08-30",
-   "opened_at": "2026-08-30T16:15:28.878310+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 1450.0,
-   "copy_delay_min": 10.1,
-   "best_ask": 0.29,
-   "ask_depth": 9289.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
    "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
    "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
@@ -28899,6 +28881,28 @@
    "exit_price": 1.0,
    "pnl": 455.5556,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85233391666299678827251762709559818983117757355349602567239878571449982146240",
+   "condition_id": "0x122f54e36517e3b950f3b761577277a2d309e672953bcfd41cfaa8d066ed789e",
+   "title": "US Open WTA: Emma Navarro vs Lois Boisson",
+   "outcome": "Lois Boisson",
+   "slug": "wta-navarro-boisson-2026-08-30",
+   "opened_at": "2026-08-30T16:15:28.878310+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 1450.0,
+   "copy_delay_min": 10.1,
+   "best_ask": 0.29,
+   "ask_depth": 9289.03,
+   "status": "lost",
+   "closed_at": "2026-08-31T18:30:41.855739+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32724,6 +32728,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T18:20:30.790912+00:00"
+ "total_pnl": 6.218500000000631,
+ "last_updated": "2026-08-31T18:30:41.857489+00:00"
 }
