@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9327.8862532,
+ "bankroll": 9444.1653532,
  "last_seen": {
   "jtwyslljy": 1788200143,
   "0x53757615de": 1787221213
@@ -20774,24 +20774,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "89869658422505750520802791857616097823862296510940313704180522160842140207035",
-   "condition_id": "0x7645a04e9ac8a6d149c01b2eea0941fc2e4246cbddb4b12c235ca2efe1d9790e",
-   "title": "US Open WTA: Ashlyn Krueger vs Amanda Anisimova",
-   "outcome": "Amanda Anisimova",
-   "slug": "wta-krueger-anisimo-2026-08-30",
-   "opened_at": "2026-08-31T17:40:31.646586+00:00",
-   "entry_price": 0.86,
-   "shares": 116.2791,
-   "stake": 100.0,
-   "leader_vwap": 0.86,
-   "leader_cost": 2580.0,
-   "copy_delay_min": 1.4,
-   "best_ask": 0.86,
-   "ask_depth": 27573.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "113426346801413834005417428995308563112263112887488434054027722901176413651193",
    "condition_id": "0xf44faa12571d31ba70f8d3e0622a00afba9af0ed9b007513710c949e62f6bcb9",
    "title": "US Open WTA: Daria Snigur vs Diana Shnaider",
@@ -28911,6 +28893,28 @@
    "exit_price": 1.0,
    "pnl": 49.2537,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "89869658422505750520802791857616097823862296510940313704180522160842140207035",
+   "condition_id": "0x7645a04e9ac8a6d149c01b2eea0941fc2e4246cbddb4b12c235ca2efe1d9790e",
+   "title": "US Open WTA: Ashlyn Krueger vs Amanda Anisimova",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-krueger-anisimo-2026-08-30",
+   "opened_at": "2026-08-31T17:40:31.646586+00:00",
+   "entry_price": 0.86,
+   "shares": 116.2791,
+   "stake": 100.0,
+   "leader_vwap": 0.86,
+   "leader_cost": 2580.0,
+   "copy_delay_min": 1.4,
+   "best_ask": 0.86,
+   "ask_depth": 27573.23,
+   "status": "won",
+   "closed_at": "2026-08-31T20:25:24.506185+00:00",
+   "exit_price": 1.0,
+   "pnl": 16.2791,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32736,6 +32740,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 127.88600000000062,
- "last_updated": "2026-08-31T20:10:32.994663+00:00"
+ "total_pnl": 144.16510000000062,
+ "last_updated": "2026-08-31T20:25:24.508014+00:00"
 }
