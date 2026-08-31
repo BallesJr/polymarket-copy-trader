@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9506.2187532,
+ "bankroll": 9406.2187532,
  "last_seen": {
-  "jtwyslljy": 1788197122,
+  "jtwyslljy": 1788197946,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12626,6 +12626,13 @@
    "BUY",
    685.79,
    1788197122
+  ],
+  [
+   "0x93b64f4727b80de82b79a046da9c06a7f1169496bc0562dba4e462c59b6405de",
+   "89869658422505750520802791857616097823862296510940313704180522160842140207035",
+   "BUY",
+   3000,
+   1788197946
   ]
  ],
  "leader_pos": {
@@ -20524,6 +20531,18 @@
    "cost": 610.3530999999999,
    "max_shares": 685.79,
    "last_trade_ts": 1788197122
+  },
+  "jtwyslljy|89869658422505750520802791857616097823862296510940313704180522160842140207035": {
+   "leader": "jtwyslljy",
+   "asset": "89869658422505750520802791857616097823862296510940313704180522160842140207035",
+   "condition_id": "0x7645a04e9ac8a6d149c01b2eea0941fc2e4246cbddb4b12c235ca2efe1d9790e",
+   "title": "US Open WTA: Ashlyn Krueger vs Amanda Anisimova",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-krueger-anisimo-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2580.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788197946
   }
  },
  "positions": [
@@ -20633,6 +20652,24 @@
    "copy_delay_min": 5.8,
    "best_ask": 0.88,
    "ask_depth": 3784.3,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "89869658422505750520802791857616097823862296510940313704180522160842140207035",
+   "condition_id": "0x7645a04e9ac8a6d149c01b2eea0941fc2e4246cbddb4b12c235ca2efe1d9790e",
+   "title": "US Open WTA: Ashlyn Krueger vs Amanda Anisimova",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-krueger-anisimo-2026-08-30",
+   "opened_at": "2026-08-31T17:40:31.646586+00:00",
+   "entry_price": 0.86,
+   "shares": 116.2791,
+   "stake": 100.0,
+   "leader_vwap": 0.86,
+   "leader_cost": 2580.0,
+   "copy_delay_min": 1.4,
+   "best_ask": 0.86,
+   "ask_depth": 27573.23,
    "status": "open"
   }
  ],
@@ -32398,5 +32435,5 @@
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T17:30:45.049686+00:00"
+ "last_updated": "2026-08-31T17:40:32.016857+00:00"
 }
