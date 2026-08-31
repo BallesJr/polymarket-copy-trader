@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9806.2187532,
  "last_seen": {
-  "jtwyslljy": 1788194118,
+  "jtwyslljy": 1788195429,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12584,6 +12584,20 @@
    "BUY",
    9.33,
    1788194118
+  ],
+  [
+   "0x6e21bfd09fb2698cae1dc356458e34fc39b5aed2ea5612cd140bac67d4b76fb8",
+   "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "BUY",
+   2000,
+   1788195373
+  ],
+  [
+   "0xaa7bcc0f17e295a9670b4af537c5782691d2fc692ff4d7430424b34ef3f9d6e5",
+   "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "BUY",
+   20519.61,
+   1788195429
   ]
  ],
  "leader_pos": {
@@ -20418,10 +20432,10 @@
    "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
    "outcome": "Andrey Rublev",
    "slug": "atp-virtane-rublev-2026-08-31",
-   "shares": 2000.0,
-   "cost": 1480.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1788193767
+   "shares": 24519.61,
+   "cost": 10954.179399232404,
+   "max_shares": 24519.61,
+   "last_trade_ts": 1788195429
   },
   "jtwyslljy|22793371822679645207027643133562275002577318567684963885542788049659318281559": {
    "leader": "jtwyslljy",
@@ -32235,8 +32249,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic",
    "outcome": "Aleksandar Kovacevic"
+  },
+  {
+   "at": "2026-08-31T17:05:25.583371+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:10:00+00:00",
+   "condition_id": "0xe543cec96cf0cc7a178a5170967a7dcb5c41f83156281c95db4aba4fd031bbe1",
+   "asset": "7927534371486121821643357840767687365823042221041179666328507492781112728667",
+   "copy_delay_min": 8.3,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T16:40:27.946296+00:00"
+ "last_updated": "2026-08-31T17:05:25.767240+00:00"
 }
