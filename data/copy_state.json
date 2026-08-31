@@ -20771,24 +20771,6 @@
    "best_ask": 0.93,
    "ask_depth": 1806.4,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "26809602428611055171627644812578544032222990029042365055562632757193745114575",
-   "condition_id": "0xd4cea7608974a3f2df2c6cd4aac691f17d251b874ee4e8eea39af6949c4ad995",
-   "title": "Will Arsenal FC win on 2026-08-31?",
-   "outcome": "No",
-   "slug": "epl-ast-ars-2026-08-31",
-   "opened_at": "2026-08-31T18:20:30.123488+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 25200.0,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.36,
-   "ask_depth": 869054.67,
-   "status": "open"
   }
  ],
  "closed": [
@@ -28923,6 +28905,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26809602428611055171627644812578544032222990029042365055562632757193745114575",
+   "condition_id": "0xd4cea7608974a3f2df2c6cd4aac691f17d251b874ee4e8eea39af6949c4ad995",
+   "title": "Will Arsenal FC win on 2026-08-31?",
+   "outcome": "No",
+   "slug": "epl-ast-ars-2026-08-31",
+   "opened_at": "2026-08-31T18:20:30.123488+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 25200.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.36,
+   "ask_depth": 869054.67,
+   "status": "lost",
+   "closed_at": "2026-08-31T21:25:23.334133+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32748,6 +32752,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 347.63420000000065,
- "last_updated": "2026-08-31T21:20:30.635814+00:00"
+ "total_pnl": 247.63420000000065,
+ "last_updated": "2026-08-31T21:25:23.335597+00:00"
 }
