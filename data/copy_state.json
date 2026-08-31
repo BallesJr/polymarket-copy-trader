@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9444.1653532,
+ "bankroll": 9847.6344532,
  "last_seen": {
   "jtwyslljy": 1788200143,
   "0x53757615de": 1787221213
@@ -20702,24 +20702,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "16401993540575928407680482831903157517781898301630974123281236900064897709972",
-   "condition_id": "0x979f70e893b2a145f8867f3f111e9fc37387ee199a811bcf6d07406e01d9efcc",
-   "title": "US Open ATP: Matteo Arnaldi vs James Duckworth",
-   "outcome": "James Duckworth",
-   "slug": "atp-arnaldi-duckwor-2026-08-30",
-   "opened_at": "2026-08-31T16:35:22.986615+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.39,
-   "leader_cost": 1560.0,
-   "copy_delay_min": 6.3,
-   "best_ask": 0.39,
-   "ask_depth": 8174.75,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "13093953316032873128723498881233680666646560005521998386398109716957664012576",
    "condition_id": "0x97af68680bbdd486b3509584be2808ec1d802178bd940537e5e85d82a502fe7e",
    "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
@@ -20770,24 +20752,6 @@
    "copy_delay_min": 5.8,
    "best_ask": 0.88,
    "ask_depth": 3784.3,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "113426346801413834005417428995308563112263112887488434054027722901176413651193",
-   "condition_id": "0xf44faa12571d31ba70f8d3e0622a00afba9af0ed9b007513710c949e62f6bcb9",
-   "title": "US Open WTA: Daria Snigur vs Diana Shnaider",
-   "outcome": "Diana Shnaider",
-   "slug": "wta-snigur-shnaide-2026-08-30",
-   "opened_at": "2026-08-31T17:45:26.063277+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 2040.0,
-   "copy_delay_min": 0.9,
-   "best_ask": 0.68,
-   "ask_depth": 12008.52,
    "status": "open"
   },
   {
@@ -28915,6 +28879,50 @@
    "exit_price": 1.0,
    "pnl": 16.2791,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16401993540575928407680482831903157517781898301630974123281236900064897709972",
+   "condition_id": "0x979f70e893b2a145f8867f3f111e9fc37387ee199a811bcf6d07406e01d9efcc",
+   "title": "US Open ATP: Matteo Arnaldi vs James Duckworth",
+   "outcome": "James Duckworth",
+   "slug": "atp-arnaldi-duckwor-2026-08-30",
+   "opened_at": "2026-08-31T16:35:22.986615+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1560.0,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.39,
+   "ask_depth": 8174.75,
+   "status": "won",
+   "closed_at": "2026-08-31T21:20:30.024257+00:00",
+   "exit_price": 1.0,
+   "pnl": 156.4103,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113426346801413834005417428995308563112263112887488434054027722901176413651193",
+   "condition_id": "0xf44faa12571d31ba70f8d3e0622a00afba9af0ed9b007513710c949e62f6bcb9",
+   "title": "US Open WTA: Daria Snigur vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-snigur-shnaide-2026-08-30",
+   "opened_at": "2026-08-31T17:45:26.063277+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 2040.0,
+   "copy_delay_min": 0.9,
+   "best_ask": 0.68,
+   "ask_depth": 12008.52,
+   "status": "won",
+   "closed_at": "2026-08-31T21:20:30.330528+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32740,6 +32748,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 144.16510000000062,
- "last_updated": "2026-08-31T20:25:24.508014+00:00"
+ "total_pnl": 347.63420000000065,
+ "last_updated": "2026-08-31T21:20:30.635814+00:00"
 }
