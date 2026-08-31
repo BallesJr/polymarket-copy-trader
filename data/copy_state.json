@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9006.2187532,
+ "bankroll": 9178.632553200001,
  "last_seen": {
   "jtwyslljy": 1788200143,
   "0x53757615de": 1787221213
@@ -20702,24 +20702,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
-   "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
-   "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
-   "outcome": "Rei Sakamoto",
-   "slug": "atp-vukic-sakamot-2026-08-30",
-   "opened_at": "2026-08-30T16:35:23.176576+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 1740.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.58,
-   "ask_depth": 7616.04,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "16401993540575928407680482831903157517781898301630974123281236900064897709972",
    "condition_id": "0x979f70e893b2a145f8867f3f111e9fc37387ee199a811bcf6d07406e01d9efcc",
    "title": "US Open ATP: Matteo Arnaldi vs James Duckworth",
@@ -28903,6 +28885,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43252023102154344767688104044190229169683931248546626375154667205233985135074",
+   "condition_id": "0xf58e1d788fd158ebfb669528bccf2c688ff5a534b479731ec34978a96aee5575",
+   "title": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
+   "outcome": "Rei Sakamoto",
+   "slug": "atp-vukic-sakamot-2026-08-30",
+   "opened_at": "2026-08-30T16:35:23.176576+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1740.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.58,
+   "ask_depth": 7616.04,
+   "status": "won",
+   "closed_at": "2026-08-31T19:55:25.828815+00:00",
+   "exit_price": 1.0,
+   "pnl": 72.4138,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32728,6 +32732,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 6.218500000000631,
- "last_updated": "2026-08-31T18:30:41.857489+00:00"
+ "total_pnl": 78.63230000000063,
+ "last_updated": "2026-08-31T19:55:25.830608+00:00"
 }
