@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9106.2187532,
  "last_seen": {
-  "jtwyslljy": 1788198489,
+  "jtwyslljy": 1788198777,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12675,6 +12675,13 @@
    "BUY",
    2215,
    1788198489
+  ],
+  [
+   "0x8813145dea71e70b093296eb0c2f719284faec723f825a5ba9fd7c51f2c83322",
+   "54957327611719165558673665837606006255742342262735247505956873520640259736019",
+   "BUY",
+   10000,
+   1788198777
   ]
  ],
  "leader_pos": {
@@ -20633,6 +20640,18 @@
    "cost": 2790.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788198337
+  },
+  "jtwyslljy|54957327611719165558673665837606006255742342262735247505956873520640259736019": {
+   "leader": "jtwyslljy",
+   "asset": "54957327611719165558673665837606006255742342262735247505956873520640259736019",
+   "condition_id": "0x09ce36db9ba15107e04b0608a12c8a0914debe730e3d1317aec5cf071d430ebd",
+   "title": "US Open ATP: Stefanos Tsitsipas vs Arthur Fils",
+   "outcome": "Arthur Fils",
+   "slug": "atp-tsitsip-fils-2026-08-30",
+   "shares": 10000.0,
+   "cost": 1609.88215,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788198777
   }
  },
  "positions": [
@@ -32608,8 +32627,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
    "outcome": "Team Falcons"
+  },
+  {
+   "at": "2026-08-31T17:55:22.018497+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:10:00+00:00",
+   "condition_id": "0x09ce36db9ba15107e04b0608a12c8a0914debe730e3d1317aec5cf071d430ebd",
+   "asset": "54957327611719165558673665837606006255742342262735247505956873520640259736019",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.186,
+   "cf_shares": 531.7683,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1881,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Stefanos Tsitsipas vs Arthur Fils",
+   "outcome": "Arthur Fils"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T17:50:27.058655+00:00"
+ "last_updated": "2026-08-31T17:55:22.192195+00:00"
 }
