@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9906.2187532,
  "last_seen": {
-  "jtwyslljy": 1788118308,
+  "jtwyslljy": 1788192055,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12535,6 +12535,13 @@
    "BUY",
    1935,
    1788118308
+  ],
+  [
+   "0x3c313f78386e2b16ec5f97b6e18bc20379e4a97e349ccdc143c51efdd5d62ca6",
+   "62357411020019157106666938081654940624902226999420390309667201307198571390225",
+   "BUY",
+   19096.32,
+   1788192055
   ]
  ],
  "leader_pos": {
@@ -20337,6 +20344,18 @@
    "cost": 1723.6330000604999,
    "max_shares": 1935.0,
    "last_trade_ts": 1788118308
+  },
+  "jtwyslljy|62357411020019157106666938081654940624902226999420390309667201307198571390225": {
+   "leader": "jtwyslljy",
+   "asset": "62357411020019157106666938081654940624902226999420390309667201307198571390225",
+   "condition_id": "0x86a49a8f2c81f9344ba7c5f8156b25f22cf10674e12ef113f175bf033cc566a6",
+   "title": "US Open WTA: Qinwen Zheng vs Kristina Liutova",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-liutova-2026-08-30",
+   "shares": 19096.32,
+   "cost": 8020.4544,
+   "max_shares": 19096.32,
+   "last_trade_ts": 1788192055
   }
  },
  "positions": [
@@ -32072,8 +32091,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Jaume Munar vs Terence Atmane",
    "outcome": "Jaume Munar"
+  },
+  {
+   "at": "2026-08-31T16:10:29.773110+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T15:10:00+00:00",
+   "condition_id": "0x86a49a8f2c81f9344ba7c5f8156b25f22cf10674e12ef113f175bf033cc566a6",
+   "asset": "62357411020019157106666938081654940624902226999420390309667201307198571390225",
+   "copy_delay_min": 9.6,
+   "cf_ask": 0.38,
+   "cf_shares": 263.1579,
+   "cf_cost": 100.0,
+   "cf_entry": 0.38,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Qinwen Zheng vs Kristina Liutova",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": 106.21850000000063,
- "last_updated": "2026-08-31T04:40:28.957476+00:00"
+ "last_updated": "2026-08-31T16:10:30.091277+00:00"
 }
