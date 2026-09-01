@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8646.6253302,
+ "bankroll": 8785.5142302,
  "last_seen": {
-  "jtwyslljy": 1788283315,
+  "jtwyslljy": 1788285309,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13018,6 +13018,20 @@
    "SELL",
    83,
    1788283315
+  ],
+  [
+   "0x3bca3620682ddd54a24e1838c8b9b681650c40a9e18a1229a02947a1b7258d6b",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   17879.44,
+   1788285282
+  ],
+  [
+   "0x0732e908b9301b0e63269644d85f08c87fef76d0f3b49f2e14af5f669a9fe6be",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   22418.66,
+   1788285309
   ]
  ],
  "leader_pos": {
@@ -21248,10 +21262,10 @@
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana",
    "slug": "atp-comesan-cobolli-2026-08-30",
-   "shares": 15904.050000000001,
-   "cost": 9465.0046,
-   "max_shares": 15987.050000000001,
-   "last_trade_ts": 1788283315
+   "shares": 56202.149999999994,
+   "cost": 18330.586600000002,
+   "max_shares": 56202.149999999994,
+   "last_trade_ts": 1788285309
   }
  },
  "positions": [
@@ -21433,24 +21447,6 @@
    "copy_delay_min": 4.5,
    "best_ask": 0.93,
    "ask_depth": 62696.76,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "21378106934450335586771133209664201293874059227936250029048472972852964745101",
-   "condition_id": "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379",
-   "title": "US Open WTA: Madison Keys vs Alina Korneeva",
-   "outcome": "Madison Keys",
-   "slug": "wta-keys-korneev-2026-08-30",
-   "opened_at": "2026-09-01T14:45:35.589010+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 1440.0,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.72,
-   "ask_depth": 34269.1,
    "status": "open"
   },
   {
@@ -29830,6 +29826,28 @@
    "exit_price": 0.5,
    "pnl": -43.8202,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21378106934450335586771133209664201293874059227936250029048472972852964745101",
+   "condition_id": "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379",
+   "title": "US Open WTA: Madison Keys vs Alina Korneeva",
+   "outcome": "Madison Keys",
+   "slug": "wta-keys-korneev-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.589010+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 1440.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.72,
+   "ask_depth": 34269.1,
+   "status": "won",
+   "closed_at": "2026-09-01T18:00:52.243307+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33717,8 +33735,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana"
+  },
+  {
+   "at": "2026-09-01T18:00:51.552975+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:10:00+00:00",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 246.62510000000066,
- "last_updated": "2026-09-01T17:25:28.720686+00:00"
+ "total_pnl": 285.51400000000064,
+ "last_updated": "2026-09-01T18:00:52.244926+00:00"
 }
