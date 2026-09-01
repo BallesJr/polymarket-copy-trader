@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8646.6253302,
  "last_seen": {
-  "jtwyslljy": 1788279117,
+  "jtwyslljy": 1788279658,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12934,6 +12934,20 @@
    "BUY",
    6700,
    1788279117
+  ],
+  [
+   "0x700761eae3204fa44a032891a8d4efd4f92c1532e4bcd548c470335bc94345dc",
+   "95337460604767050373491405175632468894455162786682215582878594164525643758357",
+   "BUY",
+   1937.73,
+   1788279642
+  ],
+  [
+   "0x857677beb809efda9d51c77447248b89a36023a2ebda533553e8b9e70cc6ae5d",
+   "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "SELL",
+   3000,
+   1788279658
   ]
  ],
  "leader_pos": {
@@ -20960,10 +20974,10 @@
    "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
    "outcome": "Corentin Moutet",
    "slug": "atp-sweeny-moutet-2026-08-30",
-   "shares": 16803.649999999994,
-   "cost": 11896.065202000005,
+   "shares": 13803.649999999994,
+   "cost": 9916.065202000005,
    "max_shares": 70000.0,
-   "last_trade_ts": 1788278745
+   "last_trade_ts": 1788279658
   },
   "jtwyslljy|110334369605162196616292631222266004349704549736879975738589148901279635262811": {
    "leader": "jtwyslljy",
@@ -21152,10 +21166,10 @@
    "title": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
    "outcome": "Arthur Fery",
    "slug": "atp-fery-musetti-2026-08-30",
-   "shares": 5900.0,
-   "cost": 1416.0,
-   "max_shares": 5900.0,
-   "last_trade_ts": 1788279040
+   "shares": 7837.73,
+   "cost": 1881.0552,
+   "max_shares": 7837.73,
+   "last_trade_ts": 1788279642
   }
  },
  "positions": [
@@ -33576,5 +33590,5 @@
   }
  ],
  "total_pnl": 246.62510000000066,
- "last_updated": "2026-09-01T16:20:31.018645+00:00"
+ "last_updated": "2026-09-01T16:25:36.602953+00:00"
 }
