@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8598.8962152,
+ "bankroll": 8690.4455302,
  "last_seen": {
-  "jtwyslljy": 1788276309,
+  "jtwyslljy": 1788276501,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12878,6 +12878,13 @@
    "SELL",
    10049.4,
    1788276309
+  ],
+  [
+   "0xa7a1594968ce377d60dc2da2656fa047a5d057bf44842c7c8a862ecf8b51b82f",
+   "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "SELL",
+   11485.87,
+   1788276501
   ]
  ],
  "leader_pos": {
@@ -20904,10 +20911,10 @@
    "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
    "outcome": "Corentin Moutet",
    "slug": "atp-sweeny-moutet-2026-08-30",
-   "shares": 39329.869999999995,
-   "cost": 26763.370402000008,
+   "shares": 27843.999999999993,
+   "cost": 19182.696202000006,
    "max_shares": 70000.0,
-   "last_trade_ts": 1788276309
+   "last_trade_ts": 1788276501
   },
   "jtwyslljy|110334369605162196616292631222266004349704549736879975738589148901279635262811": {
    "leader": "jtwyslljy",
@@ -21149,24 +21156,6 @@
    "copy_delay_min": 6.7,
    "best_ask": 0.94,
    "ask_depth": 17394.48,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "64550370464670672605320840436477356870578412054809170499187927954880599445783",
-   "condition_id": "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6",
-   "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
-   "outcome": "Corentin Moutet",
-   "slug": "atp-sweeny-moutet-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.495459+00:00",
-   "entry_price": 0.71,
-   "shares": 140.8451,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 2160.0,
-   "copy_delay_min": 8.8,
-   "best_ask": 0.71,
-   "ask_depth": 75973.61,
    "status": "open"
   },
   {
@@ -29628,6 +29617,28 @@
    "exit_price": 0.94,
    "pnl": 18.9874,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "condition_id": "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6",
+   "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+   "outcome": "Corentin Moutet",
+   "slug": "atp-sweeny-moutet-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.495459+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 8.8,
+   "best_ask": 0.71,
+   "ask_depth": 75973.61,
+   "status": "closed",
+   "closed_at": "2026-09-01T15:35:25.711103+00:00",
+   "exit_price": 0.65,
+   "pnl": -8.4507,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -33469,6 +33480,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": 298.89600000000064,
- "last_updated": "2026-09-01T15:30:40.225199+00:00"
+ "total_pnl": 290.44530000000066,
+ "last_updated": "2026-09-01T15:35:26.197691+00:00"
 }
