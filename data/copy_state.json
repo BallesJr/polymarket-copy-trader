@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9955.161353200001,
  "last_seen": {
-  "jtwyslljy": 1788200143,
+  "jtwyslljy": 1788227641,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12703,6 +12703,13 @@
    "BUY",
    70000,
    1788200143
+  ],
+  [
+   "0x27905b8a893f3afb802e75303ec41e4ed29b34e1832b0b4402229f57faa86618",
+   "9639285838628412373034777823065856019371403041248236046948008117997193581971",
+   "BUY",
+   907.99,
+   1788227641
   ]
  ],
  "leader_pos": {
@@ -20561,10 +20568,10 @@
    "title": "US Open ATP: Felix Auger-Aliassime vs Rinky Hijikata",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-augeral-hijikat-2026-08-30",
-   "shares": 91.79,
-   "cost": 81.6931,
-   "max_shares": 91.79,
-   "last_trade_ts": 1788197055
+   "shares": 999.78,
+   "cost": 907.9639999999999,
+   "max_shares": 999.78,
+   "last_trade_ts": 1788227641
   },
   "jtwyslljy|60807052074918141774165922492694314803155738942176105799041998201267435580312": {
    "leader": "jtwyslljy",
@@ -32754,8 +32761,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Roman Safiullin vs Carlos Alcaraz",
    "outcome": "Roman Safiullin"
+  },
+  {
+   "at": "2026-09-01T01:55:23.758255+00:00",
+   "reason": "in_play",
+   "game_start": "2026-08-31T23:10:00+00:00",
+   "condition_id": "0x2f16c34c3652392b845d7e373e32ecbeb8055820747573096123098a136eb77d",
+   "asset": "9639285838628412373034777823065856019371403041248236046948008117997193581971",
+   "copy_delay_min": 1.4,
+   "cf_ask": 0.91,
+   "cf_shares": 109.8901,
+   "cf_cost": 100.0,
+   "cf_entry": 0.91,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Felix Auger-Aliassime vs Rinky Hijikata",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": 255.16110000000066,
- "last_updated": "2026-09-01T01:20:29.862087+00:00"
+ "last_updated": "2026-09-01T01:55:24.007043+00:00"
 }
