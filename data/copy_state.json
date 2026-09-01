@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8785.5142302,
  "last_seen": {
-  "jtwyslljy": 1788285309,
+  "jtwyslljy": 1788285438,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13032,6 +13032,13 @@
    "BUY",
    22418.66,
    1788285309
+  ],
+  [
+   "0xeff2f35b490e4ea1801f364f1a38532b1c381e70cbf1432ceb5b3e4ee7060bc2",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   1000,
+   1788285438
   ]
  ],
  "leader_pos": {
@@ -21262,10 +21269,10 @@
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana",
    "slug": "atp-comesan-cobolli-2026-08-30",
-   "shares": 56202.149999999994,
-   "cost": 18330.586600000002,
-   "max_shares": 56202.149999999994,
-   "last_trade_ts": 1788285309
+   "shares": 57202.149999999994,
+   "cost": 18540.586600000002,
+   "max_shares": 57202.149999999994,
+   "last_trade_ts": 1788285438
   }
  },
  "positions": [
@@ -33751,8 +33758,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana"
+  },
+  {
+   "at": "2026-09-01T18:05:23.585865+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:10:00+00:00",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.26,
+   "cf_shares": 375.22,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2665,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana"
   }
  ],
  "total_pnl": 285.51400000000064,
- "last_updated": "2026-09-01T18:00:52.244926+00:00"
+ "last_updated": "2026-09-01T18:05:23.905991+00:00"
 }
