@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9847.6344532,
+ "bankroll": 9955.161353200001,
  "last_seen": {
   "jtwyslljy": 1788200143,
   "0x53757615de": 1787221213
@@ -20753,24 +20753,6 @@
    "best_ask": 0.88,
    "ask_depth": 3784.3,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "6355170284603214878962934066525802484531098873295506462915938957884741132751",
-   "condition_id": "0x80b692848ef620e10b8150956e2700a819b19af20b24526ba6878e35ca175fe2",
-   "title": "US Open WTA: Iga Swiatek vs Xiyu Wang",
-   "outcome": "Iga Swiatek",
-   "slug": "wta-swiatek-wan-2026-08-30",
-   "opened_at": "2026-08-31T17:50:26.733956+00:00",
-   "entry_price": 0.93,
-   "shares": 107.5269,
-   "stake": 100.0,
-   "leader_vwap": 0.93,
-   "leader_cost": 2790.0,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.93,
-   "ask_depth": 1806.4,
-   "status": "open"
   }
  ],
  "closed": [
@@ -28927,6 +28909,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "6355170284603214878962934066525802484531098873295506462915938957884741132751",
+   "condition_id": "0x80b692848ef620e10b8150956e2700a819b19af20b24526ba6878e35ca175fe2",
+   "title": "US Open WTA: Iga Swiatek vs Xiyu Wang",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-wan-2026-08-30",
+   "opened_at": "2026-08-31T17:50:26.733956+00:00",
+   "entry_price": 0.93,
+   "shares": 107.5269,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 2790.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.93,
+   "ask_depth": 1806.4,
+   "status": "won",
+   "closed_at": "2026-09-01T01:20:29.860375+00:00",
+   "exit_price": 1.0,
+   "pnl": 7.5269,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32752,6 +32756,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": 247.63420000000065,
- "last_updated": "2026-08-31T21:25:23.335597+00:00"
+ "total_pnl": 255.16110000000066,
+ "last_updated": "2026-09-01T01:20:29.862087+00:00"
 }
