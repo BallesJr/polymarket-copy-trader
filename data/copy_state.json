@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8785.5142302,
+ "bankroll": 8910.5142302,
  "last_seen": {
   "jtwyslljy": 1788287275,
   "0x53757615de": 1787221213
@@ -21371,24 +21371,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "26356538127738938146383370707252698550603960104823033251853971687274972810340",
-   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
-   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
-   "outcome": "Flavio Cobolli",
-   "slug": "atp-comesan-cobolli-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.795997+00:00",
-   "entry_price": 0.8,
-   "shares": 125.0,
-   "stake": 100.0,
-   "leader_vwap": 0.8,
-   "leader_cost": 2400.0,
-   "copy_delay_min": 9.1,
-   "best_ask": 0.8,
-   "ask_depth": 16600.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "17261470005725534654298503216879421296488404573353457102496738506808615187917",
    "condition_id": "0x4c96c929f6dc846e84f0b75eb075fa16b50355ddc6aab4cf794b07424a63f2cb",
    "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
@@ -29876,6 +29858,28 @@
    "exit_price": 1.0,
    "pnl": 38.8889,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26356538127738938146383370707252698550603960104823033251853971687274972810340",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-comesan-cobolli-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.795997+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.8,
+   "ask_depth": 16600.86,
+   "status": "won",
+   "closed_at": "2026-09-01T20:05:25.705397+00:00",
+   "exit_price": 1.0,
+   "pnl": 25.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33829,6 +33833,6 @@
    "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 285.51400000000064,
- "last_updated": "2026-09-01T18:30:39.029522+00:00"
+ "total_pnl": 310.51400000000064,
+ "last_updated": "2026-09-01T20:05:25.707410+00:00"
 }
