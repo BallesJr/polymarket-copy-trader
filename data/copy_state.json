@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10298.8962152,
+ "bankroll": 10198.8962152,
  "last_seen": {
-  "jtwyslljy": 1788237513,
+  "jtwyslljy": 1788273046,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12731,6 +12731,13 @@
    "BUY",
    7,
    1788237513
+  ],
+  [
+   "0x7f459fd72f208cfc446907ab88e60b48d7b0afdb225fe09823b8f0b4256e8d74",
+   "92237357612636008632538071098752250906201167229839472169900558364838258332779",
+   "BUY",
+   3000,
+   1788273046
   ]
  ],
  "leader_pos": {
@@ -20725,9 +20732,40 @@
    "cost": 25200.0,
    "max_shares": 70000.0,
    "last_trade_ts": 1788200143
+  },
+  "jtwyslljy|92237357612636008632538071098752250906201167229839472169900558364838258332779": {
+   "leader": "jtwyslljy",
+   "asset": "92237357612636008632538071098752250906201167229839472169900558364838258332779",
+   "condition_id": "0x5d875d86b31e96a59df0a0a040801ba9a60ffe03c28ff9c116facff471e29c33",
+   "title": "US Open ATP: Mattia Bellucci vs Zsombor Piros",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-bellucc-piros-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2010.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273046
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "92237357612636008632538071098752250906201167229839472169900558364838258332779",
+   "condition_id": "0x5d875d86b31e96a59df0a0a040801ba9a60ffe03c28ff9c116facff471e29c33",
+   "title": "US Open ATP: Mattia Bellucci vs Zsombor Piros",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-bellucc-piros-2026-08-30",
+   "opened_at": "2026-09-01T14:35:24.325801+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 2010.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.67,
+   "ask_depth": 15483.6,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -32812,5 +32850,5 @@
   }
  ],
  "total_pnl": 298.89600000000064,
- "last_updated": "2026-09-01T04:45:26.003275+00:00"
+ "last_updated": "2026-09-01T14:35:24.599923+00:00"
 }
