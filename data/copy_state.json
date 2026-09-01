@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10198.8962152,
+ "bankroll": 9498.8962152,
  "last_seen": {
-  "jtwyslljy": 1788273046,
+  "jtwyslljy": 1788273363,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12738,6 +12738,55 @@
    "BUY",
    3000,
    1788273046
+  ],
+  [
+   "0x49de9041c5f75d01efcd6d95af685c07f43782fe135dc56423443f33b0c7a108",
+   "26356538127738938146383370707252698550603960104823033251853971687274972810340",
+   "BUY",
+   3000,
+   1788273081
+  ],
+  [
+   "0x6c77acd547cc9a16052c77efbea2d920f7da4d087b672fcd0a6d08ab3d54ff3f",
+   "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "BUY",
+   3000,
+   1788273100
+  ],
+  [
+   "0x9ec333f7748a6e64b7096bcccbe46f298c2fd82da552638c317ba257797a9722",
+   "110334369605162196616292631222266004349704549736879975738589148901279635262811",
+   "BUY",
+   3000,
+   1788273226
+  ],
+  [
+   "0xbdfbe770cf84ce7c12a0d7c5c99038605fea14dd7a9cf428e9ba559024ccb83b",
+   "60211188185736571092779479561341633441176186420388659773951548478249542519422",
+   "BUY",
+   3000,
+   1788273234
+  ],
+  [
+   "0x67fa8a62a698df38f16faa691dad805a60e5eb5ae80d5c45ac3f2e1fc244ac00",
+   "56552231229303170306828037721025303545967953343818859277889281263901483718533",
+   "BUY",
+   3000,
+   1788273270
+  ],
+  [
+   "0x53ca9fec05418515f45b14869ad4b157b67efccfdae897ba2b89987cda2b34bd",
+   "52423507721894364315489486553366878109531013768510716353495651745257246503078",
+   "BUY",
+   3900,
+   1788273295
+  ],
+  [
+   "0xb8199bb718c2698ef7ec0ce55bcb3fea091910d3b11d8dffa63de99cc077e80a",
+   "17261470005725534654298503216879421296488404573353457102496738506808615187917",
+   "BUY",
+   3000,
+   1788273363
   ]
  ],
  "leader_pos": {
@@ -20744,6 +20793,90 @@
    "cost": 2010.0000000000002,
    "max_shares": 3000.0,
    "last_trade_ts": 1788273046
+  },
+  "jtwyslljy|26356538127738938146383370707252698550603960104823033251853971687274972810340": {
+   "leader": "jtwyslljy",
+   "asset": "26356538127738938146383370707252698550603960104823033251853971687274972810340",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-comesan-cobolli-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2400.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273081
+  },
+  "jtwyslljy|64550370464670672605320840436477356870578412054809170499187927954880599445783": {
+   "leader": "jtwyslljy",
+   "asset": "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "condition_id": "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6",
+   "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+   "outcome": "Corentin Moutet",
+   "slug": "atp-sweeny-moutet-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2160.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273100
+  },
+  "jtwyslljy|110334369605162196616292631222266004349704549736879975738589148901279635262811": {
+   "leader": "jtwyslljy",
+   "asset": "110334369605162196616292631222266004349704549736879975738589148901279635262811",
+   "condition_id": "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3",
+   "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-taberne-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2820.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273226
+  },
+  "jtwyslljy|60211188185736571092779479561341633441176186420388659773951548478249542519422": {
+   "leader": "jtwyslljy",
+   "asset": "60211188185736571092779479561341633441176186420388659773951548478249542519422",
+   "condition_id": "0xf5733cd6c9b54efefd53f660037f93f14c998c4b6c0727bcb3434f666a492f3c",
+   "title": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-fery-musetti-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2370.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273234
+  },
+  "jtwyslljy|56552231229303170306828037721025303545967953343818859277889281263901483718533": {
+   "leader": "jtwyslljy",
+   "asset": "56552231229303170306828037721025303545967953343818859277889281263901483718533",
+   "condition_id": "0xb0bde3cf972ad57dc75510ff8a29a3e58cc20c3c7db11e6bc17421e89f593a84",
+   "title": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-kokkina-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2670.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273270
+  },
+  "jtwyslljy|52423507721894364315489486553366878109531013768510716353495651745257246503078": {
+   "leader": "jtwyslljy",
+   "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
+   "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
+   "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-svajda-altmaie-2026-08-30",
+   "shares": 3900.0,
+   "cost": 1599.0,
+   "max_shares": 3900.0,
+   "last_trade_ts": 1788273295
+  },
+  "jtwyslljy|17261470005725534654298503216879421296488404573353457102496738506808615187917": {
+   "leader": "jtwyslljy",
+   "asset": "17261470005725534654298503216879421296488404573353457102496738506808615187917",
+   "condition_id": "0x4c96c929f6dc846e84f0b75eb075fa16b50355ddc6aab4cf794b07424a63f2cb",
+   "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-giron-buse-2026-08-30",
+   "shares": 3000.0,
+   "cost": 1830.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273363
   }
  },
  "positions": [
@@ -20763,6 +20896,132 @@
    "copy_delay_min": 4.6,
    "best_ask": 0.67,
    "ask_depth": 15483.6,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56552231229303170306828037721025303545967953343818859277889281263901483718533",
+   "condition_id": "0xb0bde3cf972ad57dc75510ff8a29a3e58cc20c3c7db11e6bc17421e89f593a84",
+   "title": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-kokkina-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.066312+00:00",
+   "entry_price": 0.89,
+   "shares": 112.3596,
+   "stake": 100.0,
+   "leader_vwap": 0.89,
+   "leader_cost": 2670.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.89,
+   "ask_depth": 11534.57,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
+   "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
+   "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-svajda-altmaie-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.221462+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1599.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.41,
+   "ask_depth": 16334.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110334369605162196616292631222266004349704549736879975738589148901279635262811",
+   "condition_id": "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3",
+   "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-taberne-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.364991+00:00",
+   "entry_price": 0.94,
+   "shares": 106.383,
+   "stake": 100.0,
+   "leader_vwap": 0.94,
+   "leader_cost": 2820.0,
+   "copy_delay_min": 6.7,
+   "best_ask": 0.94,
+   "ask_depth": 17394.48,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "condition_id": "0x2ee43c144834af44ab0e677d89807de5608bce1b473d77f7d77cdfe51e4ef9b6",
+   "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+   "outcome": "Corentin Moutet",
+   "slug": "atp-sweeny-moutet-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.495459+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 8.8,
+   "best_ask": 0.71,
+   "ask_depth": 75973.61,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60211188185736571092779479561341633441176186420388659773951548478249542519422",
+   "condition_id": "0xf5733cd6c9b54efefd53f660037f93f14c998c4b6c0727bcb3434f666a492f3c",
+   "title": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-fery-musetti-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.639255+00:00",
+   "entry_price": 0.79,
+   "shares": 126.5823,
+   "stake": 100.0,
+   "leader_vwap": 0.79,
+   "leader_cost": 2370.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.79,
+   "ask_depth": 14416.11,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26356538127738938146383370707252698550603960104823033251853971687274972810340",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-comesan-cobolli-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.795997+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 9.1,
+   "best_ask": 0.8,
+   "ask_depth": 16600.86,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17261470005725534654298503216879421296488404573353457102496738506808615187917",
+   "condition_id": "0x4c96c929f6dc846e84f0b75eb075fa16b50355ddc6aab4cf794b07424a63f2cb",
+   "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-giron-buse-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.939388+00:00",
+   "entry_price": 0.61,
+   "shares": 163.9344,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 1830.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.61,
+   "ask_depth": 18243.46,
    "status": "open"
   }
  ],
@@ -32850,5 +33109,5 @@
   }
  ],
  "total_pnl": 298.89600000000064,
- "last_updated": "2026-09-01T14:35:24.599923+00:00"
+ "last_updated": "2026-09-01T14:40:30.231332+00:00"
 }
