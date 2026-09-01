@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8646.6253302,
  "last_seen": {
-  "jtwyslljy": 1788279658,
+  "jtwyslljy": 1788282504,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12948,6 +12948,20 @@
    "SELL",
    3000,
    1788279658
+  ],
+  [
+   "0x188d1924c6124fa13847d16e54d6d913edd2c7e23b9d104dbb0435285593db8c",
+   "64550370464670672605320840436477356870578412054809170499187927954880599445783",
+   "SELL",
+   4265.72,
+   1788282466
+  ],
+  [
+   "0x58ff9c96a4e56e297263660a591dbc98b2f5c70933ed6c6fb3b95e4cb5ad7fef",
+   "91244603150097488087498604501553498867590895570324657276513207587601343174638",
+   "BUY",
+   10202,
+   1788282504
   ]
  ],
  "leader_pos": {
@@ -20974,10 +20988,10 @@
    "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
    "outcome": "Corentin Moutet",
    "slug": "atp-sweeny-moutet-2026-08-30",
-   "shares": 13803.649999999994,
-   "cost": 9916.065202000005,
+   "shares": 9537.929999999993,
+   "cost": 7100.690002000005,
    "max_shares": 70000.0,
-   "last_trade_ts": 1788279658
+   "last_trade_ts": 1788282466
   },
   "jtwyslljy|110334369605162196616292631222266004349704549736879975738589148901279635262811": {
    "leader": "jtwyslljy",
@@ -21154,10 +21168,10 @@
    "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
    "outcome": "Thea Frodin",
    "slug": "wta-frodin-rybakin-2026-08-30",
-   "shares": 4353.61,
-   "cost": 304.7527,
-   "max_shares": 4353.61,
-   "last_trade_ts": 1788278965
+   "shares": 14555.61,
+   "cost": 1120.9126999999999,
+   "max_shares": 14555.61,
+   "last_trade_ts": 1788282504
   },
   "jtwyslljy|95337460604767050373491405175632468894455162786682215582878594164525643758357": {
    "leader": "jtwyslljy",
@@ -33587,8 +33601,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Felix Auger-Aliassime vs Rinky Hijikata",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-09-01T17:10:34.443658+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:05:00+00:00",
+   "condition_id": "0xd7c868bc2277862455abd630be8b4b245d3d7e9ecec63025e4993e4a7315f2f9",
+   "asset": "91244603150097488087498604501553498867590895570324657276513207587601343174638",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.08,
+   "cf_shares": 1250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.08,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
+   "outcome": "Thea Frodin"
   }
  ],
  "total_pnl": 246.62510000000066,
- "last_updated": "2026-09-01T16:25:36.602953+00:00"
+ "last_updated": "2026-09-01T17:10:34.877441+00:00"
 }
