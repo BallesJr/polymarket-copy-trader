@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9016.8972302,
+ "bankroll": 9166.1509302,
  "last_seen": {
   "jtwyslljy": 1788287275,
   "0x53757615de": 1787221213
@@ -21299,24 +21299,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "92237357612636008632538071098752250906201167229839472169900558364838258332779",
-   "condition_id": "0x5d875d86b31e96a59df0a0a040801ba9a60ffe03c28ff9c116facff471e29c33",
-   "title": "US Open ATP: Mattia Bellucci vs Zsombor Piros",
-   "outcome": "Mattia Bellucci",
-   "slug": "atp-bellucc-piros-2026-08-30",
-   "opened_at": "2026-09-01T14:35:24.325801+00:00",
-   "entry_price": 0.67,
-   "shares": 149.2537,
-   "stake": 100.0,
-   "leader_vwap": 0.67,
-   "leader_cost": 2010.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.67,
-   "ask_depth": 15483.6,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
    "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
    "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
@@ -21493,24 +21475,6 @@
    "copy_delay_min": 7.5,
    "best_ask": 0.57,
    "ask_depth": 5118.75,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "27652476918929295830478592549810103622113769378470999206025730595925585236837",
-   "condition_id": "0x1114f8f1005a051de41c779d3410add9e240a5a45b26831c8386b94baa10f6eb",
-   "title": "US Open WTA: Mirra Andreeva vs Janice Tjen",
-   "outcome": "Janice Tjen",
-   "slug": "wta-andreev-tjen-2026-08-30",
-   "opened_at": "2026-09-01T14:50:36.707094+00:00",
-   "entry_price": 0.15,
-   "shares": 666.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.15,
-   "leader_cost": 630.0,
-   "copy_delay_min": 7.9,
-   "best_ask": 0.15,
-   "ask_depth": 1260.14,
    "status": "open"
   },
   {
@@ -29884,6 +29848,50 @@
    "exit_price": 1.0,
    "pnl": 6.383,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92237357612636008632538071098752250906201167229839472169900558364838258332779",
+   "condition_id": "0x5d875d86b31e96a59df0a0a040801ba9a60ffe03c28ff9c116facff471e29c33",
+   "title": "US Open ATP: Mattia Bellucci vs Zsombor Piros",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-bellucc-piros-2026-08-30",
+   "opened_at": "2026-09-01T14:35:24.325801+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 2010.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.67,
+   "ask_depth": 15483.6,
+   "status": "won",
+   "closed_at": "2026-09-01T21:40:29.259177+00:00",
+   "exit_price": 1.0,
+   "pnl": 49.2537,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "27652476918929295830478592549810103622113769378470999206025730595925585236837",
+   "condition_id": "0x1114f8f1005a051de41c779d3410add9e240a5a45b26831c8386b94baa10f6eb",
+   "title": "US Open WTA: Mirra Andreeva vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-andreev-tjen-2026-08-30",
+   "opened_at": "2026-09-01T14:50:36.707094+00:00",
+   "entry_price": 0.15,
+   "shares": 666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 630.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.15,
+   "ask_depth": 1260.14,
+   "status": "lost",
+   "closed_at": "2026-09-01T21:40:29.503120+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33837,6 +33845,6 @@
    "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 316.8970000000006,
- "last_updated": "2026-09-01T20:50:34.212866+00:00"
+ "total_pnl": 266.1507000000006,
+ "last_updated": "2026-09-01T21:40:29.506012+00:00"
 }
