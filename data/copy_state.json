@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9498.8962152,
+ "bankroll": 8798.8962152,
  "last_seen": {
-  "jtwyslljy": 1788273363,
+  "jtwyslljy": 1788273664,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12787,6 +12787,55 @@
    "BUY",
    3000,
    1788273363
+  ],
+  [
+   "0x169168ee50113927b6931bf9ff6711f95604f5f0e1cf55bc6357fa4ccfce02cd",
+   "22569206105730673736532213888977783854980072554482321833638440167542800413675",
+   "BUY",
+   2500,
+   1788273435
+  ],
+  [
+   "0x95bc05ed8d27ef8fb38851f29f4e32be5a7429db1302b843517d282b07db3d1e",
+   "85894676651931977083480466485204942172056140449093229279448558433619945573882",
+   "BUY",
+   1819,
+   1788273555
+  ],
+  [
+   "0x48c4f6cb88cdb4ad6ef0ebeef9fdfc80c1d049488f0fba7256a0e8c2ba9f763b",
+   "110192411390199347112884811706489240529043755662026528908818527630481624498094",
+   "BUY",
+   3000,
+   1788273595
+  ],
+  [
+   "0x844266d77915d8f9ad1c56188b1c35c5194da53c81b94fd4928ca02c3371831c",
+   "21378106934450335586771133209664201293874059227936250029048472972852964745101",
+   "BUY",
+   2000,
+   1788273616
+  ],
+  [
+   "0xb3a16af1336d484de7dbfa3ef327e01be81f13d8b4017e3b4a2c5ff0d3180d39",
+   "82540098128030691185235394630219095445686501265015846955229706065824819207518",
+   "BUY",
+   3000,
+   1788273628
+  ],
+  [
+   "0xc17e3710834b43bc328841859f47b8983c61196baac1f163a0f1276e053297b7",
+   "54655097703890723740119997265833639910713040666455921625293106656416896120130",
+   "BUY",
+   5000,
+   1788273643
+  ],
+  [
+   "0xe9a43506d3acfd88e67bb16d9be444882834e7ad72727eadf5c565abe8ee8080",
+   "43043614376390384123608836671055908470451747834861595665997878907631103478304",
+   "BUY",
+   3000,
+   1788273664
   ]
  ],
  "leader_pos": {
@@ -20877,6 +20926,90 @@
    "cost": 1830.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788273363
+  },
+  "jtwyslljy|22569206105730673736532213888977783854980072554482321833638440167542800413675": {
+   "leader": "jtwyslljy",
+   "asset": "22569206105730673736532213888977783854980072554482321833638440167542800413675",
+   "condition_id": "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0",
+   "title": "US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-carabel-struff-2026-08-30",
+   "shares": 2500.0,
+   "cost": 875.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1788273435
+  },
+  "jtwyslljy|85894676651931977083480466485204942172056140449093229279448558433619945573882": {
+   "leader": "jtwyslljy",
+   "asset": "85894676651931977083480466485204942172056140449093229279448558433619945573882",
+   "condition_id": "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9",
+   "title": "US Open ATP: Adolfo Vallejo vs Gael Monfils",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-monfils-2026-08-30",
+   "shares": 1819.0,
+   "cost": 1018.6400000000001,
+   "max_shares": 1819.0,
+   "last_trade_ts": 1788273555
+  },
+  "jtwyslljy|110192411390199347112884811706489240529043755662026528908818527630481624498094": {
+   "leader": "jtwyslljy",
+   "asset": "110192411390199347112884811706489240529043755662026528908818527630481624498094",
+   "condition_id": "0xd7c868bc2277862455abd630be8b4b245d3d7e9ecec63025e4993e4a7315f2f9",
+   "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-frodin-rybakin-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2820.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273595
+  },
+  "jtwyslljy|21378106934450335586771133209664201293874059227936250029048472972852964745101": {
+   "leader": "jtwyslljy",
+   "asset": "21378106934450335586771133209664201293874059227936250029048472972852964745101",
+   "condition_id": "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379",
+   "title": "US Open WTA: Madison Keys vs Alina Korneeva",
+   "outcome": "Madison Keys",
+   "slug": "wta-keys-korneev-2026-08-30",
+   "shares": 2000.0,
+   "cost": 1440.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1788273616
+  },
+  "jtwyslljy|82540098128030691185235394630219095445686501265015846955229706065824819207518": {
+   "leader": "jtwyslljy",
+   "asset": "82540098128030691185235394630219095445686501265015846955229706065824819207518",
+   "condition_id": "0x2b4033444fd095ce1f0c84bc905a359d93dcfbc2fe5e10f6f44ec77ee4ce3afe",
+   "title": "US Open WTA: Kaitlin Quevedo vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-quevedo-mertens-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2460.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273628
+  },
+  "jtwyslljy|54655097703890723740119997265833639910713040666455921625293106656416896120130": {
+   "leader": "jtwyslljy",
+   "asset": "54655097703890723740119997265833639910713040666455921625293106656416896120130",
+   "condition_id": "0xbb191791517485a717014983771b9e6403f226b860b332220e76af185551f4c1",
+   "title": "US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier",
+   "outcome": "Oleksandra Oliynykova",
+   "slug": "wta-oliynyk-brantme-2026-08-30",
+   "shares": 5000.0,
+   "cost": 2600.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788273643
+  },
+  "jtwyslljy|43043614376390384123608836671055908470451747834861595665997878907631103478304": {
+   "leader": "jtwyslljy",
+   "asset": "43043614376390384123608836671055908470451747834861595665997878907631103478304",
+   "condition_id": "0xaddaeb4e7445c9f153030622f21ead14f72dd70cce1b3f99312828ce1532c28b",
+   "title": "US Open WTA: Zeynep Sonmez vs Coco Gauff",
+   "outcome": "Coco Gauff",
+   "slug": "wta-sonmez-gauff-2026-08-30",
+   "shares": 3000.0,
+   "cost": 2790.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788273664
   }
  },
  "positions": [
@@ -21022,6 +21155,132 @@
    "copy_delay_min": 4.4,
    "best_ask": 0.61,
    "ask_depth": 18243.46,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85894676651931977083480466485204942172056140449093229279448558433619945573882",
+   "condition_id": "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9",
+   "title": "US Open ATP: Adolfo Vallejo vs Gael Monfils",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-monfils-2026-08-30",
+   "opened_at": "2026-09-01T14:45:34.848722+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 1018.64,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.57,
+   "ask_depth": 27291.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82540098128030691185235394630219095445686501265015846955229706065824819207518",
+   "condition_id": "0x2b4033444fd095ce1f0c84bc905a359d93dcfbc2fe5e10f6f44ec77ee4ce3afe",
+   "title": "US Open WTA: Kaitlin Quevedo vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-quevedo-mertens-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.033844+00:00",
+   "entry_price": 0.82,
+   "shares": 121.9512,
+   "stake": 100.0,
+   "leader_vwap": 0.82,
+   "leader_cost": 2460.0,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.82,
+   "ask_depth": 10229.11,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110192411390199347112884811706489240529043755662026528908818527630481624498094",
+   "condition_id": "0xd7c868bc2277862455abd630be8b4b245d3d7e9ecec63025e4993e4a7315f2f9",
+   "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-frodin-rybakin-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.218198+00:00",
+   "entry_price": 0.94,
+   "shares": 106.383,
+   "stake": 100.0,
+   "leader_vwap": 0.94,
+   "leader_cost": 2820.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.94,
+   "ask_depth": 8505.71,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43043614376390384123608836671055908470451747834861595665997878907631103478304",
+   "condition_id": "0xaddaeb4e7445c9f153030622f21ead14f72dd70cce1b3f99312828ce1532c28b",
+   "title": "US Open WTA: Zeynep Sonmez vs Coco Gauff",
+   "outcome": "Coco Gauff",
+   "slug": "wta-sonmez-gauff-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.411734+00:00",
+   "entry_price": 0.93,
+   "shares": 107.5269,
+   "stake": 100.0,
+   "leader_vwap": 0.93,
+   "leader_cost": 2790.0,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.93,
+   "ask_depth": 62696.76,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21378106934450335586771133209664201293874059227936250029048472972852964745101",
+   "condition_id": "0xda65069e54a9511c29fc17f608d5e4656c7e951f6aa59783bac7499a6635b379",
+   "title": "US Open WTA: Madison Keys vs Alina Korneeva",
+   "outcome": "Madison Keys",
+   "slug": "wta-keys-korneev-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.589010+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 1440.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.72,
+   "ask_depth": 34269.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54655097703890723740119997265833639910713040666455921625293106656416896120130",
+   "condition_id": "0xbb191791517485a717014983771b9e6403f226b860b332220e76af185551f4c1",
+   "title": "US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier",
+   "outcome": "Oleksandra Oliynykova",
+   "slug": "wta-oliynyk-brantme-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.765612+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 2600.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.52,
+   "ask_depth": 46236.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22569206105730673736532213888977783854980072554482321833638440167542800413675",
+   "condition_id": "0x3a6f0e5fd8797f5df02636a28e5e6b3e099052d75be07eb0b2ece0cbdc0950c0",
+   "title": "US Open ATP: Camilo Ugo Carabelli vs Jan-Lennard Struff",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-carabel-struff-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.944176+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 875.0,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.35,
+   "ask_depth": 11523.5,
    "status": "open"
   }
  ],
@@ -33109,5 +33368,5 @@
   }
  ],
  "total_pnl": 298.89600000000064,
- "last_updated": "2026-09-01T14:40:30.231332+00:00"
+ "last_updated": "2026-09-01T14:45:36.305435+00:00"
 }
