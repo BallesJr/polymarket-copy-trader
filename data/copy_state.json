@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10179.9088532,
+ "bankroll": 10298.8962152,
  "last_seen": {
-  "jtwyslljy": 1788232473,
+  "jtwyslljy": 1788237369,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12717,6 +12717,13 @@
    "BUY",
    3800,
    1788232473
+  ],
+  [
+   "0x932070bb71e7a310f8e1056c511ff359dde64089e691b543459732ce6a0baf7b",
+   "13093953316032873128723498881233680666646560005521998386398109716957664012576",
+   "SELL",
+   5232.91,
+   1788237369
   ]
  ],
  "leader_pos": {
@@ -20599,10 +20606,10 @@
    "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
    "outcome": "Frances Tiafoe",
    "slug": "atp-damm-tiafoe-2026-08-30",
-   "shares": 5999.75,
-   "cost": 3235.8050000000003,
+   "shares": 766.8400000000001,
+   "cost": -1630.8013,
    "max_shares": 5999.75,
-   "last_trade_ts": 1788232473
+   "last_trade_ts": 1788237369
   },
   "jtwyslljy|10062325126008393516409861512499424979321740347800894299359151205753393963927": {
    "leader": "jtwyslljy",
@@ -20713,26 +20720,7 @@
    "last_trade_ts": 1788200143
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "13093953316032873128723498881233680666646560005521998386398109716957664012576",
-   "condition_id": "0x97af68680bbdd486b3509584be2808ec1d802178bd940537e5e85d82a502fe7e",
-   "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
-   "outcome": "Frances Tiafoe",
-   "slug": "atp-damm-tiafoe-2026-08-30",
-   "opened_at": "2026-08-31T17:30:43.612341+00:00",
-   "entry_price": 0.79,
-   "shares": 126.5823,
-   "stake": 100.0,
-   "leader_vwap": 0.78,
-   "leader_cost": 1715.81,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.79,
-   "ask_depth": 45744.74,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -28953,6 +28941,28 @@
    "exit_price": 1.0,
    "pnl": 11.1111,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "13093953316032873128723498881233680666646560005521998386398109716957664012576",
+   "condition_id": "0x97af68680bbdd486b3509584be2808ec1d802178bd940537e5e85d82a502fe7e",
+   "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-damm-tiafoe-2026-08-30",
+   "opened_at": "2026-08-31T17:30:43.612341+00:00",
+   "entry_price": 0.79,
+   "shares": 126.5823,
+   "stake": 100.0,
+   "leader_vwap": 0.78,
+   "leader_cost": 1715.81,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.79,
+   "ask_depth": 45744.74,
+   "status": "closed",
+   "closed_at": "2026-09-01T04:40:26.614986+00:00",
+   "exit_price": 0.94,
+   "pnl": 18.9874,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -32794,6 +32804,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": 279.90860000000066,
- "last_updated": "2026-09-01T03:20:29.584726+00:00"
+ "total_pnl": 298.89600000000064,
+ "last_updated": "2026-09-01T04:40:26.615484+00:00"
 }
