@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8646.6253302,
  "last_seen": {
-  "jtwyslljy": 1788282646,
+  "jtwyslljy": 1788283132,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12976,6 +12976,34 @@
    "BUY",
    100,
    1788282646
+  ],
+  [
+   "0xa844c5934b3937f673e66978a448a04c8d54b2156bdba5163af9905176d96a6c",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   11273.78,
+   1788283036
+  ],
+  [
+   "0xdcf99db611ce8b1d1e10a935703c4dfb95dfa6e9bda1626cae82d60b32accf92",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   676,
+   1788283107
+  ],
+  [
+   "0xb7f3f7d8559a7d8902e44af9b445d6b7dca4a3d61f8c19e82b56d9a7c82fa0a9",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   1933,
+   1788283125
+  ],
+  [
+   "0x3f6e3d14ad795959ad9f0880da2501192283aef7e422caef6be0d11679900b08",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   2000,
+   1788283132
   ]
  ],
  "leader_pos": {
@@ -21198,6 +21226,18 @@
    "cost": 1918.7352,
    "max_shares": 7994.73,
    "last_trade_ts": 1788282646
+  },
+  "jtwyslljy|20067403760071209382032364319558909796592689341444877180968297341860783492642": {
+   "leader": "jtwyslljy",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana",
+   "slug": "atp-comesan-cobolli-2026-08-30",
+   "shares": 15882.78,
+   "cost": 9451.008,
+   "max_shares": 15882.78,
+   "last_trade_ts": 1788283132
   }
  },
  "positions": [
@@ -33631,8 +33671,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
    "outcome": "Thea Frodin"
+  },
+  {
+   "at": "2026-09-01T17:20:30.648936+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:10:00+00:00",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "copy_delay_min": 1.6,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana"
   }
  ],
  "total_pnl": 246.62510000000066,
- "last_updated": "2026-09-01T17:15:33.848538+00:00"
+ "last_updated": "2026-09-01T17:20:31.002138+00:00"
 }
