@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8646.6253302,
  "last_seen": {
-  "jtwyslljy": 1788283132,
+  "jtwyslljy": 1788283315,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13004,6 +13004,20 @@
    "BUY",
    2000,
    1788283132
+  ],
+  [
+   "0xad42122a13b8e8710465c33c58ac49c6e8cf7307f214e47274fa1920105ac91a",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   104.27,
+   1788283173
+  ],
+  [
+   "0xcdeff98461b42e9aa91bd73e7d5d6ba03491612bd70de35977f5ed57f0586bbd",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "SELL",
+   83,
+   1788283315
   ]
  ],
  "leader_pos": {
@@ -21234,10 +21248,10 @@
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana",
    "slug": "atp-comesan-cobolli-2026-08-30",
-   "shares": 15882.78,
-   "cost": 9451.008,
-   "max_shares": 15882.78,
-   "last_trade_ts": 1788283132
+   "shares": 15904.050000000001,
+   "cost": 9465.0046,
+   "max_shares": 15987.050000000001,
+   "last_trade_ts": 1788283315
   }
  },
  "positions": [
@@ -33687,8 +33701,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana"
+  },
+  {
+   "at": "2026-09-01T17:25:28.377208+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:10:00+00:00",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "copy_delay_min": 3.5,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana"
   }
  ],
  "total_pnl": 246.62510000000066,
- "last_updated": "2026-09-01T17:20:31.002138+00:00"
+ "last_updated": "2026-09-01T17:25:28.720686+00:00"
 }
