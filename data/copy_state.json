@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8785.5142302,
  "last_seen": {
-  "jtwyslljy": 1788285438,
+  "jtwyslljy": 1788285741,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13039,6 +13039,20 @@
    "BUY",
    1000,
    1788285438
+  ],
+  [
+   "0x2819717228e7898e374c0e1f5bd014fe187a33a80795583e3f738988d3318c0a",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   12500,
+   1788285672
+  ],
+  [
+   "0xde09000cb64e42f91d5526e3c41f808e16da1d040c28e698276201cd39189d26",
+   "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "BUY",
+   7975.64,
+   1788285741
   ]
  ],
  "leader_pos": {
@@ -21269,10 +21283,10 @@
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana",
    "slug": "atp-comesan-cobolli-2026-08-30",
-   "shares": 57202.149999999994,
-   "cost": 18540.586600000002,
-   "max_shares": 57202.149999999994,
-   "last_trade_ts": 1788285438
+   "shares": 77677.79,
+   "cost": 22840.471,
+   "max_shares": 77677.79,
+   "last_trade_ts": 1788285741
   }
  },
  "positions": [
@@ -33774,8 +33788,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana"
+  },
+  {
+   "at": "2026-09-01T18:10:28.657909+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-01T15:10:00+00:00",
+   "condition_id": "0x8d3851aae90184e9e2a4bf96cf1dfa275b1ff61abc68a29d3ed97d57b0ee3627",
+   "asset": "20067403760071209382032364319558909796592689341444877180968297341860783492642",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.32,
+   "cf_shares": 303.2121,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3298,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "outcome": "Francisco Comesana"
   }
  ],
  "total_pnl": 285.51400000000064,
- "last_updated": "2026-09-01T18:05:23.905991+00:00"
+ "last_updated": "2026-09-01T18:10:28.942684+00:00"
 }
