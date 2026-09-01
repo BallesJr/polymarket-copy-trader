@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8910.5142302,
+ "bankroll": 9016.8972302,
  "last_seen": {
   "jtwyslljy": 1788287275,
   "0x53757615de": 1787221213
@@ -21425,24 +21425,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "110192411390199347112884811706489240529043755662026528908818527630481624498094",
-   "condition_id": "0xd7c868bc2277862455abd630be8b4b245d3d7e9ecec63025e4993e4a7315f2f9",
-   "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
-   "outcome": "Elena Rybakina",
-   "slug": "wta-frodin-rybakin-2026-08-30",
-   "opened_at": "2026-09-01T14:45:35.218198+00:00",
-   "entry_price": 0.94,
-   "shares": 106.383,
-   "stake": 100.0,
-   "leader_vwap": 0.94,
-   "leader_cost": 2820.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.94,
-   "ask_depth": 8505.71,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43043614376390384123608836671055908470451747834861595665997878907631103478304",
    "condition_id": "0xaddaeb4e7445c9f153030622f21ead14f72dd70cce1b3f99312828ce1532c28b",
    "title": "US Open WTA: Zeynep Sonmez vs Coco Gauff",
@@ -29880,6 +29862,28 @@
    "exit_price": 1.0,
    "pnl": 25.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110192411390199347112884811706489240529043755662026528908818527630481624498094",
+   "condition_id": "0xd7c868bc2277862455abd630be8b4b245d3d7e9ecec63025e4993e4a7315f2f9",
+   "title": "US Open WTA: Thea Frodin vs Elena Rybakina",
+   "outcome": "Elena Rybakina",
+   "slug": "wta-frodin-rybakin-2026-08-30",
+   "opened_at": "2026-09-01T14:45:35.218198+00:00",
+   "entry_price": 0.94,
+   "shares": 106.383,
+   "stake": 100.0,
+   "leader_vwap": 0.94,
+   "leader_cost": 2820.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.94,
+   "ask_depth": 8505.71,
+   "status": "won",
+   "closed_at": "2026-09-01T20:50:34.211032+00:00",
+   "exit_price": 1.0,
+   "pnl": 6.383,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33833,6 +33837,6 @@
    "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 310.51400000000064,
- "last_updated": "2026-09-01T20:05:25.707410+00:00"
+ "total_pnl": 316.8970000000006,
+ "last_updated": "2026-09-01T20:50:34.212866+00:00"
 }
