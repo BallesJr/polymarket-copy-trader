@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8798.8962152,
+ "bankroll": 8598.8962152,
  "last_seen": {
-  "jtwyslljy": 1788273664,
+  "jtwyslljy": 1788273786,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -12836,6 +12836,20 @@
    "BUY",
    3000,
    1788273664
+  ],
+  [
+   "0xa42204c2bfd1266d6804d696ac5aed241e04af978257001bb4c29a4530f4eec8",
+   "27652476918929295830478592549810103622113769378470999206025730595925585236837",
+   "BUY",
+   4200,
+   1788273763
+  ],
+  [
+   "0xa6c09050f140d815ae4b634fb67494ded7163f2f5a40b61916b7fc884973ef90",
+   "82044786838163810749920441956330490924718343771571018717104447979520404846440",
+   "BUY",
+   3900,
+   1788273786
   ]
  ],
  "leader_pos": {
@@ -21010,6 +21024,30 @@
    "cost": 2790.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788273664
+  },
+  "jtwyslljy|27652476918929295830478592549810103622113769378470999206025730595925585236837": {
+   "leader": "jtwyslljy",
+   "asset": "27652476918929295830478592549810103622113769378470999206025730595925585236837",
+   "condition_id": "0x1114f8f1005a051de41c779d3410add9e240a5a45b26831c8386b94baa10f6eb",
+   "title": "US Open WTA: Mirra Andreeva vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-andreev-tjen-2026-08-30",
+   "shares": 4200.0,
+   "cost": 630.0,
+   "max_shares": 4200.0,
+   "last_trade_ts": 1788273763
+  },
+  "jtwyslljy|82044786838163810749920441956330490924718343771571018717104447979520404846440": {
+   "leader": "jtwyslljy",
+   "asset": "82044786838163810749920441956330490924718343771571018717104447979520404846440",
+   "condition_id": "0xdee7062c12ce9193286aa7b5b93df17aa3bb5fac283ed29de0a0ab55626b944b",
+   "title": "US Open WTA: Tatjana Maria vs Jelena Ostapenko",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-maria-ostapen-2026-08-30",
+   "shares": 3900.0,
+   "cost": 2223.0,
+   "max_shares": 3900.0,
+   "last_trade_ts": 1788273786
   }
  },
  "positions": [
@@ -21281,6 +21319,42 @@
    "copy_delay_min": 8.3,
    "best_ask": 0.35,
    "ask_depth": 11523.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82044786838163810749920441956330490924718343771571018717104447979520404846440",
+   "condition_id": "0xdee7062c12ce9193286aa7b5b93df17aa3bb5fac283ed29de0a0ab55626b944b",
+   "title": "US Open WTA: Tatjana Maria vs Jelena Ostapenko",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-maria-ostapen-2026-08-30",
+   "opened_at": "2026-09-01T14:50:36.355147+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2223.0,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.57,
+   "ask_depth": 5118.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "27652476918929295830478592549810103622113769378470999206025730595925585236837",
+   "condition_id": "0x1114f8f1005a051de41c779d3410add9e240a5a45b26831c8386b94baa10f6eb",
+   "title": "US Open WTA: Mirra Andreeva vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-andreev-tjen-2026-08-30",
+   "opened_at": "2026-09-01T14:50:36.707094+00:00",
+   "entry_price": 0.15,
+   "shares": 666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 630.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.15,
+   "ask_depth": 1260.14,
    "status": "open"
   }
  ],
@@ -33368,5 +33442,5 @@
   }
  ],
  "total_pnl": 298.89600000000064,
- "last_updated": "2026-09-01T14:45:36.305435+00:00"
+ "last_updated": "2026-09-01T14:50:37.121084+00:00"
 }
