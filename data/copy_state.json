@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 10068.7977532,
+ "bankroll": 10179.9088532,
  "last_seen": {
   "jtwyslljy": 1788227641,
   "0x53757615de": 1787221213
@@ -20724,24 +20724,6 @@
    "best_ask": 0.79,
    "ask_depth": 45744.74,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "10062325126008393516409861512499424979321740347800894299359151205753393963927",
-   "condition_id": "0x1d6d49f52dbe9801ca158d908c3a9e0efca3bf3f071233fede564ab6d44e5df0",
-   "title": "US Open ATP: Jakub Mensik vs Shintaro Mochizuki",
-   "outcome": "Jakub Mensik",
-   "slug": "atp-mensik-mochizu-2026-08-30",
-   "opened_at": "2026-08-31T17:30:44.511258+00:00",
-   "entry_price": 0.9,
-   "shares": 111.1111,
-   "stake": 100.0,
-   "leader_vwap": 0.89,
-   "leader_cost": 610.35,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.9,
-   "ask_depth": 26432.18,
-   "status": "open"
   }
  ],
  "closed": [
@@ -28942,6 +28924,28 @@
    "exit_price": 1.0,
    "pnl": 13.6364,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "10062325126008393516409861512499424979321740347800894299359151205753393963927",
+   "condition_id": "0x1d6d49f52dbe9801ca158d908c3a9e0efca3bf3f071233fede564ab6d44e5df0",
+   "title": "US Open ATP: Jakub Mensik vs Shintaro Mochizuki",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-mochizu-2026-08-30",
+   "opened_at": "2026-08-31T17:30:44.511258+00:00",
+   "entry_price": 0.9,
+   "shares": 111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.89,
+   "leader_cost": 610.35,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.9,
+   "ask_depth": 26432.18,
+   "status": "won",
+   "closed_at": "2026-09-01T02:55:20.043784+00:00",
+   "exit_price": 1.0,
+   "pnl": 11.1111,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -32783,6 +32787,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": 268.79750000000064,
- "last_updated": "2026-09-01T02:35:27.800282+00:00"
+ "total_pnl": 279.90860000000066,
+ "last_updated": "2026-09-01T02:55:20.045712+00:00"
 }
