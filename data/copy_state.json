@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8690.4455302,
+ "bankroll": 8746.6253302,
  "last_seen": {
   "jtwyslljy": 1788278230,
   "0x53757615de": 1787221213
@@ -21120,24 +21120,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "56552231229303170306828037721025303545967953343818859277889281263901483718533",
-   "condition_id": "0xb0bde3cf972ad57dc75510ff8a29a3e58cc20c3c7db11e6bc17421e89f593a84",
-   "title": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-kokkina-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.066312+00:00",
-   "entry_price": 0.89,
-   "shares": 112.3596,
-   "stake": 100.0,
-   "leader_vwap": 0.89,
-   "leader_cost": 2670.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.89,
-   "ask_depth": 11534.57,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
    "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
    "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
@@ -29653,6 +29635,28 @@
    "exit_price": 0.65,
    "pnl": -8.4507,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56552231229303170306828037721025303545967953343818859277889281263901483718533",
+   "condition_id": "0xb0bde3cf972ad57dc75510ff8a29a3e58cc20c3c7db11e6bc17421e89f593a84",
+   "title": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-kokkina-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.066312+00:00",
+   "entry_price": 0.89,
+   "shares": 112.3596,
+   "stake": 100.0,
+   "leader_vwap": 0.89,
+   "leader_cost": 2670.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.89,
+   "ask_depth": 11534.57,
+   "status": "refund",
+   "closed_at": "2026-09-01T16:10:29.941519+00:00",
+   "exit_price": 0.5,
+   "pnl": -43.8202,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33494,6 +33498,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": 290.44530000000066,
- "last_updated": "2026-09-01T16:05:21.940823+00:00"
+ "total_pnl": 246.62510000000066,
+ "last_updated": "2026-09-01T16:10:29.943260+00:00"
 }
