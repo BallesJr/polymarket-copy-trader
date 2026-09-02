@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9068.3652302,
  "last_seen": {
-  "jtwyslljy": 1788375063,
+  "jtwyslljy": 1788375385,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13214,6 +13214,27 @@
    "BUY",
    24473.9,
    1788375063
+  ],
+  [
+   "0x222185d88ab0b53dcacadcd6352fd0bb265f1e3080f81fea05b295bfdbfcc46c",
+   "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "BUY",
+   3121.6,
+   1788375267
+  ],
+  [
+   "0x92325b8a78d6489f50ec640abf623249bdf2d2e1a82404d5eeedc8ea3d34306c",
+   "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "BUY",
+   4000,
+   1788375360
+  ],
+  [
+   "0xc9d56d0382747721e789a94c2d57647a84d159a0c5029d7bd890b3616e46596d",
+   "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "BUY",
+   386,
+   1788375385
   ]
  ],
  "leader_pos": {
@@ -21588,10 +21609,10 @@
    "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz",
    "slug": "atp-shelton-hurkacz-2026-09-02",
-   "shares": 24473.9,
-   "cost": 7586.909000000001,
-   "max_shares": 24473.9,
-   "last_trade_ts": 1788375063
+   "shares": 31981.5,
+   "cost": 10051.773000000001,
+   "max_shares": 31981.5,
+   "last_trade_ts": 1788375385
   }
  },
  "positions": [
@@ -34413,8 +34434,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Emma Navarro vs Caty McNally",
    "outcome": "Caty McNally"
+  },
+  {
+   "at": "2026-09-02T19:00:48.619759+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T17:10:00+00:00",
+   "condition_id": "0x0941697b2f0105c2d7f6a245cfbe79ba2cc2673aa8b185675598f8c3e3c83619",
+   "asset": "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T18:55:26.387211+00:00"
+ "last_updated": "2026-09-02T19:00:50.030168+00:00"
 }
