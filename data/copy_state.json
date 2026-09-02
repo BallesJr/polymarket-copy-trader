@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9768.3652302,
  "last_seen": {
-  "jtwyslljy": 1788348882,
+  "jtwyslljy": 1788360927,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13081,6 +13081,27 @@
    "BUY",
    7999.99,
    1788348882
+  ],
+  [
+   "0xd58cb54982adb0b540cc8f1a1c1f46b5478c128876a537c92251aeff7f2a9bbc",
+   "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "BUY",
+   120000,
+   1788360745
+  ],
+  [
+   "0x45590bdc3a860b1b81d961054a9a5600eb09a1ce0bc6e0fd0e07d3383c3331ea",
+   "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "BUY",
+   10000,
+   1788360780
+  ],
+  [
+   "0xe63540bb535ac14b1fca0507b95fbe0dd5cf9563c711e30097f04f1b193712dc",
+   "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "BUY",
+   15833.15,
+   1788360927
   ]
  ],
  "leader_pos": {
@@ -21327,6 +21348,18 @@
    "cost": 16364.1034,
    "max_shares": 26818.909999999996,
    "last_trade_ts": 1788348882
+  },
+  "jtwyslljy|17023124228269928849020611259015948850061676830917875073785033885105715180702": {
+   "leader": "jtwyslljy",
+   "asset": "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "condition_id": "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c",
+   "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-rublev-2026-09-02",
+   "shares": 145833.15,
+   "cost": 56874.9285,
+   "max_shares": 145833.15,
+   "last_trade_ts": 1788360927
   }
  },
  "positions": [
@@ -33926,8 +33959,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
    "outcome": "Francisco Comesana"
+  },
+  {
+   "at": "2026-09-02T15:01:02.652792+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T15:00:00+00:00",
+   "condition_id": "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c",
+   "asset": "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+   "outcome": "Daniel Merida Aguilar"
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T13:25:28.171646+00:00"
+ "last_updated": "2026-09-02T15:01:03.054744+00:00"
 }
