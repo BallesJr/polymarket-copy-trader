@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9768.3652302,
+ "bankroll": 9668.3652302,
  "last_seen": {
-  "jtwyslljy": 1788361521,
+  "jtwyslljy": 1788365787,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13123,6 +13123,13 @@
    "BUY",
    3000,
    1788361521
+  ],
+  [
+   "0xc2e8a4f063f8c86710bddea2c462c35cf118acacbe996509b1f27a3224260db1",
+   "84478983857065961422510397787739359630739944262821395736390969130168991982451",
+   "BUY",
+   3000,
+   1788365787
   ]
  ],
  "leader_pos": {
@@ -21393,6 +21400,18 @@
    "cost": 2070.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788361521
+  },
+  "jtwyslljy|84478983857065961422510397787739359630739944262821395736390969130168991982451": {
+   "leader": "jtwyslljy",
+   "asset": "84478983857065961422510397787739359630739944262821395736390969130168991982451",
+   "condition_id": "0x1caac48b62c0d62cf4b91ccfcf66f2061df667df95438165fc586a7159c12705",
+   "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-bu-2026-09-01",
+   "shares": 3000.0,
+   "cost": 2730.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788365787
   }
  },
  "positions": [
@@ -21466,6 +21485,24 @@
    "copy_delay_min": 7.5,
    "best_ask": 0.57,
    "ask_depth": 5118.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84478983857065961422510397787739359630739944262821395736390969130168991982451",
+   "condition_id": "0x1caac48b62c0d62cf4b91ccfcf66f2061df667df95438165fc586a7159c12705",
+   "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-bu-2026-09-01",
+   "opened_at": "2026-09-02T16:20:31.002273+00:00",
+   "entry_price": 0.91,
+   "shares": 109.8901,
+   "stake": 100.0,
+   "leader_vwap": 0.91,
+   "leader_cost": 2730.0,
+   "copy_delay_min": 4.1,
+   "best_ask": 0.91,
+   "ask_depth": 2970.45,
    "status": "open"
   }
  ],
@@ -34043,5 +34080,5 @@
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T15:10:38.862313+00:00"
+ "last_updated": "2026-09-02T16:20:31.356002+00:00"
 }
