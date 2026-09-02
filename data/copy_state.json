@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9768.3652302,
  "last_seen": {
-  "jtwyslljy": 1788361296,
+  "jtwyslljy": 1788361521,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13116,6 +13116,13 @@
    "BUY",
    5000,
    1788361296
+  ],
+  [
+   "0x8e03a30be3fc5393dd2d5b94477a3edd064b970f59eb21e21185f99ec29a2154",
+   "99885603586811736138203501815862170590217383170036417799446145903991424561364",
+   "BUY",
+   3000,
+   1788361521
   ]
  ],
  "leader_pos": {
@@ -21374,6 +21381,18 @@
    "cost": 59838.9285,
    "max_shares": 153433.15,
    "last_trade_ts": 1788361296
+  },
+  "jtwyslljy|99885603586811736138203501815862170590217383170036417799446145903991424561364": {
+   "leader": "jtwyslljy",
+   "asset": "99885603586811736138203501815862170590217383170036417799446145903991424561364",
+   "condition_id": "0xe87c7fb96399a95b79782fbf3a871fbebad06ad9581fbe2429a362a6d6883a68",
+   "title": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-nakashi-michels-2026-09-02",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788361521
   }
  },
  "positions": [
@@ -34005,8 +34024,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
    "outcome": "Daniel Merida Aguilar"
+  },
+  {
+   "at": "2026-09-02T15:10:30.257990+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T15:00:00+00:00",
+   "condition_id": "0xe87c7fb96399a95b79782fbf3a871fbebad06ad9581fbe2429a362a6d6883a68",
+   "asset": "99885603586811736138203501815862170590217383170036417799446145903991424561364",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.68,
+   "cf_shares": 147.0588,
+   "cf_cost": 100.0,
+   "cf_entry": 0.68,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
+   "outcome": "Brandon Nakashima"
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T15:05:30.817724+00:00"
+ "last_updated": "2026-09-02T15:10:38.862313+00:00"
 }
