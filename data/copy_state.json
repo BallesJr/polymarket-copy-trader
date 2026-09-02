@@ -21618,24 +21618,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
-   "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
-   "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
-   "outcome": "Daniel Altmaier",
-   "slug": "atp-svajda-altmaie-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.221462+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 1599.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.41,
-   "ask_depth": 16334.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "110334369605162196616292631222266004349704549736879975738589148901279635262811",
    "condition_id": "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3",
    "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
@@ -30391,6 +30373,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "52423507721894364315489486553366878109531013768510716353495651745257246503078",
+   "condition_id": "0x52815904c92def3e2ce1e8f45fb6fbe87f44c53c42f6f5556b371e84079c27ad",
+   "title": "US Open ATP: Zachary Svajda vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-svajda-altmaie-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.221462+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 1599.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.41,
+   "ask_depth": 16334.03,
+   "status": "lost",
+   "closed_at": "2026-09-02T22:00:50.147801+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34456,6 +34460,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": 68.36500000000058,
- "last_updated": "2026-09-02T21:45:32.468245+00:00"
+ "total_pnl": -31.634999999999422,
+ "last_updated": "2026-09-02T22:00:50.149835+00:00"
 }
