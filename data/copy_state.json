@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9232.2996302,
+ "bankroll": 9338.682630199999,
  "last_seen": {
   "jtwyslljy": 1788375385,
   "0x53757615de": 1787221213
@@ -21618,24 +21618,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "110334369605162196616292631222266004349704549736879975738589148901279635262811",
-   "condition_id": "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3",
-   "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
-   "outcome": "Zizou Bergs",
-   "slug": "atp-bergs-taberne-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.364991+00:00",
-   "entry_price": 0.94,
-   "shares": 106.383,
-   "stake": 100.0,
-   "leader_vwap": 0.94,
-   "leader_cost": 2820.0,
-   "copy_delay_min": 6.7,
-   "best_ask": 0.94,
-   "ask_depth": 17394.48,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
    "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
    "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
@@ -30403,6 +30385,28 @@
    "exit_price": 1.0,
    "pnl": 63.9344,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110334369605162196616292631222266004349704549736879975738589148901279635262811",
+   "condition_id": "0x6c8a38bd5326e1b70643f5f2dd026de7ca6ca26a6d3f04088852950da8f620c3",
+   "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-taberne-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.364991+00:00",
+   "entry_price": 0.94,
+   "shares": 106.383,
+   "stake": 100.0,
+   "leader_vwap": 0.94,
+   "leader_cost": 2820.0,
+   "copy_delay_min": 6.7,
+   "best_ask": 0.94,
+   "ask_depth": 17394.48,
+   "status": "won",
+   "closed_at": "2026-09-02T23:35:21.174435+00:00",
+   "exit_price": 1.0,
+   "pnl": 6.383,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34468,6 +34472,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": -67.70059999999943,
- "last_updated": "2026-09-02T23:10:31.097344+00:00"
+ "total_pnl": -61.31759999999942,
+ "last_updated": "2026-09-02T23:35:21.176434+00:00"
 }
