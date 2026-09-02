@@ -21690,24 +21690,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "84478983857065961422510397787739359630739944262821395736390969130168991982451",
-   "condition_id": "0x1caac48b62c0d62cf4b91ccfcf66f2061df667df95438165fc586a7159c12705",
-   "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-bu-2026-09-01",
-   "opened_at": "2026-09-02T16:20:31.002273+00:00",
-   "entry_price": 0.91,
-   "shares": 109.8901,
-   "stake": 100.0,
-   "leader_vwap": 0.91,
-   "leader_cost": 2730.0,
-   "copy_delay_min": 4.1,
-   "best_ask": 0.91,
-   "ask_depth": 2970.45,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
    "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
    "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
@@ -30387,6 +30369,28 @@
    "exit_price": 1.0,
    "pnl": 53.8462,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84478983857065961422510397787739359630739944262821395736390969130168991982451",
+   "condition_id": "0x1caac48b62c0d62cf4b91ccfcf66f2061df667df95438165fc586a7159c12705",
+   "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-bu-2026-09-01",
+   "opened_at": "2026-09-02T16:20:31.002273+00:00",
+   "entry_price": 0.91,
+   "shares": 109.8901,
+   "stake": 100.0,
+   "leader_vwap": 0.91,
+   "leader_cost": 2730.0,
+   "copy_delay_min": 4.1,
+   "best_ask": 0.91,
+   "ask_depth": 2970.45,
+   "status": "lost",
+   "closed_at": "2026-09-02T21:45:32.466314+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34452,6 +34456,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T19:00:50.030168+00:00"
+ "total_pnl": 68.36500000000058,
+ "last_updated": "2026-09-02T21:45:32.468245+00:00"
 }
