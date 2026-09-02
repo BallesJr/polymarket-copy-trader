@@ -21353,24 +21353,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "85894676651931977083480466485204942172056140449093229279448558433619945573882",
-   "condition_id": "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9",
-   "title": "US Open ATP: Adolfo Vallejo vs Gael Monfils",
-   "outcome": "Adolfo Vallejo",
-   "slug": "atp-vallejo-monfils-2026-08-30",
-   "opened_at": "2026-09-01T14:45:34.848722+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 1018.64,
-   "copy_delay_min": 6.3,
-   "best_ask": 0.57,
-   "ask_depth": 27291.88,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "82044786838163810749920441956330490924718343771571018717104447979520404846440",
    "condition_id": "0xdee7062c12ce9193286aa7b5b93df17aa3bb5fac283ed29de0a0ab55626b944b",
    "title": "US Open WTA: Tatjana Maria vs Jelena Ostapenko",
@@ -29916,6 +29898,28 @@
    "exit_price": 1.0,
    "pnl": 7.5269,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85894676651931977083480466485204942172056140449093229279448558433619945573882",
+   "condition_id": "0xe00e843c6b93b790cbe88bbeff9fa90ec13bb1b7dcf7a369d28b2695889bcdf9",
+   "title": "US Open ATP: Adolfo Vallejo vs Gael Monfils",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-monfils-2026-08-30",
+   "opened_at": "2026-09-01T14:45:34.848722+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 1018.64,
+   "copy_delay_min": 6.3,
+   "best_ask": 0.57,
+   "ask_depth": 27291.88,
+   "status": "lost",
+   "closed_at": "2026-09-02T03:20:31.902198+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33869,6 +33873,6 @@
    "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 214.51880000000057,
- "last_updated": "2026-09-02T01:20:30.780507+00:00"
+ "total_pnl": 114.51880000000057,
+ "last_updated": "2026-09-02T03:20:31.904089+00:00"
 }
