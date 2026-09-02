@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9468.3652302,
+ "bankroll": 9268.3652302,
  "last_seen": {
-  "jtwyslljy": 1788365820,
+  "jtwyslljy": 1788371152,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13144,6 +13144,20 @@
    "BUY",
    3000,
    1788365820
+  ],
+  [
+   "0x0ab9b13e20ef89bcfad2cd3ab8635fd9e49399f6c8aec51f3aacec591df16b99",
+   "92919141308845117314362841881923257909307431185375097170566219593859019233268",
+   "BUY",
+   3000,
+   1788371140
+  ],
+  [
+   "0xd7bb08d8e4d7193772fe54ae846828b9c5626c430447dd71ab0a7c72ade99761",
+   "40453000912651817623315480826140428705309294822095406004435580258826373600210",
+   "BUY",
+   1779.52,
+   1788371152
   ]
  ],
  "leader_pos": {
@@ -21450,6 +21464,30 @@
    "cost": 1320.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788365820
+  },
+  "jtwyslljy|92919141308845117314362841881923257909307431185375097170566219593859019233268": {
+   "leader": "jtwyslljy",
+   "asset": "92919141308845117314362841881923257909307431185375097170566219593859019233268",
+   "condition_id": "0x5561e87a8dc2f05123c8945044cad23dfd2972191755d58e74aade2e45702f8c",
+   "title": "US Open WTA: Xinyu Wang vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-wa-kalinsk-2026-09-02",
+   "shares": 3000.0,
+   "cost": 1980.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788371140
+  },
+  "jtwyslljy|40453000912651817623315480826140428705309294822095406004435580258826373600210": {
+   "leader": "jtwyslljy",
+   "asset": "40453000912651817623315480826140428705309294822095406004435580258826373600210",
+   "condition_id": "0xec0821fd2e094e54f2a55fc38785ec4d157cfb6185b9f6611bc082249509cf58",
+   "title": "US Open WTA: Kimberly Birrell vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-birrell-alexand-2026-09-02",
+   "shares": 1779.52,
+   "cost": 1388.0256,
+   "max_shares": 1779.52,
+   "last_trade_ts": 1788371152
   }
  },
  "positions": [
@@ -21577,6 +21615,42 @@
    "copy_delay_min": 8.4,
    "best_ask": 0.44,
    "ask_depth": 96558.33,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92919141308845117314362841881923257909307431185375097170566219593859019233268",
+   "condition_id": "0x5561e87a8dc2f05123c8945044cad23dfd2972191755d58e74aade2e45702f8c",
+   "title": "US Open WTA: Xinyu Wang vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-wa-kalinsk-2026-09-02",
+   "opened_at": "2026-09-02T17:50:36.431789+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 1980.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.67,
+   "ask_depth": 28354.95,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "40453000912651817623315480826140428705309294822095406004435580258826373600210",
+   "condition_id": "0xec0821fd2e094e54f2a55fc38785ec4d157cfb6185b9f6611bc082249509cf58",
+   "title": "US Open WTA: Kimberly Birrell vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-birrell-alexand-2026-09-02",
+   "opened_at": "2026-09-02T17:50:36.638709+00:00",
+   "entry_price": 0.79,
+   "shares": 126.5823,
+   "stake": 100.0,
+   "leader_vwap": 0.78,
+   "leader_cost": 1388.03,
+   "copy_delay_min": 4.7,
+   "best_ask": 0.79,
+   "ask_depth": 23712.59,
    "status": "open"
   }
  ],
@@ -34154,5 +34228,5 @@
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T16:25:26.877451+00:00"
+ "last_updated": "2026-09-02T17:50:37.007952+00:00"
 }
