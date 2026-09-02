@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9268.3652302,
+ "bankroll": 9068.3652302,
  "last_seen": {
-  "jtwyslljy": 1788372250,
+  "jtwyslljy": 1788372628,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13172,6 +13172,20 @@
    "SELL",
    7600,
    1788372250
+  ],
+  [
+   "0x4928dd96d159c3158dbe0c0aae30d789220c0d0fcb53a97e4360792b3b717227",
+   "33744381989619907750123151340923788924566811528263183385392135461764413932074",
+   "BUY",
+   3000,
+   1788372619
+  ],
+  [
+   "0x3aaecc73fc696b333e328c4300a7661a424758633619a044a82094d654799b42",
+   "114390730189571617550306308633827494826323680980041339286353129627918166722742",
+   "BUY",
+   785,
+   1788372628
   ]
  ],
  "leader_pos": {
@@ -21502,6 +21516,30 @@
    "cost": 1388.0256,
    "max_shares": 1779.52,
    "last_trade_ts": 1788371152
+  },
+  "jtwyslljy|33744381989619907750123151340923788924566811528263183385392135461764413932074": {
+   "leader": "jtwyslljy",
+   "asset": "33744381989619907750123151340923788924566811528263183385392135461764413932074",
+   "condition_id": "0xe9b85361714763acd0cd9311b0dd230841ca7e537275a0b8d81171c2ce53b107",
+   "title": "US Open WTA: Elina Svitolina vs Maya Joint",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-svitoli-joint-2026-09-02",
+   "shares": 3000.0,
+   "cost": 2610.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788372619
+  },
+  "jtwyslljy|114390730189571617550306308633827494826323680980041339286353129627918166722742": {
+   "leader": "jtwyslljy",
+   "asset": "114390730189571617550306308633827494826323680980041339286353129627918166722742",
+   "condition_id": "0xd009f3182efb403290e7f82a33fc1f068cdb5068a2f02566fbb29f7d2a4f2798",
+   "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-tararud-noskova-2026-09-02",
+   "shares": 785.0,
+   "cost": 635.85,
+   "max_shares": 785.0,
+   "last_trade_ts": 1788372628
   }
  },
  "positions": [
@@ -21665,6 +21703,42 @@
    "copy_delay_min": 4.7,
    "best_ask": 0.79,
    "ask_depth": 23712.59,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114390730189571617550306308633827494826323680980041339286353129627918166722742",
+   "condition_id": "0xd009f3182efb403290e7f82a33fc1f068cdb5068a2f02566fbb29f7d2a4f2798",
+   "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-tararud-noskova-2026-09-02",
+   "opened_at": "2026-09-02T18:15:38.156283+00:00",
+   "entry_price": 0.82,
+   "shares": 121.9512,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 635.85,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.82,
+   "ask_depth": 14978.43,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33744381989619907750123151340923788924566811528263183385392135461764413932074",
+   "condition_id": "0xe9b85361714763acd0cd9311b0dd230841ca7e537275a0b8d81171c2ce53b107",
+   "title": "US Open WTA: Elina Svitolina vs Maya Joint",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-svitoli-joint-2026-09-02",
+   "opened_at": "2026-09-02T18:15:38.373949+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.87,
+   "leader_cost": 2610.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.87,
+   "ask_depth": 39001.63,
    "status": "open"
   }
  ],
@@ -34258,5 +34332,5 @@
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T18:10:33.647847+00:00"
+ "last_updated": "2026-09-02T18:15:38.828982+00:00"
 }
