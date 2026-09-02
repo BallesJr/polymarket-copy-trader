@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9068.3652302,
  "last_seen": {
-  "jtwyslljy": 1788372628,
+  "jtwyslljy": 1788375063,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13186,6 +13186,34 @@
    "BUY",
    785,
    1788372628
+  ],
+  [
+   "0x4693ede418a4511d209bdbd8309848b71772f0ca5cdb00c8f7b2dae07686958e",
+   "84478983857065961422510397787739359630739944262821395736390969130168991982451",
+   "BUY",
+   7999.99,
+   1788374730
+  ],
+  [
+   "0x004a480b3d942b82660fa2f28b0b2576e8a0de15430f0ab0399f69572387ad4e",
+   "88632000558083681519660917314625732595930077314388714625732121470534998930516",
+   "BUY",
+   2000,
+   1788374791
+  ],
+  [
+   "0x138877e13e26929c912efc8170768e4d73d5af9dff733f9098b25e2d07ae94bd",
+   "43093588027462330529931156277278314254606686109718405896479975265746806502151",
+   "BUY",
+   3000,
+   1788374874
+  ],
+  [
+   "0x83cf530b46f1c43121b0f05abc1f3ff7e1460c70a214f30cacfc48a926715a40",
+   "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "BUY",
+   24473.9,
+   1788375063
   ]
  ],
  "leader_pos": {
@@ -21464,10 +21492,10 @@
    "title": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
    "outcome": "Rafael Jodar",
    "slug": "atp-jodar-bu-2026-09-01",
-   "shares": 3000.0,
-   "cost": 2730.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1788365787
+   "shares": 10999.99,
+   "cost": 4729.9974999999995,
+   "max_shares": 10999.99,
+   "last_trade_ts": 1788374730
   },
   "jtwyslljy|43075524565279749242227535462366460467662721610228134896583013583426316545930": {
    "leader": "jtwyslljy",
@@ -21488,10 +21516,10 @@
    "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
    "outcome": "Kamil Majchrzak",
    "slug": "atp-vachero-majchrz-2026-09-01",
-   "shares": 3000.0,
-   "cost": 1320.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1788365820
+   "shares": 5000.0,
+   "cost": 2220.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1788374791
   },
   "jtwyslljy|92919141308845117314362841881923257909307431185375097170566219593859019233268": {
    "leader": "jtwyslljy",
@@ -21540,6 +21568,30 @@
    "cost": 635.85,
    "max_shares": 785.0,
    "last_trade_ts": 1788372628
+  },
+  "jtwyslljy|43093588027462330529931156277278314254606686109718405896479975265746806502151": {
+   "leader": "jtwyslljy",
+   "asset": "43093588027462330529931156277278314254606686109718405896479975265746806502151",
+   "condition_id": "0x949a33af208853b9f12e5a1de891e8d3188adb43747394d60e4cc2cc51bbd732",
+   "title": "US Open WTA: Emma Navarro vs Caty McNally",
+   "outcome": "Caty McNally",
+   "slug": "wta-navarro-mcnally-2026-09-02",
+   "shares": 3000.0,
+   "cost": 1140.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788374874
+  },
+  "jtwyslljy|114850867143492551593115339368215834782832254280175296630803438252964434409906": {
+   "leader": "jtwyslljy",
+   "asset": "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "condition_id": "0x0941697b2f0105c2d7f6a245cfbe79ba2cc2673aa8b185675598f8c3e3c83619",
+   "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-shelton-hurkacz-2026-09-02",
+   "shares": 24473.9,
+   "cost": 7586.909000000001,
+   "max_shares": 24473.9,
+   "last_trade_ts": 1788375063
   }
  },
  "positions": [
@@ -34329,8 +34381,40 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
    "outcome": "Daniel Merida Aguilar"
+  },
+  {
+   "at": "2026-09-02T18:55:25.682733+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T17:10:00+00:00",
+   "condition_id": "0x0941697b2f0105c2d7f6a245cfbe79ba2cc2673aa8b185675598f8c3e3c83619",
+   "asset": "114850867143492551593115339368215834782832254280175296630803438252964434409906",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.32,
+   "cf_shares": 312.5,
+   "cf_cost": 100.0,
+   "cf_entry": 0.32,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-09-02T18:55:25.897253+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T17:20:00+00:00",
+   "condition_id": "0x949a33af208853b9f12e5a1de891e8d3188adb43747394d60e4cc2cc51bbd732",
+   "asset": "43093588027462330529931156277278314254606686109718405896479975265746806502151",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Emma Navarro vs Caty McNally",
+   "outcome": "Caty McNally"
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T18:15:38.828982+00:00"
+ "last_updated": "2026-09-02T18:55:26.387211+00:00"
 }
