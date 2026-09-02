@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9268.3652302,
  "last_seen": {
-  "jtwyslljy": 1788371707,
+  "jtwyslljy": 1788372250,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13165,6 +13165,13 @@
    "BUY",
    5000,
    1788371707
+  ],
+  [
+   "0x6131dade12a7fd4aeae51d9f2e8727fce216c38ccb394f938bbffcb7ca9f3616",
+   "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "SELL",
+   7600,
+   1788372250
   ]
  ],
  "leader_pos": {
@@ -21419,10 +21426,10 @@
    "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
    "outcome": "Daniel Merida Aguilar",
    "slug": "atp-aguilar-rublev-2026-09-02",
-   "shares": 153433.15,
-   "cost": 59838.9285,
+   "shares": 145833.15,
+   "cost": 52246.5285,
    "max_shares": 153433.15,
-   "last_trade_ts": 1788361296
+   "last_trade_ts": 1788372250
   },
   "jtwyslljy|99885603586811736138203501815862170590217383170036417799446145903991424561364": {
    "leader": "jtwyslljy",
@@ -34232,8 +34239,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
    "outcome": "Brandon Nakashima"
+  },
+  {
+   "at": "2026-09-02T18:10:33.169597+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-02T15:10:00+00:00",
+   "condition_id": "0xf2879c8ebb8875ce8a39bccd9e3640915f40a7c01ec91bf457d120d3ee93468c",
+   "asset": "17023124228269928849020611259015948850061676830917875073785033885105715180702",
+   "copy_delay_min": 6.4,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+   "outcome": "Daniel Merida Aguilar"
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T18:00:52.037829+00:00"
+ "last_updated": "2026-09-02T18:10:33.647847+00:00"
 }
