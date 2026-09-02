@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9668.3652302,
+ "bankroll": 9468.3652302,
  "last_seen": {
-  "jtwyslljy": 1788365787,
+  "jtwyslljy": 1788365820,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13130,6 +13130,20 @@
    "BUY",
    3000,
    1788365787
+  ],
+  [
+   "0xd2b94593fa818874962fd5b62fd1a05e4819082b83b034baf72a4adedf660398",
+   "43075524565279749242227535462366460467662721610228134896583013583426316545930",
+   "BUY",
+   3000,
+   1788365805
+  ],
+  [
+   "0xa630c7ab0cf8dfcc51ae362cfe59ed18da934277bdd043011fbec7edea5af326",
+   "88632000558083681519660917314625732595930077314388714625732121470534998930516",
+   "BUY",
+   3000,
+   1788365820
   ]
  ],
  "leader_pos": {
@@ -21412,6 +21426,30 @@
    "cost": 2730.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788365787
+  },
+  "jtwyslljy|43075524565279749242227535462366460467662721610228134896583013583426316545930": {
+   "leader": "jtwyslljy",
+   "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
+   "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
+   "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
+   "outcome": "Dino Prizmic",
+   "slug": "atp-prizmic-paul-2026-09-02",
+   "shares": 3000.0,
+   "cost": 593.5833999,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788365805
+  },
+  "jtwyslljy|88632000558083681519660917314625732595930077314388714625732121470534998930516": {
+   "leader": "jtwyslljy",
+   "asset": "88632000558083681519660917314625732595930077314388714625732121470534998930516",
+   "condition_id": "0xcff7633b55d26a5813773137ada67496722c9918caea80fbafe7b7a8e1a94a7b",
+   "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+   "outcome": "Kamil Majchrzak",
+   "slug": "atp-vachero-majchrz-2026-09-01",
+   "shares": 3000.0,
+   "cost": 1320.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788365820
   }
  },
  "positions": [
@@ -21503,6 +21541,42 @@
    "copy_delay_min": 4.1,
    "best_ask": 0.91,
    "ask_depth": 2970.45,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
+   "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
+   "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
+   "outcome": "Dino Prizmic",
+   "slug": "atp-prizmic-paul-2026-09-02",
+   "opened_at": "2026-09-02T16:25:26.297087+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1979,
+   "leader_cost": 593.58,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.2,
+   "ask_depth": 81994.7,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88632000558083681519660917314625732595930077314388714625732121470534998930516",
+   "condition_id": "0xcff7633b55d26a5813773137ada67496722c9918caea80fbafe7b7a8e1a94a7b",
+   "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+   "outcome": "Kamil Majchrzak",
+   "slug": "atp-vachero-majchrz-2026-09-01",
+   "opened_at": "2026-09-02T16:25:26.496445+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 1320.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.44,
+   "ask_depth": 96558.33,
    "status": "open"
   }
  ],
@@ -34080,5 +34154,5 @@
   }
  ],
  "total_pnl": 168.36500000000058,
- "last_updated": "2026-09-02T16:20:31.356002+00:00"
+ "last_updated": "2026-09-02T16:25:26.877451+00:00"
 }
