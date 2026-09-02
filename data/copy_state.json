@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9068.3652302,
+ "bankroll": 9232.2996302,
  "last_seen": {
   "jtwyslljy": 1788375385,
   "0x53757615de": 1787221213
@@ -21636,24 +21636,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "17261470005725534654298503216879421296488404573353457102496738506808615187917",
-   "condition_id": "0x4c96c929f6dc846e84f0b75eb075fa16b50355ddc6aab4cf794b07424a63f2cb",
-   "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
-   "outcome": "Ignacio Buse",
-   "slug": "atp-giron-buse-2026-08-30",
-   "opened_at": "2026-09-01T14:40:29.939388+00:00",
-   "entry_price": 0.61,
-   "shares": 163.9344,
-   "stake": 100.0,
-   "leader_vwap": 0.61,
-   "leader_cost": 1830.0,
-   "copy_delay_min": 4.4,
-   "best_ask": 0.61,
-   "ask_depth": 18243.46,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
    "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
    "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
@@ -30399,6 +30381,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17261470005725534654298503216879421296488404573353457102496738506808615187917",
+   "condition_id": "0x4c96c929f6dc846e84f0b75eb075fa16b50355ddc6aab4cf794b07424a63f2cb",
+   "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-giron-buse-2026-08-30",
+   "opened_at": "2026-09-01T14:40:29.939388+00:00",
+   "entry_price": 0.61,
+   "shares": 163.9344,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 1830.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.61,
+   "ask_depth": 18243.46,
+   "status": "won",
+   "closed_at": "2026-09-02T23:10:31.095713+00:00",
+   "exit_price": 1.0,
+   "pnl": 63.9344,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34464,6 +34468,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": -131.63499999999942,
- "last_updated": "2026-09-02T23:05:24.930518+00:00"
+ "total_pnl": -67.70059999999943,
+ "last_updated": "2026-09-02T23:10:31.097344+00:00"
 }
