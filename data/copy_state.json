@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9614.5190302,
+ "bankroll": 9768.3652302,
  "last_seen": {
   "jtwyslljy": 1788348882,
   "0x53757615de": 1787221213
@@ -21401,24 +21401,6 @@
    "best_ask": 0.57,
    "ask_depth": 5118.75,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "17602226504684346368510501060478122888791385343970378097785516838620659389931",
-   "condition_id": "0x04cfc9a4750296502a38b7dd244e7d7c7e277576f62a56e7fdff8ae9d4e27fd2",
-   "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
-   "outcome": "Hanwha Life Esports",
-   "slug": "lol-hle1-t1-2026-09-02",
-   "opened_at": "2026-09-02T06:20:35.213123+00:00",
-   "entry_price": 0.65,
-   "shares": 153.8462,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 12044.11,
-   "copy_delay_min": 4.1,
-   "best_ask": 0.65,
-   "ask_depth": 41218.01,
-   "status": "open"
   }
  ],
  "closed": [
@@ -29971,6 +29953,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17602226504684346368510501060478122888791385343970378097785516838620659389931",
+   "condition_id": "0x04cfc9a4750296502a38b7dd244e7d7c7e277576f62a56e7fdff8ae9d4e27fd2",
+   "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-hle1-t1-2026-09-02",
+   "opened_at": "2026-09-02T06:20:35.213123+00:00",
+   "entry_price": 0.65,
+   "shares": 153.8462,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 12044.11,
+   "copy_delay_min": 4.1,
+   "best_ask": 0.65,
+   "ask_depth": 41218.01,
+   "status": "won",
+   "closed_at": "2026-09-02T13:25:28.169980+00:00",
+   "exit_price": 1.0,
+   "pnl": 53.8462,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -33924,6 +33928,6 @@
    "outcome": "Francisco Comesana"
   }
  ],
- "total_pnl": 114.51880000000057,
- "last_updated": "2026-09-02T11:40:31.098531+00:00"
+ "total_pnl": 168.36500000000058,
+ "last_updated": "2026-09-02T13:25:28.171646+00:00"
 }
