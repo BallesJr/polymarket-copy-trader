@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788436308,
+  "jtwyslljy": 1788450381,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13249,6 +13249,13 @@
    "BUY",
    4500,
    1788436308
+  ],
+  [
+   "0x9d91273ecfd78b3b5390b9eaeeba2cc5df54b9d08388feed17353078bff08e59",
+   "37950814475756213324861871416610343680165009368193151835242706345216631508266",
+   "BUY",
+   14000,
+   1788450381
   ]
  ],
  "leader_pos": {
@@ -21651,6 +21658,18 @@
    "cost": 1710.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1788436308
+  },
+  "jtwyslljy|37950814475756213324861871416610343680165009368193151835242706345216631508266": {
+   "leader": "jtwyslljy",
+   "asset": "37950814475756213324861871416610343680165009368193151835242706345216631508266",
+   "condition_id": "0x4b40e630e84a3a74fb03ada26055bd86f429b7458edee6aaba9c4b8a1ad3ad8f",
+   "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
+   "outcome": "Dalibor Svrcina",
+   "slug": "atp-darderi-svrcina-2026-09-02",
+   "shares": 14000.0,
+   "cost": 4059.9999999999995,
+   "max_shares": 14000.0,
+   "last_trade_ts": 1788450381
   }
  },
  "positions": [],
@@ -34563,8 +34582,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
    "outcome": "BNK FEARX"
+  },
+  {
+   "at": "2026-09-03T15:50:35.909250+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:10:00+00:00",
+   "condition_id": "0x4b40e630e84a3a74fb03ada26055bd86f429b7458edee6aaba9c4b8a1ad3ad8f",
+   "asset": "37950814475756213324861871416610343680165009368193151835242706345216631508266",
+   "copy_delay_min": 4.2,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
+   "outcome": "Dalibor Svrcina"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T12:00:54.797897+00:00"
+ "last_updated": "2026-09-03T15:50:35.909697+00:00"
 }
