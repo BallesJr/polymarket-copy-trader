@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788451158,
+  "jtwyslljy": 1788451794,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13270,6 +13270,13 @@
    "BUY",
    31000,
    1788451158
+  ],
+  [
+   "0xbfd374b5d14f724286b93cab986cbc8a4dc4a1f1bc7013134b9d88e47c622c75",
+   "90191808209659663073184571439264564756851942222275169951952216516345964759886",
+   "BUY",
+   3300,
+   1788451794
   ]
  ],
  "leader_pos": {
@@ -21708,6 +21715,18 @@
    "cost": 9681.291800500001,
    "max_shares": 31000.0,
    "last_trade_ts": 1788451158
+  },
+  "jtwyslljy|90191808209659663073184571439264564756851942222275169951952216516345964759886": {
+   "leader": "jtwyslljy",
+   "asset": "90191808209659663073184571439264564756851942222275169951952216516345964759886",
+   "condition_id": "0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f",
+   "title": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-struff-cerundo-2026-09-02",
+   "shares": 3300.0,
+   "cost": 1254.0,
+   "max_shares": 3300.0,
+   "last_trade_ts": 1788451794
   }
  },
  "positions": [],
@@ -34668,8 +34687,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Anastasia Potapova vs Leolia Jeanjean",
    "outcome": "Leolia Jeanjean"
+  },
+  {
+   "at": "2026-09-03T16:15:36.527382+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:10:00+00:00",
+   "condition_id": "0xc7189e6fa0f1d494bff5539d7d57a3e57d4bb4fff9f9c9693c361de09072be7f",
+   "asset": "90191808209659663073184571439264564756851942222275169951952216516345964759886",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.38,
+   "cf_shares": 263.1579,
+   "cf_cost": 100.0,
+   "cf_entry": 0.38,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
+   "outcome": "Francisco Cerundolo"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T16:10:30.095933+00:00"
+ "last_updated": "2026-09-03T16:15:36.528010+00:00"
 }
