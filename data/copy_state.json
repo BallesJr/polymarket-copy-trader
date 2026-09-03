@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788452065,
+  "jtwyslljy": 1788452313,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13291,6 +13291,13 @@
    "BUY",
    21200,
    1788452065
+  ],
+  [
+   "0x3ec751088814783a76c5b1d406cbad088b524f6e46b894f76d4228fed7d555cf",
+   "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "BUY",
+   7490,
+   1788452313
   ]
  ],
  "leader_pos": {
@@ -21749,10 +21756,10 @@
    "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
    "outcome": "Katerina Siniakova",
    "slug": "wta-osaka-siniako-2026-09-02",
-   "shares": 31807.98,
-   "cost": 2014.5586,
-   "max_shares": 31807.98,
-   "last_trade_ts": 1788452065
+   "shares": 39297.979999999996,
+   "cost": 2538.8586,
+   "max_shares": 39297.979999999996,
+   "last_trade_ts": 1788452313
   }
  },
  "positions": [],
@@ -34745,8 +34752,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
    "outcome": "Katerina Siniakova"
+  },
+  {
+   "at": "2026-09-03T16:30:48.585535+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:40:00+00:00",
+   "condition_id": "0x9d0c408719e02b7777782192681fed916989ec2c0b9898169eee831e5202552f",
+   "asset": "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "copy_delay_min": 12.2,
+   "cf_ask": 0.08,
+   "cf_shares": 1250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.08,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
+   "outcome": "Katerina Siniakova"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T16:20:34.738101+00:00"
+ "last_updated": "2026-09-03T16:30:48.586183+00:00"
 }
