@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9151.412330199997,
+ "bankroll": 9266.354830199996,
  "last_seen": {
   "jtwyslljy": 1788454788,
   "0x53757615de": 1787221213
@@ -21978,24 +21978,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "83847941150326586178071013167556154248923576384033954610797853316316026598794",
-   "condition_id": "0x4a4376ce7cc0e76553914b875ab010a1d4b2a8a974e8b405fbe0646cd8949fb5",
-   "title": "US Open ATP: Jakub Mensik vs Jurij Rodionov",
-   "outcome": "Jakub Mensik",
-   "slug": "atp-mensik-rodiono-2026-09-02",
-   "opened_at": "2026-09-03T16:35:27.696313+00:00",
-   "entry_price": 0.87,
-   "shares": 114.9425,
-   "stake": 100.0,
-   "leader_vwap": 0.87,
-   "leader_cost": 2610.0,
-   "copy_delay_min": 9.8,
-   "best_ask": 0.87,
-   "ask_depth": 12085.64,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "105320236072577930924621095744267150789721432846850907015146019507542540235940",
    "condition_id": "0x6dab7b2a7a4dad85fb51d0c0bfb64e35d47f4286c4e3f0f591f2fa0f34c321ed",
    "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
@@ -30863,6 +30845,28 @@
    "exit_price": 1.0,
    "pnl": 21.9512,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83847941150326586178071013167556154248923576384033954610797853316316026598794",
+   "condition_id": "0x4a4376ce7cc0e76553914b875ab010a1d4b2a8a974e8b405fbe0646cd8949fb5",
+   "title": "US Open ATP: Jakub Mensik vs Jurij Rodionov",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-rodiono-2026-09-02",
+   "opened_at": "2026-09-03T16:35:27.696313+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.87,
+   "leader_cost": 2610.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.87,
+   "ask_depth": 12085.64,
+   "status": "won",
+   "closed_at": "2026-09-03T21:40:29.517925+00:00",
+   "exit_price": 1.0,
+   "pnl": 14.9425,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35056,6 +35060,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T17:00:55.275334+00:00"
+ "total_pnl": -133.64539999999943,
+ "last_updated": "2026-09-03T21:40:29.519541+00:00"
 }
