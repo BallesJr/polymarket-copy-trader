@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9614.518630199998,
+ "bankroll": 9729.461130199998,
  "last_seen": {
   "jtwyslljy": 1788375385,
   "0x53757615de": 1787221213
@@ -21669,24 +21669,6 @@
    "best_ask": 0.82,
    "ask_depth": 14978.43,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "33744381989619907750123151340923788924566811528263183385392135461764413932074",
-   "condition_id": "0xe9b85361714763acd0cd9311b0dd230841ca7e537275a0b8d81171c2ce53b107",
-   "title": "US Open WTA: Elina Svitolina vs Maya Joint",
-   "outcome": "Elina Svitolina",
-   "slug": "wta-svitoli-joint-2026-09-02",
-   "opened_at": "2026-09-02T18:15:38.373949+00:00",
-   "entry_price": 0.87,
-   "shares": 114.9425,
-   "stake": 100.0,
-   "leader_vwap": 0.87,
-   "leader_cost": 2610.0,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.87,
-   "ask_depth": 39001.63,
-   "status": "open"
   }
  ],
  "closed": [
@@ -30415,6 +30397,28 @@
    "exit_price": 1.0,
    "pnl": 49.2537,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33744381989619907750123151340923788924566811528263183385392135461764413932074",
+   "condition_id": "0xe9b85361714763acd0cd9311b0dd230841ca7e537275a0b8d81171c2ce53b107",
+   "title": "US Open WTA: Elina Svitolina vs Maya Joint",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-svitoli-joint-2026-09-02",
+   "opened_at": "2026-09-02T18:15:38.373949+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.87,
+   "leader_cost": 2610.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.87,
+   "ask_depth": 39001.63,
+   "status": "won",
+   "closed_at": "2026-09-03T03:05:22.771696+00:00",
+   "exit_price": 1.0,
+   "pnl": 14.9425,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34480,6 +34484,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": 14.518400000000575,
- "last_updated": "2026-09-03T00:40:30.912023+00:00"
+ "total_pnl": 29.460900000000578,
+ "last_updated": "2026-09-03T03:05:22.772635+00:00"
 }
