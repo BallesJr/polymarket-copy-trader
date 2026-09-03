@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788425785,
+  "jtwyslljy": 1788436308,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13242,6 +13242,13 @@
    "BUY",
    1999.99,
    1788425785
+  ],
+  [
+   "0xd8a39504a5a8cddc37455bbdab74124bad4e450138a2b86f8314269110741e30",
+   "70730951755213069756663672133064424468248968313166685500239097734663715482572",
+   "BUY",
+   4500,
+   1788436308
   ]
  ],
  "leader_pos": {
@@ -21632,6 +21639,18 @@
    "cost": 1119.9944,
    "max_shares": 1999.99,
    "last_trade_ts": 1788425785
+  },
+  "jtwyslljy|70730951755213069756663672133064424468248968313166685500239097734663715482572": {
+   "leader": "jtwyslljy",
+   "asset": "70730951755213069756663672133064424468248968313166685500239097734663715482572",
+   "condition_id": "0x7ce33f561c31ff28d18e27387eb672651dc1e10ad46ecdb532e7c416900d768d",
+   "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "BNK FEARX",
+   "slug": "lol-fox1-dk-2026-09-03",
+   "shares": 4500.0,
+   "cost": 1710.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1788436308
   }
  },
  "positions": [],
@@ -34528,8 +34547,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
    "outcome": "Dplus KIA"
+  },
+  {
+   "at": "2026-09-03T12:00:54.797417+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T08:00:00+00:00",
+   "condition_id": "0x7ce33f561c31ff28d18e27387eb672651dc1e10ad46ecdb532e7c416900d768d",
+   "asset": "70730951755213069756663672133064424468248968313166685500239097734663715482572",
+   "copy_delay_min": 9.1,
+   "cf_ask": 0.42,
+   "cf_shares": 233.9605,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4274,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T09:05:27.712076+00:00"
+ "last_updated": "2026-09-03T12:00:54.797897+00:00"
 }
