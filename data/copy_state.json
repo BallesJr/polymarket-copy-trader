@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9851.412330199997,
+ "bankroll": 9251.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788452313,
+  "jtwyslljy": 1788452848,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13298,6 +13298,48 @@
    "BUY",
    7490,
    1788452313
+  ],
+  [
+   "0x65081ec2796a67228d499629e2815ff0e17bfcb58429eebd5bab52eb63549310",
+   "46364735747534235553073073990429157847940825035843864613325829072930560300962",
+   "BUY",
+   3000,
+   1788452727
+  ],
+  [
+   "0x660c42c981dc282fcb711a747a4bfa8765ba803ba47565f79d8047f23449940b",
+   "83847941150326586178071013167556154248923576384033954610797853316316026598794",
+   "BUY",
+   3000,
+   1788452737
+  ],
+  [
+   "0x1f418f94059e9f9021b715edbbc49828aad6fb25a33e2a591a2a1144f3e78aab",
+   "105320236072577930924621095744267150789721432846850907015146019507542540235940",
+   "BUY",
+   3000,
+   1788452752
+  ],
+  [
+   "0x0c817d9c5e933a2afd3a439319c373135841e2210ea14f7ff632e6ad2663c32c",
+   "72887724363362698973061099084379209982173775302086480686033226592379042572072",
+   "BUY",
+   6000,
+   1788452791
+  ],
+  [
+   "0xb0884e5faa447ff862c3bb71734dd7e4cd424087be93754d2a3fc7764a0c3208",
+   "94895810975070252472461406550711930683829497520228959935297669402523129527139",
+   "BUY",
+   3000,
+   1788452805
+  ],
+  [
+   "0x0631c623dfc05588a44cbb18c71bc04b488d13374fd855277a46fe0bf2f8c6a8",
+   "34397574656059404129684572103759634972857321473106697911428547533582938361264",
+   "BUY",
+   3000,
+   1788452848
   ]
  ],
  "leader_pos": {
@@ -21760,9 +21802,190 @@
    "cost": 2538.8586,
    "max_shares": 39297.979999999996,
    "last_trade_ts": 1788452313
+  },
+  "jtwyslljy|46364735747534235553073073990429157847940825035843864613325829072930560300962": {
+   "leader": "jtwyslljy",
+   "asset": "46364735747534235553073073990429157847940825035843864613325829072930560300962",
+   "condition_id": "0x4539413da7056a89798618421f78f9dfb46afc82d3f8c50c57e0a8c322033446",
+   "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-blockx-trungel-2026-09-02",
+   "shares": 3000.0,
+   "cost": 2520.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788452727
+  },
+  "jtwyslljy|83847941150326586178071013167556154248923576384033954610797853316316026598794": {
+   "leader": "jtwyslljy",
+   "asset": "83847941150326586178071013167556154248923576384033954610797853316316026598794",
+   "condition_id": "0x4a4376ce7cc0e76553914b875ab010a1d4b2a8a974e8b405fbe0646cd8949fb5",
+   "title": "US Open ATP: Jakub Mensik vs Jurij Rodionov",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-rodiono-2026-09-02",
+   "shares": 3000.0,
+   "cost": 2610.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788452737
+  },
+  "jtwyslljy|105320236072577930924621095744267150789721432846850907015146019507542540235940": {
+   "leader": "jtwyslljy",
+   "asset": "105320236072577930924621095744267150789721432846850907015146019507542540235940",
+   "condition_id": "0x6dab7b2a7a4dad85fb51d0c0bfb64e35d47f4286c4e3f0f591f2fa0f34c321ed",
+   "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-popyrin-tabilo-2026-09-02",
+   "shares": 3000.0,
+   "cost": 1830.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788452752
+  },
+  "jtwyslljy|72887724363362698973061099084379209982173775302086480686033226592379042572072": {
+   "leader": "jtwyslljy",
+   "asset": "72887724363362698973061099084379209982173775302086480686033226592379042572072",
+   "condition_id": "0x9b30d2ece4f593e0747668fa667dce004068f9274dda8c5a7dd692d9f9bffe7f",
+   "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
+   "outcome": "Zachary Svajda",
+   "slug": "atp-svajda-gea-2026-09-03",
+   "shares": 6000.0,
+   "cost": 3240.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1788452791
+  },
+  "jtwyslljy|94895810975070252472461406550711930683829497520228959935297669402523129527139": {
+   "leader": "jtwyslljy",
+   "asset": "94895810975070252472461406550711930683829497520228959935297669402523129527139",
+   "condition_id": "0xf6e03a3f8ca131c16b0dd9afe2acb9727c9797d0f09d561f70577dedef7e0eeb",
+   "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-jong-2026-09-03",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788452805
+  },
+  "jtwyslljy|34397574656059404129684572103759634972857321473106697911428547533582938361264": {
+   "leader": "jtwyslljy",
+   "asset": "34397574656059404129684572103759634972857321473106697911428547533582938361264",
+   "condition_id": "0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d",
+   "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-halys-2026-09-03",
+   "shares": 3000.0,
+   "cost": 2550.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788452848
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "46364735747534235553073073990429157847940825035843864613325829072930560300962",
+   "condition_id": "0x4539413da7056a89798618421f78f9dfb46afc82d3f8c50c57e0a8c322033446",
+   "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-blockx-trungel-2026-09-02",
+   "opened_at": "2026-09-03T16:35:27.052233+00:00",
+   "entry_price": 0.84,
+   "shares": 119.0476,
+   "stake": 100.0,
+   "leader_vwap": 0.84,
+   "leader_cost": 2520.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.84,
+   "ask_depth": 9923.46,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72887724363362698973061099084379209982173775302086480686033226592379042572072",
+   "condition_id": "0x9b30d2ece4f593e0747668fa667dce004068f9274dda8c5a7dd692d9f9bffe7f",
+   "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
+   "outcome": "Zachary Svajda",
+   "slug": "atp-svajda-gea-2026-09-03",
+   "opened_at": "2026-09-03T16:35:27.269646+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 3240.0,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.54,
+   "ask_depth": 10638.34,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34397574656059404129684572103759634972857321473106697911428547533582938361264",
+   "condition_id": "0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d",
+   "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-halys-2026-09-03",
+   "opened_at": "2026-09-03T16:35:27.490932+00:00",
+   "entry_price": 0.85,
+   "shares": 117.6471,
+   "stake": 100.0,
+   "leader_vwap": 0.85,
+   "leader_cost": 2550.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.85,
+   "ask_depth": 15612.78,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83847941150326586178071013167556154248923576384033954610797853316316026598794",
+   "condition_id": "0x4a4376ce7cc0e76553914b875ab010a1d4b2a8a974e8b405fbe0646cd8949fb5",
+   "title": "US Open ATP: Jakub Mensik vs Jurij Rodionov",
+   "outcome": "Jakub Mensik",
+   "slug": "atp-mensik-rodiono-2026-09-02",
+   "opened_at": "2026-09-03T16:35:27.696313+00:00",
+   "entry_price": 0.87,
+   "shares": 114.9425,
+   "stake": 100.0,
+   "leader_vwap": 0.87,
+   "leader_cost": 2610.0,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.87,
+   "ask_depth": 12085.64,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "105320236072577930924621095744267150789721432846850907015146019507542540235940",
+   "condition_id": "0x6dab7b2a7a4dad85fb51d0c0bfb64e35d47f4286c4e3f0f591f2fa0f34c321ed",
+   "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-popyrin-tabilo-2026-09-02",
+   "opened_at": "2026-09-03T16:35:27.901194+00:00",
+   "entry_price": 0.61,
+   "shares": 163.9344,
+   "stake": 100.0,
+   "leader_vwap": 0.61,
+   "leader_cost": 1830.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.61,
+   "ask_depth": 4309.12,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94895810975070252472461406550711930683829497520228959935297669402523129527139",
+   "condition_id": "0xf6e03a3f8ca131c16b0dd9afe2acb9727c9797d0f09d561f70577dedef7e0eeb",
+   "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-jong-2026-09-03",
+   "opened_at": "2026-09-03T16:35:28.090149+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 2070.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.69,
+   "ask_depth": 10822.22,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34771,5 +34994,5 @@
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T16:30:48.586183+00:00"
+ "last_updated": "2026-09-03T16:35:28.626716+00:00"
 }
