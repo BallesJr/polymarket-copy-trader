@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788375385,
+  "jtwyslljy": 1788425785,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13235,6 +13235,13 @@
    "BUY",
    386,
    1788375385
+  ],
+  [
+   "0x04b8e92c0ca88d001da463f4ac45ccd8e90d52faf6c1dd62ae815462f9a03bec",
+   "76526682894934714739616541167755105984831971065393432335914082268783513251688",
+   "BUY",
+   1999.99,
+   1788425785
   ]
  ],
  "leader_pos": {
@@ -21613,6 +21620,18 @@
    "cost": 10051.773000000001,
    "max_shares": 31981.5,
    "last_trade_ts": 1788375385
+  },
+  "jtwyslljy|76526682894934714739616541167755105984831971065393432335914082268783513251688": {
+   "leader": "jtwyslljy",
+   "asset": "76526682894934714739616541167755105984831971065393432335914082268783513251688",
+   "condition_id": "0x7ce33f561c31ff28d18e27387eb672651dc1e10ad46ecdb532e7c416900d768d",
+   "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "Dplus KIA",
+   "slug": "lol-fox1-dk-2026-09-03",
+   "shares": 1999.99,
+   "cost": 1119.9944,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1788425785
   }
  },
  "positions": [],
@@ -34493,8 +34512,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Ben Shelton vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-09-03T09:05:27.711511+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T08:00:00+00:00",
+   "condition_id": "0x7ce33f561c31ff28d18e27387eb672651dc1e10ad46ecdb532e7c416900d768d",
+   "asset": "76526682894934714739616541167755105984831971065393432335914082268783513251688",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "Dplus KIA"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T04:10:30.841736+00:00"
+ "last_updated": "2026-09-03T09:05:27.712076+00:00"
 }
