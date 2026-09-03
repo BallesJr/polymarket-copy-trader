@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9729.461130199998,
+ "bankroll": 9851.412330199997,
  "last_seen": {
   "jtwyslljy": 1788375385,
   "0x53757615de": 1787221213
@@ -21615,26 +21615,7 @@
    "last_trade_ts": 1788375385
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "114390730189571617550306308633827494826323680980041339286353129627918166722742",
-   "condition_id": "0xd009f3182efb403290e7f82a33fc1f068cdb5068a2f02566fbb29f7d2a4f2798",
-   "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
-   "outcome": "Linda Noskova",
-   "slug": "wta-tararud-noskova-2026-09-02",
-   "opened_at": "2026-09-02T18:15:38.156283+00:00",
-   "entry_price": 0.82,
-   "shares": 121.9512,
-   "stake": 100.0,
-   "leader_vwap": 0.81,
-   "leader_cost": 635.85,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.82,
-   "ask_depth": 14978.43,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -30427,6 +30408,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114390730189571617550306308633827494826323680980041339286353129627918166722742",
+   "condition_id": "0xd009f3182efb403290e7f82a33fc1f068cdb5068a2f02566fbb29f7d2a4f2798",
+   "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-tararud-noskova-2026-09-02",
+   "opened_at": "2026-09-02T18:15:38.156283+00:00",
+   "entry_price": 0.82,
+   "shares": 121.9512,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 635.85,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.82,
+   "ask_depth": 14978.43,
+   "status": "won",
+   "closed_at": "2026-09-03T04:10:30.840188+00:00",
+   "exit_price": 1.0,
+   "pnl": 21.9512,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34492,6 +34495,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": -170.53909999999942,
- "last_updated": "2026-09-03T03:35:28.696193+00:00"
+ "total_pnl": -148.58789999999942,
+ "last_updated": "2026-09-03T04:10:30.841736+00:00"
 }
