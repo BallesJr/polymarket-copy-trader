@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9266.354830199996,
+ "bankroll": 9409.211930199996,
  "last_seen": {
   "jtwyslljy": 1788454788,
   "0x53757615de": 1787221213
@@ -22011,24 +22011,6 @@
    "best_ask": 0.69,
    "ask_depth": 10822.22,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "8138927759818388694000495498081321702357907148920294029396860271138446377325",
-   "condition_id": "0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea",
-   "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
-   "outcome": "Qinwen Zheng",
-   "slug": "wta-zhen-putints-2026-09-02",
-   "opened_at": "2026-09-03T17:00:54.799325+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.7,
-   "leader_cost": 2100.0,
-   "copy_delay_min": 9.9,
-   "best_ask": 0.7,
-   "ask_depth": 41398.43,
-   "status": "open"
   }
  ],
  "closed": [
@@ -30867,6 +30849,28 @@
    "exit_price": 1.0,
    "pnl": 14.9425,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8138927759818388694000495498081321702357907148920294029396860271138446377325",
+   "condition_id": "0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea",
+   "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-putints-2026-09-02",
+   "opened_at": "2026-09-03T17:00:54.799325+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 2100.0,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.7,
+   "ask_depth": 41398.43,
+   "status": "won",
+   "closed_at": "2026-09-03T22:35:22.922595+00:00",
+   "exit_price": 1.0,
+   "pnl": 42.8571,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35060,6 +35064,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -133.64539999999943,
- "last_updated": "2026-09-03T21:40:29.519541+00:00"
+ "total_pnl": -90.78829999999942,
+ "last_updated": "2026-09-03T22:35:22.924463+00:00"
 }
