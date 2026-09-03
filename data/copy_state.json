@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9251.412330199997,
+ "bankroll": 9151.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788454234,
+  "jtwyslljy": 1788454788,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13347,6 +13347,20 @@
    "BUY",
    29.08,
    1788454234
+  ],
+  [
+   "0xa7744b51cb9f1a68528747d2b58ac73d11692cecd3cf2462867e795b921a2c24",
+   "8138927759818388694000495498081321702357907148920294029396860271138446377325",
+   "BUY",
+   3000,
+   1788454258
+  ],
+  [
+   "0xef53815c1bb6b193a27f71c0a3d4d69c097c186787df597b409b5132c0684798",
+   "67496600682673910519876524116733383003106684888554765044810013425062795255440",
+   "BUY",
+   71,
+   1788454788
   ]
  ],
  "leader_pos": {
@@ -21889,10 +21903,22 @@
    "title": "US Open WTA: Lilli Tagger vs Amanda Anisimova",
    "outcome": "Amanda Anisimova",
    "slug": "wta-tagger-anisimo-2026-09-02",
-   "shares": 29.08,
-   "cost": 20.9376,
-   "max_shares": 29.08,
-   "last_trade_ts": 1788454234
+   "shares": 100.08,
+   "cost": 79.8676,
+   "max_shares": 100.08,
+   "last_trade_ts": 1788454788
+  },
+  "jtwyslljy|8138927759818388694000495498081321702357907148920294029396860271138446377325": {
+   "leader": "jtwyslljy",
+   "asset": "8138927759818388694000495498081321702357907148920294029396860271138446377325",
+   "condition_id": "0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea",
+   "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-putints-2026-09-02",
+   "shares": 3000.0,
+   "cost": 2100.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788454258
   }
  },
  "positions": [
@@ -22002,6 +22028,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.69,
    "ask_depth": 10822.22,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8138927759818388694000495498081321702357907148920294029396860271138446377325",
+   "condition_id": "0x13562fd3c673a0535e1894cafd173bba4343e46dc6e9a732cace55618a5a82ea",
+   "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-putints-2026-09-02",
+   "opened_at": "2026-09-03T17:00:54.799325+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 2100.0,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.7,
+   "ask_depth": 41398.43,
    "status": "open"
   }
  ],
@@ -35013,5 +35057,5 @@
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T16:50:36.992027+00:00"
+ "last_updated": "2026-09-03T17:00:55.275334+00:00"
 }
