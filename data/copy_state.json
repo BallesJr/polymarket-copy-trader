@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788451794,
+  "jtwyslljy": 1788452065,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13277,6 +13277,20 @@
    "BUY",
    3300,
    1788451794
+  ],
+  [
+   "0xb18793b493e1f179228423ceebf41b078f68c8137bb41e82426989a958109967",
+   "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "BUY",
+   10607.98,
+   1788452005
+  ],
+  [
+   "0x665732f6aaae29b52bc8486d43a8cc3b63b67edb138424863203a623c7606448",
+   "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "BUY",
+   21200,
+   1788452065
   ]
  ],
  "leader_pos": {
@@ -21727,6 +21741,18 @@
    "cost": 1254.0,
    "max_shares": 3300.0,
    "last_trade_ts": 1788451794
+  },
+  "jtwyslljy|107595739834920983964310343017771639772743994318461049195293458556097245266312": {
+   "leader": "jtwyslljy",
+   "asset": "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "condition_id": "0x9d0c408719e02b7777782192681fed916989ec2c0b9898169eee831e5202552f",
+   "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
+   "outcome": "Katerina Siniakova",
+   "slug": "wta-osaka-siniako-2026-09-02",
+   "shares": 31807.98,
+   "cost": 2014.5586,
+   "max_shares": 31807.98,
+   "last_trade_ts": 1788452065
   }
  },
  "positions": [],
@@ -34703,8 +34729,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
    "outcome": "Francisco Cerundolo"
+  },
+  {
+   "at": "2026-09-03T16:20:34.737177+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:40:00+00:00",
+   "condition_id": "0x9d0c408719e02b7777782192681fed916989ec2c0b9898169eee831e5202552f",
+   "asset": "107595739834920983964310343017771639772743994318461049195293458556097245266312",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.07,
+   "cf_shares": 1428.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.07,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
+   "outcome": "Katerina Siniakova"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T16:15:36.528010+00:00"
+ "last_updated": "2026-09-03T16:20:34.738101+00:00"
 }
