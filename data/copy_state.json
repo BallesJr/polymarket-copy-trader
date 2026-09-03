@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9573.146330199996,
+ "bankroll": 9692.193930199996,
  "last_seen": {
   "jtwyslljy": 1788454788,
   "0x53757615de": 1787221213
@@ -21924,24 +21924,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "46364735747534235553073073990429157847940825035843864613325829072930560300962",
-   "condition_id": "0x4539413da7056a89798618421f78f9dfb46afc82d3f8c50c57e0a8c322033446",
-   "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
-   "outcome": "Alexander Blockx",
-   "slug": "atp-blockx-trungel-2026-09-02",
-   "opened_at": "2026-09-03T16:35:27.052233+00:00",
-   "entry_price": 0.84,
-   "shares": 119.0476,
-   "stake": 100.0,
-   "leader_vwap": 0.84,
-   "leader_cost": 2520.0,
-   "copy_delay_min": 10.0,
-   "best_ask": 0.84,
-   "ask_depth": 9923.46,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "72887724363362698973061099084379209982173775302086480686033226592379042572072",
    "condition_id": "0x9b30d2ece4f593e0747668fa667dce004068f9274dda8c5a7dd692d9f9bffe7f",
    "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
@@ -30875,6 +30857,28 @@
    "exit_price": 1.0,
    "pnl": 63.9344,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46364735747534235553073073990429157847940825035843864613325829072930560300962",
+   "condition_id": "0x4539413da7056a89798618421f78f9dfb46afc82d3f8c50c57e0a8c322033446",
+   "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-blockx-trungel-2026-09-02",
+   "opened_at": "2026-09-03T16:35:27.052233+00:00",
+   "entry_price": 0.84,
+   "shares": 119.0476,
+   "stake": 100.0,
+   "leader_vwap": 0.84,
+   "leader_cost": 2520.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.84,
+   "ask_depth": 9923.46,
+   "status": "won",
+   "closed_at": "2026-09-03T22:47:31.379462+00:00",
+   "exit_price": 1.0,
+   "pnl": 19.0476,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35068,6 +35072,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -26.853899999999427,
- "last_updated": "2026-09-03T22:45:29.028329+00:00"
+ "total_pnl": -7.806299999999428,
+ "last_updated": "2026-09-03T22:47:31.381359+00:00"
 }
