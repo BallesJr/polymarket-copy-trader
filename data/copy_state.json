@@ -21618,42 +21618,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
-   "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
-   "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
-   "outcome": "Dino Prizmic",
-   "slug": "atp-prizmic-paul-2026-09-02",
-   "opened_at": "2026-09-02T16:25:26.297087+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.1979,
-   "leader_cost": 593.58,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.2,
-   "ask_depth": 81994.7,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "88632000558083681519660917314625732595930077314388714625732121470534998930516",
-   "condition_id": "0xcff7633b55d26a5813773137ada67496722c9918caea80fbafe7b7a8e1a94a7b",
-   "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
-   "outcome": "Kamil Majchrzak",
-   "slug": "atp-vachero-majchrz-2026-09-01",
-   "opened_at": "2026-09-02T16:25:26.496445+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 1320.0,
-   "copy_delay_min": 8.4,
-   "best_ask": 0.44,
-   "ask_depth": 96558.33,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "114390730189571617550306308633827494826323680980041339286353129627918166722742",
    "condition_id": "0xd009f3182efb403290e7f82a33fc1f068cdb5068a2f02566fbb29f7d2a4f2798",
    "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
@@ -30419,6 +30383,50 @@
    "exit_price": 1.0,
    "pnl": 14.9425,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43075524565279749242227535462366460467662721610228134896583013583426316545930",
+   "condition_id": "0xfaa197f46e47867b9947870d3768e2c33509563b4793cbb628462ed16e6ebecb",
+   "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
+   "outcome": "Dino Prizmic",
+   "slug": "atp-prizmic-paul-2026-09-02",
+   "opened_at": "2026-09-02T16:25:26.297087+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1979,
+   "leader_cost": 593.58,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.2,
+   "ask_depth": 81994.7,
+   "status": "lost",
+   "closed_at": "2026-09-03T03:35:28.369452+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "88632000558083681519660917314625732595930077314388714625732121470534998930516",
+   "condition_id": "0xcff7633b55d26a5813773137ada67496722c9918caea80fbafe7b7a8e1a94a7b",
+   "title": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+   "outcome": "Kamil Majchrzak",
+   "slug": "atp-vachero-majchrz-2026-09-01",
+   "opened_at": "2026-09-02T16:25:26.496445+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 1320.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.44,
+   "ask_depth": 96558.33,
+   "status": "lost",
+   "closed_at": "2026-09-03T03:35:28.694711+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -34484,6 +34492,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": 29.460900000000578,
- "last_updated": "2026-09-03T03:05:22.772635+00:00"
+ "total_pnl": -170.53909999999942,
+ "last_updated": "2026-09-03T03:35:28.696193+00:00"
 }
