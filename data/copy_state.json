@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9851.412330199997,
  "last_seen": {
-  "jtwyslljy": 1788450381,
+  "jtwyslljy": 1788451158,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13256,6 +13256,20 @@
    "BUY",
    14000,
    1788450381
+  ],
+  [
+   "0x6600342f1f527710c9b959694db61a7bd50f9702882956513258e38ae31ad549",
+   "6266239881818656652374839410322104614460703507312568625096548936019308288463",
+   "BUY",
+   23200,
+   1788451081
+  ],
+  [
+   "0xb39b7495a572f8d92d4df58b0640daa179db43f3d9c31b277f89a5b10f16d9bd",
+   "75813854111503834827951904398594364055531116755361012665122678230208796969121",
+   "BUY",
+   31000,
+   1788451158
   ]
  ],
  "leader_pos": {
@@ -21670,6 +21684,30 @@
    "cost": 4059.9999999999995,
    "max_shares": 14000.0,
    "last_trade_ts": 1788450381
+  },
+  "jtwyslljy|6266239881818656652374839410322104614460703507312568625096548936019308288463": {
+   "leader": "jtwyslljy",
+   "asset": "6266239881818656652374839410322104614460703507312568625096548936019308288463",
+   "condition_id": "0x157eba06e4b7e41b0a615413e9769791a3bb2ecfd2aa801866e8b8b5c9f92944",
+   "title": "US Open WTA: Anastasia Potapova vs Leolia Jeanjean",
+   "outcome": "Leolia Jeanjean",
+   "slug": "wta-potapov-jeanjea-2026-09-03",
+   "shares": 23200.0,
+   "cost": 3712.0,
+   "max_shares": 23200.0,
+   "last_trade_ts": 1788451081
+  },
+  "jtwyslljy|75813854111503834827951904398594364055531116755361012665122678230208796969121": {
+   "leader": "jtwyslljy",
+   "asset": "75813854111503834827951904398594364055531116755361012665122678230208796969121",
+   "condition_id": "0xb540af02303ab450721a0dbbc95bbbd301ed1a8515e3e9f18d668440ac0ab017",
+   "title": "US Open WTA: Madison Keys vs Anna Bondar",
+   "outcome": "Anna Bondar",
+   "slug": "wta-keys-bondar-2026-09-02",
+   "shares": 31000.0,
+   "cost": 9681.291800500001,
+   "max_shares": 31000.0,
+   "last_trade_ts": 1788451158
   }
  },
  "positions": [],
@@ -34598,8 +34636,40 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
    "outcome": "Dalibor Svrcina"
+  },
+  {
+   "at": "2026-09-03T16:10:29.953894+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:10:00+00:00",
+   "condition_id": "0xb540af02303ab450721a0dbbc95bbbd301ed1a8515e3e9f18d668440ac0ab017",
+   "asset": "75813854111503834827951904398594364055531116755361012665122678230208796969121",
+   "copy_delay_min": 11.2,
+   "cf_ask": 0.38,
+   "cf_shares": 263.1579,
+   "cf_cost": 100.0,
+   "cf_entry": 0.38,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Madison Keys vs Anna Bondar",
+   "outcome": "Anna Bondar"
+  },
+  {
+   "at": "2026-09-03T16:10:30.095341+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-03T15:10:00+00:00",
+   "condition_id": "0x157eba06e4b7e41b0a615413e9769791a3bb2ecfd2aa801866e8b8b5c9f92944",
+   "asset": "6266239881818656652374839410322104614460703507312568625096548936019308288463",
+   "copy_delay_min": 12.5,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Anastasia Potapova vs Leolia Jeanjean",
+   "outcome": "Leolia Jeanjean"
   }
  ],
  "total_pnl": -148.58789999999942,
- "last_updated": "2026-09-03T15:50:35.909697+00:00"
+ "last_updated": "2026-09-03T16:10:30.095933+00:00"
 }
