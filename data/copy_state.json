@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9354.768530199995,
  "last_seen": {
-  "jtwyslljy": 1788539440,
+  "jtwyslljy": 1788539784,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13438,6 +13438,13 @@
    "BUY",
    5000,
    1788539440
+  ],
+  [
+   "0xcd1e3919cbd6e42c879b2718c2cd6dfb0ac88bbeeb22151fb00dda52198fbef2",
+   "57789783059118893897040768044328331102140541565688815439481789222848115317634",
+   "SELL",
+   1000,
+   1788539784
   ]
  ],
  "leader_pos": {
@@ -22100,10 +22107,10 @@
    "title": "US Open WTA: Jessica Pegula vs Leylah Fernandez",
    "outcome": "Jessica Pegula",
    "slug": "wta-pegula-fernand-2026-09-04",
-   "shares": 5000.0,
-   "cost": 2500.0,
+   "shares": 4000.0,
+   "cost": 1970.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1788539440
+   "last_trade_ts": 1788539784
   }
  },
  "positions": [
@@ -35423,8 +35430,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Jessica Pegula vs Leylah Fernandez",
    "outcome": "Jessica Pegula"
+  },
+  {
+   "at": "2026-09-04T16:40:34.228683+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-04T15:35:00+00:00",
+   "condition_id": "0x90d7b6d3bbda0f9e47dda85754ec9bb7676e7074e79821c6e86ac0e265e851b4",
+   "asset": "57789783059118893897040768044328331102140541565688815439481789222848115317634",
+   "copy_delay_min": 4.2,
+   "cf_ask": 0.64,
+   "cf_shares": 133.37,
+   "cf_cost": 85.36,
+   "cf_entry": 0.64,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Jessica Pegula vs Leylah Fernandez",
+   "outcome": "Jessica Pegula"
   }
  ],
  "total_pnl": -45.23169999999942,
- "last_updated": "2026-09-04T16:35:24.896429+00:00"
+ "last_updated": "2026-09-04T16:40:34.841583+00:00"
 }
