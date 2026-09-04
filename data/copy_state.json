@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9837.121430199995,
+ "bankroll": 9954.768530199995,
  "last_seen": {
   "jtwyslljy": 1788493752,
   "0x53757615de": 1787221213
@@ -21928,26 +21928,7 @@
    "last_trade_ts": 1788454258
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "34397574656059404129684572103759634972857321473106697911428547533582938361264",
-   "condition_id": "0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d",
-   "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
-   "outcome": "Alexander Zverev",
-   "slug": "atp-zverev-halys-2026-09-03",
-   "opened_at": "2026-09-03T16:35:27.490932+00:00",
-   "entry_price": 0.85,
-   "shares": 117.6471,
-   "stake": 100.0,
-   "leader_vwap": 0.85,
-   "leader_cost": 2550.0,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.85,
-   "ask_depth": 15612.78,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -30894,6 +30875,28 @@
    "exit_price": 1.0,
    "pnl": 44.9275,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34397574656059404129684572103759634972857321473106697911428547533582938361264",
+   "condition_id": "0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d",
+   "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-halys-2026-09-03",
+   "opened_at": "2026-09-03T16:35:27.490932+00:00",
+   "entry_price": 0.85,
+   "shares": 117.6471,
+   "stake": 100.0,
+   "leader_vwap": 0.85,
+   "leader_cost": 2550.0,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.85,
+   "ask_depth": 15612.78,
+   "status": "won",
+   "closed_at": "2026-09-04T06:55:27.873429+00:00",
+   "exit_price": 1.0,
+   "pnl": 17.6471,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35087,6 +35090,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -62.87879999999942,
- "last_updated": "2026-09-04T03:55:26.496080+00:00"
+ "total_pnl": -45.23169999999942,
+ "last_updated": "2026-09-04T06:55:27.875365+00:00"
 }
