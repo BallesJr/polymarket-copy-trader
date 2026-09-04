@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9354.768530199995,
  "last_seen": {
-  "jtwyslljy": 1788542352,
+  "jtwyslljy": 1788547804,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13452,6 +13452,13 @@
    "BUY",
    5000,
    1788542352
+  ],
+  [
+   "0xb2e0df00749dc8ef13a7f017a103dd6cae1c15fb9574cd42ca05081a7bb40e7f",
+   "92522083696304001511034879371256139893174027360977230335107350647595259029180",
+   "SELL",
+   3000,
+   1788547804
   ]
  ],
  "leader_pos": {
@@ -22126,10 +22133,10 @@
    "title": "US Open WTA: Taylor Townsend vs Diana Shnaider",
    "outcome": "Diana Shnaider",
    "slug": "wta-townsen-shnaide-2026-09-04",
-   "shares": 5000.0,
-   "cost": 1500.0,
+   "shares": 2000.0,
+   "cost": -239.99999999999977,
    "max_shares": 5000.0,
-   "last_trade_ts": 1788542352
+   "last_trade_ts": 1788547804
   }
  },
  "positions": [
@@ -35484,5 +35491,5 @@
   }
  ],
  "total_pnl": -45.23169999999942,
- "last_updated": "2026-09-04T17:20:33.151869+00:00"
+ "last_updated": "2026-09-04T18:55:21.830358+00:00"
 }
