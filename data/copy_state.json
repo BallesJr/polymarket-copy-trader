@@ -21924,24 +21924,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "72887724363362698973061099084379209982173775302086480686033226592379042572072",
-   "condition_id": "0x9b30d2ece4f593e0747668fa667dce004068f9274dda8c5a7dd692d9f9bffe7f",
-   "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
-   "outcome": "Zachary Svajda",
-   "slug": "atp-svajda-gea-2026-09-03",
-   "opened_at": "2026-09-03T16:35:27.269646+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 3240.0,
-   "copy_delay_min": 8.9,
-   "best_ask": 0.54,
-   "ask_depth": 10638.34,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "34397574656059404129684572103759634972857321473106697911428547533582938361264",
    "condition_id": "0x8ac0ba0e2bf6866038b9a1f2a765f17fee577e3facccf794ff98d992bbb7cd6d",
    "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
@@ -30879,6 +30861,28 @@
    "exit_price": 1.0,
    "pnl": 19.0476,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "72887724363362698973061099084379209982173775302086480686033226592379042572072",
+   "condition_id": "0x9b30d2ece4f593e0747668fa667dce004068f9274dda8c5a7dd692d9f9bffe7f",
+   "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
+   "outcome": "Zachary Svajda",
+   "slug": "atp-svajda-gea-2026-09-03",
+   "opened_at": "2026-09-03T16:35:27.269646+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 3240.0,
+   "copy_delay_min": 8.9,
+   "best_ask": 0.54,
+   "ask_depth": 10638.34,
+   "status": "lost",
+   "closed_at": "2026-09-04T01:40:29.658886+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35072,6 +35076,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -7.806299999999428,
- "last_updated": "2026-09-03T22:47:31.381359+00:00"
+ "total_pnl": -107.80629999999942,
+ "last_updated": "2026-09-04T01:40:29.660691+00:00"
 }
