@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9554.768530199995,
+ "bankroll": 9354.768530199995,
  "last_seen": {
-  "jtwyslljy": 1788534003,
+  "jtwyslljy": 1788534060,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13417,6 +13417,20 @@
    "BUY",
    2500,
    1788534003
+  ],
+  [
+   "0x7e07226bd8631a7d70e916ea6f666051e604f1e763490a3436a3c9e75def4818",
+   "55089908684074480739917921913412289693723974192199933941607373749286898905001",
+   "BUY",
+   3000,
+   1788534051
+  ],
+  [
+   "0x478ebd68113e4a0eec17652475b63c7928cfe7eb00f113279f643ac9e73b1868",
+   "42675626769759406422573869868590163092954788315073428990833126033739656365854",
+   "BUY",
+   3000,
+   1788534060
   ]
  ],
  "leader_pos": {
@@ -22047,6 +22061,30 @@
    "cost": 1000.0,
    "max_shares": 2500.0,
    "last_trade_ts": 1788534003
+  },
+  "jtwyslljy|55089908684074480739917921913412289693723974192199933941607373749286898905001": {
+   "leader": "jtwyslljy",
+   "asset": "55089908684074480739917921913412289693723974192199933941607373749286898905001",
+   "condition_id": "0x09109ad9baf1d42c69ddaa3e22620efcd082ab578ea9fd189e568f595377d9f4",
+   "title": "US Open WTA: Ann Li vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-annli-noskova-2026-09-04",
+   "shares": 3000.0,
+   "cost": 2250.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788534051
+  },
+  "jtwyslljy|42675626769759406422573869868590163092954788315073428990833126033739656365854": {
+   "leader": "jtwyslljy",
+   "asset": "42675626769759406422573869868590163092954788315073428990833126033739656365854",
+   "condition_id": "0xb5f32c63815ec1f266b98ca5bfd7c9f247b65dcf5094728bd754add376bbb732",
+   "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-navarro-muchova-2026-09-04",
+   "shares": 3000.0,
+   "cost": 2400.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788534060
   }
  },
  "positions": [
@@ -22120,6 +22158,42 @@
    "copy_delay_min": 9.5,
    "best_ask": 0.4,
    "ask_depth": 267530.18,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42675626769759406422573869868590163092954788315073428990833126033739656365854",
+   "condition_id": "0xb5f32c63815ec1f266b98ca5bfd7c9f247b65dcf5094728bd754add376bbb732",
+   "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-navarro-muchova-2026-09-04",
+   "opened_at": "2026-09-04T15:10:33.416794+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.8,
+   "ask_depth": 6472.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55089908684074480739917921913412289693723974192199933941607373749286898905001",
+   "condition_id": "0x09109ad9baf1d42c69ddaa3e22620efcd082ab578ea9fd189e568f595377d9f4",
+   "title": "US Open WTA: Ann Li vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-annli-noskova-2026-09-04",
+   "opened_at": "2026-09-04T15:10:33.601667+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 2250.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.75,
+   "ask_depth": 15190.18,
    "status": "open"
   }
  ],
@@ -35317,5 +35391,5 @@
   }
  ],
  "total_pnl": -45.23169999999942,
- "last_updated": "2026-09-04T15:05:33.665384+00:00"
+ "last_updated": "2026-09-04T15:10:34.375998+00:00"
 }
