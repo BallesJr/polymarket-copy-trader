@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9354.768530199995,
+ "bankroll": 9488.101830199996,
  "last_seen": {
   "jtwyslljy": 1788547804,
   "0x53757615de": 1787221213
@@ -22175,24 +22175,6 @@
    "best_ask": 0.38,
    "ask_depth": 29637.27,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "55089908684074480739917921913412289693723974192199933941607373749286898905001",
-   "condition_id": "0x09109ad9baf1d42c69ddaa3e22620efcd082ab578ea9fd189e568f595377d9f4",
-   "title": "US Open WTA: Ann Li vs Linda Noskova",
-   "outcome": "Linda Noskova",
-   "slug": "wta-annli-noskova-2026-09-04",
-   "opened_at": "2026-09-04T15:10:33.601667+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 2250.0,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.75,
-   "ask_depth": 15190.18,
-   "status": "open"
   }
  ],
  "closed": [
@@ -31229,6 +31211,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55089908684074480739917921913412289693723974192199933941607373749286898905001",
+   "condition_id": "0x09109ad9baf1d42c69ddaa3e22620efcd082ab578ea9fd189e568f595377d9f4",
+   "title": "US Open WTA: Ann Li vs Linda Noskova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-annli-noskova-2026-09-04",
+   "opened_at": "2026-09-04T15:10:33.601667+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 2250.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.75,
+   "ask_depth": 15190.18,
+   "status": "won",
+   "closed_at": "2026-09-04T23:05:36.061530+00:00",
+   "exit_price": 1.0,
+   "pnl": 33.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35502,6 +35506,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -345.2316999999994,
- "last_updated": "2026-09-04T21:36:45.401875+00:00"
+ "total_pnl": -311.8983999999994,
+ "last_updated": "2026-09-04T23:05:36.063199+00:00"
 }
