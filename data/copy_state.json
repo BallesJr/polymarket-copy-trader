@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9954.768530199995,
+ "bankroll": 9554.768530199995,
  "last_seen": {
-  "jtwyslljy": 1788493752,
+  "jtwyslljy": 1788534003,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13368,6 +13368,55 @@
    "BUY",
    3000,
    1788493752
+  ],
+  [
+   "0xbf70a0525a1cb3399ca2dfe47992999e37b37f1aff35c4fbe4dd47d3e9e9c898",
+   "36758238887810647846048606590039121513287411296023612373670136315274783192499",
+   "BUY",
+   3000,
+   1788533707
+  ],
+  [
+   "0x422e55e6906a32d1b2a3f18684d6015734034b1d8082b5e708a12daef2e1ab7e",
+   "85225840132494578258624205891765568077437182827090866901560470561681121827868",
+   "BUY",
+   10000,
+   1788533737
+  ],
+  [
+   "0xaa00ee7e77360d5b25c3e27c05160ebf847bc557cbf80b8678e236e24ff9a6f9",
+   "30332017741190124475959449825272656875095450198341310224061624092738322464536",
+   "BUY",
+   4000,
+   1788533760
+  ],
+  [
+   "0xf91a9b25f7f13668a6ff84c831564e737112e483e2cc4f458be1019d3156f8c5",
+   "36758238887810647846048606590039121513287411296023612373670136315274783192499",
+   "BUY",
+   1000,
+   1788533763
+  ],
+  [
+   "0x20cbd1113a543574f19c948a2e6b9aa6f49c6df0c39d2b2da3902664a13fc9eb",
+   "34091700361362376432592437557302714478248520464788742864917588710342903654",
+   "BUY",
+   3000,
+   1788533835
+  ],
+  [
+   "0xf1cec6eb4eadbe90b4977b774977721ac8d60881278ea0f963297bc3f4d04649",
+   "31980488773151854325115272818932389698747195886656577271772236539792923074819",
+   "BUY",
+   2000,
+   1788533974
+  ],
+  [
+   "0xd0cdac1e71b9b99d4e3403564fe20d486a02792e03ac0c08dd9f2aed31bc9103",
+   "89872416081904977924423782660113795305980874014537599916869345573811403726290",
+   "BUY",
+   2500,
+   1788534003
   ]
  ],
  "leader_pos": {
@@ -21926,9 +21975,154 @@
    "cost": 2100.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788454258
+  },
+  "jtwyslljy|36758238887810647846048606590039121513287411296023612373670136315274783192499": {
+   "leader": "jtwyslljy",
+   "asset": "36758238887810647846048606590039121513287411296023612373670136315274783192499",
+   "condition_id": "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779",
+   "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-paul-2026-09-04",
+   "shares": 4000.0,
+   "cost": 1600.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1788533763
+  },
+  "jtwyslljy|85225840132494578258624205891765568077437182827090866901560470561681121827868": {
+   "leader": "jtwyslljy",
+   "asset": "85225840132494578258624205891765568077437182827090866901560470561681121827868",
+   "condition_id": "0xa75c78cc95fa2927b6eca2ae771f1872d912b96e14b2076e9d459ad920d4d480",
+   "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+   "outcome": "Yibing Wu",
+   "slug": "atp-wu-alcaraz-2026-09-04",
+   "shares": 10000.0,
+   "cost": 800.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788533737
+  },
+  "jtwyslljy|30332017741190124475959449825272656875095450198341310224061624092738322464536": {
+   "leader": "jtwyslljy",
+   "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
+   "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
+   "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-michels-aguilar-2026-09-04",
+   "shares": 4000.0,
+   "cost": 1520.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1788533760
+  },
+  "jtwyslljy|34091700361362376432592437557302714478248520464788742864917588710342903654": {
+   "leader": "jtwyslljy",
+   "asset": "34091700361362376432592437557302714478248520464788742864917588710342903654",
+   "condition_id": "0x5864e7f04a5197487df807993905794e26967650ba77af41ea0ad9d0eae5d234",
+   "title": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-tsitsip-2026-09-04",
+   "shares": 3000.0,
+   "cost": 1860.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788533835
+  },
+  "jtwyslljy|31980488773151854325115272818932389698747195886656577271772236539792923074819": {
+   "leader": "jtwyslljy",
+   "asset": "31980488773151854325115272818932389698747195886656577271772236539792923074819",
+   "condition_id": "0x57ac475163d2ee2da7ab3120460d0d23b1c546697a2edd2ec9ef1910f5bf2080",
+   "title": "US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-kostyuk-alexand-2026-09-04",
+   "shares": 2000.0,
+   "cost": 500.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1788533974
+  },
+  "jtwyslljy|89872416081904977924423782660113795305980874014537599916869345573811403726290": {
+   "leader": "jtwyslljy",
+   "asset": "89872416081904977924423782660113795305980874014537599916869345573811403726290",
+   "condition_id": "0x9c541af5380f1892cd9e75402f8f7f5c80fd35466e5067cbcf86408b029bf519",
+   "title": "US Open WTA: Jasmine Paolini vs Sorana Cirstea",
+   "outcome": "Jasmine Paolini",
+   "slug": "wta-paolini-cirstea-2026-09-04",
+   "shares": 2500.0,
+   "cost": 1000.0,
+   "max_shares": 2500.0,
+   "last_trade_ts": 1788534003
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "34091700361362376432592437557302714478248520464788742864917588710342903654",
+   "condition_id": "0x5864e7f04a5197487df807993905794e26967650ba77af41ea0ad9d0eae5d234",
+   "title": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-tsitsip-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.213913+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 1860.0,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.62,
+   "ask_depth": 14940.55,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85225840132494578258624205891765568077437182827090866901560470561681121827868",
+   "condition_id": "0xa75c78cc95fa2927b6eca2ae771f1872d912b96e14b2076e9d459ad920d4d480",
+   "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+   "outcome": "Yibing Wu",
+   "slug": "atp-wu-alcaraz-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.395208+00:00",
+   "entry_price": 0.08,
+   "shares": 1250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.08,
+   "leader_cost": 800.0,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.08,
+   "ask_depth": 17246.86,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
+   "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
+   "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-michels-aguilar-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.575217+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.38,
+   "ask_depth": 29637.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36758238887810647846048606590039121513287411296023612373670136315274783192499",
+   "condition_id": "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779",
+   "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-paul-2026-09-04",
+   "opened_at": "2026-09-04T15:05:33.190711+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.4,
+   "ask_depth": 267530.18,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35088,8 +35282,40 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Naomi Osaka vs Katerina Siniakova",
    "outcome": "Katerina Siniakova"
+  },
+  {
+   "at": "2026-09-04T15:05:32.801499+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-04T15:00:00+00:00",
+   "condition_id": "0x9c541af5380f1892cd9e75402f8f7f5c80fd35466e5067cbcf86408b029bf519",
+   "asset": "89872416081904977924423782660113795305980874014537599916869345573811403726290",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.4,
+   "cf_shares": 250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Jasmine Paolini vs Sorana Cirstea",
+   "outcome": "Jasmine Paolini"
+  },
+  {
+   "at": "2026-09-04T15:05:33.004993+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-04T15:00:00+00:00",
+   "condition_id": "0x57ac475163d2ee2da7ab3120460d0d23b1c546697a2edd2ec9ef1910f5bf2080",
+   "asset": "31980488773151854325115272818932389698747195886656577271772236539792923074819",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova"
   }
  ],
  "total_pnl": -45.23169999999942,
- "last_updated": "2026-09-04T06:55:27.875365+00:00"
+ "last_updated": "2026-09-04T15:05:33.665384+00:00"
 }
