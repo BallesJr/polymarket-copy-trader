@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9692.193930199996,
+ "bankroll": 9837.121430199995,
  "last_seen": {
   "jtwyslljy": 1788454788,
   "0x53757615de": 1787221213
@@ -21939,24 +21939,6 @@
    "best_ask": 0.85,
    "ask_depth": 15612.78,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "94895810975070252472461406550711930683829497520228959935297669402523129527139",
-   "condition_id": "0xf6e03a3f8ca131c16b0dd9afe2acb9727c9797d0f09d561f70577dedef7e0eeb",
-   "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
-   "outcome": "Zizou Bergs",
-   "slug": "atp-bergs-jong-2026-09-03",
-   "opened_at": "2026-09-03T16:35:28.090149+00:00",
-   "entry_price": 0.69,
-   "shares": 144.9275,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 2070.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.69,
-   "ask_depth": 10822.22,
-   "status": "open"
   }
  ],
  "closed": [
@@ -30883,6 +30865,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94895810975070252472461406550711930683829497520228959935297669402523129527139",
+   "condition_id": "0xf6e03a3f8ca131c16b0dd9afe2acb9727c9797d0f09d561f70577dedef7e0eeb",
+   "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-bergs-jong-2026-09-03",
+   "opened_at": "2026-09-03T16:35:28.090149+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 2070.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.69,
+   "ask_depth": 10822.22,
+   "status": "won",
+   "closed_at": "2026-09-04T02:45:37.045389+00:00",
+   "exit_price": 1.0,
+   "pnl": 44.9275,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35076,6 +35080,6 @@
    "outcome": "Katerina Siniakova"
   }
  ],
- "total_pnl": -107.80629999999942,
- "last_updated": "2026-09-04T01:40:29.660691+00:00"
+ "total_pnl": -62.87879999999942,
+ "last_updated": "2026-09-04T02:45:37.047504+00:00"
 }
