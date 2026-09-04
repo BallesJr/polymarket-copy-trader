@@ -22160,24 +22160,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "85225840132494578258624205891765568077437182827090866901560470561681121827868",
-   "condition_id": "0xa75c78cc95fa2927b6eca2ae771f1872d912b96e14b2076e9d459ad920d4d480",
-   "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
-   "outcome": "Yibing Wu",
-   "slug": "atp-wu-alcaraz-2026-09-04",
-   "opened_at": "2026-09-04T15:05:32.395208+00:00",
-   "entry_price": 0.08,
-   "shares": 1250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.08,
-   "leader_cost": 800.0,
-   "copy_delay_min": 9.9,
-   "best_ask": 0.08,
-   "ask_depth": 17246.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
    "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
    "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
@@ -31221,6 +31203,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85225840132494578258624205891765568077437182827090866901560470561681121827868",
+   "condition_id": "0xa75c78cc95fa2927b6eca2ae771f1872d912b96e14b2076e9d459ad920d4d480",
+   "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+   "outcome": "Yibing Wu",
+   "slug": "atp-wu-alcaraz-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.395208+00:00",
+   "entry_price": 0.08,
+   "shares": 1250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.08,
+   "leader_cost": 800.0,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.08,
+   "ask_depth": 17246.86,
+   "status": "lost",
+   "closed_at": "2026-09-04T21:25:23.534926+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35494,6 +35498,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -145.23169999999942,
- "last_updated": "2026-09-04T20:55:26.884472+00:00"
+ "total_pnl": -245.23169999999942,
+ "last_updated": "2026-09-04T21:25:23.536627+00:00"
 }
