@@ -22178,24 +22178,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "42675626769759406422573869868590163092954788315073428990833126033739656365854",
-   "condition_id": "0xb5f32c63815ec1f266b98ca5bfd7c9f247b65dcf5094728bd754add376bbb732",
-   "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
-   "outcome": "Karolina Muchova",
-   "slug": "wta-navarro-muchova-2026-09-04",
-   "opened_at": "2026-09-04T15:10:33.416794+00:00",
-   "entry_price": 0.8,
-   "shares": 125.0,
-   "stake": 100.0,
-   "leader_vwap": 0.8,
-   "leader_cost": 2400.0,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.8,
-   "ask_depth": 6472.56,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "55089908684074480739917921913412289693723974192199933941607373749286898905001",
    "condition_id": "0x09109ad9baf1d42c69ddaa3e22620efcd082ab578ea9fd189e568f595377d9f4",
    "title": "US Open WTA: Ann Li vs Linda Noskova",
@@ -31225,6 +31207,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "42675626769759406422573869868590163092954788315073428990833126033739656365854",
+   "condition_id": "0xb5f32c63815ec1f266b98ca5bfd7c9f247b65dcf5094728bd754add376bbb732",
+   "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-navarro-muchova-2026-09-04",
+   "opened_at": "2026-09-04T15:10:33.416794+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 2400.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.8,
+   "ask_depth": 6472.56,
+   "status": "lost",
+   "closed_at": "2026-09-04T21:36:45.399875+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35498,6 +35502,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -245.23169999999942,
- "last_updated": "2026-09-04T21:25:23.536627+00:00"
+ "total_pnl": -345.2316999999994,
+ "last_updated": "2026-09-04T21:36:45.401875+00:00"
 }
