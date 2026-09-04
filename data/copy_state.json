@@ -22196,24 +22196,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "36758238887810647846048606590039121513287411296023612373670136315274783192499",
-   "condition_id": "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779",
-   "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
-   "outcome": "Alexander Bublik",
-   "slug": "atp-bublik-paul-2026-09-04",
-   "opened_at": "2026-09-04T15:05:33.190711+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 1600.0,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.4,
-   "ask_depth": 267530.18,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "42675626769759406422573869868590163092954788315073428990833126033739656365854",
    "condition_id": "0xb5f32c63815ec1f266b98ca5bfd7c9f247b65dcf5094728bd754add376bbb732",
    "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
@@ -31217,6 +31199,28 @@
    "exit_price": 1.0,
    "pnl": 17.6471,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36758238887810647846048606590039121513287411296023612373670136315274783192499",
+   "condition_id": "0xd1978d7fcee0893d8585c8f940f636f60b45d8d11f3c1469c3b88e2683050779",
+   "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
+   "outcome": "Alexander Bublik",
+   "slug": "atp-bublik-paul-2026-09-04",
+   "opened_at": "2026-09-04T15:05:33.190711+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1600.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.4,
+   "ask_depth": 267530.18,
+   "status": "lost",
+   "closed_at": "2026-09-04T20:55:26.882710+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35490,6 +35494,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -45.23169999999942,
- "last_updated": "2026-09-04T18:55:21.830358+00:00"
+ "total_pnl": -145.23169999999942,
+ "last_updated": "2026-09-04T20:55:26.884472+00:00"
 }
