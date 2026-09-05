@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9488.101830199996,
+ "bankroll": 9388.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788599680,
+  "jtwyslljy": 1788614578,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13466,6 +13466,20 @@
    "BUY",
    3740,
    1788599680
+  ],
+  [
+   "0xad49e8f11c43e479e7731b1321ba0215ba72144a9cc380e1b19134619ddeeec7",
+   "20456043537100550105176559145932087399467630214698853275663988962620563395330",
+   "BUY",
+   7000,
+   1788614437
+  ],
+  [
+   "0x90ef60b759f0198d041e5ca3b02b70fb5c28481239135b712c0857b16aab9ce6",
+   "9987568651674746548636453044884072215721124109190621040079003484137261316965",
+   "BUY",
+   120000,
+   1788614578
   ]
  ],
  "leader_pos": {
@@ -22156,9 +22170,52 @@
    "cost": 783.0600001839999,
    "max_shares": 3740.0,
    "last_trade_ts": 1788599680
+  },
+  "jtwyslljy|20456043537100550105176559145932087399467630214698853275663988962620563395330": {
+   "leader": "jtwyslljy",
+   "asset": "20456043537100550105176559145932087399467630214698853275663988962620563395330",
+   "condition_id": "0xb6f9f3fc03b9f90028ac2faa5e171c5e7fa740f2498fc810eb65b48c745c1cf4",
+   "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+   "outcome": "JD Gaming",
+   "slug": "lol-nip-jdg-2026-09-05",
+   "shares": 7000.0,
+   "cost": 980.0000000000001,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1788614437
+  },
+  "jtwyslljy|9987568651674746548636453044884072215721124109190621040079003484137261316965": {
+   "leader": "jtwyslljy",
+   "asset": "9987568651674746548636453044884072215721124109190621040079003484137261316965",
+   "condition_id": "0x07f258489261b9bc45ba6e66ad62ea7fbc823d54a6c60743185592933e6b4d8e",
+   "title": "Will Manchester City FC win on 2026-09-05?",
+   "outcome": "No",
+   "slug": "epl-mac-cov-2026-09-05",
+   "shares": 120000.0,
+   "cost": 21600.0,
+   "max_shares": 120000.0,
+   "last_trade_ts": 1788614578
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "9987568651674746548636453044884072215721124109190621040079003484137261316965",
+   "condition_id": "0x07f258489261b9bc45ba6e66ad62ea7fbc823d54a6c60743185592933e6b4d8e",
+   "title": "Will Manchester City FC win on 2026-09-05?",
+   "outcome": "No",
+   "slug": "epl-mac-cov-2026-09-05",
+   "opened_at": "2026-09-05T13:30:42.579799+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 21600.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.19,
+   "ask_depth": 286573.61,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35546,8 +35603,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
    "outcome": "Top Esports"
+  },
+  {
+   "at": "2026-09-05T13:30:42.714232+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T11:00:00+00:00",
+   "condition_id": "0xb6f9f3fc03b9f90028ac2faa5e171c5e7fa740f2498fc810eb65b48c745c1cf4",
+   "asset": "20456043537100550105176559145932087399467630214698853275663988962620563395330",
+   "copy_delay_min": 10.1,
+   "cf_ask": 0.15,
+   "cf_shares": 569.5874,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1756,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+   "outcome": "JD Gaming"
   }
  ],
  "total_pnl": -511.8983999999994,
- "last_updated": "2026-09-05T09:15:32.280992+00:00"
+ "last_updated": "2026-09-05T13:30:42.867922+00:00"
 }
