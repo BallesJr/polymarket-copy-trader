@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8746.832030199996,
  "last_seen": {
-  "jtwyslljy": 1788630621,
+  "jtwyslljy": 1788630949,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13662,6 +13662,13 @@
    "BUY",
    9000,
    1788630621
+  ],
+  [
+   "0xbe8a6f04d3a310cf50550ae5f3d4297fc46289d0b19f04a04614ea089e22f2a3",
+   "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "BUY",
+   7499.99,
+   1788630949
   ]
  ],
  "leader_pos": {
@@ -22528,10 +22535,10 @@
    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "outcome": "Vitality",
    "slug": "cs2-mouz-vit-2026-09-05",
-   "shares": 109000.0,
-   "cost": 37060.00000000001,
-   "max_shares": 109000.0,
-   "last_trade_ts": 1788630621
+   "shares": 116499.99,
+   "cost": 39609.996600000006,
+   "max_shares": 116499.99,
+   "last_trade_ts": 1788630949
   }
  },
  "positions": [
@@ -36221,8 +36228,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-09-05T18:00:53.562613+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T16:45:00+00:00",
+   "condition_id": "0xec7f9a8c0f7d5ee3d881a6169d78a9a0a1b8b0f84e3006faf39152b705c0ab50",
+   "asset": "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -553.1681999999994,
- "last_updated": "2026-09-05T17:55:22.983174+00:00"
+ "last_updated": "2026-09-05T18:00:53.851482+00:00"
 }
