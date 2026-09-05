@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8588.101830199996,
+ "bankroll": 8746.832030199996,
  "last_seen": {
-  "jtwyslljy": 1788630411,
+  "jtwyslljy": 1788630621,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13655,6 +13655,13 @@
    "BUY",
    10000,
    1788630411
+  ],
+  [
+   "0x0798b99d1d84f5b6cc72408eb951d35540fb8e46276df7858c05d42282a5c6d5",
+   "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "BUY",
+   9000,
+   1788630621
   ]
  ],
  "leader_pos": {
@@ -22521,31 +22528,13 @@
    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "outcome": "Vitality",
    "slug": "cs2-mouz-vit-2026-09-05",
-   "shares": 100000.0,
-   "cost": 34000.00000000001,
-   "max_shares": 100000.0,
-   "last_trade_ts": 1788630411
+   "shares": 109000.0,
+   "cost": 37060.00000000001,
+   "max_shares": 109000.0,
+   "last_trade_ts": 1788630621
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "93300889442243883755323654890887019289203968648181945363256868716498724674706",
-   "condition_id": "0x9f22f03918b33b75f326a6a8b6eed53618aa764807b3599a5811bafa8809e4ee",
-   "title": "Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs",
-   "outcome": "Spirit",
-   "slug": "cs2-ts7-fal2-2026-09-05",
-   "opened_at": "2026-09-05T13:57:33.769307+00:00",
-   "entry_price": 0.63,
-   "shares": 158.7302,
-   "stake": 100.0,
-   "leader_vwap": 0.62,
-   "leader_cost": 4192.27,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.63,
-   "ask_depth": 144438.04,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "79352657125879755949240189889188729104858973701110900315690002810567914032513",
@@ -31795,6 +31784,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93300889442243883755323654890887019289203968648181945363256868716498724674706",
+   "condition_id": "0x9f22f03918b33b75f326a6a8b6eed53618aa764807b3599a5811bafa8809e4ee",
+   "title": "Counter-Strike: Spirit vs Team Falcons (BO3) - BLAST Open Porto Playoffs",
+   "outcome": "Spirit",
+   "slug": "cs2-ts7-fal2-2026-09-05",
+   "opened_at": "2026-09-05T13:57:33.769307+00:00",
+   "entry_price": 0.63,
+   "shares": 158.7302,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 4192.27,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.63,
+   "ask_depth": 144438.04,
+   "status": "won",
+   "closed_at": "2026-09-05T17:55:22.981435+00:00",
+   "exit_price": 1.0,
+   "pnl": 58.7302,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36194,8 +36205,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-09-05T17:55:22.579154+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T16:45:00+00:00",
+   "condition_id": "0xec7f9a8c0f7d5ee3d881a6169d78a9a0a1b8b0f84e3006faf39152b705c0ab50",
+   "asset": "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+   "outcome": "Vitality"
   }
  ],
- "total_pnl": -611.8983999999994,
- "last_updated": "2026-09-05T17:50:35.481060+00:00"
+ "total_pnl": -553.1681999999994,
+ "last_updated": "2026-09-05T17:55:22.983174+00:00"
 }
