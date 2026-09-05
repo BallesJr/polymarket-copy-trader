@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8888.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788628060,
+  "jtwyslljy": 1788628375,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13557,6 +13557,13 @@
    "BUY",
    7999.99,
    1788628060
+  ],
+  [
+   "0x242c26d11c76a0bb072402e6aa30cd52c0379a86975c204169c2e42e6fac98a9",
+   "60148058102705168671196956156609659654053887276346089287249093352731827083813",
+   "BUY",
+   13700.88,
+   1788628375
   ]
  ],
  "leader_pos": {
@@ -22355,6 +22362,18 @@
    "cost": 2159.9973,
    "max_shares": 7999.99,
    "last_trade_ts": 1788628060
+  },
+  "jtwyslljy|60148058102705168671196956156609659654053887276346089287249093352731827083813": {
+   "leader": "jtwyslljy",
+   "asset": "60148058102705168671196956156609659654053887276346089287249093352731827083813",
+   "condition_id": "0xbc211fd9dff3b48899e6757252c7a4039d3efe847e64750bd58b764bfe442df7",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-05?",
+   "outcome": "No",
+   "slug": "bun-s04-bay-2026-09-05",
+   "shares": 13700.88,
+   "cost": 3973.2551999999996,
+   "max_shares": 13700.88,
+   "last_trade_ts": 1788628375
   }
  },
  "positions": [
@@ -35922,8 +35941,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-09-05T17:20:29.339346+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T16:30:00+00:00",
+   "condition_id": "0xbc211fd9dff3b48899e6757252c7a4039d3efe847e64750bd58b764bfe442df7",
+   "asset": "60148058102705168671196956156609659654053887276346089287249093352731827083813",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-05?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -611.8983999999994,
- "last_updated": "2026-09-05T17:15:33.257784+00:00"
+ "last_updated": "2026-09-05T17:20:29.606113+00:00"
 }
