@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9188.101830199996,
+ "bankroll": 8888.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788625821,
+  "jtwyslljy": 1788628060,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13536,6 +13536,27 @@
    "BUY",
    11.82,
    1788625821
+  ],
+  [
+   "0x7a19ed300d096f585972b7e2bcfb55ad7cdfa5a2a1d0b0a92571e7187eb18947",
+   "114190269990962546608818256486364096066960752280412159279649517166760726241089",
+   "BUY",
+   10000,
+   1788628026
+  ],
+  [
+   "0x7f361a28d9687bed456613adce157a383c16d226629b327493a2dff25d869928",
+   "40425443249552523824417030902992244195017314899827028573886733507033085028752",
+   "BUY",
+   6431.75,
+   1788628053
+  ],
+  [
+   "0xf385b9837d07a1337ea95d432cb866ebd990b8e02dba9cdbe9a0d65fa16997ff",
+   "922496794816779849071776524352931193887191484951234461201347334960569265306",
+   "BUY",
+   7999.99,
+   1788628060
   ]
  ],
  "leader_pos": {
@@ -22298,6 +22319,42 @@
    "cost": 1655.7355,
    "max_shares": 3287.65,
    "last_trade_ts": 1788624933
+  },
+  "jtwyslljy|114190269990962546608818256486364096066960752280412159279649517166760726241089": {
+   "leader": "jtwyslljy",
+   "asset": "114190269990962546608818256486364096066960752280412159279649517166760726241089",
+   "condition_id": "0xc2c5087eeff169f8d06a7fc2935554933824237e4ba0b22e0f1aad3ecc515caf",
+   "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-swiatek-bouzkov-2026-09-04",
+   "shares": 10000.0,
+   "cost": 1596.3506,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788628026
+  },
+  "jtwyslljy|40425443249552523824417030902992244195017314899827028573886733507033085028752": {
+   "leader": "jtwyslljy",
+   "asset": "40425443249552523824417030902992244195017314899827028573886733507033085028752",
+   "condition_id": "0x09d4cd8adade97f8fe4b3407b162e796206007eab249bf05eed6837911fe321c",
+   "title": "US Open WTA: Iva Jovic vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-jovic-eala-2026-09-05",
+   "shares": 6431.75,
+   "cost": 3022.9224999999997,
+   "max_shares": 6431.75,
+   "last_trade_ts": 1788628053
+  },
+  "jtwyslljy|922496794816779849071776524352931193887191484951234461201347334960569265306": {
+   "leader": "jtwyslljy",
+   "asset": "922496794816779849071776524352931193887191484951234461201347334960569265306",
+   "condition_id": "0xc56ddcb3ebd56af0aef7d2b8f4a746eefd479f2c641889dc561a497c89f02aed",
+   "title": "US Open WTA: Naomi Osaka vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-osaka-mertens-2026-09-04",
+   "shares": 7999.99,
+   "cost": 2159.9973,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1788628060
   }
  },
  "positions": [
@@ -22335,6 +22392,60 @@
    "copy_delay_min": 6.9,
    "best_ask": 0.86,
    "ask_depth": 2143.79,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "114190269990962546608818256486364096066960752280412159279649517166760726241089",
+   "condition_id": "0xc2c5087eeff169f8d06a7fc2935554933824237e4ba0b22e0f1aad3ecc515caf",
+   "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-swiatek-bouzkov-2026-09-04",
+   "opened_at": "2026-09-05T17:15:32.485182+00:00",
+   "entry_price": 0.16,
+   "shares": 625.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1596,
+   "leader_cost": 1596.35,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.16,
+   "ask_depth": 18129.63,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "922496794816779849071776524352931193887191484951234461201347334960569265306",
+   "condition_id": "0xc56ddcb3ebd56af0aef7d2b8f4a746eefd479f2c641889dc561a497c89f02aed",
+   "title": "US Open WTA: Naomi Osaka vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-osaka-mertens-2026-09-04",
+   "opened_at": "2026-09-05T17:15:32.660139+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.27,
+   "ask_depth": 4150.75,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "40425443249552523824417030902992244195017314899827028573886733507033085028752",
+   "condition_id": "0x09d4cd8adade97f8fe4b3407b162e796206007eab249bf05eed6837911fe321c",
+   "title": "US Open WTA: Iva Jovic vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-jovic-eala-2026-09-05",
+   "opened_at": "2026-09-05T17:15:32.842392+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 3022.92,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.48,
+   "ask_depth": 9897.54,
    "status": "open"
   }
  ],
@@ -35814,5 +35925,5 @@
   }
  ],
  "total_pnl": -611.8983999999994,
- "last_updated": "2026-09-05T16:36:33.962492+00:00"
+ "last_updated": "2026-09-05T17:15:33.257784+00:00"
 }
