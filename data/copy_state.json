@@ -22579,24 +22579,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "79352657125879755949240189889188729104858973701110900315690002810567914032513",
-   "condition_id": "0xebc4621044189f62a138eb63323ead87b1f5b8cbc7846dbd3fe1b605df50b45f",
-   "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
-   "outcome": "Taylor Fritz",
-   "slug": "atp-fritz-cerundo-2026-09-04",
-   "opened_at": "2026-09-05T15:10:31.831324+00:00",
-   "entry_price": 0.86,
-   "shares": 116.2791,
-   "stake": 100.0,
-   "leader_vwap": 0.86,
-   "leader_cost": 2580.0,
-   "copy_delay_min": 6.9,
-   "best_ask": 0.86,
-   "ask_depth": 2143.79,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "114190269990962546608818256486364096066960752280412159279649517166760726241089",
    "condition_id": "0xc2c5087eeff169f8d06a7fc2935554933824237e4ba0b22e0f1aad3ecc515caf",
    "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
@@ -31848,6 +31830,28 @@
    "exit_price": 1.0,
    "pnl": 58.7302,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "79352657125879755949240189889188729104858973701110900315690002810567914032513",
+   "condition_id": "0xebc4621044189f62a138eb63323ead87b1f5b8cbc7846dbd3fe1b605df50b45f",
+   "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+   "outcome": "Taylor Fritz",
+   "slug": "atp-fritz-cerundo-2026-09-04",
+   "opened_at": "2026-09-05T15:10:31.831324+00:00",
+   "entry_price": 0.86,
+   "shares": 116.2791,
+   "stake": 100.0,
+   "leader_vwap": 0.86,
+   "leader_cost": 2580.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.86,
+   "ask_depth": 2143.79,
+   "status": "lost",
+   "closed_at": "2026-09-05T20:05:23.279181+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36297,6 +36301,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -553.1681999999994,
- "last_updated": "2026-09-05T19:15:35.995455+00:00"
+ "total_pnl": -653.1681999999994,
+ "last_updated": "2026-09-05T20:05:23.281041+00:00"
 }
