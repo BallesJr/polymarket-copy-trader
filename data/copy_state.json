@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9288.101830199996,
+ "bankroll": 9188.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788616410,
+  "jtwyslljy": 1788620668,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13487,6 +13487,27 @@
    "BUY",
    6761.72,
    1788616410
+  ],
+  [
+   "0x82b9141e910670f73215970707a51bb7b77002b29face7eb9549c177893835a6",
+   "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "BUY",
+   10000,
+   1788620593
+  ],
+  [
+   "0x3e6fec22c05626df8e41a36b533b284b0886e5b6935dcebc21f6d3a754b42507",
+   "79352657125879755949240189889188729104858973701110900315690002810567914032513",
+   "BUY",
+   3000,
+   1788620616
+  ],
+  [
+   "0x57f37de519e57d1ded0a99a8687ab1d7c52a638090a597f8d801e678291361c3",
+   "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "BUY",
+   2000,
+   1788620668
   ]
  ],
  "leader_pos": {
@@ -22213,6 +22234,30 @@
    "cost": 4192.2664,
    "max_shares": 6761.72,
    "last_trade_ts": 1788616410
+  },
+  "jtwyslljy|7420734327614944172018304330780735262565641648962601673360890186375071285921": {
+   "leader": "jtwyslljy",
+   "asset": "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "condition_id": "0x59ffaef2c3e9379cd6fe7c87e4c20bd5d8409f44637cda44aa2108b70fb74d3e",
+   "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-keys-zhen-2026-09-04",
+   "shares": 12000.0,
+   "cost": 4900.0,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1788620668
+  },
+  "jtwyslljy|79352657125879755949240189889188729104858973701110900315690002810567914032513": {
+   "leader": "jtwyslljy",
+   "asset": "79352657125879755949240189889188729104858973701110900315690002810567914032513",
+   "condition_id": "0xebc4621044189f62a138eb63323ead87b1f5b8cbc7846dbd3fe1b605df50b45f",
+   "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+   "outcome": "Taylor Fritz",
+   "slug": "atp-fritz-cerundo-2026-09-04",
+   "shares": 3000.0,
+   "cost": 2580.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788620616
   }
  },
  "positions": [
@@ -22250,6 +22295,24 @@
    "copy_delay_min": 4.0,
    "best_ask": 0.63,
    "ask_depth": 144438.04,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "79352657125879755949240189889188729104858973701110900315690002810567914032513",
+   "condition_id": "0xebc4621044189f62a138eb63323ead87b1f5b8cbc7846dbd3fe1b605df50b45f",
+   "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+   "outcome": "Taylor Fritz",
+   "slug": "atp-fritz-cerundo-2026-09-04",
+   "opened_at": "2026-09-05T15:10:31.831324+00:00",
+   "entry_price": 0.86,
+   "shares": 116.2791,
+   "stake": 100.0,
+   "leader_vwap": 0.86,
+   "leader_cost": 2580.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.86,
+   "ask_depth": 2143.79,
    "status": "open"
   }
  ],
@@ -35656,8 +35719,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
    "outcome": "JD Gaming"
+  },
+  {
+   "at": "2026-09-05T15:10:31.625129+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T15:00:00+00:00",
+   "condition_id": "0x59ffaef2c3e9379cd6fe7c87e4c20bd5d8409f44637cda44aa2108b70fb74d3e",
+   "asset": "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.38,
+   "cf_shares": 257.1795,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3888,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -511.8983999999994,
- "last_updated": "2026-09-05T13:57:34.129942+00:00"
+ "last_updated": "2026-09-05T15:10:32.215847+00:00"
 }
