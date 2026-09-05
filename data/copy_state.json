@@ -22615,24 +22615,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "7139823307622139468186529008071001779936009701268734843499144100651832296672",
-   "condition_id": "0x323e42463f28e1857bf362779f197447e5844867be9732d98283d61b8de3a444",
-   "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
-   "outcome": "Dane Sweeny",
-   "slug": "atp-darderi-sweeny-2026-09-04",
-   "opened_at": "2026-09-05T17:34:37.547964+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.25,
-   "leader_cost": 2000.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.25,
-   "ask_depth": 24624.58,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
    "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
    "title": "US Open ATP: Jakub Mensik vs Learner Tien",
@@ -31856,6 +31838,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7139823307622139468186529008071001779936009701268734843499144100651832296672",
+   "condition_id": "0x323e42463f28e1857bf362779f197447e5844867be9732d98283d61b8de3a444",
+   "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
+   "outcome": "Dane Sweeny",
+   "slug": "atp-darderi-sweeny-2026-09-04",
+   "opened_at": "2026-09-05T17:34:37.547964+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 2000.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.25,
+   "ask_depth": 24624.58,
+   "status": "lost",
+   "closed_at": "2026-09-05T22:00:52.070234+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36305,6 +36309,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -753.1681999999994,
- "last_updated": "2026-09-05T21:10:35.915044+00:00"
+ "total_pnl": -853.1681999999994,
+ "last_updated": "2026-09-05T22:00:52.071802+00:00"
 }
