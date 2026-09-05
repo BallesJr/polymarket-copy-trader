@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9188.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788620668,
+  "jtwyslljy": 1788624933,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13508,6 +13508,20 @@
    "BUY",
    2000,
    1788620668
+  ],
+  [
+   "0x2e34925c6d7199a9ef28bdd3f4aece6c4ca3a9c1d8fc850b2e06664c3237a8b5",
+   "20034320828941406477428503987987941126058692556545069105232308570920834101449",
+   "BUY",
+   3117.5,
+   1788624817
+  ],
+  [
+   "0x33cc5d485676a297ec7e0985e1fb6a3b5530c8397fcbe582bb7bd30304ff31fc",
+   "20034320828941406477428503987987941126058692556545069105232308570920834101449",
+   "BUY",
+   170.15,
+   1788624933
   ]
  ],
  "leader_pos": {
@@ -22258,6 +22272,18 @@
    "cost": 2580.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1788620616
+  },
+  "jtwyslljy|20034320828941406477428503987987941126058692556545069105232308570920834101449": {
+   "leader": "jtwyslljy",
+   "asset": "20034320828941406477428503987987941126058692556545069105232308570920834101449",
+   "condition_id": "0x26c8c2c33395bcafa8aa5ea3ab6993fe6935cf03c2d08b169a20e4fd3ffb3a10",
+   "title": "US Open WTA: Anastasia Potapova vs Amanda Anisimova",
+   "outcome": "Amanda Anisimova",
+   "slug": "wta-potapov-anisimo-2026-09-04",
+   "shares": 3287.65,
+   "cost": 1655.7355,
+   "max_shares": 3287.65,
+   "last_trade_ts": 1788624933
   }
  },
  "positions": [
@@ -35735,8 +35761,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-09-05T16:20:32.815708+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T15:05:00+00:00",
+   "condition_id": "0x26c8c2c33395bcafa8aa5ea3ab6993fe6935cf03c2d08b169a20e4fd3ffb3a10",
+   "asset": "20034320828941406477428503987987941126058692556545069105232308570920834101449",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.58,
+   "cf_shares": 170.2542,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5874,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Anastasia Potapova vs Amanda Anisimova",
+   "outcome": "Amanda Anisimova"
   }
  ],
  "total_pnl": -511.8983999999994,
- "last_updated": "2026-09-05T15:10:32.215847+00:00"
+ "last_updated": "2026-09-05T16:20:33.147423+00:00"
 }
