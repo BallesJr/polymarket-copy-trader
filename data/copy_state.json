@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9188.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788624933,
+  "jtwyslljy": 1788625821,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13522,6 +13522,20 @@
    "BUY",
    170.15,
    1788624933
+  ],
+  [
+   "0x5b3698a826ea64a1d86e912aa24f49cc9e934338b91d68a8d1558305c11575c5",
+   "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "BUY",
+   8000,
+   1788625734
+  ],
+  [
+   "0x028d11933cc2ec1c00d9193bbba7fb4970b9a6c398dc3121a6e8d00ca6b54571",
+   "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "BUY",
+   11.82,
+   1788625821
   ]
  ],
  "leader_pos": {
@@ -22256,10 +22270,10 @@
    "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
    "outcome": "Qinwen Zheng",
    "slug": "wta-keys-zhen-2026-09-04",
-   "shares": 12000.0,
-   "cost": 4900.0,
-   "max_shares": 12000.0,
-   "last_trade_ts": 1788620668
+   "shares": 20011.82,
+   "cost": 6982.0094,
+   "max_shares": 20011.82,
+   "last_trade_ts": 1788625821
   },
   "jtwyslljy|79352657125879755949240189889188729104858973701110900315690002810567914032513": {
    "leader": "jtwyslljy",
@@ -22287,24 +22301,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "9987568651674746548636453044884072215721124109190621040079003484137261316965",
-   "condition_id": "0x07f258489261b9bc45ba6e66ad62ea7fbc823d54a6c60743185592933e6b4d8e",
-   "title": "Will Manchester City FC win on 2026-09-05?",
-   "outcome": "No",
-   "slug": "epl-mac-cov-2026-09-05",
-   "opened_at": "2026-09-05T13:30:42.579799+00:00",
-   "entry_price": 0.19,
-   "shares": 526.3158,
-   "stake": 100.0,
-   "leader_vwap": 0.18,
-   "leader_cost": 21600.0,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.19,
-   "ask_depth": 286573.61,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "93300889442243883755323654890887019289203968648181945363256868716498724674706",
@@ -31442,6 +31438,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "9987568651674746548636453044884072215721124109190621040079003484137261316965",
+   "condition_id": "0x07f258489261b9bc45ba6e66ad62ea7fbc823d54a6c60743185592933e6b4d8e",
+   "title": "Will Manchester City FC win on 2026-09-05?",
+   "outcome": "No",
+   "slug": "epl-mac-cov-2026-09-05",
+   "opened_at": "2026-09-05T13:30:42.579799+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.18,
+   "leader_cost": 21600.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.19,
+   "ask_depth": 286573.61,
+   "status": "lost",
+   "closed_at": "2026-09-05T16:36:33.960673+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35777,8 +35795,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Anastasia Potapova vs Amanda Anisimova",
    "outcome": "Amanda Anisimova"
+  },
+  {
+   "at": "2026-09-05T16:36:33.300389+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T15:05:00+00:00",
+   "condition_id": "0x59ffaef2c3e9379cd6fe7c87e4c20bd5d8409f44637cda44aa2108b70fb74d3e",
+   "asset": "7420734327614944172018304330780735262565641648962601673360890186375071285921",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -511.8983999999994,
- "last_updated": "2026-09-05T16:20:33.147423+00:00"
+ "total_pnl": -611.8983999999994,
+ "last_updated": "2026-09-05T16:36:33.962492+00:00"
 }
