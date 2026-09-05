@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8888.101830199996,
+ "bankroll": 8688.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788628375,
+  "jtwyslljy": 1788629169,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13564,6 +13564,27 @@
    "BUY",
    13700.88,
    1788628375
+  ],
+  [
+   "0x2e6f65218b4e410b9c51a58dd1c3e647daf149cd1ebd1b42d660c2e361c4d992",
+   "45883264727188099466216961402526282645314712920058568785220893351970274664637",
+   "BUY",
+   8000,
+   1788629062
+  ],
+  [
+   "0xe681ab5e9bed155a6341ea4cb85ade6f09c8263d1d56f1c2a2d436f234b790ee",
+   "7139823307622139468186529008071001779936009701268734843499144100651832296672",
+   "BUY",
+   8000,
+   1788629100
+  ],
+  [
+   "0x4db6cab4883550992624dee801182fb6efb68a60e760f89d1faa01619c676e8d",
+   "3698486596822694457847154154114414403819533068065951064162641657749694710881",
+   "BUY",
+   3000,
+   1788629169
   ]
  ],
  "leader_pos": {
@@ -22374,6 +22395,42 @@
    "cost": 3973.2551999999996,
    "max_shares": 13700.88,
    "last_trade_ts": 1788628375
+  },
+  "jtwyslljy|45883264727188099466216961402526282645314712920058568785220893351970274664637": {
+   "leader": "jtwyslljy",
+   "asset": "45883264727188099466216961402526282645314712920058568785220893351970274664637",
+   "condition_id": "0xe5b260f55a9dabf96de98c02590e7d0092b2b867a4ca922749914ff942fc4eaf",
+   "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-blockx-cobolli-2026-09-04",
+   "shares": 8000.0,
+   "cost": 2480.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1788629062
+  },
+  "jtwyslljy|7139823307622139468186529008071001779936009701268734843499144100651832296672": {
+   "leader": "jtwyslljy",
+   "asset": "7139823307622139468186529008071001779936009701268734843499144100651832296672",
+   "condition_id": "0x323e42463f28e1857bf362779f197447e5844867be9732d98283d61b8de3a444",
+   "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
+   "outcome": "Dane Sweeny",
+   "slug": "atp-darderi-sweeny-2026-09-04",
+   "shares": 8000.0,
+   "cost": 2000.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1788629100
+  },
+  "jtwyslljy|3698486596822694457847154154114414403819533068065951064162641657749694710881": {
+   "leader": "jtwyslljy",
+   "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
+   "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
+   "title": "US Open ATP: Jakub Mensik vs Learner Tien",
+   "outcome": "Learner Tien",
+   "slug": "atp-mensik-tien-2026-09-05",
+   "shares": 3000.0,
+   "cost": 1650.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1788629169
   }
  },
  "positions": [
@@ -22465,6 +22522,42 @@
    "copy_delay_min": 8.0,
    "best_ask": 0.48,
    "ask_depth": 9897.54,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7139823307622139468186529008071001779936009701268734843499144100651832296672",
+   "condition_id": "0x323e42463f28e1857bf362779f197447e5844867be9732d98283d61b8de3a444",
+   "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
+   "outcome": "Dane Sweeny",
+   "slug": "atp-darderi-sweeny-2026-09-04",
+   "opened_at": "2026-09-05T17:34:37.547964+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 2000.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.25,
+   "ask_depth": 24624.58,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
+   "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
+   "title": "US Open ATP: Jakub Mensik vs Learner Tien",
+   "outcome": "Learner Tien",
+   "slug": "atp-mensik-tien-2026-09-05",
+   "opened_at": "2026-09-05T17:34:37.934367+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 1650.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.55,
+   "ask_depth": 11870.46,
    "status": "open"
   }
  ],
@@ -35957,8 +36050,24 @@
    "leader": "jtwyslljy",
    "title": "Will FC Bayern M\u00fcnchen win on 2026-09-05?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-05T17:34:37.744236+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T17:10:00+00:00",
+   "condition_id": "0xe5b260f55a9dabf96de98c02590e7d0092b2b867a4ca922749914ff942fc4eaf",
+   "asset": "45883264727188099466216961402526282645314712920058568785220893351970274664637",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
+   "outcome": "Alexander Blockx"
   }
  ],
  "total_pnl": -611.8983999999994,
- "last_updated": "2026-09-05T17:20:29.606113+00:00"
+ "last_updated": "2026-09-05T17:34:38.383212+00:00"
 }
