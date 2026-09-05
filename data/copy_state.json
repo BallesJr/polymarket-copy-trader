@@ -22142,24 +22142,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "34091700361362376432592437557302714478248520464788742864917588710342903654",
-   "condition_id": "0x5864e7f04a5197487df807993905794e26967650ba77af41ea0ad9d0eae5d234",
-   "title": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
-   "outcome": "Jiri Lehecka",
-   "slug": "atp-lehecka-tsitsip-2026-09-04",
-   "opened_at": "2026-09-04T15:05:32.213913+00:00",
-   "entry_price": 0.62,
-   "shares": 161.2903,
-   "stake": 100.0,
-   "leader_vwap": 0.62,
-   "leader_cost": 1860.0,
-   "copy_delay_min": 8.3,
-   "best_ask": 0.62,
-   "ask_depth": 14940.55,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
    "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
    "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
@@ -31233,6 +31215,28 @@
    "exit_price": 1.0,
    "pnl": 33.3333,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34091700361362376432592437557302714478248520464788742864917588710342903654",
+   "condition_id": "0x5864e7f04a5197487df807993905794e26967650ba77af41ea0ad9d0eae5d234",
+   "title": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-tsitsip-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.213913+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 1860.0,
+   "copy_delay_min": 8.3,
+   "best_ask": 0.62,
+   "ask_depth": 14940.55,
+   "status": "lost",
+   "closed_at": "2026-09-05T00:35:26.239043+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35506,6 +35510,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -311.8983999999994,
- "last_updated": "2026-09-04T23:05:36.063199+00:00"
+ "total_pnl": -411.8983999999994,
+ "last_updated": "2026-09-05T00:35:26.240700+00:00"
 }
