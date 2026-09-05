@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9488.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788547804,
+  "jtwyslljy": 1788599680,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13459,6 +13459,13 @@
    "SELL",
    3000,
    1788547804
+  ],
+  [
+   "0x7909003ff9198fbc37956dd0986f8ca36c33a1c8c986dd7e8d6f1e0919caf02c",
+   "79652492385366212937803556330591975865363482939846949468336930152204134082825",
+   "BUY",
+   3740,
+   1788599680
   ]
  ],
  "leader_pos": {
@@ -22137,6 +22144,18 @@
    "cost": -239.99999999999977,
    "max_shares": 5000.0,
    "last_trade_ts": 1788547804
+  },
+  "jtwyslljy|79652492385366212937803556330591975865363482939846949468336930152204134082825": {
+   "leader": "jtwyslljy",
+   "asset": "79652492385366212937803556330591975865363482939846949468336930152204134082825",
+   "condition_id": "0xd4c6117274d29195e8bce8779c8b5fbfa1f0378e87d0be58fba4b2ac353e16eb",
+   "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-ig1-tes-2026-09-05",
+   "shares": 3740.0,
+   "cost": 783.0600001839999,
+   "max_shares": 3740.0,
+   "last_trade_ts": 1788599680
   }
  },
  "positions": [],
@@ -35511,8 +35530,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Taylor Townsend vs Diana Shnaider",
    "outcome": "Diana Shnaider"
+  },
+  {
+   "at": "2026-09-05T09:15:32.280502+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T06:00:00+00:00",
+   "condition_id": "0xd4c6117274d29195e8bce8779c8b5fbfa1f0378e87d0be58fba4b2ac353e16eb",
+   "asset": "79652492385366212937803556330591975865363482939846949468336930152204134082825",
+   "copy_delay_min": 0.9,
+   "cf_ask": 0.19,
+   "cf_shares": 433.4142,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2307,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+   "outcome": "Top Esports"
   }
  ],
  "total_pnl": -511.8983999999994,
- "last_updated": "2026-09-05T01:30:39.844707+00:00"
+ "last_updated": "2026-09-05T09:15:32.280992+00:00"
 }
