@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8588.101830199996,
  "last_seen": {
-  "jtwyslljy": 1788629631,
+  "jtwyslljy": 1788630411,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13641,6 +13641,20 @@
    "SELL",
    8230.44,
    1788629631
+  ],
+  [
+   "0x5425aba84a73b85b61feccf81934fdd472b4a9bae261b543773bb649b7add412",
+   "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "BUY",
+   90000,
+   1788630403
+  ],
+  [
+   "0x0321ca78d58ec11fc8a8bfd35f5db5e9a095a1ff6e5c33a10389eb259eb15704",
+   "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "BUY",
+   10000,
+   1788630411
   ]
  ],
  "leader_pos": {
@@ -22499,6 +22513,18 @@
    "cost": 1496.0,
    "max_shares": 8800.0,
    "last_trade_ts": 1788629191
+  },
+  "jtwyslljy|501265140809899391871121113260806085408444408360662959824305401680471566308": {
+   "leader": "jtwyslljy",
+   "asset": "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "condition_id": "0xec7f9a8c0f7d5ee3d881a6169d78a9a0a1b8b0f84e3006faf39152b705c0ab50",
+   "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-mouz-vit-2026-09-05",
+   "shares": 100000.0,
+   "cost": 34000.00000000001,
+   "max_shares": 100000.0,
+   "last_trade_ts": 1788630411
   }
  },
  "positions": [
@@ -36152,8 +36178,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
    "outcome": "Alexander Blockx"
+  },
+  {
+   "at": "2026-09-05T17:50:34.863127+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-05T16:45:00+00:00",
+   "condition_id": "0xec7f9a8c0f7d5ee3d881a6169d78a9a0a1b8b0f84e3006faf39152b705c0ab50",
+   "asset": "501265140809899391871121113260806085408444408360662959824305401680471566308",
+   "copy_delay_min": 3.7,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -611.8983999999994,
- "last_updated": "2026-09-05T17:40:34.393401+00:00"
+ "last_updated": "2026-09-05T17:50:35.481060+00:00"
 }
