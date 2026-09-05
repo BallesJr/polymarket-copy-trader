@@ -22139,26 +22139,7 @@
    "last_trade_ts": 1788547804
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
-   "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
-   "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
-   "outcome": "Daniel Merida Aguilar",
-   "slug": "atp-michels-aguilar-2026-09-04",
-   "opened_at": "2026-09-04T15:05:32.575217+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 1520.0,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.38,
-   "ask_depth": 29637.27,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -31237,6 +31218,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "30332017741190124475959449825272656875095450198341310224061624092738322464536",
+   "condition_id": "0x96d122b77a2da320561dc6ed56a8525692d2a54ebb38db127f88c14caba39b5e",
+   "title": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-michels-aguilar-2026-09-04",
+   "opened_at": "2026-09-04T15:05:32.575217+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 1520.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.38,
+   "ask_depth": 29637.27,
+   "status": "lost",
+   "closed_at": "2026-09-05T01:30:39.842733+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -35510,6 +35513,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -411.8983999999994,
- "last_updated": "2026-09-05T00:35:26.240700+00:00"
+ "total_pnl": -511.8983999999994,
+ "last_updated": "2026-09-05T01:30:39.844707+00:00"
 }
