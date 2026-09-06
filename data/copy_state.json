@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8928.650230199995,
  "last_seen": {
-  "jtwyslljy": 1788696169,
+  "jtwyslljy": 1788704973,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13802,6 +13802,13 @@
    "BUY",
    15000,
    1788696169
+  ],
+  [
+   "0xf3c1169a71a4245c7f25451d21c8bb4d75283399e76466889f05f3885c66b63f",
+   "98099066766112050634437558552291106624118069624624148683351431696581391126269",
+   "BUY",
+   6312.31,
+   1788704973
   ]
  ],
  "leader_pos": {
@@ -22720,6 +22727,18 @@
    "cost": 5850.0,
    "max_shares": 15000.0,
    "last_trade_ts": 1788696169
+  },
+  "jtwyslljy|98099066766112050634437558552291106624118069624624148683351431696581391126269": {
+   "leader": "jtwyslljy",
+   "asset": "98099066766112050634437558552291106624118069624624148683351431696581391126269",
+   "condition_id": "0xfc17cdaf9e9339f557d8018198d9046478d5caa773db4db67336286c7098a05e",
+   "title": "Will Parma Calcio 1913 vs. AC Monza end in a draw?",
+   "outcome": "No",
+   "slug": "sea-par-mon-2026-09-06",
+   "shares": 6312.31,
+   "cost": 2903.6626,
+   "max_shares": 6312.31,
+   "last_trade_ts": 1788704973
   }
  },
  "positions": [],
@@ -36548,8 +36567,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-09-06T14:40:32.051367+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T13:00:00+00:00",
+   "condition_id": "0xfc17cdaf9e9339f557d8018198d9046478d5caa773db4db67336286c7098a05e",
+   "asset": "98099066766112050634437558552291106624118069624624148683351431696581391126269",
+   "copy_delay_min": 11.0,
+   "cf_ask": 0.37,
+   "cf_shares": 246.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4056,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Parma Calcio 1913 vs. AC Monza end in a draw?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T12:05:25.411337+00:00"
+ "last_updated": "2026-09-06T14:40:32.051915+00:00"
 }
