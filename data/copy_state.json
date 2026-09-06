@@ -22579,24 +22579,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "40425443249552523824417030902992244195017314899827028573886733507033085028752",
-   "condition_id": "0x09d4cd8adade97f8fe4b3407b162e796206007eab249bf05eed6837911fe321c",
-   "title": "US Open WTA: Iva Jovic vs Alexandra Eala",
-   "outcome": "Alexandra Eala",
-   "slug": "wta-jovic-eala-2026-09-05",
-   "opened_at": "2026-09-05T17:15:32.842392+00:00",
-   "entry_price": 0.48,
-   "shares": 208.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 3022.92,
-   "copy_delay_min": 8.0,
-   "best_ask": 0.48,
-   "ask_depth": 9897.54,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
    "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
    "title": "US Open ATP: Jakub Mensik vs Learner Tien",
@@ -31864,6 +31846,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "40425443249552523824417030902992244195017314899827028573886733507033085028752",
+   "condition_id": "0x09d4cd8adade97f8fe4b3407b162e796206007eab249bf05eed6837911fe321c",
+   "title": "US Open WTA: Iva Jovic vs Alexandra Eala",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-jovic-eala-2026-09-05",
+   "opened_at": "2026-09-05T17:15:32.842392+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 3022.92,
+   "copy_delay_min": 8.0,
+   "best_ask": 0.48,
+   "ask_depth": 9897.54,
+   "status": "lost",
+   "closed_at": "2026-09-06T03:15:31.916425+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36313,6 +36317,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -953.1681999999994,
- "last_updated": "2026-09-06T02:35:24.595103+00:00"
+ "total_pnl": -1053.1681999999994,
+ "last_updated": "2026-09-06T03:15:31.918102+00:00"
 }
