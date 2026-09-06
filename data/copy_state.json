@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8628.650230199995,
+ "bankroll": 8885.060530199995,
  "last_seen": {
   "jtwyslljy": 1788715311,
   "0x53757615de": 1787221213
@@ -22952,24 +22952,6 @@
    "best_ask": 0.72,
    "ask_depth": 9110.22,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "38532201005954852521187657762842204474211960361037918117780813942078918409932",
-   "condition_id": "0x7bfe038051234eae01398aff76a1706d1aa97cbe2dfa83781b4ed08cfb54f1a1",
-   "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
-   "outcome": "Frances Tiafoe",
-   "slug": "atp-medvede-tiafoe-2026-09-06",
-   "opened_at": "2026-09-06T17:25:24.126815+00:00",
-   "entry_price": 0.39,
-   "shares": 256.4103,
-   "stake": 100.0,
-   "leader_vwap": 0.39,
-   "leader_cost": 1755.0,
-   "copy_delay_min": 5.1,
-   "best_ask": 0.39,
-   "ask_depth": 73306.15,
-   "status": "open"
   }
  ],
  "closed": [
@@ -32270,6 +32252,28 @@
    "exit_price": 1.0,
    "pnl": 81.8182,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "38532201005954852521187657762842204474211960361037918117780813942078918409932",
+   "condition_id": "0x7bfe038051234eae01398aff76a1706d1aa97cbe2dfa83781b4ed08cfb54f1a1",
+   "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-medvede-tiafoe-2026-09-06",
+   "opened_at": "2026-09-06T17:25:24.126815+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1755.0,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.39,
+   "ask_depth": 73306.15,
+   "status": "won",
+   "closed_at": "2026-09-06T23:20:33.014191+00:00",
+   "exit_price": 1.0,
+   "pnl": 156.4103,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36911,6 +36915,6 @@
    "outcome": "Marta Kostyuk"
   }
  ],
- "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T17:25:24.638748+00:00"
+ "total_pnl": -914.9396999999994,
+ "last_updated": "2026-09-06T23:20:33.016056+00:00"
 }
