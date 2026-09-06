@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8728.650230199995,
+ "bankroll": 8628.650230199995,
  "last_seen": {
-  "jtwyslljy": 1788714853,
+  "jtwyslljy": 1788715311,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13879,6 +13879,27 @@
    "BUY",
    5000,
    1788714853
+  ],
+  [
+   "0x7f41523934df15bf2249d47f1c5f8385142e0b7db11c8dcd5dd531b78fb88d73",
+   "38532201005954852521187657762842204474211960361037918117780813942078918409932",
+   "BUY",
+   4500,
+   1788715215
+  ],
+  [
+   "0x020037376f8d39a62029d8ec3c56f7bb822f81138ca3be459c6f54c00d60da5d",
+   "61803645666618109701569638925673562688920314100406581591370581091636564918420",
+   "BUY",
+   1228.21,
+   1788715290
+  ],
+  [
+   "0x1647b696de7f25803930b3270f4cda121c81bfd34b90bfbb2fbc55d5c588ca94",
+   "61803645666618109701569638925673562688920314100406581591370581091636564918420",
+   "BUY",
+   3000,
+   1788715311
   ]
  ],
  "leader_pos": {
@@ -22869,6 +22890,30 @@
    "cost": 2450.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1788714853
+  },
+  "jtwyslljy|38532201005954852521187657762842204474211960361037918117780813942078918409932": {
+   "leader": "jtwyslljy",
+   "asset": "38532201005954852521187657762842204474211960361037918117780813942078918409932",
+   "condition_id": "0x7bfe038051234eae01398aff76a1706d1aa97cbe2dfa83781b4ed08cfb54f1a1",
+   "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-medvede-tiafoe-2026-09-06",
+   "shares": 4500.0,
+   "cost": 1755.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1788715215
+  },
+  "jtwyslljy|61803645666618109701569638925673562688920314100406581591370581091636564918420": {
+   "leader": "jtwyslljy",
+   "asset": "61803645666618109701569638925673562688920314100406581591370581091636564918420",
+   "condition_id": "0x9c48744ce6e8914d36e21f1e2f87cf98cb2ee4a5d20c7c00ab2db38dfb37f5b4",
+   "title": "US Open WTA: Marta Kostyuk vs Linda Noskova",
+   "outcome": "Marta Kostyuk",
+   "slug": "wta-kostyuk-noskova-2026-09-06",
+   "shares": 4228.21,
+   "cost": 1848.1303,
+   "max_shares": 4228.21,
+   "last_trade_ts": 1788715311
   }
  },
  "positions": [
@@ -22906,6 +22951,24 @@
    "copy_delay_min": 6.4,
    "best_ask": 0.72,
    "ask_depth": 9110.22,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "38532201005954852521187657762842204474211960361037918117780813942078918409932",
+   "condition_id": "0x7bfe038051234eae01398aff76a1706d1aa97cbe2dfa83781b4ed08cfb54f1a1",
+   "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-medvede-tiafoe-2026-09-06",
+   "opened_at": "2026-09-06T17:25:24.126815+00:00",
+   "entry_price": 0.39,
+   "shares": 256.4103,
+   "stake": 100.0,
+   "leader_vwap": 0.39,
+   "leader_cost": 1755.0,
+   "copy_delay_min": 5.1,
+   "best_ask": 0.39,
+   "ask_depth": 73306.15,
    "status": "open"
   }
  ],
@@ -36830,8 +36893,24 @@
    "leader": "jtwyslljy",
    "title": "Will Arsenal FC win on 2026-09-06?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-06T17:25:24.260567+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T16:45:00+00:00",
+   "condition_id": "0x9c48744ce6e8914d36e21f1e2f87cf98cb2ee4a5d20c7c00ab2db38dfb37f5b4",
+   "asset": "61803645666618109701569638925673562688920314100406581591370581091636564918420",
+   "copy_delay_min": 3.5,
+   "cf_ask": 0.45,
+   "cf_shares": 210.3951,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4753,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Marta Kostyuk vs Linda Noskova",
+   "outcome": "Marta Kostyuk"
   }
  ],
  "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T17:20:33.372227+00:00"
+ "last_updated": "2026-09-06T17:25:24.638748+00:00"
 }
