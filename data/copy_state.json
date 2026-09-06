@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8746.832030199996,
+ "bankroll": 8928.650230199995,
  "last_seen": {
   "jtwyslljy": 1788672771,
   "0x53757615de": 1787221213
@@ -22665,26 +22665,7 @@
    "last_trade_ts": 1788672771
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
-   "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
-   "title": "US Open ATP: Jakub Mensik vs Learner Tien",
-   "outcome": "Learner Tien",
-   "slug": "atp-mensik-tien-2026-09-05",
-   "opened_at": "2026-09-05T17:34:37.934367+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 1650.0,
-   "copy_delay_min": 8.5,
-   "best_ask": 0.55,
-   "ask_depth": 11870.46,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -31961,6 +31942,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3698486596822694457847154154114414403819533068065951064162641657749694710881",
+   "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
+   "title": "US Open ATP: Jakub Mensik vs Learner Tien",
+   "outcome": "Learner Tien",
+   "slug": "atp-mensik-tien-2026-09-05",
+   "opened_at": "2026-09-05T17:34:37.934367+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 1650.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.55,
+   "ask_depth": 11870.46,
+   "status": "won",
+   "closed_at": "2026-09-06T06:15:31.656213+00:00",
+   "exit_price": 1.0,
+   "pnl": 81.8182,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36458,6 +36461,6 @@
    "outcome": "Jakub Mensik"
   }
  ],
- "total_pnl": -1153.1681999999994,
- "last_updated": "2026-09-06T05:50:31.202326+00:00"
+ "total_pnl": -1071.3499999999995,
+ "last_updated": "2026-09-06T06:15:31.657484+00:00"
 }
