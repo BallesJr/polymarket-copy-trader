@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8928.650230199995,
  "last_seen": {
-  "jtwyslljy": 1788678850,
+  "jtwyslljy": 1788693003,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13788,6 +13788,13 @@
    "BUY",
    1341.19,
    1788678850
+  ],
+  [
+   "0x88829738da0f4be4e9b2f02262b24dea0e4ff6cf60653e310ddfcd144a7d52c0",
+   "107181447934942920756386342776112668097300616165962587674963484879839130399574",
+   "BUY",
+   44701.120768,
+   1788693003
   ]
  ],
  "leader_pos": {
@@ -22682,6 +22689,18 @@
    "cost": 321.8856,
    "max_shares": 1341.19,
    "last_trade_ts": 1788678850
+  },
+  "jtwyslljy|107181447934942920756386342776112668097300616165962587674963484879839130399574": {
+   "leader": "jtwyslljy",
+   "asset": "107181447934942920756386342776112668097300616165962587674963484879839130399574",
+   "condition_id": "0x8891b2021bbd8c42b0105d38f52d20e4d0512c46d564d501a5c4cfdcab8680c0",
+   "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "Dplus KIA",
+   "slug": "lol-t1-dk-2026-09-06",
+   "shares": 44701.120768,
+   "cost": 11278.079998656196,
+   "max_shares": 44701.120768,
+   "last_trade_ts": 1788693003
   }
  },
  "positions": [],
@@ -36478,8 +36497,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Jakub Mensik vs Learner Tien",
    "outcome": "Jakub Mensik"
+  },
+  {
+   "at": "2026-09-06T11:15:31.574837+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T08:00:00+00:00",
+   "condition_id": "0x8891b2021bbd8c42b0105d38f52d20e4d0512c46d564d501a5c4cfdcab8680c0",
+   "asset": "107181447934942920756386342776112668097300616165962587674963484879839130399574",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+   "outcome": "Dplus KIA"
   }
  ],
  "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T07:20:33.211238+00:00"
+ "last_updated": "2026-09-06T11:15:31.575324+00:00"
 }
