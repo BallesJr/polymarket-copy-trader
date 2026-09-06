@@ -22683,24 +22683,6 @@
    "best_ask": 0.55,
    "ask_depth": 11870.46,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "24535003663914300625535519496848527871687251686733421317630508394940672801296",
-   "condition_id": "0xe888c2b0678be8df97f06e3e8f9e78f2beaf2675be0e801aba32625424b43ba6",
-   "title": "US Open ATP: Alexander Zverev vs Alejandro Tabilo",
-   "outcome": "Alejandro Tabilo",
-   "slug": "atp-zverev-tabilo-2026-09-05",
-   "opened_at": "2026-09-05T17:40:33.973051+00:00",
-   "entry_price": 0.1714,
-   "shares": 583.5256,
-   "stake": 100.0,
-   "leader_vwap": 0.17,
-   "leader_cost": 1496.0,
-   "copy_delay_min": 14.0,
-   "best_ask": 0.17,
-   "ask_depth": 503.46,
-   "status": "open"
   }
  ],
  "closed": [
@@ -31957,6 +31939,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24535003663914300625535519496848527871687251686733421317630508394940672801296",
+   "condition_id": "0xe888c2b0678be8df97f06e3e8f9e78f2beaf2675be0e801aba32625424b43ba6",
+   "title": "US Open ATP: Alexander Zverev vs Alejandro Tabilo",
+   "outcome": "Alejandro Tabilo",
+   "slug": "atp-zverev-tabilo-2026-09-05",
+   "opened_at": "2026-09-05T17:40:33.973051+00:00",
+   "entry_price": 0.1714,
+   "shares": 583.5256,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 1496.0,
+   "copy_delay_min": 14.0,
+   "best_ask": 0.17,
+   "ask_depth": 503.46,
+   "status": "lost",
+   "closed_at": "2026-09-06T05:50:31.200840+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36454,6 +36458,6 @@
    "outcome": "Jakub Mensik"
   }
  ],
- "total_pnl": -1053.1681999999994,
- "last_updated": "2026-09-06T05:40:30.359789+00:00"
+ "total_pnl": -1153.1681999999994,
+ "last_updated": "2026-09-06T05:50:31.202326+00:00"
 }
