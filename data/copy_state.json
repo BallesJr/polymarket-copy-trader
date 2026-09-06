@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8928.650230199995,
  "last_seen": {
-  "jtwyslljy": 1788706059,
+  "jtwyslljy": 1788706606,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13823,6 +13823,13 @@
    "BUY",
    3843,
    1788706059
+  ],
+  [
+   "0x484e14ff7934417ef0c8dbb34b2bffca694252f0cdcc1eee413b1c7547f6a938",
+   "50296159515338158112590617486100587960694572946767467820497253273495220387131",
+   "BUY",
+   10000,
+   1788706606
   ]
  ],
  "leader_pos": {
@@ -22765,6 +22772,18 @@
    "cost": 1048.097900087014,
    "max_shares": 2947.42,
    "last_trade_ts": 1788705805
+  },
+  "jtwyslljy|50296159515338158112590617486100587960694572946767467820497253273495220387131": {
+   "leader": "jtwyslljy",
+   "asset": "50296159515338158112590617486100587960694572946767467820497253273495220387131",
+   "condition_id": "0xe90998971549abaaf98d3f33afb1288f8a4bbb27f9498b7da8d5be79b0cc28f7",
+   "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+   "outcome": "MOUZ",
+   "slug": "cs2-ts7-mouz-2026-09-06",
+   "shares": 10000.0,
+   "cost": 2100.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788706606
   }
  },
  "positions": [],
@@ -36641,8 +36660,24 @@
    "leader": "jtwyslljy",
    "title": "Will Parma Calcio 1913 vs. AC Monza end in a draw?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-06T15:00:54.387214+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T14:00:00+00:00",
+   "condition_id": "0xe90998971549abaaf98d3f33afb1288f8a4bbb27f9498b7da8d5be79b0cc28f7",
+   "asset": "50296159515338158112590617486100587960694572946767467820497253273495220387131",
+   "copy_delay_min": 4.1,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T14:50:32.355584+00:00"
+ "last_updated": "2026-09-06T15:00:54.387735+00:00"
 }
