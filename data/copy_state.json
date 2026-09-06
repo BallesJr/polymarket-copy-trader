@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8746.832030199996,
  "last_seen": {
-  "jtwyslljy": 1788665461,
+  "jtwyslljy": 1788665983,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13711,6 +13711,20 @@
    "BUY",
    3000,
    1788665461
+  ],
+  [
+   "0x2a0463739cdb4ce57515142d2dae9a34dfda27a810cd2fef3d541f0675373b03",
+   "32526894963644962284413359913743880137541345731490497246300662697190758413495",
+   "BUY",
+   3000,
+   1788665922
+  ],
+  [
+   "0x9ce8b8d8baca2d19234f28d4e0f8f9b144cdc8bf3f52cf0ce583820dacfb3212",
+   "32526894963644962284413359913743880137541345731490497246300662697190758413495",
+   "BUY",
+   3000,
+   1788665983
   ]
  ],
  "leader_pos": {
@@ -22589,10 +22603,10 @@
    "title": "US Open ATP: Jakub Mensik vs Learner Tien",
    "outcome": "Jakub Mensik",
    "slug": "atp-mensik-tien-2026-09-05",
-   "shares": 3000.0,
-   "cost": 1530.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1788665461
+   "shares": 9000.0,
+   "cost": 4710.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1788665983
   }
  },
  "positions": [
@@ -36350,8 +36364,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Jakub Mensik vs Learner Tien",
    "outcome": "Jakub Mensik"
+  },
+  {
+   "at": "2026-09-06T03:45:30.741198+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T02:15:00+00:00",
+   "condition_id": "0xb3bac12e12256a12da004e7bc8cc2127ed209d3781028293d3ad54ec2e0ef907",
+   "asset": "32526894963644962284413359913743880137541345731490497246300662697190758413495",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Jakub Mensik vs Learner Tien",
+   "outcome": "Jakub Mensik"
   }
  ],
  "total_pnl": -1053.1681999999994,
- "last_updated": "2026-09-06T03:35:25.658488+00:00"
+ "last_updated": "2026-09-06T03:45:31.067795+00:00"
 }
