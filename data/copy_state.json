@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8928.650230199995,
  "last_seen": {
-  "jtwyslljy": 1788693003,
+  "jtwyslljy": 1788696169,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13795,6 +13795,13 @@
    "BUY",
    44701.120768,
    1788693003
+  ],
+  [
+   "0xc7eb978b2d77aa0eb5c888f8c09d4652a892ea2446962179c302c0efad9d3aa7",
+   "39637948079812433993991074774778554016042559544016671570976968184623100626020",
+   "BUY",
+   15000,
+   1788696169
   ]
  ],
  "leader_pos": {
@@ -22701,6 +22708,18 @@
    "cost": 11278.079998656196,
    "max_shares": 44701.120768,
    "last_trade_ts": 1788693003
+  },
+  "jtwyslljy|39637948079812433993991074774778554016042559544016671570976968184623100626020": {
+   "leader": "jtwyslljy",
+   "asset": "39637948079812433993991074774778554016042559544016671570976968184623100626020",
+   "condition_id": "0xe17d15ded77da56cf938cea59b06f45763e293797bf1850e09819c3a10ee7824",
+   "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+   "outcome": "LGD Gaming",
+   "slug": "lol-nip-lgd-2026-09-06",
+   "shares": 15000.0,
+   "cost": 5850.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1788696169
   }
  },
  "positions": [],
@@ -36513,8 +36532,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
    "outcome": "Dplus KIA"
+  },
+  {
+   "at": "2026-09-06T12:05:25.410843+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-06T10:00:00+00:00",
+   "condition_id": "0xe17d15ded77da56cf938cea59b06f45763e293797bf1850e09819c3a10ee7824",
+   "asset": "39637948079812433993991074774778554016042559544016671570976968184623100626020",
+   "copy_delay_min": 2.6,
+   "cf_ask": 0.35,
+   "cf_shares": 281.4917,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3553,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1071.3499999999995,
- "last_updated": "2026-09-06T11:15:31.575324+00:00"
+ "last_updated": "2026-09-06T12:05:25.411337+00:00"
 }
