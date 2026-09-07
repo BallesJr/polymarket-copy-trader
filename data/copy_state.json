@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9228.031030199994,
  "last_seen": {
-  "jtwyslljy": 1788799578,
+  "jtwyslljy": 1788805489,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13935,6 +13935,27 @@
    "BUY",
    6000,
    1788799578
+  ],
+  [
+   "0xc197519b5a15d0bef858d7c1c17a4efc5b61df3de796f5a6fa25a62bd8ae4868",
+   "20488508459243077453342742435120441784986906546179775131045208235418374945659",
+   "BUY",
+   200,
+   1788805446
+  ],
+  [
+   "0xce8f2320665b07b7ed8db7c9f1837e4d3dbf2d5f81ca56cfce0a2f374e87be81",
+   "20488508459243077453342742435120441784986906546179775131045208235418374945659",
+   "BUY",
+   5936.93,
+   1788805455
+  ],
+  [
+   "0x59bbc9b4ab920dd876c518a64ad16914b3a531755acdfcaa13dbab9b02ecd638",
+   "20488508459243077453342742435120441784986906546179775131045208235418374945659",
+   "BUY",
+   29,
+   1788805489
   ]
  ],
  "leader_pos": {
@@ -22997,6 +23018,18 @@
    "cost": 2400.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1788799578
+  },
+  "jtwyslljy|20488508459243077453342742435120441784986906546179775131045208235418374945659": {
+   "leader": "jtwyslljy",
+   "asset": "20488508459243077453342742435120441784986906546179775131045208235418374945659",
+   "condition_id": "0xb7299024535d27679bef5f29ce57e7576d20655ebada1e2c40539b60102f4a20",
+   "title": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-cerundo-blockx-2026-09-06",
+   "shares": 6165.93,
+   "cost": 3016.4357000000005,
+   "max_shares": 6165.93,
+   "last_trade_ts": 1788805489
   }
  },
  "positions": [],
@@ -37067,8 +37100,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
    "outcome": "Iga Swiatek"
+  },
+  {
+   "at": "2026-09-07T18:30:44.460411+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-07T18:10:00+00:00",
+   "condition_id": "0xb7299024535d27679bef5f29ce57e7576d20655ebada1e2c40539b60102f4a20",
+   "asset": "20488508459243077453342742435120441784986906546179775131045208235418374945659",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+   "outcome": "Alexander Blockx"
   }
  ],
  "total_pnl": -771.9691999999994,
- "last_updated": "2026-09-07T16:55:27.184464+00:00"
+ "last_updated": "2026-09-07T18:30:44.460899+00:00"
 }
