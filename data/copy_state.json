@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9228.031030199994,
  "last_seen": {
-  "jtwyslljy": 1788793801,
+  "jtwyslljy": 1788794439,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13914,6 +13914,13 @@
    "BUY",
    10000,
    1788793801
+  ],
+  [
+   "0x789bc78ae5baa617b02ef9b4873b1687f16bff7ff2d1cbc1f650e27d142496e1",
+   "83846892578881706804367018506450375163039090342125318473414232354970989108662",
+   "BUY",
+   3000,
+   1788794439
   ]
  ],
  "leader_pos": {
@@ -22948,10 +22955,10 @@
    "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
    "outcome": "Anastasia Potapova",
    "slug": "wta-andreev-potapov-2026-09-06",
-   "shares": 10000.0,
-   "cost": 1400.0000000000002,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1788793801
+   "shares": 13000.0,
+   "cost": 2090.0,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1788794439
   }
  },
  "positions": [],
@@ -36990,8 +36997,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
    "outcome": "Anastasia Potapova"
+  },
+  {
+   "at": "2026-09-07T15:25:25.300837+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-07T15:10:00+00:00",
+   "condition_id": "0x1d594e84ad9e8802dfa62899a643a7f6c52c2df1d534e8bfe72e1ecefb72a29b",
+   "asset": "83846892578881706804367018506450375163039090342125318473414232354970989108662",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.17,
+   "cf_shares": 583.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1714,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+   "outcome": "Anastasia Potapova"
   }
  ],
  "total_pnl": -771.9691999999994,
- "last_updated": "2026-09-07T15:15:31.535845+00:00"
+ "last_updated": "2026-09-07T15:25:25.301286+00:00"
 }
