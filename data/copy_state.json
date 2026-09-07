@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9228.031030199994,
  "last_seen": {
-  "jtwyslljy": 1788715311,
+  "jtwyslljy": 1788778854,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13900,6 +13900,13 @@
    "BUY",
    3000,
    1788715311
+  ],
+  [
+   "0x116d04ce8554a71d99a80a7449dd3c20ae63f30699a7da221a431153af3ae1ac",
+   "9522815217473786370699959221874798439704522370706289793016709775583993926024",
+   "BUY",
+   19982.66,
+   1788778854
   ]
  ],
  "leader_pos": {
@@ -22914,6 +22921,18 @@
    "cost": 1848.1303,
    "max_shares": 4228.21,
    "last_trade_ts": 1788715311
+  },
+  "jtwyslljy|9522815217473786370699959221874798439704522370706289793016709775583993926024": {
+   "leader": "jtwyslljy",
+   "asset": "9522815217473786370699959221874798439704522370706289793016709775583993926024",
+   "condition_id": "0x1e3a35a85cbb7d95164f77599b23b6022fe7f865c1493fbecb4c27a0c4b1a939",
+   "title": "LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playoffs",
+   "outcome": "Anyones Legend",
+   "slug": "lol-al-blg-2026-09-07",
+   "shares": 19982.66,
+   "cost": 999.133,
+   "max_shares": 19982.66,
+   "last_trade_ts": 1788778854
   }
  },
  "positions": [],
@@ -36920,8 +36939,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Marta Kostyuk vs Linda Noskova",
    "outcome": "Marta Kostyuk"
+  },
+  {
+   "at": "2026-09-07T11:10:33.853965+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-07T09:00:00+00:00",
+   "condition_id": "0x1e3a35a85cbb7d95164f77599b23b6022fe7f865c1493fbecb4c27a0c4b1a939",
+   "asset": "9522815217473786370699959221874798439704522370706289793016709775583993926024",
+   "copy_delay_min": 9.6,
+   "cf_ask": 0.06,
+   "cf_shares": 1666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.06,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playoffs",
+   "outcome": "Anyones Legend"
   }
  ],
  "total_pnl": -771.9691999999994,
- "last_updated": "2026-09-07T03:35:27.179085+00:00"
+ "last_updated": "2026-09-07T11:10:33.854511+00:00"
 }
