@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9228.031030199994,
  "last_seen": {
-  "jtwyslljy": 1788778854,
+  "jtwyslljy": 1788793801,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13907,6 +13907,13 @@
    "BUY",
    19982.66,
    1788778854
+  ],
+  [
+   "0x6aac74aa4db6d64fa1c3a11653ed39add72233ff5da2399afa1a65758c725fb6",
+   "83846892578881706804367018506450375163039090342125318473414232354970989108662",
+   "BUY",
+   10000,
+   1788793801
   ]
  ],
  "leader_pos": {
@@ -22933,6 +22940,18 @@
    "cost": 999.133,
    "max_shares": 19982.66,
    "last_trade_ts": 1788778854
+  },
+  "jtwyslljy|83846892578881706804367018506450375163039090342125318473414232354970989108662": {
+   "leader": "jtwyslljy",
+   "asset": "83846892578881706804367018506450375163039090342125318473414232354970989108662",
+   "condition_id": "0x1d594e84ad9e8802dfa62899a643a7f6c52c2df1d534e8bfe72e1ecefb72a29b",
+   "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+   "outcome": "Anastasia Potapova",
+   "slug": "wta-andreev-potapov-2026-09-06",
+   "shares": 10000.0,
+   "cost": 1400.0000000000002,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788793801
   }
  },
  "positions": [],
@@ -36955,8 +36974,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Anyone's Legend vs Bilibili Gaming (BO5) - LPL Playoffs",
    "outcome": "Anyones Legend"
+  },
+  {
+   "at": "2026-09-07T15:15:31.535319+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-07T15:10:00+00:00",
+   "condition_id": "0x1d594e84ad9e8802dfa62899a643a7f6c52c2df1d534e8bfe72e1ecefb72a29b",
+   "asset": "83846892578881706804367018506450375163039090342125318473414232354970989108662",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.17,
+   "cf_shares": 588.2353,
+   "cf_cost": 100.0,
+   "cf_entry": 0.17,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+   "outcome": "Anastasia Potapova"
   }
  ],
  "total_pnl": -771.9691999999994,
- "last_updated": "2026-09-07T11:10:33.854511+00:00"
+ "last_updated": "2026-09-07T15:15:31.535845+00:00"
 }
