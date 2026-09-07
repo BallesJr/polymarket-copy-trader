@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9228.031030199994,
  "last_seen": {
-  "jtwyslljy": 1788795691,
+  "jtwyslljy": 1788799578,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -13928,6 +13928,13 @@
    "BUY",
    2177.4,
    1788795691
+  ],
+  [
+   "0x217eb87b7ad0b4a1b82b6280584c457dbc14009d8706cea5ae633b8a0a5c8682",
+   "30978243117475953759932607074058007963414504148093563401481670906879988686138",
+   "BUY",
+   6000,
+   1788799578
   ]
  ],
  "leader_pos": {
@@ -22978,6 +22985,18 @@
    "cost": 370.158,
    "max_shares": 2177.4,
    "last_trade_ts": 1788795691
+  },
+  "jtwyslljy|30978243117475953759932607074058007963414504148093563401481670906879988686138": {
+   "leader": "jtwyslljy",
+   "asset": "30978243117475953759932607074058007963414504148093563401481670906879988686138",
+   "condition_id": "0x08d996fe0f519df90eee32192ed03d8fb45276ad81cec531179a17a17ba21cd0",
+   "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-swiatek-zhen-2026-09-06",
+   "shares": 6000.0,
+   "cost": 2400.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1788799578
   }
  },
  "positions": [],
@@ -37032,8 +37051,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
    "outcome": "Anastasia Potapova"
+  },
+  {
+   "at": "2026-09-07T16:55:27.183977+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-07T15:40:00+00:00",
+   "condition_id": "0x08d996fe0f519df90eee32192ed03d8fb45276ad81cec531179a17a17ba21cd0",
+   "asset": "30978243117475953759932607074058007963414504148093563401481670906879988686138",
+   "copy_delay_min": 9.1,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+   "outcome": "Iga Swiatek"
   }
  ],
  "total_pnl": -771.9691999999994,
- "last_updated": "2026-09-07T15:45:32.017599+00:00"
+ "last_updated": "2026-09-07T16:55:27.184464+00:00"
 }
