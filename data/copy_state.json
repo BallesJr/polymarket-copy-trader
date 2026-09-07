@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8885.060530199995,
+ "bankroll": 9023.949430199995,
  "last_seen": {
   "jtwyslljy": 1788715311,
   "0x53757615de": 1787221213
@@ -22934,24 +22934,6 @@
    "best_ask": 0.49,
    "ask_depth": 303.49,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "9817534390398731582350097636282980209411537160280360910735083230643025089926",
-   "condition_id": "0x64439500b53cd74838b0cd455194ddbe1a2b3e67e8d4d71f4b6f45e8868efb35",
-   "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
-   "outcome": "Jessica Pegula",
-   "slug": "wta-pegula-cirstea-2026-09-06",
-   "opened_at": "2026-09-06T17:20:32.936325+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 2160.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.72,
-   "ask_depth": 9110.22,
-   "status": "open"
   }
  ],
  "closed": [
@@ -32274,6 +32256,28 @@
    "exit_price": 1.0,
    "pnl": 156.4103,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "9817534390398731582350097636282980209411537160280360910735083230643025089926",
+   "condition_id": "0x64439500b53cd74838b0cd455194ddbe1a2b3e67e8d4d71f4b6f45e8868efb35",
+   "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-pegula-cirstea-2026-09-06",
+   "opened_at": "2026-09-06T17:20:32.936325+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 2160.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.72,
+   "ask_depth": 9110.22,
+   "status": "won",
+   "closed_at": "2026-09-07T01:10:31.581896+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -36915,6 +36919,6 @@
    "outcome": "Marta Kostyuk"
   }
  ],
- "total_pnl": -914.9396999999994,
- "last_updated": "2026-09-06T23:20:33.016056+00:00"
+ "total_pnl": -876.0507999999994,
+ "last_updated": "2026-09-07T01:10:31.583518+00:00"
 }
