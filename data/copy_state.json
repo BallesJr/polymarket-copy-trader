@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788889171,
+  "jtwyslljy": 1788889416,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14033,6 +14033,20 @@
    "BUY",
    21000,
    1788889171
+  ],
+  [
+   "0x299bf57d47e94b22e87bbd5a6c5c96726cb585436b7278d16b0c90a7973b7d68",
+   "39419466404694049468609065816697246331233155848316784126157504984536381338424",
+   "BUY",
+   10730.05,
+   1788889401
+  ],
+  [
+   "0xd8ec1a3bd956c4697986e15be38e72ce3a89a27d00935c1571e6fd72dbec14f9",
+   "39419466404694049468609065816697246331233155848316784126157504984536381338424",
+   "BUY",
+   6500,
+   1788889416
   ]
  ],
  "leader_pos": {
@@ -23139,10 +23153,10 @@
    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
    "outcome": "Linda Noskova",
    "slug": "wta-sabalen-noskova-2026-09-08",
-   "shares": 21000.0,
-   "cost": 9030.0,
-   "max_shares": 21000.0,
-   "last_trade_ts": 1788889171
+   "shares": 38230.05,
+   "cost": 13165.212,
+   "max_shares": 38230.05,
+   "last_trade_ts": 1788889416
   },
   "jtwyslljy|37524553496849649434751673490630899980296737276036060588505443633986156524199": {
    "leader": "jtwyslljy",
@@ -37355,8 +37369,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
    "outcome": "Linda Noskova"
+  },
+  {
+   "at": "2026-09-08T17:45:35.857632+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-08T15:35:00+00:00",
+   "condition_id": "0x367384e11a49a36a65d0d831d523102a30f18f7c7e8f9b79e27639c9e300cc00",
+   "asset": "39419466404694049468609065816697246331233155848316784126157504984536381338424",
+   "copy_delay_min": 2.0,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
+   "outcome": "Linda Noskova"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-08T17:40:32.964294+00:00"
+ "last_updated": "2026-09-08T17:45:35.858162+00:00"
 }
