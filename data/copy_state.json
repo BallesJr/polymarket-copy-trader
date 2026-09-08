@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788885906,
+  "jtwyslljy": 1788889171,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14026,6 +14026,13 @@
    "SELL",
    2813,
    1788885906
+  ],
+  [
+   "0x917f248e8b227b9ba5be79eb3b87c7b7772075de4268df274913e895cc4edd0d",
+   "39419466404694049468609065816697246331233155848316784126157504984536381338424",
+   "BUY",
+   21000,
+   1788889171
   ]
  ],
  "leader_pos": {
@@ -23132,10 +23139,10 @@
    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
    "outcome": "Linda Noskova",
    "slug": "wta-sabalen-noskova-2026-09-08",
-   "shares": 0.0,
-   "cost": 800.0000000000002,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1788882817
+   "shares": 21000.0,
+   "cost": 9030.0,
+   "max_shares": 21000.0,
+   "last_trade_ts": 1788889171
   },
   "jtwyslljy|37524553496849649434751673490630899980296737276036060588505443633986156524199": {
    "leader": "jtwyslljy",
@@ -37332,8 +37339,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
    "outcome": "Aryna Sabalenka"
+  },
+  {
+   "at": "2026-09-08T17:40:32.963764+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-08T15:35:00+00:00",
+   "condition_id": "0x367384e11a49a36a65d0d831d523102a30f18f7c7e8f9b79e27639c9e300cc00",
+   "asset": "39419466404694049468609065816697246331233155848316784126157504984536381338424",
+   "copy_delay_min": 1.0,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
+   "outcome": "Linda Noskova"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-08T16:50:34.532880+00:00"
+ "last_updated": "2026-09-08T17:40:32.964294+00:00"
 }
