@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788965533,
+  "jtwyslljy": 1788968656,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14110,6 +14110,13 @@
    "BUY",
    3950.8,
    1788965533
+  ],
+  [
+   "0xc2eb1fc34714f32afe4c895d4555db91017452c97e0ca51fb04585dfbba9b2ac",
+   "44234484543789139551075610033423993449166543025134196237732205244788821434916",
+   "BUY",
+   9034.09,
+   1788968656
   ]
  ],
  "leader_pos": {
@@ -23292,6 +23299,18 @@
    "cost": 584.7418000806761,
    "max_shares": 8484.58,
    "last_trade_ts": 1788965533
+  },
+  "jtwyslljy|44234484543789139551075610033423993449166543025134196237732205244788821434916": {
+   "leader": "jtwyslljy",
+   "asset": "44234484543789139551075610033423993449166543025134196237732205244788821434916",
+   "condition_id": "0x5628760cc56964480883e0f1059df18b418c4de1852c90a6271db30476baf90f",
+   "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-rybakin-2026-09-08",
+   "shares": 9034.09,
+   "cost": 2800.5679,
+   "max_shares": 9034.09,
+   "last_trade_ts": 1788968656
   }
  },
  "positions": [],
@@ -37576,8 +37595,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-09-09T15:50:38.183373+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T15:35:00+00:00",
+   "condition_id": "0x5628760cc56964480883e0f1059df18b418c4de1852c90a6271db30476baf90f",
+   "asset": "44234484543789139551075610033423993449166543025134196237732205244788821434916",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T14:55:31.969310+00:00"
+ "last_updated": "2026-09-09T15:50:38.183899+00:00"
 }
