@@ -23448,24 +23448,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "35748767353730182244365661328544364041861870028230552997860786092981158157117",
-   "condition_id": "0x17b8a8a0e2884e6205a9ad17c49bcbde6e343b17e8e794e86d3202d3616c1ec1",
-   "title": "Will FC Barcelona win on 2026-09-09?",
-   "outcome": "No",
-   "slug": "ucl-fcb-fey-2026-09-09",
-   "opened_at": "2026-09-09T15:55:27.108884+00:00",
-   "entry_price": 0.09,
-   "shares": 1111.1111,
-   "stake": 100.0,
-   "leader_vwap": 0.09,
-   "leader_cost": 14220.0,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.09,
-   "ask_depth": 364833.21,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "12324113151522605673538504071717017726307296345046530742947515546313619990640",
    "condition_id": "0xb2e4f1f05b4f3057baa0f3c69a3c7d7972cc3255e6040b76406bd1e462a3da7f",
    "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
@@ -32887,6 +32869,28 @@
    "exit_price": 1.0,
    "pnl": 170.2703,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35748767353730182244365661328544364041861870028230552997860786092981158157117",
+   "condition_id": "0x17b8a8a0e2884e6205a9ad17c49bcbde6e343b17e8e794e86d3202d3616c1ec1",
+   "title": "Will FC Barcelona win on 2026-09-09?",
+   "outcome": "No",
+   "slug": "ucl-fcb-fey-2026-09-09",
+   "opened_at": "2026-09-09T15:55:27.108884+00:00",
+   "entry_price": 0.09,
+   "shares": 1111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.09,
+   "leader_cost": 14220.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.09,
+   "ask_depth": 364833.21,
+   "status": "lost",
+   "closed_at": "2026-09-09T19:05:27.038876+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -37848,6 +37852,6 @@
    "outcome": "Coco Gauff"
   }
  ],
- "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T18:55:28.372506+00:00"
+ "total_pnl": -701.6988999999994,
+ "last_updated": "2026-09-09T19:05:27.040632+00:00"
 }
