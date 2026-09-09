@@ -23477,24 +23477,6 @@
    "best_ask": 0.38,
    "ask_depth": 304825.92,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "62809011690373137783742800955506269800134004998588778916597292934136718209705",
-   "condition_id": "0xf3787297e8e731a3f7c55870dc822e6f5e48716028428ccb2f234b2f1367a4e8",
-   "title": "Will Arsenal FC win on 2026-09-09?",
-   "outcome": "No",
-   "slug": "ucl-nap-ars-2026-09-09",
-   "opened_at": "2026-09-09T18:50:31.545980+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 8428.59,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.43,
-   "ask_depth": 66013.06,
-   "status": "open"
   }
  ],
  "closed": [
@@ -32905,6 +32887,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62809011690373137783742800955506269800134004998588778916597292934136718209705",
+   "condition_id": "0xf3787297e8e731a3f7c55870dc822e6f5e48716028428ccb2f234b2f1367a4e8",
+   "title": "Will Arsenal FC win on 2026-09-09?",
+   "outcome": "No",
+   "slug": "ucl-nap-ars-2026-09-09",
+   "opened_at": "2026-09-09T18:50:31.545980+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 8428.59,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.43,
+   "ask_depth": 66013.06,
+   "status": "lost",
+   "closed_at": "2026-09-09T21:20:33.225531+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -37866,6 +37870,6 @@
    "outcome": "Coco Gauff"
   }
  ],
- "total_pnl": -701.6988999999994,
- "last_updated": "2026-09-09T19:10:34.182077+00:00"
+ "total_pnl": -801.6988999999994,
+ "last_updated": "2026-09-09T21:20:33.227498+00:00"
 }
