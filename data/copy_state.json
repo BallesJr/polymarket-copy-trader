@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9098.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788979492,
+  "jtwyslljy": 1788979678,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14194,6 +14194,13 @@
    "BUY",
    20068.06,
    1788979492
+  ],
+  [
+   "0x29c3cb16f605d6dd96b73bada86d8aeda8573f2f008d2ca68b7e1f46efc8a3d1",
+   "85518980503149169819175247491003668086007066360072338269858216360479664851595",
+   "BUY",
+   10000,
+   1788979678
   ]
  ],
  "leader_pos": {
@@ -23424,6 +23431,18 @@
    "cost": 8428.5852,
    "max_shares": 20068.06,
    "last_trade_ts": 1788979492
+  },
+  "jtwyslljy|85518980503149169819175247491003668086007066360072338269858216360479664851595": {
+   "leader": "jtwyslljy",
+   "asset": "85518980503149169819175247491003668086007066360072338269858216360479664851595",
+   "condition_id": "0x93953a8ae1b4a59023067c35725491ef70ad6de52bba3ff1eecb1f3f6e0a484a",
+   "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+   "outcome": "Coco Gauff",
+   "slug": "wta-andreev-gauff-2026-09-08",
+   "shares": 10000.0,
+   "cost": 3900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1788979678
   }
  },
  "positions": [
@@ -37811,8 +37830,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-09-09T18:55:28.039046+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T18:15:00+00:00",
+   "condition_id": "0x93953a8ae1b4a59023067c35725491ef70ad6de52bba3ff1eecb1f3f6e0a484a",
+   "asset": "85518980503149169819175247491003668086007066360072338269858216360479664851595",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+   "outcome": "Coco Gauff"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T18:50:31.835589+00:00"
+ "last_updated": "2026-09-09T18:55:28.372506+00:00"
 }
