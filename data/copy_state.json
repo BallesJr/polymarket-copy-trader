@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788932961,
+  "jtwyslljy": 1788949591,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14068,6 +14068,20 @@
    "BUY",
    2000,
    1788932961
+  ],
+  [
+   "0x8b149f8f5483f25ddfe7cf44fa329bdd4f344d3af0d8cc20d31980750c418555",
+   "10221940145485360494357998146387093576829325117496900712673150659767172622333",
+   "BUY",
+   1000,
+   1788949588
+  ],
+  [
+   "0x39c681c480dc3c97e8a54a26bc4181a476eae175fa8fe9bae82f3b8de349eb7f",
+   "10221940145485360494357998146387093576829325117496900712673150659767172622333",
+   "BUY",
+   818.71,
+   1788949591
   ]
  ],
  "leader_pos": {
@@ -23214,6 +23228,18 @@
    "cost": 2079.9932,
    "max_shares": 3999.99,
    "last_trade_ts": 1788932961
+  },
+  "jtwyslljy|10221940145485360494357998146387093576829325117496900712673150659767172622333": {
+   "leader": "jtwyslljy",
+   "asset": "10221940145485360494357998146387093576829325117496900712673150659767172622333",
+   "condition_id": "0x016353faf25911e8717dccfe66de3ee67d959a75ae0e12eda92f114dcf762140",
+   "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "G2",
+   "slug": "cs2-big5-g2-2026-09-09",
+   "shares": 1818.71,
+   "cost": 1109.4131,
+   "max_shares": 1818.71,
+   "last_trade_ts": 1788949591
   }
  },
  "positions": [],
@@ -37450,8 +37476,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
    "outcome": "Carlos Alcaraz"
+  },
+  {
+   "at": "2026-09-09T10:30:47.874547+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T08:10:00+00:00",
+   "condition_id": "0x016353faf25911e8717dccfe66de3ee67d959a75ae0e12eda92f114dcf762140",
+   "asset": "10221940145485360494357998146387093576829325117496900712673150659767172622333",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "G2"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T05:55:33.570030+00:00"
+ "last_updated": "2026-09-09T10:30:47.875073+00:00"
 }
