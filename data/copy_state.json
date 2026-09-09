@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788889416,
+  "jtwyslljy": 1788925153,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14047,6 +14047,20 @@
    "BUY",
    6500,
    1788889416
+  ],
+  [
+   "0x654a49133b705e17acc354af793a2923e9ff67ebf79bc006eb60e4861dc3e571",
+   "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "BUY",
+   1000,
+   1788925140
+  ],
+  [
+   "0x8a5ddc3ed089f43cf0897e747472bd45106ede4674f8465b1d05a27f71a97ddc",
+   "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "BUY",
+   999.99,
+   1788925153
   ]
  ],
  "leader_pos": {
@@ -23181,6 +23195,18 @@
    "cost": 417.48620000000005,
    "max_shares": 867.62,
    "last_trade_ts": 1788883218
+  },
+  "jtwyslljy|105592624751830692376553790027013171432989732576537249834963733074643102929223": {
+   "leader": "jtwyslljy",
+   "asset": "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "condition_id": "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b",
+   "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-shelton-alcaraz-2026-09-08",
+   "shares": 1999.99,
+   "cost": 1359.9932,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1788925153
   }
  },
  "positions": [],
@@ -37385,8 +37411,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
    "outcome": "Linda Noskova"
+  },
+  {
+   "at": "2026-09-09T03:45:32.910251+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T03:00:00+00:00",
+   "condition_id": "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b",
+   "asset": "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "copy_delay_min": 6.3,
+   "cf_ask": 0.68,
+   "cf_shares": 147.0588,
+   "cf_cost": 100.0,
+   "cf_entry": 0.68,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+   "outcome": "Carlos Alcaraz"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-08T17:45:35.858162+00:00"
+ "last_updated": "2026-09-09T03:45:32.910743+00:00"
 }
