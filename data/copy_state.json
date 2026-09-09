@@ -23459,26 +23459,7 @@
    "last_trade_ts": 1788979678
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "12324113151522605673538504071717017726307296345046530742947515546313619990640",
-   "condition_id": "0xb2e4f1f05b4f3057baa0f3c69a3c7d7972cc3255e6040b76406bd1e462a3da7f",
-   "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
-   "outcome": "Alexander Blockx",
-   "slug": "atp-khachan-blockx-2026-09-09",
-   "opened_at": "2026-09-09T18:30:50.610264+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 3800.0,
-   "copy_delay_min": 9.4,
-   "best_ask": 0.38,
-   "ask_depth": 304825.92,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -32909,6 +32890,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12324113151522605673538504071717017726307296345046530742947515546313619990640",
+   "condition_id": "0xb2e4f1f05b4f3057baa0f3c69a3c7d7972cc3255e6040b76406bd1e462a3da7f",
+   "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-khachan-blockx-2026-09-09",
+   "opened_at": "2026-09-09T18:30:50.610264+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3800.0,
+   "copy_delay_min": 9.4,
+   "best_ask": 0.38,
+   "ask_depth": 304825.92,
+   "status": "lost",
+   "closed_at": "2026-09-09T23:25:26.299301+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -37870,6 +37873,6 @@
    "outcome": "Coco Gauff"
   }
  ],
- "total_pnl": -801.6988999999994,
- "last_updated": "2026-09-09T21:20:33.227498+00:00"
+ "total_pnl": -901.6988999999994,
+ "last_updated": "2026-09-09T23:25:26.300930+00:00"
 }
