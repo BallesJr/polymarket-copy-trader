@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788925153,
+  "jtwyslljy": 1788932961,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14061,6 +14061,13 @@
    "BUY",
    999.99,
    1788925153
+  ],
+  [
+   "0x318582ce30909b67e758ccbecf56e1b5501d1a9f2d0ed1bc08ad4319ecaf5cda",
+   "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "BUY",
+   2000,
+   1788932961
   ]
  ],
  "leader_pos": {
@@ -23203,10 +23210,10 @@
    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
    "outcome": "Carlos Alcaraz",
    "slug": "atp-shelton-alcaraz-2026-09-08",
-   "shares": 1999.99,
-   "cost": 1359.9932,
-   "max_shares": 1999.99,
-   "last_trade_ts": 1788925153
+   "shares": 3999.99,
+   "cost": 2079.9932,
+   "max_shares": 3999.99,
+   "last_trade_ts": 1788932961
   }
  },
  "positions": [],
@@ -37427,8 +37434,24 @@
    "leader": "jtwyslljy",
    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
    "outcome": "Carlos Alcaraz"
+  },
+  {
+   "at": "2026-09-09T05:55:33.569522+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T03:00:00+00:00",
+   "condition_id": "0x1e93e33beecbd9ae3dbe35a7c263b5d1a6d81084f6eed57e16b7fba56821ea1b",
+   "asset": "105592624751830692376553790027013171432989732576537249834963733074643102929223",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+   "outcome": "Carlos Alcaraz"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T03:45:32.910743+00:00"
+ "last_updated": "2026-09-09T05:55:33.570030+00:00"
 }
