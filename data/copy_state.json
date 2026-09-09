@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9398.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788952015,
+  "jtwyslljy": 1788965533,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14096,6 +14096,20 @@
    "BUY",
    3000,
    1788952015
+  ],
+  [
+   "0x6b6f81885dc3642ed6a057b44ac5a4f896c083dedab5680e7927549bcbc5dd90",
+   "23804098144125113012541486155890795152578817099470541864882745171440736854422",
+   "BUY",
+   4533.78,
+   1788965520
+  ],
+  [
+   "0x11ef0d2598b431ab46c1500dca0f728e85c3e1fab729e2ca8beda618f1af8ed6",
+   "23804098144125113012541486155890795152578817099470541864882745171440736854422",
+   "BUY",
+   3950.8,
+   1788965533
   ]
  ],
  "leader_pos": {
@@ -23266,6 +23280,18 @@
    "cost": 839.545100004399,
    "max_shares": 4172.37,
    "last_trade_ts": 1788952015
+  },
+  "jtwyslljy|23804098144125113012541486155890795152578817099470541864882745171440736854422": {
+   "leader": "jtwyslljy",
+   "asset": "23804098144125113012541486155890795152578817099470541864882745171440736854422",
+   "condition_id": "0x84f3b2402f5471ff48cd85a43fa5ff8b144afc5b6c3afcc8ac7437578aba6774",
+   "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-prv-furia-2026-09-09",
+   "shares": 8484.58,
+   "cost": 584.7418000806761,
+   "max_shares": 8484.58,
+   "last_trade_ts": 1788965533
   }
  },
  "positions": [],
@@ -37534,8 +37560,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-09T14:55:31.968371+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-09T13:00:00+00:00",
+   "condition_id": "0x84f3b2402f5471ff48cd85a43fa5ff8b144afc5b6c3afcc8ac7437578aba6774",
+   "asset": "23804098144125113012541486155890795152578817099470541864882745171440736854422",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -601.6988999999994,
- "last_updated": "2026-09-09T11:10:36.907023+00:00"
+ "last_updated": "2026-09-09T14:55:31.969310+00:00"
 }
