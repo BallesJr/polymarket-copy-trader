@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9076.872730199995,
+ "bankroll": 8976.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789060207,
+  "jtwyslljy": 1789062915,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14404,6 +14404,20 @@
    "BUY",
    2000,
    1789060207
+  ],
+  [
+   "0x8172548dea4f2f838b66302833f062d52558ddab6ddce192a0fc80e5fd32dac8",
+   "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "BUY",
+   3000,
+   1789062826
+  ],
+  [
+   "0x339ecb3b8c5589ed6d43170d4ae598619a36770e7a83962800e77a0c889ce14c",
+   "24838578383896310495631967354953516965298852227920758446192737943290786084635",
+   "BUY",
+   7000,
+   1789062915
   ]
  ],
  "leader_pos": {
@@ -23786,13 +23800,44 @@
    "title": "Will AS Roma win on 2026-09-10?",
    "outcome": "Yes",
    "slug": "ucl-fen-rom-2026-09-10",
-   "shares": 11000.0,
-   "cost": 5560.0,
-   "max_shares": 11000.0,
-   "last_trade_ts": 1789060207
+   "shares": 14000.0,
+   "cost": 6820.0,
+   "max_shares": 14000.0,
+   "last_trade_ts": 1789062826
+  },
+  "jtwyslljy|24838578383896310495631967354953516965298852227920758446192737943290786084635": {
+   "leader": "jtwyslljy",
+   "asset": "24838578383896310495631967354953516965298852227920758446192737943290786084635",
+   "condition_id": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
+   "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
+   "outcome": "Aryna Sabalenka",
+   "slug": "wta-sabalen-pegula-2026-09-10",
+   "shares": 7000.0,
+   "cost": 4480.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1789062915
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "24838578383896310495631967354953516965298852227920758446192737943290786084635",
+   "condition_id": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
+   "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
+   "outcome": "Aryna Sabalenka",
+   "slug": "wta-sabalen-pegula-2026-09-10",
+   "opened_at": "2026-09-10T18:00:57.284339+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4480.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.64,
+   "ask_depth": 120176.93,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38456,8 +38501,24 @@
    "leader": "jtwyslljy",
    "title": "Will AS Roma win on 2026-09-10?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-09-10T18:00:57.457163+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T16:45:00+00:00",
+   "condition_id": "0xa1eba63a9c6490b57dac32d31fbbe97ab19807adf171250fdf35543c2598aff3",
+   "asset": "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.35,
+   "cf_shares": 285.7143,
+   "cf_cost": 100.0,
+   "cf_entry": 0.35,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will AS Roma win on 2026-09-10?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T17:15:38.064582+00:00"
+ "last_updated": "2026-09-10T18:00:57.655551+00:00"
 }
