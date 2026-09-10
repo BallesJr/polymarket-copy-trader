@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8898.301330199994,
  "last_seen": {
-  "jtwyslljy": 1789036375,
+  "jtwyslljy": 1789041069,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14278,6 +14278,13 @@
    "BUY",
    44,
    1789036375
+  ],
+  [
+   "0xd83d8df59399d15722829eab6356f187a97a0194cff904e2200f80efdad70096",
+   "38489005164009077339719013117017387513782472090617274834948603371368709783609",
+   "BUY",
+   10000,
+   1789041069
   ]
  ],
  "leader_pos": {
@@ -23580,6 +23587,18 @@
    "cost": 7728.759800029935,
    "max_shares": 14499.970000000001,
    "last_trade_ts": 1789036375
+  },
+  "jtwyslljy|38489005164009077339719013117017387513782472090617274834948603371368709783609": {
+   "leader": "jtwyslljy",
+   "asset": "38489005164009077339719013117017387513782472090617274834948603371368709783609",
+   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
+   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "MIBR",
+   "slug": "cs2-mibr-bb3-2026-09-10",
+   "shares": 10000.0,
+   "cost": 2000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1789041069
   }
  },
  "positions": [
@@ -38067,8 +38086,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs magic (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-09-10T11:55:29.606765+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T10:40:00+00:00",
+   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
+   "asset": "38489005164009077339719013117017387513782472090617274834948603371368709783609",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "MIBR"
   }
  ],
  "total_pnl": -1001.6988999999994,
- "last_updated": "2026-09-10T11:45:44.709480+00:00"
+ "last_updated": "2026-09-10T11:55:29.778048+00:00"
 }
