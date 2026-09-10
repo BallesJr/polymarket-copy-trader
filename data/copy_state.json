@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8998.301330199994,
+ "bankroll": 8898.301330199994,
  "last_seen": {
-  "jtwyslljy": 1789021414,
+  "jtwyslljy": 1789029921,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14257,6 +14257,13 @@
    "SELL",
    2999.97,
    1789021414
+  ],
+  [
+   "0xb32b82251c6dd32a1c35b1fc64d3f650493a2f7d10de0b892d550a7fe012bdd0",
+   "28120034878608031347088333884436493792713514591380302997326380987556881576572",
+   "BUY",
+   10000,
+   1789029921
   ]
  ],
  "leader_pos": {
@@ -23547,6 +23554,18 @@
    "cost": 3360.0000000000005,
    "max_shares": 6000.0,
    "last_trade_ts": 1789021002
+  },
+  "jtwyslljy|28120034878608031347088333884436493792713514591380302997326380987556881576572": {
+   "leader": "jtwyslljy",
+   "asset": "28120034878608031347088333884436493792713514591380302997326380987556881576572",
+   "condition_id": "0x1d91f021022942d60be30cdd7ebf623c0e084158288f6de6a3dea815ac11c188",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "FURIA",
+   "slug": "cs2-lgc-furia-2026-09-10",
+   "shares": 10000.0,
+   "cost": 6200.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1789029921
   }
  },
  "positions": [
@@ -23566,6 +23585,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.56,
    "ask_depth": 116146.1,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28120034878608031347088333884436493792713514591380302997326380987556881576572",
+   "condition_id": "0x1d91f021022942d60be30cdd7ebf623c0e084158288f6de6a3dea815ac11c188",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "FURIA",
+   "slug": "cs2-lgc-furia-2026-09-10",
+   "opened_at": "2026-09-10T08:50:31.871539+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 6200.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.62,
+   "ask_depth": 32903.37,
    "status": "open"
   }
  ],
@@ -38015,5 +38052,5 @@
   }
  ],
  "total_pnl": -901.6988999999994,
- "last_updated": "2026-09-10T06:31:21.708896+00:00"
+ "last_updated": "2026-09-10T08:50:32.104092+00:00"
 }
