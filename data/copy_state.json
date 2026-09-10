@@ -23600,24 +23600,6 @@
    "best_ask": 0.56,
    "ask_depth": 116146.1,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "28120034878608031347088333884436493792713514591380302997326380987556881576572",
-   "condition_id": "0x1d91f021022942d60be30cdd7ebf623c0e084158288f6de6a3dea815ac11c188",
-   "title": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
-   "outcome": "FURIA",
-   "slug": "cs2-lgc-furia-2026-09-10",
-   "opened_at": "2026-09-10T08:50:31.871539+00:00",
-   "entry_price": 0.62,
-   "shares": 161.2903,
-   "stake": 100.0,
-   "leader_vwap": 0.62,
-   "leader_cost": 6200.0,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.62,
-   "ask_depth": 32903.37,
-   "status": "open"
   }
  ],
  "closed": [
@@ -33072,6 +33054,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28120034878608031347088333884436493792713514591380302997326380987556881576572",
+   "condition_id": "0x1d91f021022942d60be30cdd7ebf623c0e084158288f6de6a3dea815ac11c188",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "FURIA",
+   "slug": "cs2-lgc-furia-2026-09-10",
+   "opened_at": "2026-09-10T08:50:31.871539+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 6200.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.62,
+   "ask_depth": 32903.37,
+   "status": "lost",
+   "closed_at": "2026-09-10T11:45:44.707598+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -38065,6 +38069,6 @@
    "outcome": "PARIVISION"
   }
  ],
- "total_pnl": -901.6988999999994,
- "last_updated": "2026-09-10T10:40:40.171606+00:00"
+ "total_pnl": -1001.6988999999994,
+ "last_updated": "2026-09-10T11:45:44.709480+00:00"
 }
