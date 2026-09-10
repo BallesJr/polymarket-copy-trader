@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8898.301330199994,
+ "bankroll": 9076.872730199995,
  "last_seen": {
   "jtwyslljy": 1789046008,
   "0x53757615de": 1787221213
@@ -23627,26 +23627,7 @@
    "last_trade_ts": 1789046008
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "1630210963157749404312047266054686985126611235429558241306195865288068738559",
-   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
-   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
-   "outcome": "BetBoom Team",
-   "slug": "cs2-mibr-bb3-2026-09-10",
-   "opened_at": "2026-09-10T06:25:25.005213+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 3360.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.56,
-   "ask_depth": 116146.1,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -33121,6 +33102,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1630210963157749404312047266054686985126611235429558241306195865288068738559",
+   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
+   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-mibr-bb3-2026-09-10",
+   "opened_at": "2026-09-10T06:25:25.005213+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 3360.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.56,
+   "ask_depth": 116146.1,
+   "status": "won",
+   "closed_at": "2026-09-10T13:45:33.126872+00:00",
+   "exit_price": 1.0,
+   "pnl": 78.5714,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -38146,6 +38149,6 @@
    "outcome": "magic"
   }
  ],
- "total_pnl": -1001.6988999999994,
- "last_updated": "2026-09-10T13:25:28.781822+00:00"
+ "total_pnl": -923.1274999999994,
+ "last_updated": "2026-09-10T13:45:33.128640+00:00"
 }
