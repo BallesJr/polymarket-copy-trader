@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8898.301330199994,
  "last_seen": {
-  "jtwyslljy": 1789041069,
+  "jtwyslljy": 1789046008,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14285,6 +14285,20 @@
    "BUY",
    10000,
    1789041069
+  ],
+  [
+   "0x2a7ce1de655631cafe53c79012de21c24e2ee8e1121e2fae706d9e8459fb7839",
+   "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "BUY",
+   6543.33,
+   1789045975
+  ],
+  [
+   "0x61d09579cf3e16726d6342bba19f6b56417e6d3d903ee7d1ed31f738cc50cd43",
+   "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "BUY",
+   8457,
+   1789046008
   ]
  ],
  "leader_pos": {
@@ -23599,6 +23613,18 @@
    "cost": 2000.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1789041069
+  },
+  "jtwyslljy|95700170262161475010122865443078103327696373729554643813996639903179453492017": {
+   "leader": "jtwyslljy",
+   "asset": "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "condition_id": "0x7764bd0024bcbbf8bba922cd55cc4669330bd84c52db02b52a896ef4fd5e3655",
+   "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "magic",
+   "slug": "cs2-all-mgc-2026-09-10",
+   "shares": 15000.33,
+   "cost": 5165.145100025601,
+   "max_shares": 15000.33,
+   "last_trade_ts": 1789046008
   }
  },
  "positions": [
@@ -38102,8 +38128,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
    "outcome": "MIBR"
+  },
+  {
+   "at": "2026-09-10T13:25:28.617446+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T12:10:00+00:00",
+   "condition_id": "0x7764bd0024bcbbf8bba922cd55cc4669330bd84c52db02b52a896ef4fd5e3655",
+   "asset": "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "copy_delay_min": 12.0,
+   "cf_ask": 0.33,
+   "cf_shares": 303.0303,
+   "cf_cost": 100.0,
+   "cf_entry": 0.33,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "magic"
   }
  ],
  "total_pnl": -1001.6988999999994,
- "last_updated": "2026-09-10T11:55:29.778048+00:00"
+ "last_updated": "2026-09-10T13:25:28.781822+00:00"
 }
