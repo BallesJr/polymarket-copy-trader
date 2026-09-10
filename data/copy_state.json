@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9098.301330199994,
  "last_seen": {
-  "jtwyslljy": 1789020582,
+  "jtwyslljy": 1789020948,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14229,6 +14229,20 @@
    "BUY",
    20.5,
    1789020582
+  ],
+  [
+   "0x20fc21dc0264293cd3ee3d2304384c0a3d4837674816ebad84e4469d4272d34c",
+   "7455993347287201900761854030311998107602910233943136465417340051673986654330",
+   "BUY",
+   999.99,
+   1789020930
+  ],
+  [
+   "0x528ecb57fc251ede494e1d2bb48116bf896b91acd9f7241a713727455e7cf1e4",
+   "7455993347287201900761854030311998107602910233943136465417340051673986654330",
+   "BUY",
+   5000,
+   1789020948
   ]
  ],
  "leader_pos": {
@@ -23495,6 +23509,18 @@
    "cost": 5.944999999999999,
    "max_shares": 20.5,
    "last_trade_ts": 1789020582
+  },
+  "jtwyslljy|7455993347287201900761854030311998107602910233943136465417340051673986654330": {
+   "leader": "jtwyslljy",
+   "asset": "7455993347287201900761854030311998107602910233943136465417340051673986654330",
+   "condition_id": "0xd9e482b661fe53427de31b70f385abb0902a1c1fae59b16d418c78a4385ad463",
+   "title": "Counter-Strike: PARIVISION vs magic (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-prv-mgc-2026-09-10",
+   "shares": 5999.99,
+   "cost": 3299.9444999999996,
+   "max_shares": 5999.99,
+   "last_trade_ts": 1789020948
   }
  },
  "positions": [],
@@ -37925,8 +37951,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Alliance vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "TYLOO"
+  },
+  {
+   "at": "2026-09-10T06:20:35.846642+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T06:00:00+00:00",
+   "condition_id": "0xd9e482b661fe53427de31b70f385abb0902a1c1fae59b16d418c78a4385ad463",
+   "asset": "7455993347287201900761854030311998107602910233943136465417340051673986654330",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.51,
+   "cf_shares": 193.0769,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5179,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs magic (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -901.6988999999994,
- "last_updated": "2026-09-10T06:15:31.818315+00:00"
+ "last_updated": "2026-09-10T06:20:35.847213+00:00"
 }
