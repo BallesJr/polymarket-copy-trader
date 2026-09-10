@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9076.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789046008,
+  "jtwyslljy": 1789048887,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14299,6 +14299,20 @@
    "BUY",
    8457,
    1789046008
+  ],
+  [
+   "0xa62c841cb4a3a5e954b3a0115604b34d5f4b2bfb9d5dd1bb70c431ad8f058825",
+   "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "BUY",
+   729.6,
+   1789048824
+  ],
+  [
+   "0x5bf4fbef30c76e7b5c26bf1be1ce56f3f17746e7a2dbc9554173b7ffac1e0f54",
+   "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "BUY",
+   657,
+   1789048887
   ]
  ],
  "leader_pos": {
@@ -23621,10 +23635,10 @@
    "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "magic",
    "slug": "cs2-all-mgc-2026-09-10",
-   "shares": 15000.33,
-   "cost": 5165.145100025601,
-   "max_shares": 15000.33,
-   "last_trade_ts": 1789046008
+   "shares": 16386.93,
+   "cost": 5381.157100025601,
+   "max_shares": 16386.93,
+   "last_trade_ts": 1789048887
   }
  },
  "positions": [],
@@ -38147,8 +38161,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
    "outcome": "magic"
+  },
+  {
+   "at": "2026-09-10T14:05:28.863609+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T12:10:00+00:00",
+   "condition_id": "0x7764bd0024bcbbf8bba922cd55cc4669330bd84c52db02b52a896ef4fd5e3655",
+   "asset": "95700170262161475010122865443078103327696373729554643813996639903179453492017",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.04,
+   "cf_shares": 2500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.04,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "magic"
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T13:45:33.128640+00:00"
+ "last_updated": "2026-09-10T14:05:28.864195+00:00"
 }
