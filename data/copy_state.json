@@ -23919,24 +23919,6 @@
    "best_ask": 0.64,
    "ask_depth": 120176.93,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "29530462325995844345540890029513872455677045309459435410060677952546183567996",
-   "condition_id": "0xaed88e69aa25b45dc1a0d57e364b218433b0caebb84b07a2de08c67003f501c8",
-   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
-   "outcome": "No",
-   "slug": "ucl-bay-bog-2026-09-10",
-   "opened_at": "2026-09-10T18:45:35.800892+00:00",
-   "entry_price": 0.09,
-   "shares": 1111.1111,
-   "stake": 100.0,
-   "leader_vwap": 0.09,
-   "leader_cost": 720.0,
-   "copy_delay_min": 1.7,
-   "best_ask": 0.09,
-   "ask_depth": 766964.08,
-   "status": "open"
   }
  ],
  "closed": [
@@ -33501,6 +33483,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29530462325995844345540890029513872455677045309459435410060677952546183567996",
+   "condition_id": "0xaed88e69aa25b45dc1a0d57e364b218433b0caebb84b07a2de08c67003f501c8",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
+   "outcome": "No",
+   "slug": "ucl-bay-bog-2026-09-10",
+   "opened_at": "2026-09-10T18:45:35.800892+00:00",
+   "entry_price": 0.09,
+   "shares": 1111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.09,
+   "leader_cost": 720.0,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.09,
+   "ask_depth": 766964.08,
+   "status": "lost",
+   "closed_at": "2026-09-10T21:25:26.663476+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -38686,6 +38690,6 @@
    "outcome": "Yes"
   }
  ],
- "total_pnl": -788.3448999999994,
- "last_updated": "2026-09-10T21:21:47.690155+00:00"
+ "total_pnl": -888.3448999999994,
+ "last_updated": "2026-09-10T21:25:26.665034+00:00"
 }
