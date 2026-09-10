@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9076.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789058566,
+  "jtwyslljy": 1789059133,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14390,6 +14390,13 @@
    "BUY",
    340,
    1789058566
+  ],
+  [
+   "0x19c2c658e5628f12074aead45a3dbcd2c0ff3fb7037c250337da640d3e4ee3d9",
+   "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "BUY",
+   9000,
+   1789059133
   ]
  ],
  "leader_pos": {
@@ -23764,6 +23771,18 @@
    "cost": 7193.9204004,
    "max_shares": 20590.0,
    "last_trade_ts": 1789058566
+  },
+  "jtwyslljy|66212165995022029603175153927881038102702901052395698916953787694127926213352": {
+   "leader": "jtwyslljy",
+   "asset": "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "condition_id": "0xa1eba63a9c6490b57dac32d31fbbe97ab19807adf171250fdf35543c2598aff3",
+   "title": "Will AS Roma win on 2026-09-10?",
+   "outcome": "Yes",
+   "slug": "ucl-fen-rom-2026-09-10",
+   "shares": 9000.0,
+   "cost": 4680.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1789059133
   }
  },
  "positions": [],
@@ -38398,8 +38417,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 3DMAX vs BBL (BO3) - Thunderpick World Championship Closed Qualifier Group C",
    "outcome": "BBL"
+  },
+  {
+   "at": "2026-09-10T17:01:00.984467+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T16:45:00+00:00",
+   "condition_id": "0xa1eba63a9c6490b57dac32d31fbbe97ab19807adf171250fdf35543c2598aff3",
+   "asset": "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will AS Roma win on 2026-09-10?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T16:45:34.724668+00:00"
+ "last_updated": "2026-09-10T17:01:00.984998+00:00"
 }
