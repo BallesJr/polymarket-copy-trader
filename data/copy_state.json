@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9098.301330199994,
+ "bankroll": 8998.301330199994,
  "last_seen": {
-  "jtwyslljy": 1789020948,
+  "jtwyslljy": 1789021002,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14243,6 +14243,13 @@
    "BUY",
    5000,
    1789020948
+  ],
+  [
+   "0x2972948cfd38ee5758735d5822f3ac3b282546d1880febd790310ff91705baeb",
+   "1630210963157749404312047266054686985126611235429558241306195865288068738559",
+   "BUY",
+   6000,
+   1789021002
   ]
  ],
  "leader_pos": {
@@ -23521,9 +23528,40 @@
    "cost": 3299.9444999999996,
    "max_shares": 5999.99,
    "last_trade_ts": 1789020948
+  },
+  "jtwyslljy|1630210963157749404312047266054686985126611235429558241306195865288068738559": {
+   "leader": "jtwyslljy",
+   "asset": "1630210963157749404312047266054686985126611235429558241306195865288068738559",
+   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
+   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-mibr-bb3-2026-09-10",
+   "shares": 6000.0,
+   "cost": 3360.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1789021002
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "1630210963157749404312047266054686985126611235429558241306195865288068738559",
+   "condition_id": "0xcc7de410ca27dc50c9ff8ac3e892492c02d807d504bc916954a5a0b67ae620e5",
+   "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-mibr-bb3-2026-09-10",
+   "opened_at": "2026-09-10T06:25:25.005213+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 3360.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.56,
+   "ask_depth": 116146.1,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -37970,5 +38008,5 @@
   }
  ],
  "total_pnl": -901.6988999999994,
- "last_updated": "2026-09-10T06:20:35.847213+00:00"
+ "last_updated": "2026-09-10T06:25:25.215949+00:00"
 }
