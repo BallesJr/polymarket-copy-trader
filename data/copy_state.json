@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8976.872730199995,
+ "bankroll": 8576.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789062915,
+  "jtwyslljy": 1789065891,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14418,6 +14418,41 @@
    "BUY",
    7000,
    1789062915
+  ],
+  [
+   "0x1557d8e1095f37d5770a808b2353231d776201b7a7760c25af29bab35cd83c1d",
+   "24838578383896310495631967354953516965298852227920758446192737943290786084635",
+   "BUY",
+   13000,
+   1789065754
+  ],
+  [
+   "0x6acf04d2aaf3b524bba2458744624d9a614d0ecc21528d125cf8bcdf2f3f9dcc",
+   "29530462325995844345540890029513872455677045309459435410060677952546183567996",
+   "BUY",
+   8000,
+   1789065829
+  ],
+  [
+   "0x1c6af81ff1a608582b86dc66f50af0e65bd22bbd8d5ceeff65934d0f5b610bef",
+   "8081557241724487307119144156416654855063461369900911342487719795413325768032",
+   "BUY",
+   8000,
+   1789065843
+  ],
+  [
+   "0x79a562bd1ca14e2e3c6885c5cc26470733558630520253994b2551dfc8a20232",
+   "60774942783913601446147389774268976123455409287301112534741489480605674208958",
+   "BUY",
+   5000,
+   1789065876
+  ],
+  [
+   "0x95272f193ec1c7794774e0ad282de5b510d86705a04869663661d4cd2d6587e4",
+   "4326959618355496897967940143328238011130325117199062861460291689420257385600",
+   "BUY",
+   5000,
+   1789065891
   ]
  ],
  "leader_pos": {
@@ -23812,10 +23847,58 @@
    "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
    "outcome": "Aryna Sabalenka",
    "slug": "wta-sabalen-pegula-2026-09-10",
-   "shares": 7000.0,
-   "cost": 4480.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1789062915
+   "shares": 20000.0,
+   "cost": 12800.0,
+   "max_shares": 20000.0,
+   "last_trade_ts": 1789065754
+  },
+  "jtwyslljy|29530462325995844345540890029513872455677045309459435410060677952546183567996": {
+   "leader": "jtwyslljy",
+   "asset": "29530462325995844345540890029513872455677045309459435410060677952546183567996",
+   "condition_id": "0xaed88e69aa25b45dc1a0d57e364b218433b0caebb84b07a2de08c67003f501c8",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
+   "outcome": "No",
+   "slug": "ucl-bay-bog-2026-09-10",
+   "shares": 8000.0,
+   "cost": 720.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1789065829
+  },
+  "jtwyslljy|8081557241724487307119144156416654855063461369900911342487719795413325768032": {
+   "leader": "jtwyslljy",
+   "asset": "8081557241724487307119144156416654855063461369900911342487719795413325768032",
+   "condition_id": "0x159b4767e9a41095e4b1d0b57147e88e4e6cbfb40f1db14849e73641304b49db",
+   "title": "Will Manchester United FC win on 2026-09-10?",
+   "outcome": "No",
+   "slug": "ucl-mnu-sf-2026-09-10",
+   "shares": 8000.0,
+   "cost": 800.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1789065843
+  },
+  "jtwyslljy|60774942783913601446147389774268976123455409287301112534741489480605674208958": {
+   "leader": "jtwyslljy",
+   "asset": "60774942783913601446147389774268976123455409287301112534741489480605674208958",
+   "condition_id": "0x4ed8ce3570321f1d56922c73e9a37daba92c4bc51fe53cc2cebc76fe419aa694",
+   "title": "Manchester United FC leading at halftime?",
+   "outcome": "No",
+   "slug": "ucl-mnu-sf-2026-09-10-halftime-result",
+   "shares": 5000.0,
+   "cost": 1200.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1789065876
+  },
+  "jtwyslljy|4326959618355496897967940143328238011130325117199062861460291689420257385600": {
+   "leader": "jtwyslljy",
+   "asset": "4326959618355496897967940143328238011130325117199062861460291689420257385600",
+   "condition_id": "0x9cf2716ced352cff5ff4508b34e805b80255b0dcd5d18c594a68904b89e9835e",
+   "title": "FC Bayern M\u00fcnchen leading at halftime?",
+   "outcome": "No",
+   "slug": "ucl-bay-bog-2026-09-10-halftime-result",
+   "shares": 5000.0,
+   "cost": 1150.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1789065891
   }
  },
  "positions": [
@@ -23835,6 +23918,78 @@
    "copy_delay_min": 5.7,
    "best_ask": 0.64,
    "ask_depth": 120176.93,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8081557241724487307119144156416654855063461369900911342487719795413325768032",
+   "condition_id": "0x159b4767e9a41095e4b1d0b57147e88e4e6cbfb40f1db14849e73641304b49db",
+   "title": "Will Manchester United FC win on 2026-09-10?",
+   "outcome": "No",
+   "slug": "ucl-mnu-sf-2026-09-10",
+   "opened_at": "2026-09-10T18:45:35.131120+00:00",
+   "entry_price": 0.1,
+   "shares": 1000.0,
+   "stake": 100.0,
+   "leader_vwap": 0.1,
+   "leader_cost": 800.0,
+   "copy_delay_min": 1.5,
+   "best_ask": 0.1,
+   "ask_depth": 810991.92,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4326959618355496897967940143328238011130325117199062861460291689420257385600",
+   "condition_id": "0x9cf2716ced352cff5ff4508b34e805b80255b0dcd5d18c594a68904b89e9835e",
+   "title": "FC Bayern M\u00fcnchen leading at halftime?",
+   "outcome": "No",
+   "slug": "ucl-bay-bog-2026-09-10-halftime-result",
+   "opened_at": "2026-09-10T18:45:35.351420+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1150.0,
+   "copy_delay_min": 0.7,
+   "best_ask": 0.23,
+   "ask_depth": 6914.91,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60774942783913601446147389774268976123455409287301112534741489480605674208958",
+   "condition_id": "0x4ed8ce3570321f1d56922c73e9a37daba92c4bc51fe53cc2cebc76fe419aa694",
+   "title": "Manchester United FC leading at halftime?",
+   "outcome": "No",
+   "slug": "ucl-mnu-sf-2026-09-10-halftime-result",
+   "opened_at": "2026-09-10T18:45:35.567397+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.24,
+   "leader_cost": 1200.0,
+   "copy_delay_min": 1.0,
+   "best_ask": 0.24,
+   "ask_depth": 1382.58,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29530462325995844345540890029513872455677045309459435410060677952546183567996",
+   "condition_id": "0xaed88e69aa25b45dc1a0d57e364b218433b0caebb84b07a2de08c67003f501c8",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-09-10?",
+   "outcome": "No",
+   "slug": "ucl-bay-bog-2026-09-10",
+   "opened_at": "2026-09-10T18:45:35.800892+00:00",
+   "entry_price": 0.09,
+   "shares": 1111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.09,
+   "leader_cost": 720.0,
+   "copy_delay_min": 1.7,
+   "best_ask": 0.09,
+   "ask_depth": 766964.08,
    "status": "open"
   }
  ],
@@ -38520,5 +38675,5 @@
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T18:00:57.655551+00:00"
+ "last_updated": "2026-09-10T18:45:36.277267+00:00"
 }
