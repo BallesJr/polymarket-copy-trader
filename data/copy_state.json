@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9098.301330199994,
  "last_seen": {
-  "jtwyslljy": 1788980691,
+  "jtwyslljy": 1789014840,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14215,6 +14215,13 @@
    "BUY",
    6033,
    1788980691
+  ],
+  [
+   "0x1850526029e1d3146b295f9722a572f38f0c8ea77b30492e53a1315e61d82624",
+   "74420903371174689789017780169410991897184694257372753887433584380007120460285",
+   "BUY",
+   6900,
+   1789014840
   ]
  ],
  "leader_pos": {
@@ -23457,6 +23464,18 @@
    "cost": 3900.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1788979678
+  },
+  "jtwyslljy|74420903371174689789017780169410991897184694257372753887433584380007120460285": {
+   "leader": "jtwyslljy",
+   "asset": "74420903371174689789017780169410991897184694257372753887433584380007120460285",
+   "condition_id": "0x3ca37e7f45a4cde6628a62bcf7e1e627cfbd6066d0cf4586f72acc99c1b647fc",
+   "title": "Counter-Strike: Alliance vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "TYLOO",
+   "slug": "cs2-all-tyloo-2026-09-09",
+   "shares": 6900.0,
+   "cost": 2139.0,
+   "max_shares": 6900.0,
+   "last_trade_ts": 1789014840
   }
  },
  "positions": [],
@@ -37871,8 +37890,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
    "outcome": "Coco Gauff"
+  },
+  {
+   "at": "2026-09-10T04:40:33.624989+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T03:10:00+00:00",
+   "condition_id": "0x3ca37e7f45a4cde6628a62bcf7e1e627cfbd6066d0cf4586f72acc99c1b647fc",
+   "asset": "74420903371174689789017780169410991897184694257372753887433584380007120460285",
+   "copy_delay_min": 6.5,
+   "cf_ask": 0.41,
+   "cf_shares": 238.4524,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4194,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Alliance vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
+   "outcome": "TYLOO"
   }
  ],
  "total_pnl": -901.6988999999994,
- "last_updated": "2026-09-09T23:25:26.300930+00:00"
+ "last_updated": "2026-09-10T04:40:33.625507+00:00"
 }
