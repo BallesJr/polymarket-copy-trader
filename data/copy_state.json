@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9076.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789052625,
+  "jtwyslljy": 1789055694,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14341,6 +14341,20 @@
    "BUY",
    344.57,
    1789052625
+  ],
+  [
+   "0x26d9ff7ee6c6c7e53e00d3306fee8e8568cfb1bcbb34ca72059596d70b20d3c6",
+   "74319857598416896993443880546966377745874081611370057989061835643798080401083",
+   "BUY",
+   19724.23,
+   1789055620
+  ],
+  [
+   "0xfd01971e229d868f2ba4d14d61fe3d11dbc75c39cee13587dd67f8cd6ca0a380",
+   "64184988119923513545935613610893953848677923617935790692772555138320268999580",
+   "BUY",
+   20250,
+   1789055694
   ]
  ],
  "leader_pos": {
@@ -23691,6 +23705,30 @@
    "cost": 421.9856000000001,
    "max_shares": 1139.79,
    "last_trade_ts": 1789052625
+  },
+  "jtwyslljy|74319857598416896993443880546966377745874081611370057989061835643798080401083": {
+   "leader": "jtwyslljy",
+   "asset": "74319857598416896993443880546966377745874081611370057989061835643798080401083",
+   "condition_id": "0x8bfa9c1216342392aeda307a92168d41adc756d1f451f19776933b1f79856562",
+   "title": "Counter-Strike: 3DMAX vs BBL (BO3) - Thunderpick World Championship Closed Qualifier Group C",
+   "outcome": "3DMAX",
+   "slug": "cs2-3dmax-bbl1-2026-09-10",
+   "shares": 19724.23,
+   "cost": 13215.2341,
+   "max_shares": 19724.23,
+   "last_trade_ts": 1789055620
+  },
+  "jtwyslljy|64184988119923513545935613610893953848677923617935790692772555138320268999580": {
+   "leader": "jtwyslljy",
+   "asset": "64184988119923513545935613610893953848677923617935790692772555138320268999580",
+   "condition_id": "0x8bfa9c1216342392aeda307a92168d41adc756d1f451f19776933b1f79856562",
+   "title": "Counter-Strike: 3DMAX vs BBL (BO3) - Thunderpick World Championship Closed Qualifier Group C",
+   "outcome": "BBL",
+   "slug": "cs2-3dmax-bbl1-2026-09-10",
+   "shares": 20250.0,
+   "cost": 6877.7204004000005,
+   "max_shares": 20250.0,
+   "last_trade_ts": 1789055694
   }
  },
  "positions": [],
@@ -38245,8 +38283,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs 5star (BO3) - FISSURE PLAYGROUND Group A",
    "outcome": "5star"
+  },
+  {
+   "at": "2026-09-10T16:01:02.764551+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T14:00:00+00:00",
+   "condition_id": "0x8bfa9c1216342392aeda307a92168d41adc756d1f451f19776933b1f79856562",
+   "asset": "74319857598416896993443880546966377745874081611370057989061835643798080401083",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: 3DMAX vs BBL (BO3) - Thunderpick World Championship Closed Qualifier Group C",
+   "outcome": "3DMAX"
+  },
+  {
+   "at": "2026-09-10T16:01:02.764622+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T14:00:00+00:00",
+   "condition_id": "0x8bfa9c1216342392aeda307a92168d41adc756d1f451f19776933b1f79856562",
+   "asset": "64184988119923513545935613610893953848677923617935790692772555138320268999580",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.3,
+   "cf_shares": 316.8866,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3156,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: 3DMAX vs BBL (BO3) - Thunderpick World Championship Closed Qualifier Group C",
+   "outcome": "BBL"
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T15:10:30.952517+00:00"
+ "last_updated": "2026-09-10T16:01:02.765064+00:00"
 }
