@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9076.872730199995,
  "last_seen": {
-  "jtwyslljy": 1789059133,
+  "jtwyslljy": 1789060207,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14397,6 +14397,13 @@
    "BUY",
    9000,
    1789059133
+  ],
+  [
+   "0x60ce85f213a86c57e0e69085fbb29287a1edd407891dffba4ca5145295028b12",
+   "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "BUY",
+   2000,
+   1789060207
   ]
  ],
  "leader_pos": {
@@ -23779,10 +23786,10 @@
    "title": "Will AS Roma win on 2026-09-10?",
    "outcome": "Yes",
    "slug": "ucl-fen-rom-2026-09-10",
-   "shares": 9000.0,
-   "cost": 4680.0,
-   "max_shares": 9000.0,
-   "last_trade_ts": 1789059133
+   "shares": 11000.0,
+   "cost": 5560.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1789060207
   }
  },
  "positions": [],
@@ -38433,8 +38440,24 @@
    "leader": "jtwyslljy",
    "title": "Will AS Roma win on 2026-09-10?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-09-10T17:15:38.064017+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-10T16:45:00+00:00",
+   "condition_id": "0xa1eba63a9c6490b57dac32d31fbbe97ab19807adf171250fdf35543c2598aff3",
+   "asset": "66212165995022029603175153927881038102702901052395698916953787694127926213352",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will AS Roma win on 2026-09-10?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -923.1274999999994,
- "last_updated": "2026-09-10T17:01:00.984998+00:00"
+ "last_updated": "2026-09-10T17:15:38.064582+00:00"
 }
