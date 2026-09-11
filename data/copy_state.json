@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9167.905330199996,
+ "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789092339,
+  "jtwyslljy": 1789114885,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14467,6 +14467,13 @@
    "BUY",
    2300,
    1789092339
+  ],
+  [
+   "0xf23167a204732cd798be193f72acc6719c553ca9981b8daf54bfc1941e1ef634",
+   "22761517256757923260519354318568260642487312951155221807854594028150598677243",
+   "BUY",
+   10000,
+   1789114885
   ]
  ],
  "leader_pos": {
@@ -23925,9 +23932,40 @@
    "cost": 4539.4358,
    "max_shares": 12300.0,
    "last_trade_ts": 1789092339
+  },
+  "jtwyslljy|22761517256757923260519354318568260642487312951155221807854594028150598677243": {
+   "leader": "jtwyslljy",
+   "asset": "22761517256757923260519354318568260642487312951155221807854594028150598677243",
+   "condition_id": "0x37dbcff6bdd59e476c858c9eb542fc6294ac627a15d91de0ae246f9a4361a08d",
+   "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-g2-2026-09-11",
+   "shares": 10000.0,
+   "cost": 5800.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1789114885
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "22761517256757923260519354318568260642487312951155221807854594028150598677243",
+   "condition_id": "0x37dbcff6bdd59e476c858c9eb542fc6294ac627a15d91de0ae246f9a4361a08d",
+   "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-g2-2026-09-11",
+   "opened_at": "2026-09-11T08:25:24.778910+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 5800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.58,
+   "ask_depth": 35389.26,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38752,5 +38790,5 @@
   }
  ],
  "total_pnl": -832.0948999999994,
- "last_updated": "2026-09-11T02:15:31.098277+00:00"
+ "last_updated": "2026-09-11T08:25:25.001072+00:00"
 }
