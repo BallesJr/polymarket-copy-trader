@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789142521,
+  "jtwyslljy": 1789149625,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14502,6 +14502,13 @@
    "BUY",
    4921.43,
    1789142521
+  ],
+  [
+   "0xd764f9d11217f226e9ac3e84ee04afdbe7679f42ebbe156a7bec638f661d21d6",
+   "21452664064238123597390842699142394435745240994891213872750074390172982581047",
+   "BUY",
+   2854.02,
+   1789149625
   ]
  ],
  "leader_pos": {
@@ -23984,6 +23991,18 @@
    "cost": 3789.5011000000004,
    "max_shares": 4921.43,
    "last_trade_ts": 1789142521
+  },
+  "jtwyslljy|21452664064238123597390842699142394435745240994891213872750074390172982581047": {
+   "leader": "jtwyslljy",
+   "asset": "21452664064238123597390842699142394435745240994891213872750074390172982581047",
+   "condition_id": "0xda66308efe02a16d74fb64e910b5cd74ee54d2ffc3c5ab3dd79a41b327db7202",
+   "title": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
+   "outcome": "Natus Vincere",
+   "slug": "lol-gx-navi-2026-09-11",
+   "shares": 2854.02,
+   "cost": 1512.6306,
+   "max_shares": 2854.02,
+   "last_trade_ts": 1789149625
   }
  },
  "positions": [],
@@ -38846,8 +38865,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-11T18:00:59.309254+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T15:00:00+00:00",
+   "condition_id": "0xda66308efe02a16d74fb64e910b5cd74ee54d2ffc3c5ab3dd79a41b327db7202",
+   "asset": "21452664064238123597390842699142394435745240994891213872750074390172982581047",
+   "copy_delay_min": 0.5,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T16:05:25.381924+00:00"
+ "last_updated": "2026-09-11T18:00:59.309731+00:00"
 }
