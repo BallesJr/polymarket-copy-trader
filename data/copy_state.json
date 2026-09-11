@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9167.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789091602,
+  "jtwyslljy": 1789092339,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14460,6 +14460,13 @@
    "BUY",
    10000,
    1789091602
+  ],
+  [
+   "0x8353dc38791da2a6eb2f3749a402268cb95419abd557ef58ebae4914bc8363b1",
+   "60714945465284627673396057412095344218108370152729850374155033675753062700643",
+   "BUY",
+   2300,
+   1789092339
   ]
  ],
  "leader_pos": {
@@ -23914,10 +23921,10 @@
    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "outcome": "Elena Rybakina",
    "slug": "wta-gauff-rybakin-2026-09-10",
-   "shares": 10000.0,
-   "cost": 3320.4358,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1789091602
+   "shares": 12300.0,
+   "cost": 4539.4358,
+   "max_shares": 12300.0,
+   "last_trade_ts": 1789092339
   }
  },
  "positions": [],
@@ -38726,8 +38733,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "outcome": "Elena Rybakina"
+  },
+  {
+   "at": "2026-09-11T02:15:31.097734+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T00:55:00+00:00",
+   "condition_id": "0xa85e45264f68b269b379d480fb3cf8b7e52ec9124ce9afff4aea19adabfa8402",
+   "asset": "60714945465284627673396057412095344218108370152729850374155033675753062700643",
+   "copy_delay_min": 9.9,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
+   "outcome": "Elena Rybakina"
   }
  ],
  "total_pnl": -832.0948999999994,
- "last_updated": "2026-09-11T02:00:56.817800+00:00"
+ "last_updated": "2026-09-11T02:15:31.098277+00:00"
 }
