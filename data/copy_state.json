@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789149625,
+  "jtwyslljy": 1789151497,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14509,6 +14509,13 @@
    "BUY",
    2854.02,
    1789149625
+  ],
+  [
+   "0xf672c8bfc765dd76fcb65cee914463ec3a0a7864e12e5400223cc185db0708c7",
+   "53423516960872216897389736722500501384145233888857864498960635183108672859110",
+   "BUY",
+   11989.57,
+   1789151497
   ]
  ],
  "leader_pos": {
@@ -24003,6 +24010,18 @@
    "cost": 1512.6306,
    "max_shares": 2854.02,
    "last_trade_ts": 1789149625
+  },
+  "jtwyslljy|53423516960872216897389736722500501384145233888857864498960635183108672859110": {
+   "leader": "jtwyslljy",
+   "asset": "53423516960872216897389736722500501384145233888857864498960635183108672859110",
+   "condition_id": "0x473f04943f45bec86c85532e4ecff3fc2b6110d637aa9d7d5aa317126b9b66a7",
+   "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
+   "outcome": "GIANTX",
+   "slug": "lol-gx-navi-2026-09-11",
+   "shares": 11989.57,
+   "cost": 5635.0979,
+   "max_shares": 11989.57,
+   "last_trade_ts": 1789151497
   }
  },
  "positions": [],
@@ -38881,8 +38900,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-11T18:35:29.982556+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T15:00:00+00:00",
+   "condition_id": "0x473f04943f45bec86c85532e4ecff3fc2b6110d637aa9d7d5aa317126b9b66a7",
+   "asset": "53423516960872216897389736722500501384145233888857864498960635183108672859110",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
+   "outcome": "GIANTX"
   }
  ],
  "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T18:00:59.309731+00:00"
+ "last_updated": "2026-09-11T18:35:29.983074+00:00"
 }
