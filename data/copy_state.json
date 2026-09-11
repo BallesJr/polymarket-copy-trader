@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789124860,
+  "jtwyslljy": 1789125063,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14488,6 +14488,13 @@
    "SELL",
    517.92,
    1789124860
+  ],
+  [
+   "0x6bf0b83552fb99ed37170642debac37ca59e05c8b4d71fbfd0a2eaebc0370b00",
+   "22761517256757923260519354318568260642487312951155221807854594028150598677243",
+   "SELL",
+   2777.84,
+   1789125063
   ]
  ],
  "leader_pos": {
@@ -23954,10 +23961,10 @@
    "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
    "outcome": "FURIA",
    "slug": "cs2-furia-g2-2026-09-11",
-   "shares": 19482.08,
-   "cost": 9554.9824,
+   "shares": 16704.24,
+   "cost": 9027.1928,
    "max_shares": 20000.0,
-   "last_trade_ts": 1789124860
+   "last_trade_ts": 1789125063
   }
  },
  "positions": [
@@ -38804,5 +38811,5 @@
   }
  ],
  "total_pnl": -832.0948999999994,
- "last_updated": "2026-09-11T11:10:34.180916+00:00"
+ "last_updated": "2026-09-11T11:15:33.886986+00:00"
 }
