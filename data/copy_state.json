@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9067.905330199996,
+ "bankroll": 8967.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789154626,
+  "jtwyslljy": 1789155153,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14565,6 +14565,20 @@
    "SELL",
    394.3,
    1789154626
+  ],
+  [
+   "0x7d0e683344f3194283b190ee7b72d3182b2d5c50b274c7fa9f7ea58271290f49",
+   "111188403514689743854952820966953581164644767821751700660601373167842495812694",
+   "BUY",
+   3000,
+   1789155096
+  ],
+  [
+   "0xd08be0d842a0ca8210bcbd34c5247776f0d889d16c3353595eb27c2d3c54dd56",
+   "9902590308180059157602801691403795112701137708439376125733204024368286688320",
+   "BUY",
+   5000,
+   1789155153
   ]
  ],
  "leader_pos": {
@@ -24071,9 +24085,52 @@
    "cost": 6920.695900000001,
    "max_shares": 14824.01,
    "last_trade_ts": 1789151862
+  },
+  "jtwyslljy|111188403514689743854952820966953581164644767821751700660601373167842495812694": {
+   "leader": "jtwyslljy",
+   "asset": "111188403514689743854952820966953581164644767821751700660601373167842495812694",
+   "condition_id": "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7",
+   "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-khachan-2026-09-11",
+   "shares": 3000.0,
+   "cost": 2490.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1789155096
+  },
+  "jtwyslljy|9902590308180059157602801691403795112701137708439376125733204024368286688320": {
+   "leader": "jtwyslljy",
+   "asset": "9902590308180059157602801691403795112701137708439376125733204024368286688320",
+   "condition_id": "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474",
+   "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-tiafoe-shelton-2026-09-11",
+   "shares": 5000.0,
+   "cost": 3650.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1789155153
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "9902590308180059157602801691403795112701137708439376125733204024368286688320",
+   "condition_id": "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474",
+   "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-tiafoe-shelton-2026-09-11",
+   "opened_at": "2026-09-11T19:40:45.438113+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 3650.0,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.73,
+   "ask_depth": 166678.03,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39029,8 +39086,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-11T19:40:45.617357+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T19:05:00+00:00",
+   "condition_id": "0x9de7b05be5b5ee9ac186a60f558de8d3bcabe74a383c01dd0dd3a426e64240d7",
+   "asset": "111188403514689743854952820966953581164644767821751700660601373167842495812694",
+   "copy_delay_min": 9.1,
+   "cf_ask": 0.81,
+   "cf_shares": 123.4568,
+   "cf_cost": 100.0,
+   "cf_entry": 0.81,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
+   "outcome": "Alexander Zverev"
   }
  ],
  "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T19:30:45.377073+00:00"
+ "last_updated": "2026-09-11T19:40:45.787407+00:00"
 }
