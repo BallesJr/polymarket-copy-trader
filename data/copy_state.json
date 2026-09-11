@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789154032,
+  "jtwyslljy": 1789154626,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14558,6 +14558,13 @@
    "SELL",
    1416.65,
    1789154032
+  ],
+  [
+   "0xed44ea4a47c1f0c7dea1f0535deb41db67bb0a746548230d091868912b23cc26",
+   "81154762383886750849346464637420685658596443508080190844659953380399026897948",
+   "SELL",
+   394.3,
+   1789154626
   ]
  ],
  "leader_pos": {
@@ -24036,10 +24043,10 @@
    "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
    "outcome": "Natus Vincere",
    "slug": "lol-gx-navi-2026-09-11",
-   "shares": 26542.079999999998,
-   "cost": 19613.7274991255,
+   "shares": 26147.78,
+   "cost": 19270.6864991255,
    "max_shares": 29650.73,
-   "last_trade_ts": 1789154032
+   "last_trade_ts": 1789154626
   },
   "jtwyslljy|21452664064238123597390842699142394435745240994891213872750074390172982581047": {
    "leader": "jtwyslljy",
@@ -39006,8 +39013,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-11T19:30:45.376426+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T15:00:00+00:00",
+   "condition_id": "0x473f04943f45bec86c85532e4ecff3fc2b6110d637aa9d7d5aa317126b9b66a7",
+   "asset": "81154762383886750849346464637420685658596443508080190844659953380399026897948",
+   "copy_delay_min": 7.0,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T19:15:34.512815+00:00"
+ "last_updated": "2026-09-11T19:30:45.377073+00:00"
 }
