@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9011.655330199996,
+ "bankroll": 9167.905330199996,
  "last_seen": {
   "jtwyslljy": 1789065891,
   "0x53757615de": 1787221213
@@ -23901,26 +23901,7 @@
    "last_trade_ts": 1789065891
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "24838578383896310495631967354953516965298852227920758446192737943290786084635",
-   "condition_id": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
-   "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
-   "outcome": "Aryna Sabalenka",
-   "slug": "wta-sabalen-pegula-2026-09-10",
-   "opened_at": "2026-09-10T18:00:57.284339+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 4480.0,
-   "copy_delay_min": 5.7,
-   "best_ask": 0.64,
-   "ask_depth": 120176.93,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -33505,6 +33486,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24838578383896310495631967354953516965298852227920758446192737943290786084635",
+   "condition_id": "0xf82a452fbba33edb6557d7091e0bd2a36d1e3af89b69b1f0f3ea705f498b4698",
+   "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
+   "outcome": "Aryna Sabalenka",
+   "slug": "wta-sabalen-pegula-2026-09-10",
+   "opened_at": "2026-09-10T18:00:57.284339+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 4480.0,
+   "copy_delay_min": 5.7,
+   "best_ask": 0.64,
+   "ask_depth": 120176.93,
+   "status": "won",
+   "closed_at": "2026-09-11T01:20:33.079699+00:00",
+   "exit_price": 1.0,
+   "pnl": 56.25,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -38690,6 +38693,6 @@
    "outcome": "Yes"
   }
  ],
- "total_pnl": -888.3448999999994,
- "last_updated": "2026-09-10T21:25:26.665034+00:00"
+ "total_pnl": -832.0948999999994,
+ "last_updated": "2026-09-11T01:20:33.081525+00:00"
 }
