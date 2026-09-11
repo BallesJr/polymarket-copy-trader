@@ -23967,26 +23967,7 @@
    "last_trade_ts": 1789125063
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "22761517256757923260519354318568260642487312951155221807854594028150598677243",
-   "condition_id": "0x37dbcff6bdd59e476c858c9eb542fc6294ac627a15d91de0ae246f9a4361a08d",
-   "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
-   "outcome": "FURIA",
-   "slug": "cs2-furia-g2-2026-09-11",
-   "opened_at": "2026-09-11T08:25:24.778910+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 5800.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.58,
-   "ask_depth": 35389.26,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -33593,6 +33574,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22761517256757923260519354318568260642487312951155221807854594028150598677243",
+   "condition_id": "0x37dbcff6bdd59e476c858c9eb542fc6294ac627a15d91de0ae246f9a4361a08d",
+   "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-g2-2026-09-11",
+   "opened_at": "2026-09-11T08:25:24.778910+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 5800.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.58,
+   "ask_depth": 35389.26,
+   "status": "lost",
+   "closed_at": "2026-09-11T12:10:33.555904+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -38810,6 +38813,6 @@
    "outcome": "Elena Rybakina"
   }
  ],
- "total_pnl": -832.0948999999994,
- "last_updated": "2026-09-11T11:15:33.886986+00:00"
+ "total_pnl": -932.0948999999994,
+ "last_updated": "2026-09-11T12:10:33.557887+00:00"
 }
