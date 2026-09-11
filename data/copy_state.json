@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9067.905330199996,
  "last_seen": {
-  "jtwyslljy": 1789125063,
+  "jtwyslljy": 1789142521,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14495,6 +14495,13 @@
    "SELL",
    2777.84,
    1789125063
+  ],
+  [
+   "0xea7040c7e38b817f4e86f8a0529dee10f36ecefecfdcea474e7aa87dc2fef8a5",
+   "81154762383886750849346464637420685658596443508080190844659953380399026897948",
+   "BUY",
+   4921.43,
+   1789142521
   ]
  ],
  "leader_pos": {
@@ -23965,6 +23972,18 @@
    "cost": 9027.1928,
    "max_shares": 20000.0,
    "last_trade_ts": 1789125063
+  },
+  "jtwyslljy|81154762383886750849346464637420685658596443508080190844659953380399026897948": {
+   "leader": "jtwyslljy",
+   "asset": "81154762383886750849346464637420685658596443508080190844659953380399026897948",
+   "condition_id": "0x473f04943f45bec86c85532e4ecff3fc2b6110d637aa9d7d5aa317126b9b66a7",
+   "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
+   "outcome": "Natus Vincere",
+   "slug": "lol-gx-navi-2026-09-11",
+   "shares": 4921.43,
+   "cost": 3789.5011000000004,
+   "max_shares": 4921.43,
+   "last_trade_ts": 1789142521
   }
  },
  "positions": [],
@@ -38811,8 +38830,24 @@
    "leader": "jtwyslljy",
    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "outcome": "Elena Rybakina"
+  },
+  {
+   "at": "2026-09-11T16:05:25.381284+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-11T15:00:00+00:00",
+   "condition_id": "0x473f04943f45bec86c85532e4ecff3fc2b6110d637aa9d7d5aa317126b9b66a7",
+   "asset": "81154762383886750849346464637420685658596443508080190844659953380399026897948",
+   "copy_delay_min": 3.4,
+   "cf_ask": 0.81,
+   "cf_shares": 123.4568,
+   "cf_cost": 100.0,
+   "cf_entry": 0.81,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: GIANTX vs Natus Vincere (BO5) - LEC Playoffs",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T12:10:33.557887+00:00"
+ "last_updated": "2026-09-11T16:05:25.381924+00:00"
 }
