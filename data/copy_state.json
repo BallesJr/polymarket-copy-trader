@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9004.891630199996,
  "last_seen": {
-  "jtwyslljy": 1789210455,
+  "jtwyslljy": 1789220929,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14614,6 +14614,20 @@
    "BUY",
    4000,
    1789210455
+  ],
+  [
+   "0x03f468e206b8b6c319a4d9755606e1dd6032afffdb39c6c679541dfc16f920ed",
+   "16366698950196598716681858663809384555875072025205059329422753308343230597015",
+   "BUY",
+   140000,
+   1789220799
+  ],
+  [
+   "0xaf26203a4cc9233b7df89d01b98351ed457eb0ef89dc3eb1a5e0294edcff1433",
+   "43796277693639917481204161560924000086051978516072847838606160323516808669450",
+   "SELL",
+   5000,
+   1789220929
   ]
  ],
  "leader_pos": {
@@ -24188,10 +24202,10 @@
    "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
    "outcome": "Anyones Legend",
    "slug": "lol-al-ig1-2026-09-12",
-   "shares": 110.0,
-   "cost": 38.5,
+   "shares": -4890.0,
+   "cost": -4956.5,
    "max_shares": 110.0,
-   "last_trade_ts": 1789207701
+   "last_trade_ts": 1789220929
   },
   "jtwyslljy|616570729029951893685169527540250884567159576183493134116442262526202566143": {
    "leader": "jtwyslljy",
@@ -24204,6 +24218,18 @@
    "cost": 2560.0,
    "max_shares": 4000.0,
    "last_trade_ts": 1789210455
+  },
+  "jtwyslljy|16366698950196598716681858663809384555875072025205059329422753308343230597015": {
+   "leader": "jtwyslljy",
+   "asset": "16366698950196598716681858663809384555875072025205059329422753308343230597015",
+   "condition_id": "0x88d3568d16cd610174bbf2c66978f16008f3e66fc6a431b853ae24b1491efed1",
+   "title": "Will Chelsea FC win on 2026-09-12?",
+   "outcome": "No",
+   "slug": "epl-che-hul-2026-09-12",
+   "shares": 140000.0,
+   "cost": 28000.0,
+   "max_shares": 140000.0,
+   "last_trade_ts": 1789220799
   }
  },
  "positions": [
@@ -39267,8 +39293,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
    "outcome": "Invictus Gaming"
+  },
+  {
+   "at": "2026-09-12T14:00:57.036619+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-12T14:00:00+00:00",
+   "condition_id": "0x88d3568d16cd610174bbf2c66978f16008f3e66fc6a431b853ae24b1491efed1",
+   "asset": "16366698950196598716681858663809384555875072025205059329422753308343230597015",
+   "copy_delay_min": 14.3,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Chelsea FC win on 2026-09-12?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -895.1085999999993,
- "last_updated": "2026-09-12T10:55:24.806036+00:00"
+ "last_updated": "2026-09-12T14:00:57.279784+00:00"
 }
