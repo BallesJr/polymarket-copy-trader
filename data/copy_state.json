@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9104.891630199996,
  "last_seen": {
-  "jtwyslljy": 1789193829,
+  "jtwyslljy": 1789207237,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14593,6 +14593,13 @@
    "BUY",
    3000,
    1789193829
+  ],
+  [
+   "0x9d77dd9a69f99fb8d3471921d61fab565a029a253ab22c5647c9b468bcf2015c",
+   "52499756193617799721109124747350060700579504954445797565760804853719823977537",
+   "BUY",
+   861.57,
+   1789207237
   ]
  ],
  "leader_pos": {
@@ -24147,6 +24154,18 @@
    "cost": 2280.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1789193829
+  },
+  "jtwyslljy|52499756193617799721109124747350060700579504954445797565760804853719823977537": {
+   "leader": "jtwyslljy",
+   "asset": "52499756193617799721109124747350060700579504954445797565760804853719823977537",
+   "condition_id": "0xb2fd66392d5a77665b92c555c5343c740c8edebc1394eb6530b71f0ccfa861f3",
+   "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+   "outcome": "Invictus Gaming",
+   "slug": "lol-al-ig1-2026-09-12",
+   "shares": 861.57,
+   "cost": 594.4833,
+   "max_shares": 861.57,
+   "last_trade_ts": 1789207237
   }
  },
  "positions": [],
@@ -39175,8 +39194,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
    "outcome": "Hanwha Life Esports"
+  },
+  {
+   "at": "2026-09-12T10:10:36.180326+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-12T09:00:00+00:00",
+   "condition_id": "0xb2fd66392d5a77665b92c555c5343c740c8edebc1394eb6530b71f0ccfa861f3",
+   "asset": "52499756193617799721109124747350060700579504954445797565760804853719823977537",
+   "copy_delay_min": 10.0,
+   "cf_ask": 0.67,
+   "cf_shares": 148.0147,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6756,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+   "outcome": "Invictus Gaming"
   }
  ],
  "total_pnl": -895.1085999999993,
- "last_updated": "2026-09-12T06:25:29.115217+00:00"
+ "last_updated": "2026-09-12T10:10:36.180884+00:00"
 }
