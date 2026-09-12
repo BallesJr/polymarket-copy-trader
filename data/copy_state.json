@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9161.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789220929,
+  "jtwyslljy": 1789231195,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14628,6 +14628,13 @@
    "SELL",
    5000,
    1789220929
+  ],
+  [
+   "0x2d93e5158589d0cd4e9d9b12e30b367883d22eb8de1333162a53ecdb27337655",
+   "18011649576245006354585809735965144448118703899482328412586216854430716363905",
+   "BUY",
+   8000,
+   1789231195
   ]
  ],
  "leader_pos": {
@@ -24230,6 +24237,18 @@
    "cost": 28000.0,
    "max_shares": 140000.0,
    "last_trade_ts": 1789220799
+  },
+  "jtwyslljy|18011649576245006354585809735965144448118703899482328412586216854430716363905": {
+   "leader": "jtwyslljy",
+   "asset": "18011649576245006354585809735965144448118703899482328412586216854430716363905",
+   "condition_id": "0xdd215549ed3a461f12a889f7e36937b5e22af722a63161f0bf87c8c059d328af",
+   "title": "Will Tottenham Hotspur FC win on 2026-09-12?",
+   "outcome": "No",
+   "slug": "epl-tot-eve-2026-09-12",
+   "shares": 8000.0,
+   "cost": 3833.6909,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1789231195
   }
  },
  "positions": [],
@@ -39312,8 +39331,24 @@
    "leader": "jtwyslljy",
    "title": "Will Chelsea FC win on 2026-09-12?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-12T16:45:32.714535+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-12T16:30:00+00:00",
+   "condition_id": "0xdd215549ed3a461f12a889f7e36937b5e22af722a63161f0bf87c8c059d328af",
+   "asset": "18011649576245006354585809735965144448118703899482328412586216854430716363905",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Tottenham Hotspur FC win on 2026-09-12?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -838.8585999999993,
- "last_updated": "2026-09-12T15:15:33.756696+00:00"
+ "last_updated": "2026-09-12T16:45:32.715037+00:00"
 }
