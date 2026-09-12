@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9104.891630199996,
  "last_seen": {
-  "jtwyslljy": 1789193295,
+  "jtwyslljy": 1789193829,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14586,6 +14586,13 @@
    "BUY",
    5878.6,
    1789193295
+  ],
+  [
+   "0x5c304d2eab8274d9082f000757524e62fa584014baa3be99f1b1a81233f45b25",
+   "48695112555672485727777248446585038036780756395855109591575492967792057631373",
+   "BUY",
+   3000,
+   1789193829
   ]
  ],
  "leader_pos": {
@@ -24128,6 +24135,18 @@
    "cost": 4056.234,
    "max_shares": 5878.6,
    "last_trade_ts": 1789193295
+  },
+  "jtwyslljy|48695112555672485727777248446585038036780756395855109591575492967792057631373": {
+   "leader": "jtwyslljy",
+   "asset": "48695112555672485727777248446585038036780756395855109591575492967792057631373",
+   "condition_id": "0x1d38c2172d410b833739d7cc834e62e07b0a82d631f0f2c89f10a9fbfa6f3960",
+   "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+   "outcome": "Hanwha Life Esports",
+   "slug": "lol-hle1-t1-2026-09-12",
+   "shares": 3000.0,
+   "cost": 2280.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1789193829
   }
  },
  "positions": [],
@@ -39140,8 +39159,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
    "outcome": "Legacy"
+  },
+  {
+   "at": "2026-09-12T06:25:29.114610+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-12T05:00:00+00:00",
+   "condition_id": "0x1d38c2172d410b833739d7cc834e62e07b0a82d631f0f2c89f10a9fbfa6f3960",
+   "asset": "48695112555672485727777248446585038036780756395855109591575492967792057631373",
+   "copy_delay_min": 8.3,
+   "cf_ask": 0.75,
+   "cf_shares": 133.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.75,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+   "outcome": "Hanwha Life Esports"
   }
  ],
  "total_pnl": -895.1085999999993,
- "last_updated": "2026-09-12T06:20:31.215577+00:00"
+ "last_updated": "2026-09-12T06:25:29.115217+00:00"
 }
