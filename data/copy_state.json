@@ -24291,26 +24291,7 @@
    "last_trade_ts": 1789237341
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "36866363611629749260365778277972959281937299705394459031791435087608351502399",
-   "condition_id": "0xfca8efe0762f25602fcaae551f6fbc6416f7061db1ddd87ac3b3f29bf6edcd78",
-   "title": "Will Arsenal FC win on 2026-09-12?",
-   "outcome": "No",
-   "slug": "epl-sun-ars-2026-09-12",
-   "opened_at": "2026-09-12T18:20:33.207562+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 32122.22,
-   "copy_delay_min": 7.3,
-   "best_ask": 0.4,
-   "ask_depth": 244450.59,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -33983,6 +33964,28 @@
    "exit_price": 1.0,
    "pnl": 56.25,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36866363611629749260365778277972959281937299705394459031791435087608351502399",
+   "condition_id": "0xfca8efe0762f25602fcaae551f6fbc6416f7061db1ddd87ac3b3f29bf6edcd78",
+   "title": "Will Arsenal FC win on 2026-09-12?",
+   "outcome": "No",
+   "slug": "epl-sun-ars-2026-09-12",
+   "opened_at": "2026-09-12T18:20:33.207562+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 32122.22,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.4,
+   "ask_depth": 244450.59,
+   "status": "lost",
+   "closed_at": "2026-09-12T21:45:34.047662+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -39408,6 +39411,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -838.8585999999993,
- "last_updated": "2026-09-12T18:30:50.919972+00:00"
+ "total_pnl": -938.8585999999993,
+ "last_updated": "2026-09-12T21:45:34.049233+00:00"
 }
