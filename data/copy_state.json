@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9104.891630199996,
+ "bankroll": 9004.891630199996,
  "last_seen": {
-  "jtwyslljy": 1789207701,
+  "jtwyslljy": 1789210455,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14607,6 +14607,13 @@
    "BUY",
    110,
    1789207701
+  ],
+  [
+   "0x836899c1f607874c21812f3b1c9e810af08ebf92b3f4f0ebaff7ad0241644be5",
+   "616570729029951893685169527540250884567159576183493134116442262526202566143",
+   "BUY",
+   4000,
+   1789210455
   ]
  ],
  "leader_pos": {
@@ -24185,9 +24192,40 @@
    "cost": 38.5,
    "max_shares": 110.0,
    "last_trade_ts": 1789207701
+  },
+  "jtwyslljy|616570729029951893685169527540250884567159576183493134116442262526202566143": {
+   "leader": "jtwyslljy",
+   "asset": "616570729029951893685169527540250884567159576183493134116442262526202566143",
+   "condition_id": "0x115a4cbd340377fccae7a46f133565a791058aa467e6b4de6c6a75fac35cff47",
+   "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "G2",
+   "slug": "cs2-bb3-g2-2026-09-12",
+   "shares": 4000.0,
+   "cost": 2560.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1789210455
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "616570729029951893685169527540250884567159576183493134116442262526202566143",
+   "condition_id": "0x115a4cbd340377fccae7a46f133565a791058aa467e6b4de6c6a75fac35cff47",
+   "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "G2",
+   "slug": "cs2-bb3-g2-2026-09-12",
+   "opened_at": "2026-09-12T10:55:24.658533+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 2560.0,
+   "copy_delay_min": 1.1,
+   "best_ask": 0.64,
+   "ask_depth": 24089.05,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39232,5 +39270,5 @@
   }
  ],
  "total_pnl": -895.1085999999993,
- "last_updated": "2026-09-12T10:15:29.876716+00:00"
+ "last_updated": "2026-09-12T10:55:24.806036+00:00"
 }
