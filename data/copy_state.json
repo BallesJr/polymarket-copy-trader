@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8967.905330199996,
+ "bankroll": 9104.891630199996,
  "last_seen": {
   "jtwyslljy": 1789155153,
   "0x53757615de": 1787221213
@@ -24111,26 +24111,7 @@
    "last_trade_ts": 1789155153
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "9902590308180059157602801691403795112701137708439376125733204024368286688320",
-   "condition_id": "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474",
-   "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
-   "outcome": "Ben Shelton",
-   "slug": "atp-tiafoe-shelton-2026-09-11",
-   "opened_at": "2026-09-11T19:40:45.438113+00:00",
-   "entry_price": 0.73,
-   "shares": 136.9863,
-   "stake": 100.0,
-   "leader_vwap": 0.73,
-   "leader_cost": 3650.0,
-   "copy_delay_min": 8.2,
-   "best_ask": 0.73,
-   "ask_depth": 166678.03,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -33759,6 +33740,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "9902590308180059157602801691403795112701137708439376125733204024368286688320",
+   "condition_id": "0x3e7b0b572b56b0b4d607fed4289f89e4c6fe99b5cb9affe978de57dae1091474",
+   "title": "US Open ATP: Frances Tiafoe vs Ben Shelton",
+   "outcome": "Ben Shelton",
+   "slug": "atp-tiafoe-shelton-2026-09-11",
+   "opened_at": "2026-09-11T19:40:45.438113+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 3650.0,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.73,
+   "ask_depth": 166678.03,
+   "status": "won",
+   "closed_at": "2026-09-12T03:45:33.241324+00:00",
+   "exit_price": 1.0,
+   "pnl": 36.9863,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -39104,6 +39107,6 @@
    "outcome": "Alexander Zverev"
   }
  ],
- "total_pnl": -932.0948999999994,
- "last_updated": "2026-09-11T19:40:45.787407+00:00"
+ "total_pnl": -895.1085999999993,
+ "last_updated": "2026-09-12T03:45:33.242945+00:00"
 }
