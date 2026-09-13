@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8861.141630199996,
+ "bankroll": 8761.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789321501,
+  "jtwyslljy": 1789321747,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14789,6 +14789,13 @@
    "BUY",
    12000,
    1789321501
+  ],
+  [
+   "0xde0ce5e957d3683e8867210e6b3773848232ae394661906284e2075304b93572",
+   "5090439485543584670417091605580443899264780610266032467116139746620757070203",
+   "BUY",
+   18000,
+   1789321747
   ]
  ],
  "leader_pos": {
@@ -24511,9 +24518,40 @@
    "cost": 6401.002600350374,
    "max_shares": 42781.09,
    "last_trade_ts": 1789321501
+  },
+  "jtwyslljy|5090439485543584670417091605580443899264780610266032467116139746620757070203": {
+   "leader": "jtwyslljy",
+   "asset": "5090439485543584670417091605580443899264780610266032467116139746620757070203",
+   "condition_id": "0x40bd007c3bf433b3ab9f9dc3904b61099a0daec0dbd9127ec4ecd508b3e05746",
+   "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-shelton-2026-09-13",
+   "shares": 18000.0,
+   "cost": 10620.0,
+   "max_shares": 18000.0,
+   "last_trade_ts": 1789321747
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "5090439485543584670417091605580443899264780610266032467116139746620757070203",
+   "condition_id": "0x40bd007c3bf433b3ab9f9dc3904b61099a0daec0dbd9127ec4ecd508b3e05746",
+   "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-shelton-2026-09-13",
+   "opened_at": "2026-09-13T17:55:28.935159+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.59,
+   "leader_cost": 10620.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.59,
+   "ask_depth": 1377813.82,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39806,5 +39844,5 @@
   }
  ],
  "total_pnl": -1138.8585999999993,
- "last_updated": "2026-09-13T17:50:33.030061+00:00"
+ "last_updated": "2026-09-13T17:55:29.250489+00:00"
 }
