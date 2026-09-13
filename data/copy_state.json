@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9061.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789280673,
+  "jtwyslljy": 1789288455,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14670,6 +14670,13 @@
    "BUY",
    3900,
    1789280673
+  ],
+  [
+   "0x15ee34b5e1fb13b4e8afb14cefaa4e5668bf7a6bcecda89793579a1ef38db4e2",
+   "15886812738861059706283411917362837603418664543132145676023456530765598146532",
+   "BUY",
+   3000,
+   1789288455
   ]
  ],
  "leader_pos": {
@@ -24308,6 +24315,18 @@
    "cost": 1599.0,
    "max_shares": 3900.0,
    "last_trade_ts": 1789280673
+  },
+  "jtwyslljy|15886812738861059706283411917362837603418664543132145676023456530765598146532": {
+   "leader": "jtwyslljy",
+   "asset": "15886812738861059706283411917362837603418664543132145676023456530765598146532",
+   "condition_id": "0xee8785f3a126e181735264887c9590ac85b3990032c1a309644b3abdb1a4d10d",
+   "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
+   "outcome": "Bilibili Gaming",
+   "slug": "lol-blg-al-2026-09-13",
+   "shares": 3000.0,
+   "cost": 2520.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1789288455
   }
  },
  "positions": [],
@@ -39444,8 +39463,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
    "outcome": "Gen.G"
+  },
+  {
+   "at": "2026-09-13T09:05:32.287989+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-13T09:00:00+00:00",
+   "condition_id": "0xee8785f3a126e181735264887c9590ac85b3990032c1a309644b3abdb1a4d10d",
+   "asset": "15886812738861059706283411917362837603418664543132145676023456530765598146532",
+   "copy_delay_min": 31.3,
+   "cf_ask": 0.83,
+   "cf_shares": 120.4819,
+   "cf_cost": 100.0,
+   "cf_entry": 0.83,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
+   "outcome": "Bilibili Gaming"
   }
  ],
  "total_pnl": -938.8585999999993,
- "last_updated": "2026-09-13T06:35:26.392058+00:00"
+ "last_updated": "2026-09-13T09:05:32.288573+00:00"
 }
