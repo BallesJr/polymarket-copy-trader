@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8861.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789321192,
+  "jtwyslljy": 1789321501,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14782,6 +14782,13 @@
    "BUY",
    145,
    1789321192
+  ],
+  [
+   "0xdfff9554524eb25a86fde1a20c54245b23dc595daef67cab5e1a2a4fd86f7d0d",
+   "57523127424226766393056633014729010003110199810600081599665311101663846205585",
+   "BUY",
+   12000,
+   1789321501
   ]
  ],
  "leader_pos": {
@@ -24500,10 +24507,10 @@
    "title": "Saints vs. Lions",
    "outcome": "Saints",
    "slug": "nfl-no-det-2026-09-13",
-   "shares": 30781.089999999997,
-   "cost": 4361.002600350374,
-   "max_shares": 30781.089999999997,
-   "last_trade_ts": 1789321192
+   "shares": 42781.09,
+   "cost": 6401.002600350374,
+   "max_shares": 42781.09,
+   "last_trade_ts": 1789321501
   }
  },
  "positions": [
@@ -39777,8 +39784,24 @@
    "leader": "jtwyslljy",
    "title": "Saints vs. Lions",
    "outcome": "Saints"
+  },
+  {
+   "at": "2026-09-13T17:48:52.359755+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-13T17:00:00+00:00",
+   "condition_id": "0x324032a0cc8edfcfe784f984ae68e76b7cc0d9e73e11cfebba5a4ec35274213f",
+   "asset": "57523127424226766393056633014729010003110199810600081599665311101663846205585",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.19,
+   "cf_shares": 502.4205,
+   "cf_cost": 100.0,
+   "cf_entry": 0.199,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Saints vs. Lions",
+   "outcome": "Saints"
   }
  ],
  "total_pnl": -1038.8585999999993,
- "last_updated": "2026-09-13T17:45:41.137246+00:00"
+ "last_updated": "2026-09-13T17:48:52.826164+00:00"
 }
