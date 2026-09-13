@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9061.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789237341,
+  "jtwyslljy": 1789280673,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14663,6 +14663,13 @@
    "BUY",
    45708,
    1789237341
+  ],
+  [
+   "0x31d1c36ab2e72113c6941a430284d31ccf283033811e2df30370fc21253026fe",
+   "103817956732933161538836127905765868132840284628313195331810372637323673160469",
+   "BUY",
+   3900,
+   1789280673
   ]
  ],
  "leader_pos": {
@@ -24289,6 +24296,18 @@
    "cost": 50405.417,
    "max_shares": 130234.65,
    "last_trade_ts": 1789237341
+  },
+  "jtwyslljy|103817956732933161538836127905765868132840284628313195331810372637323673160469": {
+   "leader": "jtwyslljy",
+   "asset": "103817956732933161538836127905765868132840284628313195331810372637323673160469",
+   "condition_id": "0x46f85d23512a796332a4f560228c5ee9c5d037dce3587a9333ee9c028630b2e2",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+   "outcome": "Gen.G",
+   "slug": "lol-gen-hle1-2026-09-13",
+   "shares": 3900.0,
+   "cost": 1599.0,
+   "max_shares": 3900.0,
+   "last_trade_ts": 1789280673
   }
  },
  "positions": [],
@@ -39409,8 +39428,24 @@
    "leader": "jtwyslljy",
    "title": "Will Tottenham Hotspur FC win on 2026-09-12?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-13T06:35:26.391503+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-13T05:00:00+00:00",
+   "condition_id": "0x46f85d23512a796332a4f560228c5ee9c5d037dce3587a9333ee9c028630b2e2",
+   "asset": "103817956732933161538836127905765868132840284628313195331810372637323673160469",
+   "copy_delay_min": 10.9,
+   "cf_ask": 0.41,
+   "cf_shares": 243.9024,
+   "cf_cost": 100.0,
+   "cf_entry": 0.41,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+   "outcome": "Gen.G"
   }
  ],
  "total_pnl": -938.8585999999993,
- "last_updated": "2026-09-12T21:45:34.049233+00:00"
+ "last_updated": "2026-09-13T06:35:26.392058+00:00"
 }
