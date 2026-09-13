@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9061.141630199996,
  "last_seen": {
-  "jtwyslljy": 1789288455,
+  "jtwyslljy": 1789291872,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14677,6 +14677,13 @@
    "BUY",
    3000,
    1789288455
+  ],
+  [
+   "0x871bb5d127a9afd8dbe82963b07221c2870802a4b7bed294e4467ea4f12214bd",
+   "105320590863860686661500698984436602282345220193915946011909975596333604958961",
+   "BUY",
+   3000,
+   1789291872
   ]
  ],
  "leader_pos": {
@@ -24327,6 +24334,18 @@
    "cost": 2520.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1789288455
+  },
+  "jtwyslljy|105320590863860686661500698984436602282345220193915946011909975596333604958961": {
+   "leader": "jtwyslljy",
+   "asset": "105320590863860686661500698984436602282345220193915946011909975596333604958961",
+   "condition_id": "0x3913e31a1c1919d956d07ae7d14d4c203e5d8455d735a9f24612bd88e2755f21",
+   "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "Legacy",
+   "slug": "cs2-g2-lgc-2026-09-13",
+   "shares": 3000.0,
+   "cost": 1560.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1789291872
   }
  },
  "positions": [],
@@ -39479,8 +39498,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
    "outcome": "Bilibili Gaming"
+  },
+  {
+   "at": "2026-09-13T09:35:31.822654+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-13T09:10:00+00:00",
+   "condition_id": "0x3913e31a1c1919d956d07ae7d14d4c203e5d8455d735a9f24612bd88e2755f21",
+   "asset": "105320590863860686661500698984436602282345220193915946011909975596333604958961",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
+   "outcome": "Legacy"
   }
  ],
  "total_pnl": -938.8585999999993,
- "last_updated": "2026-09-13T09:05:32.288573+00:00"
+ "last_updated": "2026-09-13T09:35:31.823243+00:00"
 }
