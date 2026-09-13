@@ -24417,24 +24417,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "71704564140769680625285938215314253341902780696173968976579892706644426412976",
-   "condition_id": "0x9db068aee7f73522b83e40711fffe5cb490182e354846933dcf29a28f1b72082",
-   "title": "Will FC Barcelona win on 2026-09-13?",
-   "outcome": "No",
-   "slug": "lal-lev-bar-2026-09-13",
-   "opened_at": "2026-09-13T13:01:01.158433+00:00",
-   "entry_price": 0.17,
-   "shares": 588.2353,
-   "stake": 100.0,
-   "leader_vwap": 0.17,
-   "leader_cost": 22679.82,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.17,
-   "ask_depth": 22428.64,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "2925646284228332353240870856530921365212625172530313427510477777845793794604",
    "condition_id": "0xfea1799a95cf212c9128cf905f498bc2d9addfa8003f3729630d60f4e657d600",
    "title": "Will Manchester City FC win on 2026-09-13?",
@@ -34146,6 +34128,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71704564140769680625285938215314253341902780696173968976579892706644426412976",
+   "condition_id": "0x9db068aee7f73522b83e40711fffe5cb490182e354846933dcf29a28f1b72082",
+   "title": "Will FC Barcelona win on 2026-09-13?",
+   "outcome": "No",
+   "slug": "lal-lev-bar-2026-09-13",
+   "opened_at": "2026-09-13T13:01:01.158433+00:00",
+   "entry_price": 0.17,
+   "shares": 588.2353,
+   "stake": 100.0,
+   "leader_vwap": 0.17,
+   "leader_cost": 22679.82,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.17,
+   "ask_depth": 22428.64,
+   "status": "lost",
+   "closed_at": "2026-09-13T16:50:31.147013+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -39635,6 +39639,6 @@
    "outcome": "Bilibili Gaming"
   }
  ],
- "total_pnl": -938.8585999999993,
- "last_updated": "2026-09-13T16:01:01.083516+00:00"
+ "total_pnl": -1038.8585999999993,
+ "last_updated": "2026-09-13T16:50:31.148802+00:00"
 }
