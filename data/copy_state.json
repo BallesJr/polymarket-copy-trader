@@ -24513,26 +24513,7 @@
    "last_trade_ts": 1789321501
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "2925646284228332353240870856530921365212625172530313427510477777845793794604",
-   "condition_id": "0xfea1799a95cf212c9128cf905f498bc2d9addfa8003f3729630d60f4e657d600",
-   "title": "Will Manchester City FC win on 2026-09-13?",
-   "outcome": "No",
-   "slug": "epl-mun-mac-2026-09-13",
-   "opened_at": "2026-09-13T13:01:01.369698+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 5040.0,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.56,
-   "ask_depth": 42180.08,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34249,6 +34230,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "2925646284228332353240870856530921365212625172530313427510477777845793794604",
+   "condition_id": "0xfea1799a95cf212c9128cf905f498bc2d9addfa8003f3729630d60f4e657d600",
+   "title": "Will Manchester City FC win on 2026-09-13?",
+   "outcome": "No",
+   "slug": "epl-mun-mac-2026-09-13",
+   "opened_at": "2026-09-13T13:01:01.369698+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 5040.0,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.56,
+   "ask_depth": 42180.08,
+   "status": "lost",
+   "closed_at": "2026-09-13T17:50:33.028278+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -39802,6 +39805,6 @@
    "outcome": "Saints"
   }
  ],
- "total_pnl": -1038.8585999999993,
- "last_updated": "2026-09-13T17:48:52.826164+00:00"
+ "total_pnl": -1138.8585999999993,
+ "last_updated": "2026-09-13T17:50:33.030061+00:00"
 }
