@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8761.141630199996,
+ "bankroll": 8930.633130199996,
  "last_seen": {
   "jtwyslljy": 1789321747,
   "0x53757615de": 1787221213
@@ -24532,26 +24532,7 @@
    "last_trade_ts": 1789321747
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "5090439485543584670417091605580443899264780610266032467116139746620757070203",
-   "condition_id": "0x40bd007c3bf433b3ab9f9dc3904b61099a0daec0dbd9127ec4ecd508b3e05746",
-   "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
-   "outcome": "Alexander Zverev",
-   "slug": "atp-zverev-shelton-2026-09-13",
-   "opened_at": "2026-09-13T17:55:28.935159+00:00",
-   "entry_price": 0.59,
-   "shares": 169.4915,
-   "stake": 100.0,
-   "leader_vwap": 0.59,
-   "leader_cost": 10620.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.59,
-   "ask_depth": 1377813.82,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34290,6 +34271,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5090439485543584670417091605580443899264780610266032467116139746620757070203",
+   "condition_id": "0x40bd007c3bf433b3ab9f9dc3904b61099a0daec0dbd9127ec4ecd508b3e05746",
+   "title": "US Open ATP: Alexander Zverev vs Ben Shelton",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-shelton-2026-09-13",
+   "opened_at": "2026-09-13T17:55:28.935159+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.59,
+   "leader_cost": 10620.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.59,
+   "ask_depth": 1377813.82,
+   "status": "won",
+   "closed_at": "2026-09-13T22:35:29.817842+00:00",
+   "exit_price": 1.0,
+   "pnl": 69.4915,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -39843,6 +39846,6 @@
    "outcome": "Saints"
   }
  ],
- "total_pnl": -1138.8585999999993,
- "last_updated": "2026-09-13T17:55:29.250489+00:00"
+ "total_pnl": -1069.3670999999993,
+ "last_updated": "2026-09-13T22:35:29.819884+00:00"
 }
