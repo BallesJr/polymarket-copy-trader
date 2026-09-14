@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8930.633130199996,
  "last_seen": {
-  "jtwyslljy": 1789321747,
+  "jtwyslljy": 1789383430,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14796,6 +14796,13 @@
    "BUY",
    18000,
    1789321747
+  ],
+  [
+   "0xfdcfd6ac44158c5b1c81cb0b266cf500c096acd2f400b02a50eb7cd6d0302e2b",
+   "93590631689965345015711763604932888309596813776839092896819772485319952765754",
+   "BUY",
+   8000,
+   1789383430
   ]
  ],
  "leader_pos": {
@@ -24530,6 +24537,18 @@
    "cost": 10620.0,
    "max_shares": 18000.0,
    "last_trade_ts": 1789321747
+  },
+  "jtwyslljy|93590631689965345015711763604932888309596813776839092896819772485319952765754": {
+   "leader": "jtwyslljy",
+   "asset": "93590631689965345015711763604932888309596813776839092896819772485319952765754",
+   "condition_id": "0x152c08ce9e96bb17f5eb5a44dfa6501c9314688c24499fbb39bfd696a84543f2",
+   "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "Dplus KIA Challengers",
+   "slug": "lol-dkc-ktc-2026-09-14",
+   "shares": 8000.0,
+   "cost": 1760.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1789383430
   }
  },
  "positions": [],
@@ -39844,8 +39863,24 @@
    "leader": "jtwyslljy",
    "title": "Saints vs. Lions",
    "outcome": "Saints"
+  },
+  {
+   "at": "2026-09-14T11:10:53.494870+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-14T08:00:00+00:00",
+   "condition_id": "0x152c08ce9e96bb17f5eb5a44dfa6501c9314688c24499fbb39bfd696a84543f2",
+   "asset": "93590631689965345015711763604932888309596813776839092896819772485319952765754",
+   "copy_delay_min": 13.7,
+   "cf_ask": 0.36,
+   "cf_shares": 272.7273,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3667,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "Dplus KIA Challengers"
   }
  ],
  "total_pnl": -1069.3670999999993,
- "last_updated": "2026-09-13T22:35:29.819884+00:00"
+ "last_updated": "2026-09-14T11:10:53.495429+00:00"
 }
