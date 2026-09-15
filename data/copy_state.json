@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8930.633130199996,
+ "bankroll": 8830.633130199996,
  "last_seen": {
-  "jtwyslljy": 1789462822,
+  "jtwyslljy": 1789485199,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14838,6 +14838,13 @@
    "BUY",
    1307.6,
    1789462822
+  ],
+  [
+   "0xdb0d94e90aec72579efd5734c7a78b989b40fd77ffa2500416202f7790e8cb6a",
+   "62202648498708590000718762161193939131997649903640604421558354360391504904305",
+   "BUY",
+   16800,
+   1789485199
   ]
  ],
  "leader_pos": {
@@ -24608,9 +24615,40 @@
    "cost": 3142.6623999917197,
    "max_shares": 3847.64,
    "last_trade_ts": 1789462822
+  },
+  "jtwyslljy|62202648498708590000718762161193939131997649903640604421558354360391504904305": {
+   "leader": "jtwyslljy",
+   "asset": "62202648498708590000718762161193939131997649903640604421558354360391504904305",
+   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
+   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
+   "outcome": "No",
+   "slug": "lal-ala-val-2026-09-15",
+   "shares": 16800.0,
+   "cost": 6888.0,
+   "max_shares": 16800.0,
+   "last_trade_ts": 1789485199
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "62202648498708590000718762161193939131997649903640604421558354360391504904305",
+   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
+   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
+   "outcome": "No",
+   "slug": "lal-ala-val-2026-09-15",
+   "opened_at": "2026-09-15T15:15:31.019959+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 6888.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.42,
+   "ask_depth": 137813.36,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -40005,5 +40043,5 @@
   }
  ],
  "total_pnl": -1069.3670999999993,
- "last_updated": "2026-09-15T09:05:27.656795+00:00"
+ "last_updated": "2026-09-15T15:15:31.178750+00:00"
 }
