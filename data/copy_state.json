@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8730.633130199996,
+ "bankroll": 8968.728330199996,
  "last_seen": {
   "jtwyslljy": 1789497013,
   "0x53757615de": 1787221213
@@ -24707,24 +24707,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "62202648498708590000718762161193939131997649903640604421558354360391504904305",
-   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
-   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
-   "outcome": "No",
-   "slug": "lal-ala-val-2026-09-15",
-   "opened_at": "2026-09-15T15:15:31.019959+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 6888.0,
-   "copy_delay_min": 2.2,
-   "best_ask": 0.42,
-   "ask_depth": 137813.36,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "34070873903326512308551939806999682036390469897009365763240571813577238015749",
    "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
    "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
@@ -34502,6 +34484,28 @@
    "exit_price": 1.0,
    "pnl": 69.4915,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "62202648498708590000718762161193939131997649903640604421558354360391504904305",
+   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
+   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
+   "outcome": "No",
+   "slug": "lal-ala-val-2026-09-15",
+   "opened_at": "2026-09-15T15:15:31.019959+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 6888.0,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.42,
+   "ask_depth": 137813.36,
+   "status": "won",
+   "closed_at": "2026-09-15T20:20:33.842207+00:00",
+   "exit_price": 1.0,
+   "pnl": 138.0952,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -40135,6 +40139,6 @@
    "outcome": "T1 Academy"
   }
  ],
- "total_pnl": -1069.3670999999993,
- "last_updated": "2026-09-15T18:35:27.016820+00:00"
+ "total_pnl": -931.2718999999993,
+ "last_updated": "2026-09-15T20:20:34.158726+00:00"
 }
