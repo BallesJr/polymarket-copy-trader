@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8930.633130199996,
  "last_seen": {
-  "jtwyslljy": 1789383430,
+  "jtwyslljy": 1789458963,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14803,6 +14803,13 @@
    "BUY",
    8000,
    1789383430
+  ],
+  [
+   "0xae6f785f272b3a21c365f8ae2ec00da1082270d48cc086d4aa19e7cbaf15df16",
+   "109312778750027580706264813688549367832027936227198940618917240061652116359616",
+   "BUY",
+   10000,
+   1789458963
   ]
  ],
  "leader_pos": {
@@ -24549,6 +24556,18 @@
    "cost": 1760.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1789383430
+  },
+  "jtwyslljy|109312778750027580706264813688549367832027936227198940618917240061652116359616": {
+   "leader": "jtwyslljy",
+   "asset": "109312778750027580706264813688549367832027936227198940618917240061652116359616",
+   "condition_id": "0x8099451b29c83e37edcf0322a470a434df179f9cef271c64cca6751c92dd4ad5",
+   "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "KT Rolster Challengers",
+   "slug": "lol-t1a-ktc-2026-09-15",
+   "shares": 10000.0,
+   "cost": 3300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1789458963
   }
  },
  "positions": [],
@@ -39879,8 +39898,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
    "outcome": "Dplus KIA Challengers"
+  },
+  {
+   "at": "2026-09-15T08:00:52.883647+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-15T08:00:00+00:00",
+   "condition_id": "0x8099451b29c83e37edcf0322a470a434df179f9cef271c64cca6751c92dd4ad5",
+   "asset": "109312778750027580706264813688549367832027936227198940618917240061652116359616",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.33,
+   "cf_shares": 301.3235,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3319,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "KT Rolster Challengers"
   }
  ],
  "total_pnl": -1069.3670999999993,
- "last_updated": "2026-09-14T11:10:53.495429+00:00"
+ "last_updated": "2026-09-15T08:00:52.884248+00:00"
 }
