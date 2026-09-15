@@ -24704,26 +24704,7 @@
    "last_trade_ts": 1789496892
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "34070873903326512308551939806999682036390469897009365763240571813577238015749",
-   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
-   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
-   "outcome": "Yes",
-   "slug": "lal-ala-val-2026-09-15",
-   "opened_at": "2026-09-15T16:45:31.910788+00:00",
-   "entry_price": 0.6,
-   "shares": 166.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 2960.05,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.6,
-   "ask_depth": 754949.97,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34506,6 +34487,28 @@
    "exit_price": 1.0,
    "pnl": 138.0952,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "34070873903326512308551939806999682036390469897009365763240571813577238015749",
+   "condition_id": "0x8b01d6dd942c3b18f6ba8606b93ac7531c8a48c2b3e8622c98c707a9a2c251a5",
+   "title": "Will Deportivo Alav\u00e9s win on 2026-09-15?",
+   "outcome": "Yes",
+   "slug": "lal-ala-val-2026-09-15",
+   "opened_at": "2026-09-15T16:45:31.910788+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 2960.05,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.6,
+   "ask_depth": 754949.97,
+   "status": "lost",
+   "closed_at": "2026-09-15T20:25:26.326180+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -40139,6 +40142,6 @@
    "outcome": "T1 Academy"
   }
  ],
- "total_pnl": -931.2718999999993,
- "last_updated": "2026-09-15T20:20:34.158726+00:00"
+ "total_pnl": -1031.2718999999993,
+ "last_updated": "2026-09-15T20:25:26.327852+00:00"
 }
