@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8930.633130199996,
  "last_seen": {
-  "jtwyslljy": 1789458963,
+  "jtwyslljy": 1789460047,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14810,6 +14810,20 @@
    "BUY",
    10000,
    1789458963
+  ],
+  [
+   "0x2af9b9400607c4ae20974fdd41e0f3b64be5f3a5ed797a76663469e373997494",
+   "49966828037876761638483510271595305119978687922951091365015715249798896935158",
+   "BUY",
+   271.52,
+   1789459908
+  ],
+  [
+   "0x5232b9e704cd0c620ac2a129cd6838de6af58421adbce887dbec69cf6ec6d29d",
+   "109312778750027580706264813688549367832027936227198940618917240061652116359616",
+   "SELL",
+   1797.14,
+   1789460047
   ]
  ],
  "leader_pos": {
@@ -24564,10 +24578,22 @@
    "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
    "outcome": "KT Rolster Challengers",
    "slug": "lol-t1a-ktc-2026-09-15",
-   "shares": 10000.0,
-   "cost": 3300.0,
+   "shares": 8202.86,
+   "cost": 2976.46479997092,
    "max_shares": 10000.0,
-   "last_trade_ts": 1789458963
+   "last_trade_ts": 1789460047
+  },
+  "jtwyslljy|49966828037876761638483510271595305119978687922951091365015715249798896935158": {
+   "leader": "jtwyslljy",
+   "asset": "49966828037876761638483510271595305119978687922951091365015715249798896935158",
+   "condition_id": "0x8099451b29c83e37edcf0322a470a434df179f9cef271c64cca6751c92dd4ad5",
+   "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "T1 Academy",
+   "slug": "lol-t1a-ktc-2026-09-15",
+   "shares": 271.52,
+   "cost": 214.5008,
+   "max_shares": 271.52,
+   "last_trade_ts": 1789459908
   }
  },
  "positions": [],
@@ -39914,8 +39940,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
    "outcome": "KT Rolster Challengers"
+  },
+  {
+   "at": "2026-09-15T08:20:31.768286+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-15T08:00:00+00:00",
+   "condition_id": "0x8099451b29c83e37edcf0322a470a434df179f9cef271c64cca6751c92dd4ad5",
+   "asset": "109312778750027580706264813688549367832027936227198940618917240061652116359616",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.17,
+   "cf_shares": 556.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1796,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+   "outcome": "KT Rolster Challengers"
   }
  ],
  "total_pnl": -1069.3670999999993,
- "last_updated": "2026-09-15T08:00:52.884248+00:00"
+ "last_updated": "2026-09-15T08:20:31.768807+00:00"
 }
