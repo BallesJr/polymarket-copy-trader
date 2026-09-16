@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8968.728330199996,
+ "bankroll": 8868.728330199996,
  "last_seen": {
-  "jtwyslljy": 1789497013,
+  "jtwyslljy": 1789577379,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14908,6 +14908,13 @@
    "BUY",
    1225,
    1789497013
+  ],
+  [
+   "0x93e8283add213b727c6542b7c164488adbbd3e285df1b6fcd31ff227a5b5bfff",
+   "16036303097324320307097737671393326146745888747403403195978096255700896939867",
+   "BUY",
+   3000,
+   1789577379
   ]
  ],
  "leader_pos": {
@@ -24702,9 +24709,40 @@
    "cost": 7696.234199999999,
    "max_shares": 22258.589999999997,
    "last_trade_ts": 1789496892
+  },
+  "jtwyslljy|16036303097324320307097737671393326146745888747403403195978096255700896939867": {
+   "leader": "jtwyslljy",
+   "asset": "16036303097324320307097737671393326146745888747403403195978096255700896939867",
+   "condition_id": "0x40e4ded20689da61640a1dee5814640c996415ee83b40357c50b4c54bfffbb03",
+   "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-16?",
+   "outcome": "Yes",
+   "slug": "lal-mad-osa-2026-09-16",
+   "shares": 3000.0,
+   "cost": 2220.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1789577379
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "16036303097324320307097737671393326146745888747403403195978096255700896939867",
+   "condition_id": "0x40e4ded20689da61640a1dee5814640c996415ee83b40357c50b4c54bfffbb03",
+   "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-16?",
+   "outcome": "Yes",
+   "slug": "lal-mad-osa-2026-09-16",
+   "opened_at": "2026-09-16T16:50:35.217399+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.74,
+   "leader_cost": 2220.0,
+   "copy_delay_min": 0.9,
+   "best_ask": 0.75,
+   "ask_depth": 128144.27,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -40143,5 +40181,5 @@
   }
  ],
  "total_pnl": -1031.2718999999993,
- "last_updated": "2026-09-15T20:25:26.327852+00:00"
+ "last_updated": "2026-09-16T16:50:35.414931+00:00"
 }
