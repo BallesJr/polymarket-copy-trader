@@ -24742,26 +24742,7 @@
    "last_trade_ts": 1789577421
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "46237387429925093496397449782687876005722624425929612440835830284533756478650",
-   "condition_id": "0xc31f58938890ea7754114905a40b6ba65a837371d435709d4a253147732bcb7a",
-   "title": "Will FC Barcelona win on 2026-09-16?",
-   "outcome": "No",
-   "slug": "lal-bar-rrc-2026-09-16",
-   "opened_at": "2026-09-16T17:00:56.796213+00:00",
-   "entry_price": 0.09,
-   "shares": 1111.1111,
-   "stake": 100.0,
-   "leader_vwap": 0.09,
-   "leader_cost": 7650.0,
-   "copy_delay_min": 10.6,
-   "best_ask": 0.09,
-   "ask_depth": 93151.97,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34588,6 +34569,28 @@
    "exit_price": 1.0,
    "pnl": 33.3333,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46237387429925093496397449782687876005722624425929612440835830284533756478650",
+   "condition_id": "0xc31f58938890ea7754114905a40b6ba65a837371d435709d4a253147732bcb7a",
+   "title": "Will FC Barcelona win on 2026-09-16?",
+   "outcome": "No",
+   "slug": "lal-bar-rrc-2026-09-16",
+   "opened_at": "2026-09-16T17:00:56.796213+00:00",
+   "entry_price": 0.09,
+   "shares": 1111.1111,
+   "stake": 100.0,
+   "leader_vwap": 0.09,
+   "leader_cost": 7650.0,
+   "copy_delay_min": 10.6,
+   "best_ask": 0.09,
+   "ask_depth": 93151.97,
+   "status": "lost",
+   "closed_at": "2026-09-16T22:00:55.120081+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -40221,6 +40224,6 @@
    "outcome": "T1 Academy"
   }
  ],
- "total_pnl": -997.9385999999993,
- "last_updated": "2026-09-16T19:25:25.013244+00:00"
+ "total_pnl": -1097.9385999999993,
+ "last_updated": "2026-09-16T22:00:55.122259+00:00"
 }
