@@ -24815,26 +24815,7 @@
    "last_trade_ts": 1789661620
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "24581060312238229844545464165121594269092895068341436204660502490439360520919",
-   "condition_id": "0x50606d73fc865b6f9ed85d4b073966e1f6f9ae3a4d857987670ca13ff1fc6115",
-   "title": "Will Real Betis Balompi\u00e9 win on 2026-09-17?",
-   "outcome": "No",
-   "slug": "lal-bet-get-2026-09-17",
-   "opened_at": "2026-09-17T16:15:36.734546+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 43200.0,
-   "copy_delay_min": 1.9,
-   "best_ask": 0.36,
-   "ask_depth": 714248.98,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34705,6 +34686,28 @@
    "exit_price": 1.0,
    "pnl": 122.2222,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24581060312238229844545464165121594269092895068341436204660502490439360520919",
+   "condition_id": "0x50606d73fc865b6f9ed85d4b073966e1f6f9ae3a4d857987670ca13ff1fc6115",
+   "title": "Will Real Betis Balompi\u00e9 win on 2026-09-17?",
+   "outcome": "No",
+   "slug": "lal-bet-get-2026-09-17",
+   "opened_at": "2026-09-17T16:15:36.734546+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 43200.0,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.36,
+   "ask_depth": 714248.98,
+   "status": "lost",
+   "closed_at": "2026-09-17T19:30:45.065020+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -40338,6 +40341,6 @@
    "outcome": "T1 Academy"
   }
  ],
- "total_pnl": -975.7163999999992,
- "last_updated": "2026-09-17T16:15:36.883616+00:00"
+ "total_pnl": -1075.7163999999993,
+ "last_updated": "2026-09-17T19:30:45.066277+00:00"
 }
