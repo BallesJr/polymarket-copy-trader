@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8902.061630199996,
+ "bankroll": 8802.061630199996,
  "last_seen": {
-  "jtwyslljy": 1789577421,
+  "jtwyslljy": 1789626993,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14922,6 +14922,20 @@
    "BUY",
    85000,
    1789577421
+  ],
+  [
+   "0xeec1fb46d8d861f70d3ae61fda6960188cd209fb78b82469dc8ec29687caaee9",
+   "102196270226873707774961520227514690416249164685876553165337271270980807871279",
+   "BUY",
+   78814.98,
+   1789626873
+  ],
+  [
+   "0xacdc764c1700386ace6018e48d5ef8985e758d7bc8725a755569da8cccd13a5c",
+   "102196270226873707774961520227514690416249164685876553165337271270980807871279",
+   "BUY",
+   1185,
+   1789626993
   ]
  ],
  "leader_pos": {
@@ -24740,9 +24754,40 @@
    "cost": 7650.0,
    "max_shares": 85000.0,
    "last_trade_ts": 1789577421
+  },
+  "jtwyslljy|102196270226873707774961520227514690416249164685876553165337271270980807871279": {
+   "leader": "jtwyslljy",
+   "asset": "102196270226873707774961520227514690416249164685876553165337271270980807871279",
+   "condition_id": "0x9dc73d5f6d1e437dc4d957005b859828586a3277707da5f6292958a06d4474a8",
+   "title": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-tes-ig1-2026-09-17",
+   "shares": 79999.98,
+   "cost": 35999.991,
+   "max_shares": 79999.98,
+   "last_trade_ts": 1789626993
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "102196270226873707774961520227514690416249164685876553165337271270980807871279",
+   "condition_id": "0x9dc73d5f6d1e437dc4d957005b859828586a3277707da5f6292958a06d4474a8",
+   "title": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "Top Esports",
+   "slug": "lol-tes-ig1-2026-09-17",
+   "opened_at": "2026-09-17T06:45:35.078289+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 35999.99,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.45,
+   "ask_depth": 194518.54,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -40225,5 +40270,5 @@
   }
  ],
  "total_pnl": -1097.9385999999993,
- "last_updated": "2026-09-16T22:00:55.122259+00:00"
+ "last_updated": "2026-09-17T06:45:35.251662+00:00"
 }
