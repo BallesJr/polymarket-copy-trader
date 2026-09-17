@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8802.061630199996,
  "last_seen": {
-  "jtwyslljy": 1789635351,
+  "jtwyslljy": 1789638832,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14950,6 +14950,13 @@
    "BUY",
    7000,
    1789635351
+  ],
+  [
+   "0x8cf11af9b0b1bcbb920844b036e1b7b364acf8e81bc1db496307a0e493fe612d",
+   "102196270226873707774961520227514690416249164685876553165337271270980807871279",
+   "BUY",
+   7000,
+   1789638832
   ]
  ],
  "leader_pos": {
@@ -24776,10 +24783,10 @@
    "title": "LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs",
    "outcome": "Top Esports",
    "slug": "lol-tes-ig1-2026-09-17",
-   "shares": 114999.98,
-   "cost": 51679.991,
-   "max_shares": 114999.98,
-   "last_trade_ts": 1789635351
+   "shares": 121999.98,
+   "cost": 53499.991,
+   "max_shares": 121999.98,
+   "last_trade_ts": 1789638832
   }
  },
  "positions": [
@@ -40284,5 +40291,5 @@
   }
  ],
  "total_pnl": -1097.9385999999993,
- "last_updated": "2026-09-17T09:00:55.646374+00:00"
+ "last_updated": "2026-09-17T10:00:57.077865+00:00"
 }
