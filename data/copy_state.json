@@ -24905,26 +24905,7 @@
    "last_trade_ts": 1789736877
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "36590174590310721499058030844565262384974738546991011333755092074521980597514",
-   "condition_id": "0x335197ca4b90930eb3a77aac749501033f2579a4372a6cc13649e7e93815895f",
-   "title": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
-   "outcome": "Team WE",
-   "slug": "lol-we-jdg-2026-09-18",
-   "opened_at": "2026-09-18T02:10:36.142650+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 9016.65,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.41,
-   "ask_depth": 21615.99,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -34817,6 +34798,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "36590174590310721499058030844565262384974738546991011333755092074521980597514",
+   "condition_id": "0x335197ca4b90930eb3a77aac749501033f2579a4372a6cc13649e7e93815895f",
+   "title": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "Team WE",
+   "slug": "lol-we-jdg-2026-09-18",
+   "opened_at": "2026-09-18T02:10:36.142650+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 9016.65,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.41,
+   "ask_depth": 21615.99,
+   "status": "lost",
+   "closed_at": "2026-09-18T13:45:31.566523+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -40498,6 +40501,6 @@
    "outcome": "MIBR"
   }
  ],
- "total_pnl": -1075.7163999999993,
- "last_updated": "2026-09-18T13:20:32.841236+00:00"
+ "total_pnl": -1175.7163999999993,
+ "last_updated": "2026-09-18T13:45:31.568372+00:00"
 }
