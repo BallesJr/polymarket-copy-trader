@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789734480,
+  "jtwyslljy": 1789735181,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14999,6 +14999,13 @@
    "BUY",
    11331.49,
    1789734480
+  ],
+  [
+   "0xb2e0932362272ca5e39447534eef70643ade47eb6e36612b1c71eb3f42e3baf8",
+   "34216592975571584681528622025763326442202827487708250591417521459697527874745",
+   "BUY",
+   2000,
+   1789735181
   ]
  ],
  "leader_pos": {
@@ -24865,6 +24872,18 @@
    "cost": 1628.3095004331528,
    "max_shares": 11331.49,
    "last_trade_ts": 1789734480
+  },
+  "jtwyslljy|34216592975571584681528622025763326442202827487708250591417521459697527874745": {
+   "leader": "jtwyslljy",
+   "asset": "34216592975571584681528622025763326442202827487708250591417521459697527874745",
+   "condition_id": "0x18f7219920fcce94e4c9496105b9ec9e6f852e48b080925cf05f4ceb881a1231",
+   "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MOUZ",
+   "slug": "cs2-mouz-navi-2026-09-18",
+   "shares": 2000.0,
+   "cost": 1780.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1789735181
   }
  },
  "positions": [
@@ -40426,8 +40445,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-18T12:45:34.366578+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T10:00:00+00:00",
+   "condition_id": "0x18f7219920fcce94e4c9496105b9ec9e6f852e48b080925cf05f4ceb881a1231",
+   "asset": "34216592975571584681528622025763326442202827487708250591417521459697527874745",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.998,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -1075.7163999999993,
- "last_updated": "2026-09-18T12:35:28.141303+00:00"
+ "last_updated": "2026-09-18T12:45:34.523066+00:00"
 }
