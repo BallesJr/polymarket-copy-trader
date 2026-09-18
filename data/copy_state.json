@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789721935,
+  "jtwyslljy": 1789734480,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14992,6 +14992,13 @@
    "BUY",
    5000,
    1789721935
+  ],
+  [
+   "0xe2139393b0ef2a35b5c6fa0090b748b698520ed8fc719a072b317cb1db76411b",
+   "114708152308679040273917742309378553782857718630309715924029576529145933871889",
+   "BUY",
+   11331.49,
+   1789734480
   ]
  ],
  "leader_pos": {
@@ -24846,6 +24853,18 @@
    "cost": 13116.652,
    "max_shares": 32541.63,
    "last_trade_ts": 1789721935
+  },
+  "jtwyslljy|114708152308679040273917742309378553782857718630309715924029576529145933871889": {
+   "leader": "jtwyslljy",
+   "asset": "114708152308679040273917742309378553782857718630309715924029576529145933871889",
+   "condition_id": "0x18f7219920fcce94e4c9496105b9ec9e6f852e48b080925cf05f4ceb881a1231",
+   "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Natus Vincere",
+   "slug": "cs2-mouz-navi-2026-09-18",
+   "shares": 11331.49,
+   "cost": 1628.3095004331528,
+   "max_shares": 11331.49,
+   "last_trade_ts": 1789734480
   }
  },
  "positions": [
@@ -40391,8 +40410,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: T1 Academy vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
    "outcome": "T1 Academy"
+  },
+  {
+   "at": "2026-09-18T12:35:27.891636+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T10:00:00+00:00",
+   "condition_id": "0x18f7219920fcce94e4c9496105b9ec9e6f852e48b080925cf05f4ceb881a1231",
+   "asset": "114708152308679040273917742309378553782857718630309715924029576529145933871889",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.12,
+   "cf_shares": 819.8469,
+   "cf_cost": 100.0,
+   "cf_entry": 0.122,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -1075.7163999999993,
- "last_updated": "2026-09-18T09:00:57.255303+00:00"
+ "last_updated": "2026-09-18T12:35:28.141303+00:00"
 }
