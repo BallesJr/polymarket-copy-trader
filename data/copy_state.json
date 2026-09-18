@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789735181,
+  "jtwyslljy": 1789736877,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15006,6 +15006,13 @@
    "BUY",
    2000,
    1789735181
+  ],
+  [
+   "0xeec28ff2cba061adb22c5e144b106cbe8794eff272ca79647249448a81efd377",
+   "4393450845652990873591161618276083897361991364772251246468066556482069475026",
+   "BUY",
+   7000,
+   1789736877
   ]
  ],
  "leader_pos": {
@@ -24884,6 +24891,18 @@
    "cost": 1780.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1789735181
+  },
+  "jtwyslljy|4393450845652990873591161618276083897361991364772251246468066556482069475026": {
+   "leader": "jtwyslljy",
+   "asset": "4393450845652990873591161618276083897361991364772251246468066556482069475026",
+   "condition_id": "0xedb627eda3cddfa8e1b7e3eee350c0023f08621ed26b4a18b0bba2c8b4b1ded8",
+   "title": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MIBR",
+   "slug": "cs2-mgc-mibr-2026-09-18",
+   "shares": 7000.0,
+   "cost": 4970.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1789736877
   }
  },
  "positions": [
@@ -40461,8 +40480,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-09-18T13:20:32.672079+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T13:10:00+00:00",
+   "condition_id": "0xedb627eda3cddfa8e1b7e3eee350c0023f08621ed26b4a18b0bba2c8b4b1ded8",
+   "asset": "4393450845652990873591161618276083897361991364772251246468066556482069475026",
+   "copy_delay_min": 12.6,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MIBR"
   }
  ],
  "total_pnl": -1075.7163999999993,
- "last_updated": "2026-09-18T12:45:34.523066+00:00"
+ "last_updated": "2026-09-18T13:20:32.841236+00:00"
 }
