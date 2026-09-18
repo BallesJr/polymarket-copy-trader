@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789736877,
+  "jtwyslljy": 1789744558,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15013,6 +15013,13 @@
    "BUY",
    7000,
    1789736877
+  ],
+  [
+   "0x663350663aa1b1d32c9e57e099c3106cd1125c809e7b829da859a3d9122d564a",
+   "4393450845652990873591161618276083897361991364772251246468066556482069475026",
+   "BUY",
+   2203.45,
+   1789744558
   ]
  ],
  "leader_pos": {
@@ -24899,10 +24906,10 @@
    "title": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MIBR",
    "slug": "cs2-mgc-mibr-2026-09-18",
-   "shares": 7000.0,
-   "cost": 4970.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1789736877
+   "shares": 9203.45,
+   "cost": 6137.8285,
+   "max_shares": 9203.45,
+   "last_trade_ts": 1789744558
   }
  },
  "positions": [],
@@ -40499,8 +40506,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MIBR"
+  },
+  {
+   "at": "2026-09-18T15:25:30.674063+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T13:10:00+00:00",
+   "condition_id": "0xedb627eda3cddfa8e1b7e3eee350c0023f08621ed26b4a18b0bba2c8b4b1ded8",
+   "asset": "4393450845652990873591161618276083897361991364772251246468066556482069475026",
+   "copy_delay_min": 9.5,
+   "cf_ask": 0.82,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: magic vs MIBR (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MIBR"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-18T13:45:31.568372+00:00"
+ "last_updated": "2026-09-18T15:25:30.674585+00:00"
 }
