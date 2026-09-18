@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789697160,
+  "jtwyslljy": 1789718511,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -14978,6 +14978,13 @@
    "BUY",
    22541.63,
    1789697160
+  ],
+  [
+   "0x6dc735abe27ccf08cab6fcbe257b9914eba43d277db9748fb76cde12f346e5dd",
+   "36590174590310721499058030844565262384974738546991011333755092074521980597514",
+   "BUY",
+   5000,
+   1789718511
   ]
  ],
  "leader_pos": {
@@ -24828,10 +24835,10 @@
    "title": "LoL: Team WE vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
    "outcome": "Team WE",
    "slug": "lol-we-jdg-2026-09-18",
-   "shares": 22541.63,
-   "cost": 9016.652,
-   "max_shares": 22541.63,
-   "last_trade_ts": 1789697160
+   "shares": 27541.63,
+   "cost": 11066.652,
+   "max_shares": 27541.63,
+   "last_trade_ts": 1789718511
   }
  },
  "positions": [
@@ -40380,5 +40387,5 @@
   }
  ],
  "total_pnl": -1075.7163999999993,
- "last_updated": "2026-09-18T02:10:36.396077+00:00"
+ "last_updated": "2026-09-18T08:05:25.374942+00:00"
 }
