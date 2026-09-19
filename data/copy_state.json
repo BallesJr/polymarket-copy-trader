@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8724.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789790107,
+  "jtwyslljy": 1789790746,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15174,6 +15174,20 @@
    "BUY",
    23000,
    1789790107
+  ],
+  [
+   "0x70418498d55933da538a9b041438abd98c324e19659437afd65b6386ca874bf7",
+   "47943332282806664478579087234126798294327005541747887047587143640948705012151",
+   "SELL",
+   2527.54,
+   1789790718
+  ],
+  [
+   "0xbaf73e0f187b75bb0b7f72a4ac9d4187c788d7ade63e4fa402a7343c84856f46",
+   "98349400729140903511682754050359469947430585413025024790427664982472045094973",
+   "BUY",
+   10000,
+   1789790746
   ]
  ],
  "leader_pos": {
@@ -25120,10 +25134,10 @@
    "title": "San Francisco Giants vs. Los Angeles Dodgers",
    "outcome": "San Francisco Giants",
    "slug": "mlb-sf-lad-2026-09-18",
-   "shares": 6000.0,
-   "cost": 2520.0,
+   "shares": 3472.46,
+   "cost": 2115.5936,
    "max_shares": 6000.0,
-   "last_trade_ts": 1789788763
+   "last_trade_ts": 1789790718
   },
   "jtwyslljy|29703397739563963647179344782435108539315263466697438044754409587410589588012": {
    "leader": "jtwyslljy",
@@ -25136,6 +25150,18 @@
    "cost": 10350.0,
    "max_shares": 23000.0,
    "last_trade_ts": 1789790107
+  },
+  "jtwyslljy|98349400729140903511682754050359469947430585413025024790427664982472045094973": {
+   "leader": "jtwyslljy",
+   "asset": "98349400729140903511682754050359469947430585413025024790427664982472045094973",
+   "condition_id": "0xa31bfdf57676ef08341610339abe18aa793d1c945759ef3f2ce529e6e74124c3",
+   "title": "San Francisco Giants vs. Los Angeles Dodgers",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-sf-lad-2026-09-18",
+   "shares": 10000.0,
+   "cost": 8500.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1789790746
   }
  },
  "positions": [
@@ -40943,8 +40969,40 @@
    "leader": "jtwyslljy",
    "title": "San Francisco Giants vs. Los Angeles Dodgers",
    "outcome": "San Francisco Giants"
+  },
+  {
+   "at": "2026-09-19T04:10:32.909811+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T02:15:00+00:00",
+   "condition_id": "0xa31bfdf57676ef08341610339abe18aa793d1c945759ef3f2ce529e6e74124c3",
+   "asset": "98349400729140903511682754050359469947430585413025024790427664982472045094973",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.84,
+   "cf_shares": 119.0476,
+   "cf_cost": 100.0,
+   "cf_entry": 0.84,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "San Francisco Giants vs. Los Angeles Dodgers",
+   "outcome": "Los Angeles Dodgers"
+  },
+  {
+   "at": "2026-09-19T04:10:32.909891+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T02:15:00+00:00",
+   "condition_id": "0xa31bfdf57676ef08341610339abe18aa793d1c945759ef3f2ce529e6e74124c3",
+   "asset": "47943332282806664478579087234126798294327005541747887047587143640948705012151",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.17,
+   "cf_shares": 562.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1779,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "San Francisco Giants vs. Los Angeles Dodgers",
+   "outcome": "San Francisco Giants"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T04:00:53.943999+00:00"
+ "last_updated": "2026-09-19T04:10:33.097297+00:00"
 }
