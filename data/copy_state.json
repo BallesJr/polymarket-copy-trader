@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789781991,
+  "jtwyslljy": 1789782988,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15034,6 +15034,13 @@
    "BUY",
    52500,
    1789781991
+  ],
+  [
+   "0xd4f95c215ab42ef6cfc439fa1341071399c68f239a90fb121caa85646ed3090a",
+   "79986877937691365541572252354167353430784601554683948768872116316260499228848",
+   "BUY",
+   3829.96,
+   1789782988
   ]
  ],
  "leader_pos": {
@@ -24948,6 +24955,18 @@
    "cost": 22575.0,
    "max_shares": 52500.0,
    "last_trade_ts": 1789781991
+  },
+  "jtwyslljy|79986877937691365541572252354167353430784601554683948768872116316260499228848": {
+   "leader": "jtwyslljy",
+   "asset": "79986877937691365541572252354167353430784601554683948768872116316260499228848",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Milwaukee Brewers",
+   "slug": "mlb-mil-bal-2026-09-18",
+   "shares": 3829.96,
+   "cost": 1838.3808,
+   "max_shares": 3829.96,
+   "last_trade_ts": 1789782988
   }
  },
  "positions": [],
@@ -40592,8 +40611,24 @@
    "leader": "jtwyslljy",
    "title": "Milwaukee Brewers vs. Baltimore Orioles",
    "outcome": "Baltimore Orioles"
+  },
+  {
+   "at": "2026-09-19T02:00:53.496156+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T23:05:00+00:00",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "asset": "79986877937691365541572252354167353430784601554683948768872116316260499228848",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.53,
+   "cf_shares": 185.3,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5397,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Milwaukee Brewers"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T01:50:29.794897+00:00"
+ "last_updated": "2026-09-19T02:00:53.496687+00:00"
 }
