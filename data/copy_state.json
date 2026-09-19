@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789783606,
+  "jtwyslljy": 1789783807,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15076,6 +15076,34 @@
    "BUY",
    6334.25,
    1789783606
+  ],
+  [
+   "0x01a6044f1ff8b1e224b6568ca9713a42bee52888f823178a8aefe38d8d7084a5",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   8840.21,
+   1789783632
+  ],
+  [
+   "0xfc33fc52c90faa0f5833fb8bb91958d8364c94d3ded34f3da9bf86f95048f1cf",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   2018.37,
+   1789783638
+  ],
+  [
+   "0x7448c2b20120393ffb504e84eecee017fb2d39394ee48240da52d3e7797c93e0",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   5741,
+   1789783681
+  ],
+  [
+   "0x0b6393b0ae66018554f191f4c48ac395d1111de5d65e8227d76f55ad59fbad36",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   3300,
+   1789783807
   ]
  ],
  "leader_pos": {
@@ -25010,10 +25038,10 @@
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies",
    "slug": "mlb-sea-col-2026-09-18",
-   "shares": 21536.31,
-   "cost": 7420.109999999999,
-   "max_shares": 21536.31,
-   "last_trade_ts": 1789783606
+   "shares": 41435.89,
+   "cost": 15180.946199999998,
+   "max_shares": 41435.89,
+   "last_trade_ts": 1789783807
   }
  },
  "positions": [],
@@ -40690,8 +40718,24 @@
    "leader": "jtwyslljy",
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies"
+  },
+  {
+   "at": "2026-09-19T02:15:29.993250+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T00:10:00+00:00",
+   "condition_id": "0x0bd57c62603d6b18b8514023391d5d19d7865fe3017696e413f46b8a3e38d1ec",
+   "asset": "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "copy_delay_min": 5.4,
+   "cf_ask": 0.74,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Seattle Mariners vs. Colorado Rockies",
+   "outcome": "Colorado Rockies"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T02:10:32.983915+00:00"
+ "last_updated": "2026-09-19T02:15:29.993806+00:00"
 }
