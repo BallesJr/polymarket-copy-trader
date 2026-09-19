@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789830818,
+  "jtwyslljy": 1789834536,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15258,6 +15258,13 @@
    "BUY",
    15962.73,
    1789830818
+  ],
+  [
+   "0xd6c9e8253e5e70db89f048cfd5655751cf4013fabc54ade617997be9c14bf871",
+   "71904497229380095714490638861196713493957732974929081719849101896026035314872",
+   "BUY",
+   22500,
+   1789834536
   ]
  ],
  "leader_pos": {
@@ -25264,10 +25271,10 @@
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "Vitality",
    "slug": "cs2-aur1-vit-2026-09-19",
-   "shares": 15962.73,
-   "cost": 12291.3021,
-   "max_shares": 15962.73,
-   "last_trade_ts": 1789830818
+   "shares": 38462.729999999996,
+   "cost": 23991.3021,
+   "max_shares": 38462.729999999996,
+   "last_trade_ts": 1789834536
   }
  },
  "positions": [
@@ -41196,5 +41203,5 @@
   }
  ],
  "total_pnl": -1275.7163999999993,
- "last_updated": "2026-09-19T15:15:34.429691+00:00"
+ "last_updated": "2026-09-19T16:20:33.606749+00:00"
 }
