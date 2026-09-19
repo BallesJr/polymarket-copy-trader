@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789780863,
+  "jtwyslljy": 1789781991,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15027,6 +15027,13 @@
    "BUY",
    5000,
    1789780863
+  ],
+  [
+   "0xc0e06249ca4d70c7f29a51fa57d97302837e31296a13dd85f943fa7036f1fc76",
+   "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "BUY",
+   52500,
+   1789781991
   ]
  ],
  "leader_pos": {
@@ -24929,6 +24936,18 @@
    "cost": 3550.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1789780863
+  },
+  "jtwyslljy|64852848587276973350867043073526486795563282396105754969917300313693597459360": {
+   "leader": "jtwyslljy",
+   "asset": "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Baltimore Orioles",
+   "slug": "mlb-mil-bal-2026-09-18",
+   "shares": 52500.0,
+   "cost": 22575.0,
+   "max_shares": 52500.0,
+   "last_trade_ts": 1789781991
   }
  },
  "positions": [],
@@ -40557,8 +40576,24 @@
    "leader": "jtwyslljy",
    "title": "Houston vs. Texas Tech",
    "outcome": "Texas Tech"
+  },
+  {
+   "at": "2026-09-19T01:50:29.794410+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T23:05:00+00:00",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "asset": "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "copy_delay_min": 10.6,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Baltimore Orioles"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T01:30:42.129067+00:00"
+ "last_updated": "2026-09-19T01:50:29.794897+00:00"
 }
