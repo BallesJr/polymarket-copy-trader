@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8724.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789815674,
+  "jtwyslljy": 1789818773,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15209,6 +15209,13 @@
    "BUY",
    15506.43,
    1789815674
+  ],
+  [
+   "0x251a93fa76407b91d3e8777635b74f4cc3c833c2d7e9c0d557345f71a48976d9",
+   "30058845519140872376377700219617218392346653336729233728411555547950566023390",
+   "BUY",
+   12000,
+   1789818773
   ]
  ],
  "leader_pos": {
@@ -25183,6 +25190,18 @@
    "cost": 14840.0297,
    "max_shares": 17638.59,
    "last_trade_ts": 1789790862
+  },
+  "jtwyslljy|30058845519140872376377700219617218392346653336729233728411555547950566023390": {
+   "leader": "jtwyslljy",
+   "asset": "30058845519140872376377700219617218392346653336729233728411555547950566023390",
+   "condition_id": "0x57e021bfd916d7322b643b1be7a1ffb7415d318db4b77cb128fbab97884e06bd",
+   "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MOUZ",
+   "slug": "cs2-mouz-furia-2026-09-19",
+   "shares": 12000.0,
+   "cost": 6839.999999999999,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1789818773
   }
  },
  "positions": [
@@ -41038,8 +41057,24 @@
    "leader": "jtwyslljy",
    "title": "San Francisco Giants vs. Los Angeles Dodgers",
    "outcome": "Los Angeles Dodgers"
+  },
+  {
+   "at": "2026-09-19T12:00:57.114540+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T12:00:00+00:00",
+   "condition_id": "0x57e021bfd916d7322b643b1be7a1ffb7415d318db4b77cb128fbab97884e06bd",
+   "asset": "30058845519140872376377700219617218392346653336729233728411555547950566023390",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T11:10:30.797432+00:00"
+ "last_updated": "2026-09-19T12:00:57.347253+00:00"
 }
