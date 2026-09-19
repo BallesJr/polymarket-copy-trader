@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789786003,
+  "jtwyslljy": 1789788763,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15160,6 +15160,13 @@
    "SELL",
    2000,
    1789786003
+  ],
+  [
+   "0x5811659168a49acfefd70f253054cf4354ca7300fcf588ba1fd709931dc5be63",
+   "47943332282806664478579087234126798294327005541747887047587143640948705012151",
+   "BUY",
+   6000,
+   1789788763
   ]
  ],
  "leader_pos": {
@@ -25098,6 +25105,18 @@
    "cost": 19166.17229977006,
    "max_shares": 53235.78,
    "last_trade_ts": 1789786003
+  },
+  "jtwyslljy|47943332282806664478579087234126798294327005541747887047587143640948705012151": {
+   "leader": "jtwyslljy",
+   "asset": "47943332282806664478579087234126798294327005541747887047587143640948705012151",
+   "condition_id": "0xa31bfdf57676ef08341610339abe18aa793d1c945759ef3f2ce529e6e74124c3",
+   "title": "San Francisco Giants vs. Los Angeles Dodgers",
+   "outcome": "San Francisco Giants",
+   "slug": "mlb-sf-lad-2026-09-18",
+   "shares": 6000.0,
+   "cost": 2520.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1789788763
   }
  },
  "positions": [],
@@ -40870,8 +40889,24 @@
    "leader": "jtwyslljy",
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies"
+  },
+  {
+   "at": "2026-09-19T03:40:29.577875+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T02:15:00+00:00",
+   "condition_id": "0xa31bfdf57676ef08341610339abe18aa793d1c945759ef3f2ce529e6e74124c3",
+   "asset": "47943332282806664478579087234126798294327005541747887047587143640948705012151",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "San Francisco Giants vs. Los Angeles Dodgers",
+   "outcome": "San Francisco Giants"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T02:55:22.932071+00:00"
+ "last_updated": "2026-09-19T03:40:29.578370+00:00"
 }
