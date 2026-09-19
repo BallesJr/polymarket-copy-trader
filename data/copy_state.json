@@ -25251,26 +25251,7 @@
    "last_trade_ts": 1789823301
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "29703397739563963647179344782435108539315263466697438044754409587410589588012",
-   "condition_id": "0xae4763a490eaa8e2a66993b9d814abe1c30846dba95cc310ca17914e6af0dff5",
-   "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
-   "outcome": "JD Gaming",
-   "slug": "lol-ig1-jdg-2026-09-19",
-   "opened_at": "2026-09-19T04:00:53.690426+00:00",
-   "entry_price": 0.45,
-   "shares": 222.2222,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 10350.0,
-   "copy_delay_min": 5.8,
-   "best_ask": 0.45,
-   "ask_depth": 31995.08,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35185,6 +35166,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29703397739563963647179344782435108539315263466697438044754409587410589588012",
+   "condition_id": "0xae4763a490eaa8e2a66993b9d814abe1c30846dba95cc310ca17914e6af0dff5",
+   "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "JD Gaming",
+   "slug": "lol-ig1-jdg-2026-09-19",
+   "opened_at": "2026-09-19T04:00:53.690426+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 10350.0,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.45,
+   "ask_depth": 31995.08,
+   "status": "lost",
+   "closed_at": "2026-09-19T14:25:24.198518+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -41154,6 +41157,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T13:35:28.739062+00:00"
+ "total_pnl": -1275.7163999999993,
+ "last_updated": "2026-09-19T14:25:24.200373+00:00"
 }
