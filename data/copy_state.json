@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789784407,
+  "jtwyslljy": 1789785228,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15125,6 +15125,27 @@
    "BUY",
    55,
    1789784407
+  ],
+  [
+   "0x3f8625518c862a5f716856c73bfd076ddc1b2c8ed875d90a787ac208d76a938f",
+   "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "SELL",
+   68.83,
+   1789785019
+  ],
+  [
+   "0x85294f40d7e96474a4beaa47ff01bd01bfa2a2618955b98a1a7ea7532a8b5865",
+   "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "SELL",
+   7431,
+   1789785039
+  ],
+  [
+   "0x39615e6a97c86a68065d4cf6827b0f2dcc2cbb7d459e882a697fb603db81e876",
+   "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "SELL",
+   10000,
+   1789785228
   ]
  ],
  "leader_pos": {
@@ -25035,10 +25056,10 @@
    "title": "Milwaukee Brewers vs. Baltimore Orioles",
    "outcome": "Baltimore Orioles",
    "slug": "mlb-mil-bal-2026-09-18",
-   "shares": 52500.0,
-   "cost": 22575.0,
+   "shares": 35000.17,
+   "cost": 14824.389900000002,
    "max_shares": 52500.0,
-   "last_trade_ts": 1789781991
+   "last_trade_ts": 1789785228
   },
   "jtwyslljy|79986877937691365541572252354167353430784601554683948768872116316260499228848": {
    "leader": "jtwyslljy",
@@ -40787,8 +40808,24 @@
    "leader": "jtwyslljy",
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies"
+  },
+  {
+   "at": "2026-09-19T02:35:27.344886+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T23:05:00+00:00",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "asset": "64852848587276973350867043073526486795563282396105754969917300313693597459360",
+   "copy_delay_min": 1.6,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Baltimore Orioles"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T02:25:30.288100+00:00"
+ "last_updated": "2026-09-19T02:35:27.345413+00:00"
 }
