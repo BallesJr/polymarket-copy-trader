@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789785228,
+  "jtwyslljy": 1789785700,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15146,6 +15146,13 @@
    "SELL",
    10000,
    1789785228
+  ],
+  [
+   "0x97adf8a8f96c215652b00d121910066f9c5647f10c7f54d35c4b1c51c5e17884",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "SELL",
+   5800,
+   1789785700
   ]
  ],
  "leader_pos": {
@@ -25080,10 +25087,10 @@
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies",
    "slug": "mlb-sea-col-2026-09-18",
-   "shares": 53235.78,
-   "cost": 22994.17229977006,
+   "shares": 47435.78,
+   "cost": 20326.17229977006,
    "max_shares": 53235.78,
-   "last_trade_ts": 1789784407
+   "last_trade_ts": 1789785700
   }
  },
  "positions": [],
@@ -40824,8 +40831,24 @@
    "leader": "jtwyslljy",
    "title": "Milwaukee Brewers vs. Baltimore Orioles",
    "outcome": "Baltimore Orioles"
+  },
+  {
+   "at": "2026-09-19T02:45:34.090534+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T00:10:00+00:00",
+   "condition_id": "0x0bd57c62603d6b18b8514023391d5d19d7865fe3017696e413f46b8a3e38d1ec",
+   "asset": "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Seattle Mariners vs. Colorado Rockies",
+   "outcome": "Colorado Rockies"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T02:35:27.345413+00:00"
+ "last_updated": "2026-09-19T02:45:34.091130+00:00"
 }
