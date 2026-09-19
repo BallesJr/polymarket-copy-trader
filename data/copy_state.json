@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8824.283830199996,
+ "bankroll": 8724.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789788763,
+  "jtwyslljy": 1789790107,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15167,6 +15167,13 @@
    "BUY",
    6000,
    1789788763
+  ],
+  [
+   "0x893117ffc343be1069d3984cf678dfe671279a16b14f3e6bbe0179879baa9544",
+   "29703397739563963647179344782435108539315263466697438044754409587410589588012",
+   "BUY",
+   23000,
+   1789790107
   ]
  ],
  "leader_pos": {
@@ -25117,9 +25124,40 @@
    "cost": 2520.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1789788763
+  },
+  "jtwyslljy|29703397739563963647179344782435108539315263466697438044754409587410589588012": {
+   "leader": "jtwyslljy",
+   "asset": "29703397739563963647179344782435108539315263466697438044754409587410589588012",
+   "condition_id": "0xae4763a490eaa8e2a66993b9d814abe1c30846dba95cc310ca17914e6af0dff5",
+   "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "JD Gaming",
+   "slug": "lol-ig1-jdg-2026-09-19",
+   "shares": 23000.0,
+   "cost": 10350.0,
+   "max_shares": 23000.0,
+   "last_trade_ts": 1789790107
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "29703397739563963647179344782435108539315263466697438044754409587410589588012",
+   "condition_id": "0xae4763a490eaa8e2a66993b9d814abe1c30846dba95cc310ca17914e6af0dff5",
+   "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+   "outcome": "JD Gaming",
+   "slug": "lol-ig1-jdg-2026-09-19",
+   "opened_at": "2026-09-19T04:00:53.690426+00:00",
+   "entry_price": 0.45,
+   "shares": 222.2222,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 10350.0,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.45,
+   "ask_depth": 31995.08,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -40908,5 +40946,5 @@
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T03:40:29.578370+00:00"
+ "last_updated": "2026-09-19T04:00:53.943999+00:00"
 }
