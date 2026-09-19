@@ -25277,26 +25277,7 @@
    "last_trade_ts": 1789834536
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "71904497229380095714490638861196713493957732974929081719849101896026035314872",
-   "condition_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
-   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
-   "outcome": "Vitality",
-   "slug": "cs2-aur1-vit-2026-09-19",
-   "opened_at": "2026-09-19T15:15:34.232978+00:00",
-   "entry_price": 0.78,
-   "shares": 128.2051,
-   "stake": 100.0,
-   "leader_vwap": 0.77,
-   "leader_cost": 12291.3,
-   "copy_delay_min": 1.9,
-   "best_ask": 0.78,
-   "ask_depth": 79439.53,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35233,6 +35214,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "71904497229380095714490638861196713493957732974929081719849101896026035314872",
+   "condition_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-aur1-vit-2026-09-19",
+   "opened_at": "2026-09-19T15:15:34.232978+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 12291.3,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.78,
+   "ask_depth": 79439.53,
+   "status": "lost",
+   "closed_at": "2026-09-19T20:20:32.329312+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -41202,6 +41205,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -1275.7163999999993,
- "last_updated": "2026-09-19T16:20:33.606749+00:00"
+ "total_pnl": -1375.7163999999993,
+ "last_updated": "2026-09-19T20:20:32.330963+00:00"
 }
