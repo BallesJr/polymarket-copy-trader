@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8824.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789783807,
+  "jtwyslljy": 1789784407,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15104,6 +15104,27 @@
    "BUY",
    3300,
    1789783807
+  ],
+  [
+   "0xb1a07e40777b9fce14d291e907308f7610858358242904bdad365c665c4f4ec9",
+   "79986877937691365541572252354167353430784601554683948768872116316260499228848",
+   "BUY",
+   51,
+   1789784302
+  ],
+  [
+   "0x5d8d663e68ec795651bb8a0df6dfe59f6295bcd238d01882a5496ea22d6ed6ff",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   11744.89,
+   1789784388
+  ],
+  [
+   "0x3bb55cb370bf9e1698cc1e30a829e241b81c7cef0b0d274edd25978a1910456b",
+   "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "BUY",
+   55,
+   1789784407
   ]
  ],
  "leader_pos": {
@@ -25026,10 +25047,10 @@
    "title": "Milwaukee Brewers vs. Baltimore Orioles",
    "outcome": "Milwaukee Brewers",
    "slug": "mlb-mil-bal-2026-09-18",
-   "shares": 3829.96,
-   "cost": 1838.3808,
-   "max_shares": 3829.96,
-   "last_trade_ts": 1789782988
+   "shares": 3880.96,
+   "cost": 1883.7708,
+   "max_shares": 3880.96,
+   "last_trade_ts": 1789784302
   },
   "jtwyslljy|28024753754083124528632603407540951891592765505372442647424326722215248223868": {
    "leader": "jtwyslljy",
@@ -25038,10 +25059,10 @@
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies",
    "slug": "mlb-sea-col-2026-09-18",
-   "shares": 41435.89,
-   "cost": 15180.946199999998,
-   "max_shares": 41435.89,
-   "last_trade_ts": 1789783807
+   "shares": 53235.78,
+   "cost": 22994.17229977006,
+   "max_shares": 53235.78,
+   "last_trade_ts": 1789784407
   }
  },
  "positions": [],
@@ -40734,8 +40755,40 @@
    "leader": "jtwyslljy",
    "title": "Seattle Mariners vs. Colorado Rockies",
    "outcome": "Colorado Rockies"
+  },
+  {
+   "at": "2026-09-19T02:25:30.091438+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-18T23:05:00+00:00",
+   "condition_id": "0xaffb4da3bda1fb6b9ce8439a77a594b755ad74b5a5759297d2e00ca947651d8b",
+   "asset": "79986877937691365541572252354167353430784601554683948768872116316260499228848",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.89,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Milwaukee Brewers vs. Baltimore Orioles",
+   "outcome": "Milwaukee Brewers"
+  },
+  {
+   "at": "2026-09-19T02:25:30.287525+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T00:10:00+00:00",
+   "condition_id": "0x0bd57c62603d6b18b8514023391d5d19d7865fe3017696e413f46b8a3e38d1ec",
+   "asset": "28024753754083124528632603407540951891592765505372442647424326722215248223868",
+   "copy_delay_min": 5.4,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Seattle Mariners vs. Colorado Rockies",
+   "outcome": "Colorado Rockies"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T02:15:29.993806+00:00"
+ "last_updated": "2026-09-19T02:25:30.288100+00:00"
 }
