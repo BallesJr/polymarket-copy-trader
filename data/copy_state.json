@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8724.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789823301,
+  "jtwyslljy": 1789824533,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15244,6 +15244,13 @@
    "SELL",
    2818.84,
    1789823301
+  ],
+  [
+   "0x06be30bac755ea3f0071acacb2c3dc52ddd8bc6777c26df309e4a38ab608e46d",
+   "30058845519140872376377700219617218392346653336729233728411555547950566023390",
+   "BUY",
+   2293.82,
+   1789824533
   ]
  ],
  "leader_pos": {
@@ -25226,10 +25233,10 @@
    "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MOUZ",
    "slug": "cs2-mouz-furia-2026-09-19",
-   "shares": 25000.0,
-   "cost": 11780.0,
-   "max_shares": 25000.0,
-   "last_trade_ts": 1789822488
+   "shares": 27293.82,
+   "cost": 12101.1348,
+   "max_shares": 27293.82,
+   "last_trade_ts": 1789824533
   },
   "jtwyslljy|28896556370473557927902439734701496956608442394248292523505175134349583666601": {
    "leader": "jtwyslljy",
@@ -41129,8 +41136,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-09-19T13:35:28.562828+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T12:00:00+00:00",
+   "condition_id": "0x57e021bfd916d7322b643b1be7a1ffb7415d318db4b77cb128fbab97884e06bd",
+   "asset": "30058845519140872376377700219617218392346653336729233728411555547950566023390",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -1175.7163999999993,
- "last_updated": "2026-09-19T13:15:31.180126+00:00"
+ "last_updated": "2026-09-19T13:35:28.739062+00:00"
 }
