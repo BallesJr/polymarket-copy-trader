@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8724.283830199996,
+ "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789824533,
+  "jtwyslljy": 1789830818,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15251,6 +15251,13 @@
    "BUY",
    2293.82,
    1789824533
+  ],
+  [
+   "0xa09c2d3688ae9b2cd64e35d63b57de6ead6781d458d642cb699f12d6c18bfcce",
+   "71904497229380095714490638861196713493957732974929081719849101896026035314872",
+   "BUY",
+   15962.73,
+   1789830818
   ]
  ],
  "leader_pos": {
@@ -25249,9 +25256,40 @@
    "cost": -197.31880000000004,
    "max_shares": 0.0,
    "last_trade_ts": 1789823301
+  },
+  "jtwyslljy|71904497229380095714490638861196713493957732974929081719849101896026035314872": {
+   "leader": "jtwyslljy",
+   "asset": "71904497229380095714490638861196713493957732974929081719849101896026035314872",
+   "condition_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-aur1-vit-2026-09-19",
+   "shares": 15962.73,
+   "cost": 12291.3021,
+   "max_shares": 15962.73,
+   "last_trade_ts": 1789830818
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "71904497229380095714490638861196713493957732974929081719849101896026035314872",
+   "condition_id": "0xe025c9e0372dfda8d83fb389aa47d94257cbcd5f3428d7adce819348b5f4533f",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-aur1-vit-2026-09-19",
+   "opened_at": "2026-09-19T15:15:34.232978+00:00",
+   "entry_price": 0.78,
+   "shares": 128.2051,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 12291.3,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.78,
+   "ask_depth": 79439.53,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -41158,5 +41196,5 @@
   }
  ],
  "total_pnl": -1275.7163999999993,
- "last_updated": "2026-09-19T14:25:24.200373+00:00"
+ "last_updated": "2026-09-19T15:15:34.429691+00:00"
 }
