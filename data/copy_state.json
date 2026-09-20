@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8524.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789880982,
+  "jtwyslljy": 1789881898,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15314,6 +15314,20 @@
    "BUY",
    9452.62,
    1789880982
+  ],
+  [
+   "0x095d17187d7127c3ae7079cc2d8d6be2171f0324642832f0a9ba84d0e0abf320",
+   "98740124046974558377576951743328382667458769596533756075148030399174272509353",
+   "BUY",
+   499.38,
+   1789881882
+  ],
+  [
+   "0x158529645658f5efa57df47dc14d73247c3504fb51fc13c5f72fad4de16fd6c3",
+   "98740124046974558377576951743328382667458769596533756075148030399174272509353",
+   "BUY",
+   409.42,
+   1789881898
   ]
  ],
  "leader_pos": {
@@ -25384,6 +25398,18 @@
    "cost": 27200.000000000004,
    "max_shares": 40000.0,
    "last_trade_ts": 1789877827
+  },
+  "jtwyslljy|98740124046974558377576951743328382667458769596533756075148030399174272509353": {
+   "leader": "jtwyslljy",
+   "asset": "98740124046974558377576951743328382667458769596533756075148030399174272509353",
+   "condition_id": "0x06f6dee28088d7121fa3ab9be548f5ee9bb4331b4daa8776fdeacc1412f712c1",
+   "title": "James Madison vs. San Diego State",
+   "outcome": "James Madison",
+   "slug": "cfb-jmad-sdst-2026-09-19",
+   "shares": 908.8,
+   "cost": 881.8913799817119,
+   "max_shares": 908.8,
+   "last_trade_ts": 1789881898
   }
  },
  "positions": [
@@ -41411,8 +41437,24 @@
    "leader": "jtwyslljy",
    "title": "Minnesota Twins vs. Los Angeles Angels",
    "outcome": "Minnesota Twins"
+  },
+  {
+   "at": "2026-09-20T05:30:46.006242+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T02:00:00+00:00",
+   "condition_id": "0x06f6dee28088d7121fa3ab9be548f5ee9bb4331b4daa8776fdeacc1412f712c1",
+   "asset": "98740124046974558377576951743328382667458769596533756075148030399174272509353",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.999,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "James Madison vs. San Diego State",
+   "outcome": "James Madison"
   }
  ],
  "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-20T05:15:31.659026+00:00"
+ "last_updated": "2026-09-20T05:30:46.157533+00:00"
 }
