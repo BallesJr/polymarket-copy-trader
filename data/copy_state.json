@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789918068,
+  "jtwyslljy": 1789918383,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15384,6 +15384,13 @@
    "BUY",
    804.1,
    1789918068
+  ],
+  [
+   "0xd21ad044f3ed5bf3a7b1ec352ade61448f73a7612f7907500e05f2227d022613",
+   "102297836984567680369486911086713898288188079267304698099117176384943642469300",
+   "BUY",
+   776.09,
+   1789918383
   ]
  ],
  "leader_pos": {
@@ -25510,10 +25517,10 @@
    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-20?",
    "outcome": "No",
    "slug": "lal-mad-rea-2026-09-20",
-   "shares": 6000.0,
-   "cost": 4320.0,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1789916119
+   "shares": 6776.09,
+   "cost": 4529.5443,
+   "max_shares": 6776.09,
+   "last_trade_ts": 1789918383
   },
   "jtwyslljy|74699995786387963108202624559747707144186914924472666333725823853763279029897": {
    "leader": "jtwyslljy",
@@ -41664,8 +41671,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-09-20T15:40:34.056474+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T14:15:00+00:00",
+   "condition_id": "0x09ff43eb1cad427e2e04018b1180189d70671c753127f035ea744e81e63b91d4",
+   "asset": "102297836984567680369486911086713898288188079267304698099117176384943642469300",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.05,
+   "cf_shares": 2000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.05,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-20?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T15:30:44.052334+00:00"
+ "last_updated": "2026-09-20T15:40:34.056973+00:00"
 }
