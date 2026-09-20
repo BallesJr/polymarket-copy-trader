@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789912681,
+  "jtwyslljy": 1789913811,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15349,6 +15349,13 @@
    "BUY",
    28,
    1789912681
+  ],
+  [
+   "0x87b671f358fe5b3ddbef477bb0eba52a9ff0e9ac452df0dc8e546638b89bb82e",
+   "170341872623084525596084798433485071001245084260380563358394305600979377593",
+   "BUY",
+   6999.99,
+   1789913811
   ]
  ],
  "leader_pos": {
@@ -25443,6 +25450,18 @@
    "cost": 4004.8298000794193,
    "max_shares": 4500.47,
    "last_trade_ts": 1789912681
+  },
+  "jtwyslljy|170341872623084525596084798433485071001245084260380563358394305600979377593": {
+   "leader": "jtwyslljy",
+   "asset": "170341872623084525596084798433485071001245084260380563358394305600979377593",
+   "condition_id": "0x41d3cc14bdced56abc767d1057813e05a9d6fe4b06fde38aec5b6cef637bd0d8",
+   "title": "Will Manchester City FC win on 2026-09-20?",
+   "outcome": "Yes",
+   "slug": "epl-mac-sun-2026-09-20",
+   "shares": 6999.99,
+   "cost": 5669.9919,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1789913811
   }
  },
  "positions": [],
@@ -41505,8 +41524,24 @@
    "leader": "jtwyslljy",
    "title": "Will Getafe CF win on 2026-09-20?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-09-20T14:25:26.618396+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T13:00:00+00:00",
+   "condition_id": "0x41d3cc14bdced56abc767d1057813e05a9d6fe4b06fde38aec5b6cef637bd0d8",
+   "asset": "170341872623084525596084798433485071001245084260380563358394305600979377593",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.84,
+   "cf_shares": 119.0476,
+   "cf_cost": 100.0,
+   "cf_entry": 0.84,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Manchester City FC win on 2026-09-20?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T14:20:33.875483+00:00"
+ "last_updated": "2026-09-20T14:25:26.618964+00:00"
 }
