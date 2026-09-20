@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789873219,
+  "jtwyslljy": 1789874449,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15286,6 +15286,13 @@
    "BUY",
    9760.3,
    1789873219
+  ],
+  [
+   "0x8025a44d7b8cbdf8d52413f3e0331491c516624162916c696f4126a1300ca046",
+   "82797108543142732496470680559253965087179103164793710557439187274169806737723",
+   "BUY",
+   1701,
+   1789874449
   ]
  ],
  "leader_pos": {
@@ -25320,6 +25327,18 @@
    "cost": 5465.768,
    "max_shares": 9760.3,
    "last_trade_ts": 1789873219
+  },
+  "jtwyslljy|82797108543142732496470680559253965087179103164793710557439187274169806737723": {
+   "leader": "jtwyslljy",
+   "asset": "82797108543142732496470680559253965087179103164793710557439187274169806737723",
+   "condition_id": "0x31507678b813cbec2b9202fb5502c25c32b75f3502a5521980f82504d3ed083f",
+   "title": "Minnesota Twins vs. Los Angeles Angels",
+   "outcome": "Minnesota Twins",
+   "slug": "mlb-min-laa-2026-09-19",
+   "shares": 1701.0,
+   "cost": 1394.82,
+   "max_shares": 1701.0,
+   "last_trade_ts": 1789874449
   }
  },
  "positions": [],
@@ -41280,8 +41299,24 @@
    "leader": "jtwyslljy",
    "title": "New York Yankees vs. Arizona Diamondbacks",
    "outcome": "Arizona Diamondbacks"
+  },
+  {
+   "at": "2026-09-20T03:25:25.784231+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T01:38:00+00:00",
+   "condition_id": "0x31507678b813cbec2b9202fb5502c25c32b75f3502a5521980f82504d3ed083f",
+   "asset": "82797108543142732496470680559253965087179103164793710557439187274169806737723",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.83,
+   "cf_shares": 120.4819,
+   "cf_cost": 100.0,
+   "cf_entry": 0.83,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Minnesota Twins vs. Los Angeles Angels",
+   "outcome": "Minnesota Twins"
   }
  ],
  "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-20T03:06:00.464744+00:00"
+ "last_updated": "2026-09-20T03:25:25.784820+00:00"
 }
