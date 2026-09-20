@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789921885,
+  "jtwyslljy": 1789923147,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15419,6 +15419,20 @@
    "SELL",
    4362.67,
    1789921885
+  ],
+  [
+   "0x7667bc0dc723a41a0983dd68df377021432ca6ff337e15b8944ea13128b6db80",
+   "81766879303002931068560593238963759948525221955495621233699520563712062067630",
+   "BUY",
+   13904.38,
+   1789923069
+  ],
+  [
+   "0x27ac3667453a9859bc361d5e7e9974a7ac4a9314f77382a2b4589717f2f6fad9",
+   "109468908573536542591573505448550983230735757635412025044729393652389147007223",
+   "BUY",
+   558.26,
+   1789923147
   ]
  ],
  "leader_pos": {
@@ -25593,10 +25607,22 @@
    "title": "Will Manchester United FC win on 2026-09-20?",
    "outcome": "Yes",
    "slug": "epl-ful-mun-2026-09-20",
-   "shares": 5384.02,
-   "cost": 2584.3296,
-   "max_shares": 5384.02,
-   "last_trade_ts": 1789919076
+   "shares": 19288.4,
+   "cost": 4530.9428,
+   "max_shares": 19288.4,
+   "last_trade_ts": 1789923069
+  },
+  "jtwyslljy|109468908573536542591573505448550983230735757635412025044729393652389147007223": {
+   "leader": "jtwyslljy",
+   "asset": "109468908573536542591573505448550983230735757635412025044729393652389147007223",
+   "condition_id": "0x9d33dd588e7e711bf8c38ac59930ed4557ab66131af9278d4887ed7dd537e62d",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs",
+   "outcome": "Aurora Gaming",
+   "slug": "cs2-aur1-vit-2026-09-20",
+   "shares": 558.26,
+   "cost": 184.2258,
+   "max_shares": 558.26,
+   "last_trade_ts": 1789923147
   }
  },
  "positions": [],
@@ -41771,8 +41797,24 @@
    "leader": "jtwyslljy",
    "title": "Will Manchester United FC win on 2026-09-20?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-09-20T17:00:58.288981+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T15:30:00+00:00",
+   "condition_id": "0xbd3910e43d63eb1678a32a926862ee5ffe6251926f2f0b724d6e28cfb7cd9c7f",
+   "asset": "81766879303002931068560593238963759948525221955495621233699520563712062067630",
+   "copy_delay_min": 9.8,
+   "cf_ask": 0.09,
+   "cf_shares": 1111.1111,
+   "cf_cost": 100.0,
+   "cf_entry": 0.09,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Manchester United FC win on 2026-09-20?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T16:35:23.907824+00:00"
+ "last_updated": "2026-09-20T17:00:58.289676+00:00"
 }
