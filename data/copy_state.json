@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789916119,
+  "jtwyslljy": 1789916431,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15370,6 +15370,13 @@
    "BUY",
    6000,
    1789916119
+  ],
+  [
+   "0x1e40b6a39e3b0aa4c0cdfdc18c5160ee181fd746cb7cc48cf68b779c9e681f63",
+   "74699995786387963108202624559747707144186914924472666333725823853763279029897",
+   "BUY",
+   12300,
+   1789916431
   ]
  ],
  "leader_pos": {
@@ -25500,6 +25507,18 @@
    "cost": 4320.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1789916119
+  },
+  "jtwyslljy|74699995786387963108202624559747707144186914924472666333725823853763279029897": {
+   "leader": "jtwyslljy",
+   "asset": "74699995786387963108202624559747707144186914924472666333725823853763279029897",
+   "condition_id": "0xe2b65f6a0b03c9d155a5c30c7771cad6e01848c2ce5b953eb05f30762d6b6b60",
+   "title": "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs",
+   "outcome": "G2 Esports",
+   "slug": "lol-g2-mkoi-2026-09-20",
+   "shares": 12300.0,
+   "cost": 8487.0,
+   "max_shares": 12300.0,
+   "last_trade_ts": 1789916431
   }
  },
  "positions": [],
@@ -41594,8 +41613,24 @@
    "leader": "jtwyslljy",
    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-09-20?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-09-20T15:10:35.379873+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T15:00:00+00:00",
+   "condition_id": "0xe2b65f6a0b03c9d155a5c30c7771cad6e01848c2ce5b953eb05f30762d6b6b60",
+   "asset": "74699995786387963108202624559747707144186914924472666333725823853763279029897",
+   "copy_delay_min": 10.1,
+   "cf_ask": 0.7,
+   "cf_shares": 142.8571,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs",
+   "outcome": "G2 Esports"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T15:05:27.016213+00:00"
+ "last_updated": "2026-09-20T15:10:35.380446+00:00"
 }
