@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789874449,
+  "jtwyslljy": 1789875262,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15293,6 +15293,13 @@
    "BUY",
    1701,
    1789874449
+  ],
+  [
+   "0x39bf4a9be03f9f05ca4881f30c6af33d490d80e1450cf3970c21f6eecf79e772",
+   "104880597154094254820759874873012378046346272470162593634473126843947251436496",
+   "BUY",
+   6000,
+   1789875262
   ]
  ],
  "leader_pos": {
@@ -25339,6 +25346,18 @@
    "cost": 1394.82,
    "max_shares": 1701.0,
    "last_trade_ts": 1789874449
+  },
+  "jtwyslljy|104880597154094254820759874873012378046346272470162593634473126843947251436496": {
+   "leader": "jtwyslljy",
+   "asset": "104880597154094254820759874873012378046346272470162593634473126843947251436496",
+   "condition_id": "0x2f1622c172a51f4f76096f0443c2d4134e033bcf52a0756daccdbaa4f71a1dfc",
+   "title": "Miami Marlins vs. San Diego Padres",
+   "outcome": "San Diego Padres",
+   "slug": "mlb-mia-sd-2026-09-19",
+   "shares": 6000.0,
+   "cost": 4920.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1789875262
   }
  },
  "positions": [],
@@ -41315,8 +41334,24 @@
    "leader": "jtwyslljy",
    "title": "Minnesota Twins vs. Los Angeles Angels",
    "outcome": "Minnesota Twins"
+  },
+  {
+   "at": "2026-09-20T03:40:30.989080+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T00:40:00+00:00",
+   "condition_id": "0x2f1622c172a51f4f76096f0443c2d4134e033bcf52a0756daccdbaa4f71a1dfc",
+   "asset": "104880597154094254820759874873012378046346272470162593634473126843947251436496",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Miami Marlins vs. San Diego Padres",
+   "outcome": "San Diego Padres"
   }
  ],
  "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-20T03:25:25.784820+00:00"
+ "last_updated": "2026-09-20T03:40:30.989579+00:00"
 }
