@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789866516,
+  "jtwyslljy": 1789873219,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15279,6 +15279,13 @@
    "BUY",
    3500,
    1789866516
+  ],
+  [
+   "0x2fc43055f2be325e969a9878d835ad15a63b6b2e732ca75e941d7f76742e0b65",
+   "34924989470496352147475911606071228511945477078840609708645667231322591834866",
+   "BUY",
+   9760.3,
+   1789873219
   ]
  ],
  "leader_pos": {
@@ -25301,6 +25308,18 @@
    "cost": 24225.0,
    "max_shares": 33500.0,
    "last_trade_ts": 1789866516
+  },
+  "jtwyslljy|34924989470496352147475911606071228511945477078840609708645667231322591834866": {
+   "leader": "jtwyslljy",
+   "asset": "34924989470496352147475911606071228511945477078840609708645667231322591834866",
+   "condition_id": "0x6ee35900f0db5db345f1e8f0e878fc45cb480df4489878015fdc64a497ba6f32",
+   "title": "New York Yankees vs. Arizona Diamondbacks",
+   "outcome": "Arizona Diamondbacks",
+   "slug": "mlb-nyy-ari-2026-09-19",
+   "shares": 9760.3,
+   "cost": 5465.768,
+   "max_shares": 9760.3,
+   "last_trade_ts": 1789873219
   }
  },
  "positions": [],
@@ -41245,8 +41264,24 @@
    "leader": "jtwyslljy",
    "title": "Kansas City Royals vs. Pittsburgh Pirates",
    "outcome": "Kansas City Royals"
+  },
+  {
+   "at": "2026-09-20T03:06:00.464198+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T00:10:00+00:00",
+   "condition_id": "0x6ee35900f0db5db345f1e8f0e878fc45cb480df4489878015fdc64a497ba6f32",
+   "asset": "34924989470496352147475911606071228511945477078840609708645667231322591834866",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "New York Yankees vs. Arizona Diamondbacks",
+   "outcome": "Arizona Diamondbacks"
   }
  ],
  "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-20T01:10:33.016675+00:00"
+ "last_updated": "2026-09-20T03:06:00.464744+00:00"
 }
