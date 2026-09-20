@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789916431,
+  "jtwyslljy": 1789918068,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15377,6 +15377,13 @@
    "BUY",
    12300,
    1789916431
+  ],
+  [
+   "0x707da976ebc34a5afac885bf797841ec489ed927a931c5ad32983ea48588d447",
+   "29729117733804890808212048972839591445564007061896050610533093912145584003825",
+   "BUY",
+   804.1,
+   1789918068
   ]
  ],
  "leader_pos": {
@@ -25519,6 +25526,18 @@
    "cost": 8487.0,
    "max_shares": 12300.0,
    "last_trade_ts": 1789916431
+  },
+  "jtwyslljy|29729117733804890808212048972839591445564007061896050610533093912145584003825": {
+   "leader": "jtwyslljy",
+   "asset": "29729117733804890808212048972839591445564007061896050610533093912145584003825",
+   "condition_id": "0x191de95e6c5bdce3d0a5089b9d966a25e85c9dd2e23fb78dc41dccdfe901583b",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner",
+   "outcome": "Vitality",
+   "slug": "cs2-aur1-vit-2026-09-20",
+   "shares": 804.1,
+   "cost": 538.7470000000001,
+   "max_shares": 804.1,
+   "last_trade_ts": 1789918068
   }
  },
  "positions": [],
@@ -41629,8 +41648,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs",
    "outcome": "G2 Esports"
+  },
+  {
+   "at": "2026-09-20T15:30:44.051797+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T15:00:00+00:00",
+   "condition_id": "0x191de95e6c5bdce3d0a5089b9d966a25e85c9dd2e23fb78dc41dccdfe901583b",
+   "asset": "29729117733804890808212048972839591445564007061896050610533093912145584003825",
+   "copy_delay_min": 2.9,
+   "cf_ask": 0.7,
+   "cf_shares": 142.8571,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality - Map 2 Winner",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T15:10:35.380446+00:00"
+ "last_updated": "2026-09-20T15:30:44.052334+00:00"
 }
