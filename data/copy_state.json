@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8671.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789924078,
+  "jtwyslljy": 1789926493,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15447,6 +15447,20 @@
    "BUY",
    5499.07,
    1789924078
+  ],
+  [
+   "0x9a6e84f6ce3fcfb4adbc00350f643e7371b686b19dd7d6af945540a29115924f",
+   "109468908573536542591573505448550983230735757635412025044729393652389147007223",
+   "BUY",
+   205.16,
+   1789926396
+  ],
+  [
+   "0xfd0fa1ebfc94fe44d918469574af8786b205d12e00f2db8d39c28f205aab8cb1",
+   "109468908573536542591573505448550983230735757635412025044729393652389147007223",
+   "BUY",
+   20065,
+   1789926493
   ]
  ],
  "leader_pos": {
@@ -25633,10 +25647,10 @@
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs",
    "outcome": "Aurora Gaming",
    "slug": "cs2-aur1-vit-2026-09-20",
-   "shares": 558.26,
-   "cost": 184.2258,
-   "max_shares": 558.26,
-   "last_trade_ts": 1789923147
+   "shares": 20828.42,
+   "cost": 3019.9966000000004,
+   "max_shares": 20828.42,
+   "last_trade_ts": 1789926493
   },
   "jtwyslljy|46900714887042582173014189973791547161533309084052128107556579142189816434541": {
    "leader": "jtwyslljy",
@@ -41855,8 +41869,24 @@
    "leader": "jtwyslljy",
    "title": "Will Fulham FC win on 2026-09-20?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-09-20T17:50:30.451997+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-20T15:00:00+00:00",
+   "condition_id": "0x9d33dd588e7e711bf8c38ac59930ed4557ab66131af9278d4887ed7dd537e62d",
+   "asset": "109468908573536542591573505448550983230735757635412025044729393652389147007223",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.13,
+   "cf_shares": 769.2308,
+   "cf_cost": 100.0,
+   "cf_entry": 0.13,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs",
+   "outcome": "Aurora Gaming"
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-20T17:10:33.427434+00:00"
+ "last_updated": "2026-09-20T17:50:30.452522+00:00"
 }
