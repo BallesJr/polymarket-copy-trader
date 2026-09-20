@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8624.283830199996,
  "last_seen": {
-  "jtwyslljy": 1789834536,
+  "jtwyslljy": 1789866516,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15265,6 +15265,20 @@
    "BUY",
    22500,
    1789834536
+  ],
+  [
+   "0x206959928544b9c8ca856063f6b4993dc8d577738baeebffb03d93fae14b5800",
+   "14677186606076036033038755899712389430134530525997789717098266301849568429659",
+   "BUY",
+   30000,
+   1789866426
+  ],
+  [
+   "0xb93e9519dddf16f15d13d65a741d6964c1ee1cf57f1684b588c0eba65c9ebb3e",
+   "14677186606076036033038755899712389430134530525997789717098266301849568429659",
+   "BUY",
+   3500,
+   1789866516
   ]
  ],
  "leader_pos": {
@@ -25275,6 +25289,18 @@
    "cost": 23991.3021,
    "max_shares": 38462.729999999996,
    "last_trade_ts": 1789834536
+  },
+  "jtwyslljy|14677186606076036033038755899712389430134530525997789717098266301849568429659": {
+   "leader": "jtwyslljy",
+   "asset": "14677186606076036033038755899712389430134530525997789717098266301849568429659",
+   "condition_id": "0xa661ccdc16833ac926a47fa7a1c969532b06844ada5ea8805c95ec5c43fd9d29",
+   "title": "Kansas City Royals vs. Pittsburgh Pirates",
+   "outcome": "Kansas City Royals",
+   "slug": "mlb-kc-pit-2026-09-19",
+   "shares": 33500.0,
+   "cost": 24225.0,
+   "max_shares": 33500.0,
+   "last_trade_ts": 1789866516
   }
  },
  "positions": [],
@@ -41203,8 +41229,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-09-20T01:10:33.016126+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-19T22:40:00+00:00",
+   "condition_id": "0xa661ccdc16833ac926a47fa7a1c969532b06844ada5ea8805c95ec5c43fd9d29",
+   "asset": "14677186606076036033038755899712389430134530525997789717098266301849568429659",
+   "copy_delay_min": 1.9,
+   "cf_ask": 0.63,
+   "cf_shares": 158.7302,
+   "cf_cost": 100.0,
+   "cf_entry": 0.63,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Kansas City Royals vs. Pittsburgh Pirates",
+   "outcome": "Kansas City Royals"
   }
  ],
  "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-19T20:20:32.330963+00:00"
+ "last_updated": "2026-09-20T01:10:33.016675+00:00"
 }
