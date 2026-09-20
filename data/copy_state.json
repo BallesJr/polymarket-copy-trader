@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8524.283830199996,
+ "bankroll": 8671.342630199997,
  "last_seen": {
   "jtwyslljy": 1789912681,
   "0x53757615de": 1787221213
@@ -25445,26 +25445,7 @@
    "last_trade_ts": 1789912681
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "4039932325564119585798793753446876087513601626642517769986489047490045443884",
-   "condition_id": "0x981ebe671564404fd6ba099b13fd5ecd107abf4af9c20cf2b524756a32eba45f",
-   "title": "Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs",
-   "outcome": "Vitality",
-   "slug": "cs2-vit-furia-2026-09-20",
-   "opened_at": "2026-09-20T04:20:34.598792+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 27200.0,
-   "copy_delay_min": 3.4,
-   "best_ask": 0.68,
-   "ask_depth": 139601.88,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35423,6 +35404,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4039932325564119585798793753446876087513601626642517769986489047490045443884",
+   "condition_id": "0x981ebe671564404fd6ba099b13fd5ecd107abf4af9c20cf2b524756a32eba45f",
+   "title": "Counter-Strike: Vitality vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-vit-furia-2026-09-20",
+   "opened_at": "2026-09-20T04:20:34.598792+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 27200.0,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.68,
+   "ask_depth": 139601.88,
+   "status": "won",
+   "closed_at": "2026-09-20T14:20:33.873683+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -41504,6 +41507,6 @@
    "outcome": "Yes"
   }
  ],
- "total_pnl": -1375.7163999999993,
- "last_updated": "2026-09-20T14:05:29.405556+00:00"
+ "total_pnl": -1328.6575999999993,
+ "last_updated": "2026-09-20T14:20:33.875483+00:00"
 }
