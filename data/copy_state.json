@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8668.312358199997,
  "last_seen": {
-  "jtwyslljy": 1789976561,
+  "jtwyslljy": 1789978427,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15531,6 +15531,27 @@
    "BUY",
    1831.99,
    1789976561
+  ],
+  [
+   "0xff85a1130fd7f9bc19ea181e6eeb6438a3cbc4d6f093e283f5cb7f626dfb70e2",
+   "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "BUY",
+   20000,
+   1789978340
+  ],
+  [
+   "0x173dd465e132962b500347810abc8f4f137cd312ea72569ee94bd39963364a72",
+   "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "BUY",
+   10000,
+   1789978361
+  ],
+  [
+   "0xcb40a239a7f32203cd06be78efce7a7337c5b0c6b5989cdcb82874596d4d4564",
+   "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "BUY",
+   8809.03,
+   1789978427
   ]
  ],
  "leader_pos": {
@@ -25753,10 +25774,10 @@
    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
    "outcome": "Rebecca Sramkova",
    "slug": "wta-sramkov-chwalin-2026-09-20",
-   "shares": 9337.67,
-   "cost": 3268.1845,
-   "max_shares": 9337.67,
-   "last_trade_ts": 1789975950
+   "shares": 48146.7,
+   "cost": 9953.646500421628,
+   "max_shares": 48146.7,
+   "last_trade_ts": 1789978427
   }
  },
  "positions": [],
@@ -42049,8 +42070,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
    "outcome": "Maja Chwalinska"
+  },
+  {
+   "at": "2026-09-21T08:20:34.257229+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T07:25:00+00:00",
+   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
+   "asset": "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.17,
+   "cf_shares": 588.2353,
+   "cf_cost": 100.0,
+   "cf_entry": 0.17,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+   "outcome": "Rebecca Sramkova"
   }
  ],
  "total_pnl": -1331.6878999999992,
- "last_updated": "2026-09-21T07:50:31.035287+00:00"
+ "last_updated": "2026-09-21T08:20:34.257734+00:00"
 }
