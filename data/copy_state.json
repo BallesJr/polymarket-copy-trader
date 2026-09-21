@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8657.706326199997,
+ "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790002317,
+  "jtwyslljy": 1790005859,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15706,6 +15706,20 @@
    "BUY",
    4047.84,
    1790002317
+  ],
+  [
+   "0x8883a817cffb6a540ff380da7d0598ead2a41601ab9de18d3e763180745c0a7f",
+   "16686136209321938949378965053243796231233380915901988754570728158623318215696",
+   "BUY",
+   8316.18,
+   1790005813
+  ],
+  [
+   "0xe38ec1919a466b28b1af96ee6d4a17150abe5e7ba28313c3d8877b5c2a57afb8",
+   "16686136209321938949378965053243796231233380915901988754570728158623318215696",
+   "BUY",
+   229.39,
+   1790005859
   ]
  ],
  "leader_pos": {
@@ -25980,9 +25994,40 @@
    "cost": 2778.6751999999997,
    "max_shares": 8053.52,
    "last_trade_ts": 1790002317
+  },
+  "jtwyslljy|16686136209321938949378965053243796231233380915901988754570728158623318215696": {
+   "leader": "jtwyslljy",
+   "asset": "16686136209321938949378965053243796231233380915901988754570728158623318215696",
+   "condition_id": "0x078b68c98a7664f5d814ba2b21112f2a49450c10c8a473263dc6492d89a89d8f",
+   "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Natus Vincere",
+   "slug": "dota2-ty-navi-2026-09-21",
+   "shares": 8545.57,
+   "cost": 3330.4784000000004,
+   "max_shares": 8545.57,
+   "last_trade_ts": 1790005859
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "16686136209321938949378965053243796231233380915901988754570728158623318215696",
+   "condition_id": "0x078b68c98a7664f5d814ba2b21112f2a49450c10c8a473263dc6492d89a89d8f",
+   "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Natus Vincere",
+   "slug": "dota2-ty-navi-2026-09-21",
+   "opened_at": "2026-09-21T15:55:27.661420+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.3897,
+   "leader_cost": 3330.48,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.38,
+   "ask_depth": 8027.02,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -42425,5 +42470,5 @@
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T14:55:26.174952+00:00"
+ "last_updated": "2026-09-21T15:55:27.917690+00:00"
 }
