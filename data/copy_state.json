@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8671.342630199997,
+ "bankroll": 8571.342630199997,
  "last_seen": {
-  "jtwyslljy": 1789972494,
+  "jtwyslljy": 1789972557,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15475,6 +15475,13 @@
    "BUY",
    38.25,
    1789972494
+  ],
+  [
+   "0x02a68e0c33fe13b7bf3dd38fba6dfb8603af6bf2fa5c1f917917fa80654d1a52",
+   "60948429275275944972442818729827831543345068466937201944378049140200320521812",
+   "BUY",
+   10000,
+   1789972557
   ]
  ],
  "leader_pos": {
@@ -25685,13 +25692,32 @@
    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
    "outcome": "Maja Chwalinska",
    "slug": "wta-sramkov-chwalin-2026-09-20",
-   "shares": 38.25,
-   "cost": 24.8625,
-   "max_shares": 38.25,
-   "last_trade_ts": 1789972494
+   "shares": 10038.25,
+   "cost": 6624.8625,
+   "max_shares": 10038.25,
+   "last_trade_ts": 1789972557
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "60948429275275944972442818729827831543345068466937201944378049140200320521812",
+   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
+   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-sramkov-chwalin-2026-09-20",
+   "opened_at": "2026-09-21T06:45:30.249141+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 6624.86,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.66,
+   "ask_depth": 6487.19,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -41930,5 +41956,5 @@
   }
  ],
  "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-21T06:40:31.888491+00:00"
+ "last_updated": "2026-09-21T06:45:30.390442+00:00"
 }
