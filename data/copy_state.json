@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8571.342630199997,
+ "bankroll": 8668.312358199997,
  "last_seen": {
-  "jtwyslljy": 1789972557,
+  "jtwyslljy": 1789974825,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15482,6 +15482,13 @@
    "BUY",
    10000,
    1789972557
+  ],
+  [
+   "0xfa2ce273004249a0267c8f031d939af9ebeac913964926546b4c06899bb930ac",
+   "60948429275275944972442818729827831543345068466937201944378049140200320521812",
+   "SELL",
+   10079.08,
+   1789974825
   ]
  ],
  "leader_pos": {
@@ -25692,32 +25699,13 @@
    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
    "outcome": "Maja Chwalinska",
    "slug": "wta-sramkov-chwalin-2026-09-20",
-   "shares": 10038.25,
-   "cost": 6624.8625,
+   "shares": -40.82999999999993,
+   "cost": 171.8733003234638,
    "max_shares": 10038.25,
-   "last_trade_ts": 1789972557
+   "last_trade_ts": 1789974825
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "60948429275275944972442818729827831543345068466937201944378049140200320521812",
-   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
-   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
-   "outcome": "Maja Chwalinska",
-   "slug": "wta-sramkov-chwalin-2026-09-20",
-   "opened_at": "2026-09-21T06:45:30.249141+00:00",
-   "entry_price": 0.66,
-   "shares": 151.5152,
-   "stake": 100.0,
-   "leader_vwap": 0.66,
-   "leader_cost": 6624.86,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.66,
-   "ask_depth": 6487.19,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35698,6 +35686,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60948429275275944972442818729827831543345068466937201944378049140200320521812",
+   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
+   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-sramkov-chwalin-2026-09-20",
+   "opened_at": "2026-09-21T06:45:30.249141+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.66,
+   "leader_cost": 6624.86,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.66,
+   "ask_depth": 6487.19,
+   "status": "closed",
+   "closed_at": "2026-09-21T07:20:33.180095+00:00",
+   "exit_price": 0.64,
+   "pnl": -3.0303,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -41955,6 +41965,6 @@
    "outcome": "Aurora Gaming"
   }
  ],
- "total_pnl": -1328.6575999999993,
- "last_updated": "2026-09-21T06:45:30.390442+00:00"
+ "total_pnl": -1331.6878999999992,
+ "last_updated": "2026-09-21T07:20:33.180673+00:00"
 }
