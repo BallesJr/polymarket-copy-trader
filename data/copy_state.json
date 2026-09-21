@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8657.706326199997,
  "last_seen": {
-  "jtwyslljy": 1789987688,
+  "jtwyslljy": 1789987748,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15629,6 +15629,13 @@
    "BUY",
    14540.86,
    1789987688
+  ],
+  [
+   "0x1503044d69a75c6c707d2521ef68c2cc69a944f83b86fe5c574924905f2de66e",
+   "9713141993614918937031682129285674709511234374311415798551607665025431844431",
+   "BUY",
+   144,
+   1789987748
   ]
  ],
  "leader_pos": {
@@ -25875,10 +25882,10 @@
    "title": "Korea Open: Darya Astakhova vs Magda Linette",
    "outcome": "Darya Astakhova",
    "slug": "wta-astakho-linette-2026-09-21",
-   "shares": 14540.86,
-   "cost": 5816.344000000001,
-   "max_shares": 14540.86,
-   "last_trade_ts": 1789987688
+   "shares": 14684.86,
+   "cost": 5869.624000000001,
+   "max_shares": 14684.86,
+   "last_trade_ts": 1789987748
   }
  },
  "positions": [],
@@ -42225,8 +42232,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Darya Astakhova vs Magda Linette",
    "outcome": "Darya Astakhova"
+  },
+  {
+   "at": "2026-09-21T11:00:55.924441+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T09:00:00+00:00",
+   "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "asset": "9713141993614918937031682129285674709511234374311415798551607665025431844431",
+   "copy_delay_min": 11.8,
+   "cf_ask": 0.56,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "outcome": "Darya Astakhova"
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T10:50:33.978913+00:00"
+ "last_updated": "2026-09-21T11:00:55.924998+00:00"
 }
