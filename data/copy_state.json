@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790006164,
+  "jtwyslljy": 1790006497,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15727,6 +15727,13 @@
    "BUY",
    1201.91,
    1790006164
+  ],
+  [
+   "0xff185b88107b9a6b5b23d06a2f01a2a0ba037bad16ae3ad812b4168f6868a859",
+   "44723508312349478265266368058158505462696112057305040858943606613905113542356",
+   "BUY",
+   1728.4,
+   1790006497
   ]
  ],
  "leader_pos": {
@@ -26021,10 +26028,10 @@
    "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
    "outcome": "Team Yandex",
    "slug": "dota2-ty-navi-2026-09-21",
-   "shares": 1201.91,
-   "cost": 757.2033,
-   "max_shares": 1201.91,
-   "last_trade_ts": 1790006164
+   "shares": 2930.3100000000004,
+   "cost": 1880.6633000000002,
+   "max_shares": 2930.3100000000004,
+   "last_trade_ts": 1790006497
   }
  },
  "positions": [
@@ -42502,8 +42509,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-09-21T16:10:39.382038+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T16:00:00+00:00",
+   "condition_id": "0x078b68c98a7664f5d814ba2b21112f2a49450c10c8a473263dc6492d89a89d8f",
+   "asset": "44723508312349478265266368058158505462696112057305040858943606613905113542356",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.65,
+   "cf_shares": 153.8462,
+   "cf_cost": 100.0,
+   "cf_entry": 0.65,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T16:01:03.551954+00:00"
+ "last_updated": "2026-09-21T16:10:39.634346+00:00"
 }
