@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8568.312358199997,
+ "bankroll": 8657.706326199997,
  "last_seen": {
-  "jtwyslljy": 1789987338,
+  "jtwyslljy": 1789987688,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15608,6 +15608,27 @@
    "SELL",
    4944.6,
    1789987338
+  ],
+  [
+   "0x096709f568dd1a696825dee6570ca97318b5224544336f23fcab628ce318e84a",
+   "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "SELL",
+   19806,
+   1789987589
+  ],
+  [
+   "0x79b750801d61115d01cee673eb6297fee3b08ae637cb34293993a96c9c8d7b37",
+   "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "SELL",
+   13021.43,
+   1789987607
+  ],
+  [
+   "0xf967d940886d54f3c0317f5f69d1eb58e8c0c27f5fea6c1e7e3c6a0bededf5e8",
+   "9713141993614918937031682129285674709511234374311415798551607665025431844431",
+   "BUY",
+   14540.86,
+   1789987688
   ]
  ],
  "leader_pos": {
@@ -25842,32 +25863,25 @@
    "title": "Korea Open: Darya Astakhova vs Magda Linette",
    "outcome": "Magda Linette",
    "slug": "wta-astakho-linette-2026-09-21",
-   "shares": 39615.810000000005,
-   "cost": 23034.6677,
+   "shares": 6788.380000000005,
+   "cost": 2025.112500000001,
    "max_shares": 56137.41,
-   "last_trade_ts": 1789987338
-  }
- },
- "positions": [
-  {
+   "last_trade_ts": 1789987607
+  },
+  "jtwyslljy|9713141993614918937031682129285674709511234374311415798551607665025431844431": {
    "leader": "jtwyslljy",
-   "asset": "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "asset": "9713141993614918937031682129285674709511234374311415798551607665025431844431",
    "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
    "title": "Korea Open: Darya Astakhova vs Magda Linette",
-   "outcome": "Magda Linette",
+   "outcome": "Darya Astakhova",
    "slug": "wta-astakho-linette-2026-09-21",
-   "opened_at": "2026-09-21T08:55:26.917086+00:00",
-   "entry_price": 0.66,
-   "shares": 151.5152,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 7246.9,
-   "copy_delay_min": 3.1,
-   "best_ask": 0.66,
-   "ask_depth": 7702.0,
-   "status": "open"
+   "shares": 14540.86,
+   "cost": 5816.344000000001,
+   "max_shares": 14540.86,
+   "last_trade_ts": 1789987688
   }
- ],
+ },
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -35870,6 +35884,28 @@
    "exit_price": 0.64,
    "pnl": -3.0303,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "outcome": "Magda Linette",
+   "slug": "wta-astakho-linette-2026-09-21",
+   "opened_at": "2026-09-21T08:55:26.917086+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 7246.9,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.66,
+   "ask_depth": 7702.0,
+   "status": "closed",
+   "closed_at": "2026-09-21T10:50:33.758067+00:00",
+   "exit_price": 0.59,
+   "pnl": -10.606,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -42173,8 +42209,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
    "outcome": "Rebecca Sramkova"
+  },
+  {
+   "at": "2026-09-21T10:50:33.978317+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T09:00:00+00:00",
+   "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "asset": "9713141993614918937031682129285674709511234374311415798551607665025431844431",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.41,
+   "cf_shares": 243.9024,
+   "cf_cost": 100.0,
+   "cf_entry": 0.41,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "outcome": "Darya Astakhova"
   }
  ],
- "total_pnl": -1331.6878999999992,
- "last_updated": "2026-09-21T10:45:35.104517+00:00"
+ "total_pnl": -1342.2938999999992,
+ "last_updated": "2026-09-21T10:50:33.978913+00:00"
 }
