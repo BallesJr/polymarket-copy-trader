@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8657.706326199997,
  "last_seen": {
-  "jtwyslljy": 1789996664,
+  "jtwyslljy": 1790002317,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15692,6 +15692,20 @@
    "BUY",
    3299.99,
    1789996664
+  ],
+  [
+   "0xfc664689e8efdc209778aa1a7515ddc7bbed5bfced6791b2ab7010b7546f9495",
+   "12859307599982918003455977660679537542614147152324791960208499235911144262594",
+   "BUY",
+   4005.68,
+   1790002257
+  ],
+  [
+   "0xb0c3903b8bbb7f9028c8934d5b79bd0cf7ec95c36320e3356da0f82ba391d934",
+   "12859307599982918003455977660679537542614147152324791960208499235911144262594",
+   "BUY",
+   4047.84,
+   1790002317
   ]
  ],
  "leader_pos": {
@@ -25954,6 +25968,18 @@
    "cost": 8524.5737,
    "max_shares": 13156.929999999998,
    "last_trade_ts": 1789996664
+  },
+  "jtwyslljy|12859307599982918003455977660679537542614147152324791960208499235911144262594": {
+   "leader": "jtwyslljy",
+   "asset": "12859307599982918003455977660679537542614147152324791960208499235911144262594",
+   "condition_id": "0xcbbfa8566ddb06236c27b9548ee0562dba150742b6edcc76065d201d631fbfd0",
+   "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage",
+   "outcome": "LGD Gaming",
+   "slug": "dota2-lgd-xtreme-2026-09-21",
+   "shares": 8053.52,
+   "cost": 2778.6751999999997,
+   "max_shares": 8053.52,
+   "last_trade_ts": 1790002317
   }
  },
  "positions": [],
@@ -42380,8 +42406,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
    "outcome": "1win"
+  },
+  {
+   "at": "2026-09-21T14:55:26.174017+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T13:40:00+00:00",
+   "condition_id": "0xcbbfa8566ddb06236c27b9548ee0562dba150742b6edcc76065d201d631fbfd0",
+   "asset": "12859307599982918003455977660679537542614147152324791960208499235911144262594",
+   "copy_delay_min": 3.5,
+   "cf_ask": 0.37,
+   "cf_shares": 270.2703,
+   "cf_cost": 100.0,
+   "cf_entry": 0.37,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T13:25:28.452022+00:00"
+ "last_updated": "2026-09-21T14:55:26.174952+00:00"
 }
