@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8668.312358199997,
+ "bankroll": 8568.312358199997,
  "last_seen": {
-  "jtwyslljy": 1789978427,
+  "jtwyslljy": 1789980741,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15552,6 +15552,13 @@
    "BUY",
    8809.03,
    1789978427
+  ],
+  [
+   "0xb4101ea4e609bdcc4a523eb6f7e6ed54d51afd6c2fdf2b0435bf3de4fa184651",
+   "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "BUY",
+   11323.28,
+   1789980741
   ]
  ],
  "leader_pos": {
@@ -25778,9 +25785,40 @@
    "cost": 9953.646500421628,
    "max_shares": 48146.7,
    "last_trade_ts": 1789978427
+  },
+  "jtwyslljy|100621410580265815109246604415322493634567632234786459276650921312726587874734": {
+   "leader": "jtwyslljy",
+   "asset": "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "outcome": "Magda Linette",
+   "slug": "wta-astakho-linette-2026-09-21",
+   "shares": 11323.28,
+   "cost": 7246.899200000001,
+   "max_shares": 11323.28,
+   "last_trade_ts": 1789980741
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "100621410580265815109246604415322493634567632234786459276650921312726587874734",
+   "condition_id": "0xbf67d3388aa6bcfcded7ca4e774e41deaa8716c24f65da8d752518778a8a163e",
+   "title": "Korea Open: Darya Astakhova vs Magda Linette",
+   "outcome": "Magda Linette",
+   "slug": "wta-astakho-linette-2026-09-21",
+   "opened_at": "2026-09-21T08:55:26.917086+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 7246.9,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.66,
+   "ask_depth": 7702.0,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -42089,5 +42127,5 @@
   }
  ],
  "total_pnl": -1331.6878999999992,
- "last_updated": "2026-09-21T08:20:34.257734+00:00"
+ "last_updated": "2026-09-21T08:55:27.160951+00:00"
 }
