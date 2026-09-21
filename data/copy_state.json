@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8668.312358199997,
  "last_seen": {
-  "jtwyslljy": 1789974825,
+  "jtwyslljy": 1789975950,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15489,6 +15489,13 @@
    "SELL",
    10079.08,
    1789974825
+  ],
+  [
+   "0xd06c45cba9b51d96623b66db3e3c88680c7e10ed18114a0ae1f258a95c49a94a",
+   "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "BUY",
+   9337.67,
+   1789975950
   ]
  ],
  "leader_pos": {
@@ -25703,6 +25710,18 @@
    "cost": 171.8733003234638,
    "max_shares": 10038.25,
    "last_trade_ts": 1789974825
+  },
+  "jtwyslljy|79686495690666561530662135679423671292637157763114374584992977436490602477725": {
+   "leader": "jtwyslljy",
+   "asset": "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
+   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+   "outcome": "Rebecca Sramkova",
+   "slug": "wta-sramkov-chwalin-2026-09-20",
+   "shares": 9337.67,
+   "cost": 3268.1845,
+   "max_shares": 9337.67,
+   "last_trade_ts": 1789975950
   }
  },
  "positions": [],
@@ -41963,8 +41982,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO5) - StarLadder StarSeries Playoffs",
    "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-09-21T07:35:25.121872+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T07:25:00+00:00",
+   "condition_id": "0xd0983051bb6f6a90c56dd0cd470add440ecfd1f9791ed005b3e5c623728a34d9",
+   "asset": "79686495690666561530662135679423671292637157763114374584992977436490602477725",
+   "copy_delay_min": 2.9,
+   "cf_ask": 0.31,
+   "cf_shares": 322.5806,
+   "cf_cost": 100.0,
+   "cf_entry": 0.31,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+   "outcome": "Rebecca Sramkova"
   }
  ],
  "total_pnl": -1331.6878999999992,
- "last_updated": "2026-09-21T07:20:33.180673+00:00"
+ "last_updated": "2026-09-21T07:35:25.122491+00:00"
 }
