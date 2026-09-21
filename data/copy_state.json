@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790005859,
+  "jtwyslljy": 1790006164,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15720,6 +15720,13 @@
    "BUY",
    229.39,
    1790005859
+  ],
+  [
+   "0x36e6aaec67c0ab4e8d7467121b8ba8a09307118ffe6da16a4c31476fe9fe0fa4",
+   "44723508312349478265266368058158505462696112057305040858943606613905113542356",
+   "BUY",
+   1201.91,
+   1790006164
   ]
  ],
  "leader_pos": {
@@ -26006,6 +26013,18 @@
    "cost": 3330.4784000000004,
    "max_shares": 8545.57,
    "last_trade_ts": 1790005859
+  },
+  "jtwyslljy|44723508312349478265266368058158505462696112057305040858943606613905113542356": {
+   "leader": "jtwyslljy",
+   "asset": "44723508312349478265266368058158505462696112057305040858943606613905113542356",
+   "condition_id": "0x078b68c98a7664f5d814ba2b21112f2a49450c10c8a473263dc6492d89a89d8f",
+   "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Team Yandex",
+   "slug": "dota2-ty-navi-2026-09-21",
+   "shares": 1201.91,
+   "cost": 757.2033,
+   "max_shares": 1201.91,
+   "last_trade_ts": 1790006164
   }
  },
  "positions": [
@@ -42467,8 +42486,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - PGL Wallachia Group Stage",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-09-21T16:01:03.317130+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T16:00:00+00:00",
+   "condition_id": "0x078b68c98a7664f5d814ba2b21112f2a49450c10c8a473263dc6492d89a89d8f",
+   "asset": "44723508312349478265266368058158505462696112057305040858943606613905113542356",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.66,
+   "cf_shares": 151.5152,
+   "cf_cost": 100.0,
+   "cf_entry": 0.66,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs Natus Vincere (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T15:55:27.917690+00:00"
+ "last_updated": "2026-09-21T16:01:03.551954+00:00"
 }
