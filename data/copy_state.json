@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8657.706326199997,
  "last_seen": {
-  "jtwyslljy": 1789996575,
+  "jtwyslljy": 1789996664,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15685,6 +15685,13 @@
    "BUY",
    1210.88,
    1789996575
+  ],
+  [
+   "0x8e16591c8f0aa8d6c469d901686f7af9c58fb5437a78b731f0b7079541ca312f",
+   "42302638249525110717977721997252756190475775094986185961295974504152153347675",
+   "BUY",
+   3299.99,
+   1789996664
   ]
  ],
  "leader_pos": {
@@ -25943,10 +25950,10 @@
    "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
    "outcome": "1win",
    "slug": "dota2-cs-1win-2026-09-21",
-   "shares": 9856.939999999999,
-   "cost": 6280.5805,
-   "max_shares": 9856.939999999999,
-   "last_trade_ts": 1789996575
+   "shares": 13156.929999999998,
+   "cost": 8524.5737,
+   "max_shares": 13156.929999999998,
+   "last_trade_ts": 1789996664
   }
  },
  "positions": [],
@@ -42357,8 +42364,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
    "outcome": "1win"
+  },
+  {
+   "at": "2026-09-21T13:25:28.451506+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-21T09:20:00+00:00",
+   "condition_id": "0xcda597b06cd18a949434ea636bc3e274912b74a69fc50368ea2291762a063394",
+   "asset": "42302638249525110717977721997252756190475775094986185961295974504152153347675",
+   "copy_delay_min": 7.7,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
+   "outcome": "1win"
   }
  ],
  "total_pnl": -1342.2938999999992,
- "last_updated": "2026-09-21T13:20:37.252019+00:00"
+ "last_updated": "2026-09-21T13:25:28.452022+00:00"
 }
