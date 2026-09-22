@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8471.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790068450,
+  "jtwyslljy": 1790073096,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15867,6 +15867,13 @@
    "BUY",
    10825.69,
    1790068450
+  ],
+  [
+   "0xe0b3619479e43aca7393e739b0e5ed75e91297c75571332bde2c59d9e6ce140f",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "BUY",
+   5000,
+   1790073096
   ]
  ],
  "leader_pos": {
@@ -26261,6 +26268,18 @@
    "cost": 9698.3297,
    "max_shares": 17125.13,
    "last_trade_ts": 1790068450
+  },
+  "jtwyslljy|105980372882486836345062567108237444343989691817427659238844848500417856270255": {
+   "leader": "jtwyslljy",
+   "asset": "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "condition_id": "0x7d57a69811cd9c59b54b82090cf1ff3539b8e8870f6cbaaa253c44d5ecc52a08",
+   "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
+   "outcome": "Barbora Krejcikova",
+   "slug": "wta-krejcik-friedsa-2026-09-21",
+   "shares": 5000.0,
+   "cost": 4450.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790073096
   }
  },
  "positions": [
@@ -42948,8 +42967,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
    "outcome": "Tatiana Prozorova"
+  },
+  {
+   "at": "2026-09-22T10:40:35.414887+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T10:40:00+00:00",
+   "condition_id": "0x7d57a69811cd9c59b54b82090cf1ff3539b8e8870f6cbaaa253c44d5ecc52a08",
+   "asset": "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.92,
+   "cf_shares": 108.6957,
+   "cf_cost": 100.0,
+   "cf_entry": 0.92,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
+   "outcome": "Barbora Krejcikova"
   }
  ],
  "total_pnl": -1428.3194999999992,
- "last_updated": "2026-09-22T09:20:35.849777+00:00"
+ "last_updated": "2026-09-22T10:40:35.628686+00:00"
 }
