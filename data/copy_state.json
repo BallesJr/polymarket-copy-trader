@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8357.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790061115,
+  "jtwyslljy": 1790061507,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15825,6 +15825,13 @@
    "BUY",
    15500,
    1790061115
+  ],
+  [
+   "0x1e1b672a294a85b358148341432e8f5855f492f0013aa66a2cca32fcda3fff43",
+   "98846895938178192949534770128625675997069251347267967209115658638131027876691",
+   "BUY",
+   15000,
+   1790061507
   ]
  ],
  "leader_pos": {
@@ -26195,6 +26202,18 @@
    "cost": 5200.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1790055672
+  },
+  "jtwyslljy|98846895938178192949534770128625675997069251347267967209115658638131027876691": {
+   "leader": "jtwyslljy",
+   "asset": "98846895938178192949534770128625675997069251347267967209115658638131027876691",
+   "condition_id": "0x4ef1485a1806872fb85be28f1fcdc5150a6de1410894561ed754b34559eb529f",
+   "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-ostapen-zakharo-2026-09-20",
+   "shares": 15000.0,
+   "cost": 8550.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1790061507
   }
  },
  "positions": [
@@ -42808,8 +42827,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Taylah Preston vs Himeno Sakatsume",
    "outcome": "Himeno Sakatsume"
+  },
+  {
+   "at": "2026-09-22T07:20:38.425404+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T07:15:00+00:00",
+   "condition_id": "0x4ef1485a1806872fb85be28f1fcdc5150a6de1410894561ed754b34559eb529f",
+   "asset": "98846895938178192949534770128625675997069251347267967209115658638131027876691",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
+   "outcome": "Jelena Ostapenko"
   }
  ],
  "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-22T07:15:34.949650+00:00"
+ "last_updated": "2026-09-22T07:20:38.852156+00:00"
 }
