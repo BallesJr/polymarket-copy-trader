@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8357.706326199997,
+ "bankroll": 8379.372997199998,
  "last_seen": {
-  "jtwyslljy": 1790061507,
+  "jtwyslljy": 1790061766,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15832,6 +15832,13 @@
    "BUY",
    15000,
    1790061507
+  ],
+  [
+   "0x72141b6515687d45a3b0130a05280dce156f0ef6d69d471f780cf5baf3f026b5",
+   "55532801712657393384331451046287953811319853989376553078362883487223124510233",
+   "SELL",
+   20294.36,
+   1790061766
   ]
  ],
  "leader_pos": {
@@ -26186,10 +26193,10 @@
    "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
    "outcome": "Tatiana Prozorova",
    "slug": "wta-prozoro-costoul-2026-09-20",
-   "shares": 37500.0,
-   "cost": 14595.0,
+   "shares": 17205.64,
+   "cost": 12348.445700756763,
    "max_shares": 37500.0,
-   "last_trade_ts": 1790061115
+   "last_trade_ts": 1790061766
   },
   "jtwyslljy|67155976866092686837716629899343511108951070666792456185920632453605912592258": {
    "leader": "jtwyslljy",
@@ -26217,24 +26224,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "55532801712657393384331451046287953811319853989376553078362883487223124510233",
-   "condition_id": "0x3636953590fb1d42d524b2416698a85f8cab7b802d7e8bbae04c00ddd6520b88",
-   "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
-   "outcome": "Tatiana Prozorova",
-   "slug": "wta-prozoro-costoul-2026-09-20",
-   "opened_at": "2026-09-22T05:45:38.801958+00:00",
-   "entry_price": 0.6,
-   "shares": 166.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 6000.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.6,
-   "ask_depth": 6703.56,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "67155976866092686837716629899343511108951070666792456185920632453605912592258",
@@ -36300,6 +36289,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55532801712657393384331451046287953811319853989376553078362883487223124510233",
+   "condition_id": "0x3636953590fb1d42d524b2416698a85f8cab7b802d7e8bbae04c00ddd6520b88",
+   "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+   "outcome": "Tatiana Prozorova",
+   "slug": "wta-prozoro-costoul-2026-09-20",
+   "opened_at": "2026-09-22T05:45:38.801958+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 6000.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.6,
+   "ask_depth": 6703.56,
+   "status": "closed",
+   "closed_at": "2026-09-22T07:30:52.543969+00:00",
+   "exit_price": 0.13,
+   "pnl": -78.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -42845,6 +42856,6 @@
    "outcome": "Jelena Ostapenko"
   }
  ],
- "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-22T07:20:38.852156+00:00"
+ "total_pnl": -1520.6271999999992,
+ "last_updated": "2026-09-22T07:30:52.689761+00:00"
 }
