@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8471.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790084308,
+  "jtwyslljy": 1790090278,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15979,6 +15979,13 @@
    "BUY",
    10000,
    1790084308
+  ],
+  [
+   "0x05654c3025f3ca3b57fdfc9ee081e4e3d31953773642834b26e2290687b8f09f",
+   "3839403768834528992892251534605129739613871177382907999633560587113553780972",
+   "BUY",
+   6891.61,
+   1790090278
   ]
  ],
  "leader_pos": {
@@ -26397,6 +26404,18 @@
    "cost": 8000.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1790084308
+  },
+  "jtwyslljy|3839403768834528992892251534605129739613871177382907999633560587113553780972": {
+   "leader": "jtwyslljy",
+   "asset": "3839403768834528992892251534605129739613871177382907999633560587113553780972",
+   "condition_id": "0x4d0891323dde287db406eeee376a36e785d78028ecbd7eeeefcac633fe99d84a",
+   "title": "Dota 2: LGD Gaming vs Aurora (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Aurora",
+   "slug": "dota2-lgd-aur1-2026-09-22",
+   "shares": 6891.61,
+   "cost": 5375.4558,
+   "max_shares": 6891.61,
+   "last_trade_ts": 1790090278
   }
  },
  "positions": [],
@@ -43199,8 +43218,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
    "outcome": "Barbora Krejcikova"
+  },
+  {
+   "at": "2026-09-22T15:20:44.453590+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T13:45:00+00:00",
+   "condition_id": "0x4d0891323dde287db406eeee376a36e785d78028ecbd7eeeefcac633fe99d84a",
+   "asset": "3839403768834528992892251534605129739613871177382907999633560587113553780972",
+   "copy_delay_min": 2.8,
+   "cf_ask": 0.79,
+   "cf_shares": 125.679,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7957,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs Aurora (BO3) - PGL Wallachia Group Stage",
+   "outcome": "Aurora"
   }
  ],
  "total_pnl": -1528.3194999999992,
- "last_updated": "2026-09-22T13:40:43.539530+00:00"
+ "last_updated": "2026-09-22T15:20:44.454154+00:00"
 }
