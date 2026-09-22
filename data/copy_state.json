@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8571.680697199998,
+ "bankroll": 8471.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790065524,
+  "jtwyslljy": 1790067346,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15853,6 +15853,13 @@
    "BUY",
    2022.99,
    1790065524
+  ],
+  [
+   "0x49acae137e2339a98dc5660b32ec2fe738d0e69b181cfc95a68e52e27d021507",
+   "47717867303330997793525460025018697614261243022785263884184260994623412546483",
+   "BUY",
+   6299.44,
+   1790067346
   ]
  ],
  "leader_pos": {
@@ -26235,9 +26242,40 @@
    "cost": 8550.0,
    "max_shares": 15000.0,
    "last_trade_ts": 1790061507
+  },
+  "jtwyslljy|47717867303330997793525460025018697614261243022785263884184260994623412546483": {
+   "leader": "jtwyslljy",
+   "asset": "47717867303330997793525460025018697614261243022785263884184260994623412546483",
+   "condition_id": "0xa2b5e1e19c80ba1e09a9e92202784592b19d7ab06bdbc6d3dda72bc58e963acd",
+   "title": "Korea Open: Alina Charaeva vs Sofia Kenin",
+   "outcome": "Sofia Kenin",
+   "slug": "wta-charaev-kenin-2026-09-20",
+   "shares": 6299.44,
+   "cost": 3527.6864,
+   "max_shares": 6299.44,
+   "last_trade_ts": 1790067346
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "47717867303330997793525460025018697614261243022785263884184260994623412546483",
+   "condition_id": "0xa2b5e1e19c80ba1e09a9e92202784592b19d7ab06bdbc6d3dda72bc58e963acd",
+   "title": "Korea Open: Alina Charaeva vs Sofia Kenin",
+   "outcome": "Sofia Kenin",
+   "slug": "wta-charaev-kenin-2026-09-20",
+   "opened_at": "2026-09-22T09:05:28.343903+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 3527.69,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.57,
+   "ask_depth": 7533.99,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -42906,5 +42944,5 @@
   }
  ],
  "total_pnl": -1428.3194999999992,
- "last_updated": "2026-09-22T08:50:35.660545+00:00"
+ "last_updated": "2026-09-22T09:05:28.500090+00:00"
 }
