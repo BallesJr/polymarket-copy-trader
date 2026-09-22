@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8557.706326199997,
+ "bankroll": 8357.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790054388,
+  "jtwyslljy": 1790055672,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15797,6 +15797,20 @@
    "SELL",
    4900,
    1790054388
+  ],
+  [
+   "0xce33558b966463d555cf0434c7323c96449e9b0c7f2b30220f253b59f23c3844",
+   "55532801712657393384331451046287953811319853989376553078362883487223124510233",
+   "BUY",
+   10000,
+   1790055661
+  ],
+  [
+   "0x6b2b02685a510bab1193bbd4213e8f73ba37a3acaa35f989efa97afea54073a4",
+   "67155976866092686837716629899343511108951070666792456185920632453605912592258",
+   "BUY",
+   10000,
+   1790055672
   ]
  ],
  "leader_pos": {
@@ -26143,9 +26157,70 @@
    "cost": 2494.17330015,
    "max_shares": 6900.0,
    "last_trade_ts": 1790052028
+  },
+  "jtwyslljy|55532801712657393384331451046287953811319853989376553078362883487223124510233": {
+   "leader": "jtwyslljy",
+   "asset": "55532801712657393384331451046287953811319853989376553078362883487223124510233",
+   "condition_id": "0x3636953590fb1d42d524b2416698a85f8cab7b802d7e8bbae04c00ddd6520b88",
+   "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+   "outcome": "Tatiana Prozorova",
+   "slug": "wta-prozoro-costoul-2026-09-20",
+   "shares": 10000.0,
+   "cost": 6000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790055661
+  },
+  "jtwyslljy|67155976866092686837716629899343511108951070666792456185920632453605912592258": {
+   "leader": "jtwyslljy",
+   "asset": "67155976866092686837716629899343511108951070666792456185920632453605912592258",
+   "condition_id": "0x8df4c5a9f806cb8a6bd11f2035424fc5e713b294e740070de62a3df30599964f",
+   "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-vekic-wa-2026-09-20",
+   "shares": 10000.0,
+   "cost": 5200.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790055672
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "55532801712657393384331451046287953811319853989376553078362883487223124510233",
+   "condition_id": "0x3636953590fb1d42d524b2416698a85f8cab7b802d7e8bbae04c00ddd6520b88",
+   "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+   "outcome": "Tatiana Prozorova",
+   "slug": "wta-prozoro-costoul-2026-09-20",
+   "opened_at": "2026-09-22T05:45:38.801958+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 6000.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.6,
+   "ask_depth": 6703.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67155976866092686837716629899343511108951070666792456185920632453605912592258",
+   "condition_id": "0x8df4c5a9f806cb8a6bd11f2035424fc5e713b294e740070de62a3df30599964f",
+   "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-vekic-wa-2026-09-20",
+   "opened_at": "2026-09-22T05:45:38.996512+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 5200.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.52,
+   "ask_depth": 24781.31,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -42722,5 +42797,5 @@
   }
  ],
  "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-22T05:25:26.078289+00:00"
+ "last_updated": "2026-09-22T05:45:39.350327+00:00"
 }
