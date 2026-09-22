@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8379.372997199998,
+ "bankroll": 8571.680697199998,
  "last_seen": {
   "jtwyslljy": 1790065524,
   "0x53757615de": 1787221213
@@ -26237,26 +26237,7 @@
    "last_trade_ts": 1790061507
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "67155976866092686837716629899343511108951070666792456185920632453605912592258",
-   "condition_id": "0x8df4c5a9f806cb8a6bd11f2035424fc5e713b294e740070de62a3df30599964f",
-   "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
-   "outcome": "Xinyu Wang",
-   "slug": "wta-vekic-wa-2026-09-20",
-   "opened_at": "2026-09-22T05:45:38.996512+00:00",
-   "entry_price": 0.52,
-   "shares": 192.3077,
-   "stake": 100.0,
-   "leader_vwap": 0.52,
-   "leader_cost": 5200.0,
-   "copy_delay_min": 4.4,
-   "best_ask": 0.52,
-   "ask_depth": 24781.31,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -36325,6 +36306,28 @@
    "exit_price": 0.13,
    "pnl": -78.3333,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "67155976866092686837716629899343511108951070666792456185920632453605912592258",
+   "condition_id": "0x8df4c5a9f806cb8a6bd11f2035424fc5e713b294e740070de62a3df30599964f",
+   "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-vekic-wa-2026-09-20",
+   "opened_at": "2026-09-22T05:45:38.996512+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 5200.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.52,
+   "ask_depth": 24781.31,
+   "status": "won",
+   "closed_at": "2026-09-22T08:50:35.658587+00:00",
+   "exit_price": 1.0,
+   "pnl": 92.3077,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -42902,6 +42905,6 @@
    "outcome": "Tatiana Prozorova"
   }
  ],
- "total_pnl": -1520.6271999999992,
- "last_updated": "2026-09-22T08:30:51.715141+00:00"
+ "total_pnl": -1428.3194999999992,
+ "last_updated": "2026-09-22T08:50:35.660545+00:00"
 }
