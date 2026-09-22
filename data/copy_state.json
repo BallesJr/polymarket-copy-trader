@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790042600,
+  "jtwyslljy": 1790051328,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15755,6 +15755,20 @@
    "BUY",
    3000,
    1790042600
+  ],
+  [
+   "0x2f4fae87bc3ae4e871634f62acb9685bd5c6aa7b950ed5b1f577557e3b91f06e",
+   "100974290002114756884746438516711712008486048104229496506582740444428653320434",
+   "BUY",
+   6313.04,
+   1790051308
+  ],
+  [
+   "0x8375bb1852087117711e27c610d6cdece57699417a5f4fd01b538c871c4ce9ac",
+   "100974290002114756884746438516711712008486048104229496506582740444428653320434",
+   "BUY",
+   12,
+   1790051328
   ]
  ],
  "leader_pos": {
@@ -26077,6 +26091,18 @@
    "cost": 3110.5868,
    "max_shares": 4618.51,
    "last_trade_ts": 1790042600
+  },
+  "jtwyslljy|100974290002114756884746438516711712008486048104229496506582740444428653320434": {
+   "leader": "jtwyslljy",
+   "asset": "100974290002114756884746438516711712008486048104229496506582740444428653320434",
+   "condition_id": "0x7c7fde3e97d01fdf07d566ed2d6a08767c8fae1c7c9faa3794dc9f033429b4e0",
+   "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
+   "outcome": "So-Hyun Park",
+   "slug": "wta-park-montgom-2026-09-20",
+   "shares": 6325.04,
+   "cost": 1328.2584,
+   "max_shares": 6325.04,
+   "last_trade_ts": 1790051328
   }
  },
  "positions": [],
@@ -42621,8 +42647,24 @@
    "leader": "jtwyslljy",
    "title": "Dallas Wings vs. Phoenix Mercury",
    "outcome": "Dallas Wings"
+  },
+  {
+   "at": "2026-09-22T04:35:25.539229+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T03:30:00+00:00",
+   "condition_id": "0x7c7fde3e97d01fdf07d566ed2d6a08767c8fae1c7c9faa3794dc9f033429b4e0",
+   "asset": "100974290002114756884746438516711712008486048104229496506582740444428653320434",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.46,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
+   "outcome": "So-Hyun Park"
   }
  ],
  "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-22T02:10:34.980512+00:00"
+ "last_updated": "2026-09-22T04:35:25.539807+00:00"
 }
