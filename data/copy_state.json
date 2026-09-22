@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8471.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790081979,
+  "jtwyslljy": 1790084065,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15937,6 +15937,34 @@
    "BUY",
    1920.22,
    1790081979
+  ],
+  [
+   "0x3eec46765396f8d36303d2a696ca94ff8e33fad2fba93a6a78d7c0aac3dc1206",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "SELL",
+   1000,
+   1790083767
+  ],
+  [
+   "0xe3b7ca3f72312b4d3fc740420fdb41d478c05deb875606cde02620ce3a121265",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "SELL",
+   1000,
+   1790083807
+  ],
+  [
+   "0xc1f38a02008f6b0756ac39fbc301e899a43c721c9144a3a76e8c2de3c512d6cc",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "SELL",
+   1000,
+   1790083978
+  ],
+  [
+   "0x947de22f18fd26d9b2fbe966478a7cd6787d61b74c7b410b1df4417a76672c36",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "SELL",
+   671.76,
+   1790084065
   ]
  ],
  "leader_pos": {
@@ -26339,10 +26367,10 @@
    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
    "outcome": "Barbora Krejcikova",
    "slug": "wta-krejcik-friedsa-2026-09-21",
-   "shares": 29066.77,
-   "cost": 21236.774600098677,
+   "shares": 25395.010000000002,
+   "cost": 18692.496200098678,
    "max_shares": 29066.77,
-   "last_trade_ts": 1790081979
+   "last_trade_ts": 1790084065
   }
  },
  "positions": [],
@@ -43097,8 +43125,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
    "outcome": "Barbora Krejcikova"
+  },
+  {
+   "at": "2026-09-22T13:35:32.187739+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T10:40:00+00:00",
+   "condition_id": "0x7d57a69811cd9c59b54b82090cf1ff3539b8e8870f6cbaaa253c44d5ecc52a08",
+   "asset": "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "copy_delay_min": 1.1,
+   "cf_ask": 0.96,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
+   "outcome": "Barbora Krejcikova"
   }
  ],
  "total_pnl": -1528.3194999999992,
- "last_updated": "2026-09-22T13:05:32.478017+00:00"
+ "last_updated": "2026-09-22T13:35:32.188217+00:00"
 }
