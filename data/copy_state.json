@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8471.680697199998,
+ "bankroll": 8371.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790096203,
+  "jtwyslljy": 1790096893,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16000,6 +16000,13 @@
    "BUY",
    314.98,
    1790096203
+  ],
+  [
+   "0x858c4d45820449ef308b3206ec34f4953bfa350e59952907a1a8180b2ffdadf4",
+   "14416505575828040237118070696827886472002245054046973768141141171491187682469",
+   "BUY",
+   985.53,
+   1790096893
   ]
  ],
  "leader_pos": {
@@ -26454,9 +26461,40 @@
    "cost": 211.03660000000002,
    "max_shares": 314.98,
    "last_trade_ts": 1790096203
+  },
+  "jtwyslljy|14416505575828040237118070696827886472002245054046973768141141171491187682469": {
+   "leader": "jtwyslljy",
+   "asset": "14416505575828040237118070696827886472002245054046973768141141171491187682469",
+   "condition_id": "0xe2f8304b71292a470f2167df1151c36229c40bd7810497fea703938c655bc865",
+   "title": "Korea Open: Kamilla Rakhimova vs Katie Volynets",
+   "outcome": "Katie Volynets",
+   "slug": "wta-rakhimo-volynet-2026-09-22",
+   "shares": 985.53,
+   "cost": 640.5945,
+   "max_shares": 985.53,
+   "last_trade_ts": 1790096893
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "14416505575828040237118070696827886472002245054046973768141141171491187682469",
+   "condition_id": "0xe2f8304b71292a470f2167df1151c36229c40bd7810497fea703938c655bc865",
+   "title": "Korea Open: Kamilla Rakhimova vs Katie Volynets",
+   "outcome": "Katie Volynets",
+   "slug": "wta-rakhimo-volynet-2026-09-22",
+   "opened_at": "2026-09-22T17:15:32.772193+00:00",
+   "entry_price": 0.66,
+   "shares": 151.5152,
+   "stake": 100.0,
+   "leader_vwap": 0.65,
+   "leader_cost": 640.59,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.66,
+   "ask_depth": 8876.86,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -43275,5 +43313,5 @@
   }
  ],
  "total_pnl": -1528.3194999999992,
- "last_updated": "2026-09-22T17:05:28.352000+00:00"
+ "last_updated": "2026-09-22T17:15:32.938867+00:00"
 }
