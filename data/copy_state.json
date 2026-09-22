@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790051328,
+  "jtwyslljy": 1790052028,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15769,6 +15769,20 @@
    "BUY",
    12,
    1790051328
+  ],
+  [
+   "0x512d079dcedd8827ba1b9e2c1396ba18d2d58cb32c2e668355a82908b16e2e6a",
+   "27747400922439303535451761360411086675658744444318529748470149416099497795138",
+   "BUY",
+   3900,
+   1790052016
+  ],
+  [
+   "0x4b4f0129b695befc289d3a6409389723c60b570db860ddb101fa69246ccf879c",
+   "27747400922439303535451761360411086675658744444318529748470149416099497795138",
+   "BUY",
+   3000,
+   1790052028
   ]
  ],
  "leader_pos": {
@@ -26103,6 +26117,18 @@
    "cost": 1328.2584,
    "max_shares": 6325.04,
    "last_trade_ts": 1790051328
+  },
+  "jtwyslljy|27747400922439303535451761360411086675658744444318529748470149416099497795138": {
+   "leader": "jtwyslljy",
+   "asset": "27747400922439303535451761360411086675658744444318529748470149416099497795138",
+   "condition_id": "0x5b54ba4b4ab1670a21c040d9dedf2acb468f175f4f9d7dad360dfb22b48ddae4",
+   "title": "Korea Open: Taylah Preston vs Himeno Sakatsume",
+   "outcome": "Himeno Sakatsume",
+   "slug": "wta-preston-sakatsu-2026-09-20",
+   "shares": 6900.0,
+   "cost": 2494.17330015,
+   "max_shares": 6900.0,
+   "last_trade_ts": 1790052028
   }
  },
  "positions": [],
@@ -42663,8 +42689,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
    "outcome": "So-Hyun Park"
+  },
+  {
+   "at": "2026-09-22T04:45:31.205044+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T03:05:00+00:00",
+   "condition_id": "0x5b54ba4b4ab1670a21c040d9dedf2acb468f175f4f9d7dad360dfb22b48ddae4",
+   "asset": "27747400922439303535451761360411086675658744444318529748470149416099497795138",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.51,
+   "cf_shares": 196.0784,
+   "cf_cost": 100.0,
+   "cf_entry": 0.51,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Taylah Preston vs Himeno Sakatsume",
+   "outcome": "Himeno Sakatsume"
   }
  ],
  "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-22T04:35:25.539807+00:00"
+ "last_updated": "2026-09-22T04:45:31.205542+00:00"
 }
