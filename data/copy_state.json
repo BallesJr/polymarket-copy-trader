@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8557.706326199997,
  "last_seen": {
-  "jtwyslljy": 1790009439,
+  "jtwyslljy": 1790042478,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15741,6 +15741,13 @@
    "BUY",
    7388.06,
    1790009439
+  ],
+  [
+   "0x97a8fea893cc46991f7917fe2aed2f4db0f6fc3221db04f1c7db2dd147168903",
+   "26603239767113701790776634803790654539492519362779665632490658212718064984767",
+   "BUY",
+   1618.51,
+   1790042478
   ]
  ],
  "leader_pos": {
@@ -26051,6 +26058,18 @@
    "cost": 4506.7166,
    "max_shares": 7388.06,
    "last_trade_ts": 1790009439
+  },
+  "jtwyslljy|26603239767113701790776634803790654539492519362779665632490658212718064984767": {
+   "leader": "jtwyslljy",
+   "asset": "26603239767113701790776634803790654539492519362779665632490658212718064984767",
+   "condition_id": "0x32ec10c4602f753c56d00bbf92f4dc212a5be0a34c2638b15eda50ca1b7ce303",
+   "title": "Dallas Wings vs. Phoenix Mercury",
+   "outcome": "Dallas Wings",
+   "slug": "wnba-dal-phx-2026-09-21",
+   "shares": 1618.51,
+   "cost": 1100.5868,
+   "max_shares": 1618.51,
+   "last_trade_ts": 1790042478
   }
  },
  "positions": [],
@@ -42563,8 +42582,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Yandex vs Natus Vincere - Game 2 Winner",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-09-22T02:05:35.225219+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T02:00:00+00:00",
+   "condition_id": "0x32ec10c4602f753c56d00bbf92f4dc212a5be0a34c2638b15eda50ca1b7ce303",
+   "asset": "26603239767113701790776634803790654539492519362779665632490658212718064984767",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dallas Wings vs. Phoenix Mercury",
+   "outcome": "Dallas Wings"
   }
  ],
  "total_pnl": -1442.2938999999992,
- "last_updated": "2026-09-21T18:25:29.062037+00:00"
+ "last_updated": "2026-09-22T02:05:35.225988+00:00"
 }
