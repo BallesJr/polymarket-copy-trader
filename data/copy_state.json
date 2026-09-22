@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8471.680697199998,
  "last_seen": {
-  "jtwyslljy": 1790084065,
+  "jtwyslljy": 1790084308,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -15965,6 +15965,20 @@
    "SELL",
    671.76,
    1790084065
+  ],
+  [
+   "0x6ae0ef21f3ea1f85c87be393a930f4891245c1de2fe243526ef2c35c86f6e589",
+   "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "SELL",
+   5000,
+   1790084179
+  ],
+  [
+   "0xf0a49d56b0142117259e7b6077ffdc198d57800ee066f7a0e8714e0cbe8c6f2d",
+   "5492371932901294944131929845909655844892824830764425984801919441109350717479",
+   "BUY",
+   10000,
+   1790084308
   ]
  ],
  "leader_pos": {
@@ -26367,10 +26381,22 @@
    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
    "outcome": "Barbora Krejcikova",
    "slug": "wta-krejcik-friedsa-2026-09-21",
-   "shares": 25395.010000000002,
-   "cost": 18692.496200098678,
+   "shares": 20395.010000000002,
+   "cost": 14242.496200098678,
    "max_shares": 29066.77,
-   "last_trade_ts": 1790084065
+   "last_trade_ts": 1790084179
+  },
+  "jtwyslljy|5492371932901294944131929845909655844892824830764425984801919441109350717479": {
+   "leader": "jtwyslljy",
+   "asset": "5492371932901294944131929845909655844892824830764425984801919441109350717479",
+   "condition_id": "0xece5e26c22730cf6e7568c866286c42954d71377d2ed5bad724bd2ff5e6e4ff9",
+   "title": "Singapore Open: Maria Sakkari vs Linda Fruhvirtova",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-sakkari-fruhvir-2026-09-20",
+   "shares": 10000.0,
+   "cost": 8000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790084308
   }
  },
  "positions": [],
@@ -43141,8 +43167,40 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
    "outcome": "Barbora Krejcikova"
+  },
+  {
+   "at": "2026-09-22T13:40:43.344210+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T13:40:00+00:00",
+   "condition_id": "0xece5e26c22730cf6e7568c866286c42954d71377d2ed5bad724bd2ff5e6e4ff9",
+   "asset": "5492371932901294944131929845909655844892824830764425984801919441109350717479",
+   "copy_delay_min": 2.1,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Maria Sakkari vs Linda Fruhvirtova",
+   "outcome": "Maria Sakkari"
+  },
+  {
+   "at": "2026-09-22T13:40:43.538934+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-22T10:40:00+00:00",
+   "condition_id": "0x7d57a69811cd9c59b54b82090cf1ff3539b8e8870f6cbaaa253c44d5ecc52a08",
+   "asset": "105980372882486836345062567108237444343989691817427659238844848500417856270255",
+   "copy_delay_min": 4.3,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
+   "outcome": "Barbora Krejcikova"
   }
  ],
  "total_pnl": -1528.3194999999992,
- "last_updated": "2026-09-22T13:35:32.188217+00:00"
+ "last_updated": "2026-09-22T13:40:43.539530+00:00"
 }
