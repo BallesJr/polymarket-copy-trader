@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790165521,
+  "jtwyslljy": 1790169205,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16021,6 +16021,20 @@
    "BUY",
    1570.89,
    1790165521
+  ],
+  [
+   "0x0358c9c1a6a645afcf084e67ae77de41845442f589f685619c5d0f84b98df9d5",
+   "32469125621522777665285949531763906096128547582943809330785222822188254491680",
+   "BUY",
+   1461.21,
+   1790169058
+  ],
+  [
+   "0x6e721720ca82abbdd61dac67904dcdc59136ac2382845933265ba46b3162bfe7",
+   "32469125621522777665285949531763906096128547582943809330785222822188254491680",
+   "BUY",
+   3000,
+   1790169205
   ]
  ],
  "leader_pos": {
@@ -26511,6 +26525,18 @@
    "cost": 958.2429000000001,
    "max_shares": 1570.89,
    "last_trade_ts": 1790165521
+  },
+  "jtwyslljy|32469125621522777665285949531763906096128547582943809330785222822188254491680": {
+   "leader": "jtwyslljy",
+   "asset": "32469125621522777665285949531763906096128547582943809330785222822188254491680",
+   "condition_id": "0x1937eda07397a2ca0f21dd2678e78b320a025097e408ed09be43f1604c54fc52",
+   "title": "Dota 2: LGD Gaming vs MOUZ (BO3) - PGL Wallachia Group Stage",
+   "outcome": "LGD Gaming",
+   "slug": "dota2-lgd-mouz-2026-09-23",
+   "shares": 4461.21,
+   "cost": 3242.0712000000003,
+   "max_shares": 4461.21,
+   "last_trade_ts": 1790169205
   }
  },
  "positions": [],
@@ -43383,8 +43409,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Nemesis vs Conventus Stellarum (BO3) - PGL Wallachia Group Stage",
    "outcome": "Conventus Stellarum"
+  },
+  {
+   "at": "2026-09-23T13:15:42.680067+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-23T13:15:00+00:00",
+   "condition_id": "0x1937eda07397a2ca0f21dd2678e78b320a025097e408ed09be43f1604c54fc52",
+   "asset": "32469125621522777665285949531763906096128547582943809330785222822188254491680",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs MOUZ (BO3) - PGL Wallachia Group Stage",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-23T12:20:35.747760+00:00"
+ "last_updated": "2026-09-23T13:15:42.680583+00:00"
 }
