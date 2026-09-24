@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8578.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790265260,
+  "jtwyslljy": 1790266355,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16280,6 +16280,13 @@
    "BUY",
    10105,
    1790265260
+  ],
+  [
+   "0xa32696b9685afbf28e51f4eea230ab12400e0c5440b7f4b0076e4632989e8eac",
+   "112693110781701929205422225573169378590566997477908595981675491334022858738093",
+   "BUY",
+   3230.34,
+   1790266355
   ]
  ],
  "leader_pos": {
@@ -26910,10 +26917,10 @@
    "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
    "outcome": "1win",
    "slug": "dota2-ty-1win-2026-09-24",
-   "shares": 16305.81,
-   "cost": 2833.9958,
-   "max_shares": 16305.81,
-   "last_trade_ts": 1790265260
+   "shares": 19536.15,
+   "cost": 3918.9210999410843,
+   "max_shares": 19536.15,
+   "last_trade_ts": 1790266355
   }
  },
  "positions": [],
@@ -44038,8 +44045,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
    "outcome": "1win"
+  },
+  {
+   "at": "2026-09-24T16:20:33.528965+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T15:30:00+00:00",
+   "condition_id": "0x1317b8481e1df8dbf4fa57c9f7384288f4dfa6c7dfb5f9429549720f65abb600",
+   "asset": "112693110781701929205422225573169378590566997477908595981675491334022858738093",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.07,
+   "cf_shares": 1251.8737,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0799,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
+   "outcome": "1win"
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-24T16:05:33.390476+00:00"
+ "last_updated": "2026-09-24T16:20:33.529455+00:00"
 }
