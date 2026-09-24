@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8578.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790239646,
+  "jtwyslljy": 1790258821,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16245,6 +16245,13 @@
    "BUY",
    10000,
    1790239646
+  ],
+  [
+   "0xa998acad5353201165f0bb0aef64dbdecf5c3873e91f0bc550a9acbb3d7278db",
+   "21244352109553871672251137624494800297345203898944796967447551868386922282552",
+   "BUY",
+   3631.8,
+   1790258821
   ]
  ],
  "leader_pos": {
@@ -26843,6 +26850,18 @@
    "cost": 1051.34,
    "max_shares": 10302.0,
    "last_trade_ts": 1790239646
+  },
+  "jtwyslljy|21244352109553871672251137624494800297345203898944796967447551868386922282552": {
+   "leader": "jtwyslljy",
+   "asset": "21244352109553871672251137624494800297345203898944796967447551868386922282552",
+   "condition_id": "0x58c6c6e502fccc052d66e6071229743edb3569497132c6f9c570028fcfef7c2d",
+   "title": "Singapore Open: Maria Sakkari vs Nao Hibino",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-sakkari-hibino-2026-09-23",
+   "shares": 3631.8,
+   "cost": 3123.348,
+   "max_shares": 3631.8,
+   "last_trade_ts": 1790258821
   }
  },
  "positions": [],
@@ -43903,8 +43922,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Jelena Ostapenko vs Taylah Preston",
    "outcome": "Jelena Ostapenko"
+  },
+  {
+   "at": "2026-09-24T14:15:39.406559+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T14:10:00+00:00",
+   "condition_id": "0x58c6c6e502fccc052d66e6071229743edb3569497132c6f9c570028fcfef7c2d",
+   "asset": "21244352109553871672251137624494800297345203898944796967447551868386922282552",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.86,
+   "cf_shares": 116.2791,
+   "cf_cost": 100.0,
+   "cf_entry": 0.86,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Maria Sakkari vs Nao Hibino",
+   "outcome": "Maria Sakkari"
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-24T10:05:29.435806+00:00"
+ "last_updated": "2026-09-24T14:15:39.407116+00:00"
 }
