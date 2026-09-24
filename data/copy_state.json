@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790222186,
+  "jtwyslljy": 1790223302,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16112,6 +16112,20 @@
    "BUY",
    5000,
    1790222186
+  ],
+  [
+   "0xa891f650ac395c7bc95b1b2ff25df259f61a8a3c3ba1fb83a105040f542c64de",
+   "110376136426459022674644305979294923943896867604101913600623953598330257474214",
+   "BUY",
+   1195.6,
+   1790223198
+  ],
+  [
+   "0x52c865fb1519ea94149341e0b78f73c6f5c28ddc9843b92c01791301c56faad9",
+   "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "BUY",
+   499.99,
+   1790223302
   ]
  ],
  "leader_pos": {
@@ -26658,10 +26672,22 @@
    "title": "Houston Astros vs. Seattle Mariners",
    "outcome": "Seattle Mariners",
    "slug": "mlb-hou-sea-2026-09-23",
-   "shares": 5000.0,
-   "cost": 2650.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1790222186
+   "shares": 5499.99,
+   "cost": 2929.9944,
+   "max_shares": 5499.99,
+   "last_trade_ts": 1790223302
+  },
+  "jtwyslljy|110376136426459022674644305979294923943896867604101913600623953598330257474214": {
+   "leader": "jtwyslljy",
+   "asset": "110376136426459022674644305979294923943896867604101913600623953598330257474214",
+   "condition_id": "0x1cbb0a82591812e38716bb14ce3c1f6983dcadb2f2b294ab2946d05a5abcca13",
+   "title": "Korea Open: Yexin Ma vs Kimberly Birrell",
+   "outcome": "Yexin Ma",
+   "slug": "wta-ma-birrell-2026-09-23",
+   "shares": 1195.6,
+   "cost": 215.20799999999997,
+   "max_shares": 1195.6,
+   "last_trade_ts": 1790223198
   }
  },
  "positions": [],
@@ -43630,8 +43656,24 @@
    "leader": "jtwyslljy",
    "title": "Houston Astros vs. Seattle Mariners",
    "outcome": "Seattle Mariners"
+  },
+  {
+   "at": "2026-09-24T04:20:35.016268+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T02:10:00+00:00",
+   "condition_id": "0x057bdb7ed25fe981d389ea6c8222f173cc92db7c5a7aefe6d08fc438a13a2383",
+   "asset": "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Houston Astros vs. Seattle Mariners",
+   "outcome": "Seattle Mariners"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T04:00:56.660944+00:00"
+ "last_updated": "2026-09-24T04:20:35.016836+00:00"
 }
