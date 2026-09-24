@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8323.195897199997,
+ "bankroll": 8448.195897199997,
  "last_seen": {
   "jtwyslljy": 1790232818,
   "0x53757615de": 1787221213
@@ -26822,24 +26822,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "65399059179602789901362317961524957675368363728221500751104405412332642676129",
-   "condition_id": "0x8584f6455c868ec1b134edfbaaa34c4d1b549122fb436dd3435b0d108e3ff0fc",
-   "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
-   "outcome": "Gabriela Ruse",
-   "slug": "wta-ku-ruse-2026-09-23",
-   "opened_at": "2026-09-24T05:00:58.763648+00:00",
-   "entry_price": 0.8,
-   "shares": 125.0,
-   "stake": 100.0,
-   "leader_vwap": 0.8,
-   "leader_cost": 3200.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.8,
-   "ask_depth": 20807.26,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "83238031531504498126789782376860739638129420597277679150416705813699713599514",
    "condition_id": "0x05fef82fcc1e979def53fd91c168276afcf8bad5fd089589eeb3d90233ae2c75",
    "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
@@ -36991,6 +36973,28 @@
    "exit_price": 1.0,
    "pnl": 51.5152,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65399059179602789901362317961524957675368363728221500751104405412332642676129",
+   "condition_id": "0x8584f6455c868ec1b134edfbaaa34c4d1b549122fb436dd3435b0d108e3ff0fc",
+   "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ku-ruse-2026-09-23",
+   "opened_at": "2026-09-24T05:00:58.763648+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.8,
+   "ask_depth": 20807.26,
+   "status": "won",
+   "closed_at": "2026-09-24T08:15:38.500169+00:00",
+   "exit_price": 1.0,
+   "pnl": 25.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -43856,6 +43860,6 @@
    "outcome": "Seattle Mariners"
   }
  ],
- "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T07:00:59.056437+00:00"
+ "total_pnl": -1451.804299999999,
+ "last_updated": "2026-09-24T08:15:38.501890+00:00"
 }
