@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8423.195897199997,
+ "bankroll": 8323.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790232366,
+  "jtwyslljy": 1790232818,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16224,6 +16224,13 @@
    "BUY",
    101,
    1790232366
+  ],
+  [
+   "0x2d63430e34006807f6616a7262784baf975c2ce5afc17b4cc87a0357ff9e226b",
+   "83238031531504498126789782376860739638129420597277679150416705813699713599514",
+   "BUY",
+   5000,
+   1790232818
   ]
  ],
  "leader_pos": {
@@ -26798,6 +26805,18 @@
    "cost": 16144.978600336375,
    "max_shares": 31466.79,
    "last_trade_ts": 1790232204
+  },
+  "jtwyslljy|83238031531504498126789782376860739638129420597277679150416705813699713599514": {
+   "leader": "jtwyslljy",
+   "asset": "83238031531504498126789782376860739638129420597277679150416705813699713599514",
+   "condition_id": "0x05fef82fcc1e979def53fd91c168276afcf8bad5fd089589eeb3d90233ae2c75",
+   "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-garland-2026-09-22",
+   "shares": 5000.0,
+   "cost": 3850.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790232818
   }
  },
  "positions": [
@@ -26817,6 +26836,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.8,
    "ask_depth": 20807.26,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "83238031531504498126789782376860739638129420597277679150416705813699713599514",
+   "condition_id": "0x05fef82fcc1e979def53fd91c168276afcf8bad5fd089589eeb3d90233ae2c75",
+   "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-garland-2026-09-22",
+   "opened_at": "2026-09-24T07:00:58.698240+00:00",
+   "entry_price": 0.77,
+   "shares": 129.8701,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 3850.0,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.77,
+   "ask_depth": 3617.06,
    "status": "open"
   }
  ],
@@ -43820,5 +43857,5 @@
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T06:50:33.533944+00:00"
+ "last_updated": "2026-09-24T07:00:59.056437+00:00"
 }
