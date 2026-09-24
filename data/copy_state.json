@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8423.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790225538,
+  "jtwyslljy": 1790227641,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16133,6 +16133,13 @@
    "BUY",
    4000,
    1790225538
+  ],
+  [
+   "0x66811fca500007384849362718350f45df8bc9e46d8fbd6ea957fdf77f0a96bc",
+   "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "SELL",
+   2669.23,
+   1790227641
   ]
  ],
  "leader_pos": {
@@ -26679,10 +26686,10 @@
    "title": "Houston Astros vs. Seattle Mariners",
    "outcome": "Seattle Mariners",
    "slug": "mlb-hou-sea-2026-09-23",
-   "shares": 5499.99,
-   "cost": 2929.9944,
+   "shares": 2830.7599999999998,
+   "cost": 1622.0717,
    "max_shares": 5499.99,
-   "last_trade_ts": 1790223302
+   "last_trade_ts": 1790227641
   },
   "jtwyslljy|110376136426459022674644305979294923943896867604101913600623953598330257474214": {
    "leader": "jtwyslljy",
@@ -43710,8 +43717,24 @@
    "leader": "jtwyslljy",
    "title": "Houston Astros vs. Seattle Mariners",
    "outcome": "Seattle Mariners"
+  },
+  {
+   "at": "2026-09-24T05:35:29.910495+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T02:10:00+00:00",
+   "condition_id": "0x057bdb7ed25fe981d389ea6c8222f173cc92db7c5a7aefe6d08fc438a13a2383",
+   "asset": "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "copy_delay_min": 8.1,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Houston Astros vs. Seattle Mariners",
+   "outcome": "Seattle Mariners"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T05:00:59.011239+00:00"
+ "last_updated": "2026-09-24T05:35:30.231056+00:00"
 }
