@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8578.065997199998,
+ "bankroll": 8378.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790269382,
+  "jtwyslljy": 1790271324,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16301,6 +16301,27 @@
    "BUY",
    1434.28,
    1790269382
+  ],
+  [
+   "0x5d091b835a663d120b48c3e8b3081cda84e46a2835944746aeee3d0152a16309",
+   "85575036723589722131532130996610009763114730640829509781521029093533056594910",
+   "BUY",
+   8000,
+   1790271162
+  ],
+  [
+   "0xc57cd44545402015346ce49e9971acb68b95394eeaa606166cc6e6fcc1d4295c",
+   "20856864689627053565964385793205323480893756410210864916781310992806147336665",
+   "BUY",
+   7999.99,
+   1790271248
+  ],
+  [
+   "0x52a1f028435c32c7e07bf762ff6b386b68ccd13622c3e16448898e950c92855f",
+   "20856864689627053565964385793205323480893756410210864916781310992806147336665",
+   "SELL",
+   3599.99,
+   1790271324
   ]
  ],
  "leader_pos": {
@@ -26947,9 +26968,70 @@
    "cost": 1204.7952,
    "max_shares": 1434.28,
    "last_trade_ts": 1790269382
+  },
+  "jtwyslljy|85575036723589722131532130996610009763114730640829509781521029093533056594910": {
+   "leader": "jtwyslljy",
+   "asset": "85575036723589722131532130996610009763114730640829509781521029093533056594910",
+   "condition_id": "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c",
+   "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
+   "outcome": "Anna Bondar",
+   "slug": "wta-bondar-ruse-2026-09-25",
+   "shares": 8000.0,
+   "cost": 3040.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1790271162
+  },
+  "jtwyslljy|20856864689627053565964385793205323480893756410210864916781310992806147336665": {
+   "leader": "jtwyslljy",
+   "asset": "20856864689627053565964385793205323480893756410210864916781310992806147336665",
+   "condition_id": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
+   "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
+   "outcome": "Lanlana Tararudee",
+   "slug": "wta-tararud-joint-2026-09-24",
+   "shares": 4400.0,
+   "cost": 2455.9999,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1790271324
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "85575036723589722131532130996610009763114730640829509781521029093533056594910",
+   "condition_id": "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c",
+   "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
+   "outcome": "Anna Bondar",
+   "slug": "wta-bondar-ruse-2026-09-25",
+   "opened_at": "2026-09-24T17:40:37.921979+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3040.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.38,
+   "ask_depth": 4656.04,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20856864689627053565964385793205323480893756410210864916781310992806147336665",
+   "condition_id": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
+   "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
+   "outcome": "Lanlana Tararudee",
+   "slug": "wta-tararud-joint-2026-09-24",
+   "opened_at": "2026-09-24T17:40:38.044179+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.5582,
+   "leader_cost": 2456.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.54,
+   "ask_depth": 15111.06,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -44122,5 +44204,5 @@
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-24T17:10:34.530856+00:00"
+ "last_updated": "2026-09-24T17:40:38.309738+00:00"
 }
