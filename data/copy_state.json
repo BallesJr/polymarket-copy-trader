@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790217874,
+  "jtwyslljy": 1790218904,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16056,6 +16056,13 @@
    "BUY",
    5000,
    1790217874
+  ],
+  [
+   "0x580c19d72cef9b5322aa6f997d0506d68299438b2477c89e4accaaa6849db8a8",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "BUY",
+   7000,
+   1790218904
   ]
  ],
  "leader_pos": {
@@ -26582,6 +26589,18 @@
    "cost": 3500.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1790217874
+  },
+  "jtwyslljy|30710610462562344874255889727140739596326859061687034392755482288616101551783": {
+   "leader": "jtwyslljy",
+   "asset": "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "condition_id": "0xbaf17949afff58e0dac61676f53ab54dd0d6cf8c4e6f38c06d7229072219bc0f",
+   "title": "Korea Open: Anna Bondar vs Alina Charaeva",
+   "outcome": "Anna Bondar",
+   "slug": "wta-bondar-charaev-2026-09-23",
+   "shares": 7000.0,
+   "cost": 4480.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1790218904
   }
  },
  "positions": [],
@@ -43486,8 +43505,24 @@
    "leader": "jtwyslljy",
    "title": "San Diego Padres vs. Los Angeles Dodgers",
    "outcome": "Los Angeles Dodgers"
+  },
+  {
+   "at": "2026-09-24T03:10:32.581442+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T03:00:00+00:00",
+   "condition_id": "0xbaf17949afff58e0dac61676f53ab54dd0d6cf8c4e6f38c06d7229072219bc0f",
+   "asset": "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.64,
+   "cf_shares": 156.25,
+   "cf_cost": 100.0,
+   "cf_entry": 0.64,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Anna Bondar vs Alina Charaeva",
+   "outcome": "Anna Bondar"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T02:55:27.936794+00:00"
+ "last_updated": "2026-09-24T03:10:32.581995+00:00"
 }
