@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790217596,
+  "jtwyslljy": 1790217874,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16049,6 +16049,13 @@
    "BUY",
    264.97,
    1790217596
+  ],
+  [
+   "0x428401367f9e786e862c188121450fc2e1552e8f3da71186890519c9e9f31aa2",
+   "93036936508788852984222684127363347661081142671974592108095671306808285141856",
+   "BUY",
+   5000,
+   1790217874
   ]
  ],
  "leader_pos": {
@@ -26563,6 +26570,18 @@
    "cost": 241.12270000000004,
    "max_shares": 264.97,
    "last_trade_ts": 1790217596
+  },
+  "jtwyslljy|93036936508788852984222684127363347661081142671974592108095671306808285141856": {
+   "leader": "jtwyslljy",
+   "asset": "93036936508788852984222684127363347661081142671974592108095671306808285141856",
+   "condition_id": "0xb7b3bdb5cf8fbae7285d8b7ef2808e2645b902425058d42e71009ff6a49f3f18",
+   "title": "San Diego Padres vs. Los Angeles Dodgers",
+   "outcome": "Los Angeles Dodgers",
+   "slug": "mlb-sd-lad-2026-09-23",
+   "shares": 5000.0,
+   "cost": 3500.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790217874
   }
  },
  "positions": [],
@@ -43451,8 +43470,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs MOUZ (BO3) - PGL Wallachia Group Stage",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-09-24T02:55:27.936134+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T02:10:00+00:00",
+   "condition_id": "0xb7b3bdb5cf8fbae7285d8b7ef2808e2645b902425058d42e71009ff6a49f3f18",
+   "asset": "93036936508788852984222684127363347661081142671974592108095671306808285141856",
+   "copy_delay_min": 10.9,
+   "cf_ask": 0.7,
+   "cf_shares": 142.8571,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "San Diego Padres vs. Los Angeles Dodgers",
+   "outcome": "Los Angeles Dodgers"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T02:50:33.735841+00:00"
+ "last_updated": "2026-09-24T02:55:27.936794+00:00"
 }
