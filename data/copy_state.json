@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8523.195897199997,
+ "bankroll": 8423.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790223302,
+  "jtwyslljy": 1790225538,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16126,6 +16126,13 @@
    "BUY",
    499.99,
    1790223302
+  ],
+  [
+   "0x4851c141583825c733c3abf2cb184fb583912cf4f2a54bde99579591c0af6196",
+   "65399059179602789901362317961524957675368363728221500751104405412332642676129",
+   "BUY",
+   4000,
+   1790225538
   ]
  ],
  "leader_pos": {
@@ -26688,9 +26695,40 @@
    "cost": 215.20799999999997,
    "max_shares": 1195.6,
    "last_trade_ts": 1790223198
+  },
+  "jtwyslljy|65399059179602789901362317961524957675368363728221500751104405412332642676129": {
+   "leader": "jtwyslljy",
+   "asset": "65399059179602789901362317961524957675368363728221500751104405412332642676129",
+   "condition_id": "0x8584f6455c868ec1b134edfbaaa34c4d1b549122fb436dd3435b0d108e3ff0fc",
+   "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ku-ruse-2026-09-23",
+   "shares": 4000.0,
+   "cost": 3200.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1790225538
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "65399059179602789901362317961524957675368363728221500751104405412332642676129",
+   "condition_id": "0x8584f6455c868ec1b134edfbaaa34c4d1b549122fb436dd3435b0d108e3ff0fc",
+   "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
+   "outcome": "Gabriela Ruse",
+   "slug": "wta-ku-ruse-2026-09-23",
+   "opened_at": "2026-09-24T05:00:58.763648+00:00",
+   "entry_price": 0.8,
+   "shares": 125.0,
+   "stake": 100.0,
+   "leader_vwap": 0.8,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.8,
+   "ask_depth": 20807.26,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -43675,5 +43713,5 @@
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T04:20:35.016836+00:00"
+ "last_updated": "2026-09-24T05:00:59.011239+00:00"
 }
