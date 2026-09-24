@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790218904,
+  "jtwyslljy": 1790221424,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16063,6 +16063,20 @@
    "BUY",
    7000,
    1790218904
+  ],
+  [
+   "0x584a1445e84f2d43c1c0dac2a9c1a55269ed37db75942347e57bb459615e3dfd",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "BUY",
+   4167.33,
+   1790221424
+  ],
+  [
+   "0x7f141d1aca72e2e0494480a5013580285941afe11b02d36cf8482c5246be4069",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "BUY",
+   21018,
+   1790221424
   ]
  ],
  "leader_pos": {
@@ -26597,10 +26611,10 @@
    "title": "Korea Open: Anna Bondar vs Alina Charaeva",
    "outcome": "Anna Bondar",
    "slug": "wta-bondar-charaev-2026-09-23",
-   "shares": 7000.0,
-   "cost": 4480.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1790218904
+   "shares": 32185.33,
+   "cost": 20053.2313,
+   "max_shares": 32185.33,
+   "last_trade_ts": 1790221424
   }
  },
  "positions": [],
@@ -43521,8 +43535,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Anna Bondar vs Alina Charaeva",
    "outcome": "Anna Bondar"
+  },
+  {
+   "at": "2026-09-24T03:55:33.606462+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T03:05:00+00:00",
+   "condition_id": "0xbaf17949afff58e0dac61676f53ab54dd0d6cf8c4e6f38c06d7229072219bc0f",
+   "asset": "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "copy_delay_min": 11.8,
+   "cf_ask": 0.81,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Anna Bondar vs Alina Charaeva",
+   "outcome": "Anna Bondar"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T03:10:32.581995+00:00"
+ "last_updated": "2026-09-24T03:55:33.607135+00:00"
 }
