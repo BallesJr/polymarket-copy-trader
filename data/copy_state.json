@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8523.195897199997,
  "last_seen": {
-  "jtwyslljy": 1790221424,
+  "jtwyslljy": 1790222186,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16077,6 +16077,41 @@
    "BUY",
    21018,
    1790221424
+  ],
+  [
+   "0x43c2f328ac6eb8a69725c290b8f6912e31dea3176df8b70fd22ed4cd8bdba425",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "SELL",
+   14178,
+   1790221686
+  ],
+  [
+   "0x51a73319024ab91a217ae30423e2d79c8ad95f6240fcfa452019ddb2253df832",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "SELL",
+   5000,
+   1790221818
+  ],
+  [
+   "0x58c0f31835c46da79e4e89e3c93e289a5c7f7ed1a9bc0af4c340ae5eeeccc081",
+   "30710610462562344874255889727140739596326859061687034392755482288616101551783",
+   "SELL",
+   5000,
+   1790221848
+  ],
+  [
+   "0x3276d799399a95766d05f43f1fcf6c489e73e4ea7adcac78b5d62c8f49f672f1",
+   "93036936508788852984222684127363347661081142671974592108095671306808285141856",
+   "SELL",
+   2384.96,
+   1790222028
+  ],
+  [
+   "0x54ab0efbeed502a66fd6a8e115fa3c86311477bc500680fbbe19b83925348c29",
+   "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "BUY",
+   5000,
+   1790222186
   ]
  ],
  "leader_pos": {
@@ -26599,10 +26634,10 @@
    "title": "San Diego Padres vs. Los Angeles Dodgers",
    "outcome": "Los Angeles Dodgers",
    "slug": "mlb-sd-lad-2026-09-23",
-   "shares": 5000.0,
-   "cost": 3500.0,
+   "shares": 2615.04,
+   "cost": 2927.6096,
    "max_shares": 5000.0,
-   "last_trade_ts": 1790217874
+   "last_trade_ts": 1790222028
   },
   "jtwyslljy|30710610462562344874255889727140739596326859061687034392755482288616101551783": {
    "leader": "jtwyslljy",
@@ -26611,10 +26646,22 @@
    "title": "Korea Open: Anna Bondar vs Alina Charaeva",
    "outcome": "Anna Bondar",
    "slug": "wta-bondar-charaev-2026-09-23",
-   "shares": 32185.33,
-   "cost": 20053.2313,
+   "shares": 8007.330000000002,
+   "cost": 5004.6512999999995,
    "max_shares": 32185.33,
-   "last_trade_ts": 1790221424
+   "last_trade_ts": 1790221848
+  },
+  "jtwyslljy|44010304569248327901330783652353891368596572897029465113776095740498267749334": {
+   "leader": "jtwyslljy",
+   "asset": "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "condition_id": "0x057bdb7ed25fe981d389ea6c8222f173cc92db7c5a7aefe6d08fc438a13a2383",
+   "title": "Houston Astros vs. Seattle Mariners",
+   "outcome": "Seattle Mariners",
+   "slug": "mlb-hou-sea-2026-09-23",
+   "shares": 5000.0,
+   "cost": 2650.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790222186
   }
  },
  "positions": [],
@@ -43551,8 +43598,40 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Anna Bondar vs Alina Charaeva",
    "outcome": "Anna Bondar"
+  },
+  {
+   "at": "2026-09-24T04:00:56.424213+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T02:10:00+00:00",
+   "condition_id": "0xb7b3bdb5cf8fbae7285d8b7ef2808e2645b902425058d42e71009ff6a49f3f18",
+   "asset": "93036936508788852984222684127363347661081142671974592108095671306808285141856",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.21,
+   "cf_shares": 365.1333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2739,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "San Diego Padres vs. Los Angeles Dodgers",
+   "outcome": "Los Angeles Dodgers"
+  },
+  {
+   "at": "2026-09-24T04:00:56.660406+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T02:10:00+00:00",
+   "condition_id": "0x057bdb7ed25fe981d389ea6c8222f173cc92db7c5a7aefe6d08fc438a13a2383",
+   "asset": "44010304569248327901330783652353891368596572897029465113776095740498267749334",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Houston Astros vs. Seattle Mariners",
+   "outcome": "Seattle Mariners"
   }
  ],
  "total_pnl": -1476.804299999999,
- "last_updated": "2026-09-24T03:55:33.607135+00:00"
+ "last_updated": "2026-09-24T04:00:56.660944+00:00"
 }
