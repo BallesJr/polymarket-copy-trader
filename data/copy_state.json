@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8578.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790266524,
+  "jtwyslljy": 1790269382,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16294,6 +16294,13 @@
    "BUY",
    130.33,
    1790266524
+  ],
+  [
+   "0x37f33467135695b99e772e718e3255e41964f330ab3de5d20c5bf3558f55eb61",
+   "73353909252638137655006053513877843845908988767414839435320192961223575874368",
+   "BUY",
+   1434.28,
+   1790269382
   ]
  ],
  "leader_pos": {
@@ -26928,6 +26935,18 @@
    "cost": 3959.3233999410845,
    "max_shares": 19666.480000000003,
    "last_trade_ts": 1790266524
+  },
+  "jtwyslljy|73353909252638137655006053513877843845908988767414839435320192961223575874368": {
+   "leader": "jtwyslljy",
+   "asset": "73353909252638137655006053513877843845908988767414839435320192961223575874368",
+   "condition_id": "0x7bb4546c7eb180f5ac5fd4fd63e9df3694f18a4d105d90ca888124aca8b5d86f",
+   "title": "Dota 2: Team Yandex vs 1win - Game 2 Winner",
+   "outcome": "Team Yandex",
+   "slug": "dota2-ty-1win-2026-09-24",
+   "shares": 1434.28,
+   "cost": 1204.7952,
+   "max_shares": 1434.28,
+   "last_trade_ts": 1790269382
   }
  },
  "positions": [],
@@ -44084,8 +44103,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
    "outcome": "1win"
+  },
+  {
+   "at": "2026-09-24T17:10:34.530203+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-24T15:30:00+00:00",
+   "condition_id": "0x7bb4546c7eb180f5ac5fd4fd63e9df3694f18a4d105d90ca888124aca8b5d86f",
+   "asset": "73353909252638137655006053513877843845908988767414839435320192961223575874368",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.96,
+   "cf_shares": 26.24,
+   "cf_cost": 25.4,
+   "cf_entry": 0.9679,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs 1win - Game 2 Winner",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-24T16:26:02.216265+00:00"
+ "last_updated": "2026-09-24T17:10:34.530856+00:00"
 }
