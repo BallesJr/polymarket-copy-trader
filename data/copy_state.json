@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8378.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790301705,
+  "jtwyslljy": 1790305562,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16329,6 +16329,27 @@
    "BUY",
    3540.53,
    1790301705
+  ],
+  [
+   "0xf827ab94cf8c996f5e3e08c17b258f15ecaddb3d5299c9a185f006237b90c57f",
+   "83025129011500671859792394611218717617953640119389117944256996653806950807315",
+   "BUY",
+   11080,
+   1790305437
+  ],
+  [
+   "0x905a82afa70c34424dfb1c9d4f0cd3a6c031e64bc57c86cd42a3d612a9ffc95d",
+   "42700798530649100494438815793853306561920660124270002978538307430393361921548",
+   "BUY",
+   1928.93,
+   1790305503
+  ],
+  [
+   "0xe1dd8812254dbefcd77a541dc2c44cf6e217d889c5e4edfd9495889d1f77c0a3",
+   "42700798530649100494438815793853306561920660124270002978538307430393361921548",
+   "BUY",
+   3000,
+   1790305562
   ]
  ],
  "leader_pos": {
@@ -27011,6 +27032,30 @@
    "cost": 2442.9656999999997,
    "max_shares": 3540.53,
    "last_trade_ts": 1790301705
+  },
+  "jtwyslljy|83025129011500671859792394611218717617953640119389117944256996653806950807315": {
+   "leader": "jtwyslljy",
+   "asset": "83025129011500671859792394611218717617953640119389117944256996653806950807315",
+   "condition_id": "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25",
+   "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+   "outcome": "Kimberly Birrell",
+   "slug": "wta-volynet-birrell-2026-09-24",
+   "shares": 11080.0,
+   "cost": 2991.6000000000004,
+   "max_shares": 11080.0,
+   "last_trade_ts": 1790305437
+  },
+  "jtwyslljy|42700798530649100494438815793853306561920660124270002978538307430393361921548": {
+   "leader": "jtwyslljy",
+   "asset": "42700798530649100494438815793853306561920660124270002978538307430393361921548",
+   "condition_id": "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25",
+   "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+   "outcome": "Katie Volynets",
+   "slug": "wta-volynet-birrell-2026-09-24",
+   "shares": 4928.93,
+   "cost": 3677.4082,
+   "max_shares": 4928.93,
+   "last_trade_ts": 1790305562
   }
  },
  "positions": [
@@ -44236,8 +44281,40 @@
    "leader": "jtwyslljy",
    "title": "Falcons vs. Packers",
    "outcome": "Falcons"
+  },
+  {
+   "at": "2026-09-25T03:10:35.167976+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T03:05:00+00:00",
+   "condition_id": "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25",
+   "asset": "42700798530649100494438815793853306561920660124270002978538307430393361921548",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.75,
+   "cf_shares": 133.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.75,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+   "outcome": "Katie Volynets"
+  },
+  {
+   "at": "2026-09-25T03:10:35.168052+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T03:05:00+00:00",
+   "condition_id": "0xfb7723570e5f574e9567d5635bba7b0c61c49fbfc36d8e872cff6617c5db4b25",
+   "asset": "83025129011500671859792394611218717617953640119389117944256996653806950807315",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.28,
+   "cf_shares": 346.0345,
+   "cf_cost": 100.0,
+   "cf_entry": 0.289,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+   "outcome": "Kimberly Birrell"
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-25T02:10:31.023244+00:00"
+ "last_updated": "2026-09-25T03:10:35.513569+00:00"
 }
