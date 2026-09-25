@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790354528,
+  "jtwyslljy": 1790358837,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16630,6 +16630,20 @@
    "BUY",
    8651.28,
    1790354528
+  ],
+  [
+   "0x8f61b2d35dba8d0405cd6148f9b149c9cdf0650c73c06d14fd395e557356b30a",
+   "38930368497819782429935201842868593943843537472226395831306627652331449709364",
+   "BUY",
+   8092.78,
+   1790358726
+  ],
+  [
+   "0x0c243119f24e931a6435416658ca8f0a9abdb33373d37c0f0273cb937391f7ff",
+   "38930368497819782429935201842868593943843537472226395831306627652331449709364",
+   "BUY",
+   583.5,
+   1790358837
   ]
  ],
  "leader_pos": {
@@ -27456,6 +27470,18 @@
    "cost": 5968.4371998345605,
    "max_shares": 8651.28,
    "last_trade_ts": 1790354528
+  },
+  "jtwyslljy|38930368497819782429935201842868593943843537472226395831306627652331449709364": {
+   "leader": "jtwyslljy",
+   "asset": "38930368497819782429935201842868593943843537472226395831306627652331449709364",
+   "condition_id": "0xb9aebeda4f394172a6537683f398f86e3d5b33cb393a07b8648662ae886f0656",
+   "title": "Dota 2: Aurora vs Team Yandex - Game 1 Winner",
+   "outcome": "Team Yandex",
+   "slug": "dota2-aur1-ty-2026-09-25",
+   "shares": 8676.279999999999,
+   "cost": 4180.099100388652,
+   "max_shares": 8676.279999999999,
+   "last_trade_ts": 1790358837
   }
  },
  "positions": [
@@ -44971,8 +44997,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-09-25T17:55:27.710753+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T17:30:00+00:00",
+   "condition_id": "0xb9aebeda4f394172a6537683f398f86e3d5b33cb393a07b8648662ae886f0656",
+   "asset": "38930368497819782429935201842868593943843537472226395831306627652331449709364",
+   "copy_delay_min": 1.5,
+   "cf_ask": 0.46,
+   "cf_shares": 215.2511,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4646,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Aurora vs Team Yandex - Game 1 Winner",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T16:50:33.822915+00:00"
+ "last_updated": "2026-09-25T17:55:28.080698+00:00"
 }
