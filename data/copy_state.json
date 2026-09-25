@@ -27242,24 +27242,6 @@
    "best_ask": 0.54,
    "ask_depth": 15111.06,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "8450951503492759528392849129383409051609710526455527876025277969898177926826",
-   "condition_id": "0xa7f5eba89d02aa64f37a4a7536c0dd3abe433fd3c700fb3f55d13745214d3282",
-   "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
-   "outcome": "Xinyu Wang",
-   "slug": "wta-wa-prozoro-2026-09-25",
-   "opened_at": "2026-09-25T04:20:33.888731+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 650.91,
-   "copy_delay_min": 3.1,
-   "best_ask": 0.7,
-   "ask_depth": 93622.0,
-   "status": "open"
   }
  ],
  "closed": [
@@ -37484,6 +37466,28 @@
    "exit_price": 0.99,
    "pnl": 219.3548,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8450951503492759528392849129383409051609710526455527876025277969898177926826",
+   "condition_id": "0xa7f5eba89d02aa64f37a4a7536c0dd3abe433fd3c700fb3f55d13745214d3282",
+   "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-prozoro-2026-09-25",
+   "opened_at": "2026-09-25T04:20:33.888731+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 650.91,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.7,
+   "ask_depth": 93622.0,
+   "status": "lost",
+   "closed_at": "2026-09-25T10:40:32.971634+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -44525,6 +44529,6 @@
    "outcome": "Kimberly Birrell"
   }
  ],
- "total_pnl": -1302.579399999999,
- "last_updated": "2026-09-25T10:05:26.862124+00:00"
+ "total_pnl": -1402.579399999999,
+ "last_updated": "2026-09-25T10:40:32.973497+00:00"
 }
