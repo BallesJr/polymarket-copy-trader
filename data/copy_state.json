@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790330211,
+  "jtwyslljy": 1790332968,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16462,6 +16462,13 @@
    "SELL",
    5999.66,
    1790330211
+  ],
+  [
+   "0xfc5cc34985f7ec67d84bdef65be7bd886d67dfa9cc5b81f0ab386094a89f5807",
+   "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "BUY",
+   2431.21,
+   1790332968
   ]
  ],
  "leader_pos": {
@@ -27204,6 +27211,18 @@
    "cost": -7526.6255998,
    "max_shares": 26464.31,
    "last_trade_ts": 1790330211
+  },
+  "jtwyslljy|52612242354527125141121549612836354305114048693893244441709772288222557338901": {
+   "leader": "jtwyslljy",
+   "asset": "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "condition_id": "0xf78215f38dd9a79a52fbc09154f034e9e973f0c7c14000a32aeb6237652e8cb6",
+   "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
+   "outcome": "Mirra Andreeva",
+   "slug": "wta-andreev-fernand-2026-09-24",
+   "shares": 2431.21,
+   "cost": 1847.7196000000001,
+   "max_shares": 2431.21,
+   "last_trade_ts": 1790332968
   }
  },
  "positions": [
@@ -44527,8 +44546,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
    "outcome": "Kimberly Birrell"
+  },
+  {
+   "at": "2026-09-25T10:50:33.060021+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T10:30:00+00:00",
+   "condition_id": "0xf78215f38dd9a79a52fbc09154f034e9e973f0c7c14000a32aeb6237652e8cb6",
+   "asset": "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
+   "outcome": "Mirra Andreeva"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T10:40:32.973497+00:00"
+ "last_updated": "2026-09-25T10:50:33.364367+00:00"
 }
