@@ -27196,24 +27196,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "76352404365888767609463678716292426398788589860528432019952126549368935486604",
-   "condition_id": "0x5023ad6d320e5b2f9c6ec13a4045e45d04202efecb1f48f0e4314bfb8a004bd4",
-   "title": "Singapore Open: Elise Mertens vs Maja Chwalinska",
-   "outcome": "Elise Mertens",
-   "slug": "wta-mertens-chwalin-2026-09-24",
-   "opened_at": "2026-09-25T04:20:33.516633+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.67,
-   "leader_cost": 3238.85,
-   "copy_delay_min": 4.4,
-   "best_ask": 0.68,
-   "ask_depth": 28607.16,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "8450951503492759528392849129383409051609710526455527876025277969898177926826",
    "condition_id": "0xa7f5eba89d02aa64f37a4a7536c0dd3abe433fd3c700fb3f55d13745214d3282",
    "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
@@ -37427,6 +37409,28 @@
    "exit_price": 1.0,
    "pnl": 29.8701,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76352404365888767609463678716292426398788589860528432019952126549368935486604",
+   "condition_id": "0x5023ad6d320e5b2f9c6ec13a4045e45d04202efecb1f48f0e4314bfb8a004bd4",
+   "title": "Singapore Open: Elise Mertens vs Maja Chwalinska",
+   "outcome": "Elise Mertens",
+   "slug": "wta-mertens-chwalin-2026-09-24",
+   "opened_at": "2026-09-25T04:20:33.516633+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 3238.85,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.68,
+   "ask_depth": 28607.16,
+   "status": "lost",
+   "closed_at": "2026-09-25T07:25:27.192169+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -44468,6 +44472,6 @@
    "outcome": "Kimberly Birrell"
   }
  ],
- "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-25T07:05:29.743353+00:00"
+ "total_pnl": -1521.934199999999,
+ "last_updated": "2026-09-25T07:25:27.194707+00:00"
 }
