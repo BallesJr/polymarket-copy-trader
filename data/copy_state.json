@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8378.065997199998,
+ "bankroll": 8178.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790305562,
+  "jtwyslljy": 1790309847,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16350,6 +16350,20 @@
    "BUY",
    3000,
    1790305562
+  ],
+  [
+   "0x57a638284d81aacf45ccd1e5c71333e2e157d75286acf67455d1db354a092cbf",
+   "76352404365888767609463678716292426398788589860528432019952126549368935486604",
+   "BUY",
+   4834.1,
+   1790309766
+  ],
+  [
+   "0x3afb6fbdee64ec7589359be5690de7968942ffa93297a5ec994f0bf64f906dcc",
+   "8450951503492759528392849129383409051609710526455527876025277969898177926826",
+   "BUY",
+   943.35,
+   1790309847
   ]
  ],
  "leader_pos": {
@@ -27056,6 +27070,30 @@
    "cost": 3677.4082,
    "max_shares": 4928.93,
    "last_trade_ts": 1790305562
+  },
+  "jtwyslljy|76352404365888767609463678716292426398788589860528432019952126549368935486604": {
+   "leader": "jtwyslljy",
+   "asset": "76352404365888767609463678716292426398788589860528432019952126549368935486604",
+   "condition_id": "0x5023ad6d320e5b2f9c6ec13a4045e45d04202efecb1f48f0e4314bfb8a004bd4",
+   "title": "Singapore Open: Elise Mertens vs Maja Chwalinska",
+   "outcome": "Elise Mertens",
+   "slug": "wta-mertens-chwalin-2026-09-24",
+   "shares": 4834.1,
+   "cost": 3238.8470000000007,
+   "max_shares": 4834.1,
+   "last_trade_ts": 1790309766
+  },
+  "jtwyslljy|8450951503492759528392849129383409051609710526455527876025277969898177926826": {
+   "leader": "jtwyslljy",
+   "asset": "8450951503492759528392849129383409051609710526455527876025277969898177926826",
+   "condition_id": "0xa7f5eba89d02aa64f37a4a7536c0dd3abe433fd3c700fb3f55d13745214d3282",
+   "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-prozoro-2026-09-25",
+   "shares": 943.35,
+   "cost": 650.9114999999999,
+   "max_shares": 943.35,
+   "last_trade_ts": 1790309847
   }
  },
  "positions": [
@@ -27093,6 +27131,42 @@
    "copy_delay_min": 5.2,
    "best_ask": 0.54,
    "ask_depth": 15111.06,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "76352404365888767609463678716292426398788589860528432019952126549368935486604",
+   "condition_id": "0x5023ad6d320e5b2f9c6ec13a4045e45d04202efecb1f48f0e4314bfb8a004bd4",
+   "title": "Singapore Open: Elise Mertens vs Maja Chwalinska",
+   "outcome": "Elise Mertens",
+   "slug": "wta-mertens-chwalin-2026-09-24",
+   "opened_at": "2026-09-25T04:20:33.516633+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 3238.85,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.68,
+   "ask_depth": 28607.16,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "8450951503492759528392849129383409051609710526455527876025277969898177926826",
+   "condition_id": "0xa7f5eba89d02aa64f37a4a7536c0dd3abe433fd3c700fb3f55d13745214d3282",
+   "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
+   "outcome": "Xinyu Wang",
+   "slug": "wta-wa-prozoro-2026-09-25",
+   "opened_at": "2026-09-25T04:20:33.888731+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 650.91,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.7,
+   "ask_depth": 93622.0,
    "status": "open"
   }
  ],
@@ -44316,5 +44390,5 @@
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-25T03:10:35.513569+00:00"
+ "last_updated": "2026-09-25T04:20:34.236258+00:00"
 }
