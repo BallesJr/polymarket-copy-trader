@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8078.065997199998,
  "last_seen": {
-  "jtwyslljy": 1790317949,
+  "jtwyslljy": 1790318439,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16392,6 +16392,13 @@
    "BUY",
    112,
    1790317949
+  ],
+  [
+   "0x50be977bb439aa0da3e3a7e577cbb65838f92ee3042dfeca83b9fd2661996671",
+   "21472974396211485105677766170584237856118792597446284377415289931383928588956",
+   "BUY",
+   2829.25,
+   1790318439
   ]
  ],
  "leader_pos": {
@@ -27130,10 +27137,10 @@
    "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
    "outcome": "Tatiana Prozorova",
    "slug": "wta-wa-prozoro-2026-09-25",
-   "shares": 11164.16,
-   "cost": 3349.248,
-   "max_shares": 11164.16,
-   "last_trade_ts": 1790317833
+   "shares": 13993.41,
+   "cost": 4226.3155,
+   "max_shares": 13993.41,
+   "last_trade_ts": 1790318439
   }
  },
  "positions": [
@@ -44448,5 +44455,5 @@
   }
  ],
  "total_pnl": -1421.934199999999,
- "last_updated": "2026-09-25T06:40:36.466759+00:00"
+ "last_updated": "2026-09-25T06:45:37.122460+00:00"
 }
