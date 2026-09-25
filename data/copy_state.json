@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790335953,
+  "jtwyslljy": 1790339019,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16483,6 +16483,13 @@
    "BUY",
    119,
    1790335953
+  ],
+  [
+   "0xe37d48b78bea4e2d99daffd3c0a5178539c67a512e5301cf468be970b4a2ff17",
+   "101637269681845265088595203888176858213802523911920726677129564594018603813263",
+   "BUY",
+   7999.99,
+   1790339019
   ]
  ],
  "leader_pos": {
@@ -27237,6 +27244,18 @@
    "cost": 4971.7496,
    "max_shares": 9550.21,
    "last_trade_ts": 1790335953
+  },
+  "jtwyslljy|101637269681845265088595203888176858213802523911920726677129564594018603813263": {
+   "leader": "jtwyslljy",
+   "asset": "101637269681845265088595203888176858213802523911920726677129564594018603813263",
+   "condition_id": "0xc6a83ff7d4a79878ea60026e3379ec131f7d85034121592308959a9746c8ba00",
+   "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-sakkari-gibson-2026-09-25",
+   "shares": 7999.99,
+   "cost": 5439.9932,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1790339019
   }
  },
  "positions": [
@@ -44592,8 +44611,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
    "outcome": "Mirra Andreeva"
+  },
+  {
+   "at": "2026-09-25T12:30:49.513399+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T12:25:00+00:00",
+   "condition_id": "0xc6a83ff7d4a79878ea60026e3379ec131f7d85034121592308959a9746c8ba00",
+   "asset": "101637269681845265088595203888176858213802523911920726677129564594018603813263",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.68,
+   "cf_shares": 147.0588,
+   "cf_cost": 100.0,
+   "cf_entry": 0.68,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
+   "outcome": "Maria Sakkari"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T11:40:35.069731+00:00"
+ "last_updated": "2026-09-25T12:30:49.953903+00:00"
 }
