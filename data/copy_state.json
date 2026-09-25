@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790354462,
+  "jtwyslljy": 1790354528,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16623,6 +16623,13 @@
    "SELL",
    5717.27,
    1790354462
+  ],
+  [
+   "0x363e19a3f7d8f916881b2034e2bb4dd7e1d05a153c364bb86759848ad17c5f96",
+   "61062287907743538982340723254676436720804746395518196932067435654247013984599",
+   "BUY",
+   8651.28,
+   1790354528
   ]
  ],
  "leader_pos": {
@@ -27437,6 +27444,18 @@
    "cost": 1792.7391000520179,
    "max_shares": 4751.92,
    "last_trade_ts": 1790354367
+  },
+  "jtwyslljy|61062287907743538982340723254676436720804746395518196932067435654247013984599": {
+   "leader": "jtwyslljy",
+   "asset": "61062287907743538982340723254676436720804746395518196932067435654247013984599",
+   "condition_id": "0x589f3d8cf13fac2bd879d7216529c20678fb24e5e692a6b4badc491e1c9049ed",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+   "outcome": "LGD Gaming",
+   "slug": "dota2-xtreme-lgd-2026-09-25",
+   "shares": 8651.28,
+   "cost": 5968.4371998345605,
+   "max_shares": 8651.28,
+   "last_trade_ts": 1790354528
   }
  },
  "positions": [
@@ -44936,8 +44955,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
    "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-09-25T16:50:33.477062+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T14:45:00+00:00",
+   "condition_id": "0x589f3d8cf13fac2bd879d7216529c20678fb24e5e692a6b4badc491e1c9049ed",
+   "asset": "61062287907743538982340723254676436720804746395518196932067435654247013984599",
+   "copy_delay_min": 8.4,
+   "cf_ask": 0.83,
+   "cf_shares": 74.16,
+   "cf_cost": 61.55,
+   "cf_entry": 0.83,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T16:45:36.166994+00:00"
+ "last_updated": "2026-09-25T16:50:33.822915+00:00"
 }
