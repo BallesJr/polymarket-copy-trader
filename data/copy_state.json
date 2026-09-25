@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790347193,
+  "jtwyslljy": 1790349017,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16504,6 +16504,27 @@
    "BUY",
    228.65,
    1790347193
+  ],
+  [
+   "0x8c06cc91ee4dbc5c550c0edc1168e3dc6cef1b79646dcf1214c5b84cd87e3f3c",
+   "23793720967108633853493736968632055830799936549009540203067023657511188426262",
+   "BUY",
+   200.03,
+   1790348820
+  ],
+  [
+   "0x05800f396e2e4002bce16301bae94c9b6ca30671398a6230902f567c7ef35760",
+   "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "BUY",
+   48.72,
+   1790348849
+  ],
+  [
+   "0x4db9592187b39932aa90701cbb3924117d60df7d353ebdb294e7664531db10b3",
+   "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "BUY",
+   4833.27,
+   1790349017
   ]
  ],
  "leader_pos": {
@@ -27282,6 +27303,30 @@
    "cost": 102.8925,
    "max_shares": 228.65,
    "last_trade_ts": 1790347193
+  },
+  "jtwyslljy|23793720967108633853493736968632055830799936549009540203067023657511188426262": {
+   "leader": "jtwyslljy",
+   "asset": "23793720967108633853493736968632055830799936549009540203067023657511188426262",
+   "condition_id": "0x368fcd81754f5f50e7ba4abb4ae92d146371b8eaded1410982b7ebf038d45fb0",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-xtreme-lgd-2026-09-25",
+   "shares": 200.03,
+   "cost": 132.0198,
+   "max_shares": 200.03,
+   "last_trade_ts": 1790348820
+  },
+  "jtwyslljy|99089030209204154546532910097609781785353455355113940002669178913378299721714": {
+   "leader": "jtwyslljy",
+   "asset": "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "condition_id": "0x52c06f56989eeda46f5b1a5dcd24a8a89b60b4312beea69c29ee7c7e83d801ec",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-xtreme-lgd-2026-09-25",
+   "shares": 4881.990000000001,
+   "cost": 3270.4461000000006,
+   "max_shares": 4881.990000000001,
+   "last_trade_ts": 1790349017
   }
  },
  "positions": [
@@ -44669,8 +44714,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
    "outcome": "Maria Sakkari"
+  },
+  {
+   "at": "2026-09-25T15:15:32.911031+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T14:45:00+00:00",
+   "condition_id": "0x52c06f56989eeda46f5b1a5dcd24a8a89b60b4312beea69c29ee7c7e83d801ec",
+   "asset": "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T14:45:34.290471+00:00"
+ "last_updated": "2026-09-25T15:15:33.122622+00:00"
 }
