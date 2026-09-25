@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790332968,
+  "jtwyslljy": 1790335953,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16469,6 +16469,20 @@
    "BUY",
    2431.21,
    1790332968
+  ],
+  [
+   "0xdd66d6be716bd9589b3d8f561c30c6395c74252e635f57fde49a8cd09bbc7158",
+   "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "BUY",
+   7000,
+   1790335880
+  ],
+  [
+   "0xe5bbddddc5e27a29ef6955eb4cedff0f3b86f8fd05d032a522c7eebc25b74e5c",
+   "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "BUY",
+   119,
+   1790335953
   ]
  ],
  "leader_pos": {
@@ -27219,10 +27233,10 @@
    "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
    "outcome": "Mirra Andreeva",
    "slug": "wta-andreev-fernand-2026-09-24",
-   "shares": 2431.21,
-   "cost": 1847.7196000000001,
-   "max_shares": 2431.21,
-   "last_trade_ts": 1790332968
+   "shares": 9550.21,
+   "cost": 4971.7496,
+   "max_shares": 9550.21,
+   "last_trade_ts": 1790335953
   }
  },
  "positions": [
@@ -44562,8 +44576,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
    "outcome": "Mirra Andreeva"
+  },
+  {
+   "at": "2026-09-25T11:40:34.668661+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T10:45:00+00:00",
+   "condition_id": "0xf78215f38dd9a79a52fbc09154f034e9e973f0c7c14000a32aeb6237652e8cb6",
+   "asset": "52612242354527125141121549612836354305114048693893244441709772288222557338901",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Mirra Andreeva vs Leylah Fernandez",
+   "outcome": "Mirra Andreeva"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T10:50:33.364367+00:00"
+ "last_updated": "2026-09-25T11:40:35.069731+00:00"
 }
