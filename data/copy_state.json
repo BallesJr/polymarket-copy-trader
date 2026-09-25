@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790339019,
+  "jtwyslljy": 1790341203,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16490,6 +16490,13 @@
    "BUY",
    7999.99,
    1790339019
+  ],
+  [
+   "0x11d5da6fe32c950b3f26f835b86b370ca3649455a3e2a9050eaddddd14c1ebb9",
+   "101637269681845265088595203888176858213802523911920726677129564594018603813263",
+   "BUY",
+   10000,
+   1790341203
   ]
  ],
  "leader_pos": {
@@ -27252,10 +27259,10 @@
    "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
    "outcome": "Maria Sakkari",
    "slug": "wta-sakkari-gibson-2026-09-25",
-   "shares": 7999.99,
-   "cost": 5439.9932,
-   "max_shares": 7999.99,
-   "last_trade_ts": 1790339019
+   "shares": 17999.989999999998,
+   "cost": 9339.9932,
+   "max_shares": 17999.989999999998,
+   "last_trade_ts": 1790341203
   }
  },
  "positions": [
@@ -44627,8 +44634,24 @@
    "leader": "jtwyslljy",
    "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
    "outcome": "Maria Sakkari"
+  },
+  {
+   "at": "2026-09-25T13:10:34.186863+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T12:35:00+00:00",
+   "condition_id": "0xc6a83ff7d4a79878ea60026e3379ec131f7d85034121592308959a9746c8ba00",
+   "asset": "101637269681845265088595203888176858213802523911920726677129564594018603813263",
+   "copy_delay_min": 10.5,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Singapore Open: Maria Sakkari vs Talia Gibson",
+   "outcome": "Maria Sakkari"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T12:30:49.953903+00:00"
+ "last_updated": "2026-09-25T13:10:34.479501+00:00"
 }
