@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790353802,
+  "jtwyslljy": 1790353995,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16567,6 +16567,34 @@
    "BUY",
    1117,
    1790353802
+  ],
+  [
+   "0x87f74f3f807602fef9e7c6d040b24f9e753b6dc168a12787b0d7e13aae146959",
+   "23793720967108633853493736968632055830799936549009540203067023657511188426262",
+   "BUY",
+   4521.11,
+   1790353875
+  ],
+  [
+   "0xd2b4c2450bfab185c16a37de147f8cd5a84d06f5414d8014e4a2bc9b3b773e68",
+   "23793720967108633853493736968632055830799936549009540203067023657511188426262",
+   "BUY",
+   605.76,
+   1790353883
+  ],
+  [
+   "0x5e9abe9cc111f4c1a38ed0716b19d8f03618a56c7b5259d1ddc598f316852ff3",
+   "67973512766665720564664894258017031302004215738134920664160438737340902024923",
+   "BUY",
+   1139.99,
+   1790353986
+  ],
+  [
+   "0xee1cdc37754493b487efeb340af92d22a2d2a4d35d5532dc55d28cd417ca60e5",
+   "67973512766665720564664894258017031302004215738134920664160438737340902024923",
+   "BUY",
+   2549.22,
+   1790353995
   ]
  ],
  "leader_pos": {
@@ -27353,10 +27381,10 @@
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-xtreme-lgd-2026-09-25",
-   "shares": 6656.24,
-   "cost": 2573.751999803424,
-   "max_shares": 6656.24,
-   "last_trade_ts": 1790353802
+   "shares": 11783.109999999999,
+   "cost": 4309.423199627877,
+   "max_shares": 11783.109999999999,
+   "last_trade_ts": 1790353883
   },
   "jtwyslljy|99089030209204154546532910097609781785353455355113940002669178913378299721714": {
    "leader": "jtwyslljy",
@@ -27377,10 +27405,10 @@
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-xtreme-lgd-2026-09-25",
-   "shares": 1062.71,
-   "cost": 590.0104000000001,
-   "max_shares": 1062.71,
-   "last_trade_ts": 1790353776
+   "shares": 4751.92,
+   "cost": 2188.219500052018,
+   "max_shares": 4751.92,
+   "last_trade_ts": 1790353995
   }
  },
  "positions": [
@@ -44832,8 +44860,40 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
    "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-09-25T16:40:34.580925+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T14:45:00+00:00",
+   "condition_id": "0x368fcd81754f5f50e7ba4abb4ae92d146371b8eaded1410982b7ebf038d45fb0",
+   "asset": "23793720967108633853493736968632055830799936549009540203067023657511188426262",
+   "copy_delay_min": 9.2,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming (BO3) - PGL Wallachia Playoffs",
+   "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-09-25T16:40:34.705375+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T14:45:00+00:00",
+   "condition_id": "0x589f3d8cf13fac2bd879d7216529c20678fb24e5e692a6b4badc491e1c9049ed",
+   "asset": "67973512766665720564664894258017031302004215738134920664160438737340902024923",
+   "copy_delay_min": 7.3,
+   "cf_ask": 0.39,
+   "cf_shares": 255.2498,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3918,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 2 Winner",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T16:35:25.217373+00:00"
+ "last_updated": "2026-09-25T16:40:35.041109+00:00"
 }
