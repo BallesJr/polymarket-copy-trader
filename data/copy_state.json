@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790349017,
+  "jtwyslljy": 1790349329,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16525,6 +16525,20 @@
    "BUY",
    4833.27,
    1790349017
+  ],
+  [
+   "0xad51f93dd6ad7a07bd3a6fe539ca33d70c6310be9d6fd5dc24a62a7cfc4355ce",
+   "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "BUY",
+   50.11,
+   1790349224
+  ],
+  [
+   "0x7474b99e6406374afaf73707e7be2c872a37e79cd1f520dbb24181a6f2140497",
+   "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "BUY",
+   800,
+   1790349329
   ]
  ],
  "leader_pos": {
@@ -27323,10 +27337,10 @@
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-xtreme-lgd-2026-09-25",
-   "shares": 4881.990000000001,
-   "cost": 3270.4461000000006,
-   "max_shares": 4881.990000000001,
-   "last_trade_ts": 1790349017
+   "shares": 5732.1,
+   "cost": 3840.0198000000005,
+   "max_shares": 5732.1,
+   "last_trade_ts": 1790349329
   }
  },
  "positions": [
@@ -44730,8 +44744,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
    "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-09-25T15:20:30.859609+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-25T14:45:00+00:00",
+   "condition_id": "0x52c06f56989eeda46f5b1a5dcd24a8a89b60b4312beea69c29ee7c7e83d801ec",
+   "asset": "99089030209204154546532910097609781785353455355113940002669178913378299721714",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.66,
+   "cf_shares": 149.99,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6667,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Xtreme Gaming vs LGD Gaming - Game 1 Winner",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T15:15:33.122622+00:00"
+ "last_updated": "2026-09-25T15:20:31.228379+00:00"
 }
