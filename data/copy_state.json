@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8730.070191199999,
  "last_seen": {
-  "jtwyslljy": 1790423178,
+  "jtwyslljy": 1790430071,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16707,6 +16707,13 @@
    "SELL",
    10000,
    1790423178
+  ],
+  [
+   "0x7ee66dfeee9b99b6c2a6340c634ce3d87b378bcd4b9f9a5ead236db73e3d7e88",
+   "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "BUY",
+   2647.54,
+   1790430071
   ]
  ],
  "leader_pos": {
@@ -27581,6 +27588,18 @@
    "cost": 4421.1954000000005,
    "max_shares": 27272.58,
    "last_trade_ts": 1790423178
+  },
+  "jtwyslljy|58000986363420251700119496000110672235609377479290503318888812616616496768388": {
+   "leader": "jtwyslljy",
+   "asset": "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "condition_id": "0xaf83c178fc63ffdfcbc6497502687f67dfa9b781e01586c5990657038d702abd",
+   "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+   "outcome": "Team Yandex",
+   "slug": "dota2-lgd-ty-2026-09-26",
+   "shares": 2647.54,
+   "cost": 1879.7533999999998,
+   "max_shares": 2647.54,
+   "last_trade_ts": 1790430071
   }
  },
  "positions": [],
@@ -45189,8 +45208,24 @@
    "leader": "jtwyslljy",
    "title": "Korea Open: Taylah Preston vs Alina Korneeva",
    "outcome": "Taylah Preston"
+  },
+  {
+   "at": "2026-09-26T13:45:30.665469+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-26T12:10:00+00:00",
+   "condition_id": "0xaf83c178fc63ffdfcbc6497502687f67dfa9b781e01586c5990657038d702abd",
+   "asset": "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.78,
+   "cf_shares": 128.2051,
+   "cf_cost": 100.0,
+   "cf_entry": 0.78,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1269.929999999999,
- "last_updated": "2026-09-26T13:00:56.980238+00:00"
+ "last_updated": "2026-09-26T13:45:30.666045+00:00"
 }
