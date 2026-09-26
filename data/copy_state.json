@@ -27554,24 +27554,6 @@
    "best_ask": 0.38,
    "ask_depth": 4656.04,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "20856864689627053565964385793205323480893756410210864916781310992806147336665",
-   "condition_id": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
-   "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
-   "outcome": "Lanlana Tararudee",
-   "slug": "wta-tararud-joint-2026-09-24",
-   "opened_at": "2026-09-24T17:40:38.044179+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.5582,
-   "leader_cost": 2456.0,
-   "copy_delay_min": 5.2,
-   "best_ask": 0.54,
-   "ask_depth": 15111.06,
-   "status": "open"
   }
  ],
  "closed": [
@@ -37818,6 +37800,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20856864689627053565964385793205323480893756410210864916781310992806147336665",
+   "condition_id": "0xa3fac3636ea9c127aaf046f1d811a60b655e4cbe3eb1f058a52fb08efff431d2",
+   "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
+   "outcome": "Lanlana Tararudee",
+   "slug": "wta-tararud-joint-2026-09-24",
+   "opened_at": "2026-09-24T17:40:38.044179+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.5582,
+   "leader_cost": 2456.0,
+   "copy_delay_min": 5.2,
+   "best_ask": 0.54,
+   "ask_depth": 15111.06,
+   "status": "lost",
+   "closed_at": "2026-09-26T05:10:31.124037+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -45115,6 +45119,6 @@
    "outcome": "Taylah Preston"
   }
  ],
- "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-26T04:55:18.763062+00:00"
+ "total_pnl": -1502.579399999999,
+ "last_updated": "2026-09-26T05:10:31.125937+00:00"
 }
