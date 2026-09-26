@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8630.070191199999,
+ "bankroll": 8847.461491199998,
  "last_seen": {
   "jtwyslljy": 1790445708,
   "0x53757615de": 1787221213
@@ -27682,26 +27682,7 @@
    "last_trade_ts": 1790445708
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "104048447692267192697984869154789122909973167387539927094908597358649141295924",
-   "condition_id": "0xf006c03ebca5e5657b8f7df03c40681e3d88234cea587435fc2359e729dcf173",
-   "title": "Will Spain win on 2026-09-26?",
-   "outcome": "Yes",
-   "slug": "unl-eng-esp-2026-09-26",
-   "opened_at": "2026-09-26T18:05:23.896611+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 1440.0,
-   "copy_delay_min": 3.6,
-   "best_ask": 0.46,
-   "ask_depth": 457670.32,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38012,6 +37993,28 @@
    "exit_price": 1.0,
    "pnl": 69.4915,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104048447692267192697984869154789122909973167387539927094908597358649141295924",
+   "condition_id": "0xf006c03ebca5e5657b8f7df03c40681e3d88234cea587435fc2359e729dcf173",
+   "title": "Will Spain win on 2026-09-26?",
+   "outcome": "Yes",
+   "slug": "unl-eng-esp-2026-09-26",
+   "opened_at": "2026-09-26T18:05:23.896611+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 1440.0,
+   "copy_delay_min": 3.6,
+   "best_ask": 0.46,
+   "ask_depth": 457670.32,
+   "status": "won",
+   "closed_at": "2026-09-26T23:05:29.357425+00:00",
+   "exit_price": 1.0,
+   "pnl": 117.3913,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -45357,6 +45360,6 @@
    "outcome": "Xtreme Gaming"
   }
  ],
- "total_pnl": -1269.929999999999,
- "last_updated": "2026-09-26T18:05:24.128895+00:00"
+ "total_pnl": -1152.538699999999,
+ "last_updated": "2026-09-26T23:05:29.359166+00:00"
 }
