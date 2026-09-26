@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8397.420791199998,
+ "bankroll": 8660.578691199999,
  "last_seen": {
   "jtwyslljy": 1790397959,
   "0x53757615de": 1787221213
@@ -27536,26 +27536,7 @@
    "last_trade_ts": 1790397959
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "85575036723589722131532130996610009763114730640829509781521029093533056594910",
-   "condition_id": "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c",
-   "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
-   "outcome": "Anna Bondar",
-   "slug": "wta-bondar-ruse-2026-09-25",
-   "opened_at": "2026-09-24T17:40:37.921979+00:00",
-   "entry_price": 0.38,
-   "shares": 263.1579,
-   "stake": 100.0,
-   "leader_vwap": 0.38,
-   "leader_cost": 3040.0,
-   "copy_delay_min": 7.9,
-   "best_ask": 0.38,
-   "ask_depth": 4656.04,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -37822,6 +37803,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85575036723589722131532130996610009763114730640829509781521029093533056594910",
+   "condition_id": "0xc159756df847ca238378e4934cf2cdce6c8d2a31919759d4e1151a82bcad427c",
+   "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
+   "outcome": "Anna Bondar",
+   "slug": "wta-bondar-ruse-2026-09-25",
+   "opened_at": "2026-09-24T17:40:37.921979+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.38,
+   "leader_cost": 3040.0,
+   "copy_delay_min": 7.9,
+   "best_ask": 0.38,
+   "ask_depth": 4656.04,
+   "status": "won",
+   "closed_at": "2026-09-26T05:15:29.661515+00:00",
+   "exit_price": 1.0,
+   "pnl": 163.1579,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -45119,6 +45122,6 @@
    "outcome": "Taylah Preston"
   }
  ],
- "total_pnl": -1502.579399999999,
- "last_updated": "2026-09-26T05:10:31.125937+00:00"
+ "total_pnl": -1339.421499999999,
+ "last_updated": "2026-09-26T05:15:29.663272+00:00"
 }
