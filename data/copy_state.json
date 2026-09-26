@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8730.070191199999,
  "last_seen": {
-  "jtwyslljy": 1790439104,
+  "jtwyslljy": 1790439332,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16756,6 +16756,13 @@
    "BUY",
    3281.36,
    1790439104
+  ],
+  [
+   "0xe7a624823f1a9d1cdef5f70b75ebe4dcdefcb386ef803770802bd50b1639f2cc",
+   "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "SELL",
+   4000,
+   1790439332
   ]
  ],
  "leader_pos": {
@@ -27650,10 +27657,10 @@
    "title": "Dota 2: Natus Vincere vs Xtreme Gaming - Game 2 Winner",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-navi-xtreme-2026-09-26",
-   "shares": 4742.59,
-   "cost": 2084.2612,
+   "shares": 742.5900000000001,
+   "cost": 524.2611999999999,
    "max_shares": 4742.59,
-   "last_trade_ts": 1790439104
+   "last_trade_ts": 1790439332
   }
  },
  "positions": [],
@@ -45313,5 +45320,5 @@
   }
  ],
  "total_pnl": -1269.929999999999,
- "last_updated": "2026-09-26T16:20:31.846375+00:00"
+ "last_updated": "2026-09-26T16:25:24.879975+00:00"
 }
