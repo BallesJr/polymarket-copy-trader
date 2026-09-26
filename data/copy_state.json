@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8730.070191199999,
  "last_seen": {
-  "jtwyslljy": 1790430071,
+  "jtwyslljy": 1790430932,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16714,6 +16714,20 @@
    "BUY",
    2647.54,
    1790430071
+  ],
+  [
+   "0x7df6050113c087f58be2977ceecc9bb8425351d4096c5da92b6ec738cbfa9ae4",
+   "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "BUY",
+   1079.68,
+   1790430624
+  ],
+  [
+   "0xe7bbf37b227aaffd9744003c5fd5bfdebbf2cb35909f3d3fdbbdedff38a85d16",
+   "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "BUY",
+   1460.25,
+   1790430932
   ]
  ],
  "leader_pos": {
@@ -27596,10 +27610,10 @@
    "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
    "outcome": "Team Yandex",
    "slug": "dota2-lgd-ty-2026-09-26",
-   "shares": 2647.54,
-   "cost": 1879.7533999999998,
-   "max_shares": 2647.54,
-   "last_trade_ts": 1790430071
+   "shares": 5187.47,
+   "cost": 3854.5279999999993,
+   "max_shares": 5187.47,
+   "last_trade_ts": 1790430932
   }
  },
  "positions": [],
@@ -45224,8 +45238,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-09-26T14:01:00.036044+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-26T12:10:00+00:00",
+   "condition_id": "0xaf83c178fc63ffdfcbc6497502687f67dfa9b781e01586c5990657038d702abd",
+   "asset": "58000986363420251700119496000110672235609377479290503318888812616616496768388",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.94,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1269.929999999999,
- "last_updated": "2026-09-26T13:45:30.666045+00:00"
+ "last_updated": "2026-09-26T14:01:00.036628+00:00"
 }
