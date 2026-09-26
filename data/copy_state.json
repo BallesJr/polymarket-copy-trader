@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8730.070191199999,
  "last_seen": {
-  "jtwyslljy": 1790430932,
+  "jtwyslljy": 1790439104,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16728,6 +16728,34 @@
    "BUY",
    1460.25,
    1790430932
+  ],
+  [
+   "0x3f2860e58c35b6aefd35bfb6aee515c796c771cfd57d87a46b6cae747dd655ae",
+   "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "BUY",
+   156.62,
+   1790439026
+  ],
+  [
+   "0x395fe848a4d6bd04ad81ccd051f8edec7ef40a71f61488c278529bd3bf4272f0",
+   "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "BUY",
+   45.61,
+   1790439050
+  ],
+  [
+   "0x7803906d5de1ec21b584d31b420f2a78d9427275aa238488e02e4cf44c06431c",
+   "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "BUY",
+   1259,
+   1790439090
+  ],
+  [
+   "0x57384197a08ead57c4d15ae3f84bd2dc52346cc8ca642c7be20d0e3f625ad50b",
+   "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "BUY",
+   3281.36,
+   1790439104
   ]
  ],
  "leader_pos": {
@@ -27614,6 +27642,18 @@
    "cost": 3854.5279999999993,
    "max_shares": 5187.47,
    "last_trade_ts": 1790430932
+  },
+  "jtwyslljy|103565211816364752204255355733201945346092674765039009959432475627693335649016": {
+   "leader": "jtwyslljy",
+   "asset": "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "condition_id": "0xc1c1b4c77bd01caf9d98eaa3ad24d56c570ebe07fee81ccfc038b42e56ad5580",
+   "title": "Dota 2: Natus Vincere vs Xtreme Gaming - Game 2 Winner",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-navi-xtreme-2026-09-26",
+   "shares": 4742.59,
+   "cost": 2084.2612,
+   "max_shares": 4742.59,
+   "last_trade_ts": 1790439104
   }
  },
  "positions": [],
@@ -45254,8 +45294,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs Team Yandex - Game 2 Winner",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-09-26T16:20:31.845721+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-26T14:50:00+00:00",
+   "condition_id": "0xc1c1b4c77bd01caf9d98eaa3ad24d56c570ebe07fee81ccfc038b42e56ad5580",
+   "asset": "103565211816364752204255355733201945346092674765039009959432475627693335649016",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Natus Vincere vs Xtreme Gaming - Game 2 Winner",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1269.929999999999,
- "last_updated": "2026-09-26T14:01:00.036628+00:00"
+ "last_updated": "2026-09-26T16:20:31.846375+00:00"
 }
