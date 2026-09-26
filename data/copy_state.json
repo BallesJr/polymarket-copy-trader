@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790389386,
+  "jtwyslljy": 1790397959,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16658,6 +16658,20 @@
    "BUY",
    3627.51,
    1790389386
+  ],
+  [
+   "0xcf6ee6fb8ec8c35cea48f054985a83c31808126df2c3fbe324acdbd08791102f",
+   "105921110995288903837538038523615741336882136135802711456684543787126521050269",
+   "BUY",
+   882.44,
+   1790397734
+  ],
+  [
+   "0x50cb4006f2442fe47fda3e69e31f96d0ea779dff0df6e5e7e811efb716d0b5fd",
+   "105921110995288903837538038523615741336882136135802711456684543787126521050269",
+   "BUY",
+   4330.9,
+   1790397959
   ]
  ],
  "leader_pos": {
@@ -27508,6 +27522,18 @@
    "cost": 2067.6807,
    "max_shares": 3627.51,
    "last_trade_ts": 1790389386
+  },
+  "jtwyslljy|105921110995288903837538038523615741336882136135802711456684543787126521050269": {
+   "leader": "jtwyslljy",
+   "asset": "105921110995288903837538038523615741336882136135802711456684543787126521050269",
+   "condition_id": "0x20b71bf74fbb835c025b362bea96bf553be189065123d74c041464705406349f",
+   "title": "Korea Open: Taylah Preston vs Alina Korneeva",
+   "outcome": "Taylah Preston",
+   "slug": "wta-preston-korneev-2026-09-25",
+   "shares": 5213.34,
+   "cost": 1604.9830000626598,
+   "max_shares": 5213.34,
+   "last_trade_ts": 1790397959
   }
  },
  "positions": [
@@ -45071,8 +45097,24 @@
    "leader": "jtwyslljy",
    "title": "Los Angeles Angels vs. Seattle Mariners",
    "outcome": "Los Angeles Angels"
+  },
+  {
+   "at": "2026-09-26T04:55:18.409976+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-26T04:45:00+00:00",
+   "condition_id": "0x20b71bf74fbb835c025b362bea96bf553be189065123d74c041464705406349f",
+   "asset": "105921110995288903837538038523615741336882136135802711456684543787126521050269",
+   "copy_delay_min": 9.3,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Korea Open: Taylah Preston vs Alina Korneeva",
+   "outcome": "Taylah Preston"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-26T02:30:43.769969+00:00"
+ "last_updated": "2026-09-26T04:55:18.763062+00:00"
 }
