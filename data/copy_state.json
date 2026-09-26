@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8397.420791199998,
  "last_seen": {
-  "jtwyslljy": 1790359374,
+  "jtwyslljy": 1790389386,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16651,6 +16651,13 @@
    "BUY",
    489.89,
    1790359374
+  ],
+  [
+   "0x95924547116e554b9c8d8c1fdeeb1103bd3cf45a198a3b91ad6d09708e6831b1",
+   "95482537914013837982645556519188396499965630660230489193249680715506485007114",
+   "BUY",
+   3627.51,
+   1790389386
   ]
  ],
  "leader_pos": {
@@ -27489,6 +27496,18 @@
    "cost": 4246.883100385742,
    "max_shares": 9166.169999999998,
    "last_trade_ts": 1790359374
+  },
+  "jtwyslljy|95482537914013837982645556519188396499965630660230489193249680715506485007114": {
+   "leader": "jtwyslljy",
+   "asset": "95482537914013837982645556519188396499965630660230489193249680715506485007114",
+   "condition_id": "0xe1dcd69461c87df70ea2c02fde860adbacb63979908c2794b7640e9e14054b73",
+   "title": "Los Angeles Angels vs. Seattle Mariners",
+   "outcome": "Los Angeles Angels",
+   "slug": "mlb-laa-sea-2026-09-25",
+   "shares": 3627.51,
+   "cost": 2067.6807,
+   "max_shares": 3627.51,
+   "last_trade_ts": 1790389386
   }
  },
  "positions": [
@@ -45036,8 +45055,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Aurora vs Team Yandex - Game 1 Winner",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-09-26T02:30:43.516786+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-26T02:10:00+00:00",
+   "condition_id": "0xe1dcd69461c87df70ea2c02fde860adbacb63979908c2794b7640e9e14054b73",
+   "asset": "95482537914013837982645556519188396499965630660230489193249680715506485007114",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.59,
+   "cf_shares": 169.4915,
+   "cf_cost": 100.0,
+   "cf_entry": 0.59,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Los Angeles Angels vs. Seattle Mariners",
+   "outcome": "Los Angeles Angels"
   }
  ],
  "total_pnl": -1402.579399999999,
- "last_updated": "2026-09-25T18:10:32.231655+00:00"
+ "last_updated": "2026-09-26T02:30:43.769969+00:00"
 }
