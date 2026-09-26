@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8660.578691199999,
+ "bankroll": 8560.578691199999,
  "last_seen": {
-  "jtwyslljy": 1790399961,
+  "jtwyslljy": 1790406044,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16679,6 +16679,13 @@
    "SELL",
    9366.43,
    1790399961
+  ],
+  [
+   "0xdd46476c5703507d0c525601717c08d06eeeb3ef3b7c1c778c8c7e61c974b016",
+   "98976199128760039303251614827340567772774592878681224694017572732180290678512",
+   "BUY",
+   7938.63,
+   1790406044
   ]
  ],
  "leader_pos": {
@@ -27541,9 +27548,40 @@
    "cost": 1042.9972000626599,
    "max_shares": 5213.34,
    "last_trade_ts": 1790399961
+  },
+  "jtwyslljy|98976199128760039303251614827340567772774592878681224694017572732180290678512": {
+   "leader": "jtwyslljy",
+   "asset": "98976199128760039303251614827340567772774592878681224694017572732180290678512",
+   "condition_id": "0x2353709e1e6115e3dda905533223d6088989bbfa19b5c270ea6ce8e1fe65552a",
+   "title": "Singapore Open: Leylah Fernandez vs Maja Chwalinska",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-fernand-chwalin-2026-09-26",
+   "shares": 7938.63,
+   "cost": 4604.4054,
+   "max_shares": 7938.63,
+   "last_trade_ts": 1790406044
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "98976199128760039303251614827340567772774592878681224694017572732180290678512",
+   "condition_id": "0x2353709e1e6115e3dda905533223d6088989bbfa19b5c270ea6ce8e1fe65552a",
+   "title": "Singapore Open: Leylah Fernandez vs Maja Chwalinska",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-fernand-chwalin-2026-09-26",
+   "opened_at": "2026-09-26T07:10:30.054880+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 4604.41,
+   "copy_delay_min": 9.8,
+   "best_ask": 0.59,
+   "ask_depth": 22470.94,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -45130,5 +45168,5 @@
   }
  ],
  "total_pnl": -1339.421499999999,
- "last_updated": "2026-09-26T05:30:48.446200+00:00"
+ "last_updated": "2026-09-26T07:10:30.229170+00:00"
 }
