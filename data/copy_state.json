@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8560.578691199999,
  "last_seen": {
-  "jtwyslljy": 1790406044,
+  "jtwyslljy": 1790420430,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16686,6 +16686,13 @@
    "BUY",
    7938.63,
    1790406044
+  ],
+  [
+   "0xd86ea40a8a33fe38e95dcf18278fa0d9cbedaeabb3ab79ed29230dec735440ba",
+   "98976199128760039303251614827340567772774592878681224694017572732180290678512",
+   "BUY",
+   5000,
+   1790420430
   ]
  ],
  "leader_pos": {
@@ -27556,10 +27563,10 @@
    "title": "Singapore Open: Leylah Fernandez vs Maja Chwalinska",
    "outcome": "Leylah Fernandez",
    "slug": "wta-fernand-chwalin-2026-09-26",
-   "shares": 7938.63,
-   "cost": 4604.4054,
-   "max_shares": 7938.63,
-   "last_trade_ts": 1790406044
+   "shares": 12938.630000000001,
+   "cost": 6754.4054,
+   "max_shares": 12938.630000000001,
+   "last_trade_ts": 1790420430
   }
  },
  "positions": [
@@ -45168,5 +45175,5 @@
   }
  ],
  "total_pnl": -1339.421499999999,
- "last_updated": "2026-09-26T07:10:30.229170+00:00"
+ "last_updated": "2026-09-26T11:10:29.213397+00:00"
 }
