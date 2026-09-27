@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8747.461491199998,
  "last_seen": {
-  "jtwyslljy": 1790502882,
+  "jtwyslljy": 1790508306,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16791,6 +16791,13 @@
    "BUY",
    1010.55,
    1790502882
+  ],
+  [
+   "0xc888b8d774158054ab1dd2ea4e67f2be0707a42fa196dbdd7f54ebf0e56da739",
+   "43741938770818509977719455206481224038018281930283703719104211750813534494143",
+   "SELL",
+   4000,
+   1790508306
   ]
  ],
  "leader_pos": {
@@ -27721,10 +27728,10 @@
    "title": "Hangzhou Open: Roman Safiullin vs Yunchaokete Bu",
    "outcome": "Roman Safiullin",
    "slug": "atp-safiull-bu-2026-09-27",
-   "shares": 8000.0,
-   "cost": 4240.0,
+   "shares": 4000.0,
+   "cost": 1320.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1790500013
+   "last_trade_ts": 1790508306
   },
   "jtwyslljy|41783184741201102117713522561034428194345042393915667581281339952523300627864": {
    "leader": "jtwyslljy",
@@ -45466,8 +45473,24 @@
    "leader": "jtwyslljy",
    "title": "Hangzhou Open: Hugo Gaston vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-09-27T11:30:46.349663+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-27T10:55:00+00:00",
+   "condition_id": "0xf414c76ccd91e719aba4eca76e307b5d2d61c310c89339838c32cdfe2e3a670a",
+   "asset": "43741938770818509977719455206481224038018281930283703719104211750813534494143",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.81,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Hangzhou Open: Roman Safiullin vs Yunchaokete Bu",
+   "outcome": "Roman Safiullin"
   }
  ],
  "total_pnl": -1152.538699999999,
- "last_updated": "2026-09-27T10:00:53.482859+00:00"
+ "last_updated": "2026-09-27T11:30:46.904491+00:00"
 }
