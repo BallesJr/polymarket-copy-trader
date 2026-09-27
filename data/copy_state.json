@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8796.715191199997,
+ "bankroll": 8905.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790510972,
+  "jtwyslljy": 1790512818,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16819,6 +16819,13 @@
    "BUY",
    6000,
    1790510972
+  ],
+  [
+   "0x0e4e05e3c87b0371e943421de6960f2014a90de64a47c63167a782af7f74fca2",
+   "17528567629536970966647222599870791826154569933377448510402546871182192667037",
+   "SELL",
+   5997.28,
+   1790512818
   ]
  ],
  "leader_pos": {
@@ -27773,32 +27780,13 @@
    "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
    "outcome": "Coleman Wong",
    "slug": "atp-medvede-wong-2026-09-27",
-   "shares": 6000.0,
-   "cost": 1200.0,
+   "shares": 2.7200000000002547,
+   "cost": 780.1904,
    "max_shares": 6000.0,
-   "last_trade_ts": 1790510972
+   "last_trade_ts": 1790512818
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "17528567629536970966647222599870791826154569933377448510402546871182192667037",
-   "condition_id": "0xd0672ad7589b868175d832ec12e1a609d87640d84084262a7079df1b7b89acf5",
-   "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
-   "outcome": "Coleman Wong",
-   "slug": "atp-medvede-wong-2026-09-27",
-   "opened_at": "2026-09-27T12:15:30.937885+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 1200.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.2,
-   "ask_depth": 8000.2,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38153,6 +38141,28 @@
    "exit_price": 1.0,
    "pnl": 49.2537,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17528567629536970966647222599870791826154569933377448510402546871182192667037",
+   "condition_id": "0xd0672ad7589b868175d832ec12e1a609d87640d84084262a7079df1b7b89acf5",
+   "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
+   "outcome": "Coleman Wong",
+   "slug": "atp-medvede-wong-2026-09-27",
+   "opened_at": "2026-09-27T12:15:30.937885+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1200.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.2,
+   "ask_depth": 8000.2,
+   "status": "closed",
+   "closed_at": "2026-09-27T12:50:31.442770+00:00",
+   "exit_price": 0.2175,
+   "pnl": 8.7702,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -45546,6 +45556,6 @@
    "outcome": "Roman Safiullin"
   }
  ],
- "total_pnl": -1103.284999999999,
- "last_updated": "2026-09-27T12:15:31.084759+00:00"
+ "total_pnl": -1094.514799999999,
+ "last_updated": "2026-09-27T12:50:31.443399+00:00"
 }
