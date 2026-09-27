@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8905.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790512818,
+  "jtwyslljy": 1790516282,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16826,6 +16826,20 @@
    "SELL",
    5997.28,
    1790512818
+  ],
+  [
+   "0x72775a6e963b7ba6ed8d082502a239c3016f8151bf78f716ebb8858a51eb1efd",
+   "28030936099003389775461137000930795605175834408710483264950490077357634969863",
+   "BUY",
+   1986.55,
+   1790516253
+  ],
+  [
+   "0x8119052faed1c46bf2b8aa4d614000a53b1261ea2027d41e45b5bdea59f7be5a",
+   "28030936099003389775461137000930795605175834408710483264950490077357634969863",
+   "BUY",
+   2183.74,
+   1790516282
   ]
  ],
  "leader_pos": {
@@ -27784,6 +27798,18 @@
    "cost": 780.1904,
    "max_shares": 6000.0,
    "last_trade_ts": 1790512818
+  },
+  "jtwyslljy|28030936099003389775461137000930795605175834408710483264950490077357634969863": {
+   "leader": "jtwyslljy",
+   "asset": "28030936099003389775461137000930795605175834408710483264950490077357634969863",
+   "condition_id": "0x84d67034793b2116100463c8e072152b8e2b6a6b08db6295f0f1f600231bd6ed",
+   "title": "Counter-Strike: GamerLegion vs 3DMAX (BO3) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion",
+   "slug": "cs2-gl1-3dmax-2026-09-27",
+   "shares": 4170.29,
+   "cost": 2357.1998,
+   "max_shares": 4170.29,
+   "last_trade_ts": 1790516282
   }
  },
  "positions": [],
@@ -45554,8 +45580,24 @@
    "leader": "jtwyslljy",
    "title": "Hangzhou Open: Roman Safiullin vs Yunchaokete Bu",
    "outcome": "Roman Safiullin"
+  },
+  {
+   "at": "2026-09-27T13:45:32.284689+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-27T11:40:00+00:00",
+   "condition_id": "0x84d67034793b2116100463c8e072152b8e2b6a6b08db6295f0f1f600231bd6ed",
+   "asset": "28030936099003389775461137000930795605175834408710483264950490077357634969863",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.59,
+   "cf_shares": 167.6355,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5965,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: GamerLegion vs 3DMAX (BO3) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
  "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-27T12:50:31.443399+00:00"
+ "last_updated": "2026-09-27T13:45:32.285239+00:00"
 }
