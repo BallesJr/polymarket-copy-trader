@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8747.461491199998,
  "last_seen": {
-  "jtwyslljy": 1790500013,
+  "jtwyslljy": 1790502882,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16784,6 +16784,13 @@
    "BUY",
    8000,
    1790500013
+  ],
+  [
+   "0xc6a12f79098806b501b7feda7ba3ab475996d946ac5e4c4071e214055967c0ef",
+   "41783184741201102117713522561034428194345042393915667581281339952523300627864",
+   "BUY",
+   1010.55,
+   1790502882
   ]
  ],
  "leader_pos": {
@@ -27718,6 +27725,18 @@
    "cost": 4240.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1790500013
+  },
+  "jtwyslljy|41783184741201102117713522561034428194345042393915667581281339952523300627864": {
+   "leader": "jtwyslljy",
+   "asset": "41783184741201102117713522561034428194345042393915667581281339952523300627864",
+   "condition_id": "0x60004d0a3325f15afc80dc6f366c522105d7634d3ba09b0039af20360d7a8cb2",
+   "title": "Hangzhou Open: Hugo Gaston vs Andrey Rublev",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-gaston-rublev-2026-09-26",
+   "shares": 1010.55,
+   "cost": 576.0134999999999,
+   "max_shares": 1010.55,
+   "last_trade_ts": 1790502882
   }
  },
  "positions": [
@@ -45431,8 +45450,24 @@
    "leader": "jtwyslljy",
    "title": "Hangzhou Open: Roman Safiullin vs Yunchaokete Bu",
    "outcome": "Roman Safiullin"
+  },
+  {
+   "at": "2026-09-27T10:00:53.281776+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-27T07:45:00+00:00",
+   "condition_id": "0x60004d0a3325f15afc80dc6f366c522105d7634d3ba09b0039af20360d7a8cb2",
+   "asset": "41783184741201102117713522561034428194345042393915667581281339952523300627864",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.75,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Hangzhou Open: Hugo Gaston vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -1152.538699999999,
- "last_updated": "2026-09-27T09:15:34.038015+00:00"
+ "last_updated": "2026-09-27T10:00:53.482859+00:00"
 }
