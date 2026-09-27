@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8905.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790519240,
+  "jtwyslljy": 1790519498,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16875,6 +16875,20 @@
    "SELL",
    35.57,
    1790519240
+  ],
+  [
+   "0x0b9c5cb71f9722e658ce2f236f55a8eb64c1a3be0e66f84d47d50522798bd548",
+   "28030936099003389775461137000930795605175834408710483264950490077357634969863",
+   "SELL",
+   10.53,
+   1790519445
+  ],
+  [
+   "0x4f742d08bb8fa434cc8bfba48bef5cfb99415aa869ca18cfc74e6bcddab73a46",
+   "12913759366027656591338702725223078504469378908435804351374693538670316861871",
+   "BUY",
+   7000,
+   1790519498
   ]
  ],
  "leader_pos": {
@@ -27841,10 +27855,22 @@
    "title": "Counter-Strike: GamerLegion vs 3DMAX (BO3) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-gl1-3dmax-2026-09-27",
-   "shares": -3169.59,
-   "cost": -2959.4126,
+   "shares": -3180.1200000000003,
+   "cost": -2968.2578000000003,
    "max_shares": 4170.29,
-   "last_trade_ts": 1790519240
+   "last_trade_ts": 1790519445
+  },
+  "jtwyslljy|12913759366027656591338702725223078504469378908435804351374693538670316861871": {
+   "leader": "jtwyslljy",
+   "asset": "12913759366027656591338702725223078504469378908435804351374693538670316861871",
+   "condition_id": "0xd0672ad7589b868175d832ec12e1a609d87640d84084262a7079df1b7b89acf5",
+   "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-medvede-wong-2026-09-27",
+   "shares": 7000.0,
+   "cost": 4410.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1790519498
   }
  },
  "positions": [],
@@ -45631,8 +45657,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: GamerLegion vs 3DMAX (BO3) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-27T14:35:25.925469+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-27T12:25:00+00:00",
+   "condition_id": "0xd0672ad7589b868175d832ec12e1a609d87640d84084262a7079df1b7b89acf5",
+   "asset": "12913759366027656591338702725223078504469378908435804351374693538670316861871",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.59,
+   "cf_shares": 169.4915,
+   "cf_cost": 100.0,
+   "cf_entry": 0.59,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
+   "outcome": "Daniil Medvedev"
   }
  ],
  "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-27T14:30:44.927576+00:00"
+ "last_updated": "2026-09-27T14:35:25.926031+00:00"
 }
