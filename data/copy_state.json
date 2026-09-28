@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8905.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790563766,
+  "jtwyslljy": 1790566730,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16924,6 +16924,13 @@
    "SELL",
    5464.63,
    1790563766
+  ],
+  [
+   "0x3d0e15b252fd9bbb958e2a22e29e9db845318687f7a3f2fdb6fb368ecd942525",
+   "89144960524262177827015344695642867226710621960802924818947485149629103856015",
+   "SELL",
+   2000,
+   1790566730
   ]
  ],
  "leader_pos": {
@@ -27926,10 +27933,10 @@
    "title": "Rams vs. Broncos",
    "outcome": "Broncos",
    "slug": "nfl-la-den-2026-09-28",
-   "shares": 54535.37,
-   "cost": 26731.6239,
+   "shares": 52535.37,
+   "cost": 25271.6239,
    "max_shares": 60000.0,
-   "last_trade_ts": 1790563766
+   "last_trade_ts": 1790566730
   }
  },
  "positions": [],
@@ -45780,8 +45787,24 @@
    "leader": "jtwyslljy",
    "title": "Rams vs. Broncos",
    "outcome": "Broncos"
+  },
+  {
+   "at": "2026-09-28T03:50:32.446616+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T00:20:00+00:00",
+   "condition_id": "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25",
+   "asset": "89144960524262177827015344695642867226710621960802924818947485149629103856015",
+   "copy_delay_min": 11.7,
+   "cf_ask": 0.75,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Rams vs. Broncos",
+   "outcome": "Broncos"
   }
  ],
  "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-28T02:55:23.256119+00:00"
+ "last_updated": "2026-09-28T03:50:32.447205+00:00"
 }
