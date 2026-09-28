@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8905.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790519706,
+  "jtwyslljy": 1790563574,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16896,6 +16896,20 @@
    "SELL",
    30.01,
    1790519706
+  ],
+  [
+   "0x187ffa7502ad85ab742fe97d092440d25a34cda0eba56197079d91ebeddd6b41",
+   "7515492334014348700806241087658673878489317445809420446412843311586617605455",
+   "BUY",
+   3000,
+   1790563443
+  ],
+  [
+   "0x42ae40adec2131ed7a239bdf1b6df1c3f43047a41d554b82107b4ef6633a2d87",
+   "89144960524262177827015344695642867226710621960802924818947485149629103856015",
+   "BUY",
+   50000,
+   1790563574
   ]
  ],
  "leader_pos": {
@@ -27878,6 +27892,30 @@
    "cost": 4410.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1790519498
+  },
+  "jtwyslljy|7515492334014348700806241087658673878489317445809420446412843311586617605455": {
+   "leader": "jtwyslljy",
+   "asset": "7515492334014348700806241087658673878489317445809420446412843311586617605455",
+   "condition_id": "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25",
+   "title": "Rams vs. Broncos",
+   "outcome": "Rams",
+   "slug": "nfl-la-den-2026-09-28",
+   "shares": 3000.0,
+   "cost": 1950.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1790563443
+  },
+  "jtwyslljy|89144960524262177827015344695642867226710621960802924818947485149629103856015": {
+   "leader": "jtwyslljy",
+   "asset": "89144960524262177827015344695642867226710621960802924818947485149629103856015",
+   "condition_id": "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25",
+   "title": "Rams vs. Broncos",
+   "outcome": "Broncos",
+   "slug": "nfl-la-den-2026-09-28",
+   "shares": 50000.0,
+   "cost": 24500.0,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1790563574
   }
  },
  "positions": [],
@@ -45680,8 +45718,40 @@
    "leader": "jtwyslljy",
    "title": "Hangzhou Open: Daniil Medvedev vs Coleman Wong",
    "outcome": "Daniil Medvedev"
+  },
+  {
+   "at": "2026-09-28T02:50:34.376843+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T00:20:00+00:00",
+   "condition_id": "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25",
+   "asset": "7515492334014348700806241087658673878489317445809420446412843311586617605455",
+   "copy_delay_min": 6.5,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rams vs. Broncos",
+   "outcome": "Rams"
+  },
+  {
+   "at": "2026-09-28T02:50:34.376908+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T00:20:00+00:00",
+   "condition_id": "0xd007ef5d658f3a99ec7a39624bf0c59f0d2b18ccd5cffd61e65e6c7e77304e25",
+   "asset": "89144960524262177827015344695642867226710621960802924818947485149629103856015",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rams vs. Broncos",
+   "outcome": "Broncos"
   }
  ],
  "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-27T14:40:32.850335+00:00"
+ "last_updated": "2026-09-28T02:50:34.377325+00:00"
 }
