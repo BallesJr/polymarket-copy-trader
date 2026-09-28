@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8952.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790609462,
+  "jtwyslljy": 1790609571,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16973,6 +16973,20 @@
    "BUY",
    11000,
    1790609462
+  ],
+  [
+   "0x7731bf755083597c6ddb7cbc75aa92137e36a2a0e6044176ad2b5b317f670313",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "BUY",
+   808,
+   1790609565
+  ],
+  [
+   "0x59ff483e9324b6a8d1b3214e3408a37bdde9a37ee8b89934e073995a3562c56a",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "BUY",
+   3834.9,
+   1790609571
   ]
  ],
  "leader_pos": {
@@ -27999,10 +28013,10 @@
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-nip-gl1-2026-09-28",
-   "shares": 25528.940000000002,
-   "cost": 12490.7882,
-   "max_shares": 25528.940000000002,
-   "last_trade_ts": 1790609462
+   "shares": 30171.840000000004,
+   "cost": 14208.6612,
+   "max_shares": 30171.840000000004,
+   "last_trade_ts": 1790609571
   }
  },
  "positions": [],
@@ -45939,8 +45953,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-28T15:40:32.323838+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T14:00:00+00:00",
+   "condition_id": "0x40630d9b7bf81479c1e83ef2942a8cef5a52d67719ee939e901a1fbe6cc3e56d",
+   "asset": "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
  "total_pnl": -1047.455999999999,
- "last_updated": "2026-09-28T15:35:30.333963+00:00"
+ "last_updated": "2026-09-28T15:40:32.324479+00:00"
 }
