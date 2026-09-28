@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8805.485391199998,
+ "bankroll": 8952.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790603859,
+  "jtwyslljy": 1790603886,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16952,6 +16952,13 @@
    "BUY",
    276.05,
    1790603859
+  ],
+  [
+   "0xa0400b96a35744168ee4585c7ce425ff7efff51fec34224c26475f2817d2ddd9",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "BUY",
+   12313.28,
+   1790603886
   ]
  ],
  "leader_pos": {
@@ -27978,32 +27985,13 @@
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-nip-gl1-2026-09-28",
-   "shares": 276.05,
-   "cost": 160.109,
-   "max_shares": 276.05,
-   "last_trade_ts": 1790603859
+   "shares": 12589.33,
+   "cost": 7424.944200000001,
+   "max_shares": 12589.33,
+   "last_trade_ts": 1790603886
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "54273453488988835439717767883809970735544495464946043623819758361563682640223",
-   "condition_id": "0x688193d8aabca71f23d51398a224eddd3b56175dc72614c5c860acc796587be8",
-   "title": "Hangzhou Open: Daniil Medvedev vs Roman Safiullin",
-   "outcome": "Daniil Medvedev",
-   "slug": "atp-medvede-safiull-2026-09-28",
-   "opened_at": "2026-09-28T10:50:34.967818+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 4080.0,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.68,
-   "ask_depth": 19350.14,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38380,6 +38368,28 @@
    "exit_price": 0.2175,
    "pnl": 8.7702,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54273453488988835439717767883809970735544495464946043623819758361563682640223",
+   "condition_id": "0x688193d8aabca71f23d51398a224eddd3b56175dc72614c5c860acc796587be8",
+   "title": "Hangzhou Open: Daniil Medvedev vs Roman Safiullin",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-medvede-safiull-2026-09-28",
+   "opened_at": "2026-09-28T10:50:34.967818+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 4080.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.68,
+   "ask_depth": 19350.14,
+   "status": "won",
+   "closed_at": "2026-09-28T14:05:37.654475+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -45883,8 +45893,24 @@
    "leader": "jtwyslljy",
    "title": "Rams vs. Broncos",
    "outcome": "Broncos"
+  },
+  {
+   "at": "2026-09-28T14:05:37.084484+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T14:00:00+00:00",
+   "condition_id": "0x40630d9b7bf81479c1e83ef2942a8cef5a52d67719ee939e901a1fbe6cc3e56d",
+   "asset": "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.61,
+   "cf_shares": 163.9344,
+   "cf_cost": 100.0,
+   "cf_entry": 0.61,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
- "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-28T14:00:59.259224+00:00"
+ "total_pnl": -1047.455999999999,
+ "last_updated": "2026-09-28T14:05:37.656303+00:00"
 }
