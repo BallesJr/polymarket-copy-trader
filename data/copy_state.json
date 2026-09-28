@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8952.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790609571,
+  "jtwyslljy": 1790614568,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16987,6 +16987,13 @@
    "BUY",
    3834.9,
    1790609571
+  ],
+  [
+   "0x924bfb2d1390cc597ebcb671345cd3e1885d9a7c81f21f3cb77dbb5c18a81567",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "SELL",
+   4240.21,
+   1790614568
   ]
  ],
  "leader_pos": {
@@ -28013,10 +28020,10 @@
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-nip-gl1-2026-09-28",
-   "shares": 30171.840000000004,
-   "cost": 14208.6612,
+   "shares": 25931.630000000005,
+   "cost": 11791.7415,
    "max_shares": 30171.840000000004,
-   "last_trade_ts": 1790609571
+   "last_trade_ts": 1790614568
   }
  },
  "positions": [],
@@ -45969,8 +45976,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-28T17:01:02.654970+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T14:00:00+00:00",
+   "condition_id": "0x40630d9b7bf81479c1e83ef2942a8cef5a52d67719ee939e901a1fbe6cc3e56d",
+   "asset": "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
  "total_pnl": -1047.455999999999,
- "last_updated": "2026-09-28T15:40:32.324479+00:00"
+ "last_updated": "2026-09-28T17:01:02.655567+00:00"
 }
