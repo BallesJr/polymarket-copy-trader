@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8952.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790603886,
+  "jtwyslljy": 1790609462,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16959,6 +16959,20 @@
    "BUY",
    12313.28,
    1790603886
+  ],
+  [
+   "0x3bd36554fc5764ca95e9291d9042aed2691e780b117c3209107451a05df0c7aa",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "BUY",
+   1939.61,
+   1790609450
+  ],
+  [
+   "0x87ebc9cee1688bcf561ea2784997285995fe5873f828da76276522c50cff5024",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "BUY",
+   11000,
+   1790609462
   ]
  ],
  "leader_pos": {
@@ -27985,10 +27999,10 @@
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-nip-gl1-2026-09-28",
-   "shares": 12589.33,
-   "cost": 7424.944200000001,
-   "max_shares": 12589.33,
-   "last_trade_ts": 1790603886
+   "shares": 25528.940000000002,
+   "cost": 12490.7882,
+   "max_shares": 25528.940000000002,
+   "last_trade_ts": 1790609462
   }
  },
  "positions": [],
@@ -45909,8 +45923,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-28T15:35:30.333335+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T14:00:00+00:00",
+   "condition_id": "0x40630d9b7bf81479c1e83ef2942a8cef5a52d67719ee939e901a1fbe6cc3e56d",
+   "asset": "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
  "total_pnl": -1047.455999999999,
- "last_updated": "2026-09-28T14:05:37.656303+00:00"
+ "last_updated": "2026-09-28T15:35:30.333963+00:00"
 }
