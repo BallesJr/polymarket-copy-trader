@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8952.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790614568,
+  "jtwyslljy": 1790615538,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16994,6 +16994,20 @@
    "SELL",
    4240.21,
    1790614568
+  ],
+  [
+   "0xbd6c99b7ce2617c665c9a24d0c2442d8c956122ac4b3fd53e8ddac0a6340eae1",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "SELL",
+   1000,
+   1790615519
+  ],
+  [
+   "0xdd05c767bb8a96686e99683e092791f28fd5ccdd19b118a454db7f010c73f277",
+   "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "SELL",
+   99.98,
+   1790615538
   ]
  ],
  "leader_pos": {
@@ -28020,10 +28034,10 @@
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion",
    "slug": "cs2-nip-gl1-2026-09-28",
-   "shares": 25931.630000000005,
-   "cost": 11791.7415,
+   "shares": 24831.650000000005,
+   "cost": 11117.7543,
    "max_shares": 30171.840000000004,
-   "last_trade_ts": 1790614568
+   "last_trade_ts": 1790615538
   }
  },
  "positions": [],
@@ -45992,8 +46006,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
    "outcome": "GamerLegion"
+  },
+  {
+   "at": "2026-09-28T17:20:33.800564+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-28T14:00:00+00:00",
+   "condition_id": "0x40630d9b7bf81479c1e83ef2942a8cef5a52d67719ee939e901a1fbe6cc3e56d",
+   "asset": "67639264086720079246328053049482596715677161604710759259417068200646064792083",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playoffs",
+   "outcome": "GamerLegion"
   }
  ],
  "total_pnl": -1047.455999999999,
- "last_updated": "2026-09-28T17:01:02.655567+00:00"
+ "last_updated": "2026-09-28T17:20:33.801149+00:00"
 }
