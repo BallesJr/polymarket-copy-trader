@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8905.485391199998,
+ "bankroll": 8805.485391199998,
  "last_seen": {
-  "jtwyslljy": 1790567546,
+  "jtwyslljy": 1790592498,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -16938,6 +16938,13 @@
    "SELL",
    1000,
    1790567546
+  ],
+  [
+   "0xf924941672e4f2cad960424f2ecab4fe59d800ce0d555ea81cd158b2c1ae1362",
+   "54273453488988835439717767883809970735544495464946043623819758361563682640223",
+   "BUY",
+   6000,
+   1790592498
   ]
  ],
  "leader_pos": {
@@ -27944,9 +27951,40 @@
    "cost": 24491.6239,
    "max_shares": 60000.0,
    "last_trade_ts": 1790567546
+  },
+  "jtwyslljy|54273453488988835439717767883809970735544495464946043623819758361563682640223": {
+   "leader": "jtwyslljy",
+   "asset": "54273453488988835439717767883809970735544495464946043623819758361563682640223",
+   "condition_id": "0x688193d8aabca71f23d51398a224eddd3b56175dc72614c5c860acc796587be8",
+   "title": "Hangzhou Open: Daniil Medvedev vs Roman Safiullin",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-medvede-safiull-2026-09-28",
+   "shares": 6000.0,
+   "cost": 4080.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1790592498
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "54273453488988835439717767883809970735544495464946043623819758361563682640223",
+   "condition_id": "0x688193d8aabca71f23d51398a224eddd3b56175dc72614c5c860acc796587be8",
+   "title": "Hangzhou Open: Daniil Medvedev vs Roman Safiullin",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-medvede-safiull-2026-09-28",
+   "opened_at": "2026-09-28T10:50:34.967818+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 4080.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.68,
+   "ask_depth": 19350.14,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -45829,5 +45867,5 @@
   }
  ],
  "total_pnl": -1094.514799999999,
- "last_updated": "2026-09-28T04:00:53.393406+00:00"
+ "last_updated": "2026-09-28T10:50:35.145842+00:00"
 }
