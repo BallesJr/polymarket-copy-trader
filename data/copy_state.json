@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8852.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790680238,
+  "jtwyslljy": 1790681933,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17050,6 +17050,27 @@
    "BUY",
    24.52,
    1790680238
+  ],
+  [
+   "0xbe6b3a16f7de91479b0fcfb6c6f771194a54fad1b8e29575b90b7fcd7606a20a",
+   "51356476393519450490348876445720659187108550884924368556655512845680067906411",
+   "BUY",
+   415.76,
+   1790681790
+  ],
+  [
+   "0x730632f81d0a2299f0fd901c93358bc22ffaf7879b0c077a318499a827120c3f",
+   "51356476393519450490348876445720659187108550884924368556655512845680067906411",
+   "SELL",
+   415.76,
+   1790681829
+  ],
+  [
+   "0x165f5479b41522ebe6d68479949b2664f01ca5d54d43296ea3bd783d81421be2",
+   "75935870907256494620150531746523553886277518592037994821997520000948292428590",
+   "BUY",
+   10000,
+   1790681933
   ]
  ],
  "leader_pos": {
@@ -28116,6 +28137,30 @@
    "cost": 13.731200000000001,
    "max_shares": 24.52,
    "last_trade_ts": 1790680238
+  },
+  "jtwyslljy|51356476393519450490348876445720659187108550884924368556655512845680067906411": {
+   "leader": "jtwyslljy",
+   "asset": "51356476393519450490348876445720659187108550884924368556655512845680067906411",
+   "condition_id": "0x9616c1111bbb24c29a0af5263f5fbe39c432cd42ae95ab6878263f16f009cfaa",
+   "title": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-medvede-rublev-2026-09-29",
+   "shares": 0.0,
+   "cost": 0.0,
+   "max_shares": 415.76,
+   "last_trade_ts": 1790681829
+  },
+  "jtwyslljy|75935870907256494620150531746523553886277518592037994821997520000948292428590": {
+   "leader": "jtwyslljy",
+   "asset": "75935870907256494620150531746523553886277518592037994821997520000948292428590",
+   "condition_id": "0x1d4e142bad636742b7422c1637a085c5f4c253910bf0863e0f414bbe8e568900",
+   "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
+   "outcome": "G2 Esports",
+   "slug": "val-g21-pr1-2026-09-29",
+   "shares": 10000.0,
+   "cost": 4300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790681933
   }
  },
  "positions": [],
@@ -46138,8 +46183,24 @@
    "leader": "jtwyslljy",
    "title": "Eagles vs. Bears",
    "outcome": "Bears"
+  },
+  {
+   "at": "2026-09-29T11:45:34.918060+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-29T09:00:00+00:00",
+   "condition_id": "0x1d4e142bad636742b7422c1637a085c5f4c253910bf0863e0f414bbe8e568900",
+   "asset": "75935870907256494620150531746523553886277518592037994821997520000948292428590",
+   "copy_delay_min": 6.7,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
+   "outcome": "G2 Esports"
   }
  ],
  "total_pnl": -1147.455999999999,
- "last_updated": "2026-09-29T11:15:34.027348+00:00"
+ "last_updated": "2026-09-29T11:45:34.918660+00:00"
 }
