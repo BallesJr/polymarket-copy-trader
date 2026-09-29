@@ -28099,26 +28099,7 @@
    "last_trade_ts": 1790647790
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "29652429512130463118665284075870201747739909237084592893331546208800561253258",
-   "condition_id": "0x3ce1a8eb83552ffab3794a33b4ab7d7da750a9cd2246da324b37c5e5b0478575",
-   "title": "Eagles vs. Bears",
-   "outcome": "Eagles",
-   "slug": "nfl-phi-chi-2026-09-29",
-   "opened_at": "2026-09-28T23:55:26.957942+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 3200.0,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.64,
-   "ask_depth": 3161361.36,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38517,6 +38498,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29652429512130463118665284075870201747739909237084592893331546208800561253258",
+   "condition_id": "0x3ce1a8eb83552ffab3794a33b4ab7d7da750a9cd2246da324b37c5e5b0478575",
+   "title": "Eagles vs. Bears",
+   "outcome": "Eagles",
+   "slug": "nfl-phi-chi-2026-09-29",
+   "opened_at": "2026-09-28T23:55:26.957942+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.64,
+   "ask_depth": 3161361.36,
+   "status": "lost",
+   "closed_at": "2026-09-29T03:45:32.491512+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -46118,6 +46121,6 @@
    "outcome": "Bears"
   }
  ],
- "total_pnl": -1047.455999999999,
- "last_updated": "2026-09-29T02:15:35.302813+00:00"
+ "total_pnl": -1147.455999999999,
+ "last_updated": "2026-09-29T03:45:32.493036+00:00"
 }
