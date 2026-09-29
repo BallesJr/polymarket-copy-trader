@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8852.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790681933,
+  "jtwyslljy": 1790682146,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17071,6 +17071,13 @@
    "BUY",
    10000,
    1790681933
+  ],
+  [
+   "0x5389e1068c0f77b705913337f2c747f5d0802ee74ef0ca809815554546e26ecb",
+   "75935870907256494620150531746523553886277518592037994821997520000948292428590",
+   "BUY",
+   31376,
+   1790682146
   ]
  ],
  "leader_pos": {
@@ -28157,10 +28164,10 @@
    "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
    "outcome": "G2 Esports",
    "slug": "val-g21-pr1-2026-09-29",
-   "shares": 10000.0,
-   "cost": 4300.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1790681933
+   "shares": 41376.0,
+   "cost": 14022.612701531201,
+   "max_shares": 41376.0,
+   "last_trade_ts": 1790682146
   }
  },
  "positions": [],
@@ -46199,8 +46206,24 @@
    "leader": "jtwyslljy",
    "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
    "outcome": "G2 Esports"
+  },
+  {
+   "at": "2026-09-29T11:50:31.875542+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-29T09:00:00+00:00",
+   "condition_id": "0x1d4e142bad636742b7422c1637a085c5f4c253910bf0863e0f414bbe8e568900",
+   "asset": "75935870907256494620150531746523553886277518592037994821997520000948292428590",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
+   "outcome": "G2 Esports"
   }
  ],
  "total_pnl": -1147.455999999999,
- "last_updated": "2026-09-29T11:45:34.918660+00:00"
+ "last_updated": "2026-09-29T11:50:31.876059+00:00"
 }
