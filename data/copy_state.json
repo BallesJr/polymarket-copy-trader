@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8852.544191199999,
+ "bankroll": 8752.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790682974,
+  "jtwyslljy": 1790683550,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17092,6 +17092,13 @@
    "BUY",
    8000,
    1790682974
+  ],
+  [
+   "0xf0479bfcb70077723f5aebe67ab2f54de6155e4b5f833e305921f7bebdfe1f8c",
+   "23686594268208084679252989321253480782043259098335523711260945597929815816189",
+   "BUY",
+   1955.84,
+   1790683550
   ]
  ],
  "leader_pos": {
@@ -28194,9 +28201,40 @@
    "cost": 2040.0000000000002,
    "max_shares": 3000.0,
    "last_trade_ts": 1790682842
+  },
+  "jtwyslljy|23686594268208084679252989321253480782043259098335523711260945597929815816189": {
+   "leader": "jtwyslljy",
+   "asset": "23686594268208084679252989321253480782043259098335523711260945597929815816189",
+   "condition_id": "0x1d922efc5cceb04f39bb048da13e9d9f2fa821d75363f5d8826f7baa0a6e29f0",
+   "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
+   "outcome": "NRG",
+   "slug": "val-kc3-nrg-2026-09-29",
+   "shares": 1955.84,
+   "cost": 1093.6598999306239,
+   "max_shares": 1955.84,
+   "last_trade_ts": 1790683550
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "23686594268208084679252989321253480782043259098335523711260945597929815816189",
+   "condition_id": "0x1d922efc5cceb04f39bb048da13e9d9f2fa821d75363f5d8826f7baa0a6e29f0",
+   "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
+   "outcome": "NRG",
+   "slug": "val-kc3-nrg-2026-09-29",
+   "opened_at": "2026-09-29T12:10:29.227321+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.5592,
+   "leader_cost": 1093.66,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.55,
+   "ask_depth": 633.84,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -46283,5 +46321,5 @@
   }
  ],
  "total_pnl": -1147.455999999999,
- "last_updated": "2026-09-29T12:01:02.500638+00:00"
+ "last_updated": "2026-09-29T12:10:29.370893+00:00"
 }
