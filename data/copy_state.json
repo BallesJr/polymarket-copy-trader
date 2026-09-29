@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8752.544191199999,
+ "bankroll": 8885.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790689550,
+  "jtwyslljy": 1790694195,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17113,6 +17113,13 @@
    "BUY",
    352.03,
    1790689550
+  ],
+  [
+   "0x636bc77b98fd6f167c329a372c616d11a7ae02a3847587af6801f682e36c29bc",
+   "23686594268208084679252989321253480782043259098335523711260945597929815816189",
+   "SELL",
+   6000,
+   1790694195
   ]
  ],
  "leader_pos": {
@@ -28223,32 +28230,13 @@
    "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
    "outcome": "NRG",
    "slug": "val-kc3-nrg-2026-09-29",
-   "shares": 3411.62,
-   "cost": 1646.379699930624,
+   "shares": -2588.38,
+   "cost": -2433.6203000693768,
    "max_shares": 3411.62,
-   "last_trade_ts": 1790689550
+   "last_trade_ts": 1790694195
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "23686594268208084679252989321253480782043259098335523711260945597929815816189",
-   "condition_id": "0x1d922efc5cceb04f39bb048da13e9d9f2fa821d75363f5d8826f7baa0a6e29f0",
-   "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
-   "outcome": "NRG",
-   "slug": "val-kc3-nrg-2026-09-29",
-   "opened_at": "2026-09-29T12:10:29.227321+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.5592,
-   "leader_cost": 1093.66,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.55,
-   "ask_depth": 633.84,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -38669,6 +38657,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "23686594268208084679252989321253480782043259098335523711260945597929815816189",
+   "condition_id": "0x1d922efc5cceb04f39bb048da13e9d9f2fa821d75363f5d8826f7baa0a6e29f0",
+   "title": "Valorant: Karmine Corp vs NRG (BO3) - VCT Champions Group D",
+   "outcome": "NRG",
+   "slug": "val-kc3-nrg-2026-09-29",
+   "opened_at": "2026-09-29T12:10:29.227321+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.5592,
+   "leader_cost": 1093.66,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.55,
+   "ask_depth": 633.84,
+   "status": "closed",
+   "closed_at": "2026-09-29T15:05:35.986074+00:00",
+   "exit_price": 0.73,
+   "pnl": 32.7273,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -46334,6 +46344,6 @@
    "outcome": "Hubert Hurkacz"
   }
  ],
- "total_pnl": -1147.455999999999,
- "last_updated": "2026-09-29T13:50:36.165996+00:00"
+ "total_pnl": -1114.728699999999,
+ "last_updated": "2026-09-29T15:05:35.986628+00:00"
 }
