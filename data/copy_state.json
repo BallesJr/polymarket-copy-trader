@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8852.544191199999,
  "last_seen": {
-  "jtwyslljy": 1790682146,
+  "jtwyslljy": 1790682974,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17078,6 +17078,20 @@
    "BUY",
    31376,
    1790682146
+  ],
+  [
+   "0x818a1690dae6391da8f68efe5db2f5edad71a4407275dada4c0aaa78bd47a326",
+   "51989727683343319367518809835001181678098602257560259460139973908336397775889",
+   "BUY",
+   3000,
+   1790682842
+  ],
+  [
+   "0x1fbea7d55e5902160be41831df825bcb3379c87eafde32c44733a61ebb7a9121",
+   "17724474048080712451915283091569788608126736927400126437133981296201894774709",
+   "BUY",
+   8000,
+   1790682974
   ]
  ],
  "leader_pos": {
@@ -28140,10 +28154,10 @@
    "title": "Chengdu Open: Hubert Hurkacz vs Alejandro Davidovich Fokina",
    "outcome": "Hubert Hurkacz",
    "slug": "atp-hurkacz-fokina-2026-09-29",
-   "shares": 24.52,
-   "cost": 13.731200000000001,
-   "max_shares": 24.52,
-   "last_trade_ts": 1790680238
+   "shares": 8024.52,
+   "cost": 2093.7312,
+   "max_shares": 8024.52,
+   "last_trade_ts": 1790682974
   },
   "jtwyslljy|51356476393519450490348876445720659187108550884924368556655512845680067906411": {
    "leader": "jtwyslljy",
@@ -28168,6 +28182,18 @@
    "cost": 14022.612701531201,
    "max_shares": 41376.0,
    "last_trade_ts": 1790682146
+  },
+  "jtwyslljy|51989727683343319367518809835001181678098602257560259460139973908336397775889": {
+   "leader": "jtwyslljy",
+   "asset": "51989727683343319367518809835001181678098602257560259460139973908336397775889",
+   "condition_id": "0x9616c1111bbb24c29a0af5263f5fbe39c432cd42ae95ab6878263f16f009cfaa",
+   "title": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-medvede-rublev-2026-09-29",
+   "shares": 3000.0,
+   "cost": 2040.0000000000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1790682842
   }
  },
  "positions": [],
@@ -46222,8 +46248,40 @@
    "leader": "jtwyslljy",
    "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
    "outcome": "G2 Esports"
+  },
+  {
+   "at": "2026-09-29T12:01:02.072725+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-29T11:35:00+00:00",
+   "condition_id": "0x9616c1111bbb24c29a0af5263f5fbe39c432cd42ae95ab6878263f16f009cfaa",
+   "asset": "51989727683343319367518809835001181678098602257560259460139973908336397775889",
+   "copy_delay_min": 7.0,
+   "cf_ask": 0.79,
+   "cf_shares": 126.5823,
+   "cf_cost": 100.0,
+   "cf_entry": 0.79,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
+   "outcome": "Daniil Medvedev"
+  },
+  {
+   "at": "2026-09-29T12:01:02.500046+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-29T11:10:00+00:00",
+   "condition_id": "0x5977ee97ddc482b031be4a2acdcf57bf1c46880931ca0481294f5b966b65abb3",
+   "asset": "17724474048080712451915283091569788608126736927400126437133981296201894774709",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Chengdu Open: Hubert Hurkacz vs Alejandro Davidovich Fokina",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -1147.455999999999,
- "last_updated": "2026-09-29T11:50:31.876059+00:00"
+ "last_updated": "2026-09-29T12:01:02.500638+00:00"
 }
