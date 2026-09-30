@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790774112,
+  "jtwyslljy": 1790779200,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17344,6 +17344,20 @@
    "BUY",
    6126.53,
    1790774112
+  ],
+  [
+   "0x61b9883020b5475035155c167795af3afcbef1e008a8e06072438e84ca54af41",
+   "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "SELL",
+   1127,
+   1790779199
+  ],
+  [
+   "0xb26b351368e8b777ca49cf81e508f336e78ae02938d873e9acbf324b1673d65f",
+   "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "SELL",
+   1000,
+   1790779200
   ]
  ],
  "leader_pos": {
@@ -28586,10 +28600,10 @@
    "title": "Adana: Teodora Kostovic vs Dalma Galfi",
    "outcome": "Teodora Kostovic",
    "slug": "wta-kostovi-galfi-2026-09-30",
-   "shares": 6126.53,
-   "cost": 2743.964900032006,
+   "shares": 3999.5299999999997,
+   "cost": 1574.114900032006,
    "max_shares": 6126.53,
-   "last_trade_ts": 1790774112
+   "last_trade_ts": 1790779200
   }
  },
  "positions": [],
@@ -47000,8 +47014,24 @@
    "leader": "jtwyslljy",
    "title": "Adana: Teodora Kostovic vs Dalma Galfi",
    "outcome": "Teodora Kostovic"
+  },
+  {
+   "at": "2026-09-30T14:45:35.173829+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T12:00:00+00:00",
+   "condition_id": "0xb4b9bf268b923958cdbd1e0778c46540abbdcc98ebdc64bbe2756c432066e2a4",
+   "asset": "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.9,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Adana: Teodora Kostovic vs Dalma Galfi",
+   "outcome": "Teodora Kostovic"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-09-30T13:45:34.600000+00:00"
+ "last_updated": "2026-09-30T14:45:35.174437+00:00"
 }
