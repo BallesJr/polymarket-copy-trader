@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8585.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790751452,
+  "jtwyslljy": 1790751680,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17225,6 +17225,13 @@
    "BUY",
    11330.26,
    1790751452
+  ],
+  [
+   "0x32cc3d618ebdba44d1125f81f83bacfc9124ae3395d79b7f15b6a71bd57bae60",
+   "68409891732686937175065040507420097194576357425585370911763763600491877317831",
+   "BUY",
+   6244.44,
+   1790751680
   ]
  ],
  "leader_pos": {
@@ -28407,10 +28414,10 @@
    "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
    "outcome": "Juan Manuel Cerundolo",
    "slug": "atp-cerund-bu-2026-09-29",
-   "shares": 8000.0,
-   "cost": 3280.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1790742561
+   "shares": 14244.439999999999,
+   "cost": 5777.776,
+   "max_shares": 14244.439999999999,
+   "last_trade_ts": 1790751680
   }
  },
  "positions": [
@@ -46709,5 +46716,5 @@
   }
  ],
  "total_pnl": -1214.728699999999,
- "last_updated": "2026-09-30T07:00:55.991483+00:00"
+ "last_updated": "2026-09-30T07:10:33.982250+00:00"
 }
