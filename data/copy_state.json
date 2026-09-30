@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8385.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790763624,
+  "jtwyslljy": 1790764088,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17323,6 +17323,20 @@
    "BUY",
    5318.87,
    1790763624
+  ],
+  [
+   "0xa914c171823f76d76e395928b73981b81c0f52fe34021d6dbb0c75512a6a5a78",
+   "71774698496924844384458027679354140276638298360908235151415513463804716572289",
+   "SELL",
+   1437,
+   1790763864
+  ],
+  [
+   "0x1334a7350a4b35caf179f875e2bbd10d73c904d172aa0520353009c2df76abdc",
+   "69235722860822394704982384976123403235858073372407067771866690816974997220153",
+   "BUY",
+   8084.34,
+   1790764088
   ]
  ],
  "leader_pos": {
@@ -28541,31 +28555,25 @@
    "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
    "outcome": "Matteo Arnaldi",
    "slug": "atp-arnaldi-sakamot-2026-09-29",
-   "shares": 5318.87,
-   "cost": 2499.8689,
+   "shares": 3881.87,
+   "cost": 2011.2889,
    "max_shares": 5318.87,
-   "last_trade_ts": 1790763624
+   "last_trade_ts": 1790763864
+  },
+  "jtwyslljy|69235722860822394704982384976123403235858073372407067771866690816974997220153": {
+   "leader": "jtwyslljy",
+   "asset": "69235722860822394704982384976123403235858073372407067771866690816974997220153",
+   "condition_id": "0xde1604e623238a0c7e8ad75e0a9957ad4c251f229c8d448f11d385256ac556f2",
+   "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
+   "outcome": "Rei Sakamoto",
+   "slug": "atp-arnaldi-sakamot-2026-09-29",
+   "shares": 8084.34,
+   "cost": 4095.40320017037,
+   "max_shares": 8084.34,
+   "last_trade_ts": 1790764088
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "68409891732686937175065040507420097194576357425585370911763763600491877317831",
-   "condition_id": "0xd7b1603be3949c884d8d216fa53434c5aa2ea7b1e161d78a40b09cedf861cef9",
-   "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
-   "outcome": "Juan Manuel Cerundolo",
-   "slug": "atp-cerund-bu-2026-09-29",
-   "opened_at": "2026-09-30T04:40:37.647569+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 3280.0,
-   "copy_delay_min": 11.3,
-   "best_ask": 0.41,
-   "ask_depth": 12765.5,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "94066117131835960119865412814734779818584936028159344409858780985285523211963",
@@ -39089,6 +39097,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68409891732686937175065040507420097194576357425585370911763763600491877317831",
+   "condition_id": "0xd7b1603be3949c884d8d216fa53434c5aa2ea7b1e161d78a40b09cedf861cef9",
+   "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-cerund-bu-2026-09-29",
+   "opened_at": "2026-09-30T04:40:37.647569+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 3280.0,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.41,
+   "ask_depth": 12765.5,
+   "status": "lost",
+   "closed_at": "2026-09-30T10:30:47.808846+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -46896,8 +46926,40 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
    "outcome": "Matteo Arnaldi"
+  },
+  {
+   "at": "2026-09-30T10:30:47.084561+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T09:00:00+00:00",
+   "condition_id": "0xde1604e623238a0c7e8ad75e0a9957ad4c251f229c8d448f11d385256ac556f2",
+   "asset": "69235722860822394704982384976123403235858073372407067771866690816974997220153",
+   "copy_delay_min": 2.6,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
+   "outcome": "Rei Sakamoto"
+  },
+  {
+   "at": "2026-09-30T10:30:47.084632+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T09:00:00+00:00",
+   "condition_id": "0xde1604e623238a0c7e8ad75e0a9957ad4c251f229c8d448f11d385256ac556f2",
+   "asset": "71774698496924844384458027679354140276638298360908235151415513463804716572289",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
+   "outcome": "Matteo Arnaldi"
   }
  ],
- "total_pnl": -1314.728699999999,
- "last_updated": "2026-09-30T10:25:27.088406+00:00"
+ "total_pnl": -1414.728699999999,
+ "last_updated": "2026-09-30T10:30:47.810734+00:00"
 }
