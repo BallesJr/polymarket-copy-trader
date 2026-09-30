@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8385.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790764088,
+  "jtwyslljy": 1790774112,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17337,6 +17337,13 @@
    "BUY",
    8084.34,
    1790764088
+  ],
+  [
+   "0xae7b697f9d66ec024c180b439ac8ad5970dde5e4b9c7ef4928e6e471b1164616",
+   "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "BUY",
+   6126.53,
+   1790774112
   ]
  ],
  "leader_pos": {
@@ -28571,6 +28578,18 @@
    "cost": 4095.40320017037,
    "max_shares": 8084.34,
    "last_trade_ts": 1790764088
+  },
+  "jtwyslljy|72641399962137431586891993679615893269400390578132672919927479201728964991062": {
+   "leader": "jtwyslljy",
+   "asset": "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "condition_id": "0xb4b9bf268b923958cdbd1e0778c46540abbdcc98ebdc64bbe2756c432066e2a4",
+   "title": "Adana: Teodora Kostovic vs Dalma Galfi",
+   "outcome": "Teodora Kostovic",
+   "slug": "wta-kostovi-galfi-2026-09-30",
+   "shares": 6126.53,
+   "cost": 2743.964900032006,
+   "max_shares": 6126.53,
+   "last_trade_ts": 1790774112
   }
  },
  "positions": [
@@ -46958,8 +46977,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
    "outcome": "Matteo Arnaldi"
+  },
+  {
+   "at": "2026-09-30T13:20:32.631318+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T12:00:00+00:00",
+   "condition_id": "0xb4b9bf268b923958cdbd1e0778c46540abbdcc98ebdc64bbe2756c432066e2a4",
+   "asset": "72641399962137431586891993679615893269400390578132672919927479201728964991062",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.29,
+   "cf_shares": 343.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.291,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Adana: Teodora Kostovic vs Dalma Galfi",
+   "outcome": "Teodora Kostovic"
   }
  ],
  "total_pnl": -1414.728699999999,
- "last_updated": "2026-09-30T10:30:47.810734+00:00"
+ "last_updated": "2026-09-30T13:20:32.865242+00:00"
 }
