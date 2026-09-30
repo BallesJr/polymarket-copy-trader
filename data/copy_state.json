@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8785.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790738609,
+  "jtwyslljy": 1790739495,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17169,6 +17169,13 @@
    "BUY",
    3000,
    1790738609
+  ],
+  [
+   "0x8730022e3fa34cf9ae90a6f851e2c6d5fef7e966df0aff37a1db732153b7f20f",
+   "106567952723975136390484836028412971675560470335300520760996949316107835756732",
+   "BUY",
+   11750,
+   1790739495
   ]
  ],
  "leader_pos": {
@@ -28319,6 +28326,18 @@
    "cost": 8870.0,
    "max_shares": 16000.0,
    "last_trade_ts": 1790738609
+  },
+  "jtwyslljy|106567952723975136390484836028412971675560470335300520760996949316107835756732": {
+   "leader": "jtwyslljy",
+   "asset": "106567952723975136390484836028412971675560470335300520760996949316107835756732",
+   "condition_id": "0x0f8fef24d6406f4474ebed42be01aa21c5166ff5182ae8631ac0930318ec504f",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-vachero-blockx-2026-09-29",
+   "shares": 11750.0,
+   "cost": 6814.999999999999,
+   "max_shares": 11750.0,
+   "last_trade_ts": 1790739495
   }
  },
  "positions": [
@@ -46526,8 +46545,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-09-30T03:40:32.484998+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T02:05:00+00:00",
+   "condition_id": "0x0f8fef24d6406f4474ebed42be01aa21c5166ff5182ae8631ac0930318ec504f",
+   "asset": "106567952723975136390484836028412971675560470335300520760996949316107835756732",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-30T03:25:23.768331+00:00"
+ "last_updated": "2026-09-30T03:40:32.697706+00:00"
 }
