@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790788061,
+  "jtwyslljy": 1790788212,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17400,6 +17400,13 @@
    "SELL",
    9999.72,
    1790788061
+  ],
+  [
+   "0x6a58f83090fae899f98b50ff5f40e4ef0e6e19991dff7edd282fae23eb44e049",
+   "18531701543163773376607053657332367315283315287781510522492596402603664744781",
+   "BUY",
+   5335.31,
+   1790788212
   ]
  ],
  "leader_pos": {
@@ -28658,6 +28665,18 @@
    "cost": 2631.164199989607,
    "max_shares": 14678.68,
    "last_trade_ts": 1790788061
+  },
+  "jtwyslljy|18531701543163773376607053657332367315283315287781510522492596402603664744781": {
+   "leader": "jtwyslljy",
+   "asset": "18531701543163773376607053657332367315283315287781510522492596402603664744781",
+   "condition_id": "0x8ed431cb22553665a3408fa759e1586e2197082ea367ab0ae2f9344b0ef356d1",
+   "title": "Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-lvlup1-xtreme-2026-09-30",
+   "shares": 5335.31,
+   "cost": 4588.3666,
+   "max_shares": 5335.31,
+   "last_trade_ts": 1790788212
   }
  },
  "positions": [],
@@ -47132,8 +47151,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-30T17:20:34.255237+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T17:00:00+00:00",
+   "condition_id": "0x8ed431cb22553665a3408fa759e1586e2197082ea367ab0ae2f9344b0ef356d1",
+   "asset": "18531701543163773376607053657332367315283315287781510522492596402603664744781",
+   "copy_delay_min": 10.4,
+   "cf_ask": 0.84,
+   "cf_shares": 119.0476,
+   "cf_cost": 100.0,
+   "cf_entry": 0.84,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-09-30T17:15:32.681262+00:00"
+ "last_updated": "2026-09-30T17:20:34.255788+00:00"
 }
