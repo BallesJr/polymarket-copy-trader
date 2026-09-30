@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8385.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790762015,
+  "jtwyslljy": 1790763624,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17316,6 +17316,13 @@
    "BUY",
    17407.24,
    1790762015
+  ],
+  [
+   "0x42b32060d29ff438d98fe7b652eb62eef73c3db08442077a6b8018a345d600a1",
+   "71774698496924844384458027679354140276638298360908235151415513463804716572289",
+   "BUY",
+   5318.87,
+   1790763624
   ]
  ],
  "leader_pos": {
@@ -28526,6 +28533,18 @@
    "cost": 4874.027200000001,
    "max_shares": 17407.24,
    "last_trade_ts": 1790762015
+  },
+  "jtwyslljy|71774698496924844384458027679354140276638298360908235151415513463804716572289": {
+   "leader": "jtwyslljy",
+   "asset": "71774698496924844384458027679354140276638298360908235151415513463804716572289",
+   "condition_id": "0xde1604e623238a0c7e8ad75e0a9957ad4c251f229c8d448f11d385256ac556f2",
+   "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-arnaldi-sakamot-2026-09-29",
+   "shares": 5318.87,
+   "cost": 2499.8689,
+   "max_shares": 5318.87,
+   "last_trade_ts": 1790763624
   }
  },
  "positions": [
@@ -46861,8 +46880,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-09-30T10:25:26.494324+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T09:00:00+00:00",
+   "condition_id": "0xde1604e623238a0c7e8ad75e0a9957ad4c251f229c8d448f11d385256ac556f2",
+   "asset": "71774698496924844384458027679354140276638298360908235151415513463804716572289",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
+   "outcome": "Matteo Arnaldi"
   }
  ],
  "total_pnl": -1314.728699999999,
- "last_updated": "2026-09-30T10:05:30.190810+00:00"
+ "last_updated": "2026-09-30T10:25:27.088406+00:00"
 }
