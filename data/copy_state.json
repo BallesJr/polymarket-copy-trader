@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8885.271477199998,
+ "bankroll": 8785.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790737305,
+  "jtwyslljy": 1790737946,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17134,6 +17134,27 @@
    "BUY",
    3000,
    1790737305
+  ],
+  [
+   "0x8ffbf69cba42cffd6a99a122f237015694c3081d0a37815f311a927197768c53",
+   "68692620878434919432457154475345333836834245392900413113502449096935278494376",
+   "BUY",
+   4500,
+   1790737835
+  ],
+  [
+   "0x2887bb06229f076257f320a262cf8f36f712ec770d2b51828724b22ade9258ef",
+   "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "BUY",
+   6000,
+   1790737925
+  ],
+  [
+   "0xae3e1acc08ee9f34205fe0129fd62aea87e6a6336b12eec65328b06742547422",
+   "24428946745735836979619442931728569399891058443836309670741348032414946385834",
+   "BUY",
+   13000,
+   1790737946
   ]
  ],
  "leader_pos": {
@@ -28256,13 +28277,56 @@
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
    "outcome": "Alexander Blockx",
    "slug": "atp-vachero-blockx-2026-09-29",
-   "shares": 3061.64,
-   "cost": 1290.82,
-   "max_shares": 3061.64,
-   "last_trade_ts": 1790737305
+   "shares": 9061.64,
+   "cost": 3030.8199999999997,
+   "max_shares": 9061.64,
+   "last_trade_ts": 1790737925
+  },
+  "jtwyslljy|68692620878434919432457154475345333836834245392900413113502449096935278494376": {
+   "leader": "jtwyslljy",
+   "asset": "68692620878434919432457154475345333836834245392900413113502449096935278494376",
+   "condition_id": "0xb035806f47e950077809721c97c7c38107541625223b29c9c4e121831acd05b4",
+   "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
+   "outcome": "Tommy Paul",
+   "slug": "atp-tabilo-paul-2026-09-29",
+   "shares": 4500.0,
+   "cost": 3240.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1790737835
+  },
+  "jtwyslljy|24428946745735836979619442931728569399891058443836309670741348032414946385834": {
+   "leader": "jtwyslljy",
+   "asset": "24428946745735836979619442931728569399891058443836309670741348032414946385834",
+   "condition_id": "0x0f4a2baeaadc0944d9a0d9abb0c4ed52977619aea3d44fcb714870ce3c3ea68f",
+   "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-khachan-augeral-2026-09-29",
+   "shares": 13000.0,
+   "cost": 7670.0,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1790737946
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "68692620878434919432457154475345333836834245392900413113502449096935278494376",
+   "condition_id": "0xb035806f47e950077809721c97c7c38107541625223b29c9c4e121831acd05b4",
+   "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
+   "outcome": "Tommy Paul",
+   "slug": "atp-tabilo-paul-2026-09-29",
+   "opened_at": "2026-09-30T03:20:33.304807+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 3240.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.72,
+   "ask_depth": 9248.38,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -46384,8 +46448,40 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
    "outcome": "Alexander Blockx"
+  },
+  {
+   "at": "2026-09-30T03:20:33.111082+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T02:05:00+00:00",
+   "condition_id": "0x0f8fef24d6406f4474ebed42be01aa21c5166ff5182ae8631ac0930318ec504f",
+   "asset": "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
+   "outcome": "Alexander Blockx"
+  },
+  {
+   "at": "2026-09-30T03:20:33.501887+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T03:05:00+00:00",
+   "condition_id": "0x0f4a2baeaadc0944d9a0d9abb0c4ed52977619aea3d44fcb714870ce3c3ea68f",
+   "asset": "24428946745735836979619442931728569399891058443836309670741348032414946385834",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-30T03:10:31.844084+00:00"
+ "last_updated": "2026-09-30T03:20:33.724501+00:00"
 }
