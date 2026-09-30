@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8785.271477199998,
+ "bankroll": 8585.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790741960,
+  "jtwyslljy": 1790742561,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17190,6 +17190,20 @@
    "BUY",
    10000,
    1790741960
+  ],
+  [
+   "0x1cf6d01f3843dbc00c4ad0b1f8824298d062d4a024d2c3fa2fe43ee5bf35ceac",
+   "3011265550136363228022931728995804138259558138648186884841392817988468354783",
+   "BUY",
+   7000,
+   1790742530
+  ],
+  [
+   "0xe671b6810b89872e3dca3ecfba384b7daca7f66f6c78542e14652d5603e7486a",
+   "68409891732686937175065040507420097194576357425585370911763763600491877317831",
+   "BUY",
+   8000,
+   1790742561
   ]
  ],
  "leader_pos": {
@@ -28352,6 +28366,30 @@
    "cost": 6814.999999999999,
    "max_shares": 11750.0,
    "last_trade_ts": 1790739495
+  },
+  "jtwyslljy|3011265550136363228022931728995804138259558138648186884841392817988468354783": {
+   "leader": "jtwyslljy",
+   "asset": "3011265550136363228022931728995804138259558138648186884841392817988468354783",
+   "condition_id": "0x39d6c4c2d992b5b3b755c4e318a3341fa259afced0da7d8569a424562a256888",
+   "title": "China Open: Jan-Lennard Struff vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-struff-tirante-2026-09-29",
+   "shares": 7000.0,
+   "cost": 4340.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1790742530
+  },
+  "jtwyslljy|68409891732686937175065040507420097194576357425585370911763763600491877317831": {
+   "leader": "jtwyslljy",
+   "asset": "68409891732686937175065040507420097194576357425585370911763763600491877317831",
+   "condition_id": "0xd7b1603be3949c884d8d216fa53434c5aa2ea7b1e161d78a40b09cedf861cef9",
+   "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-cerund-bu-2026-09-29",
+   "shares": 8000.0,
+   "cost": 3280.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1790742561
   }
  },
  "positions": [
@@ -28371,6 +28409,42 @@
    "copy_delay_min": 10.0,
    "best_ask": 0.72,
    "ask_depth": 9248.38,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68409891732686937175065040507420097194576357425585370911763763600491877317831",
+   "condition_id": "0xd7b1603be3949c884d8d216fa53434c5aa2ea7b1e161d78a40b09cedf861cef9",
+   "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-cerund-bu-2026-09-29",
+   "opened_at": "2026-09-30T04:40:37.647569+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 3280.0,
+   "copy_delay_min": 11.3,
+   "best_ask": 0.41,
+   "ask_depth": 12765.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3011265550136363228022931728995804138259558138648186884841392817988468354783",
+   "condition_id": "0x39d6c4c2d992b5b3b755c4e318a3341fa259afced0da7d8569a424562a256888",
+   "title": "China Open: Jan-Lennard Struff vs Thiago Agustin Tirante",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-struff-tirante-2026-09-29",
+   "opened_at": "2026-09-30T04:40:37.807355+00:00",
+   "entry_price": 0.62,
+   "shares": 161.2903,
+   "stake": 100.0,
+   "leader_vwap": 0.62,
+   "leader_cost": 4340.0,
+   "copy_delay_min": 11.8,
+   "best_ask": 0.62,
+   "ask_depth": 6801.75,
    "status": "open"
   }
  ],
@@ -46610,5 +46684,5 @@
   }
  ],
  "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-30T04:25:28.070949+00:00"
+ "last_updated": "2026-09-30T04:40:38.185932+00:00"
 }
