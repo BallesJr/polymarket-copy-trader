@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8785.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790739740,
+  "jtwyslljy": 1790741960,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17183,6 +17183,13 @@
    "BUY",
    9735.88,
    1790739740
+  ],
+  [
+   "0xbdac0128733365aa0a512e2d470191dfdd6c9e6db7ad56e9bd2cab65476864ee",
+   "24428946745735836979619442931728569399891058443836309670741348032414946385834",
+   "BUY",
+   10000,
+   1790741960
   ]
  ],
  "leader_pos": {
@@ -28329,10 +28336,10 @@
    "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-khachan-augeral-2026-09-29",
-   "shares": 25735.879999999997,
-   "cost": 11790.764,
-   "max_shares": 25735.879999999997,
-   "last_trade_ts": 1790739740
+   "shares": 35735.88,
+   "cost": 12790.764,
+   "max_shares": 35735.88,
+   "last_trade_ts": 1790741960
   },
   "jtwyslljy|106567952723975136390484836028412971675560470335300520760996949316107835756732": {
    "leader": "jtwyslljy",
@@ -46584,8 +46591,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-09-30T04:25:27.824499+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T03:05:00+00:00",
+   "condition_id": "0x0f4a2baeaadc0944d9a0d9abb0c4ed52977619aea3d44fcb714870ce3c3ea68f",
+   "asset": "24428946745735836979619442931728569399891058443836309670741348032414946385834",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.03,
+   "cf_shares": 3333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.03,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karen Khachanov vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-30T03:45:34.492946+00:00"
+ "last_updated": "2026-09-30T04:25:28.070949+00:00"
 }
