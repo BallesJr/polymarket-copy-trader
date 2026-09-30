@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790782133,
+  "jtwyslljy": 1790785439,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17365,6 +17365,13 @@
    "BUY",
    13649.5,
    1790782133
+  ],
+  [
+   "0xfef7ec9b0191052cb2686e3054f0a9d1df7a829dbab711f8d9c1c26a3e98e633",
+   "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "SELL",
+   2000,
+   1790785439
   ]
  ],
  "leader_pos": {
@@ -28619,10 +28626,10 @@
    "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
    "outcome": "Natus Vincere",
    "slug": "dota2-nem-navi-2026-09-30",
-   "shares": 13649.5,
-   "cost": 6278.77,
+   "shares": 11649.5,
+   "cost": 4898.77,
    "max_shares": 13649.5,
-   "last_trade_ts": 1790782133
+   "last_trade_ts": 1790785439
   }
  },
  "positions": [],
@@ -47065,8 +47072,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
    "outcome": "Natus Vincere"
+  },
+  {
+   "at": "2026-09-30T16:30:48.848102+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T14:20:00+00:00",
+   "condition_id": "0x84226321f86e1af63e2a849cc0cd785ed486003d66bfa6d125a5be9fcacfb5a2",
+   "asset": "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.7,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-09-30T15:30:48.906233+00:00"
+ "last_updated": "2026-09-30T16:30:48.848640+00:00"
 }
