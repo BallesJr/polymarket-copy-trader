@@ -28592,26 +28592,7 @@
    "last_trade_ts": 1790774112
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "84631913202384096722861948473606884236880645035476413657727622033938521436061",
-   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
-   "title": "China Open: Nuno Borges vs Novak Djokovic",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-djokovi-2026-09-29",
-   "opened_at": "2026-09-30T10:05:29.961883+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.28,
-   "leader_cost": 4874.03,
-   "copy_delay_min": 11.9,
-   "best_ask": 0.29,
-   "ask_depth": 41142.88,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39142,6 +39123,28 @@
    "exit_price": 1.0,
    "pnl": 36.9863,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84631913202384096722861948473606884236880645035476413657727622033938521436061",
+   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
+   "title": "China Open: Nuno Borges vs Novak Djokovic",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-djokovi-2026-09-29",
+   "opened_at": "2026-09-30T10:05:29.961883+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 4874.03,
+   "copy_delay_min": 11.9,
+   "best_ask": 0.29,
+   "ask_depth": 41142.88,
+   "status": "lost",
+   "closed_at": "2026-09-30T13:45:34.597725+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -46999,6 +47002,6 @@
    "outcome": "Teodora Kostovic"
   }
  ],
- "total_pnl": -1377.742399999999,
- "last_updated": "2026-09-30T13:40:35.890751+00:00"
+ "total_pnl": -1477.742399999999,
+ "last_updated": "2026-09-30T13:45:34.600000+00:00"
 }
