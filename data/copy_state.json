@@ -28409,24 +28409,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "68692620878434919432457154475345333836834245392900413113502449096935278494376",
-   "condition_id": "0xb035806f47e950077809721c97c7c38107541625223b29c9c4e121831acd05b4",
-   "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
-   "outcome": "Tommy Paul",
-   "slug": "atp-tabilo-paul-2026-09-29",
-   "opened_at": "2026-09-30T03:20:33.304807+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 3240.0,
-   "copy_delay_min": 10.0,
-   "best_ask": 0.72,
-   "ask_depth": 9248.38,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "68409891732686937175065040507420097194576357425585370911763763600491877317831",
    "condition_id": "0xd7b1603be3949c884d8d216fa53434c5aa2ea7b1e161d78a40b09cedf861cef9",
    "title": "China Open: Juan Manuel Cerundolo vs Yunchaokete Bu",
@@ -38904,6 +38886,28 @@
    "exit_price": 0.73,
    "pnl": 32.7273,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68692620878434919432457154475345333836834245392900413113502449096935278494376",
+   "condition_id": "0xb035806f47e950077809721c97c7c38107541625223b29c9c4e121831acd05b4",
+   "title": "Japan Open Tennis Championships: Alejandro Tabilo vs Tommy Paul",
+   "outcome": "Tommy Paul",
+   "slug": "atp-tabilo-paul-2026-09-29",
+   "opened_at": "2026-09-30T03:20:33.304807+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 3240.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.72,
+   "ask_depth": 9248.38,
+   "status": "lost",
+   "closed_at": "2026-09-30T06:30:47.686389+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -46697,6 +46701,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-30T05:40:31.677875+00:00"
+ "total_pnl": -1214.728699999999,
+ "last_updated": "2026-09-30T06:30:47.688021+00:00"
 }
