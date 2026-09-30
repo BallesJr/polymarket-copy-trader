@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790779200,
+  "jtwyslljy": 1790782133,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17358,6 +17358,13 @@
    "SELL",
    1000,
    1790779200
+  ],
+  [
+   "0x62d8237f7ad4ef4a9d33ad860ebb06e144ea1650190f3f87a6543962d0cfbdce",
+   "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "BUY",
+   13649.5,
+   1790782133
   ]
  ],
  "leader_pos": {
@@ -28604,6 +28611,18 @@
    "cost": 1574.114900032006,
    "max_shares": 6126.53,
    "last_trade_ts": 1790779200
+  },
+  "jtwyslljy|69537156161401578578237657361760208696751757930394930944962193388092607996203": {
+   "leader": "jtwyslljy",
+   "asset": "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "condition_id": "0x84226321f86e1af63e2a849cc0cd785ed486003d66bfa6d125a5be9fcacfb5a2",
+   "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
+   "outcome": "Natus Vincere",
+   "slug": "dota2-nem-navi-2026-09-30",
+   "shares": 13649.5,
+   "cost": 6278.77,
+   "max_shares": 13649.5,
+   "last_trade_ts": 1790782133
   }
  },
  "positions": [],
@@ -47030,8 +47049,24 @@
    "leader": "jtwyslljy",
    "title": "Adana: Teodora Kostovic vs Dalma Galfi",
    "outcome": "Teodora Kostovic"
+  },
+  {
+   "at": "2026-09-30T15:30:48.905761+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T14:20:00+00:00",
+   "condition_id": "0x84226321f86e1af63e2a849cc0cd785ed486003d66bfa6d125a5be9fcacfb5a2",
+   "asset": "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "copy_delay_min": 1.9,
+   "cf_ask": 0.47,
+   "cf_shares": 210.625,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4748,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
+   "outcome": "Natus Vincere"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-09-30T14:45:35.174437+00:00"
+ "last_updated": "2026-09-30T15:30:48.906233+00:00"
 }
