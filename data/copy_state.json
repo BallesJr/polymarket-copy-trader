@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8885.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790694195,
+  "jtwyslljy": 1790737305,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17120,6 +17120,20 @@
    "SELL",
    6000,
    1790694195
+  ],
+  [
+   "0x752ecf58ad15fdfa109ab336df9dcf31799aebc4873d0e0cbf02e81ae0a3a9ba",
+   "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "BUY",
+   61.64,
+   1790737283
+  ],
+  [
+   "0xe8f9c015fd0286c58ff46b46b2dcf21ac7225f0bd0c47f837dff5bf9626f9988",
+   "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "BUY",
+   3000,
+   1790737305
   ]
  ],
  "leader_pos": {
@@ -28234,6 +28248,18 @@
    "cost": -2433.6203000693768,
    "max_shares": 3411.62,
    "last_trade_ts": 1790694195
+  },
+  "jtwyslljy|111564423259949762128070462362250514643396229150580538207081444136351042454321": {
+   "leader": "jtwyslljy",
+   "asset": "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "condition_id": "0x0f8fef24d6406f4474ebed42be01aa21c5166ff5182ae8631ac0930318ec504f",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-vachero-blockx-2026-09-29",
+   "shares": 3061.64,
+   "cost": 1290.82,
+   "max_shares": 3061.64,
+   "last_trade_ts": 1790737305
   }
  },
  "positions": [],
@@ -46342,8 +46368,24 @@
    "leader": "jtwyslljy",
    "title": "Chengdu Open: Hubert Hurkacz vs Alejandro Davidovich Fokina",
    "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-09-30T03:10:31.843449+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T02:05:00+00:00",
+   "condition_id": "0x0f8fef24d6406f4474ebed42be01aa21c5166ff5182ae8631ac0930318ec504f",
+   "asset": "111564423259949762128070462362250514643396229150580538207081444136351042454321",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.31,
+   "cf_shares": 322.5806,
+   "cf_cost": 100.0,
+   "cf_entry": 0.31,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Alexander Blockx",
+   "outcome": "Alexander Blockx"
   }
  ],
  "total_pnl": -1114.728699999999,
- "last_updated": "2026-09-29T15:05:35.986628+00:00"
+ "last_updated": "2026-09-30T03:10:31.844084+00:00"
 }
