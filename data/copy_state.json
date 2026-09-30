@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8585.271477199998,
+ "bankroll": 8485.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790755349,
+  "jtwyslljy": 1790756651,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17267,6 +17267,20 @@
    "BUY",
    5128,
    1790755349
+  ],
+  [
+   "0x129230d8be5d48d0c92962da5e647b304b92126b2efbe76043fee5800c23caf7",
+   "94066117131835960119865412814734779818584936028159344409858780985285523211963",
+   "BUY",
+   10289.86,
+   1790756633
+  ],
+  [
+   "0xddc55dd8f9a40ec029ae8d32ca9387425573b3d71121b9bb728afac6fe5bd43e",
+   "94066117131835960119865412814734779818584936028159344409858780985285523211963",
+   "SELL",
+   803.2,
+   1790756651
   ]
  ],
  "leader_pos": {
@@ -28453,6 +28467,18 @@
    "cost": 9936.992699999999,
    "max_shares": 32318.690000000002,
    "last_trade_ts": 1790755349
+  },
+  "jtwyslljy|94066117131835960119865412814734779818584936028159344409858780985285523211963": {
+   "leader": "jtwyslljy",
+   "asset": "94066117131835960119865412814734779818584936028159344409858780985285523211963",
+   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
+   "title": "China Open: Nuno Borges vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-borges-djokovi-2026-09-29",
+   "shares": 9486.66,
+   "cost": 6925.2618,
+   "max_shares": 10289.86,
+   "last_trade_ts": 1790756651
   }
  },
  "positions": [
@@ -28472,6 +28498,24 @@
    "copy_delay_min": 11.3,
    "best_ask": 0.41,
    "ask_depth": 12765.5,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94066117131835960119865412814734779818584936028159344409858780985285523211963",
+   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
+   "title": "China Open: Nuno Borges vs Novak Djokovic",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-borges-djokovi-2026-09-29",
+   "opened_at": "2026-09-30T08:30:47.983032+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 6925.26,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.73,
+   "ask_depth": 12734.81,
    "status": "open"
   }
  ],
@@ -46755,5 +46799,5 @@
   }
  ],
  "total_pnl": -1314.728699999999,
- "last_updated": "2026-09-30T08:10:32.386678+00:00"
+ "last_updated": "2026-09-30T08:30:48.305263+00:00"
 }
