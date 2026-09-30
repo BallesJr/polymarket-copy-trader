@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8485.271477199998,
+ "bankroll": 8385.271477199998,
  "last_seen": {
-  "jtwyslljy": 1790761355,
+  "jtwyslljy": 1790762015,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17309,6 +17309,13 @@
    "SELL",
    2778,
    1790761355
+  ],
+  [
+   "0x63a4453a75121b4e66adc43c6951fd56efbd2a1146e352d9b429aa001ba14967",
+   "84631913202384096722861948473606884236880645035476413657727622033938521436061",
+   "BUY",
+   17407.24,
+   1790762015
   ]
  ],
  "leader_pos": {
@@ -28507,6 +28514,18 @@
    "cost": 6925.2618,
    "max_shares": 10289.86,
    "last_trade_ts": 1790756651
+  },
+  "jtwyslljy|84631913202384096722861948473606884236880645035476413657727622033938521436061": {
+   "leader": "jtwyslljy",
+   "asset": "84631913202384096722861948473606884236880645035476413657727622033938521436061",
+   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
+   "title": "China Open: Nuno Borges vs Novak Djokovic",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-djokovi-2026-09-29",
+   "shares": 17407.24,
+   "cost": 4874.027200000001,
+   "max_shares": 17407.24,
+   "last_trade_ts": 1790762015
   }
  },
  "positions": [
@@ -28544,6 +28563,24 @@
    "copy_delay_min": 6.6,
    "best_ask": 0.73,
    "ask_depth": 12734.81,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84631913202384096722861948473606884236880645035476413657727622033938521436061",
+   "condition_id": "0x0e0081ae8ad8c0fc73f8618858a5f9ba05860da9638c63c543da3ddde8fe4f6b",
+   "title": "China Open: Nuno Borges vs Novak Djokovic",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-djokovi-2026-09-29",
+   "opened_at": "2026-09-30T10:05:29.961883+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.28,
+   "leader_cost": 4874.03,
+   "copy_delay_min": 11.9,
+   "best_ask": 0.29,
+   "ask_depth": 41142.88,
    "status": "open"
   }
  ],
@@ -46827,5 +46864,5 @@
   }
  ],
  "total_pnl": -1314.728699999999,
- "last_updated": "2026-09-30T09:55:27.251321+00:00"
+ "last_updated": "2026-09-30T10:05:30.190810+00:00"
 }
