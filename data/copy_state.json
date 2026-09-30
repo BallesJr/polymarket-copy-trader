@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790788212,
+  "jtwyslljy": 1790788785,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17407,6 +17407,20 @@
    "BUY",
    5335.31,
    1790788212
+  ],
+  [
+   "0xa42e56bc3743032f9b4cc36ed0d01c745fd1c2862842e80914c57bb53498d675",
+   "18531701543163773376607053657332367315283315287781510522492596402603664744781",
+   "SELL",
+   22.11,
+   1790788607
+  ],
+  [
+   "0xb6e6f94d2939e91a27e1d1a3d85f22abcb56abe0454f99c1790c1983f83c865c",
+   "69537156161401578578237657361760208696751757930394930944962193388092607996203",
+   "BUY",
+   2653.15,
+   1790788785
   ]
  ],
  "leader_pos": {
@@ -28661,10 +28675,10 @@
    "title": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
    "outcome": "Natus Vincere",
    "slug": "dota2-nem-navi-2026-09-30",
-   "shares": 1649.960000000001,
-   "cost": 2631.164199989607,
+   "shares": 4303.110000000001,
+   "cost": 3237.198899899182,
    "max_shares": 14678.68,
-   "last_trade_ts": 1790788061
+   "last_trade_ts": 1790788785
   },
   "jtwyslljy|18531701543163773376607053657332367315283315287781510522492596402603664744781": {
    "leader": "jtwyslljy",
@@ -28673,10 +28687,10 @@
    "title": "Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-lvlup1-xtreme-2026-09-30",
-   "shares": 5335.31,
-   "cost": 4588.3666,
+   "shares": 5313.200000000001,
+   "cost": 4569.5731000000005,
    "max_shares": 5335.31,
-   "last_trade_ts": 1790788212
+   "last_trade_ts": 1790788607
   }
  },
  "positions": [],
@@ -47167,8 +47181,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A",
    "outcome": "Xtreme Gaming"
+  },
+  {
+   "at": "2026-09-30T17:25:26.674805+00:00",
+   "reason": "in_play",
+   "game_start": "2026-09-30T17:00:00+00:00",
+   "condition_id": "0x8ed431cb22553665a3408fa759e1586e2197082ea367ab0ae2f9344b0ef356d1",
+   "asset": "18531701543163773376607053657332367315283315287781510522492596402603664744781",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.86,
+   "cf_shares": 116.2791,
+   "cf_cost": 100.0,
+   "cf_entry": 0.86,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Level UP vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-09-30T17:20:34.255788+00:00"
+ "last_updated": "2026-09-30T17:25:26.675378+00:00"
 }
