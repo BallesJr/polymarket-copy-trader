@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790827466,
+  "jtwyslljy": 1790830454,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17491,6 +17491,20 @@
    "BUY",
    1395.42,
    1790827466
+  ],
+  [
+   "0x3ff9ab1b56361bbcc4fc6b7cd3466b4976732a234b49d05164c15005fffed7c9",
+   "60587218270652890097740481468756115398493062943941861019403587255943042328731",
+   "SELL",
+   2300,
+   1790830442
+  ],
+  [
+   "0x3bdfe51ceefe6f27ff5f44ee0db0f4f1962a155f0fc77b318b2935f2f678c295",
+   "83729356339627286691619389872571915409480232048002573302164945376010521741900",
+   "BUY",
+   883.13,
+   1790830454
   ]
  ],
  "leader_pos": {
@@ -28805,10 +28819,10 @@
    "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
    "outcome": "Tomas Etcheverry",
    "slug": "atp-etcheve-tsitsip-2026-09-29",
-   "shares": 2300.0,
-   "cost": 1058.0,
+   "shares": 0.0,
+   "cost": 391.0,
    "max_shares": 2300.0,
-   "last_trade_ts": 1790827203
+   "last_trade_ts": 1790830442
   },
   "jtwyslljy|83729356339627286691619389872571915409480232048002573302164945376010521741900": {
    "leader": "jtwyslljy",
@@ -28817,10 +28831,10 @@
    "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
    "outcome": "Stefanos Tsitsipas",
    "slug": "atp-etcheve-tsitsip-2026-09-29",
-   "shares": -192.48,
-   "cost": -103.9392,
-   "max_shares": 0.0,
-   "last_trade_ts": 1790827211
+   "shares": 883.13,
+   "cost": 627.0223,
+   "max_shares": 883.13,
+   "last_trade_ts": 1790830454
   },
   "jtwyslljy|17344135861369448280904138536462267006982529708380468868340823699800214481875": {
    "leader": "jtwyslljy",
@@ -47403,8 +47417,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
    "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-01T04:55:26.703806+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T03:35:00+00:00",
+   "condition_id": "0x393d35fe2af53393ff2b1adba03788d09f1372aec5b0ef10ac5aeb3b2dac6630",
+   "asset": "83729356339627286691619389872571915409480232048002573302164945376010521741900",
+   "copy_delay_min": 1.2,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+   "outcome": "Stefanos Tsitsipas"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-10-01T04:10:30.541836+00:00"
+ "last_updated": "2026-10-01T04:55:26.704405+00:00"
 }
