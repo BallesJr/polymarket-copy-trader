@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8467.495849199999,
+ "bankroll": 8966.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790854236,
+  "jtwyslljy": 1790854988,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17659,6 +17659,20 @@
    "SELL",
    537.88,
    1790854236
+  ],
+  [
+   "0xfca07c3d31c158558295cac398e59cb2258e798e9635c6395330219eb712a3ed",
+   "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "SELL",
+   3746,
+   1790854781
+  ],
+  [
+   "0xc00620d812bef15587a0fc6cfb143fe0a7fa16e7354ed83943dc11e4d2770de1",
+   "52820446692118262441927660702865954334641437719601141865508282235877235126020",
+   "BUY",
+   5000,
+   1790854988
   ]
  ],
  "leader_pos": {
@@ -29081,32 +29095,25 @@
    "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
    "outcome": "Adolfo Vallejo",
    "slug": "atp-vallejo-jodar-2026-09-30",
-   "shares": 4462.12,
-   "cost": 521.2868,
+   "shares": 716.1199999999999,
+   "cost": -2662.8132,
    "max_shares": 5000.0,
-   "last_trade_ts": 1790854236
+   "last_trade_ts": 1790854781
+  },
+  "jtwyslljy|52820446692118262441927660702865954334641437719601141865508282235877235126020": {
+   "leader": "jtwyslljy",
+   "asset": "52820446692118262441927660702865954334641437719601141865508282235877235126020",
+   "condition_id": "0x2ae7702fee68275f49d3a0daec399bc625e125d8798b9fe1d16249e940f1e7a6",
+   "title": "China Open: Learner Tien vs Hubert Hurkacz",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-hurkacz-2026-09-29",
+   "shares": 5000.0,
+   "cost": 2650.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790854988
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "108553296642379646337244237709319228026828843258900877411121078572066741163887",
-   "condition_id": "0x1b933b0bcaead2eccb4a93d49a350ca06ee80b44cb71f32d7374eec542449d44",
-   "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
-   "outcome": "Adolfo Vallejo",
-   "slug": "atp-vallejo-jodar-2026-09-30",
-   "opened_at": "2026-10-01T10:20:36.014367+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 1000.0,
-   "copy_delay_min": 7.7,
-   "best_ask": 0.2,
-   "ask_depth": 3562.79,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39681,6 +39688,28 @@
    "exit_price": 0.61,
    "pnl": 45.2381,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "condition_id": "0x1b933b0bcaead2eccb4a93d49a350ca06ee80b44cb71f32d7374eec542449d44",
+   "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-jodar-2026-09-30",
+   "opened_at": "2026-10-01T10:20:36.014367+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.2,
+   "ask_depth": 3562.79,
+   "status": "closed",
+   "closed_at": "2026-10-01T11:45:32.193107+00:00",
+   "exit_price": 0.999,
+   "pnl": 399.5,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -47888,8 +47917,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Juncheng Shang"
+  },
+  {
+   "at": "2026-10-01T11:45:32.318431+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T11:15:00+00:00",
+   "condition_id": "0x2ae7702fee68275f49d3a0daec399bc625e125d8798b9fe1d16249e940f1e7a6",
+   "asset": "52820446692118262441927660702865954334641437719601141865508282235877235126020",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Learner Tien vs Hubert Hurkacz",
+   "outcome": "Learner Tien"
   }
  ],
- "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T11:35:27.306467+00:00"
+ "total_pnl": -1033.004299999999,
+ "last_updated": "2026-10-01T11:45:32.319089+00:00"
 }
