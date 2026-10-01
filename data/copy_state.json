@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790830454,
+  "jtwyslljy": 1790836380,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17505,6 +17505,13 @@
    "BUY",
    883.13,
    1790830454
+  ],
+  [
+   "0x27741ba79c77db2f784814b0752c4dd2724d7b3063e89e4b03f8bd50aff29253",
+   "13964590156358473316207580297366719382575583033710770950242953654879214079882",
+   "BUY",
+   10214.71,
+   1790836380
   ]
  ],
  "leader_pos": {
@@ -28847,6 +28854,18 @@
    "cost": 1529.9766,
    "max_shares": 2262.7200000000003,
    "last_trade_ts": 1790827466
+  },
+  "jtwyslljy|13964590156358473316207580297366719382575583033710770950242953654879214079882": {
+   "leader": "jtwyslljy",
+   "asset": "13964590156358473316207580297366719382575583033710770950242953654879214079882",
+   "condition_id": "0x97861c699e92693271937124caf301c6235803e388d6c168689e903871e27473",
+   "title": "China Open: Roman Safiullin vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-safiull-cobolli-2026-09-29",
+   "shares": 10214.71,
+   "cost": 5005.207899999999,
+   "max_shares": 10214.71,
+   "last_trade_ts": 1790836380
   }
  },
  "positions": [],
@@ -47433,8 +47452,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
    "outcome": "Stefanos Tsitsipas"
+  },
+  {
+   "at": "2026-10-01T06:41:06.816382+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T06:15:00+00:00",
+   "condition_id": "0x97861c699e92693271937124caf301c6235803e388d6c168689e903871e27473",
+   "asset": "13964590156358473316207580297366719382575583033710770950242953654879214079882",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.45,
+   "cf_shares": 214.5833,
+   "cf_cost": 100.0,
+   "cf_entry": 0.466,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Roman Safiullin vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-10-01T04:55:26.704405+00:00"
+ "last_updated": "2026-10-01T06:41:06.817017+00:00"
 }
