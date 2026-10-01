@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8966.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790858970,
+  "jtwyslljy": 1790859527,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17715,6 +17715,13 @@
    "BUY",
    827.74,
    1790858970
+  ],
+  [
+   "0xc072ad9c5c6a463426e7d487b150b9e3dbcb3bec65043f73f63498cafda9068b",
+   "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "BUY",
+   3000,
+   1790859527
   ]
  ],
  "leader_pos": {
@@ -29173,10 +29180,10 @@
    "title": "China Open: Learner Tien vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz",
    "slug": "atp-tien-hurkacz-2026-09-29",
-   "shares": 5827.74,
-   "cost": 2498.6830999999997,
-   "max_shares": 5827.74,
-   "last_trade_ts": 1790858970
+   "shares": 8827.74,
+   "cost": 3518.6830999999997,
+   "max_shares": 8827.74,
+   "last_trade_ts": 1790859527
   }
  },
  "positions": [],
@@ -48015,8 +48022,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Learner Tien vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-10-01T13:01:02.062207+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T11:15:00+00:00",
+   "condition_id": "0x2ae7702fee68275f49d3a0daec399bc625e125d8798b9fe1d16249e940f1e7a6",
+   "asset": "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.34,
+   "cf_shares": 279.9394,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3572,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Learner Tien vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T12:55:28.323093+00:00"
+ "last_updated": "2026-10-01T13:01:02.062800+00:00"
 }
