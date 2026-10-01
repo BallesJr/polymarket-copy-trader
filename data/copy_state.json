@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8422.257777199999,
+ "bankroll": 8567.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790840561,
+  "jtwyslljy": 1790844740,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17540,6 +17540,27 @@
    "BUY",
    8000,
    1790840561
+  ],
+  [
+   "0x63669370d7086ddf97d20ae1cf46907a6001c0074ffae63997a258449f9817e1",
+   "85824426497045468640238108781561073384331663139836859637748643073727583310279",
+   "SELL",
+   10000,
+   1790844687
+  ],
+  [
+   "0xfa50dbf60116ddf2d261c722891a1a2445e155bcfa42c4a71dba6f7cbc44469c",
+   "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "BUY",
+   10000,
+   1790844713
+  ],
+  [
+   "0xe78a3a04b6325e2cb3299f6e096831affa4a19a11356403444e474fac542c56f",
+   "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "BUY",
+   2000,
+   1790844740
   ]
  ],
  "leader_pos": {
@@ -28902,10 +28923,10 @@
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Sebastian Baez",
    "slug": "atp-shang-baez-2026-09-29",
-   "shares": 10000.0,
-   "cost": 4200.0,
+   "shares": 0.0,
+   "cost": -2000.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1790840445
+   "last_trade_ts": 1790844687
   },
   "jtwyslljy|65921238102482527613189961645788131537745638381093131831454088564195545678782": {
    "leader": "jtwyslljy",
@@ -28918,28 +28939,21 @@
    "cost": 4000.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1790840561
-  }
- },
- "positions": [
-  {
+  },
+  "jtwyslljy|16545332933754494044112481578131011307537273662226333334558979947455101608478": {
    "leader": "jtwyslljy",
-   "asset": "85824426497045468640238108781561073384331663139836859637748643073727583310279",
+   "asset": "16545332933754494044112481578131011307537273662226333334558979947455101608478",
    "condition_id": "0x0ad87389a0a5dde57096754565720e6c8158ffe3d77f8e23e687a81bc4701e28",
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
-   "outcome": "Sebastian Baez",
+   "outcome": "Juncheng Shang",
    "slug": "atp-shang-baez-2026-09-29",
-   "opened_at": "2026-10-01T07:45:31.751177+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 4200.0,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.42,
-   "ask_depth": 8472.71,
-   "status": "open"
+   "shares": 12000.0,
+   "cost": 4420.0,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1790844740
   }
- ],
+ },
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39492,6 +39506,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85824426497045468640238108781561073384331663139836859637748643073727583310279",
+   "condition_id": "0x0ad87389a0a5dde57096754565720e6c8158ffe3d77f8e23e687a81bc4701e28",
+   "title": "China Open: Juncheng Shang vs Sebastian Baez",
+   "outcome": "Sebastian Baez",
+   "slug": "atp-shang-baez-2026-09-29",
+   "opened_at": "2026-10-01T07:45:31.751177+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 4200.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.42,
+   "ask_depth": 8472.71,
+   "status": "closed",
+   "closed_at": "2026-10-01T08:55:27.187148+00:00",
+   "exit_price": 0.61,
+   "pnl": 45.2381,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -47571,8 +47607,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Paula Badosa vs Daria Kasatkina",
    "outcome": "Paula Badosa"
+  },
+  {
+   "at": "2026-10-01T08:55:27.383975+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T07:50:00+00:00",
+   "condition_id": "0x0ad87389a0a5dde57096754565720e6c8158ffe3d77f8e23e687a81bc4701e28",
+   "asset": "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "copy_delay_min": 3.1,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Juncheng Shang vs Sebastian Baez",
+   "outcome": "Juncheng Shang"
   }
  ],
- "total_pnl": -1477.742399999999,
- "last_updated": "2026-10-01T07:50:32.502459+00:00"
+ "total_pnl": -1432.504299999999,
+ "last_updated": "2026-10-01T08:55:27.384809+00:00"
 }
