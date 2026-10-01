@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8522.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790825931,
+  "jtwyslljy": 1790827466,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17456,6 +17456,41 @@
    "SELL",
    2300,
    1790825931
+  ],
+  [
+   "0x860a8a13854ae3ca57a5328afa9c87398c68327287ef8ee536cb220f5aefe77c",
+   "60587218270652890097740481468756115398493062943941861019403587255943042328731",
+   "BUY",
+   2300,
+   1790827203
+  ],
+  [
+   "0x259ae1ad73e6fa240b80249395310ff475ae08efc9a9e6f0c34700107c90bf48",
+   "83729356339627286691619389872571915409480232048002573302164945376010521741900",
+   "SELL",
+   192.48,
+   1790827211
+  ],
+  [
+   "0x7a6130edb6e8c0a4d62f8866603795ca582569826f3ecaf8c85e609d9bc692c0",
+   "87279728381859227101517035899546343315644553696217994744116995470054801177840",
+   "SELL",
+   3000,
+   1790827337
+  ],
+  [
+   "0xc91a4ef243f6f40139d27ffef7bd484d08417ede8ae59de7058b6735f3d1da3f",
+   "17344135861369448280904138536462267006982529708380468868340823699800214481875",
+   "BUY",
+   867.3,
+   1790827346
+  ],
+  [
+   "0xa88ac099a5a8ae588ab84dce3c920eba1e74d48821ad671597577160ed0ab780",
+   "17344135861369448280904138536462267006982529708380468868340823699800214481875",
+   "BUY",
+   1395.42,
+   1790827466
   ]
  ],
  "leader_pos": {
@@ -28734,10 +28769,10 @@
    "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
    "outcome": "Jaume Munar",
    "slug": "atp-fritz-munar-2026-09-30",
-   "shares": 3000.0,
-   "cost": 1050.0,
+   "shares": 0.0,
+   "cost": 60.0,
    "max_shares": 3000.0,
-   "last_trade_ts": 1790824335
+   "last_trade_ts": 1790827337
   },
   "jtwyslljy|17779021320000503585368998062081767035657019389101863009642149530734851491473": {
    "leader": "jtwyslljy",
@@ -28762,6 +28797,42 @@
    "cost": 481.6140999099996,
    "max_shares": 3300.0,
    "last_trade_ts": 1790825931
+  },
+  "jtwyslljy|60587218270652890097740481468756115398493062943941861019403587255943042328731": {
+   "leader": "jtwyslljy",
+   "asset": "60587218270652890097740481468756115398493062943941861019403587255943042328731",
+   "condition_id": "0x393d35fe2af53393ff2b1adba03788d09f1372aec5b0ef10ac5aeb3b2dac6630",
+   "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-etcheve-tsitsip-2026-09-29",
+   "shares": 2300.0,
+   "cost": 1058.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1790827203
+  },
+  "jtwyslljy|83729356339627286691619389872571915409480232048002573302164945376010521741900": {
+   "leader": "jtwyslljy",
+   "asset": "83729356339627286691619389872571915409480232048002573302164945376010521741900",
+   "condition_id": "0x393d35fe2af53393ff2b1adba03788d09f1372aec5b0ef10ac5aeb3b2dac6630",
+   "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+   "outcome": "Stefanos Tsitsipas",
+   "slug": "atp-etcheve-tsitsip-2026-09-29",
+   "shares": -192.48,
+   "cost": -103.9392,
+   "max_shares": 0.0,
+   "last_trade_ts": 1790827211
+  },
+  "jtwyslljy|17344135861369448280904138536462267006982529708380468868340823699800214481875": {
+   "leader": "jtwyslljy",
+   "asset": "17344135861369448280904138536462267006982529708380468868340823699800214481875",
+   "condition_id": "0x432d228820539c26dda9618712fc8a17383fca43d0fc5010f9e08f5fcfa3d005",
+   "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
+   "outcome": "Taylor Fritz",
+   "slug": "atp-fritz-munar-2026-09-30",
+   "shares": 2262.7200000000003,
+   "cost": 1529.9766,
+   "max_shares": 2262.7200000000003,
+   "last_trade_ts": 1790827466
   }
  },
  "positions": [],
@@ -47300,8 +47371,40 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
    "outcome": "Jaume Munar"
+  },
+  {
+   "at": "2026-10-01T04:10:30.384018+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T02:05:00+00:00",
+   "condition_id": "0x432d228820539c26dda9618712fc8a17383fca43d0fc5010f9e08f5fcfa3d005",
+   "asset": "17344135861369448280904138536462267006982529708380468868340823699800214481875",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.79,
+   "cf_shares": 126.5823,
+   "cf_cost": 100.0,
+   "cf_entry": 0.79,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
+   "outcome": "Taylor Fritz"
+  },
+  {
+   "at": "2026-10-01T04:10:30.541331+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T03:35:00+00:00",
+   "condition_id": "0x393d35fe2af53393ff2b1adba03788d09f1372aec5b0ef10ac5aeb3b2dac6630",
+   "asset": "60587218270652890097740481468756115398493062943941861019403587255943042328731",
+   "copy_delay_min": 10.4,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+   "outcome": "Tomas Etcheverry"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-10-01T03:45:29.962426+00:00"
+ "last_updated": "2026-10-01T04:10:30.541836+00:00"
 }
