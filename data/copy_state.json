@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8966.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790863868,
+  "jtwyslljy": 1790864507,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17736,6 +17736,13 @@
    "SELL",
    1078.02,
    1790863868
+  ],
+  [
+   "0xbd7e38e00c399a8601710c0be0cd08d950c88be6ebd0d082a754fca906fabd24",
+   "20538468596373017264977571671213726378110590646079996338721343717135560574121",
+   "BUY",
+   745.96,
+   1790864507
   ]
  ],
  "leader_pos": {
@@ -29206,10 +29213,10 @@
    "title": "Counter-Strike: BIG vs fnatic (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "fnatic",
    "slug": "cs2-big5-fnc-2026-10-01",
-   "shares": 0.0,
-   "cost": -10.780200000000036,
-   "max_shares": 1078.02,
-   "last_trade_ts": 1790863868
+   "shares": 745.96,
+   "cost": 290.92440000000005,
+   "max_shares": 745.96,
+   "last_trade_ts": 1790864507
   }
  },
  "positions": [],
@@ -48067,5 +48074,5 @@
   }
  ],
  "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T14:15:32.506386+00:00"
+ "last_updated": "2026-10-01T14:25:27.505924+00:00"
 }
