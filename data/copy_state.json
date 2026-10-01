@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8567.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790847572,
+  "jtwyslljy": 1790847911,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17596,6 +17596,20 @@
    "BUY",
    10000,
    1790847572
+  ],
+  [
+   "0xa106c8f0a9bb12a42be4891017a985b9e5a208af4c4123eeff2c63634d6c1829",
+   "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "BUY",
+   5000,
+   1790847875
+  ],
+  [
+   "0xa5ce404f2eb657aeffa90a14ea6e536d71aaa420b7dcc21ca895311c583718f5",
+   "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "BUY",
+   1000,
+   1790847911
   ]
  ],
  "leader_pos": {
@@ -28998,6 +29012,18 @@
    "cost": 2279.832,
    "max_shares": 10000.0,
    "last_trade_ts": 1790847572
+  },
+  "jtwyslljy|64365068040398058160791036986338416008905649601734152503852862347134683074643": {
+   "leader": "jtwyslljy",
+   "asset": "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "condition_id": "0x0f648bb2d7cc7b2e352034badac0426ebf9431273319c288165b90bf7f8408ba",
+   "title": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
+   "outcome": "Matteo Berrettini",
+   "slug": "atp-fokina-berrett-2026-09-29",
+   "shares": 6000.0,
+   "cost": 1650.0000000000002,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1790847911
   }
  },
  "positions": [],
@@ -47718,8 +47744,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen",
    "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-10-01T09:55:27.181415+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T09:30:00+00:00",
+   "condition_id": "0x0f648bb2d7cc7b2e352034badac0426ebf9431273319c288165b90bf7f8408ba",
+   "asset": "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "copy_delay_min": 10.3,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
+   "outcome": "Matteo Berrettini"
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T09:50:34.824490+00:00"
+ "last_updated": "2026-10-01T09:55:27.182083+00:00"
 }
