@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8567.495849199999,
+ "bankroll": 8467.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790849466,
+  "jtwyslljy": 1790849576,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17631,6 +17631,13 @@
    "SELL",
    3000,
    1790849466
+  ],
+  [
+   "0x40ac0d3ce58136257c8a6af422c782e269b09e4f2d5bc0d1aac41dd3ae21f35e",
+   "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "BUY",
+   5000,
+   1790849576
   ]
  ],
  "leader_pos": {
@@ -29045,9 +29052,40 @@
    "cost": 1703.5058000000001,
    "max_shares": 6314.74,
    "last_trade_ts": 1790848988
+  },
+  "jtwyslljy|108553296642379646337244237709319228026828843258900877411121078572066741163887": {
+   "leader": "jtwyslljy",
+   "asset": "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "condition_id": "0x1b933b0bcaead2eccb4a93d49a350ca06ee80b44cb71f32d7374eec542449d44",
+   "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-jodar-2026-09-30",
+   "shares": 5000.0,
+   "cost": 1000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790849576
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "condition_id": "0x1b933b0bcaead2eccb4a93d49a350ca06ee80b44cb71f32d7374eec542449d44",
+   "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
+   "outcome": "Adolfo Vallejo",
+   "slug": "atp-vallejo-jodar-2026-09-30",
+   "opened_at": "2026-10-01T10:20:36.014367+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 7.7,
+   "best_ask": 0.2,
+   "ask_depth": 3562.79,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -47832,5 +47870,5 @@
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T10:15:34.835993+00:00"
+ "last_updated": "2026-10-01T10:20:36.159905+00:00"
 }
