@@ -29299,26 +29299,7 @@
    "last_trade_ts": 1790869794
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "35553038682885136481952231679961093662048137269215670845483363909338984696858",
-   "condition_id": "0xba9628a459d21f7ca2b4921880c87c5b224710bb6c8a7e7e7b9845f8c88ca011",
-   "title": "Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
-   "outcome": "FaZe",
-   "slug": "cs2-faze-nemi1-2026-10-01",
-   "opened_at": "2026-10-01T15:55:30.834536+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 23200.0,
-   "copy_delay_min": 5.6,
-   "best_ask": 0.58,
-   "ask_depth": 86766.65,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -39915,6 +39896,28 @@
    "exit_price": 0.999,
    "pnl": 399.5,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35553038682885136481952231679961093662048137269215670845483363909338984696858",
+   "condition_id": "0xba9628a459d21f7ca2b4921880c87c5b224710bb6c8a7e7e7b9845f8c88ca011",
+   "title": "Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "FaZe",
+   "slug": "cs2-faze-nemi1-2026-10-01",
+   "opened_at": "2026-10-01T15:55:30.834536+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 23200.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.58,
+   "ask_depth": 86766.65,
+   "status": "lost",
+   "closed_at": "2026-10-01T22:10:34.285673+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -48252,6 +48255,6 @@
    "outcome": "Astralis"
   }
  ],
- "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T18:05:42.291678+00:00"
+ "total_pnl": -1133.004299999999,
+ "last_updated": "2026-10-01T22:10:34.287647+00:00"
 }
