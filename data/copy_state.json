@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8422.257777199999,
  "last_seen": {
-  "jtwyslljy": 1790840445,
+  "jtwyslljy": 1790840561,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17533,6 +17533,13 @@
    "BUY",
    10000,
    1790840445
+  ],
+  [
+   "0x5095982a8e2fb329564ff1c8f4484b261092b9380b3a9806a1838ca5359c3129",
+   "65921238102482527613189961645788131537745638381093131831454088564195545678782",
+   "BUY",
+   8000,
+   1790840561
   ]
  ],
  "leader_pos": {
@@ -28899,6 +28906,18 @@
    "cost": 4200.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1790840445
+  },
+  "jtwyslljy|65921238102482527613189961645788131537745638381093131831454088564195545678782": {
+   "leader": "jtwyslljy",
+   "asset": "65921238102482527613189961645788131537745638381093131831454088564195545678782",
+   "condition_id": "0xe9d1b30b464f5105b025dc8ec9a892b50fc4dd86fd1670c21fd9ddc110d4be38",
+   "title": "China Open: Paula Badosa vs Daria Kasatkina",
+   "outcome": "Paula Badosa",
+   "slug": "wta-badosa-kasatki-2026-09-29",
+   "shares": 8000.0,
+   "cost": 4000.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1790840561
   }
  },
  "positions": [
@@ -47536,8 +47555,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Roman Safiullin vs Flavio Cobolli",
    "outcome": "Flavio Cobolli"
+  },
+  {
+   "at": "2026-10-01T07:50:32.236596+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T05:30:00+00:00",
+   "condition_id": "0xe9d1b30b464f5105b025dc8ec9a892b50fc4dd86fd1670c21fd9ddc110d4be38",
+   "asset": "65921238102482527613189961645788131537745638381093131831454088564195545678782",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Paula Badosa vs Daria Kasatkina",
+   "outcome": "Paula Badosa"
   }
  ],
  "total_pnl": -1477.742399999999,
- "last_updated": "2026-10-01T07:45:31.908555+00:00"
+ "last_updated": "2026-10-01T07:50:32.502459+00:00"
 }
