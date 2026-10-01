@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8966.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790857646,
+  "jtwyslljy": 1790858970,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17701,6 +17701,20 @@
    "BUY",
    14.76,
    1790857646
+  ],
+  [
+   "0x38e7f52d22ca60783b7ade7ee435ccff1fcd30dd4b1b6b8a4b0673a3d964136a",
+   "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "BUY",
+   5000,
+   1790858936
+  ],
+  [
+   "0x15aac754f55d5a7dc62215fb62035fe686777e4a1eb3c4d7a04e3c9ded0b55ef",
+   "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "BUY",
+   827.74,
+   1790858970
   ]
  ],
  "leader_pos": {
@@ -29151,6 +29165,18 @@
    "cost": -3400.0,
    "max_shares": 0.0,
    "last_trade_ts": 1790855913
+  },
+  "jtwyslljy|96745061272831644407495458252931317334899900596826219062965675717462868518102": {
+   "leader": "jtwyslljy",
+   "asset": "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "condition_id": "0x2ae7702fee68275f49d3a0daec399bc625e125d8798b9fe1d16249e940f1e7a6",
+   "title": "China Open: Learner Tien vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-tien-hurkacz-2026-09-29",
+   "shares": 5827.74,
+   "cost": 2498.6830999999997,
+   "max_shares": 5827.74,
+   "last_trade_ts": 1790858970
   }
  },
  "positions": [],
@@ -47973,8 +47999,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Learner Tien vs Hubert Hurkacz",
    "outcome": "Learner Tien"
+  },
+  {
+   "at": "2026-10-01T12:55:28.322449+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T11:15:00+00:00",
+   "condition_id": "0x2ae7702fee68275f49d3a0daec399bc625e125d8798b9fe1d16249e940f1e7a6",
+   "asset": "96745061272831644407495458252931317334899900596826219062965675717462868518102",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Learner Tien vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T12:31:53.222981+00:00"
+ "last_updated": "2026-10-01T12:55:28.323093+00:00"
 }
