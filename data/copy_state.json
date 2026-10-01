@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8567.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790844740,
+  "jtwyslljy": 1790845173,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17561,6 +17561,27 @@
    "BUY",
    2000,
    1790844740
+  ],
+  [
+   "0x3b4ed55a216a2b42f231bcaa802db288e2a040684f6c793174831badf2bbf2ca",
+   "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "BUY",
+   2254.28,
+   1790845166
+  ],
+  [
+   "0x42cee4790edd83039bf791738279f7a59927acd61f8d46b2dac32c8e59cbfe5c",
+   "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "BUY",
+   7052.8,
+   1790845170
+  ],
+  [
+   "0xef58039e04975aff255df93f0122013a58000fbc4452ce59f43c6e7c8e9d173b",
+   "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "BUY",
+   11442.05,
+   1790845173
   ]
  ],
  "leader_pos": {
@@ -28947,10 +28968,10 @@
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Juncheng Shang",
    "slug": "atp-shang-baez-2026-09-29",
-   "shares": 12000.0,
-   "cost": 4420.0,
-   "max_shares": 12000.0,
-   "last_trade_ts": 1790844740
+   "shares": 32749.13,
+   "cost": 15209.5476,
+   "max_shares": 32749.13,
+   "last_trade_ts": 1790845173
   }
  },
  "positions": [],
@@ -47623,8 +47644,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Juncheng Shang"
+  },
+  {
+   "at": "2026-10-01T09:00:55.149870+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T07:50:00+00:00",
+   "condition_id": "0x0ad87389a0a5dde57096754565720e6c8158ffe3d77f8e23e687a81bc4701e28",
+   "asset": "16545332933754494044112481578131011307537273662226333334558979947455101608478",
+   "copy_delay_min": 1.4,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Juncheng Shang vs Sebastian Baez",
+   "outcome": "Juncheng Shang"
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T08:55:27.384809+00:00"
+ "last_updated": "2026-10-01T09:00:55.150624+00:00"
 }
