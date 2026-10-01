@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790869794,
+  "jtwyslljy": 1790873432,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17764,6 +17764,20 @@
    "BUY",
    40000,
    1790869794
+  ],
+  [
+   "0xda19c5d73bc77cc82b9da1b8a08544cb6cc68b09cd7a5d495eaaffc9156cb831",
+   "95306711659052054556456703853976170253786621586053781428881449621719018374173",
+   "SELL",
+   531.85,
+   1790873186
+  ],
+  [
+   "0x565197d539029883f59ac16897b00006afba65db21682829edab5cf8400ade75",
+   "95306711659052054556456703853976170253786621586053781428881449621719018374173",
+   "BUY",
+   5000,
+   1790873432
   ]
  ],
  "leader_pos": {
@@ -29246,10 +29260,10 @@
    "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Astralis",
    "slug": "cs2-ast10-all-2026-10-01",
-   "shares": 4800.0,
-   "cost": 2976.0,
-   "max_shares": 4800.0,
-   "last_trade_ts": 1790868395
+   "shares": 9268.15,
+   "cost": 4763.26,
+   "max_shares": 9268.15,
+   "last_trade_ts": 1790873432
   },
   "jtwyslljy|35553038682885136481952231679961093662048137269215670845483363909338984696858": {
    "leader": "jtwyslljy",
@@ -48151,8 +48165,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Astralis"
+  },
+  {
+   "at": "2026-10-01T16:55:26.909497+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T15:30:00+00:00",
+   "condition_id": "0xf6c2435a39934aa98f8a149bbb94dc38dcef3b6708ebbeaa6979d2195afcb9e6",
+   "asset": "95306711659052054556456703853976170253786621586053781428881449621719018374173",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.4,
+   "cf_shares": 250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "Astralis"
   }
  ],
  "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T15:55:30.989045+00:00"
+ "last_updated": "2026-10-01T16:55:27.096139+00:00"
 }
