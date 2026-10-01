@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8567.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790845268,
+  "jtwyslljy": 1790847572,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17589,6 +17589,13 @@
    "SELL",
    2749,
    1790845268
+  ],
+  [
+   "0x3b1bbb61f533efbcac0bfac9f481e6536debb84fd47a3b2b9a2ad73dd11ddb32",
+   "45543926605607696034824031812837827253434956289160753820361409358581784242373",
+   "BUY",
+   10000,
+   1790847572
   ]
  ],
  "leader_pos": {
@@ -28979,6 +28986,18 @@
    "cost": 13972.4976,
    "max_shares": 32749.13,
    "last_trade_ts": 1790845268
+  },
+  "jtwyslljy|45543926605607696034824031812837827253434956289160753820361409358581784242373": {
+   "leader": "jtwyslljy",
+   "asset": "45543926605607696034824031812837827253434956289160753820361409358581784242373",
+   "condition_id": "0xaefeb09b69d1eca8e555f2d55a0fec9ecbb0e2513e20cec949321c4e32bc5334",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-alcaraz-michels-2026-09-29",
+   "shares": 10000.0,
+   "cost": 2279.832,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790847572
   }
  },
  "positions": [],
@@ -47683,8 +47702,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Juncheng Shang"
+  },
+  {
+   "at": "2026-10-01T09:50:34.823917+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T07:25:00+00:00",
+   "condition_id": "0xaefeb09b69d1eca8e555f2d55a0fec9ecbb0e2513e20cec949321c4e32bc5334",
+   "asset": "45543926605607696034824031812837827253434956289160753820361409358581784242373",
+   "copy_delay_min": 11.0,
+   "cf_ask": 0.268,
+   "cf_shares": 371.9517,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2689,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Alex Michelsen",
+   "outcome": "Alex Michelsen"
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T09:05:37.226948+00:00"
+ "last_updated": "2026-10-01T09:50:34.824490+00:00"
 }
