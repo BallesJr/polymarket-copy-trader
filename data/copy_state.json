@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8467.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790850869,
+  "jtwyslljy": 1790854236,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17645,6 +17645,20 @@
    "SELL",
    4000,
    1790850869
+  ],
+  [
+   "0x4f76671612e8ad41b66e070192759829e05f0e246099b9d5dde962f8da4a5209",
+   "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "SELL",
+   5680.2,
+   1790854175
+  ],
+  [
+   "0x10b07d955439f2c073c4411c739aed4b02779350394388f506280068df465010",
+   "108553296642379646337244237709319228026828843258900877411121078572066741163887",
+   "SELL",
+   537.88,
+   1790854236
   ]
  ],
  "leader_pos": {
@@ -29055,10 +29069,10 @@
    "title": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
    "outcome": "Matteo Berrettini",
    "slug": "atp-fokina-berrett-2026-09-29",
-   "shares": 6314.74,
-   "cost": 1703.5058000000001,
+   "shares": 634.54,
+   "cost": -3721.3849998199603,
    "max_shares": 6314.74,
-   "last_trade_ts": 1790848988
+   "last_trade_ts": 1790854175
   },
   "jtwyslljy|108553296642379646337244237709319228026828843258900877411121078572066741163887": {
    "leader": "jtwyslljy",
@@ -29067,10 +29081,10 @@
    "title": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
    "outcome": "Adolfo Vallejo",
    "slug": "atp-vallejo-jodar-2026-09-30",
-   "shares": 5000.0,
-   "cost": 1000.0,
+   "shares": 4462.12,
+   "cost": 521.2868,
    "max_shares": 5000.0,
-   "last_trade_ts": 1790849576
+   "last_trade_ts": 1790854236
   }
  },
  "positions": [
@@ -47877,5 +47891,5 @@
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T10:45:32.142199+00:00"
+ "last_updated": "2026-10-01T11:35:27.306467+00:00"
 }
