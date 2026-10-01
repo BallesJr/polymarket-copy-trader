@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8567.495849199999,
  "last_seen": {
-  "jtwyslljy": 1790848616,
+  "jtwyslljy": 1790848988,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17617,6 +17617,13 @@
    "SELL",
    10000,
    1790848616
+  ],
+  [
+   "0xfa11bd4d75e6a58a32dde40932f02f5e1b6596e4a801171a80e7f527ef597817",
+   "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "BUY",
+   314.74,
+   1790848988
   ]
  ],
  "leader_pos": {
@@ -29027,10 +29034,10 @@
    "title": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
    "outcome": "Matteo Berrettini",
    "slug": "atp-fokina-berrett-2026-09-29",
-   "shares": 6000.0,
-   "cost": 1650.0000000000002,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1790847911
+   "shares": 6314.74,
+   "cost": 1703.5058000000001,
+   "max_shares": 6314.74,
+   "last_trade_ts": 1790848988
   }
  },
  "positions": [],
@@ -47783,8 +47790,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Juncheng Shang vs Sebastian Baez",
    "outcome": "Juncheng Shang"
+  },
+  {
+   "at": "2026-10-01T10:10:31.913007+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T09:30:00+00:00",
+   "condition_id": "0x0f648bb2d7cc7b2e352034badac0426ebf9431273319c288165b90bf7f8408ba",
+   "asset": "64365068040398058160791036986338416008905649601734152503852862347134683074643",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.18,
+   "cf_shares": 540.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1852,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
+   "outcome": "Matteo Berrettini"
   }
  ],
  "total_pnl": -1432.504299999999,
- "last_updated": "2026-10-01T10:00:53.877148+00:00"
+ "last_updated": "2026-10-01T10:10:31.913568+00:00"
 }
