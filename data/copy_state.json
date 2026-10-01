@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790876807,
+  "jtwyslljy": 1790877657,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17792,6 +17792,13 @@
    "BUY",
    900,
    1790876807
+  ],
+  [
+   "0x8b5b9d4436ed32b9ec0c55f16c64c9928ec99d3d4ea3d09d513c05bffc275ef8",
+   "95306711659052054556456703853976170253786621586053781428881449621719018374173",
+   "BUY",
+   1300,
+   1790877657
   ]
  ],
  "leader_pos": {
@@ -29274,10 +29281,10 @@
    "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Astralis",
    "slug": "cs2-ast10-all-2026-10-01",
-   "shares": 13168.15,
-   "cost": 7289.26,
-   "max_shares": 13168.15,
-   "last_trade_ts": 1790876807
+   "shares": 14468.15,
+   "cost": 7822.26,
+   "max_shares": 14468.15,
+   "last_trade_ts": 1790877657
   },
   "jtwyslljy|35553038682885136481952231679961093662048137269215670845483363909338984696858": {
    "leader": "jtwyslljy",
@@ -48227,8 +48234,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Astralis"
+  },
+  {
+   "at": "2026-10-01T18:05:42.110682+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-01T15:30:00+00:00",
+   "condition_id": "0xf6c2435a39934aa98f8a149bbb94dc38dcef3b6708ebbeaa6979d2195afcb9e6",
+   "asset": "95306711659052054556456703853976170253786621586053781428881449621719018374173",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.52,
+   "cf_shares": 188.9025,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5294,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Astralis vs Alliance (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "Astralis"
   }
  ],
  "total_pnl": -1033.004299999999,
- "last_updated": "2026-10-01T17:55:30.255221+00:00"
+ "last_updated": "2026-10-01T18:05:42.291678+00:00"
 }
