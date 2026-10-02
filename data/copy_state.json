@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790953023,
+  "jtwyslljy": 1790953311,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18023,6 +18023,13 @@
    "BUY",
    5000,
    1790953023
+  ],
+  [
+   "0xa11188160adb9cc889d88b5c452ab1f63c315b6369dba706cf82679c858e7020",
+   "23831218668682326509902468316442199674370434883433699001764857799249886524133",
+   "BUY",
+   3845.61,
+   1790953311
   ]
  ],
  "leader_pos": {
@@ -29685,10 +29692,10 @@
    "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
    "outcome": "Xtreme Gaming",
    "slug": "dota2-lgd-xtreme-2026-10-02",
-   "shares": 5.0,
-   "cost": 1.7999999999999998,
-   "max_shares": 5.0,
-   "last_trade_ts": 1790952479
+   "shares": 3850.61,
+   "cost": 1540.044,
+   "max_shares": 3850.61,
+   "last_trade_ts": 1790953311
   },
   "jtwyslljy|37767261676697530069271341863488313476494478136681265181366792663871312408673": {
    "leader": "jtwyslljy",
@@ -48993,8 +49000,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Yunchaokete Bu"
+  },
+  {
+   "at": "2026-10-02T15:05:29.204920+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T13:00:00+00:00",
+   "condition_id": "0xbf7fd93287f473443adcf1ba528b47a8a37b7e9802a7e77dc564454a5f24510a",
+   "asset": "23831218668682326509902468316442199674370434883433699001764857799249886524133",
+   "copy_delay_min": 3.6,
+   "cf_ask": 0.4,
+   "cf_shares": 250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+   "outcome": "Xtreme Gaming"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T15:01:06.930704+00:00"
+ "last_updated": "2026-10-02T15:05:29.205498+00:00"
 }
