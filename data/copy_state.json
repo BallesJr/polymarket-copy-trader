@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790929824,
+  "jtwyslljy": 1790930021,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17890,6 +17890,13 @@
    "BUY",
    1000,
    1790929824
+  ],
+  [
+   "0xcbf3942b5d687ad1de476f37bae5ab4b9108130638c338ab035a0dfb84437ad6",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   1200,
+   1790930021
   ]
  ],
  "leader_pos": {
@@ -29456,10 +29463,10 @@
    "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
    "outcome": "Luciano Darderi",
    "slug": "atp-jacquet-darderi-2026-10-02",
-   "shares": 11745.81,
-   "cost": 2366.2439,
-   "max_shares": 11745.81,
-   "last_trade_ts": 1790929824
+   "shares": 12945.81,
+   "cost": 2594.2439,
+   "max_shares": 12945.81,
+   "last_trade_ts": 1790930021
   }
  },
  "positions": [],
@@ -48560,8 +48567,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
    "outcome": "Luciano Darderi"
+  },
+  {
+   "at": "2026-10-02T08:40:31.398972+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T08:00:00+00:00",
+   "condition_id": "0x5957162dcab58a656bf0f63eaf63405ac636d68124e8bfad220a2ac732ab91f5",
+   "asset": "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.16,
+   "cf_shares": 608.7253,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1643,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
+   "outcome": "Luciano Darderi"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T08:30:48.754608+00:00"
+ "last_updated": "2026-10-02T08:40:31.399608+00:00"
 }
