@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790917917,
+  "jtwyslljy": 1790919533,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17827,6 +17827,13 @@
    "BUY",
    3258.04,
    1790917917
+  ],
+  [
+   "0x0f15bfdaf8c7c701a3583192a36944083b59d993bdd302aa2c1683709bb59a46",
+   "16769438334905062976651578090841199678026279534806011971381740985049905342313",
+   "BUY",
+   5,
+   1790919533
   ]
  ],
  "leader_pos": {
@@ -29357,10 +29364,10 @@
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
    "outcome": "Valentin Vacherot",
    "slug": "atp-vachero-tsitsip-2026-10-01",
-   "shares": 3258.04,
-   "cost": 1237.710800085092,
-   "max_shares": 3258.04,
-   "last_trade_ts": 1790917917
+   "shares": 3263.04,
+   "cost": 1242.390800085092,
+   "max_shares": 3263.04,
+   "last_trade_ts": 1790919533
   }
  },
  "positions": [],
@@ -48381,8 +48388,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-02T05:45:31.352115+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T03:30:00+00:00",
+   "condition_id": "0xfd84f2c317ca0b2d49c312d46024607b0cd41d8be87482b63a2f258cdc5c4e5c",
+   "asset": "16769438334905062976651578090841199678026279534806011971381740985049905342313",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.635,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T05:20:31.526909+00:00"
+ "last_updated": "2026-10-02T05:45:31.352684+00:00"
 }
