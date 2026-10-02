@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790961225,
+  "jtwyslljy": 1790963630,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18044,6 +18044,41 @@
    "BUY",
    5585.85,
    1790961225
+  ],
+  [
+   "0x588430fb0a7d1323b7e2ca53ef0e1c877d3236dbd7307ee2dfe0dad30450ab83",
+   "85060903226655050027763585809370108684524252298066121705843426868334451190203",
+   "SELL",
+   2735.6,
+   1790963400
+  ],
+  [
+   "0x91e01257ff92c1ca980cc5ee192d1d795bd819cb0c6be8ae0573789f9e418eaa",
+   "17569028722988906437465189475454570208273979440167372860021639485403100969226",
+   "BUY",
+   2754.38,
+   1790963549
+  ],
+  [
+   "0x4903a28bb94fd859e36c29de0f335ef08a9786f728c659a18ab81cdeca2a70ff",
+   "17569028722988906437465189475454570208273979440167372860021639485403100969226",
+   "BUY",
+   746.19,
+   1790963556
+  ],
+  [
+   "0xaa3a3ae94d684aed3c4926e711474de0424f77901595e83ed8590fa24aafc521",
+   "85060903226655050027763585809370108684524252298066121705843426868334451190203",
+   "BUY",
+   1819.36,
+   1790963619
+  ],
+  [
+   "0xb71b5d5ed59b545b2c095bbb7e3c1b94ba852427954e41f39545c798c16a9d6f",
+   "85060903226655050027763585809370108684524252298066121705843426868334451190203",
+   "BUY",
+   200,
+   1790963630
   ]
  ],
  "leader_pos": {
@@ -29730,10 +29765,22 @@
    "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Luminosity",
    "slug": "cs2-lg6-big5-2026-10-02",
-   "shares": 5585.85,
-   "cost": 3072.2175000000007,
+   "shares": 4869.610000000001,
+   "cost": 1782.1247000000005,
    "max_shares": 5585.85,
-   "last_trade_ts": 1790961225
+   "last_trade_ts": 1790963630
+  },
+  "jtwyslljy|17569028722988906437465189475454570208273979440167372860021639485403100969226": {
+   "leader": "jtwyslljy",
+   "asset": "17569028722988906437465189475454570208273979440167372860021639485403100969226",
+   "condition_id": "0x8256eaa12076032d6d1a9552056809c5d8fd567dd4c869c5a901308162387d0f",
+   "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "BIG",
+   "slug": "cs2-lg6-big5-2026-10-02",
+   "shares": 3500.57,
+   "cost": 1756.746899963353,
+   "max_shares": 3500.57,
+   "last_trade_ts": 1790963556
   }
  },
  "positions": [],
@@ -49074,8 +49121,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Luminosity"
+  },
+  {
+   "at": "2026-10-02T17:55:23.791822+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T15:25:00+00:00",
+   "condition_id": "0x8256eaa12076032d6d1a9552056809c5d8fd567dd4c869c5a901308162387d0f",
+   "asset": "17569028722988906437465189475454570208273979440167372860021639485403100969226",
+   "copy_delay_min": 2.8,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "BIG"
+  },
+  {
+   "at": "2026-10-02T17:55:23.791925+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T15:25:00+00:00",
+   "condition_id": "0x8256eaa12076032d6d1a9552056809c5d8fd567dd4c869c5a901308162387d0f",
+   "asset": "85060903226655050027763585809370108684524252298066121705843426868334451190203",
+   "copy_delay_min": 1.6,
+   "cf_ask": 0.47,
+   "cf_shares": 212.096,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4715,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "Luminosity"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T17:15:33.482157+00:00"
+ "last_updated": "2026-10-02T17:55:23.792580+00:00"
 }
