@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790910308,
+  "jtwyslljy": 1790910435,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17813,6 +17813,13 @@
    "SELL",
    580.17,
    1790910308
+  ],
+  [
+   "0xe196da7b2701d0cc2835fdf35d805d7caff472f792a6979325a6dd043871c692",
+   "98756637703320879198441871470345384821367334051929992047845197222571333888980",
+   "BUY",
+   1285.475605,
+   1790910435
   ]
  ],
  "leader_pos": {
@@ -29323,6 +29330,18 @@
    "cost": 1224.362600025135,
    "max_shares": 5000.0,
    "last_trade_ts": 1790910308
+  },
+  "jtwyslljy|98756637703320879198441871470345384821367334051929992047845197222571333888980": {
+   "leader": "jtwyslljy",
+   "asset": "98756637703320879198441871470345384821367334051929992047845197222571333888980",
+   "condition_id": "0x8a9f8be5bef9bc8d36c7895707a4f2561d49de9f5467b6675ba206196e8bd2e2",
+   "title": "Steelers vs. Browns",
+   "outcome": "Browns",
+   "slug": "nfl-pit-cle-2026-10-02",
+   "shares": 1285.475605,
+   "cost": 1054.0899959714525,
+   "max_shares": 1285.475605,
+   "last_trade_ts": 1790910435
   }
  },
  "positions": [],
@@ -48311,8 +48330,24 @@
    "leader": "jtwyslljy",
    "title": "Steelers vs. Browns",
    "outcome": "Steelers"
+  },
+  {
+   "at": "2026-10-02T03:15:35.782515+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T00:15:00+00:00",
+   "condition_id": "0x8a9f8be5bef9bc8d36c7895707a4f2561d49de9f5467b6675ba206196e8bd2e2",
+   "asset": "98756637703320879198441871470345384821367334051929992047845197222571333888980",
+   "copy_delay_min": 8.3,
+   "cf_ask": 0.91,
+   "cf_shares": 109.8901,
+   "cf_cost": 100.0,
+   "cf_entry": 0.91,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Steelers vs. Browns",
+   "outcome": "Browns"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T03:10:29.548000+00:00"
+ "last_updated": "2026-10-02T03:15:35.783118+00:00"
 }
