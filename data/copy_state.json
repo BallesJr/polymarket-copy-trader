@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790946755,
+  "jtwyslljy": 1790946911,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17946,6 +17946,27 @@
    "BUY",
    3000,
    1790946755
+  ],
+  [
+   "0xe0ab3968d5ecb37274a49902cfedd8850616dbb132fd158538f55edf4bb4247a",
+   "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "BUY",
+   10,
+   1790946786
+  ],
+  [
+   "0x86d267f69f832fb1037569dc1b24c15032f08d216c70d5baa9a1d4518a89e777",
+   "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "BUY",
+   1999.99,
+   1790946807
+  ],
+  [
+   "0x386d1c0bc84b4a0be520f1426cab710aee2046b1a0ca3a04d47062488be34189",
+   "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "BUY",
+   1990,
+   1790946911
   ]
  ],
  "leader_pos": {
@@ -29572,10 +29593,10 @@
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Novak Djokovic",
    "slug": "atp-bu-djokovi-2026-10-01",
-   "shares": 3000.0,
-   "cost": 1920.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1790946755
+   "shares": 6999.99,
+   "cost": 4117.713599905061,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1790946911
   }
  },
  "positions": [],
@@ -48772,8 +48793,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Novak Djokovic"
+  },
+  {
+   "at": "2026-10-02T13:25:28.086336+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T12:30:00+00:00",
+   "condition_id": "0x5c6b053b29d7b88810ef830daea181cabafc3edb833f33b13aa1d2cc6365e7de",
+   "asset": "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
+   "outcome": "Novak Djokovic"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T13:20:35.059074+00:00"
+ "last_updated": "2026-10-02T13:25:28.086997+00:00"
 }
