@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790925594,
+  "jtwyslljy": 1790927222,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17848,6 +17848,13 @@
    "BUY",
    1000,
    1790925594
+  ],
+  [
+   "0x3f6695f6093a81a5f637961c20b390954c597185583062db94c161131a58dd00",
+   "67305847109990487279454964285003624051344865372370408134561700773664292300748",
+   "BUY",
+   1000,
+   1790927222
   ]
  ],
  "leader_pos": {
@@ -29390,10 +29397,10 @@
    "title": "China Open: Jasmine Paolini vs Daria Snigur",
    "outcome": "Daria Snigur",
    "slug": "wta-paolini-snigur-2026-10-01",
-   "shares": 10000.0,
-   "cost": 2900.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1790925285
+   "shares": 11000.0,
+   "cost": 3470.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1790927222
   },
   "jtwyslljy|1709592354997080163020882403025086382352028672601555178039465611506854717912": {
    "leader": "jtwyslljy",
@@ -48474,8 +48481,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Ekaterina Alexandrova vs Aliaksandra Sasnovich",
    "outcome": "Ekaterina Alexandrova"
+  },
+  {
+   "at": "2026-10-02T07:55:31.765508+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T05:45:00+00:00",
+   "condition_id": "0x9d4d8eb5e2a7b9a5853ada86dd29b50569f5b752e0795186504ef6478c430c02",
+   "asset": "67305847109990487279454964285003624051344865372370408134561700773664292300748",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.91,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "China Open: Jasmine Paolini vs Daria Snigur",
+   "outcome": "Daria Snigur"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T07:25:30.050174+00:00"
+ "last_updated": "2026-10-02T07:55:31.766106+00:00"
 }
