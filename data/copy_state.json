@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790946911,
+  "jtwyslljy": 1790947154,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17967,6 +17967,13 @@
    "BUY",
    1990,
    1790946911
+  ],
+  [
+   "0xea1950a782630816e92bb8f43d73ec5596cfe3e6862059369d5b1a86445820e6",
+   "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "BUY",
+   3000,
+   1790947154
   ]
  ],
  "leader_pos": {
@@ -29593,10 +29600,10 @@
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Novak Djokovic",
    "slug": "atp-bu-djokovi-2026-10-01",
-   "shares": 6999.99,
-   "cost": 4117.713599905061,
-   "max_shares": 6999.99,
-   "last_trade_ts": 1790946911
+   "shares": 9999.99,
+   "cost": 5377.713599905061,
+   "max_shares": 9999.99,
+   "last_trade_ts": 1790947154
   }
  },
  "positions": [],
@@ -48809,8 +48816,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Novak Djokovic"
+  },
+  {
+   "at": "2026-10-02T13:30:48.188615+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T12:30:00+00:00",
+   "condition_id": "0x5c6b053b29d7b88810ef830daea181cabafc3edb833f33b13aa1d2cc6365e7de",
+   "asset": "62599171215799060914733466480643361931303749340817042598476918875325918609653",
+   "copy_delay_min": 11.6,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
+   "outcome": "Novak Djokovic"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T13:25:28.086997+00:00"
+ "last_updated": "2026-10-02T13:30:48.189164+00:00"
 }
