@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790952570,
+  "jtwyslljy": 1790953023,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18016,6 +18016,13 @@
    "BUY",
    3000,
    1790952570
+  ],
+  [
+   "0xd70cd4cf3b51832f6d6301d0c609498554982a47a012527025aa59836f3bda54",
+   "37767261676697530069271341863488313476494478136681265181366792663871312408673",
+   "BUY",
+   5000,
+   1790953023
   ]
  ],
  "leader_pos": {
@@ -29682,6 +29689,18 @@
    "cost": 1.7999999999999998,
    "max_shares": 5.0,
    "last_trade_ts": 1790952479
+  },
+  "jtwyslljy|37767261676697530069271341863488313476494478136681265181366792663871312408673": {
+   "leader": "jtwyslljy",
+   "asset": "37767261676697530069271341863488313476494478136681265181366792663871312408673",
+   "condition_id": "0x5c6b053b29d7b88810ef830daea181cabafc3edb833f33b13aa1d2cc6365e7de",
+   "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
+   "outcome": "Yunchaokete Bu",
+   "slug": "atp-bu-djokovi-2026-10-01",
+   "shares": 5000.0,
+   "cost": 1200.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1790953023
   }
  },
  "positions": [],
@@ -48958,8 +48977,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "FaZe"
+  },
+  {
+   "at": "2026-10-02T15:01:06.929924+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T12:30:00+00:00",
+   "condition_id": "0x5c6b053b29d7b88810ef830daea181cabafc3edb833f33b13aa1d2cc6365e7de",
+   "asset": "37767261676697530069271341863488313476494478136681265181366792663871312408673",
+   "copy_delay_min": 4.1,
+   "cf_ask": 0.1,
+   "cf_shares": 1000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
+   "outcome": "Yunchaokete Bu"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T14:54:31.749508+00:00"
+ "last_updated": "2026-10-02T15:01:06.930704+00:00"
 }
