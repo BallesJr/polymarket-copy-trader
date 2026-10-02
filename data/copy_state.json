@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790910435,
+  "jtwyslljy": 1790917917,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17820,6 +17820,13 @@
    "BUY",
    1285.475605,
    1790910435
+  ],
+  [
+   "0xcc65153b70e1c7cbc283bcdb28fa8f5d13bdb8c6afa4d1cb382e83d0dbe9f72d",
+   "16769438334905062976651578090841199678026279534806011971381740985049905342313",
+   "BUY",
+   3258.04,
+   1790917917
   ]
  ],
  "leader_pos": {
@@ -29342,6 +29349,18 @@
    "cost": 1054.0899959714525,
    "max_shares": 1285.475605,
    "last_trade_ts": 1790910435
+  },
+  "jtwyslljy|16769438334905062976651578090841199678026279534806011971381740985049905342313": {
+   "leader": "jtwyslljy",
+   "asset": "16769438334905062976651578090841199678026279534806011971381740985049905342313",
+   "condition_id": "0xfd84f2c317ca0b2d49c312d46024607b0cd41d8be87482b63a2f258cdc5c4e5c",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-vachero-tsitsip-2026-10-01",
+   "shares": 3258.04,
+   "cost": 1237.710800085092,
+   "max_shares": 3258.04,
+   "last_trade_ts": 1790917917
   }
  },
  "positions": [],
@@ -48346,8 +48365,24 @@
    "leader": "jtwyslljy",
    "title": "Steelers vs. Browns",
    "outcome": "Browns"
+  },
+  {
+   "at": "2026-10-02T05:20:31.526249+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T03:30:00+00:00",
+   "condition_id": "0xfd84f2c317ca0b2d49c312d46024607b0cd41d8be87482b63a2f258cdc5c4e5c",
+   "asset": "16769438334905062976651578090841199678026279534806011971381740985049905342313",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.468,
+   "cf_shares": 213.6752,
+   "cf_cost": 100.0,
+   "cf_entry": 0.468,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T03:15:35.783118+00:00"
+ "last_updated": "2026-10-02T05:20:31.526909+00:00"
 }
