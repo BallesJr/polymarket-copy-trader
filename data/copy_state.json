@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790925285,
+  "jtwyslljy": 1790925594,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17841,6 +17841,13 @@
    "BUY",
    10000,
    1790925285
+  ],
+  [
+   "0xb4a2049ac77cf2df89a2a2e335336d350d193873b60a699350e06fa432966490",
+   "1709592354997080163020882403025086382352028672601555178039465611506854717912",
+   "BUY",
+   1000,
+   1790925594
   ]
  ],
  "leader_pos": {
@@ -29387,6 +29394,18 @@
    "cost": 2900.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1790925285
+  },
+  "jtwyslljy|1709592354997080163020882403025086382352028672601555178039465611506854717912": {
+   "leader": "jtwyslljy",
+   "asset": "1709592354997080163020882403025086382352028672601555178039465611506854717912",
+   "condition_id": "0x623427ee4eebbc6b7d937dfa2edfcc008add07fe55ff31956c1e7f16d18705d9",
+   "title": "China Open: Ekaterina Alexandrova vs Aliaksandra Sasnovich",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-sasnovi-2026-10-01",
+   "shares": 1000.0,
+   "cost": 857.98471,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1790925594
   }
  },
  "positions": [],
@@ -48439,8 +48458,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Jasmine Paolini vs Daria Snigur",
    "outcome": "Daria Snigur"
+  },
+  {
+   "at": "2026-10-02T07:25:30.049624+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T06:05:00+00:00",
+   "condition_id": "0x623427ee4eebbc6b7d937dfa2edfcc008add07fe55ff31956c1e7f16d18705d9",
+   "asset": "1709592354997080163020882403025086382352028672601555178039465611506854717912",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.9,
+   "cf_shares": 111.1111,
+   "cf_cost": 100.0,
+   "cf_entry": 0.9,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Ekaterina Alexandrova vs Aliaksandra Sasnovich",
+   "outcome": "Ekaterina Alexandrova"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T07:20:29.975868+00:00"
+ "last_updated": "2026-10-02T07:25:30.050174+00:00"
 }
