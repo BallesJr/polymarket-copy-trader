@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790927222,
+  "jtwyslljy": 1790929824,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17855,6 +17855,41 @@
    "BUY",
    1000,
    1790927222
+  ],
+  [
+   "0x99e265a12c75038f9cb30f9114841bb0028bcae196b1e8fcfaa254dd16614e38",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   10000,
+   1790929539
+  ],
+  [
+   "0xdd1ce9ca6972c1badff6973ce89974f8329b2d3e04bee4f2912e2762d5c30deb",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   444.81,
+   1790929701
+  ],
+  [
+   "0x0f9f9d7ff9a70f388163703aead75c81576e8dbb36ea71363b6abfe28bccfbf2",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   250,
+   1790929742
+  ],
+  [
+   "0xf9d26a848f858eca376371664dab59b15860c1ac2ce72cf4140d98b5f3b41407",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   51,
+   1790929811
+  ],
+  [
+   "0xa97d675f1a83b676e23a09b478e42d96d9e7eb001f1bd21e4f669b274cea5327",
+   "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "BUY",
+   1000,
+   1790929824
   ]
  ],
  "leader_pos": {
@@ -29413,6 +29448,18 @@
    "cost": 857.98471,
    "max_shares": 1000.0,
    "last_trade_ts": 1790925594
+  },
+  "jtwyslljy|17612737287068940948712587077355458186718799401876861513478041668724044125693": {
+   "leader": "jtwyslljy",
+   "asset": "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "condition_id": "0x5957162dcab58a656bf0f63eaf63405ac636d68124e8bfad220a2ac732ab91f5",
+   "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
+   "outcome": "Luciano Darderi",
+   "slug": "atp-jacquet-darderi-2026-10-02",
+   "shares": 11745.81,
+   "cost": 2366.2439,
+   "max_shares": 11745.81,
+   "last_trade_ts": 1790929824
   }
  },
  "positions": [],
@@ -48497,8 +48544,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Jasmine Paolini vs Daria Snigur",
    "outcome": "Daria Snigur"
+  },
+  {
+   "at": "2026-10-02T08:30:48.753986+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T08:00:00+00:00",
+   "condition_id": "0x5957162dcab58a656bf0f63eaf63405ac636d68124e8bfad220a2ac732ab91f5",
+   "asset": "17612737287068940948712587077355458186718799401876861513478041668724044125693",
+   "copy_delay_min": 0.4,
+   "cf_ask": 0.2,
+   "cf_shares": 476.4286,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2099,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
+   "outcome": "Luciano Darderi"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T07:55:31.766106+00:00"
+ "last_updated": "2026-10-02T08:30:48.754608+00:00"
 }
