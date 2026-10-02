@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790919533,
+  "jtwyslljy": 1790925285,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17834,6 +17834,13 @@
    "BUY",
    5,
    1790919533
+  ],
+  [
+   "0xcbf2fd63e87cbcf13e428497fbe5ff87c3ee24a0a8a7a046e7807038c55e008c",
+   "67305847109990487279454964285003624051344865372370408134561700773664292300748",
+   "BUY",
+   10000,
+   1790925285
   ]
  ],
  "leader_pos": {
@@ -29368,6 +29375,18 @@
    "cost": 1242.390800085092,
    "max_shares": 3263.04,
    "last_trade_ts": 1790919533
+  },
+  "jtwyslljy|67305847109990487279454964285003624051344865372370408134561700773664292300748": {
+   "leader": "jtwyslljy",
+   "asset": "67305847109990487279454964285003624051344865372370408134561700773664292300748",
+   "condition_id": "0x9d4d8eb5e2a7b9a5853ada86dd29b50569f5b752e0795186504ef6478c430c02",
+   "title": "China Open: Jasmine Paolini vs Daria Snigur",
+   "outcome": "Daria Snigur",
+   "slug": "wta-paolini-snigur-2026-10-01",
+   "shares": 10000.0,
+   "cost": 2900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790925285
   }
  },
  "positions": [],
@@ -48404,8 +48423,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-02T07:20:29.975244+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T05:45:00+00:00",
+   "condition_id": "0x9d4d8eb5e2a7b9a5853ada86dd29b50569f5b752e0795186504ef6478c430c02",
+   "asset": "67305847109990487279454964285003624051344865372370408134561700773664292300748",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Jasmine Paolini vs Daria Snigur",
+   "outcome": "Daria Snigur"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T05:45:31.352684+00:00"
+ "last_updated": "2026-10-02T07:20:29.975868+00:00"
 }
