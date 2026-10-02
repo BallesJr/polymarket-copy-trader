@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790947154,
+  "jtwyslljy": 1790948439,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17974,6 +17974,20 @@
    "BUY",
    3000,
    1790947154
+  ],
+  [
+   "0x98c2dc9fa4efa6061e9bca07124b8852d2fa0fbaf3b83afadfaa7e55b4d0246d",
+   "72612671635126132691486701321768188768097833574164060570080986330163283881575",
+   "SELL",
+   7510.54,
+   1790948411
+  ],
+  [
+   "0xcbf79f41369cddb15e510e49819772a83166f2edfa246b92ed84f9cc5ba3f7f2",
+   "25534432152869336858962711962360667323078038394543676951666543736793368312631",
+   "BUY",
+   3000,
+   1790948439
   ]
  ],
  "leader_pos": {
@@ -29564,10 +29578,10 @@
    "title": "China Open: Hubert Hurkacz vs Arthur Gea",
    "outcome": "Arthur Gea",
    "slug": "atp-hurkacz-gea-2026-10-02",
-   "shares": 7504.99,
-   "cost": 2102.2472000000002,
+   "shares": -5.550000000000182,
+   "cost": -150.91479999999956,
    "max_shares": 7504.99,
-   "last_trade_ts": 1790945049
+   "last_trade_ts": 1790948411
   },
   "jtwyslljy|74553762097513995647049000742665577975448659358160643087946585746864221777826": {
    "leader": "jtwyslljy",
@@ -29604,6 +29618,18 @@
    "cost": 5377.713599905061,
    "max_shares": 9999.99,
    "last_trade_ts": 1790947154
+  },
+  "jtwyslljy|25534432152869336858962711962360667323078038394543676951666543736793368312631": {
+   "leader": "jtwyslljy",
+   "asset": "25534432152869336858962711962360667323078038394543676951666543736793368312631",
+   "condition_id": "0xc0f5d297c2b66ee357aa1062f6007e402f1a99d0a7200cfdd1317862a33a466e",
+   "title": "China Open: Hubert Hurkacz vs Arthur Gea",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-hurkacz-gea-2026-10-02",
+   "shares": 3000.0,
+   "cost": 2310.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1790948439
   }
  },
  "positions": [],
@@ -48832,8 +48858,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Yunchaokete Bu vs Novak Djokovic",
    "outcome": "Novak Djokovic"
+  },
+  {
+   "at": "2026-10-02T13:45:32.469837+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T11:25:00+00:00",
+   "condition_id": "0xc0f5d297c2b66ee357aa1062f6007e402f1a99d0a7200cfdd1317862a33a466e",
+   "asset": "25534432152869336858962711962360667323078038394543676951666543736793368312631",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.87,
+   "cf_shares": 114.9425,
+   "cf_cost": 100.0,
+   "cf_entry": 0.87,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Hubert Hurkacz vs Arthur Gea",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T13:30:48.189164+00:00"
+ "last_updated": "2026-10-02T13:45:32.470379+00:00"
 }
