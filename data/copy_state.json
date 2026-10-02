@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790930021,
+  "jtwyslljy": 1790935328,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17897,6 +17897,13 @@
    "BUY",
    1200,
    1790930021
+  ],
+  [
+   "0xef20da4491951e2e75fd1b000d32a318690eec151880a5804f3e84792f41712c",
+   "57020319818225507712608811557484866061688605690914078152330759717135301690432",
+   "BUY",
+   10000,
+   1790935328
   ]
  ],
  "leader_pos": {
@@ -29467,6 +29474,18 @@
    "cost": 2594.2439,
    "max_shares": 12945.81,
    "last_trade_ts": 1790930021
+  },
+  "jtwyslljy|57020319818225507712608811557484866061688605690914078152330759717135301690432": {
+   "leader": "jtwyslljy",
+   "asset": "57020319818225507712608811557484866061688605690914078152330759717135301690432",
+   "condition_id": "0x8e6c3ce37f1c9a7464b6e80c2fc16ce96c8a480605f76845980307dc4cbf1f5e",
+   "title": "Japan Open Tennis Championships: Arthur Fils vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-fils-tiafoe-2026-10-02",
+   "shares": 10000.0,
+   "cost": 2300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790935328
   }
  },
  "positions": [],
@@ -48583,8 +48602,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Kyrian Jacquet vs Luciano Darderi",
    "outcome": "Luciano Darderi"
+  },
+  {
+   "at": "2026-10-02T10:10:35.037372+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T09:50:00+00:00",
+   "condition_id": "0x8e6c3ce37f1c9a7464b6e80c2fc16ce96c8a480605f76845980307dc4cbf1f5e",
+   "asset": "57020319818225507712608811557484866061688605690914078152330759717135301690432",
+   "copy_delay_min": 8.4,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Arthur Fils vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T08:40:31.399608+00:00"
+ "last_updated": "2026-10-02T10:10:35.037964+00:00"
 }
