@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790951543,
+  "jtwyslljy": 1790952570,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18002,6 +18002,20 @@
    "BUY",
    2180.04,
    1790951543
+  ],
+  [
+   "0xe44cb819be14f090cc253145393002b020da403b551535fe3bc1e42d34ab59b2",
+   "23831218668682326509902468316442199674370434883433699001764857799249886524133",
+   "BUY",
+   5,
+   1790952479
+  ],
+  [
+   "0x2d91f9c58a8068f2fbea48d8a271ed442de52f66d1997583e99b165ca340ff2b",
+   "74553762097513995647049000742665577975448659358160643087946585746864221777826",
+   "BUY",
+   3000,
+   1790952570
   ]
  ],
  "leader_pos": {
@@ -29604,10 +29618,10 @@
    "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "FaZe",
    "slug": "cs2-faze-ast10-2026-10-02",
-   "shares": 5000.0,
-   "cost": 1750.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1790946192
+   "shares": 8000.0,
+   "cost": 2320.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1790952570
   },
   "jtwyslljy|90104131647549581342615803378886266195051303713613551932665919094250658877192": {
    "leader": "jtwyslljy",
@@ -29656,6 +29670,18 @@
    "cost": 1395.2256,
    "max_shares": 2180.04,
    "last_trade_ts": 1790951543
+  },
+  "jtwyslljy|23831218668682326509902468316442199674370434883433699001764857799249886524133": {
+   "leader": "jtwyslljy",
+   "asset": "23831218668682326509902468316442199674370434883433699001764857799249886524133",
+   "condition_id": "0xbf7fd93287f473443adcf1ba528b47a8a37b7e9802a7e77dc564454a5f24510a",
+   "title": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
+   "outcome": "Xtreme Gaming",
+   "slug": "dota2-lgd-xtreme-2026-10-02",
+   "shares": 5.0,
+   "cost": 1.7999999999999998,
+   "max_shares": 5.0,
+   "last_trade_ts": 1790952479
   }
  },
  "positions": [],
@@ -48916,8 +48942,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Astralis"
+  },
+  {
+   "at": "2026-10-02T14:54:31.748853+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T12:10:00+00:00",
+   "condition_id": "0x0858194d3bea8203dc0ba11e218a84b2ff3ce803e438f26a8e6f7c9d935d8ddf",
+   "asset": "74553762097513995647049000742665577975448659358160643087946585746864221777826",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "FaZe"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T14:40:35.796994+00:00"
+ "last_updated": "2026-10-02T14:54:31.749508+00:00"
 }
