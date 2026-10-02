@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790951477,
+  "jtwyslljy": 1790951543,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -17995,6 +17995,13 @@
    "SELL",
    5000,
    1790951477
+  ],
+  [
+   "0xbb5ee0a44ae38d5d24bb1cfa2179fa460f207681a36a4bd260f5ec87996a33bb",
+   "71091317022761151006680505827458764310786193854765344730263849207690781478746",
+   "BUY",
+   2180.04,
+   1790951543
   ]
  ],
  "leader_pos": {
@@ -29637,6 +29644,18 @@
    "cost": 2310.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1790948439
+  },
+  "jtwyslljy|71091317022761151006680505827458764310786193854765344730263849207690781478746": {
+   "leader": "jtwyslljy",
+   "asset": "71091317022761151006680505827458764310786193854765344730263849207690781478746",
+   "condition_id": "0x0858194d3bea8203dc0ba11e218a84b2ff3ce803e438f26a8e6f7c9d935d8ddf",
+   "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "Astralis",
+   "slug": "cs2-faze-ast10-2026-10-02",
+   "shares": 2180.04,
+   "cost": 1395.2256,
+   "max_shares": 2180.04,
+   "last_trade_ts": 1790951543
   }
  },
  "positions": [],
@@ -48881,8 +48900,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Hubert Hurkacz vs Arthur Gea",
    "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-10-02T14:40:35.796202+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-02T12:10:00+00:00",
+   "condition_id": "0x0858194d3bea8203dc0ba11e218a84b2ff3ce803e438f26a8e6f7c9d935d8ddf",
+   "asset": "71091317022761151006680505827458764310786193854765344730263849207690781478746",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.78,
+   "cf_shares": 128.2051,
+   "cf_cost": 100.0,
+   "cf_entry": 0.78,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FaZe vs Astralis (BO3) - Stake Ranked Episode 4 Playoffs",
+   "outcome": "Astralis"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T14:35:23.574706+00:00"
+ "last_updated": "2026-10-02T14:40:35.796994+00:00"
 }
