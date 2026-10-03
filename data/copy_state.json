@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791017451,
+  "jtwyslljy": 1791018468,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18436,6 +18436,20 @@
    "BUY",
    3000,
    1791017451
+  ],
+  [
+   "0x0a9851b9f706e00de2b9dcb18ad65337c0e62f0e6a5fb27faf47680017679ca4",
+   "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "SELL",
+   5018.81,
+   1791018455
+  ],
+  [
+   "0x3f0aa4b68bc95414d1064922ea2b2e0d1643ab7b4d965fc54cc940e83114e67d",
+   "28358582836591900150871366652506313486929172182093365114195547899198599758654",
+   "BUY",
+   4000,
+   1791018468
   ]
  ],
  "leader_pos": {
@@ -30290,10 +30304,10 @@
    "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
    "outcome": "Kamilla Rakhimova",
    "slug": "wta-rakhimo-fernand-2026-10-01",
-   "shares": 5018.8099999999995,
-   "cost": 2609.7812000000013,
+   "shares": -9.094947017729282e-13,
+   "cost": 1355.0787000000012,
    "max_shares": 10018.81,
-   "last_trade_ts": 1791017412
+   "last_trade_ts": 1791018455
   },
   "jtwyslljy|52335543521126571828381955985806486214099695127586164915051099940569100916537": {
    "leader": "jtwyslljy",
@@ -30306,6 +30320,18 @@
    "cost": 3390.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1791017451
+  },
+  "jtwyslljy|28358582836591900150871366652506313486929172182093365114195547899198599758654": {
+   "leader": "jtwyslljy",
+   "asset": "28358582836591900150871366652506313486929172182093365114195547899198599758654",
+   "condition_id": "0x7e1fde32894f96ece23febe811ca644ac15dc162d1d21d0407fcea6f96130d6c",
+   "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-rakhimo-fernand-2026-10-01",
+   "shares": 4000.0,
+   "cost": 3000.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1791018468
   }
  },
  "positions": [
@@ -50067,8 +50093,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Qinwen Zheng vs Anna Kalinskaya",
    "outcome": "Anna Kalinskaya"
+  },
+  {
+   "at": "2026-10-03T09:10:31.504823+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T07:30:00+00:00",
+   "condition_id": "0x7e1fde32894f96ece23febe811ca644ac15dc162d1d21d0407fcea6f96130d6c",
+   "asset": "28358582836591900150871366652506313486929172182093365114195547899198599758654",
+   "copy_delay_min": 2.7,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T08:55:27.939832+00:00"
+ "last_updated": "2026-10-03T09:10:31.810237+00:00"
 }
