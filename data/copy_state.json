@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790997566,
+  "jtwyslljy": 1790997737,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18268,6 +18268,20 @@
    "BUY",
    7000,
    1790997566
+  ],
+  [
+   "0xc321c76ba1a3750e948b13d330fd44849a574e1e1a43f7bf4345706b9f37e707",
+   "59484364948136031097253793194815916612408687544782099437400020470624909929307",
+   "BUY",
+   969.58,
+   1790997627
+  ],
+  [
+   "0xcde70601e30616bd3d61fac013e5fe684edd2043094e0470e85119d913f3abe6",
+   "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "BUY",
+   4779,
+   1790997737
   ]
  ],
  "leader_pos": {
@@ -30002,10 +30016,10 @@
    "title": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
    "outcome": "Denis Shapovalov",
    "slug": "atp-shapova-tabilo-2026-10-02",
-   "shares": 10000.0,
-   "cost": 5800.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1790997446
+   "shares": 10969.58,
+   "cost": 6304.1816,
+   "max_shares": 10969.58,
+   "last_trade_ts": 1790997627
   },
   "jtwyslljy|83611424097890169978363668434828115504947733718388051131923362048195234150855": {
    "leader": "jtwyslljy",
@@ -30014,10 +30028,10 @@
    "title": "China Open: Katie Volynets vs Elise Mertens",
    "outcome": "Katie Volynets",
    "slug": "wta-volynet-mertens-2026-10-01",
-   "shares": 5221.24,
-   "cost": 1677.434,
-   "max_shares": 5221.24,
-   "last_trade_ts": 1790997503
+   "shares": 10000.24,
+   "cost": 2872.184,
+   "max_shares": 10000.24,
+   "last_trade_ts": 1790997737
   },
   "jtwyslljy|19146504314692952606700836814373679829746034551005783895114869877771356161938": {
    "leader": "jtwyslljy",
@@ -49562,8 +49576,40 @@
    "leader": "jtwyslljy",
    "title": "China Open: Katie Volynets vs Elise Mertens",
    "outcome": "Katie Volynets"
+  },
+  {
+   "at": "2026-10-03T03:30:45.835665+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T03:05:00+00:00",
+   "condition_id": "0x9e32ff109590c00e1268f17a0600f1dffde82f3c2613fad7863b8b6efdb94c55",
+   "asset": "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Katie Volynets vs Elise Mertens",
+   "outcome": "Katie Volynets"
+  },
+  {
+   "at": "2026-10-03T03:30:46.033342+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T02:00:00+00:00",
+   "condition_id": "0x65e6fedba18a552601942416a7bacad0dd6d875c66478e3b27cf1f0e90a1d757",
+   "asset": "59484364948136031097253793194815916612408687544782099437400020470624909929307",
+   "copy_delay_min": 10.3,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
+   "outcome": "Denis Shapovalov"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T03:25:23.706760+00:00"
+ "last_updated": "2026-10-03T03:30:46.034019+00:00"
 }
