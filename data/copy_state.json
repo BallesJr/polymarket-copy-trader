@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791035286,
+  "jtwyslljy": 1791037226,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18583,6 +18583,13 @@
    "BUY",
    3102.97,
    1791035286
+  ],
+  [
+   "0x94e99fb947cfb312c89fac5236d526412307614881b7072a28655840b595ee4d",
+   "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "BUY",
+   609.77,
+   1791037226
   ]
  ],
  "leader_pos": {
@@ -30521,10 +30528,10 @@
    "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
    "outcome": "LGD Gaming",
    "slug": "dota2-lgd-gl-2026-10-03",
-   "shares": 12000.0,
-   "cost": 7300.0,
-   "max_shares": 12000.0,
-   "last_trade_ts": 1791033092
+   "shares": 12609.77,
+   "cost": 7501.2241,
+   "max_shares": 12609.77,
+   "last_trade_ts": 1791037226
   },
   "jtwyslljy|31902655036952825967409259976151363681345885603375559516641380438771178434868": {
    "leader": "jtwyslljy",
@@ -50477,8 +50484,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs GamerLegion - Game 1 Winner",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-10-03T14:27:30.516270+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T13:00:00+00:00",
+   "condition_id": "0x1d5054045bbc3a810313f8d75837cba827d76db179d53f1b12407080b8f6a0af",
+   "asset": "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-03T14:10:31.529900+00:00"
+ "last_updated": "2026-10-03T14:27:30.516885+00:00"
 }
