@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791034113,
+  "jtwyslljy": 1791035286,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18569,6 +18569,20 @@
    "BUY",
    3000,
    1791034113
+  ],
+  [
+   "0x25e18adbab95547bc585e68b07437172968deb02b3e5bab052beb5efa6383fca",
+   "40334008648882684653930593626313538372293671404227810527983466879627156532089",
+   "BUY",
+   1179.1,
+   1791035274
+  ],
+  [
+   "0x7264612ab277922ca6b172d9afb74c510d74dcdc7d8ac63a08dbabd5559594fa",
+   "40334008648882684653930593626313538372293671404227810527983466879627156532089",
+   "BUY",
+   3102.97,
+   1791035286
   ]
  ],
  "leader_pos": {
@@ -30523,6 +30537,18 @@
    "cost": 4154.0566,
    "max_shares": 10656.94,
    "last_trade_ts": 1791034113
+  },
+  "jtwyslljy|40334008648882684653930593626313538372293671404227810527983466879627156532089": {
+   "leader": "jtwyslljy",
+   "asset": "40334008648882684653930593626313538372293671404227810527983466879627156532089",
+   "condition_id": "0xb2f50826c15c32298cdf87e20b2f12af7b4f627b6e1f02a06c297705e6e38014",
+   "title": "Dota 2: LGD Gaming vs GamerLegion - Game 1 Winner",
+   "outcome": "LGD Gaming",
+   "slug": "dota2-lgd-gl-2026-10-03",
+   "shares": 4282.07,
+   "cost": 747.1905999999999,
+   "max_shares": 4282.07,
+   "last_trade_ts": 1791035286
   }
  },
  "positions": [
@@ -50432,8 +50458,24 @@
    "leader": "jtwyslljy",
    "title": "Will Finland win on 2026-10-03?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-03T14:00:53.433090+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T13:00:00+00:00",
+   "condition_id": "0xb2f50826c15c32298cdf87e20b2f12af7b4f627b6e1f02a06c297705e6e38014",
+   "asset": "40334008648882684653930593626313538372293671404227810527983466879627156532089",
+   "copy_delay_min": 12.8,
+   "cf_ask": 0.069,
+   "cf_shares": 1449.2754,
+   "cf_cost": 100.0,
+   "cf_entry": 0.069,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs GamerLegion - Game 1 Winner",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1233.004299999999,
- "last_updated": "2026-10-03T13:35:27.111969+00:00"
+ "last_updated": "2026-10-03T14:00:53.858361+00:00"
 }
