@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791002463,
+  "jtwyslljy": 1791004701,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18296,6 +18296,13 @@
    "BUY",
    1100.58,
    1791002463
+  ],
+  [
+   "0x2918887dff47401e7caeaef037e257ec7f6a8a3fb70ce3b9b5c6aea000223d9f",
+   "4791813735540025278172569156179174689779780867072588748052672016317043921610",
+   "BUY",
+   3668.2,
+   1791004701
   ]
  ],
  "leader_pos": {
@@ -30070,6 +30077,18 @@
    "cost": 5397.771589859531,
    "max_shares": 7994.08,
    "last_trade_ts": 1791002463
+  },
+  "jtwyslljy|4791813735540025278172569156179174689779780867072588748052672016317043921610": {
+   "leader": "jtwyslljy",
+   "asset": "4791813735540025278172569156179174689779780867072588748052672016317043921610",
+   "condition_id": "0x3d03b7db44aa37d2d9460226552f49fa9347939d2065aaee117542cae55f60fd",
+   "title": "China Open: Alex de Minaur vs Quentin Halys",
+   "outcome": "Quentin Halys",
+   "slug": "atp-minaur-halys-2026-10-01",
+   "shares": 3668.2,
+   "cost": 1540.6439999999998,
+   "max_shares": 3668.2,
+   "last_trade_ts": 1791004701
   }
  },
  "positions": [],
@@ -49666,8 +49685,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Donna Vekic vs Lin Zhu",
    "outcome": "Lin Zhu"
+  },
+  {
+   "at": "2026-10-03T05:25:25.546371+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T03:05:00+00:00",
+   "condition_id": "0x3d03b7db44aa37d2d9460226552f49fa9347939d2065aaee117542cae55f60fd",
+   "asset": "4791813735540025278172569156179174689779780867072588748052672016317043921610",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alex de Minaur vs Quentin Halys",
+   "outcome": "Quentin Halys"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T04:45:34.434468+00:00"
+ "last_updated": "2026-10-03T05:25:25.547058+00:00"
 }
