@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791048729,
+  "jtwyslljy": 1791051651,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18744,6 +18744,27 @@
    "BUY",
    5061,
    1791048729
+  ],
+  [
+   "0x18cd1326e6213fd87dd567077e9bcc92e000e39ece546785dcd93375a5892309",
+   "20455646106171090245418729247706380264833133887844947632555949071817005553279",
+   "BUY",
+   923.85,
+   1791051513
+  ],
+  [
+   "0xda3e2530a004bbddceff0906ed5d7f527a4c5dc92503bb5bf236a1beea039259",
+   "20455646106171090245418729247706380264833133887844947632555949071817005553279",
+   "BUY",
+   2463.55,
+   1791051600
+  ],
+  [
+   "0xc5ece1ff057d7514de5e9a5ff7408a9a68dc096ab91c194545aff93c5369e74a",
+   "93346694848884462604185029653735451589194970335855270028919303104271350774004",
+   "BUY",
+   4962.78,
+   1791051651
   ]
  ],
  "leader_pos": {
@@ -30734,6 +30755,30 @@
    "cost": 5250.578199947724,
    "max_shares": 13556.06,
    "last_trade_ts": 1791048729
+  },
+  "jtwyslljy|20455646106171090245418729247706380264833133887844947632555949071817005553279": {
+   "leader": "jtwyslljy",
+   "asset": "20455646106171090245418729247706380264833133887844947632555949071817005553279",
+   "condition_id": "0xf8214b2a9f778ecc75c4f6adc3e9c61d31fc01f323d0872591293489968a3167",
+   "title": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
+   "outcome": "Team Yandex",
+   "slug": "dota2-ts8-ty-2026-10-03",
+   "shares": 3387.4,
+   "cost": 2883.4418000734904,
+   "max_shares": 3387.4,
+   "last_trade_ts": 1791051600
+  },
+  "jtwyslljy|93346694848884462604185029653735451589194970335855270028919303104271350774004": {
+   "leader": "jtwyslljy",
+   "asset": "93346694848884462604185029653735451589194970335855270028919303104271350774004",
+   "condition_id": "0xe124f45c91a0d23961b39bfffc39cae18d97e8ff014f5d9c928ca4dae97990c6",
+   "title": "Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-bb3-2026-10-03",
+   "shares": 4962.78,
+   "cost": 3325.0626,
+   "max_shares": 4962.78,
+   "last_trade_ts": 1791051651
   }
  },
  "positions": [],
@@ -50822,8 +50867,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
    "outcome": "G2"
+  },
+  {
+   "at": "2026-10-03T18:25:30.087230+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T17:30:00+00:00",
+   "condition_id": "0xe124f45c91a0d23961b39bfffc39cae18d97e8ff014f5d9c928ca4dae97990c6",
+   "asset": "93346694848884462604185029653735451589194970335855270028919303104271350774004",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.78,
+   "cf_shares": 128.2051,
+   "cf_cost": 100.0,
+   "cf_entry": 0.78,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner",
+   "outcome": "FURIA"
+  },
+  {
+   "at": "2026-10-03T18:25:30.217031+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T17:05:00+00:00",
+   "condition_id": "0xf8214b2a9f778ecc75c4f6adc3e9c61d31fc01f323d0872591293489968a3167",
+   "asset": "20455646106171090245418729247706380264833133887844947632555949071817005553279",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.84,
+   "cf_shares": 119.0476,
+   "cf_cost": 100.0,
+   "cf_entry": 0.84,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-03T17:35:26.440970+00:00"
+ "last_updated": "2026-10-03T18:25:30.217665+00:00"
 }
