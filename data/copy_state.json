@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791025895,
+  "jtwyslljy": 1791027570,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18499,6 +18499,13 @@
    "BUY",
    972.47,
    1791025895
+  ],
+  [
+   "0x09bc62a653eb6d68708fcf171b65f9e166a3d8d25b205d67dfc960af80a90f47",
+   "47846665876750332440198767520069977519013885569928470022020270505049023991253",
+   "BUY",
+   3144.64,
+   1791027570
   ]
  ],
  "leader_pos": {
@@ -30417,6 +30424,18 @@
    "cost": 564.0326,
    "max_shares": 972.47,
    "last_trade_ts": 1791025895
+  },
+  "jtwyslljy|47846665876750332440198767520069977519013885569928470022020270505049023991253": {
+   "leader": "jtwyslljy",
+   "asset": "47846665876750332440198767520069977519013885569928470022020270505049023991253",
+   "condition_id": "0x9a254e1fb5dab55b1b97cbcd59cef2ff4333909850c769628ff53a2f3089374d",
+   "title": "China Open: Xinran Sun vs Cristina Bucsa",
+   "outcome": "Xinran Sun",
+   "slug": "wta-su-bucsa-2026-10-02",
+   "shares": 3144.64,
+   "cost": 2264.1407999999997,
+   "max_shares": 3144.64,
+   "last_trade_ts": 1791027570
   }
  },
  "positions": [
@@ -50258,8 +50277,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Xinran Sun vs Cristina Bucsa",
    "outcome": "Cristina Bucsa"
+  },
+  {
+   "at": "2026-10-03T11:50:30.576840+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T10:15:00+00:00",
+   "condition_id": "0x9a254e1fb5dab55b1b97cbcd59cef2ff4333909850c769628ff53a2f3089374d",
+   "asset": "47846665876750332440198767520069977519013885569928470022020270505049023991253",
+   "copy_delay_min": 11.0,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "China Open: Xinran Sun vs Cristina Bucsa",
+   "outcome": "Xinran Sun"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T11:15:36.358383+00:00"
+ "last_updated": "2026-10-03T11:50:30.878348+00:00"
 }
