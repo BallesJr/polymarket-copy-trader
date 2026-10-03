@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790965004,
+  "jtwyslljy": 1790996531,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18156,6 +18156,13 @@
    "BUY",
    214.25,
    1790965004
+  ],
+  [
+   "0xef76fa4dab02d62ba7dc103ebeb330373152351ccad9950afc23100a5d6da6f1",
+   "104957831551753995353806747850659125175621025167564655003039109014172165163978",
+   "BUY",
+   1546.43,
+   1790996531
   ]
  ],
  "leader_pos": {
@@ -29858,6 +29865,18 @@
    "cost": 1756.746899963353,
    "max_shares": 3500.57,
    "last_trade_ts": 1790963556
+  },
+  "jtwyslljy|104957831551753995353806747850659125175621025167564655003039109014172165163978": {
+   "leader": "jtwyslljy",
+   "asset": "104957831551753995353806747850659125175621025167564655003039109014172165163978",
+   "condition_id": "0xdd2bd57c2edca3502344ba23d1eeaada13ab3f07c812ef1201c1532877be77ec",
+   "title": "Dallas Wings vs. Golden State Valkyries",
+   "outcome": "Golden State Valkyries",
+   "slug": "wnba-dal-gsv-2026-10-02",
+   "shares": 1546.43,
+   "cost": 644.7705999729891,
+   "max_shares": 1546.43,
+   "last_trade_ts": 1790996531
   }
  },
  "positions": [],
@@ -49310,8 +49329,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Luminosity vs BIG (BO3) - Stake Ranked Episode 4 Playoffs",
    "outcome": "Luminosity"
+  },
+  {
+   "at": "2026-10-03T03:10:31.845414+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T01:00:00+00:00",
+   "condition_id": "0xdd2bd57c2edca3502344ba23d1eeaada13ab3f07c812ef1201c1532877be77ec",
+   "asset": "104957831551753995353806747850659125175621025167564655003039109014172165163978",
+   "copy_delay_min": 8.3,
+   "cf_ask": 0.6,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dallas Wings vs. Golden State Valkyries",
+   "outcome": "Golden State Valkyries"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-02T18:25:24.950880+00:00"
+ "last_updated": "2026-10-03T03:10:31.845977+00:00"
 }
