@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791032046,
+  "jtwyslljy": 1791032871,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18520,6 +18520,13 @@
    "SELL",
    4705,
    1791032046
+  ],
+  [
+   "0x31be2d1c64eb6e98440097ed8bd902d6702dc254b03b2956de324781e2190067",
+   "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "BUY",
+   11000,
+   1791032871
   ]
  ],
  "leader_pos": {
@@ -30450,6 +30457,18 @@
    "cost": 2264.1407999999997,
    "max_shares": 3144.64,
    "last_trade_ts": 1791027570
+  },
+  "jtwyslljy|91040355043494763009054974164315418428610466602559622454521455966257749847620": {
+   "leader": "jtwyslljy",
+   "asset": "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "condition_id": "0x1d5054045bbc3a810313f8d75837cba827d76db179d53f1b12407080b8f6a0af",
+   "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
+   "outcome": "LGD Gaming",
+   "slug": "dota2-lgd-gl-2026-10-03",
+   "shares": 11000.0,
+   "cost": 6710.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1791032871
   }
  },
  "positions": [
@@ -50311,8 +50330,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Xinran Sun vs Cristina Bucsa",
    "outcome": "Xinran Sun"
+  },
+  {
+   "at": "2026-10-03T13:15:32.566664+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T13:00:00+00:00",
+   "condition_id": "0x1d5054045bbc3a810313f8d75837cba827d76db179d53f1b12407080b8f6a0af",
+   "asset": "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1233.004299999999,
- "last_updated": "2026-10-03T12:55:25.567087+00:00"
+ "last_updated": "2026-10-03T13:15:32.779318+00:00"
 }
