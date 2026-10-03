@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790996531,
+  "jtwyslljy": 1790996717,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18163,6 +18163,27 @@
    "BUY",
    1546.43,
    1790996531
+  ],
+  [
+   "0x240f4ad023e7cd8adf09dc78bd12a3c3dc2eb5eeefb7aba209ab58a5f8760684",
+   "88798964875804409216316124940683776768399792907049164311382275881183211765403",
+   "BUY",
+   937.59,
+   1790996663
+  ],
+  [
+   "0x73b9f83c38fbc40f3323e282c5d2ff98681e09ac7e82a0fc24a53fcc704baba7",
+   "88798964875804409216316124940683776768399792907049164311382275881183211765403",
+   "BUY",
+   4221.32,
+   1790996669
+  ],
+  [
+   "0x738372631ac5af64b3d372df45397cb7a009835f40f575a8367ddcaec723aad5",
+   "88798964875804409216316124940683776768399792907049164311382275881183211765403",
+   "BUY",
+   76.21,
+   1790996717
   ]
  ],
  "leader_pos": {
@@ -29877,6 +29898,18 @@
    "cost": 644.7705999729891,
    "max_shares": 1546.43,
    "last_trade_ts": 1790996531
+  },
+  "jtwyslljy|88798964875804409216316124940683776768399792907049164311382275881183211765403": {
+   "leader": "jtwyslljy",
+   "asset": "88798964875804409216316124940683776768399792907049164311382275881183211765403",
+   "condition_id": "0xdd2bd57c2edca3502344ba23d1eeaada13ab3f07c812ef1201c1532877be77ec",
+   "title": "Dallas Wings vs. Golden State Valkyries",
+   "outcome": "Dallas Wings",
+   "slug": "wnba-dal-gsv-2026-10-02",
+   "shares": 5235.12,
+   "cost": 3847.925899924028,
+   "max_shares": 5235.12,
+   "last_trade_ts": 1790996717
   }
  },
  "positions": [],
@@ -49345,8 +49378,24 @@
    "leader": "jtwyslljy",
    "title": "Dallas Wings vs. Golden State Valkyries",
    "outcome": "Golden State Valkyries"
+  },
+  {
+   "at": "2026-10-03T03:15:32.284165+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T01:00:00+00:00",
+   "condition_id": "0xdd2bd57c2edca3502344ba23d1eeaada13ab3f07c812ef1201c1532877be77ec",
+   "asset": "88798964875804409216316124940683776768399792907049164311382275881183211765403",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.17,
+   "cf_shares": 588.2353,
+   "cf_cost": 100.0,
+   "cf_entry": 0.17,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dallas Wings vs. Golden State Valkyries",
+   "outcome": "Dallas Wings"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T03:10:31.845977+00:00"
+ "last_updated": "2026-10-03T03:15:32.284774+00:00"
 }
