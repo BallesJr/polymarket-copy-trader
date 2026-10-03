@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791011756,
+  "jtwyslljy": 1791011927,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18338,6 +18338,13 @@
    "BUY",
    219.57,
    1791011756
+  ],
+  [
+   "0xac9ed19e5696c37363a7bcc4c8f3b311860d63ad4a649018f8e3a01424fbcc90",
+   "75266813613281960360535106853700419848407966817871971107713579354481921326668",
+   "BUY",
+   14477.53,
+   1791011927
   ]
  ],
  "leader_pos": {
@@ -30144,10 +30151,10 @@
    "title": "China Open: Katerina Siniakova vs Elina Svitolina",
    "outcome": "Katerina Siniakova",
    "slug": "wta-siniako-svitoli-2026-10-01",
-   "shares": 219.57,
-   "cost": 81.2409,
-   "max_shares": 219.57,
-   "last_trade_ts": 1791011756
+   "shares": 14697.1,
+   "cost": 4858.8258000000005,
+   "max_shares": 14697.1,
+   "last_trade_ts": 1791011927
   }
  },
  "positions": [],
@@ -49760,8 +49767,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alex de Minaur vs Quentin Halys",
    "outcome": "Quentin Halys"
+  },
+  {
+   "at": "2026-10-03T07:30:46.106819+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T06:20:00+00:00",
+   "condition_id": "0x90a3e6c3e2d1d84fba2ba5f96a2f689996985548e367b50c17b57e2fc413a458",
+   "asset": "75266813613281960360535106853700419848407966817871971107713579354481921326668",
+   "copy_delay_min": 12.0,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Katerina Siniakova vs Elina Svitolina",
+   "outcome": "Katerina Siniakova"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T07:25:25.468137+00:00"
+ "last_updated": "2026-10-03T07:30:46.107387+00:00"
 }
