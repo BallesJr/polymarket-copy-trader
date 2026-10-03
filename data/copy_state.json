@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791012501,
+  "jtwyslljy": 1791013259,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18359,6 +18359,13 @@
    "BUY",
    3000,
    1791012501
+  ],
+  [
+   "0xd20ddb653f318f02bc94e427490bf86e0cc3b1232c99d53104cdfb49b9cb97af",
+   "75266813613281960360535106853700419848407966817871971107713579354481921326668",
+   "BUY",
+   303,
+   1791013259
   ]
  ],
  "leader_pos": {
@@ -30165,10 +30172,10 @@
    "title": "China Open: Katerina Siniakova vs Elina Svitolina",
    "outcome": "Katerina Siniakova",
    "slug": "wta-siniako-svitoli-2026-10-01",
-   "shares": 14697.1,
-   "cost": 4858.8258000000005,
-   "max_shares": 14697.1,
-   "last_trade_ts": 1791011927
+   "shares": 15000.1,
+   "cost": 4955.785800000001,
+   "max_shares": 15000.1,
+   "last_trade_ts": 1791013259
   },
   "jtwyslljy|37126235293166018320734691611098512250214926266208126232988089367824919257013": {
    "leader": "jtwyslljy",
@@ -49825,8 +49832,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Andrey Rublev vs Roman Safiullin",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-03T07:45:32.888109+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T06:20:00+00:00",
+   "condition_id": "0x90a3e6c3e2d1d84fba2ba5f96a2f689996985548e367b50c17b57e2fc413a458",
+   "asset": "75266813613281960360535106853700419848407966817871971107713579354481921326668",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.25,
+   "cf_shares": 390.8462,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2559,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Katerina Siniakova vs Elina Svitolina",
+   "outcome": "Katerina Siniakova"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T07:35:26.592023+00:00"
+ "last_updated": "2026-10-03T07:45:32.888856+00:00"
 }
