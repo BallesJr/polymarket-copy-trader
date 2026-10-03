@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8666.995849199999,
+ "bankroll": 8863.074249199999,
  "last_seen": {
   "jtwyslljy": 1791035286,
   "0x53757615de": 1787221213
@@ -30551,26 +30551,7 @@
    "last_trade_ts": 1791035286
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "56930568424761373836253481595127531785888279698251179760535624831172720616308",
-   "condition_id": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
-   "title": "China Open: Sonay Kartal vs Xinyu Wang",
-   "outcome": "Sonay Kartal",
-   "slug": "wta-kartal-wa-2026-10-01",
-   "opened_at": "2026-10-03T08:50:30.107539+00:00",
-   "entry_price": 0.51,
-   "shares": 196.0784,
-   "stake": 100.0,
-   "leader_vwap": 0.51,
-   "leader_cost": 3060.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.51,
-   "ask_depth": 16034.62,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -41211,6 +41192,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56930568424761373836253481595127531785888279698251179760535624831172720616308",
+   "condition_id": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
+   "title": "China Open: Sonay Kartal vs Xinyu Wang",
+   "outcome": "Sonay Kartal",
+   "slug": "wta-kartal-wa-2026-10-01",
+   "opened_at": "2026-10-03T08:50:30.107539+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.51,
+   "ask_depth": 16034.62,
+   "status": "won",
+   "closed_at": "2026-10-03T14:10:31.528116+00:00",
+   "exit_price": 1.0,
+   "pnl": 96.0784,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -50476,6 +50479,6 @@
    "outcome": "LGD Gaming"
   }
  ],
- "total_pnl": -1233.004299999999,
- "last_updated": "2026-10-03T14:00:53.858361+00:00"
+ "total_pnl": -1136.9258999999988,
+ "last_updated": "2026-10-03T14:10:31.529900+00:00"
 }
