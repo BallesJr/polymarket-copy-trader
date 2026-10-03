@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791045437,
+  "jtwyslljy": 1791046109,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18653,6 +18653,34 @@
    "SELL",
    36,
    1791045437
+  ],
+  [
+   "0xdf8ae7feae817ebe1cc691bdcf652370784278111c3d835963e65c9b1716de3c",
+   "34094122452753519765554398746174331825180613689300510072587721356707499298300",
+   "BUY",
+   7000,
+   1791045867
+  ],
+  [
+   "0x7d1ff1c78d00d7803d3aec7d12092fbe11385ea68e84495a0774619f6f2ed8a9",
+   "34094122452753519765554398746174331825180613689300510072587721356707499298300",
+   "BUY",
+   1348.76,
+   1791045908
+  ],
+  [
+   "0x606c78f1f373ada85d27905326858d4c0cd938d278a59cc306411245a9cb80a2",
+   "34094122452753519765554398746174331825180613689300510072587721356707499298300",
+   "BUY",
+   4000,
+   1791046013
+  ],
+  [
+   "0x51e2422356ac027da458244e68f03a0244cbe0c8235244b71b8725cbd68dfac5",
+   "12204280848427094449297576329726697767204993850512984451881397663827887798566",
+   "BUY",
+   1958.37,
+   1791046109
   ]
  ],
  "leader_pos": {
@@ -30619,6 +30647,30 @@
    "cost": 747.1905999999999,
    "max_shares": 4282.07,
    "last_trade_ts": 1791035286
+  },
+  "jtwyslljy|34094122452753519765554398746174331825180613689300510072587721356707499298300": {
+   "leader": "jtwyslljy",
+   "asset": "34094122452753519765554398746174331825180613689300510072587721356707499298300",
+   "condition_id": "0x56d55938349cb807b9350e4770aa300665aa849e81d3f6e473c7ca90dac2e748",
+   "title": "Dota 2: 1win vs OG - Game 2 Winner",
+   "outcome": "OG",
+   "slug": "dota2-1win-og-2026-10-03",
+   "shares": 12348.76,
+   "cost": 3920.2794997755,
+   "max_shares": 12348.76,
+   "last_trade_ts": 1791046013
+  },
+  "jtwyslljy|12204280848427094449297576329726697767204993850512984451881397663827887798566": {
+   "leader": "jtwyslljy",
+   "asset": "12204280848427094449297576329726697767204993850512984451881397663827887798566",
+   "condition_id": "0x7c75cabf2a0f2d8e2665ad78cbdcc5ddbc74fa98b88fba70358b5d146ac44f54",
+   "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "G2",
+   "slug": "cs2-g2-navi-2026-10-03",
+   "shares": 1958.37,
+   "cost": 1175.022,
+   "max_shares": 1958.37,
+   "last_trade_ts": 1791046109
   }
  },
  "positions": [],
@@ -50627,8 +50679,40 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-10-03T16:55:23.867037+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T16:30:00+00:00",
+   "condition_id": "0x7c75cabf2a0f2d8e2665ad78cbdcc5ddbc74fa98b88fba70358b5d146ac44f54",
+   "asset": "12204280848427094449297576329726697767204993850512984451881397663827887798566",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "G2"
+  },
+  {
+   "at": "2026-10-03T16:55:23.996000+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T15:10:00+00:00",
+   "condition_id": "0x56d55938349cb807b9350e4770aa300665aa849e81d3f6e473c7ca90dac2e748",
+   "asset": "34094122452753519765554398746174331825180613689300510072587721356707499298300",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.14,
+   "cf_shares": 701.088,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1426,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: 1win vs OG - Game 2 Winner",
+   "outcome": "OG"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-03T16:45:32.649101+00:00"
+ "last_updated": "2026-10-03T16:55:23.996631+00:00"
 }
