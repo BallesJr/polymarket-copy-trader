@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791024668,
+  "jtwyslljy": 1791025895,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18485,6 +18485,20 @@
    "BUY",
    9631.1,
    1791024668
+  ],
+  [
+   "0x88aae39a6a6c3abfc01c7cb9743438bcd5572ed3a986ce69873ebdd102904cfa",
+   "114457422815722393720172234087050204490104880043934652540723367779369997122454",
+   "SELL",
+   9631.1,
+   1791025701
+  ],
+  [
+   "0x7283c8e2037473dce03edf2f438d7e5f735ba3e8aff267cba104ba4e3f9e2a0e",
+   "110895244068308651031648643180312585587832713504915927919814768204671280051228",
+   "BUY",
+   972.47,
+   1791025895
   ]
  ],
  "leader_pos": {
@@ -30387,10 +30401,22 @@
    "title": "Japan Open Tennis Championships: Ugo Humbert vs Jiri Lehecka",
    "outcome": "Ugo Humbert",
    "slug": "atp-humbert-lehecka-2026-10-02",
-   "shares": 9631.1,
-   "cost": 3659.818,
+   "shares": 0.0,
+   "cost": 3081.952,
    "max_shares": 9631.1,
-   "last_trade_ts": 1791024668
+   "last_trade_ts": 1791025701
+  },
+  "jtwyslljy|110895244068308651031648643180312585587832713504915927919814768204671280051228": {
+   "leader": "jtwyslljy",
+   "asset": "110895244068308651031648643180312585587832713504915927919814768204671280051228",
+   "condition_id": "0x9a254e1fb5dab55b1b97cbcd59cef2ff4333909850c769628ff53a2f3089374d",
+   "title": "China Open: Xinran Sun vs Cristina Bucsa",
+   "outcome": "Cristina Bucsa",
+   "slug": "wta-su-bucsa-2026-10-02",
+   "shares": 972.47,
+   "cost": 564.0326,
+   "max_shares": 972.47,
+   "last_trade_ts": 1791025895
   }
  },
  "positions": [
@@ -50216,8 +50242,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Ugo Humbert vs Jiri Lehecka",
    "outcome": "Ugo Humbert"
+  },
+  {
+   "at": "2026-10-03T11:15:36.006562+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T10:15:00+00:00",
+   "condition_id": "0x9a254e1fb5dab55b1b97cbcd59cef2ff4333909850c769628ff53a2f3089374d",
+   "asset": "110895244068308651031648643180312585587832713504915927919814768204671280051228",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Xinran Sun vs Cristina Bucsa",
+   "outcome": "Cristina Bucsa"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T11:00:56.292536+00:00"
+ "last_updated": "2026-10-03T11:15:36.358383+00:00"
 }
