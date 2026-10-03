@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791017109,
+  "jtwyslljy": 1791017451,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18401,6 +18401,41 @@
    "BUY",
    8600,
    1791017109
+  ],
+  [
+   "0xa62b34345ba0832da9efd7baa989e8b799f6d327211487b4dda64baa89c573ec",
+   "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "BUY",
+   18.81,
+   1791017223
+  ],
+  [
+   "0xc9d92b7c90f430f4ddd2f520c6307720fa7083b2d5ef521faa56b553c54ec510",
+   "52335543521126571828381955985806486214099695127586164915051099940569100916537",
+   "BUY",
+   5000,
+   1791017297
+  ],
+  [
+   "0xca1611b52098d9c6fa29a05db3b98a1251bc529fde04751c08024329fa481313",
+   "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "BUY",
+   10000,
+   1791017378
+  ],
+  [
+   "0xd85922dea49b027ecf41c5422176f365456bcd1a927d69cda29ffbfed24e8a77",
+   "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "SELL",
+   5000,
+   1791017412
+  ],
+  [
+   "0xd7a6cd994405247bce5a12e127bfe8867f2dc4f90e24cac561185c57be2129eb",
+   "52335543521126571828381955985806486214099695127586164915051099940569100916537",
+   "BUY",
+   3000,
+   1791017451
   ]
  ],
  "leader_pos": {
@@ -30247,6 +30282,30 @@
    "cost": 1290.0,
    "max_shares": 8600.0,
    "last_trade_ts": 1791017109
+  },
+  "jtwyslljy|76252911487626447771658735204114508200726399757001979518339477201874179608081": {
+   "leader": "jtwyslljy",
+   "asset": "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "condition_id": "0x7e1fde32894f96ece23febe811ca644ac15dc162d1d21d0407fcea6f96130d6c",
+   "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+   "outcome": "Kamilla Rakhimova",
+   "slug": "wta-rakhimo-fernand-2026-10-01",
+   "shares": 5018.8099999999995,
+   "cost": 2609.7812000000013,
+   "max_shares": 10018.81,
+   "last_trade_ts": 1791017412
+  },
+  "jtwyslljy|52335543521126571828381955985806486214099695127586164915051099940569100916537": {
+   "leader": "jtwyslljy",
+   "asset": "52335543521126571828381955985806486214099695127586164915051099940569100916537",
+   "condition_id": "0x7a1d602a9c469fc2adff3ceba87c0f5dddc7e017d11562c0a35ee2b03045ba1a",
+   "title": "China Open: Qinwen Zheng vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya",
+   "slug": "wta-zhen-kalinsk-2026-10-01",
+   "shares": 8000.0,
+   "cost": 3390.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791017451
   }
  },
  "positions": [
@@ -49976,8 +50035,40 @@
    "leader": "jtwyslljy",
    "title": "China Open: Katerina Siniakova vs Elina Svitolina",
    "outcome": "Katerina Siniakova"
+  },
+  {
+   "at": "2026-10-03T08:55:27.517027+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T07:30:00+00:00",
+   "condition_id": "0x7e1fde32894f96ece23febe811ca644ac15dc162d1d21d0407fcea6f96130d6c",
+   "asset": "76252911487626447771658735204114508200726399757001979518339477201874179608081",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+   "outcome": "Kamilla Rakhimova"
+  },
+  {
+   "at": "2026-10-03T08:55:27.666325+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T08:05:00+00:00",
+   "condition_id": "0x7a1d602a9c469fc2adff3ceba87c0f5dddc7e017d11562c0a35ee2b03045ba1a",
+   "asset": "52335543521126571828381955985806486214099695127586164915051099940569100916537",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Qinwen Zheng vs Anna Kalinskaya",
+   "outcome": "Anna Kalinskaya"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T08:50:30.410900+00:00"
+ "last_updated": "2026-10-03T08:55:27.939832+00:00"
 }
