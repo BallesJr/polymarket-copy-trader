@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791047888,
+  "jtwyslljy": 1791047964,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18723,6 +18723,13 @@
    "BUY",
    731.94,
    1791047888
+  ],
+  [
+   "0xbbc247d94d6b7abda4ed4f926f86650596eb3268c217d3eb8d65d9f04b27b578",
+   "12204280848427094449297576329726697767204993850512984451881397663827887798566",
+   "BUY",
+   10,
+   1791047964
   ]
  ],
  "leader_pos": {
@@ -30709,10 +30716,10 @@
    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
    "outcome": "G2",
    "slug": "cs2-g2-navi-2026-10-03",
-   "shares": 8485.06,
-   "cost": 3577.0481999477242,
-   "max_shares": 8485.06,
-   "last_trade_ts": 1791047888
+   "shares": 8495.06,
+   "cost": 3580.4481999477243,
+   "max_shares": 8495.06,
+   "last_trade_ts": 1791047964
   }
  },
  "positions": [],
@@ -50769,8 +50776,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
    "outcome": "G2"
+  },
+  {
+   "at": "2026-10-03T17:30:45.026345+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T16:30:00+00:00",
+   "condition_id": "0x7c75cabf2a0f2d8e2665ad78cbdcc5ddbc74fa98b88fba70358b5d146ac44f54",
+   "asset": "12204280848427094449297576329726697767204993850512984451881397663827887798566",
+   "copy_delay_min": 11.3,
+   "cf_ask": 0.33,
+   "cf_shares": 303.0303,
+   "cf_cost": 100.0,
+   "cf_entry": 0.33,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "G2"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-03T17:25:24.674927+00:00"
+ "last_updated": "2026-10-03T17:30:45.027116+00:00"
 }
