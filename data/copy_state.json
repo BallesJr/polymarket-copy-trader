@@ -30448,24 +30448,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "86933597270495684476341189608758144921275392189695545129805395729099502976873",
-   "condition_id": "0xed02a9bdd2fe299a0b62a478a2d54054e636f9831416e246e87dbee028939a7f",
-   "title": "China Open: Daniil Medvedev vs Jan-Lennard Struff",
-   "outcome": "Jan-Lennard Struff",
-   "slug": "atp-medvede-struff-2026-10-02",
-   "opened_at": "2026-10-03T08:50:29.972041+00:00",
-   "entry_price": 0.15,
-   "shares": 666.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.15,
-   "leader_cost": 1290.0,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.15,
-   "ask_depth": 2658.92,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "56930568424761373836253481595127531785888279698251179760535624831172720616308",
    "condition_id": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
    "title": "China Open: Sonay Kartal vs Xinyu Wang",
@@ -41101,6 +41083,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86933597270495684476341189608758144921275392189695545129805395729099502976873",
+   "condition_id": "0xed02a9bdd2fe299a0b62a478a2d54054e636f9831416e246e87dbee028939a7f",
+   "title": "China Open: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-medvede-struff-2026-10-02",
+   "opened_at": "2026-10-03T08:50:29.972041+00:00",
+   "entry_price": 0.15,
+   "shares": 666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 1290.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.15,
+   "ask_depth": 2658.92,
+   "status": "lost",
+   "closed_at": "2026-10-03T12:20:32.522408+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -50302,6 +50306,6 @@
    "outcome": "Xinran Sun"
   }
  ],
- "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T12:10:33.586076+00:00"
+ "total_pnl": -1233.004299999999,
+ "last_updated": "2026-10-03T12:20:32.524090+00:00"
 }
