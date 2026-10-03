@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791020639,
+  "jtwyslljy": 1791024668,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18478,6 +18478,13 @@
    "BUY",
    15852.9,
    1791020639
+  ],
+  [
+   "0x2135bc7ae48f2f8cdeb48b18fed55ada85a8debd5f537cdd60ea4f9f7e64ce1c",
+   "114457422815722393720172234087050204490104880043934652540723367779369997122454",
+   "BUY",
+   9631.1,
+   1791024668
   ]
  ],
  "leader_pos": {
@@ -30372,6 +30379,18 @@
    "cost": 1011.18,
    "max_shares": 1774.0,
    "last_trade_ts": 1791020600
+  },
+  "jtwyslljy|114457422815722393720172234087050204490104880043934652540723367779369997122454": {
+   "leader": "jtwyslljy",
+   "asset": "114457422815722393720172234087050204490104880043934652540723367779369997122454",
+   "condition_id": "0xa3f1c2b67309d3bca90c65e8b4156374569b15e569c1cabb04386b1e1e59a4d1",
+   "title": "Japan Open Tennis Championships: Ugo Humbert vs Jiri Lehecka",
+   "outcome": "Ugo Humbert",
+   "slug": "atp-humbert-lehecka-2026-10-02",
+   "shares": 9631.1,
+   "cost": 3659.818,
+   "max_shares": 9631.1,
+   "last_trade_ts": 1791024668
   }
  },
  "positions": [
@@ -50181,8 +50200,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-03T11:00:56.009667+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T09:15:00+00:00",
+   "condition_id": "0xa3f1c2b67309d3bca90c65e8b4156374569b15e569c1cabb04386b1e1e59a4d1",
+   "asset": "114457422815722393720172234087050204490104880043934652540723367779369997122454",
+   "copy_delay_min": 9.8,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Ugo Humbert vs Jiri Lehecka",
+   "outcome": "Ugo Humbert"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T09:50:33.400683+00:00"
+ "last_updated": "2026-10-03T11:00:56.292536+00:00"
 }
