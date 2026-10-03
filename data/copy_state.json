@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791043889,
+  "jtwyslljy": 1791045288,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18611,6 +18611,20 @@
    "BUY",
    4175.59,
    1791043889
+  ],
+  [
+   "0x02777ded7bac9fb1b242cfed49a8227bd2ae1a5236e3cdacd45e1ef6407ae752",
+   "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "SELL",
+   120,
+   1791045284
+  ],
+  [
+   "0x8e3778d055cc8f4702ef2a4eddbf50167e36bf9616ed9c6a35e99e46c780ea89",
+   "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "SELL",
+   100,
+   1791045288
   ]
  ],
  "leader_pos": {
@@ -30549,10 +30563,10 @@
    "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
    "outcome": "LGD Gaming",
    "slug": "dota2-lgd-gl-2026-10-03",
-   "shares": 16942.170000000002,
-   "cost": 10113.881500445612,
+   "shares": 16722.170000000002,
+   "cost": 10025.681500445611,
    "max_shares": 16942.170000000002,
-   "last_trade_ts": 1791043889
+   "last_trade_ts": 1791045288
   },
   "jtwyslljy|31902655036952825967409259976151363681345885603375559516641380438771178434868": {
    "leader": "jtwyslljy",
@@ -50553,8 +50567,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-10-03T16:40:33.390061+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T13:00:00+00:00",
+   "condition_id": "0x1d5054045bbc3a810313f8d75837cba827d76db179d53f1b12407080b8f6a0af",
+   "asset": "91040355043494763009054974164315418428610466602559622454521455966257749847620",
+   "copy_delay_min": 5.7,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Qualifier",
+   "outcome": "LGD Gaming"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-03T16:20:33.086697+00:00"
+ "last_updated": "2026-10-03T16:40:33.390681+00:00"
 }
