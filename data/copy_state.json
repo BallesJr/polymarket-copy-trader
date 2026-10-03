@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791019748,
+  "jtwyslljy": 1791020639,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18464,6 +18464,20 @@
    "SELL",
    5000,
    1791019748
+  ],
+  [
+   "0xc1431a5e653c61ce1f828b5735878e3d7d8aaa5af209d7374b6bad4100181b14",
+   "23511603428311123491863991188202245156966920272697746553950454641744331698693",
+   "BUY",
+   1774,
+   1791020600
+  ],
+  [
+   "0x6e06774c9c1ad2bd62b386f45b3514de3bc24602364b45dacae0d6a146448b14",
+   "28358582836591900150871366652506313486929172182093365114195547899198599758654",
+   "BUY",
+   15852.9,
+   1791020639
   ]
  ],
  "leader_pos": {
@@ -30342,10 +30356,22 @@
    "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
    "outcome": "Leylah Fernandez",
    "slug": "wta-rakhimo-fernand-2026-10-01",
-   "shares": -822.1000000000004,
-   "cost": -172.0119999916501,
-   "max_shares": 4177.9,
-   "last_trade_ts": 1791019748
+   "shares": 15852.9,
+   "cost": 4438.812,
+   "max_shares": 15852.9,
+   "last_trade_ts": 1791020639
+  },
+  "jtwyslljy|23511603428311123491863991188202245156966920272697746553950454641744331698693": {
+   "leader": "jtwyslljy",
+   "asset": "23511603428311123491863991188202245156966920272697746553950454641744331698693",
+   "condition_id": "0x3b6b4c2556fbfadfee6f35ee901eb6c262412960811b6abefb65a68e470f6f6b",
+   "title": "China Open: Iva Jovic vs Harriet Dart",
+   "outcome": "Iva Jovic",
+   "slug": "wta-jovic-dart-2026-10-02",
+   "shares": 1774.0,
+   "cost": 1011.18,
+   "max_shares": 1774.0,
+   "last_trade_ts": 1791020600
   }
  },
  "positions": [
@@ -50123,8 +50149,40 @@
    "leader": "jtwyslljy",
    "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-03T09:50:32.984111+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T08:45:00+00:00",
+   "condition_id": "0x3b6b4c2556fbfadfee6f35ee901eb6c262412960811b6abefb65a68e470f6f6b",
+   "asset": "23511603428311123491863991188202245156966920272697746553950454641744331698693",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.61,
+   "cf_shares": 163.9344,
+   "cf_cost": 100.0,
+   "cf_entry": 0.61,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Iva Jovic vs Harriet Dart",
+   "outcome": "Iva Jovic"
+  },
+  {
+   "at": "2026-10-03T09:50:33.100904+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T07:30:00+00:00",
+   "condition_id": "0x7e1fde32894f96ece23febe811ca644ac15dc162d1d21d0407fcea6f96130d6c",
+   "asset": "28358582836591900150871366652506313486929172182093365114195547899198599758654",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.21,
+   "cf_shares": 454.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2199,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Kamilla Rakhimova vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T09:35:24.282263+00:00"
+ "last_updated": "2026-10-03T09:50:33.400683+00:00"
 }
