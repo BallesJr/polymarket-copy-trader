@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790997225,
+  "jtwyslljy": 1790997566,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18240,6 +18240,34 @@
    "SELL",
    1729.46,
    1790997225
+  ],
+  [
+   "0x6974e4df20c109d206dc95577e7db9a3d8b43dc69b2618622901c968185d8337",
+   "59484364948136031097253793194815916612408687544782099437400020470624909929307",
+   "BUY",
+   10000,
+   1790997446
+  ],
+  [
+   "0x2c060ed680ba1cd272507f91ed259ef10dcaab55096c66e3a91550f9a4441657",
+   "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "BUY",
+   221.24,
+   1790997488
+  ],
+  [
+   "0xee972443ed534c0a3e9c4ff8a57e96a6f529dac160ceb602923e614d132e94f7",
+   "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "BUY",
+   5000,
+   1790997503
+  ],
+  [
+   "0xbf9e6ded931f30b0733468abd9a375c56926ee8926deba7334d579c73371da5b",
+   "19146504314692952606700836814373679829746034551005783895114869877771356161938",
+   "BUY",
+   7000,
+   1790997566
   ]
  ],
  "leader_pos": {
@@ -29966,6 +29994,42 @@
    "cost": 2926.2276999448222,
    "max_shares": 7622.129999999999,
    "last_trade_ts": 1790997225
+  },
+  "jtwyslljy|59484364948136031097253793194815916612408687544782099437400020470624909929307": {
+   "leader": "jtwyslljy",
+   "asset": "59484364948136031097253793194815916612408687544782099437400020470624909929307",
+   "condition_id": "0x65e6fedba18a552601942416a7bacad0dd6d875c66478e3b27cf1f0e90a1d757",
+   "title": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-shapova-tabilo-2026-10-02",
+   "shares": 10000.0,
+   "cost": 5800.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1790997446
+  },
+  "jtwyslljy|83611424097890169978363668434828115504947733718388051131923362048195234150855": {
+   "leader": "jtwyslljy",
+   "asset": "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "condition_id": "0x9e32ff109590c00e1268f17a0600f1dffde82f3c2613fad7863b8b6efdb94c55",
+   "title": "China Open: Katie Volynets vs Elise Mertens",
+   "outcome": "Katie Volynets",
+   "slug": "wta-volynet-mertens-2026-10-01",
+   "shares": 5221.24,
+   "cost": 1677.434,
+   "max_shares": 5221.24,
+   "last_trade_ts": 1790997503
+  },
+  "jtwyslljy|19146504314692952606700836814373679829746034551005783895114869877771356161938": {
+   "leader": "jtwyslljy",
+   "asset": "19146504314692952606700836814373679829746034551005783895114869877771356161938",
+   "condition_id": "0xc184e3939ffd309da3d7bccf7c71ba5f4275af2eaa3896db4b1caf96c0e6813a",
+   "title": "China Open: Donna Vekic vs Lin Zhu",
+   "outcome": "Donna Vekic",
+   "slug": "wta-vekic-zhu-2026-10-02",
+   "shares": 7000.0,
+   "cost": 4620.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1790997566
   }
  },
  "positions": [],
@@ -49450,8 +49514,56 @@
    "leader": "jtwyslljy",
    "title": "Dallas Wings vs. Golden State Valkyries",
    "outcome": "Dallas Wings"
+  },
+  {
+   "at": "2026-10-03T03:25:23.475159+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T02:00:00+00:00",
+   "condition_id": "0x65e6fedba18a552601942416a7bacad0dd6d875c66478e3b27cf1f0e90a1d757",
+   "asset": "59484364948136031097253793194815916612408687544782099437400020470624909929307",
+   "copy_delay_min": 7.9,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
+   "outcome": "Denis Shapovalov"
+  },
+  {
+   "at": "2026-10-03T03:25:23.595273+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T03:05:00+00:00",
+   "condition_id": "0xc184e3939ffd309da3d7bccf7c71ba5f4275af2eaa3896db4b1caf96c0e6813a",
+   "asset": "19146504314692952606700836814373679829746034551005783895114869877771356161938",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Donna Vekic vs Lin Zhu",
+   "outcome": "Donna Vekic"
+  },
+  {
+   "at": "2026-10-03T03:25:23.706166+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T03:05:00+00:00",
+   "condition_id": "0x9e32ff109590c00e1268f17a0600f1dffde82f3c2613fad7863b8b6efdb94c55",
+   "asset": "83611424097890169978363668434828115504947733718388051131923362048195234150855",
+   "copy_delay_min": 7.0,
+   "cf_ask": 0.21,
+   "cf_shares": 457.9214,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2184,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Katie Volynets vs Elise Mertens",
+   "outcome": "Katie Volynets"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T03:20:28.901344+00:00"
+ "last_updated": "2026-10-03T03:25:23.706760+00:00"
 }
