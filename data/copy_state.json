@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8866.995849199999,
+ "bankroll": 8666.995849199999,
  "last_seen": {
-  "jtwyslljy": 1791015053,
+  "jtwyslljy": 1791017109,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18387,6 +18387,20 @@
    "SELL",
    3000,
    1791015053
+  ],
+  [
+   "0x6b35a7fd5e1151bd0ea49a841fcc3898697e31700ec43ed80df5a4d19c1d8f12",
+   "56930568424761373836253481595127531785888279698251179760535624831172720616308",
+   "BUY",
+   6000,
+   1791017021
+  ],
+  [
+   "0x9f2400b6d98220a92f1eb24e07fbed8ba6a75f46228e3d99754b6f7035c867f8",
+   "86933597270495684476341189608758144921275392189695545129805395729099502976873",
+   "BUY",
+   8600,
+   1791017109
   ]
  ],
  "leader_pos": {
@@ -30209,9 +30223,70 @@
    "cost": 5670.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1791012501
+  },
+  "jtwyslljy|56930568424761373836253481595127531785888279698251179760535624831172720616308": {
+   "leader": "jtwyslljy",
+   "asset": "56930568424761373836253481595127531785888279698251179760535624831172720616308",
+   "condition_id": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
+   "title": "China Open: Sonay Kartal vs Xinyu Wang",
+   "outcome": "Sonay Kartal",
+   "slug": "wta-kartal-wa-2026-10-01",
+   "shares": 6000.0,
+   "cost": 3060.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791017021
+  },
+  "jtwyslljy|86933597270495684476341189608758144921275392189695545129805395729099502976873": {
+   "leader": "jtwyslljy",
+   "asset": "86933597270495684476341189608758144921275392189695545129805395729099502976873",
+   "condition_id": "0xed02a9bdd2fe299a0b62a478a2d54054e636f9831416e246e87dbee028939a7f",
+   "title": "China Open: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-medvede-struff-2026-10-02",
+   "shares": 8600.0,
+   "cost": 1290.0,
+   "max_shares": 8600.0,
+   "last_trade_ts": 1791017109
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "86933597270495684476341189608758144921275392189695545129805395729099502976873",
+   "condition_id": "0xed02a9bdd2fe299a0b62a478a2d54054e636f9831416e246e87dbee028939a7f",
+   "title": "China Open: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-medvede-struff-2026-10-02",
+   "opened_at": "2026-10-03T08:50:29.972041+00:00",
+   "entry_price": 0.15,
+   "shares": 666.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.15,
+   "leader_cost": 1290.0,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.15,
+   "ask_depth": 2658.92,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56930568424761373836253481595127531785888279698251179760535624831172720616308",
+   "condition_id": "0x1a41f2508001e1d82ae02f111e77a1e0ded2e02c72f76803d52a80c004698b37",
+   "title": "China Open: Sonay Kartal vs Xinyu Wang",
+   "outcome": "Sonay Kartal",
+   "slug": "wta-kartal-wa-2026-10-01",
+   "opened_at": "2026-10-03T08:50:30.107539+00:00",
+   "entry_price": 0.51,
+   "shares": 196.0784,
+   "stake": 100.0,
+   "leader_vwap": 0.51,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.51,
+   "ask_depth": 16034.62,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -49904,5 +49979,5 @@
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T08:20:30.091640+00:00"
+ "last_updated": "2026-10-03T08:50:30.410900+00:00"
 }
