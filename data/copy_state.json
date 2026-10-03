@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8866.995849199999,
  "last_seen": {
-  "jtwyslljy": 1790997737,
+  "jtwyslljy": 1791002295,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18282,6 +18282,13 @@
    "BUY",
    4779,
    1790997737
+  ],
+  [
+   "0x77321b3985528eaf79496c589767f8c23d4db1582d1adc37342777a98a39c867",
+   "81181285828615075315893483095197828358499303726797849755320866687297732132339",
+   "BUY",
+   6893.5,
+   1791002295
   ]
  ],
  "leader_pos": {
@@ -30044,6 +30051,18 @@
    "cost": 4620.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1790997566
+  },
+  "jtwyslljy|81181285828615075315893483095197828358499303726797849755320866687297732132339": {
+   "leader": "jtwyslljy",
+   "asset": "81181285828615075315893483095197828358499303726797849755320866687297732132339",
+   "condition_id": "0xc184e3939ffd309da3d7bccf7c71ba5f4275af2eaa3896db4b1caf96c0e6813a",
+   "title": "China Open: Donna Vekic vs Lin Zhu",
+   "outcome": "Lin Zhu",
+   "slug": "wta-vekic-zhu-2026-10-02",
+   "shares": 6893.5,
+   "cost": 4715.26799987755,
+   "max_shares": 6893.5,
+   "last_trade_ts": 1791002295
   }
  },
  "positions": [],
@@ -49608,8 +49627,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
    "outcome": "Denis Shapovalov"
+  },
+  {
+   "at": "2026-10-03T04:40:29.785520+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T03:05:00+00:00",
+   "condition_id": "0xc184e3939ffd309da3d7bccf7c71ba5f4275af2eaa3896db4b1caf96c0e6813a",
+   "asset": "81181285828615075315893483095197828358499303726797849755320866687297732132339",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.69,
+   "cf_shares": 144.8636,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6903,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Donna Vekic vs Lin Zhu",
+   "outcome": "Lin Zhu"
   }
  ],
  "total_pnl": -1133.004299999999,
- "last_updated": "2026-10-03T03:30:46.034019+00:00"
+ "last_updated": "2026-10-03T04:40:29.785908+00:00"
 }
