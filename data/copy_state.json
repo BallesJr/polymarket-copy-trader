@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8763.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791099451,
+  "jtwyslljy": 1791100745,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18884,6 +18884,20 @@
    "BUY",
    3000,
    1791099451
+  ],
+  [
+   "0xf5cf6e6921fcc22f1d0331cc60b1ee8aa667625c29c7db4e812399ba8a6802bc",
+   "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "BUY",
+   1741.26,
+   1791100736
+  ],
+  [
+   "0x02210afe7f27cf45a46e7606eee7a12dcb401403cd9c3dc940b65c538a9cebe4",
+   "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "BUY",
+   5000,
+   1791100745
   ]
  ],
  "leader_pos": {
@@ -31018,6 +31032,18 @@
    "cost": 2070.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1791099451
+  },
+  "jtwyslljy|81725009104836294680831995707640124645093840697815481066627330899283362096075": {
+   "leader": "jtwyslljy",
+   "asset": "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "condition_id": "0x65d12f4d39fe67f8842f2c8e40b6b1325ade916a99bf828af0f135906234006c",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-vachero-fils-2026-10-03",
+   "shares": 6741.26,
+   "cost": 3892.5182,
+   "max_shares": 6741.26,
+   "last_trade_ts": 1791100745
   }
  },
  "positions": [
@@ -51301,8 +51327,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alex de Minaur vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-04T08:00:52.113804+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T07:05:00+00:00",
+   "condition_id": "0x65d12f4d39fe67f8842f2c8e40b6b1325ade916a99bf828af0f135906234006c",
+   "asset": "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "copy_delay_min": 1.8,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T07:40:31.383524+00:00"
+ "last_updated": "2026-10-04T08:00:52.264931+00:00"
 }
