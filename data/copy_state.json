@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791131591,
+  "jtwyslljy": 1791134639,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19157,6 +19157,13 @@
    "BUY",
    1402.42,
    1791131591
+  ],
+  [
+   "0xaba45bb72ba2b75ffcc6d6b3c81d8ad4a2f22dd1fb86de6cfe6ccf6573d8e9e8",
+   "48313193319491243668169356003044063173222345500939889625533023969245134692041",
+   "BUY",
+   16000,
+   1791134639
   ]
  ],
  "leader_pos": {
@@ -31435,6 +31442,18 @@
    "cost": 1093.8876,
    "max_shares": 1402.42,
    "last_trade_ts": 1791131591
+  },
+  "jtwyslljy|48313193319491243668169356003044063173222345500939889625533023969245134692041": {
+   "leader": "jtwyslljy",
+   "asset": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
+   "condition_id": "0xf46d979c9e93a315674f077e772788e1a8912ab7069d54c248d49c3810f80e0c",
+   "title": "Jets vs. Bears",
+   "outcome": "Jets",
+   "slug": "nfl-nyj-chi-2026-10-04",
+   "shares": 16000.0,
+   "cost": 5888.929,
+   "max_shares": 16000.0,
+   "last_trade_ts": 1791134639
   }
  },
  "positions": [],
@@ -52057,8 +52076,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "1WIN"
+  },
+  {
+   "at": "2026-10-04T17:25:24.190056+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T17:00:00+00:00",
+   "condition_id": "0xf46d979c9e93a315674f077e772788e1a8912ab7069d54c248d49c3810f80e0c",
+   "asset": "48313193319491243668169356003044063173222345500939889625533023969245134692041",
+   "copy_delay_min": 1.4,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Jets vs. Bears",
+   "outcome": "Jets"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T16:40:29.638694+00:00"
+ "last_updated": "2026-10-04T17:25:24.190649+00:00"
 }
