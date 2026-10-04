@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791087997,
+  "jtwyslljy": 1791088543,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18849,6 +18849,13 @@
    "BUY",
    5000,
    1791087997
+  ],
+  [
+   "0x3527fb70f05e7b649d94ff1213c9fba47c2f0440f0201106091af80b5a85007a",
+   "96040977057410504258275136657909313728781036287377664561988141507190801831862",
+   "BUY",
+   4418.92,
+   1791088543
   ]
  ],
  "leader_pos": {
@@ -30935,6 +30942,18 @@
    "cost": 1400.0000000000002,
    "max_shares": 5000.0,
    "last_trade_ts": 1791087997
+  },
+  "jtwyslljy|96040977057410504258275136657909313728781036287377664561988141507190801831862": {
+   "leader": "jtwyslljy",
+   "asset": "96040977057410504258275136657909313728781036287377664561988141507190801831862",
+   "condition_id": "0x2c880589810bf38b4e88b1eb1207701574022f1fdcd9674f2ebedeeabc27eb02",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Denis Shapovalov",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-alcaraz-shapova-2026-10-04",
+   "shares": 4418.92,
+   "cost": 2872.2980000000002,
+   "max_shares": 4418.92,
+   "last_trade_ts": 1791088543
   }
  },
  "positions": [],
@@ -51151,8 +51170,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
    "outcome": "Aryna Sabalenka"
+  },
+  {
+   "at": "2026-10-04T04:45:31.154660+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T04:05:00+00:00",
+   "condition_id": "0x2c880589810bf38b4e88b1eb1207701574022f1fdcd9674f2ebedeeabc27eb02",
+   "asset": "96040977057410504258275136657909313728781036287377664561988141507190801831862",
+   "copy_delay_min": 9.8,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Denis Shapovalov",
+   "outcome": "Carlos Alcaraz"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T04:35:26.298579+00:00"
+ "last_updated": "2026-10-04T04:45:31.155007+00:00"
 }
