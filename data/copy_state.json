@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791119330,
+  "jtwyslljy": 1791119438,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18968,6 +18968,20 @@
    "BUY",
    811.4,
    1791119330
+  ],
+  [
+   "0x48aa0ef1e3cd68a84b0985ffa3acdec1e23e3bd6fc0737217560f708ae884c2c",
+   "106588378190878646420398492235650591845663369589307296775949054845057517128029",
+   "BUY",
+   316.57,
+   1791119387
+  ],
+  [
+   "0xd13de39db7931aaf1e9d946cb89bc857d890b3170742b95d2f657b6550dab9bf",
+   "106588378190878646420398492235650591845663369589307296775949054845057517128029",
+   "BUY",
+   266.88,
+   1791119438
   ]
  ],
  "leader_pos": {
@@ -31158,10 +31172,10 @@
    "title": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage",
    "outcome": "HANJIN BRION",
    "slug": "lol-we-bro2-2026-10-04",
-   "shares": 811.4,
-   "cost": 478.72599999999994,
-   "max_shares": 811.4,
-   "last_trade_ts": 1791119330
+   "shares": 1394.85,
+   "cost": 767.3800000098408,
+   "max_shares": 1394.85,
+   "last_trade_ts": 1791119438
   }
  },
  "positions": [],
@@ -51576,8 +51590,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alexander Zverev vs Novak Djokovic",
    "outcome": "Alexander Zverev"
+  },
+  {
+   "at": "2026-10-04T13:15:34.105771+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T11:10:00+00:00",
+   "condition_id": "0x7f93172adf1bce022273dc7afda4239da0e6afcc28b96edee9e6c3287d756720",
+   "asset": "106588378190878646420398492235650591845663369589307296775949054845057517128029",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational Group Stage",
+   "outcome": "HANJIN BRION"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T13:10:30.709121+00:00"
+ "last_updated": "2026-10-04T13:15:34.106390+00:00"
 }
