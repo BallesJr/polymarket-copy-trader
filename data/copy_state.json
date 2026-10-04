@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8763.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791101062,
+  "jtwyslljy": 1791101275,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18905,6 +18905,13 @@
    "SELL",
    315,
    1791101062
+  ],
+  [
+   "0x607753241b0e4a0afb51cfe84c5df35ae2540edc497150b9cfddf7f8d3622d32",
+   "22611189817311267083103103692436630497582742625020295730055335126674569129596",
+   "BUY",
+   3000,
+   1791101275
   ]
  ],
  "leader_pos": {
@@ -31035,10 +31042,10 @@
    "title": "China Open: Alex de Minaur vs Andrey Rublev",
    "outcome": "Andrey Rublev",
    "slug": "atp-minaur-rublev-2026-10-04",
-   "shares": 3000.0,
-   "cost": 2070.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791099451
+   "shares": 6000.0,
+   "cost": 3570.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791101275
   },
   "jtwyslljy|81725009104836294680831995707640124645093840697815481066627330899283362096075": {
    "leader": "jtwyslljy",
@@ -51366,8 +51373,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-04T08:15:34.972048+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T07:10:00+00:00",
+   "condition_id": "0x7ba08fba2c33648f3ed65a5a0de52d23046be0b5600011383ffc0bd054eec731",
+   "asset": "22611189817311267083103103692436630497582742625020295730055335126674569129596",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alex de Minaur vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T08:10:32.852039+00:00"
+ "last_updated": "2026-10-04T08:15:35.175137+00:00"
 }
