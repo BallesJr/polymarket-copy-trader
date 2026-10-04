@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8863.074249199999,
+ "bankroll": 8763.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791094475,
+  "jtwyslljy": 1791099451,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18870,6 +18870,20 @@
    "BUY",
    10404.2,
    1791094475
+  ],
+  [
+   "0x3e32c84cb7744ce35916344dad80d1d9027bf9b0995258b4986cbf42a5f58bbd",
+   "39825736794985416065989725975616295933705627669723119393607232422154437960452",
+   "BUY",
+   7000,
+   1791099301
+  ],
+  [
+   "0xc90077ce4fde422cc0283421777cde9f50f82260ec02db8fd6acc054eb0e07c9",
+   "22611189817311267083103103692436630497582742625020295730055335126674569129596",
+   "BUY",
+   3000,
+   1791099451
   ]
  ],
  "leader_pos": {
@@ -30980,9 +30994,52 @@
    "cost": 5826.352000000001,
    "max_shares": 10404.2,
    "last_trade_ts": 1791094475
+  },
+  "jtwyslljy|39825736794985416065989725975616295933705627669723119393607232422154437960452": {
+   "leader": "jtwyslljy",
+   "asset": "39825736794985416065989725975616295933705627669723119393607232422154437960452",
+   "condition_id": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
+   "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-medvede-cerundo-2026-10-04",
+   "shares": 7000.0,
+   "cost": 2100.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791099301
+  },
+  "jtwyslljy|22611189817311267083103103692436630497582742625020295730055335126674569129596": {
+   "leader": "jtwyslljy",
+   "asset": "22611189817311267083103103692436630497582742625020295730055335126674569129596",
+   "condition_id": "0x7ba08fba2c33648f3ed65a5a0de52d23046be0b5600011383ffc0bd054eec731",
+   "title": "China Open: Alex de Minaur vs Andrey Rublev",
+   "outcome": "Andrey Rublev",
+   "slug": "atp-minaur-rublev-2026-10-04",
+   "shares": 3000.0,
+   "cost": 2070.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791099451
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "39825736794985416065989725975616295933705627669723119393607232422154437960452",
+   "condition_id": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
+   "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-medvede-cerundo-2026-10-04",
+   "opened_at": "2026-10-04T07:40:31.069198+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 2100.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.3,
+   "ask_depth": 1948.24,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -51228,8 +51285,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Ekaterina Alexandrova vs Diana Shnaider",
    "outcome": "Diana Shnaider"
+  },
+  {
+   "at": "2026-10-04T07:40:31.196976+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T07:10:00+00:00",
+   "condition_id": "0x7ba08fba2c33648f3ed65a5a0de52d23046be0b5600011383ffc0bd054eec731",
+   "asset": "22611189817311267083103103692436630497582742625020295730055335126674569129596",
+   "copy_delay_min": 3.0,
+   "cf_ask": 0.74,
+   "cf_shares": 135.1351,
+   "cf_cost": 100.0,
+   "cf_entry": 0.74,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alex de Minaur vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T06:20:29.607614+00:00"
+ "last_updated": "2026-10-04T07:40:31.383524+00:00"
 }
