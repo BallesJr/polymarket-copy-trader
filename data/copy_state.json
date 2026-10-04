@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791114521,
+  "jtwyslljy": 1791117790,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18947,6 +18947,13 @@
    "BUY",
    9800,
    1791114521
+  ],
+  [
+   "0xe2a63b7ffc17d67a3e6b4ee67516f9a04c0a1ab9bb2516b95b3415582f20a4ba",
+   "70729968970784147322810269143468221880791383025790360387493393690221772514554",
+   "BUY",
+   115,
+   1791117790
   ]
  ],
  "leader_pos": {
@@ -31113,10 +31120,10 @@
    "title": "China Open: Sara Bejlek vs Naomi Osaka",
    "outcome": "Sara Bejlek",
    "slug": "wta-bejlek-osaka-2026-10-03",
-   "shares": 9800.0,
-   "cost": 2842.0,
-   "max_shares": 9800.0,
-   "last_trade_ts": 1791114521
+   "shares": 9915.0,
+   "cost": 2848.9,
+   "max_shares": 9915.0,
+   "last_trade_ts": 1791117790
   }
  },
  "positions": [],
@@ -51499,8 +51506,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Sara Bejlek vs Naomi Osaka",
    "outcome": "Sara Bejlek"
+  },
+  {
+   "at": "2026-10-04T12:50:32.479745+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T11:10:00+00:00",
+   "condition_id": "0x13420f878465086d369dd9d43cc92740ba4935094fd2f4cdec6946a20390d200",
+   "asset": "70729968970784147322810269143468221880791383025790360387493393690221772514554",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.023,
+   "cf_shares": 3614.9489,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0277,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "China Open: Sara Bejlek vs Naomi Osaka",
+   "outcome": "Sara Bejlek"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T11:55:26.983848+00:00"
+ "last_updated": "2026-10-04T12:50:32.480396+00:00"
 }
