@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8763.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791100745,
+  "jtwyslljy": 1791101062,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18898,6 +18898,13 @@
    "BUY",
    5000,
    1791100745
+  ],
+  [
+   "0x91e657175bc46a0da4dd7122780e2db77a5f404d912c3df0f9f9b2a0754d1241",
+   "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "SELL",
+   315,
+   1791101062
   ]
  ],
  "leader_pos": {
@@ -31040,10 +31047,10 @@
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
    "outcome": "Valentin Vacherot",
    "slug": "atp-vachero-fils-2026-10-03",
-   "shares": 6741.26,
-   "cost": 3892.5182,
+   "shares": 6426.26,
+   "cost": 3712.9682,
    "max_shares": 6741.26,
-   "last_trade_ts": 1791100745
+   "last_trade_ts": 1791101062
   }
  },
  "positions": [
@@ -51343,8 +51350,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-04T08:10:32.693994+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T07:05:00+00:00",
+   "condition_id": "0x65d12f4d39fe67f8842f2c8e40b6b1325ade916a99bf828af0f135906234006c",
+   "asset": "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T08:00:52.264931+00:00"
+ "last_updated": "2026-10-04T08:10:32.852039+00:00"
 }
