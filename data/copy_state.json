@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791106903,
+  "jtwyslljy": 1791107405,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18926,6 +18926,20 @@
    "SELL",
    7000,
    1791106903
+  ],
+  [
+   "0xa805f1a0ed035ea4ddbd477f2e8852c5cb944bad2a9907d2b477efd321e0e6d9",
+   "81725009104836294680831995707640124645093840697815481066627330899283362096075",
+   "SELL",
+   4999.97,
+   1791107006
+  ],
+  [
+   "0x9512348ac6fca387f083cb4e9a397467216ca2d3f6080fe930e244de139b9f0c",
+   "47476247770875481613814394966331252601286266087098184568314318903784749818405",
+   "BUY",
+   9195.55,
+   1791107405
   ]
  ],
  "leader_pos": {
@@ -31068,10 +31082,22 @@
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
    "outcome": "Valentin Vacherot",
    "slug": "atp-vachero-fils-2026-10-03",
-   "shares": 3426.26,
-   "cost": 2302.9682,
+   "shares": -1573.71,
+   "cost": -2692.0018300000006,
    "max_shares": 6741.26,
-   "last_trade_ts": 1791105694
+   "last_trade_ts": 1791107006
+  },
+  "jtwyslljy|47476247770875481613814394966331252601286266087098184568314318903784749818405": {
+   "leader": "jtwyslljy",
+   "asset": "47476247770875481613814394966331252601286266087098184568314318903784749818405",
+   "condition_id": "0x2f19e812a852cfe4abd4adee0237283667c4cd0eb5f53fb2cb5872dd7d03d21d",
+   "title": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage",
+   "outcome": "Spirit",
+   "slug": "cs2-ts7-prv-2026-10-04",
+   "shares": 9195.55,
+   "cost": 5793.1965,
+   "max_shares": 9195.55,
+   "last_trade_ts": 1791107405
   }
  },
  "positions": [],
@@ -51422,8 +51448,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Valentin Vacherot vs Arthur Fils",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-04T09:55:23.149658+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T09:00:00+00:00",
+   "condition_id": "0x2f19e812a852cfe4abd4adee0237283667c4cd0eb5f53fb2cb5872dd7d03d21d",
+   "asset": "47476247770875481613814394966331252601286266087098184568314318903784749818405",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.61,
+   "cf_shares": 163.9344,
+   "cf_cost": 100.0,
+   "cf_entry": 0.61,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage",
+   "outcome": "Spirit"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T09:50:30.120251+00:00"
+ "last_updated": "2026-10-04T09:55:23.150237+00:00"
 }
