@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791131044,
+  "jtwyslljy": 1791131591,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19122,6 +19122,41 @@
    "BUY",
    630,
    1791131044
+  ],
+  [
+   "0x9ee6839f346367c6ff37a9464e0285cd7640d34d6b2ff3b909a691dff8d8bf78",
+   "112567202904056815411795045586425427255197968135133819546448693913669193175329",
+   "BUY",
+   251.95,
+   1791131494
+  ],
+  [
+   "0xcc4c93e4986392c97353258d99c9436459025269583f56dad530e621cc50fed5",
+   "112567202904056815411795045586425427255197968135133819546448693913669193175329",
+   "BUY",
+   1003.15,
+   1791131533
+  ],
+  [
+   "0xe968ff191680b90be5c187f977025a1d867279017cc94dfe0dcf3f3435e6b682",
+   "112567202904056815411795045586425427255197968135133819546448693913669193175329",
+   "BUY",
+   1999.99,
+   1791131540
+  ],
+  [
+   "0x5e67b9da10d475662d7a3885b4bb48c3bdb1ab4bf30dfb2047e7bf06bf9b786b",
+   "112567202904056815411795045586425427255197968135133819546448693913669193175329",
+   "BUY",
+   2000,
+   1791131575
+  ],
+  [
+   "0x1f0bf79f9d2af81e05ec489f2b64e9c506aa30ee3cb7c71f477c368106bc8c73",
+   "52782460002971481677311914765001504065808776081345401565845539635117091902342",
+   "BUY",
+   1402.42,
+   1791131591
   ]
  ],
  "leader_pos": {
@@ -31384,10 +31419,22 @@
    "title": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "1WIN",
    "slug": "cs2-g2-1win-2026-10-04",
-   "shares": 662.49,
-   "cost": 278.2458,
-   "max_shares": 662.49,
-   "last_trade_ts": 1791130913
+   "shares": 5917.58,
+   "cost": 3346.198,
+   "max_shares": 5917.58,
+   "last_trade_ts": 1791131575
+  },
+  "jtwyslljy|52782460002971481677311914765001504065808776081345401565845539635117091902342": {
+   "leader": "jtwyslljy",
+   "asset": "52782460002971481677311914765001504065808776081345401565845539635117091902342",
+   "condition_id": "0x63b1bfd93c4a068e1cdb09504bddecaf243c7b1625fc0fc7e875b3e61ece32a1",
+   "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "Vitality",
+   "slug": "cs2-vit-navi-2026-10-04",
+   "shares": 1402.42,
+   "cost": 1093.8876,
+   "max_shares": 1402.42,
+   "last_trade_ts": 1791131591
   }
  },
  "positions": [],
@@ -51978,8 +52025,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "G2"
+  },
+  {
+   "at": "2026-10-04T16:40:29.458485+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T16:30:00+00:00",
+   "condition_id": "0x63b1bfd93c4a068e1cdb09504bddecaf243c7b1625fc0fc7e875b3e61ece32a1",
+   "asset": "52782460002971481677311914765001504065808776081345401565845539635117091902342",
+   "copy_delay_min": 7.3,
+   "cf_ask": 0.85,
+   "cf_shares": 117.6471,
+   "cf_cost": 100.0,
+   "cf_entry": 0.85,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "Vitality"
+  },
+  {
+   "at": "2026-10-04T16:40:29.638076+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T14:00:00+00:00",
+   "condition_id": "0xd1de24afb6554d761d19943f2ad7bffe2f11bd1531af68892697c912d85a8360",
+   "asset": "112567202904056815411795045586425427255197968135133819546448693913669193175329",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.65,
+   "cf_shares": 153.8462,
+   "cf_cost": 100.0,
+   "cf_entry": 0.65,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
+   "outcome": "1WIN"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T16:30:46.232121+00:00"
+ "last_updated": "2026-10-04T16:40:29.638694+00:00"
 }
