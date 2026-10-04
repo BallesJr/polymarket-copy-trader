@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791078319,
+  "jtwyslljy": 1791078580,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18772,6 +18772,27 @@
    "BUY",
    1053.81,
    1791078319
+  ],
+  [
+   "0x8989e3ff4e61f2a46a63ee369dbcc39f9f3beb1f3d28d02b599802f8068469e9",
+   "2381751205123403550050101320356673874695459072897156273491548666359290168659",
+   "BUY",
+   457.7,
+   1791078334
+  ],
+  [
+   "0xfa742eb137e5d2d507d4e67fb59011314b941147b27d5fa0a99120a531d1bab6",
+   "2381751205123403550050101320356673874695459072897156273491548666359290168659",
+   "BUY",
+   366,
+   1791078355
+  ],
+  [
+   "0x082c37caae3742c3f171d8c97800dc262927e5654cc1669b0ca05af8937fddd8",
+   "70799360750572544047689306597584467677633257928236698299431846932428240695870",
+   "BUY",
+   6959.5,
+   1791078580
   ]
  ],
  "leader_pos": {
@@ -30794,10 +30815,22 @@
    "title": "Hurricanes vs. Flyers",
    "outcome": "Flyers",
    "slug": "nhl-car-phi-2026-10-03",
-   "shares": 1053.81,
-   "cost": 379.37159999999994,
-   "max_shares": 1053.81,
-   "last_trade_ts": 1791078319
+   "shares": 1877.51,
+   "cost": 644.2035999845999,
+   "max_shares": 1877.51,
+   "last_trade_ts": 1791078355
+  },
+  "jtwyslljy|70799360750572544047689306597584467677633257928236698299431846932428240695870": {
+   "leader": "jtwyslljy",
+   "asset": "70799360750572544047689306597584467677633257928236698299431846932428240695870",
+   "condition_id": "0xf02c2eae533ce63f5ebd8249c1bf1f438b8a15c11df6bfddaa4e8b9667b45d64",
+   "title": "Stars vs. Predators",
+   "outcome": "Predators",
+   "slug": "nhl-dal-nsh-2026-10-03",
+   "shares": 6959.5,
+   "cost": 4802.054999999999,
+   "max_shares": 6959.5,
+   "last_trade_ts": 1791078580
   }
  },
  "positions": [],
@@ -50918,8 +50951,40 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Spirit vs Team Yandex (BO3) - BLAST Slam Seeding Matches",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-10-04T01:55:29.031075+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T00:00:00+00:00",
+   "condition_id": "0xf02c2eae533ce63f5ebd8249c1bf1f438b8a15c11df6bfddaa4e8b9667b45d64",
+   "asset": "70799360750572544047689306597584467677633257928236698299431846932428240695870",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Stars vs. Predators",
+   "outcome": "Predators"
+  },
+  {
+   "at": "2026-10-04T01:55:29.243988+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-03T23:00:00+00:00",
+   "condition_id": "0x4980c60eb85c59c4b52a5c5bbf6cfb128d5fa97ed5c7e74b9cbe446619b01f78",
+   "asset": "2381751205123403550050101320356673874695459072897156273491548666359290168659",
+   "copy_delay_min": 9.6,
+   "cf_ask": 0.001,
+   "cf_shares": 61821.9072,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0016,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Hurricanes vs. Flyers",
+   "outcome": "Flyers"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T01:50:31.279963+00:00"
+ "last_updated": "2026-10-04T01:55:29.244461+00:00"
 }
