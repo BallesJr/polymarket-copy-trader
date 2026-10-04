@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791107405,
+  "jtwyslljy": 1791114521,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18940,6 +18940,13 @@
    "BUY",
    9195.55,
    1791107405
+  ],
+  [
+   "0xb9facd2fcfdc18832e25c7d7d6931468fe4557e7db960991ecd345912469f507",
+   "70729968970784147322810269143468221880791383025790360387493393690221772514554",
+   "BUY",
+   9800,
+   1791114521
   ]
  ],
  "leader_pos": {
@@ -31098,6 +31105,18 @@
    "cost": 5793.1965,
    "max_shares": 9195.55,
    "last_trade_ts": 1791107405
+  },
+  "jtwyslljy|70729968970784147322810269143468221880791383025790360387493393690221772514554": {
+   "leader": "jtwyslljy",
+   "asset": "70729968970784147322810269143468221880791383025790360387493393690221772514554",
+   "condition_id": "0x13420f878465086d369dd9d43cc92740ba4935094fd2f4cdec6946a20390d200",
+   "title": "China Open: Sara Bejlek vs Naomi Osaka",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-bejlek-osaka-2026-10-03",
+   "shares": 9800.0,
+   "cost": 2842.0,
+   "max_shares": 9800.0,
+   "last_trade_ts": 1791114521
   }
  },
  "positions": [],
@@ -51464,8 +51483,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stage",
    "outcome": "Spirit"
+  },
+  {
+   "at": "2026-10-04T11:55:26.983234+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T11:10:00+00:00",
+   "condition_id": "0x13420f878465086d369dd9d43cc92740ba4935094fd2f4cdec6946a20390d200",
+   "asset": "70729968970784147322810269143468221880791383025790360387493393690221772514554",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Sara Bejlek vs Naomi Osaka",
+   "outcome": "Sara Bejlek"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T09:55:23.150237+00:00"
+ "last_updated": "2026-10-04T11:55:26.983848+00:00"
 }
