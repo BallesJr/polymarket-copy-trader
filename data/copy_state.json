@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791088543,
+  "jtwyslljy": 1791093857,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18856,6 +18856,13 @@
    "BUY",
    4418.92,
    1791088543
+  ],
+  [
+   "0x25bfcfe66c3b731d1b0b24fb5da1686096e942222b4648b9450e11d8b541fdb2",
+   "96040977057410504258275136657909313728781036287377664561988141507190801831862",
+   "SELL",
+   4418.92,
+   1791093857
   ]
  ],
  "leader_pos": {
@@ -30950,10 +30957,10 @@
    "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Denis Shapovalov",
    "outcome": "Carlos Alcaraz",
    "slug": "atp-alcaraz-shapova-2026-10-04",
-   "shares": 4418.92,
-   "cost": 2872.2980000000002,
+   "shares": 0.0,
+   "cost": -1542.2030799999998,
    "max_shares": 4418.92,
-   "last_trade_ts": 1791088543
+   "last_trade_ts": 1791093857
   }
  },
  "positions": [],
@@ -51189,5 +51196,5 @@
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T04:45:31.155007+00:00"
+ "last_updated": "2026-10-04T06:10:29.405929+00:00"
 }
