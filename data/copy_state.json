@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791126451,
+  "jtwyslljy": 1791126598,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19052,6 +19052,20 @@
    "BUY",
    6216.09,
    1791126451
+  ],
+  [
+   "0x2af8a314546f2a8759936ab570daa69daf068602d2196991f2434cadf35e6dd8",
+   "14989640499892393230652279129128061254515881318826836990208837181485887480029",
+   "SELL",
+   27000.8,
+   1791126562
+  ],
+  [
+   "0x5e1edc6049aa543f88f6357d32b96005019c7223e93061217f408d3338ef1a34",
+   "32851075674171609236279773954533021794771004581760717082072098641739040572024",
+   "BUY",
+   8858.81,
+   1791126598
   ]
  ],
  "leader_pos": {
@@ -31254,10 +31268,10 @@
    "title": "Colts vs. Commanders",
    "outcome": "Commanders",
    "slug": "nfl-ind-was-2026-10-04",
-   "shares": 27000.8,
-   "cost": 13469.52619995224,
+   "shares": 0.0,
+   "cost": 9149.39819995224,
    "max_shares": 27000.8,
-   "last_trade_ts": 1791124456
+   "last_trade_ts": 1791126562
   },
   "jtwyslljy|95630200868615709506059370121494032635871194341390285235919670120788340162316": {
    "leader": "jtwyslljy",
@@ -31302,10 +31316,10 @@
    "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-samsono-2026-10-03",
-   "shares": 6216.09,
-   "cost": 2859.4014,
-   "max_shares": 6216.09,
-   "last_trade_ts": 1791126451
+   "shares": 15074.9,
+   "cost": 7023.042100000001,
+   "max_shares": 15074.9,
+   "last_trade_ts": 1791126598
   }
  },
  "positions": [],
@@ -51848,8 +51862,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
    "outcome": "Karolina Muchova"
+  },
+  {
+   "at": "2026-10-04T15:15:31.662744+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T14:05:00+00:00",
+   "condition_id": "0x23d7505ff4d75035df4b1bd6e2bb69e315215b9b3d011febd3f0b091dccfd435",
+   "asset": "32851075674171609236279773954533021794771004581760717082072098641739040572024",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.71,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
+   "outcome": "Karolina Muchova"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T15:10:32.256186+00:00"
+ "last_updated": "2026-10-04T15:15:31.663397+00:00"
 }
