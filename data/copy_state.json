@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791086303,
+  "jtwyslljy": 1791086551,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18835,6 +18835,13 @@
    "BUY",
    1400,
    1791086303
+  ],
+  [
+   "0xe7bee47abf74f3ec13aa334fe1fbef1ccc5421a6b2bd1c80c914546830a2230a",
+   "50118363422141804979195317390207873683990869736441101756170750827414705739164",
+   "SELL",
+   9750,
+   1791086551
   ]
  ],
  "leader_pos": {
@@ -30893,10 +30900,10 @@
    "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
    "outcome": "Nikola Bartunkova",
    "slug": "wta-bartunk-sabalen-2026-10-03",
-   "shares": 9750.0,
-   "cost": 2796.0,
+   "shares": 0.0,
+   "cost": -1591.5,
    "max_shares": 9750.0,
-   "last_trade_ts": 1791085489
+   "last_trade_ts": 1791086551
   },
   "jtwyslljy|19877246763896941695982722208084799985080490469095650960314242009113031470143": {
    "leader": "jtwyslljy",
@@ -51112,5 +51119,5 @@
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T04:05:24.817467+00:00"
+ "last_updated": "2026-10-04T04:10:31.123552+00:00"
 }
