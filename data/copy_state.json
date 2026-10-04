@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791122623,
+  "jtwyslljy": 1791123116,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19017,6 +19017,13 @@
    "BUY",
    4285.38,
    1791122623
+  ],
+  [
+   "0x33c61408f33f9336915830b975f5be3670243678ef39cc933aa26dda6387a49f",
+   "91836555787896631270091865212831115908582778390133727628029385770996798580737",
+   "BUY",
+   157.4,
+   1791123116
   ]
  ],
  "leader_pos": {
@@ -31243,10 +31250,10 @@
    "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
    "outcome": "Liudmila Samsonova",
    "slug": "wta-muchova-samsono-2026-10-03",
-   "shares": 4285.38,
-   "cost": 1028.4912,
-   "max_shares": 4285.38,
-   "last_trade_ts": 1791122623
+   "shares": 4442.78,
+   "cost": 1052.1011999999998,
+   "max_shares": 4442.78,
+   "last_trade_ts": 1791123116
   }
  },
  "positions": [],
@@ -51725,8 +51732,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
    "outcome": "Liudmila Samsonova"
+  },
+  {
+   "at": "2026-10-04T14:20:33.314834+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T14:05:00+00:00",
+   "condition_id": "0x23d7505ff4d75035df4b1bd6e2bb69e315215b9b3d011febd3f0b091dccfd435",
+   "asset": "91836555787896631270091865212831115908582778390133727628029385770996798580737",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Liudmila Samsonova",
+   "outcome": "Liudmila Samsonova"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T14:15:32.216916+00:00"
+ "last_updated": "2026-10-04T14:20:33.315287+00:00"
 }
