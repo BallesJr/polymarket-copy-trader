@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791080635,
+  "jtwyslljy": 1791084502,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18800,6 +18800,20 @@
    "BUY",
    20.24,
    1791080635
+  ],
+  [
+   "0x130426f4b56a1e003fed88ecec08e82014db438903b8a31c6addb2793fae66ce",
+   "50118363422141804979195317390207873683990869736441101756170750827414705739164",
+   "BUY",
+   5000,
+   1791084487
+  ],
+  [
+   "0x5e69a3c729a0f72dae3099b31419c5474f0eefba4332042ca8be37daf7b4ae7f",
+   "50118363422141804979195317390207873683990869736441101756170750827414705739164",
+   "BUY",
+   400,
+   1791084502
   ]
  ],
  "leader_pos": {
@@ -30850,6 +30864,18 @@
    "cost": 16.3944,
    "max_shares": 20.24,
    "last_trade_ts": 1791080635
+  },
+  "jtwyslljy|50118363422141804979195317390207873683990869736441101756170750827414705739164": {
+   "leader": "jtwyslljy",
+   "asset": "50118363422141804979195317390207873683990869736441101756170750827414705739164",
+   "condition_id": "0x3ce4db7c483b1514744766b720b96fe5b4c6daca245cb44cf18562cadc4dbff1",
+   "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-bartunk-sabalen-2026-10-03",
+   "shares": 5400.0,
+   "cost": 1404.0,
+   "max_shares": 5400.0,
+   "last_trade_ts": 1791084502
   }
  },
  "positions": [],
@@ -51002,8 +51028,24 @@
    "leader": "jtwyslljy",
    "title": "Hurricanes vs. Flyers",
    "outcome": "Flyers"
+  },
+  {
+   "at": "2026-10-04T03:30:44.286130+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T03:05:00+00:00",
+   "condition_id": "0x3ce4db7c483b1514744766b720b96fe5b4c6daca245cb44cf18562cadc4dbff1",
+   "asset": "50118363422141804979195317390207873683990869736441101756170750827414705739164",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.18,
+   "cf_shares": 549.8358,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1819,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
+   "outcome": "Nikola Bartunkova"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T02:35:26.207530+00:00"
+ "last_updated": "2026-10-04T03:30:44.286694+00:00"
 }
