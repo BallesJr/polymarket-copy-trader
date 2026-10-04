@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8763.074249199999,
+ "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791105694,
+  "jtwyslljy": 1791106903,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18919,6 +18919,13 @@
    "SELL",
    3000,
    1791105694
+  ],
+  [
+   "0x9ec5977f34b0c0921e7e880955ce35cf33b75fdf2831b720435564cebea759db",
+   "39825736794985416065989725975616295933705627669723119393607232422154437960452",
+   "SELL",
+   7000,
+   1791106903
   ]
  ],
  "leader_pos": {
@@ -31037,10 +31044,10 @@
    "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
    "outcome": "Francisco Cerundolo",
    "slug": "atp-medvede-cerundo-2026-10-04",
-   "shares": 7000.0,
-   "cost": 2100.0,
+   "shares": 0.0,
+   "cost": 1260.0,
    "max_shares": 7000.0,
-   "last_trade_ts": 1791099301
+   "last_trade_ts": 1791106903
   },
   "jtwyslljy|22611189817311267083103103692436630497582742625020295730055335126674569129596": {
    "leader": "jtwyslljy",
@@ -31067,26 +31074,7 @@
    "last_trade_ts": 1791105694
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "39825736794985416065989725975616295933705627669723119393607232422154437960452",
-   "condition_id": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
-   "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
-   "outcome": "Francisco Cerundolo",
-   "slug": "atp-medvede-cerundo-2026-10-04",
-   "opened_at": "2026-10-04T07:40:31.069198+00:00",
-   "entry_price": 0.3,
-   "shares": 333.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 2100.0,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.3,
-   "ask_depth": 1948.24,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -41749,6 +41737,28 @@
    "exit_price": 1.0,
    "pnl": 96.0784,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39825736794985416065989725975616295933705627669723119393607232422154437960452",
+   "condition_id": "0xb39b2389e7b04dba062fcbcc3a26fc6b283a7052a82898e712549a292133386e",
+   "title": "China Open: Daniil Medvedev vs Francisco Cerundolo",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-medvede-cerundo-2026-10-04",
+   "opened_at": "2026-10-04T07:40:31.069198+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 2100.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.3,
+   "ask_depth": 1948.24,
+   "status": "closed",
+   "closed_at": "2026-10-04T09:50:30.119683+00:00",
+   "exit_price": 0.11,
+   "pnl": -63.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -51414,6 +51424,6 @@
    "outcome": "Valentin Vacherot"
   }
  ],
- "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T09:25:23.570270+00:00"
+ "total_pnl": -1200.2591999999988,
+ "last_updated": "2026-10-04T09:50:30.120251+00:00"
 }
