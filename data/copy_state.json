@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791086551,
+  "jtwyslljy": 1791087997,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18842,6 +18842,13 @@
    "SELL",
    9750,
    1791086551
+  ],
+  [
+   "0x0b4cb43e37083d392b4b72be56c0c40eed0e9b0fab67d8e6263d832d664c5088",
+   "33627335487010766606493312317052298994032853854179680817764748159221011286051",
+   "BUY",
+   5000,
+   1791087997
   ]
  ],
  "leader_pos": {
@@ -30916,6 +30923,18 @@
    "cost": 1636.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791086303
+  },
+  "jtwyslljy|33627335487010766606493312317052298994032853854179680817764748159221011286051": {
+   "leader": "jtwyslljy",
+   "asset": "33627335487010766606493312317052298994032853854179680817764748159221011286051",
+   "condition_id": "0x3ce4db7c483b1514744766b720b96fe5b4c6daca245cb44cf18562cadc4dbff1",
+   "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
+   "outcome": "Aryna Sabalenka",
+   "slug": "wta-bartunk-sabalen-2026-10-03",
+   "shares": 5000.0,
+   "cost": 1400.0000000000002,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791087997
   }
  },
  "positions": [],
@@ -51116,8 +51135,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Sinja Kraus vs Dayana Yastremska",
    "outcome": "Dayana Yastremska"
+  },
+  {
+   "at": "2026-10-04T04:35:26.297841+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T03:05:00+00:00",
+   "condition_id": "0x3ce4db7c483b1514744766b720b96fe5b4c6daca245cb44cf18562cadc4dbff1",
+   "asset": "33627335487010766606493312317052298994032853854179680817764748159221011286051",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.19,
+   "cf_shares": 516.25,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1937,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
+   "outcome": "Aryna Sabalenka"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T04:10:31.123552+00:00"
+ "last_updated": "2026-10-04T04:35:26.298579+00:00"
 }
