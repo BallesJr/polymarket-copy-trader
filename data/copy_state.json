@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8863.074249199999,
  "last_seen": {
-  "jtwyslljy": 1791093857,
+  "jtwyslljy": 1791094475,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18863,6 +18863,13 @@
    "SELL",
    4418.92,
    1791093857
+  ],
+  [
+   "0x782bf0a5ce9842c48335e4cb56467701beb96180fae0d5e9a832385a8d245290",
+   "21123055715910578357105538500851969323374562279219094701504200564357009836843",
+   "BUY",
+   10404.2,
+   1791094475
   ]
  ],
  "leader_pos": {
@@ -30961,6 +30968,18 @@
    "cost": -1542.2030799999998,
    "max_shares": 4418.92,
    "last_trade_ts": 1791093857
+  },
+  "jtwyslljy|21123055715910578357105538500851969323374562279219094701504200564357009836843": {
+   "leader": "jtwyslljy",
+   "asset": "21123055715910578357105538500851969323374562279219094701504200564357009836843",
+   "condition_id": "0x9c01a9c83b491fcbd93533b23395a1a0b660dac30136a14758dd3e621483f2f7",
+   "title": "China Open: Ekaterina Alexandrova vs Diana Shnaider",
+   "outcome": "Diana Shnaider",
+   "slug": "wta-alexand-shnaide-2026-10-03",
+   "shares": 10404.2,
+   "cost": 5826.352000000001,
+   "max_shares": 10404.2,
+   "last_trade_ts": 1791094475
   }
  },
  "positions": [],
@@ -51193,8 +51212,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Denis Shapovalov",
    "outcome": "Carlos Alcaraz"
+  },
+  {
+   "at": "2026-10-04T06:20:29.606971+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T05:00:00+00:00",
+   "condition_id": "0x9c01a9c83b491fcbd93533b23395a1a0b660dac30136a14758dd3e621483f2f7",
+   "asset": "21123055715910578357105538500851969323374562279219094701504200564357009836843",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Ekaterina Alexandrova vs Diana Shnaider",
+   "outcome": "Diana Shnaider"
   }
  ],
  "total_pnl": -1136.9258999999988,
- "last_updated": "2026-10-04T06:10:29.405929+00:00"
+ "last_updated": "2026-10-04T06:20:29.607614+00:00"
 }
