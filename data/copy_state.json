@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8799.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791117790,
+  "jtwyslljy": 1791118441,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -18954,6 +18954,13 @@
    "BUY",
    115,
    1791117790
+  ],
+  [
+   "0x69665831f6b7424c62fcfdc6cc1aadfd13df8795f4b4c03e3b7152d04e6ba09c",
+   "7230377555444227447311560048634452177287544078047254651414903661938814978600",
+   "BUY",
+   6000,
+   1791118441
   ]
  ],
  "leader_pos": {
@@ -31124,6 +31131,18 @@
    "cost": 2848.9,
    "max_shares": 9915.0,
    "last_trade_ts": 1791117790
+  },
+  "jtwyslljy|7230377555444227447311560048634452177287544078047254651414903661938814978600": {
+   "leader": "jtwyslljy",
+   "asset": "7230377555444227447311560048634452177287544078047254651414903661938814978600",
+   "condition_id": "0x6f6f877fcea81db41b0c433f19f64716c12f23df8edcae623111244c15d9ce10",
+   "title": "China Open: Alexander Zverev vs Novak Djokovic",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-djokovi-2026-10-04",
+   "shares": 6000.0,
+   "cost": 3600.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791118441
   }
  },
  "positions": [],
@@ -51522,8 +51541,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Sara Bejlek vs Naomi Osaka",
    "outcome": "Sara Bejlek"
+  },
+  {
+   "at": "2026-10-04T13:00:57.613784+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-04T11:10:00+00:00",
+   "condition_id": "0x6f6f877fcea81db41b0c433f19f64716c12f23df8edcae623111244c15d9ce10",
+   "asset": "7230377555444227447311560048634452177287544078047254651414903661938814978600",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alexander Zverev vs Novak Djokovic",
+   "outcome": "Alexander Zverev"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-04T12:50:32.480396+00:00"
+ "last_updated": "2026-10-04T13:00:57.614428+00:00"
 }
