@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791212848,
+  "jtwyslljy": 1791213446,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19661,6 +19661,13 @@
    "BUY",
    62.99,
    1791212848
+  ],
+  [
+   "0x1e105648991ac02f035ebecec531e4f60487578561bb6f9abcdd43e3fa3e370f",
+   "51941374251203734864237298786883506727016849029440266446620397701965032026068",
+   "BUY",
+   9518.59,
+   1791213446
   ]
  ],
  "leader_pos": {
@@ -32247,10 +32254,10 @@
    "title": "Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage",
    "outcome": "Spirit",
    "slug": "cs2-ts7-mouz-2026-10-05",
-   "shares": 22500.0,
-   "cost": 7425.0,
-   "max_shares": 22500.0,
-   "last_trade_ts": 1791212771
+   "shares": 32018.59,
+   "cost": 10280.577,
+   "max_shares": 32018.59,
+   "last_trade_ts": 1791213446
   }
  },
  "positions": [],
@@ -53497,8 +53504,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80"
+  },
+  {
+   "at": "2026-10-05T15:25:29.857464+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T14:20:00+00:00",
+   "condition_id": "0xcb5ced6341e2f1defd807d8fab2254a83913868af0b94172d0e23be18ab46475",
+   "asset": "51941374251203734864237298786883506727016849029440266446620397701965032026068",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.16,
+   "cf_shares": 625.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.16,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage",
+   "outcome": "Spirit"
   }
  ],
  "total_pnl": -745.107799999999,
- "last_updated": "2026-10-05T15:10:33.480462+00:00"
+ "last_updated": "2026-10-05T15:25:29.858087+00:00"
 }
