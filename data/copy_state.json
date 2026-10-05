@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9143.422155199998,
  "last_seen": {
-  "jtwyslljy": 1791197941,
+  "jtwyslljy": 1791204437,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19486,6 +19486,13 @@
    "BUY",
    10000,
    1791197941
+  ],
+  [
+   "0xd22752b04db8e540b57058ea96359613485f90a5e6ba35f0021c684f54446920",
+   "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+   "BUY",
+   10000,
+   1791204437
   ]
  ],
  "leader_pos": {
@@ -32012,10 +32019,10 @@
    "title": "China Open: Novak Djokovic vs Daniil Medvedev",
    "outcome": "Daniil Medvedev",
    "slug": "atp-djokovi-medvede-2026-10-05",
-   "shares": 4500.0,
-   "cost": 2565.0,
-   "max_shares": 4500.0,
-   "last_trade_ts": 1791196775
+   "shares": 14500.0,
+   "cost": 5965.0,
+   "max_shares": 14500.0,
+   "last_trade_ts": 1791204437
   }
  },
  "positions": [
@@ -53130,5 +53137,5 @@
   }
  ],
  "total_pnl": -656.577999999999,
- "last_updated": "2026-10-05T11:30:45.792134+00:00"
+ "last_updated": "2026-10-05T12:56:02.823756+00:00"
 }
