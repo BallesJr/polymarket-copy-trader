@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9143.422155199998,
  "last_seen": {
-  "jtwyslljy": 1791207287,
+  "jtwyslljy": 1791209405,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19570,6 +19570,13 @@
    "BUY",
    1605.61,
    1791207287
+  ],
+  [
+   "0x1131550527417ea95a1e2d0b33358676b1b1dadeacc6dc41fcedc1be5337e515",
+   "87247075800351108880666718769924924934156368754958567572024043046344557493336",
+   "BUY",
+   2308.16,
+   1791209405
   ]
  ],
  "leader_pos": {
@@ -32124,6 +32131,18 @@
    "cost": 1179.1780999009409,
    "max_shares": 6599.52,
    "last_trade_ts": 1791206618
+  },
+  "jtwyslljy|87247075800351108880666718769924924934156368754958567572024043046344557493336": {
+   "leader": "jtwyslljy",
+   "asset": "87247075800351108880666718769924924934156368754958567572024043046344557493336",
+   "condition_id": "0xe6823535b676dcc2e3416d69dd8d32faaa374d8b88be7013ed1c321fbb6c49ce",
+   "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+   "outcome": "TYLOO",
+   "slug": "cs2-m80-tyloo-2026-10-05",
+   "shares": 2308.16,
+   "cost": 1154.08,
+   "max_shares": 2308.16,
+   "last_trade_ts": 1791209405
   }
  },
  "positions": [
@@ -53267,8 +53286,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 9z vs Natus Vincere (BO3) - ESL Pro League Group Stage",
    "outcome": "9z"
+  },
+  {
+   "at": "2026-10-05T14:15:33.579376+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T14:00:00+00:00",
+   "condition_id": "0xe6823535b676dcc2e3416d69dd8d32faaa374d8b88be7013ed1c321fbb6c49ce",
+   "asset": "87247075800351108880666718769924924934156368754958567572024043046344557493336",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+   "outcome": "TYLOO"
   }
  ],
  "total_pnl": -656.577999999999,
- "last_updated": "2026-10-05T13:40:34.984937+00:00"
+ "last_updated": "2026-10-05T14:15:34.202324+00:00"
 }
