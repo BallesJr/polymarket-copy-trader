@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791213446,
+  "jtwyslljy": 1791216941,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19668,6 +19668,27 @@
    "BUY",
    9518.59,
    1791213446
+  ],
+  [
+   "0x6fdceccfd2a4aaa7f37fe20cbd9ea92d4c69fef44556116d2393aecbaf893f00",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "BUY",
+   2196.36,
+   1791216929
+  ],
+  [
+   "0x214bb21d9396c66f9f5c76bc0fbb41c17ded4cd8db644741dd168909ce56ef12",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "BUY",
+   894.87,
+   1791216935
+  ],
+  [
+   "0x04797928e7ac164505296e576d13a700b44c2c469efc8af473981b67b69bb566",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "BUY",
+   428.08,
+   1791216941
   ]
  ],
  "leader_pos": {
@@ -32242,10 +32263,10 @@
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80",
    "slug": "cs2-m80-tyloo-2026-10-05",
-   "shares": 9319.310000000001,
-   "cost": 3593.16410003469,
-   "max_shares": 9319.310000000001,
-   "last_trade_ts": 1791212848
+   "shares": 12838.620000000003,
+   "cost": 6089.613500001005,
+   "max_shares": 12838.620000000003,
+   "last_trade_ts": 1791216941
   },
   "jtwyslljy|51941374251203734864237298786883506727016849029440266446620397701965032026068": {
    "leader": "jtwyslljy",
@@ -53520,8 +53541,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Spirit vs MOUZ (BO3) - ESL Pro League Group Stage",
    "outcome": "Spirit"
+  },
+  {
+   "at": "2026-10-05T16:20:35.203284+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T14:00:00+00:00",
+   "condition_id": "0xe6823535b676dcc2e3416d69dd8d32faaa374d8b88be7013ed1c321fbb6c49ce",
+   "asset": "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.78,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+   "outcome": "M80"
   }
  ],
  "total_pnl": -745.107799999999,
- "last_updated": "2026-10-05T15:25:29.858087+00:00"
+ "last_updated": "2026-10-05T16:20:35.204117+00:00"
 }
