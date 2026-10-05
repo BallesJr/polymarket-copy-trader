@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8799.740912199999,
+ "bankroll": 8699.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791167845,
+  "jtwyslljy": 1791169805,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19213,6 +19213,13 @@
    "BUY",
    4528.96,
    1791167845
+  ],
+  [
+   "0x57cadf446b045bc3970f258769b1bc89fc5427e22bed15703bc20dfd32063668",
+   "29616836046084680824179024965245772166988591826066019097871687977199103477358",
+   "BUY",
+   2241.5,
+   1791169805
   ]
  ],
  "leader_pos": {
@@ -31527,9 +31534,40 @@
    "cost": 17082.0962,
    "max_shares": 29890.67,
    "last_trade_ts": 1791167845
+  },
+  "jtwyslljy|29616836046084680824179024965245772166988591826066019097871687977199103477358": {
+   "leader": "jtwyslljy",
+   "asset": "29616836046084680824179024965245772166988591826066019097871687977199103477358",
+   "condition_id": "0x3893a44c9c124d207022258a4ba37571b5f9f75fea370e8cfadcc8c725ff4575",
+   "title": "Bouzkova vs. Zheng: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "shares": 2241.5,
+   "cost": 1053.5049999999999,
+   "max_shares": 2241.5,
+   "last_trade_ts": 1791169805
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "29616836046084680824179024965245772166988591826066019097871687977199103477358",
+   "condition_id": "0x3893a44c9c124d207022258a4ba37571b5f9f75fea370e8cfadcc8c725ff4575",
+   "title": "Bouzkova vs. Zheng: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "opened_at": "2026-10-05T03:15:31.867484+00:00",
+   "entry_price": 0.4802,
+   "shares": 208.2653,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 1053.5,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.48,
+   "ask_depth": 205.0,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -52216,5 +52254,5 @@
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-05T02:40:31.063744+00:00"
+ "last_updated": "2026-10-05T03:15:32.176693+00:00"
 }
