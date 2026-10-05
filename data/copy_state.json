@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8194.477756199998,
  "last_seen": {
-  "jtwyslljy": 1791183115,
+  "jtwyslljy": 1791186479,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19339,6 +19339,20 @@
    "BUY",
    7000,
    1791183115
+  ],
+  [
+   "0x5b2e9a9d5b89bc23087423d00966310cad90b8813ad0bf402cdb4b3e0540d7b6",
+   "93432717892670798441852706739426095913635528201174070983871638188130088027805",
+   "SELL",
+   603.06,
+   1791186251
+  ],
+  [
+   "0x77919015ee27a57e6af68ea6f0de203a3d92c7736d311d6eaa5026babf814fab",
+   "10768201435088652472661506877530154450382986421476318472106106471803105064218",
+   "BUY",
+   7000,
+   1791186479
   ]
  ],
  "leader_pos": {
@@ -31721,10 +31735,10 @@
    "title": "China Open: Belinda Bencic vs Ann Li",
    "outcome": "Ann Li",
    "slug": "wta-bencic-annli-2026-10-03",
-   "shares": 3000.0,
-   "cost": 914.5301999999999,
+   "shares": 2396.94,
+   "cost": 606.9695999999999,
    "max_shares": 3000.0,
-   "last_trade_ts": 1791181210
+   "last_trade_ts": 1791186251
   },
   "jtwyslljy|47532285762788764637522571099039824277021007937087290884468119336915746021873": {
    "leader": "jtwyslljy",
@@ -31785,6 +31799,18 @@
    "cost": 910.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1791183115
+  },
+  "jtwyslljy|10768201435088652472661506877530154450382986421476318472106106471803105064218": {
+   "leader": "jtwyslljy",
+   "asset": "10768201435088652472661506877530154450382986421476318472106106471803105064218",
+   "condition_id": "0xa40d4ad7b71447cb5be11db073157e78ee74ee18e5ba5edb3dc9a85e48b59605",
+   "title": "China Open: Alina Charaeva vs Sonay Kartal",
+   "outcome": "Sonay Kartal",
+   "slug": "wta-charaev-kartal-2026-10-03",
+   "shares": 7000.0,
+   "cost": 2100.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791186479
   }
  },
  "positions": [
@@ -52698,8 +52724,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-05T07:55:24.895153+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T06:45:00+00:00",
+   "condition_id": "0xa40d4ad7b71447cb5be11db073157e78ee74ee18e5ba5edb3dc9a85e48b59605",
+   "asset": "10768201435088652472661506877530154450382986421476318472106106471803105064218",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.25,
+   "cf_shares": 385.7037,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2593,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alina Charaeva vs Sonay Kartal",
+   "outcome": "Sonay Kartal"
   }
  ],
  "total_pnl": -1205.522399999999,
- "last_updated": "2026-10-05T07:00:57.212350+00:00"
+ "last_updated": "2026-10-05T07:55:25.175111+00:00"
 }
