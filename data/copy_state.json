@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8699.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791174989,
+  "jtwyslljy": 1791176722,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19248,6 +19248,13 @@
    "BUY",
    1032.95,
    1791174989
+  ],
+  [
+   "0x1e2d8dd8488d251f83268a86d1a74e64addaced6f0c37b033b6371782efe2b1c",
+   "77995760535679634655557329814591347986988280994826795236804175738415981264796",
+   "BUY",
+   7000,
+   1791176722
   ]
  ],
  "leader_pos": {
@@ -31594,10 +31601,10 @@
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "outcome": "Donna Vekic",
    "slug": "wta-vekic-swiatek-2026-10-04",
-   "shares": 1032.95,
-   "cost": 867.678,
-   "max_shares": 1032.95,
-   "last_trade_ts": 1791174989
+   "shares": 8032.95,
+   "cost": 2127.678,
+   "max_shares": 8032.95,
+   "last_trade_ts": 1791176722
   }
  },
  "positions": [
@@ -52335,8 +52342,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "outcome": "Donna Vekic"
+  },
+  {
+   "at": "2026-10-05T05:10:31.737761+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T03:10:00+00:00",
+   "condition_id": "0x3babe7a2fa49f45ad85af4a516a1ac040956e9f7e0ff938a7d961c85a3fd2681",
+   "asset": "77995760535679634655557329814591347986988280994826795236804175738415981264796",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Donna Vekic vs Iga Swiatek",
+   "outcome": "Donna Vekic"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-05T04:45:31.659835+00:00"
+ "last_updated": "2026-10-05T05:10:32.080685+00:00"
 }
