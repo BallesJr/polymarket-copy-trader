@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9110.088855199998,
+ "bankroll": 9010.088855199998,
  "last_seen": {
-  "jtwyslljy": 1791196153,
+  "jtwyslljy": 1791196808,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19465,6 +19465,20 @@
    "BUY",
    13200,
    1791196153
+  ],
+  [
+   "0xc4285421578e94cc073876354cc39c3b5ef0b3b8cc600fb6a1deeaa491da7c9f",
+   "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+   "BUY",
+   4500,
+   1791196775
+  ],
+  [
+   "0x58a87dab60ffda9176e5db1ebcd8d7b09a5460a059baf31f51378b5ef696bca7",
+   "106171382130830330857962435325237653408741094754427097025770467228593884816441",
+   "BUY",
+   17539.22,
+   1791196808
   ]
  ],
  "leader_pos": {
@@ -31967,10 +31981,10 @@
    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Valentin Vacherot",
    "slug": "atp-lehecka-vachero-2026-10-05",
-   "shares": 4200.0,
-   "cost": 1512.0,
-   "max_shares": 4200.0,
-   "last_trade_ts": 1791195170
+   "shares": 21739.22,
+   "cost": 4493.6674,
+   "max_shares": 21739.22,
+   "last_trade_ts": 1791196808
   },
   "jtwyslljy|14600558202592021221151492362551383068146430259825973814682675879468831500489": {
    "leader": "jtwyslljy",
@@ -31983,6 +31997,18 @@
    "cost": 694.1421,
    "max_shares": 1164.39,
    "last_trade_ts": 1791196016
+  },
+  "jtwyslljy|47879910500497965658923096915912684845675016440226725444460332756503479956559": {
+   "leader": "jtwyslljy",
+   "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+   "condition_id": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
+   "title": "China Open: Novak Djokovic vs Daniil Medvedev",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-djokovi-medvede-2026-10-05",
+   "shares": 4500.0,
+   "cost": 2565.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1791196775
   }
  },
  "positions": [
@@ -32020,6 +32046,24 @@
    "copy_delay_min": 4.4,
    "best_ask": 0.75,
    "ask_depth": 1852.41,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+   "condition_id": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
+   "title": "China Open: Novak Djokovic vs Daniil Medvedev",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-djokovi-medvede-2026-10-05",
+   "opened_at": "2026-10-05T10:45:36.150623+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2565.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.57,
+   "ask_depth": 58452.09,
    "status": "open"
   }
  ],
@@ -53040,8 +53084,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Jelena Ostapenko vs Elise Mertens",
    "outcome": "Jelena Ostapenko"
+  },
+  {
+   "at": "2026-10-05T10:45:36.338705+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T10:15:00+00:00",
+   "condition_id": "0x567b8bd0f88f73bb2bf2b0a7010f05ffc3375b742d894c263028e2a71980029e",
+   "asset": "106171382130830330857962435325237653408741094754427097025770467228593884816441",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.16,
+   "cf_shares": 625.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.16,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -689.911299999999,
- "last_updated": "2026-10-05T10:35:24.229097+00:00"
+ "last_updated": "2026-10-05T10:45:36.701879+00:00"
 }
