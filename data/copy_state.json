@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8966.845596199997,
  "last_seen": {
-  "jtwyslljy": 1791193048,
+  "jtwyslljy": 1791195064,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19402,6 +19402,13 @@
    "BUY",
    2000,
    1791193048
+  ],
+  [
+   "0x1fea819317237c3e590291520a9adb3e8ff1ce4a2654530f97b289338dd65767",
+   "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "BUY",
+   10000,
+   1791195064
   ]
  ],
  "leader_pos": {
@@ -31884,6 +31891,18 @@
    "cost": 3300.0000000000005,
    "max_shares": 6000.0,
    "last_trade_ts": 1791188696
+  },
+  "jtwyslljy|74689421147493078313620656086541766962899062791201980063614114511007471286491": {
+   "leader": "jtwyslljy",
+   "asset": "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "condition_id": "0x5c10d31a9cf5d49800fe4f733f4351b40a2e34692568ead9c520d9ababd8ab2b",
+   "title": "China Open: Alex de Minaur vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-minaur-hurkacz-2026-10-05",
+   "shares": 10000.0,
+   "cost": 1800.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791195064
   }
  },
  "positions": [
@@ -52857,8 +52876,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Belinda Bencic vs Ann Li",
    "outcome": "Belinda Bencic"
+  },
+  {
+   "at": "2026-10-05T10:15:35.675449+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T09:25:00+00:00",
+   "condition_id": "0x5c10d31a9cf5d49800fe4f733f4351b40a2e34692568ead9c520d9ababd8ab2b",
+   "asset": "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.21,
+   "cf_shares": 455.4545,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2196,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alex de Minaur vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -733.1545999999989,
- "last_updated": "2026-10-05T09:41:11.399471+00:00"
+ "last_updated": "2026-10-05T10:15:36.113526+00:00"
 }
