@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791211637,
+  "jtwyslljy": 1791211867,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19633,6 +19633,20 @@
    "BUY",
    1253.88,
    1791211637
+  ],
+  [
+   "0x31dcc2e73f2d13652c1f8a85cbe501a564b31e3fa9a2d80f94b32782cee27534",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "BUY",
+   1980.82,
+   1791211850
+  ],
+  [
+   "0x785a9e45ebfd37131ef8ee27db27275f770b938e6259776628c32379103c9fff",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "BUY",
+   201.15,
+   1791211867
   ]
  ],
  "leader_pos": {
@@ -32207,10 +32221,10 @@
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80",
    "slug": "cs2-m80-tyloo-2026-10-05",
-   "shares": 7074.350000000001,
-   "cost": 2868.86420003469,
-   "max_shares": 7074.350000000001,
-   "last_trade_ts": 1791211637
+   "shares": 9256.320000000002,
+   "cost": 3571.11760003469,
+   "max_shares": 9256.320000000002,
+   "last_trade_ts": 1791211867
   }
  },
  "positions": [],
@@ -53409,8 +53423,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80"
+  },
+  {
+   "at": "2026-10-05T15:01:02.937212+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T14:00:00+00:00",
+   "condition_id": "0xe6823535b676dcc2e3416d69dd8d32faaa374d8b88be7013ed1c321fbb6c49ce",
+   "asset": "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "copy_delay_min": 9.9,
+   "cf_ask": 0.35,
+   "cf_shares": 285.7143,
+   "cf_cost": 100.0,
+   "cf_entry": 0.35,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
+   "outcome": "M80"
   }
  ],
  "total_pnl": -745.107799999999,
- "last_updated": "2026-10-05T14:55:24.916717+00:00"
+ "last_updated": "2026-10-05T15:01:02.938214+00:00"
 }
