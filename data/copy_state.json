@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8694.477756199998,
+ "bankroll": 8294.477756199998,
  "last_seen": {
-  "jtwyslljy": 1791179752,
+  "jtwyslljy": 1791181276,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19276,6 +19276,41 @@
    "SELL",
    14446.41,
    1791179752
+  ],
+  [
+   "0x0d6377cecc92fb5bc688031174b1616377e41c7548a656784a4880ba78d5aeb1",
+   "76779343980486848822005767145837282685481500648224582735477413643491451152831",
+   "BUY",
+   4733.8,
+   1791181163
+  ],
+  [
+   "0x23937ae32d08bf396a6d05a61b72eebc000a429881a3279a2edb6c7fa3b80765",
+   "93432717892670798441852706739426095913635528201174070983871638188130088027805",
+   "BUY",
+   3000,
+   1791181210
+  ],
+  [
+   "0x046e19b678b159eae08a0a58db08918ba213e2c0d48b2fa12188a4c2a382b031",
+   "47532285762788764637522571099039824277021007937087290884468119336915746021873",
+   "BUY",
+   5000,
+   1791181238
+  ],
+  [
+   "0x8344c91d82e21892dc613d054b7dd78b36fe88b285f2c4f2b37ee784fb35a7d9",
+   "43251830099794326343672750328062481557368023837862665351298848642141673714849",
+   "BUY",
+   2300,
+   1791181259
+  ],
+  [
+   "0x2cb2b01c2239790e3946a958a95342da846d46009adfe6cb5e360a65744699e0",
+   "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "BUY",
+   16968.97,
+   1791181276
   ]
  ],
  "leader_pos": {
@@ -31638,6 +31673,66 @@
    "cost": 1116.538100319367,
    "max_shares": 17022.63,
    "last_trade_ts": 1791179752
+  },
+  "jtwyslljy|76779343980486848822005767145837282685481500648224582735477413643491451152831": {
+   "leader": "jtwyslljy",
+   "asset": "76779343980486848822005767145837282685481500648224582735477413643491451152831",
+   "condition_id": "0xa40d4ad7b71447cb5be11db073157e78ee74ee18e5ba5edb3dc9a85e48b59605",
+   "title": "China Open: Alina Charaeva vs Sonay Kartal",
+   "outcome": "Alina Charaeva",
+   "slug": "wta-charaev-kartal-2026-10-03",
+   "shares": 4733.8,
+   "cost": 1798.844,
+   "max_shares": 4733.8,
+   "last_trade_ts": 1791181163
+  },
+  "jtwyslljy|93432717892670798441852706739426095913635528201174070983871638188130088027805": {
+   "leader": "jtwyslljy",
+   "asset": "93432717892670798441852706739426095913635528201174070983871638188130088027805",
+   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
+   "title": "China Open: Belinda Bencic vs Ann Li",
+   "outcome": "Ann Li",
+   "slug": "wta-bencic-annli-2026-10-03",
+   "shares": 3000.0,
+   "cost": 914.5301999999999,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791181210
+  },
+  "jtwyslljy|47532285762788764637522571099039824277021007937087290884468119336915746021873": {
+   "leader": "jtwyslljy",
+   "asset": "47532285762788764637522571099039824277021007937087290884468119336915746021873",
+   "condition_id": "0x3fbb649ee901173ee6752fbbe3ccda78e4800a4cab4fcab5a675bd41d661981b",
+   "title": "China Open: Jelena Ostapenko vs Elise Mertens",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-ostapen-mertens-2026-10-04",
+   "shares": 5000.0,
+   "cost": 1850.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791181238
+  },
+  "jtwyslljy|43251830099794326343672750328062481557368023837862665351298848642141673714849": {
+   "leader": "jtwyslljy",
+   "asset": "43251830099794326343672750328062481557368023837862665351298848642141673714849",
+   "condition_id": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
+   "title": "China Open: Maria Sakkari vs Elina Svitolina",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-sakkari-svitoli-2026-10-04",
+   "shares": 2300.0,
+   "cost": 1725.0,
+   "max_shares": 2300.0,
+   "last_trade_ts": 1791181259
+  },
+  "jtwyslljy|55852267537452682809250510208824983366803969674775004740014639476903289634330": {
+   "leader": "jtwyslljy",
+   "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "condition_id": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
+   "title": "China Open: Coco Gauff vs Xinran Sun",
+   "outcome": "Xinran Sun",
+   "slug": "wta-gauff-su-2026-10-04",
+   "shares": 16968.97,
+   "cost": 1187.8279000000002,
+   "max_shares": 16968.97,
+   "last_trade_ts": 1791181276
   }
  },
  "positions": [
@@ -31657,6 +31752,78 @@
    "copy_delay_min": 5.4,
    "best_ask": 0.48,
    "ask_depth": 205.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "condition_id": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
+   "title": "China Open: Coco Gauff vs Xinran Sun",
+   "outcome": "Xinran Sun",
+   "slug": "wta-gauff-su-2026-10-04",
+   "opened_at": "2026-10-05T06:25:27.032388+00:00",
+   "entry_price": 0.07,
+   "shares": 1428.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.07,
+   "leader_cost": 1187.83,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.07,
+   "ask_depth": 5079.02,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93432717892670798441852706739426095913635528201174070983871638188130088027805",
+   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
+   "title": "China Open: Belinda Bencic vs Ann Li",
+   "outcome": "Ann Li",
+   "slug": "wta-bencic-annli-2026-10-03",
+   "opened_at": "2026-10-05T06:25:27.323524+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3048,
+   "leader_cost": 914.53,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.3,
+   "ask_depth": 764.05,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43251830099794326343672750328062481557368023837862665351298848642141673714849",
+   "condition_id": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
+   "title": "China Open: Maria Sakkari vs Elina Svitolina",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-sakkari-svitoli-2026-10-04",
+   "opened_at": "2026-10-05T06:25:27.518927+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 1725.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.75,
+   "ask_depth": 1852.41,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47532285762788764637522571099039824277021007937087290884468119336915746021873",
+   "condition_id": "0x3fbb649ee901173ee6752fbbe3ccda78e4800a4cab4fcab5a675bd41d661981b",
+   "title": "China Open: Jelena Ostapenko vs Elise Mertens",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-ostapen-mertens-2026-10-04",
+   "opened_at": "2026-10-05T06:25:27.732065+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 1850.0,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.37,
+   "ask_depth": 3172.83,
    "status": "open"
   }
  ],
@@ -52429,8 +52596,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "outcome": "Donna Vekic"
+  },
+  {
+   "at": "2026-10-05T06:25:26.804040+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T06:15:00+00:00",
+   "condition_id": "0xa40d4ad7b71447cb5be11db073157e78ee74ee18e5ba5edb3dc9a85e48b59605",
+   "asset": "76779343980486848822005767145837282685481500648224582735477413643491451152831",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.37,
+   "cf_shares": 269.5339,
+   "cf_cost": 100.0,
+   "cf_entry": 0.371,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alina Charaeva vs Sonay Kartal",
+   "outcome": "Alina Charaeva"
   }
  ],
  "total_pnl": -1205.522399999999,
- "last_updated": "2026-10-05T06:00:56.573351+00:00"
+ "last_updated": "2026-10-05T06:25:28.155457+00:00"
 }
