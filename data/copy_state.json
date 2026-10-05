@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9110.088855199998,
  "last_seen": {
-  "jtwyslljy": 1791196016,
+  "jtwyslljy": 1791196153,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19458,6 +19458,13 @@
    "BUY",
    715.2,
    1791196016
+  ],
+  [
+   "0x3a9a45bca1ff09a0644b40a980fd9d15c76b03ee36159f74989f95db3af81d0e",
+   "47532285762788764637522571099039824277021007937087290884468119336915746021873",
+   "BUY",
+   13200,
+   1791196153
   ]
  ],
  "leader_pos": {
@@ -31852,10 +31859,10 @@
    "title": "China Open: Jelena Ostapenko vs Elise Mertens",
    "outcome": "Jelena Ostapenko",
    "slug": "wta-ostapen-mertens-2026-10-04",
-   "shares": 0.0,
-   "cost": -1030.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1791195230
+   "shares": 13200.0,
+   "cost": 7260.000000000001,
+   "max_shares": 13200.0,
+   "last_trade_ts": 1791196153
   },
   "jtwyslljy|43251830099794326343672750328062481557368023837862665351298848642141673714849": {
    "leader": "jtwyslljy",
@@ -53017,8 +53024,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - ESL Pro League Group Stage",
    "outcome": "FURIA"
+  },
+  {
+   "at": "2026-10-05T10:35:24.052112+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T08:35:00+00:00",
+   "condition_id": "0x3fbb649ee901173ee6752fbbe3ccda78e4800a4cab4fcab5a675bd41d661981b",
+   "asset": "47532285762788764637522571099039824277021007937087290884468119336915746021873",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Jelena Ostapenko vs Elise Mertens",
+   "outcome": "Jelena Ostapenko"
   }
  ],
  "total_pnl": -689.911299999999,
- "last_updated": "2026-10-05T10:30:46.984083+00:00"
+ "last_updated": "2026-10-05T10:35:24.229097+00:00"
 }
