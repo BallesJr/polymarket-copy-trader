@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9254.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791210436,
+  "jtwyslljy": 1791210713,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19584,6 +19584,13 @@
    "SELL",
    20000,
    1791210436
+  ],
+  [
+   "0xc31d3ea21ade9f1248f753ab911ddd2422b00f41154a6cec57deb9f1253e58dd",
+   "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "BUY",
+   27634.4,
+   1791210713
   ]
  ],
  "leader_pos": {
@@ -32002,10 +32009,10 @@
    "title": "China Open: Coco Gauff vs Xinran Sun",
    "outcome": "Xinran Sun",
    "slug": "wta-gauff-su-2026-10-04",
-   "shares": -3031.029999999999,
-   "cost": 187.82790000000023,
-   "max_shares": 16968.97,
-   "last_trade_ts": 1791210436
+   "shares": 27634.4,
+   "cost": 3316.128,
+   "max_shares": 27634.4,
+   "last_trade_ts": 1791210713
   },
   "jtwyslljy|25822638436038792059472333783805260253823328163532834899839340072498034552851": {
    "leader": "jtwyslljy",
@@ -53313,8 +53320,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "TYLOO"
+  },
+  {
+   "at": "2026-10-05T14:40:33.966469+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T14:05:00+00:00",
+   "condition_id": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
+   "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "copy_delay_min": 8.7,
+   "cf_ask": 0.13,
+   "cf_shares": 769.2308,
+   "cf_cost": 100.0,
+   "cf_entry": 0.13,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Coco Gauff vs Xinran Sun",
+   "outcome": "Xinran Sun"
   }
  ],
  "total_pnl": -645.107799999999,
- "last_updated": "2026-10-05T14:30:46.351280+00:00"
+ "last_updated": "2026-10-05T14:40:34.435787+00:00"
 }
