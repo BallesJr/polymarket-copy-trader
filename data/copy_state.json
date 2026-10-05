@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8194.477756199998,
+ "bankroll": 8633.512296199997,
  "last_seen": {
-  "jtwyslljy": 1791187679,
+  "jtwyslljy": 1791188696,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19374,6 +19374,27 @@
    "BUY",
    2220,
    1791187679
+  ],
+  [
+   "0x8753bb4c383224c2a0fb58733260da8bb71699d51da1cd5d54921c7eb08780bb",
+   "60344005665203454887330009570516504814804189166047150459354920061834416075023",
+   "BUY",
+   6000,
+   1791188498
+  ],
+  [
+   "0x82861d7c3f1b52332f4899f8c10f334bc4cc13cc87e2ee0d22ddfd70b4417326",
+   "74619767299487421214762809935501187377012527137281528651390157927590907868316",
+   "SELL",
+   7000,
+   1791188636
+  ],
+  [
+   "0x097b70b50fecc31e50198ecf814244200cde2ae9f77958f217b79b1d344b42a8",
+   "17888197494456139736361493895108429590665859419032077660147741572216675185523",
+   "BUY",
+   6000,
+   1791188696
   ]
  ],
  "leader_pos": {
@@ -31816,10 +31837,10 @@
    "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
    "outcome": "Jaume Munar",
    "slug": "atp-alcaraz-munar-2026-10-05",
-   "shares": 7000.0,
-   "cost": 910.0,
+   "shares": 0.0,
+   "cost": -2240.0,
    "max_shares": 7000.0,
-   "last_trade_ts": 1791183115
+   "last_trade_ts": 1791188636
   },
   "jtwyslljy|10768201435088652472661506877530154450382986421476318472106106471803105064218": {
    "leader": "jtwyslljy",
@@ -31832,27 +31853,33 @@
    "cost": 2100.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1791186479
+  },
+  "jtwyslljy|60344005665203454887330009570516504814804189166047150459354920061834416075023": {
+   "leader": "jtwyslljy",
+   "asset": "60344005665203454887330009570516504814804189166047150459354920061834416075023",
+   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
+   "title": "China Open: Belinda Bencic vs Ann Li",
+   "outcome": "Belinda Bencic",
+   "slug": "wta-bencic-annli-2026-10-03",
+   "shares": 6000.0,
+   "cost": 1980.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791188498
+  },
+  "jtwyslljy|17888197494456139736361493895108429590665859419032077660147741572216675185523": {
+   "leader": "jtwyslljy",
+   "asset": "17888197494456139736361493895108429590665859419032077660147741572216675185523",
+   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-alcaraz-munar-2026-10-05",
+   "shares": 6000.0,
+   "cost": 3300.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791188696
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "29616836046084680824179024965245772166988591826066019097871687977199103477358",
-   "condition_id": "0x3893a44c9c124d207022258a4ba37571b5f9f75fea370e8cfadcc8c725ff4575",
-   "title": "Bouzkova vs. Zheng: Match O/U 22.5",
-   "outcome": "Over",
-   "slug": "wta-bouzkov-zhen-2026-10-04",
-   "opened_at": "2026-10-05T03:15:31.867484+00:00",
-   "entry_price": 0.4802,
-   "shares": 208.2653,
-   "stake": 100.0,
-   "leader_vwap": 0.47,
-   "leader_cost": 1053.5,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.48,
-   "ask_depth": 205.0,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
@@ -31923,24 +31950,6 @@
    "copy_delay_min": 4.8,
    "best_ask": 0.37,
    "ask_depth": 3172.83,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "74619767299487421214762809935501187377012527137281528651390157927590907868316",
-   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
-   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
-   "outcome": "Jaume Munar",
-   "slug": "atp-alcaraz-munar-2026-10-05",
-   "opened_at": "2026-10-05T07:00:56.791488+00:00",
-   "entry_price": 0.13,
-   "shares": 769.2308,
-   "stake": 100.0,
-   "leader_vwap": 0.13,
-   "leader_cost": 910.0,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.13,
-   "ask_depth": 14028.31,
    "status": "open"
   }
  ],
@@ -42650,6 +42659,50 @@
    "exit_price": 0.36,
    "pnl": -5.2632,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74619767299487421214762809935501187377012527137281528651390157927590907868316",
+   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+   "outcome": "Jaume Munar",
+   "slug": "atp-alcaraz-munar-2026-10-05",
+   "opened_at": "2026-10-05T07:00:56.791488+00:00",
+   "entry_price": 0.13,
+   "shares": 769.2308,
+   "stake": 100.0,
+   "leader_vwap": 0.13,
+   "leader_cost": 910.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.13,
+   "ask_depth": 14028.31,
+   "status": "closed",
+   "closed_at": "2026-10-05T08:30:44.772483+00:00",
+   "exit_price": 0.3,
+   "pnl": 130.7692,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "29616836046084680824179024965245772166988591826066019097871687977199103477358",
+   "condition_id": "0x3893a44c9c124d207022258a4ba37571b5f9f75fea370e8cfadcc8c725ff4575",
+   "title": "Bouzkova vs. Zheng: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "opened_at": "2026-10-05T03:15:31.867484+00:00",
+   "entry_price": 0.4802,
+   "shares": 208.2653,
+   "stake": 100.0,
+   "leader_vwap": 0.47,
+   "leader_cost": 1053.5,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.48,
+   "ask_depth": 205.0,
+   "status": "won",
+   "closed_at": "2026-10-05T08:30:45.508409+00:00",
+   "exit_price": 1.0,
+   "pnl": 108.2653,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -52761,8 +52814,40 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alina Charaeva vs Sonay Kartal",
    "outcome": "Sonay Kartal"
+  },
+  {
+   "at": "2026-10-05T08:30:44.900399+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T07:25:00+00:00",
+   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
+   "asset": "17888197494456139736361493895108429590665859419032077660147741572216675185523",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.7,
+   "cf_shares": 142.8571,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+   "outcome": "Carlos Alcaraz"
+  },
+  {
+   "at": "2026-10-05T08:30:45.021151+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T07:35:00+00:00",
+   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
+   "asset": "60344005665203454887330009570516504814804189166047150459354920061834416075023",
+   "copy_delay_min": 9.1,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Belinda Bencic vs Ann Li",
+   "outcome": "Belinda Bencic"
   }
  ],
- "total_pnl": -1205.522399999999,
- "last_updated": "2026-10-05T08:10:29.572075+00:00"
+ "total_pnl": -966.487899999999,
+ "last_updated": "2026-10-05T08:30:45.510315+00:00"
 }
