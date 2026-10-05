@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9154.892353199999,
+ "bankroll": 9246.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791219124,
+  "jtwyslljy": 1791220382,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19696,6 +19696,27 @@
    "BUY",
    8000,
    1791219124
+  ],
+  [
+   "0xb136cac0c95c5ac5ee419515d8022bcbb61c77a0bd74110aa7fc9ef8f32e9b98",
+   "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "SELL",
+   8000,
+   1791220304
+  ],
+  [
+   "0xd0e02868181b02c5e97d15fbe0f3622653e04a3de78bcd915825a3875eb7e07c",
+   "30817640378539588100084644830522983275684876983384215391431944204499085034335",
+   "BUY",
+   15000,
+   1791220330
+  ],
+  [
+   "0x7b5b4a032c4aa53235b33dcff99e84f3ef917027e3f5edf540c5c241b3958910",
+   "88754296577875419138697491690309990231924607955520407868267908557432592727298",
+   "SELL",
+   10719.74,
+   1791220382
   ]
  ],
  "leader_pos": {
@@ -32270,10 +32291,10 @@
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80",
    "slug": "cs2-m80-tyloo-2026-10-05",
-   "shares": 12838.620000000003,
-   "cost": 6089.613500001005,
+   "shares": 2118.880000000003,
+   "cost": -4619.406759998994,
    "max_shares": 12838.620000000003,
-   "last_trade_ts": 1791216941
+   "last_trade_ts": 1791220382
   },
   "jtwyslljy|51941374251203734864237298786883506727016849029440266446620397701965032026068": {
    "leader": "jtwyslljy",
@@ -32294,32 +32315,25 @@
    "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "BetBoom Team",
    "slug": "cs2-aur1-bb3-2026-10-05",
-   "shares": 8000.0,
-   "cost": 2880.0,
+   "shares": 0.0,
+   "cost": 80.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1791219124
-  }
- },
- "positions": [
-  {
+   "last_trade_ts": 1791220304
+  },
+  "jtwyslljy|30817640378539588100084644830522983275684876983384215391431944204499085034335": {
    "leader": "jtwyslljy",
-   "asset": "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "asset": "30817640378539588100084644830522983275684876983384215391431944204499085034335",
    "condition_id": "0xfa9a81d8ed7204a9b1a8ef58c54cbb52638345d8e9d5de00ed4f8de6916d2b46",
    "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
-   "outcome": "BetBoom Team",
+   "outcome": "Aurora Gaming",
    "slug": "cs2-aur1-bb3-2026-10-05",
-   "opened_at": "2026-10-05T16:55:26.645119+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 2880.0,
-   "copy_delay_min": 3.4,
-   "best_ask": 0.36,
-   "ask_depth": 170240.78,
-   "status": "open"
+   "shares": 15000.0,
+   "cost": 9750.0,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1791220330
   }
- ],
+ },
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -43180,6 +43194,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "condition_id": "0xfa9a81d8ed7204a9b1a8ef58c54cbb52638345d8e9d5de00ed4f8de6916d2b46",
+   "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-aur1-bb3-2026-10-05",
+   "opened_at": "2026-10-05T16:55:26.645119+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2880.0,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.36,
+   "ask_depth": 170240.78,
+   "status": "closed",
+   "closed_at": "2026-10-05T17:15:33.772268+00:00",
+   "exit_price": 0.33,
+   "pnl": -8.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -53595,8 +53631,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: M80 vs TYLOO (BO3) - ESL Pro League Group Stage",
    "outcome": "M80"
+  },
+  {
+   "at": "2026-10-05T17:15:34.004104+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T17:15:00+00:00",
+   "condition_id": "0xfa9a81d8ed7204a9b1a8ef58c54cbb52638345d8e9d5de00ed4f8de6916d2b46",
+   "asset": "30817640378539588100084644830522983275684876983384215391431944204499085034335",
+   "copy_delay_min": 3.4,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+   "outcome": "Aurora Gaming"
   }
  ],
- "total_pnl": -745.107799999999,
- "last_updated": "2026-10-05T16:55:26.867053+00:00"
+ "total_pnl": -753.441099999999,
+ "last_updated": "2026-10-05T17:15:34.004853+00:00"
 }
