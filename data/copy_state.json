@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9110.088855199998,
  "last_seen": {
-  "jtwyslljy": 1791195230,
+  "jtwyslljy": 1791196016,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19430,6 +19430,34 @@
    "SELL",
    2000,
    1791195230
+  ],
+  [
+   "0x00470ac22c43e19e42a2ba3e6a98fcd16956fadc188c6ca1302f95d4607cae04",
+   "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "BUY",
+   8000,
+   1791195883
+  ],
+  [
+   "0xd08b48006cb1e3928ae25f72ae863c94beaa47e5ca4ab59ec87c3bca3f441caa",
+   "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "BUY",
+   5000,
+   1791195890
+  ],
+  [
+   "0x3c8db6b20d279dab93e1426a0e78d26470430cd164f5d1e338ac462075ab809a",
+   "14600558202592021221151492362551383068146430259825973814682675879468831500489",
+   "BUY",
+   449.19,
+   1791196001
+  ],
+  [
+   "0x1b1a4ad7babb4f94df5ba1f93dc4c829385f67ad7c9bc51a23510b66dd58ccd4",
+   "14600558202592021221151492362551383068146430259825973814682675879468831500489",
+   "BUY",
+   715.2,
+   1791196016
   ]
  ],
  "leader_pos": {
@@ -31920,10 +31948,10 @@
    "title": "China Open: Alex de Minaur vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz",
    "slug": "atp-minaur-hurkacz-2026-10-05",
-   "shares": 10000.0,
-   "cost": 1800.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1791195064
+   "shares": 23000.0,
+   "cost": 2530.0,
+   "max_shares": 23000.0,
+   "last_trade_ts": 1791195890
   },
   "jtwyslljy|106171382130830330857962435325237653408741094754427097025770467228593884816441": {
    "leader": "jtwyslljy",
@@ -31936,6 +31964,18 @@
    "cost": 1512.0,
    "max_shares": 4200.0,
    "last_trade_ts": 1791195170
+  },
+  "jtwyslljy|14600558202592021221151492362551383068146430259825973814682675879468831500489": {
+   "leader": "jtwyslljy",
+   "asset": "14600558202592021221151492362551383068146430259825973814682675879468831500489",
+   "condition_id": "0xe2d6acbaac0253adeca1ee7518478bb5eef1d4e04934e164feb1f2a38a48fec8",
+   "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - ESL Pro League Group Stage",
+   "outcome": "FURIA",
+   "slug": "cs2-prv-furia-2026-10-05",
+   "shares": 1164.39,
+   "cost": 694.1421,
+   "max_shares": 1164.39,
+   "last_trade_ts": 1791196016
   }
  },
  "positions": [
@@ -52945,8 +52985,40 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-05T10:30:46.611263+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T09:25:00+00:00",
+   "condition_id": "0x5c10d31a9cf5d49800fe4f733f4351b40a2e34692568ead9c520d9ababd8ab2b",
+   "asset": "74689421147493078313620656086541766962899062791201980063614114511007471286491",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.045,
+   "cf_shares": 1911.5509,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0523,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Alex de Minaur vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-10-05T10:30:46.730403+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T09:00:00+00:00",
+   "condition_id": "0xe2d6acbaac0253adeca1ee7518478bb5eef1d4e04934e164feb1f2a38a48fec8",
+   "asset": "14600558202592021221151492362551383068146430259825973814682675879468831500489",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs FURIA (BO3) - ESL Pro League Group Stage",
+   "outcome": "FURIA"
   }
  ],
  "total_pnl": -689.911299999999,
- "last_updated": "2026-10-05T10:20:30.939157+00:00"
+ "last_updated": "2026-10-05T10:30:46.984083+00:00"
 }
