@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8699.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791169805,
+  "jtwyslljy": 1791173090,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19220,6 +19220,13 @@
    "BUY",
    2241.5,
    1791169805
+  ],
+  [
+   "0x4bd566ea60ed40df84c43930728d0c3a172a21f2abe4ae63f562301ca30984fa",
+   "110173681482818228599323544790004845379557240003837105488521907746555838295092",
+   "BUY",
+   10105.77,
+   1791173090
   ]
  ],
  "leader_pos": {
@@ -31546,6 +31553,18 @@
    "cost": 1053.5049999999999,
    "max_shares": 2241.5,
    "last_trade_ts": 1791169805
+  },
+  "jtwyslljy|110173681482818228599323544790004845379557240003837105488521907746555838295092": {
+   "leader": "jtwyslljy",
+   "asset": "110173681482818228599323544790004845379557240003837105488521907746555838295092",
+   "condition_id": "0x3babe7a2fa49f45ad85af4a516a1ac040956e9f7e0ff938a7d961c85a3fd2681",
+   "title": "China Open: Donna Vekic vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-vekic-swiatek-2026-10-04",
+   "shares": 10105.77,
+   "cost": 5962.4043,
+   "max_shares": 10105.77,
+   "last_trade_ts": 1791173090
   }
  },
  "positions": [
@@ -52251,8 +52270,24 @@
    "leader": "jtwyslljy",
    "title": "Lions vs. Panthers",
    "outcome": "Panthers"
+  },
+  {
+   "at": "2026-10-05T04:10:32.134394+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T03:10:00+00:00",
+   "condition_id": "0x3babe7a2fa49f45ad85af4a516a1ac040956e9f7e0ff938a7d961c85a3fd2681",
+   "asset": "110173681482818228599323544790004845379557240003837105488521907746555838295092",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.45,
+   "cf_shares": 222.2222,
+   "cf_cost": 100.0,
+   "cf_entry": 0.45,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Donna Vekic vs Iga Swiatek",
+   "outcome": "Iga Swiatek"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-05T03:15:32.176693+00:00"
+ "last_updated": "2026-10-05T04:10:32.422748+00:00"
 }
