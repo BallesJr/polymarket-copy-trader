@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8294.477756199998,
+ "bankroll": 8194.477756199998,
  "last_seen": {
-  "jtwyslljy": 1791182804,
+  "jtwyslljy": 1791183115,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19332,6 +19332,13 @@
    "SELL",
    2078.94,
    1791182804
+  ],
+  [
+   "0xf88288b3286977466dc6f6169575af4ea0b93079504f72e7bb72444e804923bc",
+   "74619767299487421214762809935501187377012527137281528651390157927590907868316",
+   "BUY",
+   7000,
+   1791183115
   ]
  ],
  "leader_pos": {
@@ -31766,6 +31773,18 @@
    "cost": 5565.0,
    "max_shares": 10500.0,
    "last_trade_ts": 1791182681
+  },
+  "jtwyslljy|74619767299487421214762809935501187377012527137281528651390157927590907868316": {
+   "leader": "jtwyslljy",
+   "asset": "74619767299487421214762809935501187377012527137281528651390157927590907868316",
+   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+   "outcome": "Jaume Munar",
+   "slug": "atp-alcaraz-munar-2026-10-05",
+   "shares": 7000.0,
+   "cost": 910.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791183115
   }
  },
  "positions": [
@@ -31857,6 +31876,24 @@
    "copy_delay_min": 4.8,
    "best_ask": 0.37,
    "ask_depth": 3172.83,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74619767299487421214762809935501187377012527137281528651390157927590907868316",
+   "condition_id": "0x6c8430b3ff7ff288d99eb33c1a117bfd5a1f61b091bc625c632d45664b267c4d",
+   "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+   "outcome": "Jaume Munar",
+   "slug": "atp-alcaraz-munar-2026-10-05",
+   "opened_at": "2026-10-05T07:00:56.791488+00:00",
+   "entry_price": 0.13,
+   "shares": 769.2308,
+   "stake": 100.0,
+   "leader_vwap": 0.13,
+   "leader_cost": 910.0,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.13,
+   "ask_depth": 14028.31,
    "status": "open"
   }
  ],
@@ -52664,5 +52701,5 @@
   }
  ],
  "total_pnl": -1205.522399999999,
- "last_updated": "2026-10-05T06:50:32.707044+00:00"
+ "last_updated": "2026-10-05T07:00:57.212350+00:00"
 }
