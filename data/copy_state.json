@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9143.422155199998,
+ "bankroll": 9254.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791209405,
+  "jtwyslljy": 1791210436,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19577,6 +19577,13 @@
    "BUY",
    2308.16,
    1791209405
+  ],
+  [
+   "0x9fe9c7b5901f2a1705bc8993bcb167fe3bad6f2b01df7f36cde4dc7ea78c4525",
+   "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "SELL",
+   20000,
+   1791210436
   ]
  ],
  "leader_pos": {
@@ -31995,10 +32002,10 @@
    "title": "China Open: Coco Gauff vs Xinran Sun",
    "outcome": "Xinran Sun",
    "slug": "wta-gauff-su-2026-10-04",
-   "shares": 16968.97,
-   "cost": 1187.8279000000002,
+   "shares": -3031.029999999999,
+   "cost": 187.82790000000023,
    "max_shares": 16968.97,
-   "last_trade_ts": 1791181276
+   "last_trade_ts": 1791210436
   },
   "jtwyslljy|25822638436038792059472333783805260253823328163532834899839340072498034552851": {
    "leader": "jtwyslljy",
@@ -32146,24 +32153,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
-   "condition_id": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
-   "title": "China Open: Coco Gauff vs Xinran Sun",
-   "outcome": "Xinran Sun",
-   "slug": "wta-gauff-su-2026-10-04",
-   "opened_at": "2026-10-05T06:25:27.032388+00:00",
-   "entry_price": 0.07,
-   "shares": 1428.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.07,
-   "leader_cost": 1187.83,
-   "copy_delay_min": 4.2,
-   "best_ask": 0.07,
-   "ask_depth": 5079.02,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
@@ -42999,6 +42988,28 @@
    "exit_price": 1.0,
    "pnl": 33.3333,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "55852267537452682809250510208824983366803969674775004740014639476903289634330",
+   "condition_id": "0x457e41fbb07a70cda20e27b63db2d2929c75c950d6dd0373c70f5a6b9773ad81",
+   "title": "China Open: Coco Gauff vs Xinran Sun",
+   "outcome": "Xinran Sun",
+   "slug": "wta-gauff-su-2026-10-04",
+   "opened_at": "2026-10-05T06:25:27.032388+00:00",
+   "entry_price": 0.07,
+   "shares": 1428.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.07,
+   "leader_cost": 1187.83,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.07,
+   "ask_depth": 5079.02,
+   "status": "closed",
+   "closed_at": "2026-10-05T14:30:46.165469+00:00",
+   "exit_price": 0.078,
+   "pnl": 11.4702,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -53304,6 +53315,6 @@
    "outcome": "TYLOO"
   }
  ],
- "total_pnl": -656.577999999999,
- "last_updated": "2026-10-05T14:15:34.202324+00:00"
+ "total_pnl": -645.107799999999,
+ "last_updated": "2026-10-05T14:30:46.351280+00:00"
 }
