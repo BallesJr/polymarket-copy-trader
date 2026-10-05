@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9010.088855199998,
  "last_seen": {
-  "jtwyslljy": 1791196808,
+  "jtwyslljy": 1791197941,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19479,6 +19479,13 @@
    "BUY",
    17539.22,
    1791196808
+  ],
+  [
+   "0xbe7b0d897c6718a02cda374ff3480dc651f61a78d4d9a7a827a0f21b5ba73754",
+   "106171382130830330857962435325237653408741094754427097025770467228593884816441",
+   "BUY",
+   10000,
+   1791197941
   ]
  ],
  "leader_pos": {
@@ -31981,10 +31988,10 @@
    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Valentin Vacherot",
    "slug": "atp-lehecka-vachero-2026-10-05",
-   "shares": 21739.22,
-   "cost": 4493.6674,
-   "max_shares": 21739.22,
-   "last_trade_ts": 1791196808
+   "shares": 31739.22,
+   "cost": 4993.6674,
+   "max_shares": 31739.22,
+   "last_trade_ts": 1791197941
   },
   "jtwyslljy|14600558202592021221151492362551383068146430259825973814682675879468831500489": {
    "leader": "jtwyslljy",
@@ -53100,8 +53107,24 @@
    "leader": "jtwyslljy",
    "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Valentin Vacherot"
+  },
+  {
+   "at": "2026-10-05T11:05:25.027233+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T10:15:00+00:00",
+   "condition_id": "0x567b8bd0f88f73bb2bf2b0a7010f05ffc3375b742d894c263028e2a71980029e",
+   "asset": "106171382130830330857962435325237653408741094754427097025770467228593884816441",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.05,
+   "cf_shares": 2000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.05,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Japan Open Tennis Championships: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -689.911299999999,
- "last_updated": "2026-10-05T10:45:36.701879+00:00"
+ "last_updated": "2026-10-05T11:05:25.299176+00:00"
 }
