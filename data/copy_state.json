@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9254.892353199999,
+ "bankroll": 9154.892353199999,
  "last_seen": {
-  "jtwyslljy": 1791216941,
+  "jtwyslljy": 1791219124,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19689,6 +19689,13 @@
    "BUY",
    428.08,
    1791216941
+  ],
+  [
+   "0x2d9967cfe93b5e17ea92760507ace4b64da039d22dbafce493b46aee09dd8bd3",
+   "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "BUY",
+   8000,
+   1791219124
   ]
  ],
  "leader_pos": {
@@ -32279,9 +32286,40 @@
    "cost": 10280.577,
    "max_shares": 32018.59,
    "last_trade_ts": 1791213446
+  },
+  "jtwyslljy|54769321041093825627081714372090234804949711704198701989919274680554668289331": {
+   "leader": "jtwyslljy",
+   "asset": "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "condition_id": "0xfa9a81d8ed7204a9b1a8ef58c54cbb52638345d8e9d5de00ed4f8de6916d2b46",
+   "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-aur1-bb3-2026-10-05",
+   "shares": 8000.0,
+   "cost": 2880.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791219124
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "54769321041093825627081714372090234804949711704198701989919274680554668289331",
+   "condition_id": "0xfa9a81d8ed7204a9b1a8ef58c54cbb52638345d8e9d5de00ed4f8de6916d2b46",
+   "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-aur1-bb3-2026-10-05",
+   "opened_at": "2026-10-05T16:55:26.645119+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 2880.0,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.36,
+   "ask_depth": 170240.78,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -53560,5 +53598,5 @@
   }
  ],
  "total_pnl": -745.107799999999,
- "last_updated": "2026-10-05T16:20:35.204117+00:00"
+ "last_updated": "2026-10-05T16:55:26.867053+00:00"
 }
