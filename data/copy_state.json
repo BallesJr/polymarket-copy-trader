@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9010.088855199998,
+ "bankroll": 9143.422155199998,
  "last_seen": {
   "jtwyslljy": 1791197941,
   "0x53757615de": 1787221213
@@ -32039,24 +32039,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "43251830099794326343672750328062481557368023837862665351298848642141673714849",
-   "condition_id": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
-   "title": "China Open: Maria Sakkari vs Elina Svitolina",
-   "outcome": "Elina Svitolina",
-   "slug": "wta-sakkari-svitoli-2026-10-04",
-   "opened_at": "2026-10-05T06:25:27.518927+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 1725.0,
-   "copy_delay_min": 4.4,
-   "best_ask": 0.75,
-   "ask_depth": 1852.41,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
    "condition_id": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
    "title": "China Open: Novak Djokovic vs Daniil Medvedev",
@@ -42868,6 +42850,28 @@
    "exit_price": 0.53,
    "pnl": 43.2433,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "43251830099794326343672750328062481557368023837862665351298848642141673714849",
+   "condition_id": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
+   "title": "China Open: Maria Sakkari vs Elina Svitolina",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-sakkari-svitoli-2026-10-04",
+   "opened_at": "2026-10-05T06:25:27.518927+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 1725.0,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.75,
+   "ask_depth": 1852.41,
+   "status": "won",
+   "closed_at": "2026-10-05T11:30:45.790375+00:00",
+   "exit_price": 1.0,
+   "pnl": 33.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -53125,6 +53129,6 @@
    "outcome": "Valentin Vacherot"
   }
  ],
- "total_pnl": -689.911299999999,
- "last_updated": "2026-10-05T11:05:25.299176+00:00"
+ "total_pnl": -656.577999999999,
+ "last_updated": "2026-10-05T11:30:45.792134+00:00"
 }
