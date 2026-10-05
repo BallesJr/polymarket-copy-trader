@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8699.740912199999,
+ "bankroll": 8599.740912199999,
  "last_seen": {
-  "jtwyslljy": 1791176722,
+  "jtwyslljy": 1791177139,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19255,6 +19255,20 @@
    "BUY",
    7000,
    1791176722
+  ],
+  [
+   "0xda44f2d309a7067f0cb5450a8ad717f9484ce1bca1f92714b4992ba64c99393b",
+   "77995760535679634655557329814591347986988280994826795236804175738415981264796",
+   "BUY",
+   3967,
+   1791176900
+  ],
+  [
+   "0xf0581b076fb80662e2556940a1f2543784e5f825a56dbce270b8e27046033ccc",
+   "11540463158092423591028789137245722436362226571821778000973490257339900469291",
+   "BUY",
+   17022.63,
+   1791177139
   ]
  ],
  "leader_pos": {
@@ -31601,10 +31615,22 @@
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "outcome": "Donna Vekic",
    "slug": "wta-vekic-swiatek-2026-10-04",
-   "shares": 8032.95,
-   "cost": 2127.678,
-   "max_shares": 8032.95,
-   "last_trade_ts": 1791176722
+   "shares": 11999.95,
+   "cost": 2841.738,
+   "max_shares": 11999.95,
+   "last_trade_ts": 1791176900
+  },
+  "jtwyslljy|11540463158092423591028789137245722436362226571821778000973490257339900469291": {
+   "leader": "jtwyslljy",
+   "asset": "11540463158092423591028789137245722436362226571821778000973490257339900469291",
+   "condition_id": "0xc6193a2490c7528fa543bfbb7e973e72bed702bb86e8f4938feda57f824655a8",
+   "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "shares": 17022.63,
+   "cost": 6461.709800319367,
+   "max_shares": 17022.63,
+   "last_trade_ts": 1791177139
   }
  },
  "positions": [
@@ -31624,6 +31650,24 @@
    "copy_delay_min": 5.4,
    "best_ask": 0.48,
    "ask_depth": 205.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "11540463158092423591028789137245722436362226571821778000973490257339900469291",
+   "condition_id": "0xc6193a2490c7528fa543bfbb7e973e72bed702bb86e8f4938feda57f824655a8",
+   "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "opened_at": "2026-10-05T05:15:33.420610+00:00",
+   "entry_price": 0.38,
+   "shares": 263.1579,
+   "stake": 100.0,
+   "leader_vwap": 0.3796,
+   "leader_cost": 6461.71,
+   "copy_delay_min": 3.2,
+   "best_ask": 0.38,
+   "ask_depth": 9474.2,
    "status": "open"
   }
  ],
@@ -52358,8 +52402,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Donna Vekic vs Iga Swiatek",
    "outcome": "Donna Vekic"
+  },
+  {
+   "at": "2026-10-05T05:15:33.261634+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T03:10:00+00:00",
+   "condition_id": "0x3babe7a2fa49f45ad85af4a516a1ac040956e9f7e0ff938a7d961c85a3fd2681",
+   "asset": "77995760535679634655557329814591347986988280994826795236804175738415981264796",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Donna Vekic vs Iga Swiatek",
+   "outcome": "Donna Vekic"
   }
  ],
  "total_pnl": -1200.2591999999988,
- "last_updated": "2026-10-05T05:10:32.080685+00:00"
+ "last_updated": "2026-10-05T05:15:33.765962+00:00"
 }
