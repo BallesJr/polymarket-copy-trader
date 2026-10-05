@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8294.477756199998,
  "last_seen": {
-  "jtwyslljy": 1791181658,
+  "jtwyslljy": 1791182804,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19318,6 +19318,20 @@
    "SELL",
    4741.84,
    1791181658
+  ],
+  [
+   "0xef74102009e699525631bd562593e458e4e84b2291100c6cb6c89edd7bac3434",
+   "25822638436038792059472333783805260253823328163532834899839340072498034552851",
+   "BUY",
+   10500,
+   1791182681
+  ],
+  [
+   "0xcf0b371c567513d1a46121d9ec8c80ebaa07cb81003ef1483f840efc2e1ed93b",
+   "11540463158092423591028789137245722436362226571821778000973490257339900469291",
+   "SELL",
+   2078.94,
+   1791182804
   ]
  ],
  "leader_pos": {
@@ -31676,10 +31690,10 @@
    "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
    "outcome": "Marie Bouzkova",
    "slug": "wta-bouzkov-zhen-2026-10-04",
-   "shares": 2576.220000000001,
-   "cost": 1116.538100319367,
+   "shares": 497.2800000000011,
+   "cost": 243.38330031936698,
    "max_shares": 17022.63,
-   "last_trade_ts": 1791179752
+   "last_trade_ts": 1791182804
   },
   "jtwyslljy|76779343980486848822005767145837282685481500648224582735477413643491451152831": {
    "leader": "jtwyslljy",
@@ -31740,6 +31754,18 @@
    "cost": 1187.8279000000002,
    "max_shares": 16968.97,
    "last_trade_ts": 1791181276
+  },
+  "jtwyslljy|25822638436038792059472333783805260253823328163532834899839340072498034552851": {
+   "leader": "jtwyslljy",
+   "asset": "25822638436038792059472333783805260253823328163532834899839340072498034552851",
+   "condition_id": "0xc6193a2490c7528fa543bfbb7e973e72bed702bb86e8f4938feda57f824655a8",
+   "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-bouzkov-zhen-2026-10-04",
+   "shares": 10500.0,
+   "cost": 5565.0,
+   "max_shares": 10500.0,
+   "last_trade_ts": 1791182681
   }
  },
  "positions": [
@@ -52619,8 +52645,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alina Charaeva vs Sonay Kartal",
    "outcome": "Alina Charaeva"
+  },
+  {
+   "at": "2026-10-05T06:50:32.512505+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-05T06:10:00+00:00",
+   "condition_id": "0xc6193a2490c7528fa543bfbb7e973e72bed702bb86e8f4938feda57f824655a8",
+   "asset": "25822638436038792059472333783805260253823328163532834899839340072498034552851",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Marie Bouzkova vs Qinwen Zheng",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -1205.522399999999,
- "last_updated": "2026-10-05T06:30:46.084268+00:00"
+ "last_updated": "2026-10-05T06:50:32.707044+00:00"
 }
