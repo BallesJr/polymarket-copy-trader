@@ -32159,26 +32159,7 @@
    "last_trade_ts": 1791209405
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
-   "condition_id": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
-   "title": "China Open: Novak Djokovic vs Daniil Medvedev",
-   "outcome": "Daniil Medvedev",
-   "slug": "atp-djokovi-medvede-2026-10-05",
-   "opened_at": "2026-10-05T10:45:36.150623+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 2565.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.57,
-   "ask_depth": 58452.09,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -43017,6 +42998,28 @@
    "exit_price": 0.078,
    "pnl": 11.4702,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47879910500497965658923096915912684845675016440226725444460332756503479956559",
+   "condition_id": "0xeb26070a9c65e6f7967ef0ab7ab9ae3bdb2728b814e559c6b8557a6e5db301b6",
+   "title": "China Open: Novak Djokovic vs Daniil Medvedev",
+   "outcome": "Daniil Medvedev",
+   "slug": "atp-djokovi-medvede-2026-10-05",
+   "opened_at": "2026-10-05T10:45:36.150623+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 2565.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.57,
+   "ask_depth": 58452.09,
+   "status": "lost",
+   "closed_at": "2026-10-05T14:45:32.144360+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -53338,6 +53341,6 @@
    "outcome": "Xinran Sun"
   }
  ],
- "total_pnl": -645.107799999999,
- "last_updated": "2026-10-05T14:40:34.435787+00:00"
+ "total_pnl": -745.107799999999,
+ "last_updated": "2026-10-05T14:45:32.145497+00:00"
 }
