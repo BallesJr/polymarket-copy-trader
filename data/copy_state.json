@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8633.512296199997,
+ "bankroll": 8966.845596199997,
  "last_seen": {
   "jtwyslljy": 1791188696,
   "0x53757615de": 1787221213
@@ -31900,24 +31900,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "93432717892670798441852706739426095913635528201174070983871638188130088027805",
-   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
-   "title": "China Open: Belinda Bencic vs Ann Li",
-   "outcome": "Ann Li",
-   "slug": "wta-bencic-annli-2026-10-03",
-   "opened_at": "2026-10-05T06:25:27.323524+00:00",
-   "entry_price": 0.3,
-   "shares": 333.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.3048,
-   "leader_cost": 914.53,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.3,
-   "ask_depth": 764.05,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "43251830099794326343672750328062481557368023837862665351298848642141673714849",
    "condition_id": "0x109cbdd8f226fc00f311a74b40b86b7f6b3ce3c72646438934cd0f8370d22857",
    "title": "China Open: Maria Sakkari vs Elina Svitolina",
@@ -42703,6 +42685,28 @@
    "exit_price": 1.0,
    "pnl": 108.2653,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93432717892670798441852706739426095913635528201174070983871638188130088027805",
+   "condition_id": "0x5bafdabbc25d28803fb2a21d53034510d96357ce0506a2082e6583f303b2d61c",
+   "title": "China Open: Belinda Bencic vs Ann Li",
+   "outcome": "Ann Li",
+   "slug": "wta-bencic-annli-2026-10-03",
+   "opened_at": "2026-10-05T06:25:27.323524+00:00",
+   "entry_price": 0.3,
+   "shares": 333.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.3048,
+   "leader_cost": 914.53,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.3,
+   "ask_depth": 764.05,
+   "status": "won",
+   "closed_at": "2026-10-05T09:31:23.533640+00:00",
+   "exit_price": 1.0,
+   "pnl": 233.3333,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -52848,6 +52852,6 @@
    "outcome": "Belinda Bencic"
   }
  ],
- "total_pnl": -966.487899999999,
- "last_updated": "2026-10-05T08:30:45.510315+00:00"
+ "total_pnl": -733.1545999999989,
+ "last_updated": "2026-10-05T09:31:23.535639+00:00"
 }
