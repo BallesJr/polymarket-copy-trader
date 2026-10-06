@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9546.559027199999,
+ "bankroll": 9446.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791263832,
+  "jtwyslljy": 1791269146,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19766,6 +19766,13 @@
    "BUY",
    18500,
    1791263832
+  ],
+  [
+   "0x4057f76b0ad1d091a7148d8c8d4e79ea825b804e91efb4b6cad2e9769ca1afa6",
+   "46913582847961849116281034150641894826777821036746282753742365274701862030710",
+   "BUY",
+   2849.28,
+   1791269146
   ]
  ],
  "leader_pos": {
@@ -32428,9 +32435,40 @@
    "cost": 11955.0,
    "max_shares": 28500.0,
    "last_trade_ts": 1791263832
+  },
+  "jtwyslljy|46913582847961849116281034150641894826777821036746282753742365274701862030710": {
+   "leader": "jtwyslljy",
+   "asset": "46913582847961849116281034150641894826777821036746282753742365274701862030710",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-osaka-2026-10-05",
+   "shares": 2849.28,
+   "cost": 1652.5824,
+   "max_shares": 2849.28,
+   "last_trade_ts": 1791269146
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "46913582847961849116281034150641894826777821036746282753742365274701862030710",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-osaka-2026-10-05",
+   "opened_at": "2026-10-06T06:55:23.807141+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1652.58,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.59,
+   "ask_depth": 6545.51,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -53849,5 +53887,5 @@
   }
  ],
  "total_pnl": -453.441099999999,
- "last_updated": "2026-10-06T06:20:30.120052+00:00"
+ "last_updated": "2026-10-06T06:55:23.946189+00:00"
 }
