@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9146.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791254197,
+  "jtwyslljy": 1791263514,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19752,6 +19752,13 @@
    "BUY",
    8000,
    1791254197
+  ],
+  [
+   "0xb126588e43794374fd77a9d0f004085b0f8a5955c25e6d2fc0f2d9c76beecdbf",
+   "68923323436236148629071016047304220873748756391873000618653957555478849287709",
+   "BUY",
+   10000,
+   1791263514
   ]
  ],
  "leader_pos": {
@@ -32402,6 +32409,18 @@
    "cost": 2000.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1791254197
+  },
+  "jtwyslljy|68923323436236148629071016047304220873748756391873000618653957555478849287709": {
+   "leader": "jtwyslljy",
+   "asset": "68923323436236148629071016047304220873748756391873000618653957555478849287709",
+   "condition_id": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
+   "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
+   "outcome": "Linda Noskova",
+   "slug": "wta-noskova-alexand-2026-10-05",
+   "shares": 10000.0,
+   "cost": 4000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791263514
   }
  },
  "positions": [
@@ -53785,8 +53804,24 @@
    "leader": "jtwyslljy",
    "title": "Falcons vs. Saints",
    "outcome": "Falcons"
+  },
+  {
+   "at": "2026-10-06T05:25:26.216142+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T04:30:00+00:00",
+   "condition_id": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
+   "asset": "68923323436236148629071016047304220873748756391873000618653957555478849287709",
+   "copy_delay_min": 13.5,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
+   "outcome": "Linda Noskova"
   }
  ],
  "total_pnl": -753.441099999999,
- "last_updated": "2026-10-06T02:40:34.120928+00:00"
+ "last_updated": "2026-10-06T05:25:26.402935+00:00"
 }
