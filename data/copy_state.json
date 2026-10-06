@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9246.559027199999,
+ "bankroll": 9146.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791251033,
+  "jtwyslljy": 1791254197,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19745,6 +19745,13 @@
    "BUY",
    17000,
    1791251033
+  ],
+  [
+   "0x8d70a81949e9ff4c5f48f2d3572892be70f38cffbd22bf0b7ffc1c5680a527b7",
+   "65730545973189886681713298654440762285215913182923018282915499496503577590692",
+   "BUY",
+   8000,
+   1791254197
   ]
  ],
  "leader_pos": {
@@ -32383,9 +32390,40 @@
    "cost": 14110.0,
    "max_shares": 17000.0,
    "last_trade_ts": 1791251033
+  },
+  "jtwyslljy|65730545973189886681713298654440762285215913182923018282915499496503577590692": {
+   "leader": "jtwyslljy",
+   "asset": "65730545973189886681713298654440762285215913182923018282915499496503577590692",
+   "condition_id": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
+   "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-noskova-alexand-2026-10-05",
+   "shares": 8000.0,
+   "cost": 2000.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791254197
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "65730545973189886681713298654440762285215913182923018282915499496503577590692",
+   "condition_id": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
+   "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-noskova-alexand-2026-10-05",
+   "opened_at": "2026-10-06T02:40:33.874929+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.25,
+   "leader_cost": 2000.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.25,
+   "ask_depth": 11805.37,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -53750,5 +53788,5 @@
   }
  ],
  "total_pnl": -753.441099999999,
- "last_updated": "2026-10-06T01:50:33.756974+00:00"
+ "last_updated": "2026-10-06T02:40:34.120928+00:00"
 }
