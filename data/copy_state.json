@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9501.4579272,
+ "bankroll": 9632.3670312,
  "last_seen": {
-  "jtwyslljy": 1791305856,
+  "jtwyslljy": 1791306465,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20039,6 +20039,55 @@
    "BUY",
    8000,
    1791305856
+  ],
+  [
+   "0xd47ec54c14885617f23822fb1c64db750a2367f0e73c4145e034c8aab6c80116",
+   "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "SELL",
+   2782.49,
+   1791306384
+  ],
+  [
+   "0xe5675ee32bf1bb84ba20e8b266fa968537614c35f6ce3b32c8d385a5198cced9",
+   "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "SELL",
+   1010.11,
+   1791306428
+  ],
+  [
+   "0x174d294120c467fbab774ca0f7a075d4b010ed06e2d78c88094a234122b1fb57",
+   "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "SELL",
+   1032.39,
+   1791306435
+  ],
+  [
+   "0x35d83bce7e50daa8d1b420169200bc85f9a4e294186d55652d20807d5cae03ad",
+   "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "SELL",
+   916.93,
+   1791306440
+  ],
+  [
+   "0x1299f4b2eb6b66855cf7289e9c571dd839b2cc31d5672a08b054d7d877c176c3",
+   "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "SELL",
+   1739.97,
+   1791306450
+  ],
+  [
+   "0x27e1ad0c73c3f3fe97e7a413e28b1980e76b7f5b7956717c38b7addcaadb9d16",
+   "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "BUY",
+   2625,
+   1791306462
+  ],
+  [
+   "0x99b5e22b4c2bb6d5ed2e9caa16fcba23d91cd3b530397ea54aac3fa7901de092",
+   "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "BUY",
+   777.99,
+   1791306465
   ]
  ],
  "leader_pos": {
@@ -32805,10 +32854,10 @@
    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
    "outcome": "FURIA",
    "slug": "cs2-furia-aur1-2026-10-06",
-   "shares": 7999.99,
-   "cost": 4399.9945,
+   "shares": 518.1000000000001,
+   "cost": -932.068599946795,
    "max_shares": 7999.99,
-   "last_trade_ts": 1791296850
+   "last_trade_ts": 1791306450
   },
   "jtwyslljy|81318127983459707875797511233709762447037094634284785250076066398808960371881": {
    "leader": "jtwyslljy",
@@ -32857,27 +32906,21 @@
    "cost": 3520.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1791305856
+  },
+  "jtwyslljy|32257042547771013282671827242257086457050281743015161002722741159811504399433": {
+   "leader": "jtwyslljy",
+   "asset": "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "condition_id": "0x69b99d7b5a9a5d4448d80eec4d92b4784553ac178b7e698cfcb574572bf07c3f",
+   "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+   "outcome": "Aurora Gaming",
+   "slug": "cs2-furia-aur1-2026-10-06",
+   "shares": 3402.99,
+   "cost": 1107.4269000749998,
+   "max_shares": 3402.99,
+   "last_trade_ts": 1791306465
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "60431136070843246067146474632879609158656631117810989244268371944600012414446",
-   "condition_id": "0x69b99d7b5a9a5d4448d80eec4d92b4784553ac178b7e698cfcb574572bf07c3f",
-   "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
-   "outcome": "FURIA",
-   "slug": "cs2-furia-aur1-2026-10-06",
-   "opened_at": "2026-10-06T14:30:46.186436+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 4399.99,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.55,
-   "ask_depth": 104286.36,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "85839573127644995829194246125315141460470962820252227002719929097299769959470",
@@ -43845,6 +43888,28 @@
    "exit_price": 1.0,
    "pnl": 85.4074,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "60431136070843246067146474632879609158656631117810989244268371944600012414446",
+   "condition_id": "0x69b99d7b5a9a5d4448d80eec4d92b4784553ac178b7e698cfcb574572bf07c3f",
+   "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+   "outcome": "FURIA",
+   "slug": "cs2-furia-aur1-2026-10-06",
+   "opened_at": "2026-10-06T14:30:46.186436+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 4399.99,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.55,
+   "ask_depth": 104286.36,
+   "status": "closed",
+   "closed_at": "2026-10-06T17:10:38.644775+00:00",
+   "exit_price": 0.72,
+   "pnl": 30.9091,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -54644,8 +54709,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage",
    "outcome": "M80"
+  },
+  {
+   "at": "2026-10-06T17:10:38.845968+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T15:40:00+00:00",
+   "condition_id": "0x69b99d7b5a9a5d4448d80eec4d92b4784553ac178b7e698cfcb574572bf07c3f",
+   "asset": "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "copy_delay_min": 2.9,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+   "outcome": "Aurora Gaming"
   }
  ],
- "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T17:05:26.886735+00:00"
+ "total_pnl": -267.633099999999,
+ "last_updated": "2026-10-06T17:10:39.078332+00:00"
 }
