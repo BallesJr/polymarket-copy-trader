@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9346.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791278493,
+  "jtwyslljy": 1791280605,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19794,6 +19794,13 @@
    "BUY",
    15500,
    1791278493
+  ],
+  [
+   "0x5cac1575a1c4a2398c0aba265c8ec8f993ff8158826737cdf8fc7ced73a12182",
+   "7007612130060836660972164241418052114203686246681584982571700367724904971693",
+   "BUY",
+   3000,
+   1791280605
   ]
  ],
  "leader_pos": {
@@ -32488,10 +32495,10 @@
    "title": "China Open: Karolina Muchova vs Naomi Osaka",
    "outcome": "Naomi Osaka",
    "slug": "wta-muchova-osaka-2026-10-05",
-   "shares": 15500.0,
-   "cost": 5580.0,
-   "max_shares": 15500.0,
-   "last_trade_ts": 1791278493
+   "shares": 18500.0,
+   "cost": 6150.0,
+   "max_shares": 18500.0,
+   "last_trade_ts": 1791280605
   }
  },
  "positions": [
@@ -53963,8 +53970,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Naomi Osaka",
    "outcome": "Naomi Osaka"
+  },
+  {
+   "at": "2026-10-06T10:00:55.218524+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T07:10:00+00:00",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "asset": "7007612130060836660972164241418052114203686246681584982571700367724904971693",
+   "copy_delay_min": 4.2,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Naomi Osaka"
   }
  ],
  "total_pnl": -453.441099999999,
- "last_updated": "2026-10-06T09:25:27.493053+00:00"
+ "last_updated": "2026-10-06T10:00:55.621484+00:00"
 }
