@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9516.0505272,
+ "bankroll": 9701.4579272,
  "last_seen": {
   "jtwyslljy": 1791280605,
   "0x53757615de": 1787221213
@@ -32501,26 +32501,7 @@
    "last_trade_ts": 1791280605
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "113481166182766555432178087948011010172071019716391107960574271505256518359456",
-   "condition_id": "0xa5dbc5ba32e71c036ee0105ca500767a98694ff88a72c080eb0490685baed25e",
-   "title": "Set Handicap: Carlos Alcaraz (-1.5) vs Jiri Lehecka (+1.5)",
-   "outcome": "Carlos Alcaraz",
-   "slug": "atp-alcaraz-lehecka-2026-10-06",
-   "opened_at": "2026-10-06T09:00:59.407969+00:00",
-   "entry_price": 0.5394,
-   "shares": 185.4074,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 1060.0,
-   "copy_delay_min": 8.5,
-   "best_ask": 0.53,
-   "ask_depth": 12.0,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -43447,6 +43428,28 @@
    "exit_price": 1.0,
    "pnl": 69.4915,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113481166182766555432178087948011010172071019716391107960574271505256518359456",
+   "condition_id": "0xa5dbc5ba32e71c036ee0105ca500767a98694ff88a72c080eb0490685baed25e",
+   "title": "Set Handicap: Carlos Alcaraz (-1.5) vs Jiri Lehecka (+1.5)",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-alcaraz-lehecka-2026-10-06",
+   "opened_at": "2026-10-06T09:00:59.407969+00:00",
+   "entry_price": 0.5394,
+   "shares": 185.4074,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 1060.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.53,
+   "ask_depth": 12.0,
+   "status": "won",
+   "closed_at": "2026-10-06T11:30:50.278908+00:00",
+   "exit_price": 1.0,
+   "pnl": 85.4074,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -53992,6 +53995,6 @@
    "outcome": "Naomi Osaka"
   }
  ],
- "total_pnl": -383.949599999999,
- "last_updated": "2026-10-06T10:45:32.895053+00:00"
+ "total_pnl": -298.542199999999,
+ "last_updated": "2026-10-06T11:30:50.280748+00:00"
 }
