@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9601.4579272,
  "last_seen": {
-  "jtwyslljy": 1791296855,
+  "jtwyslljy": 1791297143,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19906,6 +19906,41 @@
    "BUY",
    8000,
    1791296855
+  ],
+  [
+   "0x15fd1cef7b488a3e557eb447edac6bf3cc9888d15f7beb9e4c890a788aceea92",
+   "67746749948620493829254936938448532754404882005250512761639099672651154324487",
+   "SELL",
+   6999.84,
+   1791296949
+  ],
+  [
+   "0x0d9a51620f27b03f8f91d33185446c3ca6dcbd17abf14065cd9a130b17051db8",
+   "71384871641240547940952009231834104196278062829804717139096202477358741713732",
+   "BUY",
+   7526.67,
+   1791296955
+  ],
+  [
+   "0x0c8c2c8b6556d01cc987a0838a99cb6ffa307f05714feec17b570505c061f3d8",
+   "71384871641240547940952009231834104196278062829804717139096202477358741713732",
+   "BUY",
+   1755.55,
+   1791297057
+  ],
+  [
+   "0x007f8c9d94e7f91576dd4329d783643acd4cfc76b3ecb8f188e40d68b7e44669",
+   "71384871641240547940952009231834104196278062829804717139096202477358741713732",
+   "BUY",
+   907.47,
+   1791297077
+  ],
+  [
+   "0xbbfbf06057dfe86414221623584e73a8dfd26c8de1025d3e7bd956808ebef0c8",
+   "71384871641240547940952009231834104196278062829804717139096202477358741713732",
+   "BUY",
+   160,
+   1791297143
   ]
  ],
  "leader_pos": {
@@ -32624,10 +32659,10 @@
    "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
    "outcome": "G2",
    "slug": "cs2-g2-prv-2026-10-06",
-   "shares": 9985.57,
-   "cost": 4694.2388,
+   "shares": 2985.7299999999996,
+   "cost": 3429.52789983848,
    "max_shares": 13485.57,
-   "last_trade_ts": 1791295719
+   "last_trade_ts": 1791296949
   },
   "jtwyslljy|71384871641240547940952009231834104196278062829804717139096202477358741713732": {
    "leader": "jtwyslljy",
@@ -32636,10 +32671,10 @@
    "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
    "outcome": "PARIVISION",
    "slug": "cs2-g2-prv-2026-10-06",
-   "shares": 1229.63,
-   "cost": 614.815,
-   "max_shares": 1229.63,
-   "last_trade_ts": 1791290542
+   "shares": 11579.319999999998,
+   "cost": 9128.191,
+   "max_shares": 11579.319999999998,
+   "last_trade_ts": 1791297143
   },
   "jtwyslljy|18407550774608686419222835773887974746470840155068747626115271785772650609175": {
    "leader": "jtwyslljy",
@@ -54361,8 +54396,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-06T14:36:02.329613+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T12:00:00+00:00",
+   "condition_id": "0xc57c2f14b4eeaa48d8dc6d41590c80c8edd4b512e4dfe5910f81dcb34d1c9168",
+   "asset": "71384871641240547940952009231834104196278062829804717139096202477358741713732",
+   "copy_delay_min": 3.6,
+   "cf_ask": 0.9,
+   "cf_shares": 111.1111,
+   "cf_cost": 100.0,
+   "cf_entry": 0.9,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T14:30:46.570675+00:00"
+ "last_updated": "2026-10-06T14:36:02.494661+00:00"
 }
