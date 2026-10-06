@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9701.4579272,
  "last_seen": {
-  "jtwyslljy": 1791280605,
+  "jtwyslljy": 1791289611,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19801,6 +19801,13 @@
    "BUY",
    3000,
    1791280605
+  ],
+  [
+   "0x0d1f34daab2153a300411fa2974a159fc7b28c0a3be23f7c7dc8487772836a77",
+   "98185276846747432291589641024295158588594538870910810419444539557950412075485",
+   "BUY",
+   5000,
+   1791289611
   ]
  ],
  "leader_pos": {
@@ -32499,6 +32506,18 @@
    "cost": 6150.0,
    "max_shares": 18500.0,
    "last_trade_ts": 1791280605
+  },
+  "jtwyslljy|98185276846747432291589641024295158588594538870910810419444539557950412075485": {
+   "leader": "jtwyslljy",
+   "asset": "98185276846747432291589641024295158588594538870910810419444539557950412075485",
+   "condition_id": "0xe493156bbf7abade85f7f021c9e534cd159eeeef628e9c7c2b58991c73c983b9",
+   "title": "China Open: Novak Djokovic vs Alex de Minaur",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-djokovi-minaur-2026-10-06",
+   "shares": 5000.0,
+   "cost": 1150.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791289611
   }
  },
  "positions": [],
@@ -53993,8 +54012,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Naomi Osaka",
    "outcome": "Naomi Osaka"
+  },
+  {
+   "at": "2026-10-06T12:40:31.152077+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T11:15:00+00:00",
+   "condition_id": "0xe493156bbf7abade85f7f021c9e534cd159eeeef628e9c7c2b58991c73c983b9",
+   "asset": "98185276846747432291589641024295158588594538870910810419444539557950412075485",
+   "copy_delay_min": 13.7,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "China Open: Novak Djokovic vs Alex de Minaur",
+   "outcome": "Alex de Minaur"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T11:30:50.280748+00:00"
+ "last_updated": "2026-10-06T12:40:31.152696+00:00"
 }
