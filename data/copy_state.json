@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9601.4579272,
+ "bankroll": 9501.4579272,
  "last_seen": {
-  "jtwyslljy": 1791303311,
+  "jtwyslljy": 1791304989,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20025,6 +20025,13 @@
    "BUY",
    798.61,
    1791303311
+  ],
+  [
+   "0xf850804218ce16610c7fef52a5dfcedaa8dca428f8d25d266bb473c413f0a03e",
+   "85839573127644995829194246125315141460470962820252227002719929097299769959470",
+   "BUY",
+   19200,
+   1791304989
   ]
  ],
  "leader_pos": {
@@ -32819,6 +32826,18 @@
    "cost": 241.416600005856,
    "max_shares": 1648.6100000000001,
    "last_trade_ts": 1791303311
+  },
+  "jtwyslljy|85839573127644995829194246125315141460470962820252227002719929097299769959470": {
+   "leader": "jtwyslljy",
+   "asset": "85839573127644995829194246125315141460470962820252227002719929097299769959470",
+   "condition_id": "0x16bf6187b713dc4c937599080f8063ba55beb46a6b3508e895d4f1114fd4fa48",
+   "title": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "Team Falcons",
+   "slug": "cs2-fal2-navi-2026-10-06",
+   "shares": 19200.0,
+   "cost": 11136.0,
+   "max_shares": 19200.0,
+   "last_trade_ts": 1791304989
   }
  },
  "positions": [
@@ -32838,6 +32857,24 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.55,
    "ask_depth": 104286.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85839573127644995829194246125315141460470962820252227002719929097299769959470",
+   "condition_id": "0x16bf6187b713dc4c937599080f8063ba55beb46a6b3508e895d4f1114fd4fa48",
+   "title": "Counter-Strike: Team Falcons vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "outcome": "Team Falcons",
+   "slug": "cs2-fal2-navi-2026-10-06",
+   "opened_at": "2026-10-06T16:45:34.301475+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 11136.0,
+   "copy_delay_min": 2.4,
+   "best_ask": 0.58,
+   "ask_depth": 466227.5,
    "status": "open"
   }
  ],
@@ -54575,5 +54612,5 @@
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T16:25:25.371762+00:00"
+ "last_updated": "2026-10-06T16:45:34.700659+00:00"
 }
