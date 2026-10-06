@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9701.4579272,
  "last_seen": {
-  "jtwyslljy": 1791294435,
+  "jtwyslljy": 1791294954,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19878,6 +19878,13 @@
    "BUY",
    4000,
    1791294435
+  ],
+  [
+   "0xa52d292e8442a51bea4f73d900e3bc13eacc1e989abbf8dc45db1d73c252b994",
+   "67746749948620493829254936938448532754404882005250512761639099672651154324487",
+   "BUY",
+   5000,
+   1791294954
   ]
  ],
  "leader_pos": {
@@ -32596,10 +32603,10 @@
    "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
    "outcome": "G2",
    "slug": "cs2-g2-prv-2026-10-06",
-   "shares": 8485.57,
-   "cost": 3724.2388,
-   "max_shares": 8485.57,
-   "last_trade_ts": 1791291414
+   "shares": 13485.57,
+   "cost": 6724.2388,
+   "max_shares": 13485.57,
+   "last_trade_ts": 1791294954
   },
   "jtwyslljy|71384871641240547940952009231834104196278062829804717139096202477358741713732": {
    "leader": "jtwyslljy",
@@ -54242,8 +54249,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "Spirit"
+  },
+  {
+   "at": "2026-10-06T14:00:59.089911+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T12:00:00+00:00",
+   "condition_id": "0xc57c2f14b4eeaa48d8dc6d41590c80c8edd4b512e4dfe5910f81dcb34d1c9168",
+   "asset": "67746749948620493829254936938448532754404882005250512761639099672651154324487",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
+   "outcome": "G2"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T13:55:25.825265+00:00"
+ "last_updated": "2026-10-06T14:00:59.090534+00:00"
 }
