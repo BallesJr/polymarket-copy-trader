@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9346.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791277081,
+  "jtwyslljy": 1791278493,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19787,6 +19787,13 @@
    "BUY",
    292.1,
    1791277081
+  ],
+  [
+   "0x6fc3f06a288cfd406224c4efeb240fd1d4965e8ab36754fee4a82ffbdc62479e",
+   "7007612130060836660972164241418052114203686246681584982571700367724904971693",
+   "BUY",
+   15500,
+   1791278493
   ]
  ],
  "leader_pos": {
@@ -32473,6 +32480,18 @@
    "cost": 1060.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1791276751
+  },
+  "jtwyslljy|7007612130060836660972164241418052114203686246681584982571700367724904971693": {
+   "leader": "jtwyslljy",
+   "asset": "7007612130060836660972164241418052114203686246681584982571700367724904971693",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Naomi Osaka",
+   "slug": "wta-muchova-osaka-2026-10-05",
+   "shares": 15500.0,
+   "cost": 5580.0,
+   "max_shares": 15500.0,
+   "last_trade_ts": 1791278493
   }
  },
  "positions": [
@@ -53928,8 +53947,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
    "outcome": "Linda Noskova"
+  },
+  {
+   "at": "2026-10-06T09:25:27.206646+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T07:10:00+00:00",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "asset": "7007612130060836660972164241418052114203686246681584982571700367724904971693",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.48,
+   "cf_shares": 208.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.48,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Naomi Osaka"
   }
  ],
  "total_pnl": -453.441099999999,
- "last_updated": "2026-10-06T09:05:25.711321+00:00"
+ "last_updated": "2026-10-06T09:25:27.493053+00:00"
 }
