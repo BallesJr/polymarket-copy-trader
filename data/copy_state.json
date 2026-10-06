@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9501.4579272,
  "last_seen": {
-  "jtwyslljy": 1791304989,
+  "jtwyslljy": 1791305856,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20032,6 +20032,13 @@
    "BUY",
    19200,
    1791304989
+  ],
+  [
+   "0x47e7fa77e2552752c89cc3e64446950882ae199a7bc59596c89f1dd77cc3a558",
+   "64613877023982453394550586179572051867098164301267918784521697064200962575867",
+   "BUY",
+   8000,
+   1791305856
   ]
  ],
  "leader_pos": {
@@ -32838,6 +32845,18 @@
    "cost": 11136.0,
    "max_shares": 19200.0,
    "last_trade_ts": 1791304989
+  },
+  "jtwyslljy|64613877023982453394550586179572051867098164301267918784521697064200962575867": {
+   "leader": "jtwyslljy",
+   "asset": "64613877023982453394550586179572051867098164301267918784521697064200962575867",
+   "condition_id": "0xee239c787b24f4ad595dde90080b812f2dcca456302bf2e647b558e689b0a54c",
+   "title": "Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage",
+   "outcome": "M80",
+   "slug": "cs2-lgc-m80-2026-10-06",
+   "shares": 8000.0,
+   "cost": 3520.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791305856
   }
  },
  "positions": [
@@ -54609,8 +54628,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-06T17:05:26.637249+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T17:00:00+00:00",
+   "condition_id": "0xee239c787b24f4ad595dde90080b812f2dcca456302bf2e647b558e689b0a54c",
+   "asset": "64613877023982453394550586179572051867098164301267918784521697064200962575867",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.55,
+   "cf_shares": 180.3739,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5544,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Legacy vs M80 (BO3) - ESL Pro League Group Stage",
+   "outcome": "M80"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T16:45:34.700659+00:00"
+ "last_updated": "2026-10-06T17:05:26.886735+00:00"
 }
