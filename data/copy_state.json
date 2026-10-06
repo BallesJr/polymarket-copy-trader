@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9701.4579272,
  "last_seen": {
-  "jtwyslljy": 1791292533,
+  "jtwyslljy": 1791293259,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19850,6 +19850,13 @@
    "BUY",
    1175.94,
    1791292533
+  ],
+  [
+   "0xe822270b9ec89ba2f337595a15856c67e385625313535b3f8d2c2e9884ca380a",
+   "18407550774608686419222835773887974746470840155068747626115271785772650609175",
+   "BUY",
+   1145,
+   1791293259
   ]
  ],
  "leader_pos": {
@@ -32592,10 +32599,10 @@
    "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "1WIN",
    "slug": "cs2-ts7-1win-2026-10-06",
-   "shares": 1175.94,
-   "cost": 776.1204,
-   "max_shares": 1175.94,
-   "last_trade_ts": 1791292533
+   "shares": 2320.94,
+   "cost": 1657.7703999999999,
+   "max_shares": 2320.94,
+   "last_trade_ts": 1791293259
   }
  },
  "positions": [],
@@ -54170,8 +54177,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
    "outcome": "1WIN"
+  },
+  {
+   "at": "2026-10-06T13:35:30.995758+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T12:00:00+00:00",
+   "condition_id": "0x56e328babb41d015cf069937fd72ddb0dae531157d35e205cb4afe0e92df3a1a",
+   "asset": "18407550774608686419222835773887974746470840155068747626115271785772650609175",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
+   "outcome": "1WIN"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T13:20:35.420303+00:00"
+ "last_updated": "2026-10-06T13:35:30.996463+00:00"
 }
