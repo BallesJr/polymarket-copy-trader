@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9446.559027199999,
+ "bankroll": 9346.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791269146,
+  "jtwyslljy": 1791276751,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19773,6 +19773,13 @@
    "BUY",
    2849.28,
    1791269146
+  ],
+  [
+   "0x969921ef58cdc5c189d4bc574607ffabd9061ee880f02ca64ee7a393cb9aab1d",
+   "113481166182766555432178087948011010172071019716391107960574271505256518359456",
+   "BUY",
+   2000,
+   1791276751
   ]
  ],
  "leader_pos": {
@@ -32447,6 +32454,18 @@
    "cost": 1652.5824,
    "max_shares": 2849.28,
    "last_trade_ts": 1791269146
+  },
+  "jtwyslljy|113481166182766555432178087948011010172071019716391107960574271505256518359456": {
+   "leader": "jtwyslljy",
+   "asset": "113481166182766555432178087948011010172071019716391107960574271505256518359456",
+   "condition_id": "0xa5dbc5ba32e71c036ee0105ca500767a98694ff88a72c080eb0490685baed25e",
+   "title": "Set Handicap: Carlos Alcaraz (-1.5) vs Jiri Lehecka (+1.5)",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-alcaraz-lehecka-2026-10-06",
+   "shares": 2000.0,
+   "cost": 1060.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791276751
   }
  },
  "positions": [
@@ -32466,6 +32485,24 @@
    "copy_delay_min": 9.6,
    "best_ask": 0.59,
    "ask_depth": 6545.51,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113481166182766555432178087948011010172071019716391107960574271505256518359456",
+   "condition_id": "0xa5dbc5ba32e71c036ee0105ca500767a98694ff88a72c080eb0490685baed25e",
+   "title": "Set Handicap: Carlos Alcaraz (-1.5) vs Jiri Lehecka (+1.5)",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-alcaraz-lehecka-2026-10-06",
+   "opened_at": "2026-10-06T09:00:59.407969+00:00",
+   "entry_price": 0.5394,
+   "shares": 185.4074,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 1060.0,
+   "copy_delay_min": 8.5,
+   "best_ask": 0.53,
+   "ask_depth": 12.0,
    "status": "open"
   }
  ],
@@ -53887,5 +53924,5 @@
   }
  ],
  "total_pnl": -453.441099999999,
- "last_updated": "2026-10-06T06:55:23.946189+00:00"
+ "last_updated": "2026-10-06T09:00:59.696710+00:00"
 }
