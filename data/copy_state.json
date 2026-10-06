@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9601.4579272,
  "last_seen": {
-  "jtwyslljy": 1791300386,
+  "jtwyslljy": 1791300749,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19962,6 +19962,13 @@
    "BUY",
    3000,
    1791300386
+  ],
+  [
+   "0x5585bd7abb7e888469d2ca691e0b1085b0d937b72351e191ecf5bc458b3c217b",
+   "81318127983459707875797511233709762447037094634284785250076066398808960371881",
+   "BUY",
+   10457.5,
+   1791300749
   ]
  ],
  "leader_pos": {
@@ -32740,10 +32747,10 @@
    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "BetBoom Team",
    "slug": "cs2-9z-bb3-2026-10-06",
-   "shares": 11000.0,
-   "cost": 5600.0,
-   "max_shares": 11000.0,
-   "last_trade_ts": 1791300386
+   "shares": 21457.5,
+   "cost": 8946.4,
+   "max_shares": 21457.5,
+   "last_trade_ts": 1791300749
   }
  },
  "positions": [
@@ -54465,8 +54472,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-06T15:40:31.964714+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T14:30:00+00:00",
+   "condition_id": "0x13c6cc0af4836015fcfdab862cadc62b2117df300b69ba173416fcfe9110649b",
+   "asset": "81318127983459707875797511233709762447037094634284785250076066398808960371881",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: 9z vs BetBoom Team (BO3) - ESL Pro League Group Stage",
+   "outcome": "BetBoom Team"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T15:30:47.668585+00:00"
+ "last_updated": "2026-10-06T15:40:32.170420+00:00"
 }
