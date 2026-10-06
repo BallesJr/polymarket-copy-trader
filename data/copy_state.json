@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9346.559027199999,
+ "bankroll": 9516.0505272,
  "last_seen": {
   "jtwyslljy": 1791280605,
   "0x53757615de": 1787221213
@@ -32504,24 +32504,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "46913582847961849116281034150641894826777821036746282753742365274701862030710",
-   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
-   "title": "China Open: Karolina Muchova vs Naomi Osaka",
-   "outcome": "Karolina Muchova",
-   "slug": "wta-muchova-osaka-2026-10-05",
-   "opened_at": "2026-10-06T06:55:23.807141+00:00",
-   "entry_price": 0.59,
-   "shares": 169.4915,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 1652.58,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.59,
-   "ask_depth": 6545.51,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "113481166182766555432178087948011010172071019716391107960574271505256518359456",
    "condition_id": "0xa5dbc5ba32e71c036ee0105ca500767a98694ff88a72c080eb0490685baed25e",
    "title": "Set Handicap: Carlos Alcaraz (-1.5) vs Jiri Lehecka (+1.5)",
@@ -43443,6 +43425,28 @@
    "exit_price": 1.0,
    "pnl": 300.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "46913582847961849116281034150641894826777821036746282753742365274701862030710",
+   "condition_id": "0x1522d3943a6535571880a41fc6461b739885977b294cef5b54e1e52c2bb2d4ba",
+   "title": "China Open: Karolina Muchova vs Naomi Osaka",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-osaka-2026-10-05",
+   "opened_at": "2026-10-06T06:55:23.807141+00:00",
+   "entry_price": 0.59,
+   "shares": 169.4915,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1652.58,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.59,
+   "ask_depth": 6545.51,
+   "status": "won",
+   "closed_at": "2026-10-06T10:45:32.893239+00:00",
+   "exit_price": 1.0,
+   "pnl": 69.4915,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -53988,6 +53992,6 @@
    "outcome": "Naomi Osaka"
   }
  ],
- "total_pnl": -453.441099999999,
- "last_updated": "2026-10-06T10:00:55.621484+00:00"
+ "total_pnl": -383.949599999999,
+ "last_updated": "2026-10-06T10:45:32.895053+00:00"
 }
