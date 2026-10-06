@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9701.4579272,
  "last_seen": {
-  "jtwyslljy": 1791291414,
+  "jtwyslljy": 1791292533,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19843,6 +19843,13 @@
    "BUY",
    3300,
    1791291414
+  ],
+  [
+   "0xa57f4c045561d166a4c2d029dcb90d69a347afa6b7e91417198b4b84aa3e2136",
+   "18407550774608686419222835773887974746470840155068747626115271785772650609175",
+   "BUY",
+   1175.94,
+   1791292533
   ]
  ],
  "leader_pos": {
@@ -32577,6 +32584,18 @@
    "cost": 614.815,
    "max_shares": 1229.63,
    "last_trade_ts": 1791290542
+  },
+  "jtwyslljy|18407550774608686419222835773887974746470840155068747626115271785772650609175": {
+   "leader": "jtwyslljy",
+   "asset": "18407550774608686419222835773887974746470840155068747626115271785772650609175",
+   "condition_id": "0x56e328babb41d015cf069937fd72ddb0dae531157d35e205cb4afe0e92df3a1a",
+   "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
+   "outcome": "1WIN",
+   "slug": "cs2-ts7-1win-2026-10-06",
+   "shares": 1175.94,
+   "cost": 776.1204,
+   "max_shares": 1175.94,
+   "last_trade_ts": 1791292533
   }
  },
  "positions": [],
@@ -54135,8 +54154,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: G2 vs PARIVISION (BO3) - ESL Pro League Group Stage",
    "outcome": "G2"
+  },
+  {
+   "at": "2026-10-06T13:20:35.419710+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T12:00:00+00:00",
+   "condition_id": "0x56e328babb41d015cf069937fd72ddb0dae531157d35e205cb4afe0e92df3a1a",
+   "asset": "18407550774608686419222835773887974746470840155068747626115271785772650609175",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.67,
+   "cf_shares": 148.0226,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6756,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Spirit vs 1WIN (BO3) - ESL Pro League Group Stage",
+   "outcome": "1WIN"
   }
  ],
  "total_pnl": -298.542199999999,
- "last_updated": "2026-10-06T13:01:00.005129+00:00"
+ "last_updated": "2026-10-06T13:20:35.420303+00:00"
 }
