@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9246.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791221063,
+  "jtwyslljy": 1791251033,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19738,6 +19738,13 @@
    "BUY",
    2058,
    1791221063
+  ],
+  [
+   "0x67077b0981c553e26ac450e7e6a7c5586ea301c2f91e42a104957bfac12d6280",
+   "99779894568963227232071656210774919959161987056159213353797239805610524496082",
+   "BUY",
+   17000,
+   1791251033
   ]
  ],
  "leader_pos": {
@@ -32364,6 +32371,18 @@
    "cost": 1296.54,
    "max_shares": 2058.0,
    "last_trade_ts": 1791221063
+  },
+  "jtwyslljy|99779894568963227232071656210774919959161987056159213353797239805610524496082": {
+   "leader": "jtwyslljy",
+   "asset": "99779894568963227232071656210774919959161987056159213353797239805610524496082",
+   "condition_id": "0x0821f464f7a3e8cde824ad5b971008110484cbf9ea28883d936589ed22bc621a",
+   "title": "Falcons vs. Saints",
+   "outcome": "Falcons",
+   "slug": "nfl-atl-no-2026-10-06",
+   "shares": 17000.0,
+   "cost": 14110.0,
+   "max_shares": 17000.0,
+   "last_trade_ts": 1791251033
   }
  },
  "positions": [],
@@ -53712,8 +53731,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs BetBoom Team (BO3) - ESL Pro League Group Stage",
    "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-10-06T01:50:33.756277+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T00:15:00+00:00",
+   "condition_id": "0x0821f464f7a3e8cde824ad5b971008110484cbf9ea28883d936589ed22bc621a",
+   "asset": "99779894568963227232071656210774919959161987056159213353797239805610524496082",
+   "copy_delay_min": 6.7,
+   "cf_ask": 0.89,
+   "cf_shares": 112.3596,
+   "cf_cost": 100.0,
+   "cf_entry": 0.89,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Falcons vs. Saints",
+   "outcome": "Falcons"
   }
  ],
  "total_pnl": -753.441099999999,
- "last_updated": "2026-10-05T17:25:27.596099+00:00"
+ "last_updated": "2026-10-06T01:50:33.756974+00:00"
 }
