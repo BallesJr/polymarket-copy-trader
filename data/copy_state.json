@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9632.3670312,
  "last_seen": {
-  "jtwyslljy": 1791306465,
+  "jtwyslljy": 1791306537,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20088,6 +20088,20 @@
    "BUY",
    777.99,
    1791306465
+  ],
+  [
+   "0x55f2f51eda0659b9f0d53baf0fcfe40a40d27f0e87489883a674e90653cc4f46",
+   "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "BUY",
+   764.28,
+   1791306534
+  ],
+  [
+   "0x538a83a8ac566ea05d11476214e5c5a9f61214c4433c42d9ce4d028676775a23",
+   "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "BUY",
+   2225.71,
+   1791306537
   ]
  ],
  "leader_pos": {
@@ -32914,10 +32928,10 @@
    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
    "outcome": "Aurora Gaming",
    "slug": "cs2-furia-aur1-2026-10-06",
-   "shares": 3402.99,
-   "cost": 1107.4269000749998,
-   "max_shares": 3402.99,
-   "last_trade_ts": 1791306465
+   "shares": 6392.98,
+   "cost": 2086.480800075,
+   "max_shares": 6392.98,
+   "last_trade_ts": 1791306537
   }
  },
  "positions": [
@@ -54725,8 +54739,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
    "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-10-06T17:15:35.078951+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T15:40:00+00:00",
+   "condition_id": "0x69b99d7b5a9a5d4448d80eec4d92b4784553ac178b7e698cfcb574572bf07c3f",
+   "asset": "32257042547771013282671827242257086457050281743015161002722741159811504399433",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.33,
+   "cf_shares": 303.0303,
+   "cf_cost": 100.0,
+   "cf_entry": 0.33,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
+   "outcome": "Aurora Gaming"
   }
  ],
  "total_pnl": -267.633099999999,
- "last_updated": "2026-10-06T17:10:39.078332+00:00"
+ "last_updated": "2026-10-06T17:15:35.261588+00:00"
 }
