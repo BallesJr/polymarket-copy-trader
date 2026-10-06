@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9146.559027199999,
  "last_seen": {
-  "jtwyslljy": 1791263514,
+  "jtwyslljy": 1791263832,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -19759,6 +19759,13 @@
    "BUY",
    10000,
    1791263514
+  ],
+  [
+   "0xca49fb20c334ffac87d9850e1bc822f03b4ec58f31511697a4bf1d3faa75abdb",
+   "68923323436236148629071016047304220873748756391873000618653957555478849287709",
+   "BUY",
+   18500,
+   1791263832
   ]
  ],
  "leader_pos": {
@@ -32417,10 +32424,10 @@
    "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
    "outcome": "Linda Noskova",
    "slug": "wta-noskova-alexand-2026-10-05",
-   "shares": 10000.0,
-   "cost": 4000.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1791263514
+   "shares": 28500.0,
+   "cost": 11955.0,
+   "max_shares": 28500.0,
+   "last_trade_ts": 1791263832
   }
  },
  "positions": [
@@ -53820,8 +53827,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
    "outcome": "Linda Noskova"
+  },
+  {
+   "at": "2026-10-06T05:30:46.748341+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-06T04:30:00+00:00",
+   "condition_id": "0x8e6ae359865a8ab441f7b11f451d4b3d4082e17206692a52ab8e204f0758a68d",
+   "asset": "68923323436236148629071016047304220873748756391873000618653957555478849287709",
+   "copy_delay_min": 13.6,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Linda Noskova vs Ekaterina Alexandrova",
+   "outcome": "Linda Noskova"
   }
  ],
  "total_pnl": -753.441099999999,
- "last_updated": "2026-10-06T05:25:26.402935+00:00"
+ "last_updated": "2026-10-06T05:30:46.900571+00:00"
 }
