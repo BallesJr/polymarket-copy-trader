@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9704.7808312,
  "last_seen": {
-  "jtwyslljy": 1791346830,
+  "jtwyslljy": 1791352214,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20123,6 +20123,20 @@
    "BUY",
    3900,
    1791346830
+  ],
+  [
+   "0xa8f2c7b5b1c359f2c8f8d3fcaaab27f18d3f49e49e9cdbbe5fb26a5b9e0021c5",
+   "107315816718292020667491325267095149689857937005265627169815981251756153162135",
+   "BUY",
+   1000,
+   1791352127
+  ],
+  [
+   "0x265739eba7576bfc12b82a3b65c3f827ad99c527bf7973d0b9c85a2cb77761cd",
+   "2766548912210570496328907604474701951663654718625933637636804951604160954717",
+   "BUY",
+   10000,
+   1791352214
   ]
  ],
  "leader_pos": {
@@ -32977,6 +32991,30 @@
    "cost": 1755.0,
    "max_shares": 3900.0,
    "last_trade_ts": 1791346830
+  },
+  "jtwyslljy|107315816718292020667491325267095149689857937005265627169815981251756153162135": {
+   "leader": "jtwyslljy",
+   "asset": "107315816718292020667491325267095149689857937005265627169815981251756153162135",
+   "condition_id": "0x00a806ea376492839079ded2431efdb78b48fc3081e917581769eb31c84a52ac",
+   "title": "Shanghai Rolex Masters: Adrian Mannarino vs Nikoloz Basilashvili",
+   "outcome": "Nikoloz Basilashvili",
+   "slug": "atp-mannari-basilas-2026-10-07",
+   "shares": 1000.0,
+   "cost": 470.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1791352127
+  },
+  "jtwyslljy|2766548912210570496328907604474701951663654718625933637636804951604160954717": {
+   "leader": "jtwyslljy",
+   "asset": "2766548912210570496328907604474701951663654718625933637636804951604160954717",
+   "condition_id": "0x3c3ee80470401b94270ed0261731dcf76140e0396b3acee062dca8bfe02a4836",
+   "title": "China Open: Iva Jovic vs Iga Swiatek",
+   "outcome": "Iva Jovic",
+   "slug": "wta-jovic-swiatek-2026-10-05",
+   "shares": 10000.0,
+   "cost": 1000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791352214
   }
  },
  "positions": [
@@ -54822,8 +54860,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - ESL Pro League Group Stage",
    "outcome": "Aurora Gaming"
+  },
+  {
+   "at": "2026-10-07T05:55:26.972317+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T05:10:00+00:00",
+   "condition_id": "0x3c3ee80470401b94270ed0261731dcf76140e0396b3acee062dca8bfe02a4836",
+   "asset": "2766548912210570496328907604474701951663654718625933637636804951604160954717",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.06,
+   "cf_shares": 1666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.06,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Iva Jovic vs Iga Swiatek",
+   "outcome": "Iva Jovic"
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T04:25:28.848705+00:00"
+ "last_updated": "2026-10-07T05:55:27.178599+00:00"
 }
