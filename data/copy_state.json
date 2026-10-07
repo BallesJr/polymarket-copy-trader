@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9404.7808312,
  "last_seen": {
-  "jtwyslljy": 1791354455,
+  "jtwyslljy": 1791356187,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20172,6 +20172,13 @@
    "BUY",
    6155,
    1791354455
+  ],
+  [
+   "0xe01e9343d114bb1522e1a590bb1901cfae3d49ce0428704df771f53dc62f27c9",
+   "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "BUY",
+   5000,
+   1791356187
   ]
  ],
  "leader_pos": {
@@ -33058,10 +33065,10 @@
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan",
    "slug": "atp-molcan-cina-2026-10-07",
-   "shares": 2000.0,
-   "cost": 1200.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1791352640
+   "shares": 7000.0,
+   "cost": 2700.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791356187
   },
   "jtwyslljy|1595389013784276361130227065977749984664953048524123430667946795400973681419": {
    "leader": "jtwyslljy",
@@ -55041,8 +55048,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan"
+  },
+  {
+   "at": "2026-10-07T07:00:58.803881+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T06:05:00+00:00",
+   "condition_id": "0xbfacb085f7cea83987115da48fbf4a6fac7c4154ea8a8373f3d6d5272efd1bbe",
+   "asset": "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.32,
+   "cf_shares": 303.7879,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3292,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
+   "outcome": "Alex Molcan"
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T06:30:45.224874+00:00"
+ "last_updated": "2026-10-07T07:00:59.155743+00:00"
 }
