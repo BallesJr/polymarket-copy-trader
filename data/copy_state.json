@@ -33193,24 +33193,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "54414241809990893978732477981266760680742232339648251658027247700868532109331",
-   "condition_id": "0x345c3d2d9bfa39f6a099a8412a01417175647f8a2aaf3dbe64a07803fbdad244",
-   "title": "Jovic vs. Swiatek: Match O/U 21.5",
-   "outcome": "Over",
-   "slug": "wta-jovic-swiatek-2026-10-05",
-   "opened_at": "2026-10-07T04:25:28.504042+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.45,
-   "leader_cost": 1755.0,
-   "copy_delay_min": 5.0,
-   "best_ask": 0.46,
-   "ask_depth": 1660.15,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "1595389013784276361130227065977749984664953048524123430667946795400973681419",
    "condition_id": "0x561a840d3937c8b9d78fc919aa9f95d082dad7b5f18b49e079c57130e91282f7",
    "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
@@ -44292,6 +44274,28 @@
    "exit_price": 1.0,
    "pnl": 72.4138,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "54414241809990893978732477981266760680742232339648251658027247700868532109331",
+   "condition_id": "0x345c3d2d9bfa39f6a099a8412a01417175647f8a2aaf3dbe64a07803fbdad244",
+   "title": "Jovic vs. Swiatek: Match O/U 21.5",
+   "outcome": "Over",
+   "slug": "wta-jovic-swiatek-2026-10-05",
+   "opened_at": "2026-10-07T04:25:28.504042+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.45,
+   "leader_cost": 1755.0,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.46,
+   "ask_depth": 1660.15,
+   "status": "lost",
+   "closed_at": "2026-10-07T07:30:47.923970+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -55205,6 +55209,6 @@
    "outcome": "Tomas Machac"
   }
  ],
- "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T07:10:35.236550+00:00"
+ "total_pnl": -295.219299999999,
+ "last_updated": "2026-10-07T07:30:47.926132+00:00"
 }
