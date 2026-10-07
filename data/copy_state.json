@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9404.7808312,
+ "bankroll": 9204.7808312,
  "last_seen": {
-  "jtwyslljy": 1791356187,
+  "jtwyslljy": 1791356472,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20179,6 +20179,27 @@
    "BUY",
    5000,
    1791356187
+  ],
+  [
+   "0xcaf9855e81bca9c7fecae7030ea7b26b014fd10d59b432af7d5299163493d042",
+   "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "BUY",
+   1000,
+   1791356282
+  ],
+  [
+   "0x2ff170eb3c4f1746ae3f39197092e258795ae02b99f47efcd9d35abed8eeeaa1",
+   "85973874065949203944748551155862748288639474784086093597675678734752259046859",
+   "BUY",
+   1500,
+   1791356454
+  ],
+  [
+   "0x908ca81adb434c9221c69dd1385602a7ba75fc43d1342ae6016d77f0808ecccc",
+   "92361172651447510375103012607650770914221353607221312998784550863205278797690",
+   "BUY",
+   3500,
+   1791356472
   ]
  ],
  "leader_pos": {
@@ -33065,10 +33086,10 @@
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan",
    "slug": "atp-molcan-cina-2026-10-07",
-   "shares": 7000.0,
-   "cost": 2700.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1791356187
+   "shares": 8000.0,
+   "cost": 2990.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791356282
   },
   "jtwyslljy|1595389013784276361130227065977749984664953048524123430667946795400973681419": {
    "leader": "jtwyslljy",
@@ -33117,6 +33138,30 @@
    "cost": 1661.8500000000001,
    "max_shares": 6155.0,
    "last_trade_ts": 1791354455
+  },
+  "jtwyslljy|85973874065949203944748551155862748288639474784086093597675678734752259046859": {
+   "leader": "jtwyslljy",
+   "asset": "85973874065949203944748551155862748288639474784086093597675678734752259046859",
+   "condition_id": "0xa9ef3810d5cde573e3ffa04c5be0dc480a00c59823a5d41ce8aad8e749bbad08",
+   "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-rune-altmaie-2026-10-06",
+   "shares": 1500.0,
+   "cost": 525.0,
+   "max_shares": 1500.0,
+   "last_trade_ts": 1791356454
+  },
+  "jtwyslljy|92361172651447510375103012607650770914221353607221312998784550863205278797690": {
+   "leader": "jtwyslljy",
+   "asset": "92361172651447510375103012607650770914221353607221312998784550863205278797690",
+   "condition_id": "0xaa81a80c0812f3594d6a02bfe9b217bf1d555c3fd45713cb328d0f6bce593f45",
+   "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
+   "outcome": "Michael Zheng",
+   "slug": "atp-wu-zheng-2026-10-07",
+   "shares": 3500.0,
+   "cost": 1540.0,
+   "max_shares": 3500.0,
+   "last_trade_ts": 1791356472
   }
  },
  "positions": [
@@ -33190,6 +33235,42 @@
    "copy_delay_min": 3.1,
    "best_ask": 0.28,
    "ask_depth": 22434.36,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "92361172651447510375103012607650770914221353607221312998784550863205278797690",
+   "condition_id": "0xaa81a80c0812f3594d6a02bfe9b217bf1d555c3fd45713cb328d0f6bce593f45",
+   "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
+   "outcome": "Michael Zheng",
+   "slug": "atp-wu-zheng-2026-10-07",
+   "opened_at": "2026-10-07T07:05:27.912385+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 1540.0,
+   "copy_delay_min": 4.3,
+   "best_ask": 0.44,
+   "ask_depth": 4661.78,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85973874065949203944748551155862748288639474784086093597675678734752259046859",
+   "condition_id": "0xa9ef3810d5cde573e3ffa04c5be0dc480a00c59823a5d41ce8aad8e749bbad08",
+   "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-rune-altmaie-2026-10-06",
+   "opened_at": "2026-10-07T07:05:28.259858+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 525.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.35,
+   "ask_depth": 8006.37,
    "status": "open"
   }
  ],
@@ -55064,8 +55145,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan"
+  },
+  {
+   "at": "2026-10-07T07:05:28.086268+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T06:05:00+00:00",
+   "condition_id": "0xbfacb085f7cea83987115da48fbf4a6fac7c4154ea8a8373f3d6d5272efd1bbe",
+   "asset": "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.51,
+   "cf_shares": 196.0784,
+   "cf_cost": 100.0,
+   "cf_entry": 0.51,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
+   "outcome": "Alex Molcan"
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T07:00:59.155743+00:00"
+ "last_updated": "2026-10-07T07:05:28.574966+00:00"
 }
