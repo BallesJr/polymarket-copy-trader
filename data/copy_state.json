@@ -33319,24 +33319,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "98705964912052114061135377980795718240377792224767378825952537844982436338266",
-   "condition_id": "0xa4dd7e9816b13fa8f0388263284360696993c12a00424bd294f644a1bc094d95",
-   "title": "Shanghai Rolex Masters: Marco Trungelliti vs Rei Sakamoto",
-   "outcome": "Marco Trungelliti",
-   "slug": "atp-trungel-sakamot-2026-10-07",
-   "opened_at": "2026-10-07T06:00:57.313650+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 1598.0,
-   "copy_delay_min": 2.6,
-   "best_ask": 0.34,
-   "ask_depth": 10646.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "32433672681857256005859752217628959297806304832546298561943001525759225243537",
    "condition_id": "0xf3cf002cfdc573d7ef66f1e7585b2b3a9f2dc0a462bf4d0c25869cca2bad5d2b",
    "title": "Shanghai Rolex Masters: Rinky Hijikata vs Roman Safiullin",
@@ -44422,6 +44404,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98705964912052114061135377980795718240377792224767378825952537844982436338266",
+   "condition_id": "0xa4dd7e9816b13fa8f0388263284360696993c12a00424bd294f644a1bc094d95",
+   "title": "Shanghai Rolex Masters: Marco Trungelliti vs Rei Sakamoto",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-sakamot-2026-10-07",
+   "opened_at": "2026-10-07T06:00:57.313650+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1598.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.34,
+   "ask_depth": 10646.03,
+   "status": "lost",
+   "closed_at": "2026-10-07T09:15:33.010741+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -55367,6 +55371,6 @@
    "outcome": "Tomas Machac"
   }
  ],
- "total_pnl": -295.219299999999,
- "last_updated": "2026-10-07T08:30:48.490072+00:00"
+ "total_pnl": -395.219299999999,
+ "last_updated": "2026-10-07T09:15:33.012716+00:00"
 }
