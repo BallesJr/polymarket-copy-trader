@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9704.7808312,
+ "bankroll": 9504.7808312,
  "last_seen": {
-  "jtwyslljy": 1791352214,
+  "jtwyslljy": 1791352760,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20137,6 +20137,34 @@
    "BUY",
    10000,
    1791352214
+  ],
+  [
+   "0x272a9aab9005d76a20b13d83dd7a85fdc516d1b71247b687e8d7505d94753008",
+   "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "BUY",
+   2000,
+   1791352640
+  ],
+  [
+   "0x1b5e19377897a0059de74bd1888132404492fe7bef6a4e9635880c4f264b5748",
+   "1595389013784276361130227065977749984664953048524123430667946795400973681419",
+   "BUY",
+   3600,
+   1791352665
+  ],
+  [
+   "0x770798437d5b2be2ed68ab181d15656a46f7c669129daae2c23bbe5c18062da4",
+   "98705964912052114061135377980795718240377792224767378825952537844982436338266",
+   "BUY",
+   4700,
+   1791352698
+  ],
+  [
+   "0x13b54c87314366f862640302bdd9d2fda070608b234677e9e8f75513cc448f61",
+   "105574299049079084263113438916537869790357501446931836195190455116489724834024",
+   "BUY",
+   105,
+   1791352760
   ]
  ],
  "leader_pos": {
@@ -33015,6 +33043,54 @@
    "cost": 1000.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1791352214
+  },
+  "jtwyslljy|5647859266267052263150410568069067080959335293041592449472606761907409827521": {
+   "leader": "jtwyslljy",
+   "asset": "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "condition_id": "0xbfacb085f7cea83987115da48fbf4a6fac7c4154ea8a8373f3d6d5272efd1bbe",
+   "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-cina-2026-10-07",
+   "shares": 2000.0,
+   "cost": 1200.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791352640
+  },
+  "jtwyslljy|1595389013784276361130227065977749984664953048524123430667946795400973681419": {
+   "leader": "jtwyslljy",
+   "asset": "1595389013784276361130227065977749984664953048524123430667946795400973681419",
+   "condition_id": "0x561a840d3937c8b9d78fc919aa9f95d082dad7b5f18b49e079c57130e91282f7",
+   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-majchrz-2026-10-06",
+   "shares": 3600.0,
+   "cost": 1440.0,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1791352665
+  },
+  "jtwyslljy|98705964912052114061135377980795718240377792224767378825952537844982436338266": {
+   "leader": "jtwyslljy",
+   "asset": "98705964912052114061135377980795718240377792224767378825952537844982436338266",
+   "condition_id": "0xa4dd7e9816b13fa8f0388263284360696993c12a00424bd294f644a1bc094d95",
+   "title": "Shanghai Rolex Masters: Marco Trungelliti vs Rei Sakamoto",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-sakamot-2026-10-07",
+   "shares": 4700.0,
+   "cost": 1598.0000000000002,
+   "max_shares": 4700.0,
+   "last_trade_ts": 1791352698
+  },
+  "jtwyslljy|105574299049079084263113438916537869790357501446931836195190455116489724834024": {
+   "leader": "jtwyslljy",
+   "asset": "105574299049079084263113438916537869790357501446931836195190455116489724834024",
+   "condition_id": "0x9e4a8a10ba6545489dfc533a0745b3e0a5c29eae798c58e611e4d5985fa6fce2",
+   "title": "Shanghai Rolex Masters: Quentin Halys vs Coleman Wong",
+   "outcome": "Quentin Halys",
+   "slug": "atp-halys-wong-2026-10-07",
+   "shares": 105.0,
+   "cost": 58.800000000000004,
+   "max_shares": 105.0,
+   "last_trade_ts": 1791352760
   }
  },
  "positions": [
@@ -33034,6 +33110,42 @@
    "copy_delay_min": 5.0,
    "best_ask": 0.46,
    "ask_depth": 1660.15,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1595389013784276361130227065977749984664953048524123430667946795400973681419",
+   "condition_id": "0x561a840d3937c8b9d78fc919aa9f95d082dad7b5f18b49e079c57130e91282f7",
+   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-majchrz-2026-10-06",
+   "opened_at": "2026-10-07T06:00:57.181910+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1440.0,
+   "copy_delay_min": 3.2,
+   "best_ask": 0.4,
+   "ask_depth": 3086.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98705964912052114061135377980795718240377792224767378825952537844982436338266",
+   "condition_id": "0xa4dd7e9816b13fa8f0388263284360696993c12a00424bd294f644a1bc094d95",
+   "title": "Shanghai Rolex Masters: Marco Trungelliti vs Rei Sakamoto",
+   "outcome": "Marco Trungelliti",
+   "slug": "atp-trungel-sakamot-2026-10-07",
+   "opened_at": "2026-10-07T06:00:57.313650+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 1598.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.34,
+   "ask_depth": 10646.03,
    "status": "open"
   }
  ],
@@ -54876,8 +54988,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Iva Jovic vs Iga Swiatek",
    "outcome": "Iva Jovic"
+  },
+  {
+   "at": "2026-10-07T06:00:57.452530+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T06:00:00+00:00",
+   "condition_id": "0xbfacb085f7cea83987115da48fbf4a6fac7c4154ea8a8373f3d6d5272efd1bbe",
+   "asset": "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "copy_delay_min": 3.6,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
+   "outcome": "Alex Molcan"
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T05:55:27.178599+00:00"
+ "last_updated": "2026-10-07T06:00:57.727093+00:00"
 }
