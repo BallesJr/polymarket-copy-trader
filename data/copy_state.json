@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9354.7808312,
  "last_seen": {
-  "jtwyslljy": 1791361707,
+  "jtwyslljy": 1791371394,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20298,6 +20298,20 @@
    "SELL",
    2000,
    1791361707
+  ],
+  [
+   "0xc14a6d09640479778e5cc097e3e35755c168e1fa79624060565e36656d7aa1d8",
+   "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "BUY",
+   4500,
+   1791371369
+  ],
+  [
+   "0x026e1873bb498b33f79fac860013a10213f54ad13141a1807084392a2210b8f7",
+   "92361172651447510375103012607650770914221353607221312998784550863205278797690",
+   "BUY",
+   1000,
+   1791371394
   ]
  ],
  "leader_pos": {
@@ -33256,10 +33270,10 @@
    "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
    "outcome": "Michael Zheng",
    "slug": "atp-wu-zheng-2026-10-07",
-   "shares": 5000.0,
-   "cost": 2200.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1791361653
+   "shares": 6000.0,
+   "cost": 2450.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791371394
   },
   "jtwyslljy|76932104222537965677109673793773947375195284495353930280661015097587729855262": {
    "leader": "jtwyslljy",
@@ -33296,6 +33310,18 @@
    "cost": 740.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791361707
+  },
+  "jtwyslljy|42286360755185195762617217964335962727383200945962734192315384903686888908994": {
+   "leader": "jtwyslljy",
+   "asset": "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "condition_id": "0x823fec411a697ff7c83ab54184d3784eae92edb605476898a88d6d8a06387b3b",
+   "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
+   "outcome": "Mattia Bellucci",
+   "slug": "atp-bellucc-zhou-2026-10-07",
+   "shares": 4500.0,
+   "cost": 2340.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1791371369
   }
  },
  "positions": [
@@ -55377,8 +55403,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-10-07T11:10:29.978431+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T10:05:00+00:00",
+   "condition_id": "0x823fec411a697ff7c83ab54184d3784eae92edb605476898a88d6d8a06387b3b",
+   "asset": "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "copy_delay_min": 1.0,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
+   "outcome": "Mattia Bellucci"
   }
  ],
  "total_pnl": -345.219299999999,
- "last_updated": "2026-10-07T10:35:26.315597+00:00"
+ "last_updated": "2026-10-07T11:10:30.293435+00:00"
 }
