@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9354.7808312,
+ "bankroll": 9488.1141752,
  "last_seen": {
-  "jtwyslljy": 1791375311,
+  "jtwyslljy": 1791375923,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20347,6 +20347,20 @@
    "BUY",
    38,
    1791375311
+  ],
+  [
+   "0xdedcafa2fc88e77cc747a015bfbc5222c6cf020bba1e903be4ac99e7f4a8103a",
+   "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "SELL",
+   2300,
+   1791375814
+  ],
+  [
+   "0x773bb5a6392e97b27fa99a9af29b0a632253ae1ea4fc0713451f10abc1e6fb49",
+   "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "SELL",
+   8499.82,
+   1791375923
   ]
  ],
  "leader_pos": {
@@ -33341,10 +33355,10 @@
    "title": "China Open: Alina Charaeva vs Qinwen Zheng",
    "outcome": "Alina Charaeva",
    "slug": "wta-charaev-zhen-2026-10-05",
-   "shares": 6267.25,
-   "cost": 1284.8522,
+   "shares": -2232.5699999999997,
+   "cost": -1520.0883999999999,
    "max_shares": 6267.25,
-   "last_trade_ts": 1791375311
+   "last_trade_ts": 1791375923
   },
   "jtwyslljy|42286360755185195762617217964335962727383200945962734192315384903686888908994": {
    "leader": "jtwyslljy",
@@ -33353,10 +33367,10 @@
    "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
    "outcome": "Mattia Bellucci",
    "slug": "atp-bellucc-zhou-2026-10-07",
-   "shares": 4500.0,
-   "cost": 2340.0,
+   "shares": 2200.0,
+   "cost": 730.0,
    "max_shares": 4500.0,
-   "last_trade_ts": 1791371369
+   "last_trade_ts": 1791375814
   }
  },
  "positions": [
@@ -33394,24 +33408,6 @@
    "copy_delay_min": 4.6,
    "best_ask": 0.35,
    "ask_depth": 8006.37,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "16419334184955610679668118117942539080091982961476159826950365104292987032304",
-   "condition_id": "0x7e7e59264e1685649f6677f8166283ddfffd67e2bd2f06798624d003e88041e4",
-   "title": "China Open: Alina Charaeva vs Qinwen Zheng",
-   "outcome": "Alina Charaeva",
-   "slug": "wta-charaev-zhen-2026-10-05",
-   "opened_at": "2026-10-07T08:30:47.908280+00:00",
-   "entry_price": 0.24,
-   "shares": 416.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.2467,
-   "leader_cost": 740.0,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.24,
-   "ask_depth": 3787.0,
    "status": "open"
   }
  ],
@@ -44495,6 +44491,28 @@
    "exit_price": 1.0,
    "pnl": 150.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "condition_id": "0x7e7e59264e1685649f6677f8166283ddfffd67e2bd2f06798624d003e88041e4",
+   "title": "China Open: Alina Charaeva vs Qinwen Zheng",
+   "outcome": "Alina Charaeva",
+   "slug": "wta-charaev-zhen-2026-10-05",
+   "opened_at": "2026-10-07T08:30:47.908280+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.2467,
+   "leader_cost": 740.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.24,
+   "ask_depth": 3787.0,
+   "status": "closed",
+   "closed_at": "2026-10-07T12:30:49.262504+00:00",
+   "exit_price": 0.32,
+   "pnl": 33.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -55456,6 +55474,6 @@
    "outcome": "Mattia Bellucci"
   }
  ],
- "total_pnl": -345.219299999999,
- "last_updated": "2026-10-07T12:20:32.362250+00:00"
+ "total_pnl": -311.885999999999,
+ "last_updated": "2026-10-07T12:30:49.951309+00:00"
 }
