@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9488.1141752,
  "last_seen": {
-  "jtwyslljy": 1791376126,
+  "jtwyslljy": 1791377672,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20396,6 +20396,13 @@
    "BUY",
    300,
    1791376126
+  ],
+  [
+   "0x0d9b2b8d218995ef909f6deb346ff2e7f1bb4e973bfc20cea599f4e974941a3d",
+   "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "BUY",
+   1000,
+   1791377672
   ]
  ],
  "leader_pos": {
@@ -33402,10 +33409,10 @@
    "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
    "outcome": "Mattia Bellucci",
    "slug": "atp-bellucc-zhou-2026-10-07",
-   "shares": 2200.0,
-   "cost": 730.0,
+   "shares": 3200.0,
+   "cost": 1050.0,
    "max_shares": 4500.0,
-   "last_trade_ts": 1791375814
+   "last_trade_ts": 1791377672
   },
   "jtwyslljy|14137523114087095112738641530724064465711200821441052102299597362364623636320": {
    "leader": "jtwyslljy",
@@ -55539,8 +55546,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alina Charaeva vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-07T13:05:27.819327+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T10:05:00+00:00",
+   "condition_id": "0x823fec411a697ff7c83ab54184d3784eae92edb605476898a88d6d8a06387b3b",
+   "asset": "42286360755185195762617217964335962727383200945962734192315384903686888908994",
+   "copy_delay_min": 10.9,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Mattia Bellucci vs Yi Zhou",
+   "outcome": "Mattia Bellucci"
   }
  ],
  "total_pnl": -411.885999999999,
- "last_updated": "2026-10-07T12:35:25.924043+00:00"
+ "last_updated": "2026-10-07T13:05:28.037529+00:00"
 }
