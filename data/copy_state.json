@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9504.7808312,
+ "bankroll": 9404.7808312,
  "last_seen": {
-  "jtwyslljy": 1791352760,
+  "jtwyslljy": 1791354455,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20165,6 +20165,13 @@
    "BUY",
    105,
    1791352760
+  ],
+  [
+   "0x5098847e5ff33331d018b1ae75b180c04b46b0f23d61aa79b1e9a14fb295f083",
+   "32433672681857256005859752217628959297806304832546298561943001525759225243537",
+   "BUY",
+   6155,
+   1791354455
   ]
  ],
  "leader_pos": {
@@ -33091,6 +33098,18 @@
    "cost": 58.800000000000004,
    "max_shares": 105.0,
    "last_trade_ts": 1791352760
+  },
+  "jtwyslljy|32433672681857256005859752217628959297806304832546298561943001525759225243537": {
+   "leader": "jtwyslljy",
+   "asset": "32433672681857256005859752217628959297806304832546298561943001525759225243537",
+   "condition_id": "0xf3cf002cfdc573d7ef66f1e7585b2b3a9f2dc0a462bf4d0c25869cca2bad5d2b",
+   "title": "Shanghai Rolex Masters: Rinky Hijikata vs Roman Safiullin",
+   "outcome": "Rinky Hijikata",
+   "slug": "atp-hijikat-safiull-2026-10-07",
+   "shares": 6155.0,
+   "cost": 1661.8500000000001,
+   "max_shares": 6155.0,
+   "last_trade_ts": 1791354455
   }
  },
  "positions": [
@@ -33146,6 +33165,24 @@
    "copy_delay_min": 2.6,
    "best_ask": 0.34,
    "ask_depth": 10646.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32433672681857256005859752217628959297806304832546298561943001525759225243537",
+   "condition_id": "0xf3cf002cfdc573d7ef66f1e7585b2b3a9f2dc0a462bf4d0c25869cca2bad5d2b",
+   "title": "Shanghai Rolex Masters: Rinky Hijikata vs Roman Safiullin",
+   "outcome": "Rinky Hijikata",
+   "slug": "atp-hijikat-safiull-2026-10-07",
+   "opened_at": "2026-10-07T06:30:44.909310+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1661.85,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.28,
+   "ask_depth": 22434.36,
    "status": "open"
   }
  ],
@@ -55007,5 +55044,5 @@
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T06:00:57.727093+00:00"
+ "last_updated": "2026-10-07T06:30:45.224874+00:00"
 }
