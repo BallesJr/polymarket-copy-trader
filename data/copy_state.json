@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9488.1141752,
+ "bankroll": 9773.5427609,
  "last_seen": {
-  "jtwyslljy": 1791384488,
+  "jtwyslljy": 1791386786,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20466,6 +20466,13 @@
    "SELL",
    3200,
    1791384488
+  ],
+  [
+   "0xf062d6a21243f1e18c175b8190f1a2b8d1ed87fbc077d2b026ef0a157d406b60",
+   "85973874065949203944748551155862748288639474784086093597675678734752259046859",
+   "SELL",
+   1600,
+   1791386786
   ]
  ],
  "leader_pos": {
@@ -33412,10 +33419,10 @@
    "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
    "outcome": "Daniel Altmaier",
    "slug": "atp-rune-altmaie-2026-10-06",
-   "shares": 3299.99,
-   "cost": 29.80680005000113,
+   "shares": 1699.9899999999998,
+   "cost": -1410.1931999499989,
    "max_shares": 6499.99,
-   "last_trade_ts": 1791384488
+   "last_trade_ts": 1791386786
   },
   "jtwyslljy|92361172651447510375103012607650770914221353607221312998784550863205278797690": {
    "leader": "jtwyslljy",
@@ -33514,26 +33521,7 @@
    "last_trade_ts": 1791383416
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "85973874065949203944748551155862748288639474784086093597675678734752259046859",
-   "condition_id": "0xa9ef3810d5cde573e3ffa04c5be0dc480a00c59823a5d41ce8aad8e749bbad08",
-   "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
-   "outcome": "Daniel Altmaier",
-   "slug": "atp-rune-altmaie-2026-10-06",
-   "opened_at": "2026-10-07T07:05:28.259858+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 525.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.35,
-   "ask_depth": 8006.37,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -44658,6 +44646,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "85973874065949203944748551155862748288639474784086093597675678734752259046859",
+   "condition_id": "0xa9ef3810d5cde573e3ffa04c5be0dc480a00c59823a5d41ce8aad8e749bbad08",
+   "title": "Shanghai Rolex Masters: Holger Rune vs Daniel Altmaier",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-rune-altmaie-2026-10-06",
+   "opened_at": "2026-10-07T07:05:28.259858+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 525.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.35,
+   "ask_depth": 8006.37,
+   "status": "closed",
+   "closed_at": "2026-10-07T15:35:27.595167+00:00",
+   "exit_price": 0.999,
+   "pnl": 185.4286,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -55667,6 +55677,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -411.885999999999,
- "last_updated": "2026-10-07T15:01:01.791138+00:00"
+ "total_pnl": -226.457399999999,
+ "last_updated": "2026-10-07T15:35:27.595644+00:00"
 }
