@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9104.7808312,
+ "bankroll": 9354.7808312,
  "last_seen": {
   "jtwyslljy": 1791361707,
   "0x53757615de": 1787221213
@@ -33301,24 +33301,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "1595389013784276361130227065977749984664953048524123430667946795400973681419",
-   "condition_id": "0x561a840d3937c8b9d78fc919aa9f95d082dad7b5f18b49e079c57130e91282f7",
-   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
-   "outcome": "Yannick Hanfmann",
-   "slug": "atp-hanfman-majchrz-2026-10-06",
-   "opened_at": "2026-10-07T06:00:57.181910+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 1440.0,
-   "copy_delay_min": 3.2,
-   "best_ask": 0.4,
-   "ask_depth": 3086.68,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "92361172651447510375103012607650770914221353607221312998784550863205278797690",
    "condition_id": "0xaa81a80c0812f3594d6a02bfe9b217bf1d555c3fd45713cb328d0f6bce593f45",
    "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
@@ -44430,6 +44412,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1595389013784276361130227065977749984664953048524123430667946795400973681419",
+   "condition_id": "0x561a840d3937c8b9d78fc919aa9f95d082dad7b5f18b49e079c57130e91282f7",
+   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
+   "outcome": "Yannick Hanfmann",
+   "slug": "atp-hanfman-majchrz-2026-10-06",
+   "opened_at": "2026-10-07T06:00:57.181910+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1440.0,
+   "copy_delay_min": 3.2,
+   "best_ask": 0.4,
+   "ask_depth": 3086.68,
+   "status": "won",
+   "closed_at": "2026-10-07T10:35:26.313852+00:00",
+   "exit_price": 1.0,
+   "pnl": 150.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -55375,6 +55379,6 @@
    "outcome": "Tomas Machac"
   }
  ],
- "total_pnl": -495.219299999999,
- "last_updated": "2026-10-07T10:20:32.941473+00:00"
+ "total_pnl": -345.219299999999,
+ "last_updated": "2026-10-07T10:35:26.315597+00:00"
 }
