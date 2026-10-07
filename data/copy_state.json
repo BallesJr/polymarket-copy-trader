@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9204.7808312,
  "last_seen": {
-  "jtwyslljy": 1791360513,
+  "jtwyslljy": 1791360908,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20235,6 +20235,13 @@
    "BUY",
    2000,
    1791360513
+  ],
+  [
+   "0x34c8207a4f7904d41c7f986308290e54a39a7b41b99a459adec3cd6021a51778",
+   "1595389013784276361130227065977749984664953048524123430667946795400973681419",
+   "BUY",
+   4000,
+   1791360908
   ]
  ],
  "leader_pos": {
@@ -33133,10 +33140,10 @@
    "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Kamil Majchrzak",
    "outcome": "Yannick Hanfmann",
    "slug": "atp-hanfman-majchrz-2026-10-06",
-   "shares": 3600.0,
-   "cost": 1440.0,
-   "max_shares": 3600.0,
-   "last_trade_ts": 1791352665
+   "shares": 7600.0,
+   "cost": 2200.0,
+   "max_shares": 7600.0,
+   "last_trade_ts": 1791360908
   },
   "jtwyslljy|98705964912052114061135377980795718240377792224767378825952537844982436338266": {
    "leader": "jtwyslljy",
@@ -55259,5 +55266,5 @@
   }
  ],
  "total_pnl": -295.219299999999,
- "last_updated": "2026-10-07T08:15:31.899880+00:00"
+ "last_updated": "2026-10-07T08:20:29.920281+00:00"
 }
