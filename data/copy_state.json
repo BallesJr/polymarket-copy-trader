@@ -33319,24 +33319,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "32433672681857256005859752217628959297806304832546298561943001525759225243537",
-   "condition_id": "0xf3cf002cfdc573d7ef66f1e7585b2b3a9f2dc0a462bf4d0c25869cca2bad5d2b",
-   "title": "Shanghai Rolex Masters: Rinky Hijikata vs Roman Safiullin",
-   "outcome": "Rinky Hijikata",
-   "slug": "atp-hijikat-safiull-2026-10-07",
-   "opened_at": "2026-10-07T06:30:44.909310+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.27,
-   "leader_cost": 1661.85,
-   "copy_delay_min": 3.1,
-   "best_ask": 0.28,
-   "ask_depth": 22434.36,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "92361172651447510375103012607650770914221353607221312998784550863205278797690",
    "condition_id": "0xaa81a80c0812f3594d6a02bfe9b217bf1d555c3fd45713cb328d0f6bce593f45",
    "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
@@ -44426,6 +44408,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32433672681857256005859752217628959297806304832546298561943001525759225243537",
+   "condition_id": "0xf3cf002cfdc573d7ef66f1e7585b2b3a9f2dc0a462bf4d0c25869cca2bad5d2b",
+   "title": "Shanghai Rolex Masters: Rinky Hijikata vs Roman Safiullin",
+   "outcome": "Rinky Hijikata",
+   "slug": "atp-hijikat-safiull-2026-10-07",
+   "opened_at": "2026-10-07T06:30:44.909310+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1661.85,
+   "copy_delay_min": 3.1,
+   "best_ask": 0.28,
+   "ask_depth": 22434.36,
+   "status": "lost",
+   "closed_at": "2026-10-07T10:20:32.939598+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -55371,6 +55375,6 @@
    "outcome": "Tomas Machac"
   }
  ],
- "total_pnl": -395.219299999999,
- "last_updated": "2026-10-07T09:15:33.012716+00:00"
+ "total_pnl": -495.219299999999,
+ "last_updated": "2026-10-07T10:20:32.941473+00:00"
 }
