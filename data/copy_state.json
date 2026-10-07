@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9204.7808312,
  "last_seen": {
-  "jtwyslljy": 1791356730,
+  "jtwyslljy": 1791360513,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20214,6 +20214,27 @@
    "BUY",
    300,
    1791356730
+  ],
+  [
+   "0xcd6926dcddda80a2635f67e4878256106a0ffe48d06072bf4c8f5acbe6fa8b7c",
+   "5647859266267052263150410568069067080959335293041592449472606761907409827521",
+   "SELL",
+   8000,
+   1791360449
+  ],
+  [
+   "0x61471d4dce76af8b59cc5d2f0b7a791609b77bb1ea6fdf18c6ea8c0891e4c2f9",
+   "1831380963875261345136970820872551649465384256256028720456229424031294448144",
+   "BUY",
+   5884.75,
+   1791360498
+  ],
+  [
+   "0xe0e5a3b777b9f90928322966ed60182ea731b8ccdd0522303bb3fc36ef505c67",
+   "1831380963875261345136970820872551649465384256256028720456229424031294448144",
+   "BUY",
+   2000,
+   1791360513
   ]
  ],
  "leader_pos": {
@@ -33100,10 +33121,10 @@
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan",
    "slug": "atp-molcan-cina-2026-10-07",
-   "shares": 8000.0,
-   "cost": 2990.0,
+   "shares": 0.0,
+   "cost": -5002.0,
    "max_shares": 8000.0,
-   "last_trade_ts": 1791356282
+   "last_trade_ts": 1791360449
   },
   "jtwyslljy|1595389013784276361130227065977749984664953048524123430667946795400973681419": {
    "leader": "jtwyslljy",
@@ -33188,6 +33209,18 @@
    "cost": 6961.34169994609,
    "max_shares": 16774.82,
    "last_trade_ts": 1791356730
+  },
+  "jtwyslljy|1831380963875261345136970820872551649465384256256028720456229424031294448144": {
+   "leader": "jtwyslljy",
+   "asset": "1831380963875261345136970820872551649465384256256028720456229424031294448144",
+   "condition_id": "0x9bdbab5cfe4f0c078dba657999fa1584def2ff9d403d767beea1cc2d24503ee9",
+   "title": "China Open: Coco Gauff vs Elise Mertens",
+   "outcome": "Coco Gauff",
+   "slug": "wta-gauff-mertens-2026-10-06",
+   "shares": 7884.75,
+   "cost": 1813.4925,
+   "max_shares": 7884.75,
+   "last_trade_ts": 1791360513
   }
  },
  "positions": [
@@ -55207,8 +55240,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-10-07T08:15:31.634506+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T07:05:00+00:00",
+   "condition_id": "0x9bdbab5cfe4f0c078dba657999fa1584def2ff9d403d767beea1cc2d24503ee9",
+   "asset": "1831380963875261345136970820872551649465384256256028720456229424031294448144",
+   "copy_delay_min": 7.0,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Coco Gauff vs Elise Mertens",
+   "outcome": "Coco Gauff"
   }
  ],
  "total_pnl": -295.219299999999,
- "last_updated": "2026-10-07T07:30:47.926132+00:00"
+ "last_updated": "2026-10-07T08:15:31.899880+00:00"
 }
