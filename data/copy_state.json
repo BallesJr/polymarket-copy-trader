@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9204.7808312,
  "last_seen": {
-  "jtwyslljy": 1791356472,
+  "jtwyslljy": 1791356730,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20200,6 +20200,20 @@
    "BUY",
    3500,
    1791356472
+  ],
+  [
+   "0x75a6ee84dad788ee4c325735fc23f03de42352105083bd03c24b75805ddc3642",
+   "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "BUY",
+   16474.82,
+   1791356621
+  ],
+  [
+   "0xed76614b41be6821993164f42c73b7a8a4164c51b02c4a356f58785e16ad9efb",
+   "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "BUY",
+   300,
+   1791356730
   ]
  ],
  "leader_pos": {
@@ -33162,6 +33176,18 @@
    "cost": 1540.0,
    "max_shares": 3500.0,
    "last_trade_ts": 1791356472
+  },
+  "jtwyslljy|76932104222537965677109673793773947375195284495353930280661015097587729855262": {
+   "leader": "jtwyslljy",
+   "asset": "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "condition_id": "0x02020dbb728dc2003d98b7d7b41c5fa204339aa443ec076198f4285c012e90bb",
+   "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
+   "outcome": "Tomas Machac",
+   "slug": "atp-zhang-machac-2026-10-06",
+   "shares": 16774.82,
+   "cost": 6961.34169994609,
+   "max_shares": 16774.82,
+   "last_trade_ts": 1791356730
   }
  },
  "positions": [
@@ -55161,8 +55187,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alex Molcan vs Federico Cina",
    "outcome": "Alex Molcan"
+  },
+  {
+   "at": "2026-10-07T07:10:34.886653+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T06:45:00+00:00",
+   "condition_id": "0x02020dbb728dc2003d98b7d7b41c5fa204339aa443ec076198f4285c012e90bb",
+   "asset": "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
+   "outcome": "Tomas Machac"
   }
  ],
  "total_pnl": -195.219299999999,
- "last_updated": "2026-10-07T07:05:28.574966+00:00"
+ "last_updated": "2026-10-07T07:10:35.236550+00:00"
 }
