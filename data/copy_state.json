@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9204.7808312,
+ "bankroll": 9104.7808312,
  "last_seen": {
-  "jtwyslljy": 1791361398,
+  "jtwyslljy": 1791361707,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20263,6 +20263,41 @@
    "BUY",
    40,
    1791361398
+  ],
+  [
+   "0x5461ec2370c7234faf24eaf9c9ad99057f46173241ec00a9accd4b066e4724fe",
+   "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "BUY",
+   225,
+   1791361533
+  ],
+  [
+   "0x50de9b055b7c3c5cad669924e5e6d5efe643e18e25baa080f201f61d6a60a1c2",
+   "98705964912052114061135377980795718240377792224767378825952537844982436338266",
+   "BUY",
+   2300,
+   1791361605
+  ],
+  [
+   "0x21e7b82d1abac8079f20cd22a573a2669e84158b37ad3a57e4aa7dfcec0898ff",
+   "92361172651447510375103012607650770914221353607221312998784550863205278797690",
+   "BUY",
+   1500,
+   1791361653
+  ],
+  [
+   "0x7b1078ed1cf1c3fb976dd58ed2d5c61cdc2264c3aa244d9f3727ba13faef28fa",
+   "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "BUY",
+   5000,
+   1791361691
+  ],
+  [
+   "0x41cb7fe3eeb793abe77c2d8c0c81d85ec57f6b873af310e612e1b5b7806a8e99",
+   "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "SELL",
+   2000,
+   1791361707
   ]
  ],
  "leader_pos": {
@@ -33173,10 +33208,10 @@
    "title": "Shanghai Rolex Masters: Marco Trungelliti vs Rei Sakamoto",
    "outcome": "Marco Trungelliti",
    "slug": "atp-trungel-sakamot-2026-10-07",
-   "shares": 4700.0,
-   "cost": 1598.0000000000002,
-   "max_shares": 4700.0,
-   "last_trade_ts": 1791352698
+   "shares": 7000.0,
+   "cost": 1897.0000000000002,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791361605
   },
   "jtwyslljy|105574299049079084263113438916537869790357501446931836195190455116489724834024": {
    "leader": "jtwyslljy",
@@ -33221,10 +33256,10 @@
    "title": "Shanghai Rolex Masters: Yibing Wu vs Michael Zheng",
    "outcome": "Michael Zheng",
    "slug": "atp-wu-zheng-2026-10-07",
-   "shares": 3500.0,
-   "cost": 1540.0,
-   "max_shares": 3500.0,
-   "last_trade_ts": 1791356472
+   "shares": 5000.0,
+   "cost": 2200.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791361653
   },
   "jtwyslljy|76932104222537965677109673793773947375195284495353930280661015097587729855262": {
    "leader": "jtwyslljy",
@@ -33233,10 +33268,10 @@
    "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
    "outcome": "Tomas Machac",
    "slug": "atp-zhang-machac-2026-10-06",
-   "shares": 16774.82,
-   "cost": 6961.34169994609,
-   "max_shares": 16774.82,
-   "last_trade_ts": 1791356730
+   "shares": 16999.82,
+   "cost": 7148.09169994609,
+   "max_shares": 16999.82,
+   "last_trade_ts": 1791361533
   },
   "jtwyslljy|1831380963875261345136970820872551649465384256256028720456229424031294448144": {
    "leader": "jtwyslljy",
@@ -33249,6 +33284,18 @@
    "cost": 1813.4925,
    "max_shares": 7884.75,
    "last_trade_ts": 1791360513
+  },
+  "jtwyslljy|16419334184955610679668118117942539080091982961476159826950365104292987032304": {
+   "leader": "jtwyslljy",
+   "asset": "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "condition_id": "0x7e7e59264e1685649f6677f8166283ddfffd67e2bd2f06798624d003e88041e4",
+   "title": "China Open: Alina Charaeva vs Qinwen Zheng",
+   "outcome": "Alina Charaeva",
+   "slug": "wta-charaev-zhen-2026-10-05",
+   "shares": 3000.0,
+   "cost": 740.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791361707
   }
  },
  "positions": [
@@ -33340,6 +33387,24 @@
    "copy_delay_min": 4.6,
    "best_ask": 0.35,
    "ask_depth": 8006.37,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16419334184955610679668118117942539080091982961476159826950365104292987032304",
+   "condition_id": "0x7e7e59264e1685649f6677f8166283ddfffd67e2bd2f06798624d003e88041e4",
+   "title": "China Open: Alina Charaeva vs Qinwen Zheng",
+   "outcome": "Alina Charaeva",
+   "slug": "wta-charaev-zhen-2026-10-05",
+   "opened_at": "2026-10-07T08:30:47.908280+00:00",
+   "entry_price": 0.24,
+   "shares": 416.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.2467,
+   "leader_cost": 740.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.24,
+   "ask_depth": 3787.0,
    "status": "open"
   }
  ],
@@ -55284,8 +55349,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Coco Gauff vs Elise Mertens",
    "outcome": "Coco Gauff"
+  },
+  {
+   "at": "2026-10-07T08:30:48.098084+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-07T06:45:00+00:00",
+   "condition_id": "0x02020dbb728dc2003d98b7d7b41c5fa204339aa443ec076198f4285c012e90bb",
+   "asset": "76932104222537965677109673793773947375195284495353930280661015097587729855262",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.87,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Zhizhen Zhang vs Tomas Machac",
+   "outcome": "Tomas Machac"
   }
  ],
  "total_pnl": -295.219299999999,
- "last_updated": "2026-10-07T08:25:28.173670+00:00"
+ "last_updated": "2026-10-07T08:30:48.490072+00:00"
 }
