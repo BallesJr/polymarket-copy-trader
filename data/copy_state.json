@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791489573,
+  "jtwyslljy": 1791489747,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21173,6 +21173,20 @@
    "BUY",
    7042.92,
    1791489573
+  ],
+  [
+   "0xdb99c2a15a2c410420ec9ac4b18317e049fbd8a5a8e093fd54be862be98fff5c",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   358.75,
+   1791489659
+  ],
+  [
+   "0xfbf8bcfeacf37c7c93e4ecaec0afcef00b94ef1f9f98bb5b2defb6297cd1b251",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   5420.37,
+   1791489747
   ]
  ],
  "leader_pos": {
@@ -34599,10 +34613,10 @@
    "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
    "outcome": "PARIVISION",
    "slug": "dota2-pari-ty-2026-10-08",
-   "shares": 12135.220000000001,
-   "cost": 7359.108949867685,
-   "max_shares": 12135.220000000001,
-   "last_trade_ts": 1791489573
+   "shares": 17914.34,
+   "cost": 10928.092209797149,
+   "max_shares": 17914.34,
+   "last_trade_ts": 1791489747
   }
  },
  "positions": [],
@@ -57405,8 +57419,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-10-08T20:10:32.025826+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0xadbef7d201ee8148c9229e8ce65f9b460e1a8689f10f27f90a4e0e6b5d68e551",
+   "asset": "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T20:00:55.943826+00:00"
+ "last_updated": "2026-10-08T20:10:32.026481+00:00"
 }
