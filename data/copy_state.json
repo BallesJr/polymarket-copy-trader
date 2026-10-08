@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9182.3838239,
+ "bankroll": 8982.3838239,
  "last_seen": {
-  "jtwyslljy": 1791446458,
+  "jtwyslljy": 1791446802,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20893,6 +20893,20 @@
    "BUY",
    1900,
    1791446458
+  ],
+  [
+   "0x06fda9c336fed7abc7a6f95853c073011a6e3642cab66140a5e998871913ac8d",
+   "75920688350534399116922023257037514330999460791561691032933537103070040285895",
+   "BUY",
+   5603.41,
+   1791446731
+  ],
+  [
+   "0x8e0f89fca2c43cc1108c40f751bfa4409d5fa569c0a4f707b4d9a7c5085f1ac7",
+   "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "BUY",
+   1000,
+   1791446802
   ]
  ],
  "leader_pos": {
@@ -34019,10 +34033,10 @@
    "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
    "outcome": "Nicolas Mejia",
    "slug": "atp-cerund-mejia-2026-10-07",
-   "shares": 1000.0,
-   "cost": 330.0,
-   "max_shares": 1000.0,
-   "last_trade_ts": 1791435742
+   "shares": 2000.0,
+   "cost": 650.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791446802
   },
   "jtwyslljy|68620392342690433618939636517717484234653068962722249849961863940111405624641": {
    "leader": "jtwyslljy",
@@ -34227,6 +34241,18 @@
    "cost": 3090.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1791446086
+  },
+  "jtwyslljy|75920688350534399116922023257037514330999460791561691032933537103070040285895": {
+   "leader": "jtwyslljy",
+   "asset": "75920688350534399116922023257037514330999460791561691032933537103070040285895",
+   "condition_id": "0x8b9cf3876645246f07f3998002928c5a3038d7bc2502d68ffe6dfe56afff53fb",
+   "title": "Shanghai Rolex Masters: Martin Landaluce vs Jan-Lennard Struff",
+   "outcome": "Martin Landaluce",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "shares": 5603.41,
+   "cost": 2689.6367999999998,
+   "max_shares": 5603.41,
+   "last_trade_ts": 1791446731
   }
  },
  "positions": [
@@ -34354,6 +34380,42 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.54,
    "ask_depth": 295.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75920688350534399116922023257037514330999460791561691032933537103070040285895",
+   "condition_id": "0x8b9cf3876645246f07f3998002928c5a3038d7bc2502d68ffe6dfe56afff53fb",
+   "title": "Shanghai Rolex Masters: Martin Landaluce vs Jan-Lennard Struff",
+   "outcome": "Martin Landaluce",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "opened_at": "2026-10-08T08:10:30.408571+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 2689.64,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.48,
+   "ask_depth": 2216.45,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
+   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-cerund-mejia-2026-10-07",
+   "opened_at": "2026-10-08T08:10:30.537898+00:00",
+   "entry_price": 0.3318,
+   "shares": 301.3606,
+   "stake": 100.0,
+   "leader_vwap": 0.325,
+   "leader_cost": 650.0,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.33,
+   "ask_depth": 246.26,
    "status": "open"
   }
  ],
@@ -56763,5 +56825,5 @@
   }
  ],
  "total_pnl": -117.616299999999,
- "last_updated": "2026-10-08T08:05:29.815871+00:00"
+ "last_updated": "2026-10-08T08:10:30.848387+00:00"
 }
