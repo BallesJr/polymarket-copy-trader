@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791484649,
+  "jtwyslljy": 1791489173,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21145,6 +21145,20 @@
    "BUY",
    1569.47,
    1791484649
+  ],
+  [
+   "0xfa0f055b05c4b2edcecedffd9abffcd1978bca5d8ac3f9177a370f2cc8cc060e",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   2826.38,
+   1791489128
+  ],
+  [
+   "0xe3e22a2774a314c192859b073495f7e8d59fa23949f364ba4152cc6fd08887f8",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   1629.73,
+   1791489173
   ]
  ],
  "leader_pos": {
@@ -34563,6 +34577,18 @@
    "cost": 10634.996700499094,
    "max_shares": 17805.79,
    "last_trade_ts": 1791484649
+  },
+  "jtwyslljy|65364159581022268707200979789681781802270983920693981750856703639898190624502": {
+   "leader": "jtwyslljy",
+   "asset": "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "condition_id": "0xadbef7d201ee8148c9229e8ce65f9b460e1a8689f10f27f90a4e0e6b5d68e551",
+   "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
+   "outcome": "PARIVISION",
+   "slug": "dota2-pari-ty-2026-10-08",
+   "shares": 4456.110000000001,
+   "cost": 2610.1188500460503,
+   "max_shares": 4456.110000000001,
+   "last_trade_ts": 1791489173
   }
  },
  "positions": [],
@@ -57333,8 +57359,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-10-08T19:55:26.889892+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0xadbef7d201ee8148c9229e8ce65f9b460e1a8689f10f27f90a4e0e6b5d68e551",
+   "asset": "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "copy_delay_min": 2.5,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T18:45:32.535982+00:00"
+ "last_updated": "2026-10-08T19:55:26.890600+00:00"
 }
