@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791484565,
+  "jtwyslljy": 1791484649,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21138,6 +21138,13 @@
    "BUY",
    323.59,
    1791484565
+  ],
+  [
+   "0x1dc4209fbf980186d56b93e9f0835748a9f01fca65d22c0a27da5a3bf96bddf7",
+   "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "BUY",
+   1569.47,
+   1791484649
   ]
  ],
  "leader_pos": {
@@ -34552,10 +34559,10 @@
    "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
    "outcome": "PARIVISION",
    "slug": "dota2-pari-ty-2026-10-08",
-   "shares": 16236.32,
-   "cost": 9740.398800499093,
-   "max_shares": 16236.32,
-   "last_trade_ts": 1791484565
+   "shares": 17805.79,
+   "cost": 10634.996700499094,
+   "max_shares": 17805.79,
+   "last_trade_ts": 1791484649
   }
  },
  "positions": [],
@@ -57310,8 +57317,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-10-08T18:45:32.535216+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0xabdd2ce327c0b3e4faed45f8df7d0f8708748c22c802457f732bc9a8a7f72194",
+   "asset": "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.48,
+   "cf_shares": 208.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.48,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T18:40:36.608308+00:00"
+ "last_updated": "2026-10-08T18:45:32.535982+00:00"
 }
