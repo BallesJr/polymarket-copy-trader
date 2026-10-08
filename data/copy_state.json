@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8882.3838239,
  "last_seen": {
-  "jtwyslljy": 1791449594,
+  "jtwyslljy": 1791450866,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20921,6 +20921,13 @@
    "BUY",
    8000,
    1791449594
+  ],
+  [
+   "0x747cfa1842ead0d01ae8270dc9d7ac2522d481880884454a418bac1b7ae38172",
+   "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "BUY",
+   1000,
+   1791450866
   ]
  ],
  "leader_pos": {
@@ -34131,10 +34138,10 @@
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
    "outcome": "Daniel Merida Aguilar",
    "slug": "atp-zandsch-aguilar-2026-10-06",
-   "shares": 2000.0,
-   "cost": 1000.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1791433481
+   "shares": 3000.0,
+   "cost": 1510.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791450866
   },
   "jtwyslljy|19574998350268919445074942629832986883733601100524753996953789587205480035735": {
    "leader": "jtwyslljy",
@@ -56873,5 +56880,5 @@
   }
  ],
  "total_pnl": -217.616299999999,
- "last_updated": "2026-10-08T08:55:30.509824+00:00"
+ "last_updated": "2026-10-08T09:20:34.724531+00:00"
 }
