@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791489173,
+  "jtwyslljy": 1791489573,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21159,6 +21159,20 @@
    "BUY",
    1629.73,
    1791489173
+  ],
+  [
+   "0x61f6811eb655dfd4ff58644406732fd34d15f7a6357ab49e55fd7b125972693c",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   636.19,
+   1791489467
+  ],
+  [
+   "0x140ce932d60b9a899e15307c3ef87435ff12146e172e3489b96bb54b6c9320e3",
+   "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "BUY",
+   7042.92,
+   1791489573
   ]
  ],
  "leader_pos": {
@@ -34585,10 +34599,10 @@
    "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
    "outcome": "PARIVISION",
    "slug": "dota2-pari-ty-2026-10-08",
-   "shares": 4456.110000000001,
-   "cost": 2610.1188500460503,
-   "max_shares": 4456.110000000001,
-   "last_trade_ts": 1791489173
+   "shares": 12135.220000000001,
+   "cost": 7359.108949867685,
+   "max_shares": 12135.220000000001,
+   "last_trade_ts": 1791489573
   }
  },
  "positions": [],
@@ -57375,8 +57389,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-10-08T20:00:55.942964+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0xadbef7d201ee8148c9229e8ce65f9b460e1a8689f10f27f90a4e0e6b5d68e551",
+   "asset": "65364159581022268707200979789681781802270983920693981750856703639898190624502",
+   "copy_delay_min": 1.4,
+   "cf_ask": 0.642,
+   "cf_shares": 155.7632,
+   "cf_cost": 100.0,
+   "cf_entry": 0.642,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T19:55:26.890600+00:00"
+ "last_updated": "2026-10-08T20:00:55.943826+00:00"
 }
