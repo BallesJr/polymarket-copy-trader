@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8940.448373899999,
+ "bankroll": 9182.3838239,
  "last_seen": {
-  "jtwyslljy": 1791442537,
+  "jtwyslljy": 1791445807,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20858,6 +20858,20 @@
    "BUY",
    82.75,
    1791442537
+  ],
+  [
+   "0x0af6d02bd505331cc34353e91a43ec9982127a96ac15464f0b3c7f61d3b3cba6",
+   "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "SELL",
+   2799.98,
+   1791445782
+  ],
+  [
+   "0xf83614db0f849cec31ea305af866512201c83a79647f3ce2442d2aeca2258c30",
+   "74212569469052179153692321387416000061028133790567996042754136618823917283996",
+   "BUY",
+   6000,
+   1791445807
   ]
  ],
  "leader_pos": {
@@ -34176,10 +34190,22 @@
    "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
    "outcome": "Nikola Bartunkova",
    "slug": "wta-muchova-bartunk-2026-10-07",
-   "shares": 1882.75,
-   "cost": 564.825,
+   "shares": -917.23,
+   "cost": -1143.1627999999998,
    "max_shares": 1882.75,
-   "last_trade_ts": 1791442537
+   "last_trade_ts": 1791445782
+  },
+  "jtwyslljy|74212569469052179153692321387416000061028133790567996042754136618823917283996": {
+   "leader": "jtwyslljy",
+   "asset": "74212569469052179153692321387416000061028133790567996042754136618823917283996",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-bartunk-2026-10-07",
+   "shares": 6000.0,
+   "cost": 2340.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791445807
   }
  },
  "positions": [
@@ -34307,24 +34333,6 @@
    "copy_delay_min": 7.3,
    "best_ask": 0.54,
    "ask_depth": 295.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "5047427958602963500761212351284001868083691549889775025071503515894507700819",
-   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
-   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
-   "outcome": "Nikola Bartunkova",
-   "slug": "wta-muchova-bartunk-2026-10-07",
-   "opened_at": "2026-10-08T07:00:55.472821+00:00",
-   "entry_price": 0.31,
-   "shares": 322.5806,
-   "stake": 100.0,
-   "leader_vwap": 0.3,
-   "leader_cost": 564.83,
-   "copy_delay_min": 5.3,
-   "best_ask": 0.31,
-   "ask_depth": 8575.64,
    "status": "open"
   }
  ],
@@ -45606,6 +45614,28 @@
    "exit_price": 1.0,
    "pnl": 42.8571,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-muchova-bartunk-2026-10-07",
+   "opened_at": "2026-10-08T07:00:55.472821+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 564.83,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.31,
+   "ask_depth": 8575.64,
+   "status": "closed",
+   "closed_at": "2026-10-08T07:55:25.229940+00:00",
+   "exit_price": 0.75,
+   "pnl": 141.9355,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -56661,8 +56691,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Ilia Simakin",
    "outcome": "Ilia Simakin"
+  },
+  {
+   "at": "2026-10-08T07:55:25.439427+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T07:10:00+00:00",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "asset": "74212569469052179153692321387416000061028133790567996042754136618823917283996",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Karolina Muchova"
   }
  ],
- "total_pnl": -259.551799999999,
- "last_updated": "2026-10-08T07:50:34.682802+00:00"
+ "total_pnl": -117.616299999999,
+ "last_updated": "2026-10-08T07:55:25.823614+00:00"
 }
