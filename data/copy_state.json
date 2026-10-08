@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8996.3838239,
  "last_seen": {
-  "jtwyslljy": 1791455745,
+  "jtwyslljy": 1791461220,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20956,6 +20956,13 @@
    "BUY",
    5000,
    1791455745
+  ],
+  [
+   "0xaeb1c7516bef11b27cceb9c9312c5d528b8cd39c51b77fcb562d1e40ce618300",
+   "91731088978417931314971927133870870603248918887732622286613727248830289476249",
+   "BUY",
+   12207.48,
+   1791461220
   ]
  ],
  "leader_pos": {
@@ -34310,10 +34317,10 @@
    "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
    "outcome": "Ekaterina Alexandrova",
    "slug": "wta-alexand-andreev-2026-10-07",
-   "shares": 8000.0,
-   "cost": 2080.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1791449594
+   "shares": 20207.48,
+   "cost": 3178.6732,
+   "max_shares": 20207.48,
+   "last_trade_ts": 1791461220
   }
  },
  "positions": [
@@ -56944,5 +56951,5 @@
   }
  ],
  "total_pnl": -603.616299999999,
- "last_updated": "2026-10-08T11:50:32.020135+00:00"
+ "last_updated": "2026-10-08T12:10:32.450590+00:00"
 }
