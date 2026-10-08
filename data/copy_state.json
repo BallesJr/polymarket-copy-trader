@@ -34326,24 +34326,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "101663855385691877923603929676755938963481773261983752265333869890541651841788",
-   "condition_id": "0x82c3d42e2797373a7d5cc9446532d4f854db49f9d26ec490972a5e7504e532a4",
-   "title": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
-   "outcome": "Luca Van Assche",
-   "slug": "atp-assche-bu-2026-10-06",
-   "opened_at": "2026-10-08T03:25:25.093920+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 860.0,
-   "copy_delay_min": 10.5,
-   "best_ask": 0.43,
-   "ask_depth": 23903.8,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "19574998350268919445074942629832986883733601100524753996953789587205480035735",
    "condition_id": "0x24d77141ef373d25a91cab626242846097161e493683c6f91c78de26303b7139",
    "title": "Shanghai Rolex Masters: Vit Kopriva vs Zizou Bergs",
@@ -45829,6 +45811,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101663855385691877923603929676755938963481773261983752265333869890541651841788",
+   "condition_id": "0x82c3d42e2797373a7d5cc9446532d4f854db49f9d26ec490972a5e7504e532a4",
+   "title": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-assche-bu-2026-10-06",
+   "opened_at": "2026-10-08T03:25:25.093920+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 860.0,
+   "copy_delay_min": 10.5,
+   "best_ask": 0.43,
+   "ask_depth": 23903.8,
+   "status": "lost",
+   "closed_at": "2026-10-08T12:35:25.640987+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56950,6 +56954,6 @@
    "outcome": "Daniel Merida Aguilar"
   }
  ],
- "total_pnl": -603.616299999999,
- "last_updated": "2026-10-08T12:10:32.450590+00:00"
+ "total_pnl": -703.616299999999,
+ "last_updated": "2026-10-08T12:35:25.642981+00:00"
 }
