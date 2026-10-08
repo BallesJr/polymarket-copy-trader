@@ -34283,24 +34283,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "22565105067204130177319707624384344607718180985048342832984761412634215548025",
-   "condition_id": "0x47cff80edca9927efdfd8512e1097df0062fbca0033aa8a09b8bb01911d71675",
-   "title": "Vallejo vs. Royer: Match O/U 22.5",
-   "outcome": "Over",
-   "slug": "atp-vallejo-royer-2026-10-06",
-   "opened_at": "2026-10-08T03:00:56.337106+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4975,
-   "leader_cost": 997.45,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.5,
-   "ask_depth": 1455.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "93421316463169096874108041541462276602432547503536164970341332874151905492036",
    "condition_id": "0xa27b335fa588914fcf268035580fac783a943f5955cca72f5089ed6447fabc12",
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
@@ -45726,6 +45708,28 @@
    "exit_price": 0.75,
    "pnl": 141.9355,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "condition_id": "0x47cff80edca9927efdfd8512e1097df0062fbca0033aa8a09b8bb01911d71675",
+   "title": "Vallejo vs. Royer: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-vallejo-royer-2026-10-06",
+   "opened_at": "2026-10-08T03:00:56.337106+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4975,
+   "leader_cost": 997.45,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.5,
+   "ask_depth": 1455.23,
+   "status": "lost",
+   "closed_at": "2026-10-08T08:40:32.225970+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56831,6 +56835,6 @@
    "outcome": "Fabian Marozsan"
   }
  ],
- "total_pnl": -117.616299999999,
- "last_updated": "2026-10-08T08:35:31.245688+00:00"
+ "total_pnl": -217.616299999999,
+ "last_updated": "2026-10-08T08:40:32.227702+00:00"
 }
