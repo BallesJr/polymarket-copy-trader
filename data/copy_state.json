@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8982.3838239,
+ "bankroll": 8882.3838239,
  "last_seen": {
-  "jtwyslljy": 1791448108,
+  "jtwyslljy": 1791449594,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20914,6 +20914,13 @@
    "BUY",
    3000,
    1791448108
+  ],
+  [
+   "0xfceb744eea68fb8e1a2526f3878aaf3df4f62deaa576995125f33a173cb46b96",
+   "91731088978417931314971927133870870603248918887732622286613727248830289476249",
+   "BUY",
+   8000,
+   1791449594
   ]
  ],
  "leader_pos": {
@@ -34260,6 +34267,18 @@
    "cost": 2689.6367999999998,
    "max_shares": 5603.41,
    "last_trade_ts": 1791446731
+  },
+  "jtwyslljy|91731088978417931314971927133870870603248918887732622286613727248830289476249": {
+   "leader": "jtwyslljy",
+   "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
+   "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
+   "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-andreev-2026-10-07",
+   "shares": 8000.0,
+   "cost": 2080.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791449594
   }
  },
  "positions": [
@@ -34405,6 +34424,24 @@
    "copy_delay_min": 3.8,
    "best_ask": 0.33,
    "ask_depth": 246.26,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
+   "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
+   "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-andreev-2026-10-07",
+   "opened_at": "2026-10-08T08:55:30.067374+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 2080.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.27,
+   "ask_depth": 15203.41,
    "status": "open"
   }
  ],
@@ -56836,5 +56873,5 @@
   }
  ],
  "total_pnl": -217.616299999999,
- "last_updated": "2026-10-08T08:40:32.227702+00:00"
+ "last_updated": "2026-10-08T08:55:30.509824+00:00"
 }
