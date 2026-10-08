@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8762.4561739,
  "last_seen": {
-  "jtwyslljy": 1791436480,
+  "jtwyslljy": 1791440008,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20795,6 +20795,13 @@
    "BUY",
    3000,
    1791436480
+  ],
+  [
+   "0xe9df737339ce60fc08b20a2378433ae9b8eca5443c9a01f29def2d3012b04b0a",
+   "48978939894836889279589416533834840722938899495170735757276905745793391999187",
+   "BUY",
+   1000,
+   1791440008
   ]
  ],
  "leader_pos": {
@@ -34081,6 +34088,18 @@
    "cost": 7744.0,
    "max_shares": 24200.0,
    "last_trade_ts": 1791436337
+  },
+  "jtwyslljy|48978939894836889279589416533834840722938899495170735757276905745793391999187": {
+   "leader": "jtwyslljy",
+   "asset": "48978939894836889279589416533834840722938899495170735757276905745793391999187",
+   "condition_id": "0xaffb81fbf1b41aabd80f50a8e79843c85565d550e56b8e2ebbc42a09dc9e8646",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Ilia Simakin",
+   "outcome": "Ilia Simakin",
+   "slug": "atp-carabel-simakin-2026-10-07",
+   "shares": 1000.0,
+   "cost": 370.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1791440008
   }
  },
  "positions": [
@@ -56503,5 +56522,5 @@
   }
  ],
  "total_pnl": -237.54399999999902,
- "last_updated": "2026-10-08T05:25:25.406228+00:00"
+ "last_updated": "2026-10-08T06:20:31.688563+00:00"
 }
