@@ -34373,42 +34373,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "56008573281164922807045140659564581675379663396956505878439622786338744994561",
-   "condition_id": "0x7b5a7f336dcd1bf7d5f6c52e9280dbb8f2164b8e8b49a8bd132fcee9b55ad09f",
-   "title": "Landaluce vs. Struff: Match O/U 22.5",
-   "outcome": "Over",
-   "slug": "atp-landalu-struff-2026-10-06",
-   "opened_at": "2026-10-08T04:30:45.616663+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 564.3,
-   "copy_delay_min": 7.3,
-   "best_ask": 0.54,
-   "ask_depth": 295.0,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "75920688350534399116922023257037514330999460791561691032933537103070040285895",
-   "condition_id": "0x8b9cf3876645246f07f3998002928c5a3038d7bc2502d68ffe6dfe56afff53fb",
-   "title": "Shanghai Rolex Masters: Martin Landaluce vs Jan-Lennard Struff",
-   "outcome": "Martin Landaluce",
-   "slug": "atp-landalu-struff-2026-10-06",
-   "opened_at": "2026-10-08T08:10:30.408571+00:00",
-   "entry_price": 0.48,
-   "shares": 208.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.48,
-   "leader_cost": 2689.64,
-   "copy_delay_min": 5.0,
-   "best_ask": 0.48,
-   "ask_depth": 2216.45,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
    "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
    "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
@@ -45814,6 +45778,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "condition_id": "0x7b5a7f336dcd1bf7d5f6c52e9280dbb8f2164b8e8b49a8bd132fcee9b55ad09f",
+   "title": "Landaluce vs. Struff: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "opened_at": "2026-10-08T04:30:45.616663+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 564.3,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.54,
+   "ask_depth": 295.0,
+   "status": "lost",
+   "closed_at": "2026-10-08T11:50:31.764986+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "75920688350534399116922023257037514330999460791561691032933537103070040285895",
+   "condition_id": "0x8b9cf3876645246f07f3998002928c5a3038d7bc2502d68ffe6dfe56afff53fb",
+   "title": "Shanghai Rolex Masters: Martin Landaluce vs Jan-Lennard Struff",
+   "outcome": "Martin Landaluce",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "opened_at": "2026-10-08T08:10:30.408571+00:00",
+   "entry_price": 0.48,
+   "shares": 208.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.48,
+   "leader_cost": 2689.64,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.48,
+   "ask_depth": 2216.45,
+   "status": "lost",
+   "closed_at": "2026-10-08T11:50:32.018558+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56935,6 +56943,6 @@
    "outcome": "Daniel Merida Aguilar"
   }
  ],
- "total_pnl": -403.616299999999,
- "last_updated": "2026-10-08T10:45:40.270032+00:00"
+ "total_pnl": -603.616299999999,
+ "last_updated": "2026-10-08T11:50:32.020135+00:00"
 }
