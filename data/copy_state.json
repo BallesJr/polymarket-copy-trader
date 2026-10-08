@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8982.3838239,
  "last_seen": {
-  "jtwyslljy": 1791446802,
+  "jtwyslljy": 1791448108,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20907,6 +20907,13 @@
    "BUY",
    1000,
    1791446802
+  ],
+  [
+   "0x6978ddf8986b3bfe86aefe64ebca9dc46a3ddfdd2035f4d99d942691bf29054d",
+   "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "BUY",
+   3000,
+   1791448108
   ]
  ],
  "leader_pos": {
@@ -34033,10 +34040,10 @@
    "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
    "outcome": "Nicolas Mejia",
    "slug": "atp-cerund-mejia-2026-10-07",
-   "shares": 2000.0,
-   "cost": 650.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1791446802
+   "shares": 5000.0,
+   "cost": 1640.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791448108
   },
   "jtwyslljy|68620392342690433618939636517717484234653068962722249849961863940111405624641": {
    "leader": "jtwyslljy",
@@ -56825,5 +56832,5 @@
   }
  ],
  "total_pnl": -117.616299999999,
- "last_updated": "2026-10-08T08:10:30.848387+00:00"
+ "last_updated": "2026-10-08T08:35:31.245688+00:00"
 }
