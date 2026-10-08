@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8762.4561739,
  "last_seen": {
-  "jtwyslljy": 1791435742,
+  "jtwyslljy": 1791436337,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20774,6 +20774,20 @@
    "BUY",
    1000,
    1791435742
+  ],
+  [
+   "0xeeae4bda49bd05d4be597a532cc3afc9d8627ac156bc15e6af2f9b4173ba1bbe",
+   "88962526001272173537228082280884056794838497214213140998806440880323362125",
+   "BUY",
+   15500,
+   1791436243
+  ],
+  [
+   "0xa74f4fd10ffd050001aa2fbb2c8351f099769d6f4553ff57a96bcc4a9ff29b51",
+   "88962526001272173537228082280884056794838497214213140998806440880323362125",
+   "BUY",
+   8700,
+   1791436337
   ]
  ],
  "leader_pos": {
@@ -34048,6 +34062,18 @@
    "cost": 408.0,
    "max_shares": 800.0,
    "last_trade_ts": 1791433424
+  },
+  "jtwyslljy|88962526001272173537228082280884056794838497214213140998806440880323362125": {
+   "leader": "jtwyslljy",
+   "asset": "88962526001272173537228082280884056794838497214213140998806440880323362125",
+   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
+   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
+   "outcome": "Facundo Acosta",
+   "slug": "atp-borges-acosta-2026-10-06",
+   "shares": 24200.0,
+   "cost": 7744.0,
+   "max_shares": 24200.0,
+   "last_trade_ts": 1791436337
   }
  },
  "positions": [
@@ -56451,8 +56477,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Alina Charaeva vs Qinwen Zheng",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-08T05:20:30.620154+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T04:05:00+00:00",
+   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
+   "asset": "88962526001272173537228082280884056794838497214213140998806440880323362125",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.12,
+   "cf_shares": 833.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.12,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
+   "outcome": "Facundo Acosta"
   }
  ],
  "total_pnl": -237.54399999999902,
- "last_updated": "2026-10-08T05:05:25.315151+00:00"
+ "last_updated": "2026-10-08T05:20:31.010672+00:00"
 }
