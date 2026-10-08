@@ -34372,26 +34372,7 @@
    "last_trade_ts": 1791461220
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "70741992291656350461466773154469837079824600740215442760046055549349917391597",
-   "condition_id": "0x676f9af9f38e9a0026f99be10b1318ca3c3dc7d771183611f1ee6f4ed86bfbc3",
-   "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
-   "outcome": "Cameron Norrie",
-   "slug": "atp-norrie-svrcina-2026-10-07",
-   "opened_at": "2026-10-08T03:25:25.552800+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 1280.0,
-   "copy_delay_min": 10.3,
-   "best_ask": 0.64,
-   "ask_depth": 20289.19,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -45890,6 +45871,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70741992291656350461466773154469837079824600740215442760046055549349917391597",
+   "condition_id": "0x676f9af9f38e9a0026f99be10b1318ca3c3dc7d771183611f1ee6f4ed86bfbc3",
+   "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
+   "outcome": "Cameron Norrie",
+   "slug": "atp-norrie-svrcina-2026-10-07",
+   "opened_at": "2026-10-08T03:25:25.552800+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1280.0,
+   "copy_delay_min": 10.3,
+   "best_ask": 0.64,
+   "ask_depth": 20289.19,
+   "status": "lost",
+   "closed_at": "2026-10-08T15:05:24.689990+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -57011,6 +57014,6 @@
    "outcome": "Daniel Merida Aguilar"
   }
  ],
- "total_pnl": -762.771199999999,
- "last_updated": "2026-10-08T14:15:37.277617+00:00"
+ "total_pnl": -862.771199999999,
+ "last_updated": "2026-10-08T15:05:24.691656+00:00"
 }
