@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8897.5912739,
+ "bankroll": 8797.5912739,
  "last_seen": {
-  "jtwyslljy": 1791441087,
+  "jtwyslljy": 1791442537,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20844,6 +20844,20 @@
    "BUY",
    1000,
    1791441087
+  ],
+  [
+   "0x81b9f55d901d9e642fd062fb79804b854efa697b4192314c65f0473fe707d929",
+   "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "BUY",
+   1800,
+   1791442526
+  ],
+  [
+   "0x61cece6f6c8ab0ea30dd7e940c3bec35a383adbd1881257eb2fad13b96f82bab",
+   "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "BUY",
+   82.75,
+   1791442537
   ]
  ],
  "leader_pos": {
@@ -34154,6 +34168,18 @@
    "cost": 32.59,
    "max_shares": 97.0,
    "last_trade_ts": 1791440345
+  },
+  "jtwyslljy|5047427958602963500761212351284001868083691549889775025071503515894507700819": {
+   "leader": "jtwyslljy",
+   "asset": "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-muchova-bartunk-2026-10-07",
+   "shares": 1882.75,
+   "cost": 564.825,
+   "max_shares": 1882.75,
+   "last_trade_ts": 1791442537
   }
  },
  "positions": [
@@ -34299,6 +34325,24 @@
    "copy_delay_min": 8.7,
    "best_ask": 0.7,
    "ask_depth": 2009.34,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5047427958602963500761212351284001868083691549889775025071503515894507700819",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-muchova-bartunk-2026-10-07",
+   "opened_at": "2026-10-08T07:00:55.472821+00:00",
+   "entry_price": 0.31,
+   "shares": 322.5806,
+   "stake": 100.0,
+   "leader_vwap": 0.3,
+   "leader_cost": 564.83,
+   "copy_delay_min": 5.3,
+   "best_ask": 0.31,
+   "ask_depth": 8575.64,
    "status": "open"
   }
  ],
@@ -56616,5 +56660,5 @@
   }
  ],
  "total_pnl": -302.408899999999,
- "last_updated": "2026-10-08T06:45:31.850982+00:00"
+ "last_updated": "2026-10-08T07:00:55.741718+00:00"
 }
