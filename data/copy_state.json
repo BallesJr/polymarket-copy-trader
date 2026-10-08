@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8762.4561739,
+ "bankroll": 8897.5912739,
  "last_seen": {
-  "jtwyslljy": 1791440345,
+  "jtwyslljy": 1791441087,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20837,6 +20837,13 @@
    "BUY",
    92,
    1791440345
+  ],
+  [
+   "0x5ab7732f57f3f50c203702ad0c10eeb27679836fd0ee45d284f3031baa84457a",
+   "48978939894836889279589416533834840722938899495170735757276905745793391999187",
+   "BUY",
+   1000,
+   1791441087
   ]
  ],
  "leader_pos": {
@@ -34131,10 +34138,10 @@
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Ilia Simakin",
    "outcome": "Ilia Simakin",
    "slug": "atp-carabel-simakin-2026-10-07",
-   "shares": 1000.0,
-   "cost": 370.0,
-   "max_shares": 1000.0,
-   "last_trade_ts": 1791440008
+   "shares": 2000.0,
+   "cost": 530.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791441087
   },
   "jtwyslljy|16498521169516627628869499008708625329192680141139087785714940462665595613203": {
    "leader": "jtwyslljy",
@@ -34202,24 +34209,6 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.5,
    "ask_depth": 1455.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "86442538400387854439276287068614801754563759737258948316204329315060109185425",
-   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
-   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
-   "outcome": "Nuno Borges",
-   "slug": "atp-borges-acosta-2026-10-06",
-   "opened_at": "2026-10-08T03:20:29.424743+00:00",
-   "entry_price": 0.74,
-   "shares": 135.1351,
-   "stake": 100.0,
-   "leader_vwap": 0.74,
-   "leader_cost": 1480.0,
-   "copy_delay_min": 10.9,
-   "best_ask": 0.74,
-   "ask_depth": 22572.9,
    "status": "open"
   },
   {
@@ -45543,6 +45532,28 @@
    "exit_price": 0.45,
    "pnl": -2.1739,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86442538400387854439276287068614801754563759737258948316204329315060109185425",
+   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
+   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-acosta-2026-10-06",
+   "opened_at": "2026-10-08T03:20:29.424743+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.74,
+   "leader_cost": 1480.0,
+   "copy_delay_min": 10.9,
+   "best_ask": 0.74,
+   "ask_depth": 22572.9,
+   "status": "won",
+   "closed_at": "2026-10-08T06:40:36.852756+00:00",
+   "exit_price": 1.0,
+   "pnl": 35.1351,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56582,8 +56593,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
    "outcome": "James Duckworth"
+  },
+  {
+   "at": "2026-10-08T06:40:35.398557+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T04:05:00+00:00",
+   "condition_id": "0xaffb81fbf1b41aabd80f50a8e79843c85565d550e56b8e2ebbc42a09dc9e8646",
+   "asset": "48978939894836889279589416533834840722938899495170735757276905745793391999187",
+   "copy_delay_min": 9.1,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Ilia Simakin",
+   "outcome": "Ilia Simakin"
   }
  ],
- "total_pnl": -237.54399999999902,
- "last_updated": "2026-10-08T06:27:52.773407+00:00"
+ "total_pnl": -202.40889999999902,
+ "last_updated": "2026-10-08T06:40:36.854810+00:00"
 }
