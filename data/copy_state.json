@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791475508,
+  "jtwyslljy": 1791479156,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21110,6 +21110,13 @@
    "BUY",
    18921.5,
    1791475508
+  ],
+  [
+   "0x1a029573a8e37dabe7544e175f0ccef1ed66ff20d5b96f121d33928976a1600f",
+   "87118736775305888790250811565312590533249630479802673727330910663323622790791",
+   "BUY",
+   10000,
+   1791479156
   ]
  ],
  "leader_pos": {
@@ -34504,6 +34511,18 @@
    "cost": 15704.845,
    "max_shares": 18921.5,
    "last_trade_ts": 1791475508
+  },
+  "jtwyslljy|87118736775305888790250811565312590533249630479802673727330910663323622790791": {
+   "leader": "jtwyslljy",
+   "asset": "87118736775305888790250811565312590533249630479802673727330910663323622790791",
+   "condition_id": "0x91088f430d36e485afbeb4f556bf560f8318356d0b43542a8ee9b5d90372f651",
+   "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+   "outcome": "Team Yandex",
+   "slug": "dota2-pari-ty-2026-10-08",
+   "shares": 10000.0,
+   "cost": 4900.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791479156
   }
  },
  "positions": [],
@@ -57210,8 +57229,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Aurora vs 1win - Game 2 Winner",
    "outcome": "Aurora"
+  },
+  {
+   "at": "2026-10-08T17:10:36.722644+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0x91088f430d36e485afbeb4f556bf560f8318356d0b43542a8ee9b5d90372f651",
+   "asset": "87118736775305888790250811565312590533249630479802673727330910663323622790791",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+   "outcome": "Team Yandex"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T16:10:32.993095+00:00"
+ "last_updated": "2026-10-08T17:10:36.723349+00:00"
 }
