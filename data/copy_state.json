@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8996.3838239,
  "last_seen": {
-  "jtwyslljy": 1791461220,
+  "jtwyslljy": 1791463076,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20963,6 +20963,13 @@
    "BUY",
    12207.48,
    1791461220
+  ],
+  [
+   "0x97fd8416cca9256dd02d91c521cec8d4b177608789eaf1cd0ccc3ec30cd1417e",
+   "70741992291656350461466773154469837079824600740215442760046055549349917391597",
+   "BUY",
+   5000,
+   1791463076
   ]
  ],
  "leader_pos": {
@@ -34209,10 +34216,10 @@
    "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
    "outcome": "Cameron Norrie",
    "slug": "atp-norrie-svrcina-2026-10-07",
-   "shares": 2000.0,
-   "cost": 1280.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1791429307
+   "shares": 7000.0,
+   "cost": 4180.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791463076
   },
   "jtwyslljy|19156567343813619315117037559347104495598090547346164216074980130763256771779": {
    "leader": "jtwyslljy",
@@ -56955,5 +56962,5 @@
   }
  ],
  "total_pnl": -703.616299999999,
- "last_updated": "2026-10-08T12:35:25.642981+00:00"
+ "last_updated": "2026-10-08T12:40:31.126057+00:00"
 }
