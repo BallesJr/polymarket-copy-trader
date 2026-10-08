@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9182.3838239,
  "last_seen": {
-  "jtwyslljy": 1791445807,
+  "jtwyslljy": 1791446086,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20872,6 +20872,13 @@
    "BUY",
    6000,
    1791445807
+  ],
+  [
+   "0x91db26c213864968251447c71d663ca044fddd0cf19897f64ca3e1f6ed2c4fc8",
+   "74212569469052179153692321387416000061028133790567996042754136618823917283996",
+   "BUY",
+   3000,
+   1791446086
   ]
  ],
  "leader_pos": {
@@ -34202,10 +34209,10 @@
    "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-bartunk-2026-10-07",
-   "shares": 6000.0,
-   "cost": 2340.0,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1791445807
+   "shares": 9000.0,
+   "cost": 3090.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1791446086
   }
  },
  "positions": [
@@ -56707,8 +56714,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
    "outcome": "Karolina Muchova"
+  },
+  {
+   "at": "2026-10-08T08:00:57.102665+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T07:10:00+00:00",
+   "condition_id": "0xf076eeb49e40aba78a34f2e8b911c957abc78c22cedd262f8b8ba1b57bc5e5b2",
+   "asset": "74212569469052179153692321387416000061028133790567996042754136618823917283996",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.1,
+   "cf_shares": 1000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+   "outcome": "Karolina Muchova"
   }
  ],
  "total_pnl": -117.616299999999,
- "last_updated": "2026-10-08T07:55:25.823614+00:00"
+ "last_updated": "2026-10-08T08:00:57.383338+00:00"
 }
