@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9182.3838239,
  "last_seen": {
-  "jtwyslljy": 1791446086,
+  "jtwyslljy": 1791446458,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20879,6 +20879,20 @@
    "BUY",
    3000,
    1791446086
+  ],
+  [
+   "0xa347e0b978bb6969149fde8acd0d0842e48c2977620d5482687bdc947e74803e",
+   "59864804555565307262745770382862938827892888426950789880767502316878824422756",
+   "BUY",
+   2016,
+   1791446446
+  ],
+  [
+   "0xe61fb331031c2858c3a9ac0f0389bc921b1918a52be8d6949e4b6b7e98628d14",
+   "59864804555565307262745770382862938827892888426950789880767502316878824422756",
+   "BUY",
+   1900,
+   1791446458
   ]
  ],
  "leader_pos": {
@@ -34029,10 +34043,10 @@
    "title": "Shanghai Rolex Masters: Fabian Marozsan vs Zachary Svajda",
    "outcome": "Fabian Marozsan",
    "slug": "atp-marozsa-svajda-2026-10-06",
-   "shares": 739.98,
-   "cost": 406.98900000000003,
-   "max_shares": 739.98,
-   "last_trade_ts": 1791428401
+   "shares": 4655.98,
+   "cost": 1385.989,
+   "max_shares": 4655.98,
+   "last_trade_ts": 1791446458
   },
   "jtwyslljy|86442538400387854439276287068614801754563759737258948316204329315060109185425": {
    "leader": "jtwyslljy",
@@ -56730,8 +56744,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Karolina Muchova vs Nikola Bartunkova",
    "outcome": "Karolina Muchova"
+  },
+  {
+   "at": "2026-10-08T08:05:29.502391+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T07:30:00+00:00",
+   "condition_id": "0xf8b019f42a5c00949394cd623a79da79a942510247b9d2df96f54b87fac71c5f",
+   "asset": "59864804555565307262745770382862938827892888426950789880767502316878824422756",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.22,
+   "cf_shares": 454.5455,
+   "cf_cost": 100.0,
+   "cf_entry": 0.22,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Fabian Marozsan vs Zachary Svajda",
+   "outcome": "Fabian Marozsan"
   }
  ],
  "total_pnl": -117.616299999999,
- "last_updated": "2026-10-08T08:00:57.383338+00:00"
+ "last_updated": "2026-10-08T08:05:29.815871+00:00"
 }
