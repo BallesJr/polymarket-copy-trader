@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9173.5427609,
+ "bankroll": 8973.5427609,
  "last_seen": {
-  "jtwyslljy": 1791428401,
+  "jtwyslljy": 1791429203,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20578,6 +20578,62 @@
    "BUY",
    739.98,
    1791428401
+  ],
+  [
+   "0xdbd237fd2c0ac54d45773c9960fa2f6cdff31de6ff196cbbb6a68690bb547e9e",
+   "86442538400387854439276287068614801754563759737258948316204329315060109185425",
+   "BUY",
+   2000,
+   1791428977
+  ],
+  [
+   "0xc34a7caddd7799dca11d55b495702f85e55dc16b3afbc8b1ef3bb192c4f9f022",
+   "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "BUY",
+   433,
+   1791429044
+  ],
+  [
+   "0x93f482159ab900edafade48562c9a6cd83c52695af50f1a0040a993c938c97e5",
+   "60354912096871354985341988391168867235655468081190593397743566502680707092637",
+   "BUY",
+   500,
+   1791429079
+  ],
+  [
+   "0x71a28e186f0a156f1fd6c7e2a92afcedfffe8705ea14250a102513a2ff56c3d3",
+   "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "BUY",
+   200,
+   1791429131
+  ],
+  [
+   "0xe17ff28a1879540e5ebeac445590a88a4f489821e3193e166dd0d531b4bed558",
+   "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "BUY",
+   200,
+   1791429137
+  ],
+  [
+   "0xf86190d05970793216ff2cb62cb615260869ef9792619b97cd3f92d583f3f264",
+   "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "BUY",
+   200,
+   1791429142
+  ],
+  [
+   "0x186cb8279be893367ec7fb09ff2bea89b11c7009a936abb3a34f094a9d6271e5",
+   "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "BUY",
+   150,
+   1791429151
+  ],
+  [
+   "0xbb53d59e852c255b6100e6e06511fb2c810c2877c732f9bc95c1bc9fc04d9ad7",
+   "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "BUY",
+   1000,
+   1791429203
   ]
  ],
  "leader_pos": {
@@ -33732,6 +33788,66 @@
    "cost": 406.98900000000003,
    "max_shares": 739.98,
    "last_trade_ts": 1791428401
+  },
+  "jtwyslljy|86442538400387854439276287068614801754563759737258948316204329315060109185425": {
+   "leader": "jtwyslljy",
+   "asset": "86442538400387854439276287068614801754563759737258948316204329315060109185425",
+   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
+   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-acosta-2026-10-06",
+   "shares": 2000.0,
+   "cost": 1480.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791428977
+  },
+  "jtwyslljy|81283836168289770749137385666440881460216758181263969511303365866581614543049": {
+   "leader": "jtwyslljy",
+   "asset": "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "condition_id": "0x586dec06d8308b7c9812c44a18c92d83c871926899e4cee279a03e145bad0b23",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+   "outcome": "James Duckworth",
+   "slug": "atp-hurkacz-duckwor-2026-10-06",
+   "shares": 433.0,
+   "cost": 138.56,
+   "max_shares": 433.0,
+   "last_trade_ts": 1791429044
+  },
+  "jtwyslljy|60354912096871354985341988391168867235655468081190593397743566502680707092637": {
+   "leader": "jtwyslljy",
+   "asset": "60354912096871354985341988391168867235655468081190593397743566502680707092637",
+   "condition_id": "0x92a7f22c1d370daeca61162e7ffb122b4739be6955c5254583d651a65cb6cda0",
+   "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Hamad Medjedovic",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-tirante-medjedo-2026-10-06",
+   "shares": 500.0,
+   "cost": 285.0,
+   "max_shares": 500.0,
+   "last_trade_ts": 1791429079
+  },
+  "jtwyslljy|56008573281164922807045140659564581675379663396956505878439622786338744994561": {
+   "leader": "jtwyslljy",
+   "asset": "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "condition_id": "0x7b5a7f336dcd1bf7d5f6c52e9280dbb8f2164b8e8b49a8bd132fcee9b55ad09f",
+   "title": "Landaluce vs. Struff: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "shares": 750.0,
+   "cost": 405.0,
+   "max_shares": 750.0,
+   "last_trade_ts": 1791429151
+  },
+  "jtwyslljy|93421316463169096874108041541462276602432547503536164970341332874151905492036": {
+   "leader": "jtwyslljy",
+   "asset": "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "condition_id": "0xa27b335fa588914fcf268035580fac783a943f5955cca72f5089ed6447fabc12",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-zandsch-aguilar-2026-10-06",
+   "shares": 1000.0,
+   "cost": 500.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1791429203
   }
  },
  "positions": [
@@ -33841,6 +33957,42 @@
    "copy_delay_min": 11.5,
    "best_ask": 0.46,
    "ask_depth": 11401.56,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "86442538400387854439276287068614801754563759737258948316204329315060109185425",
+   "condition_id": "0xf4326228240f3756c9df90d8e09705c17eb44961865b4850ee1f4a322ed61dc8",
+   "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-acosta-2026-10-06",
+   "opened_at": "2026-10-08T03:20:29.424743+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.74,
+   "leader_cost": 1480.0,
+   "copy_delay_min": 10.9,
+   "best_ask": 0.74,
+   "ask_depth": 22572.9,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "condition_id": "0xa27b335fa588914fcf268035580fac783a943f5955cca72f5089ed6447fabc12",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-zandsch-aguilar-2026-10-06",
+   "opened_at": "2026-10-08T03:20:29.609799+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 500.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.5,
+   "ask_depth": 2070.88,
    "status": "open"
   }
  ],
@@ -56000,5 +56152,5 @@
   }
  ],
  "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T03:10:32.304568+00:00"
+ "last_updated": "2026-10-08T03:20:29.995712+00:00"
 }
