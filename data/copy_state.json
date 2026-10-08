@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791472620,
+  "jtwyslljy": 1791472817,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21047,6 +21047,13 @@
    "BUY",
    35,
    1791472620
+  ],
+  [
+   "0x1f242fafe7a4c6b70694fb0686450e77ce0f02d023373728d5ae20632846d2da",
+   "2502265507535001135618328358665252462435432333986322442491106360725802742783",
+   "BUY",
+   1500,
+   1791472817
   ]
  ],
  "leader_pos": {
@@ -34425,10 +34432,10 @@
    "title": "Dota 2: Aurora vs 1win (BO3) - BLAST Slam Playoffs",
    "outcome": "1win",
    "slug": "dota2-aur1-1win-2026-10-08",
-   "shares": 3231.14,
-   "cost": 936.6805999999998,
-   "max_shares": 3231.14,
-   "last_trade_ts": 1791472620
+   "shares": 4731.139999999999,
+   "cost": 1341.6805999999997,
+   "max_shares": 4731.139999999999,
+   "last_trade_ts": 1791472817
   }
  },
  "positions": [],
@@ -57103,8 +57110,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Aurora vs 1win (BO3) - BLAST Slam Playoffs",
    "outcome": "1win"
+  },
+  {
+   "at": "2026-10-08T15:25:25.278604+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T13:10:00+00:00",
+   "condition_id": "0xbc9af2034ad90a6bbe3e2e6c5296ae713a2ea1521aebae80fdabd1af8768f0ae",
+   "asset": "2502265507535001135618328358665252462435432333986322442491106360725802742783",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.25,
+   "cf_shares": 397.0769,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2518,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Aurora vs 1win (BO3) - BLAST Slam Playoffs",
+   "outcome": "1win"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T15:20:32.219055+00:00"
+ "last_updated": "2026-10-08T15:25:25.279211+00:00"
 }
