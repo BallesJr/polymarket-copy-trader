@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9673.5427609,
+ "bankroll": 9373.5427609,
  "last_seen": {
-  "jtwyslljy": 1791427853,
+  "jtwyslljy": 1791428260,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20501,6 +20501,62 @@
    "BUY",
    1000,
    1791427853
+  ],
+  [
+   "0x7643bfbf8cb0f6531c38a20db9ccec0aac7a0f6cee8f46ad3536a3e4e092349c",
+   "25061036197426814334069643247065211526593921921129036675963035788385525467254",
+   "BUY",
+   1000,
+   1791428069
+  ],
+  [
+   "0x8ec4d86f9f82a99be0e4ac2fd45127f1fdb93477b35e22e74e6d81a55870e868",
+   "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "BUY",
+   2000,
+   1791428084
+  ],
+  [
+   "0x27fa93d777fa4a0ab19c4dd788d1ea5f6291bbeaaeee17442fea18406c4ca131",
+   "25061036197426814334069643247065211526593921921129036675963035788385525467254",
+   "BUY",
+   1000,
+   1791428098
+  ],
+  [
+   "0x777a84b003854cda1b8195d8976fa022959489f4c3e6f415ff20d40b3381bbcb",
+   "101854609969747200267978062244676717545040187683948949245382992539524351627772",
+   "BUY",
+   1000,
+   1791428108
+  ],
+  [
+   "0xd83007f7bdaba05c6e4774904bfcec8dd90727d59a4326da5a025069094adaa8",
+   "28420942297919620130645268698322463478472002901234369918920840925778782956747",
+   "BUY",
+   345,
+   1791428179
+  ],
+  [
+   "0xe14bf50241e570d267b0e02049ba9a7abafb147dcddb295348105ec9a8d0c322",
+   "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "BUY",
+   305,
+   1791428189
+  ],
+  [
+   "0x6cf6d02bad433407619bb725f3bb7d5c6864a919a8981214c10fb3d20bd8a685",
+   "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "BUY",
+   200,
+   1791428194
+  ],
+  [
+   "0xde1603ad7478c9da679271daddb5526ee65ca582a2f1405116a16528220bf9bb",
+   "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "BUY",
+   1500,
+   1791428260
   ]
  ],
  "leader_pos": {
@@ -33567,10 +33623,58 @@
    "title": "Shanghai Rolex Masters: Jaume Munar vs Jenson Brooksby",
    "outcome": "Jaume Munar",
    "slug": "atp-munar-brooksb-2026-10-06",
-   "shares": 1000.0,
-   "cost": 650.0,
-   "max_shares": 1000.0,
-   "last_trade_ts": 1791427853
+   "shares": 2000.0,
+   "cost": 1300.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791428108
+  },
+  "jtwyslljy|25061036197426814334069643247065211526593921921129036675963035788385525467254": {
+   "leader": "jtwyslljy",
+   "asset": "25061036197426814334069643247065211526593921921129036675963035788385525467254",
+   "condition_id": "0x4f17e230a43be5dc407f0bcdcdd44492261cf99dae1a663acff2a20f75f955aa",
+   "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-busta-2026-10-06",
+   "shares": 2000.0,
+   "cost": 1160.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791428098
+  },
+  "jtwyslljy|93342182637923730937694930029081463692693317126201407655228526696177421400930": {
+   "leader": "jtwyslljy",
+   "asset": "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "condition_id": "0x498673588fbcc39d92a8b3023428c757bd696edbf2fa28411dc33498124c6fd2",
+   "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
+   "outcome": "Bernard Tomic",
+   "slug": "atp-tomic-arnaldi-2026-10-07",
+   "shares": 2000.0,
+   "cost": 660.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791428084
+  },
+  "jtwyslljy|28420942297919620130645268698322463478472002901234369918920840925778782956747": {
+   "leader": "jtwyslljy",
+   "asset": "28420942297919620130645268698322463478472002901234369918920840925778782956747",
+   "condition_id": "0xc3d4c60571f221b2d8174634afdbd45a5de025cf89184bb7655702a9d0820702",
+   "title": "Vallejo vs. Royer: Match O/U 21.5",
+   "outcome": "Over",
+   "slug": "atp-vallejo-royer-2026-10-06",
+   "shares": 345.0,
+   "cost": 200.1,
+   "max_shares": 345.0,
+   "last_trade_ts": 1791428179
+  },
+  "jtwyslljy|22565105067204130177319707624384344607718180985048342832984761412634215548025": {
+   "leader": "jtwyslljy",
+   "asset": "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "condition_id": "0x47cff80edca9927efdfd8512e1097df0062fbca0033aa8a09b8bb01911d71675",
+   "title": "Vallejo vs. Royer: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-vallejo-royer-2026-10-06",
+   "shares": 2005.0,
+   "cost": 997.45,
+   "max_shares": 2005.0,
+   "last_trade_ts": 1791428260
   }
  },
  "positions": [
@@ -33590,6 +33694,60 @@
    "copy_delay_min": 4.5,
    "best_ask": 0.65,
    "ask_depth": 8916.16,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25061036197426814334069643247065211526593921921129036675963035788385525467254",
+   "condition_id": "0x4f17e230a43be5dc407f0bcdcdd44492261cf99dae1a663acff2a20f75f955aa",
+   "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-busta-2026-10-06",
+   "opened_at": "2026-10-08T03:00:56.173810+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1160.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.58,
+   "ask_depth": 46354.16,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22565105067204130177319707624384344607718180985048342832984761412634215548025",
+   "condition_id": "0x47cff80edca9927efdfd8512e1097df0062fbca0033aa8a09b8bb01911d71675",
+   "title": "Vallejo vs. Royer: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-vallejo-royer-2026-10-06",
+   "opened_at": "2026-10-08T03:00:56.337106+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4975,
+   "leader_cost": 997.45,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.5,
+   "ask_depth": 1455.23,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "condition_id": "0x498673588fbcc39d92a8b3023428c757bd696edbf2fa28411dc33498124c6fd2",
+   "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
+   "outcome": "Bernard Tomic",
+   "slug": "atp-tomic-arnaldi-2026-10-07",
+   "opened_at": "2026-10-08T03:00:56.473197+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 660.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.33,
+   "ask_depth": 12513.74,
    "status": "open"
   }
  ],
@@ -55749,5 +55907,5 @@
   }
  ],
  "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T02:55:23.489305+00:00"
+ "last_updated": "2026-10-08T03:00:56.774905+00:00"
 }
