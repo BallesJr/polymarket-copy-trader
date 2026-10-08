@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8673.5427609,
+ "bankroll": 8864.6300889,
  "last_seen": {
-  "jtwyslljy": 1791429529,
+  "jtwyslljy": 1791430531,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20676,6 +20676,20 @@
    "SELL",
    1000,
    1791429529
+  ],
+  [
+   "0xdd6814f9c0db81e574d2242fa32a11e0c788dd194faa737cb23c6d44585638c3",
+   "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "SELL",
+   1000,
+   1791430477
+  ],
+  [
+   "0xe3dd634579eda3a7e584630ba704e7cca014926a4203b57e1a97d0d817d4b3b4",
+   "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "SELL",
+   1628.38,
+   1791430531
   ]
  ],
  "leader_pos": {
@@ -33766,10 +33780,10 @@
    "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
    "outcome": "Bernard Tomic",
    "slug": "atp-tomic-arnaldi-2026-10-07",
-   "shares": 1000.0,
-   "cost": 340.0,
+   "shares": 0.0,
+   "cost": 20.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1791429529
+   "last_trade_ts": 1791430477
   },
   "jtwyslljy|28420942297919620130645268698322463478472002901234369918920840925778782956747": {
    "leader": "jtwyslljy",
@@ -33802,10 +33816,10 @@
    "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
    "outcome": "Nicolas Mejia",
    "slug": "atp-cerund-mejia-2026-10-07",
-   "shares": 1999.99,
-   "cost": 679.9966000000001,
+   "shares": 371.6099999999999,
+   "cost": 142.63120000000004,
    "max_shares": 1999.99,
-   "last_trade_ts": 1791428317
+   "last_trade_ts": 1791430531
   },
   "jtwyslljy|68620392342690433618939636517717484234653068962722249849961863940111405624641": {
    "leader": "jtwyslljy",
@@ -33981,42 +33995,6 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.5,
    "ask_depth": 1455.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "93342182637923730937694930029081463692693317126201407655228526696177421400930",
-   "condition_id": "0x498673588fbcc39d92a8b3023428c757bd696edbf2fa28411dc33498124c6fd2",
-   "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
-   "outcome": "Bernard Tomic",
-   "slug": "atp-tomic-arnaldi-2026-10-07",
-   "opened_at": "2026-10-08T03:00:56.473197+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 660.0,
-   "copy_delay_min": 6.2,
-   "best_ask": 0.33,
-   "ask_depth": 12513.74,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
-   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
-   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
-   "outcome": "Nicolas Mejia",
-   "slug": "atp-cerund-mejia-2026-10-07",
-   "opened_at": "2026-10-08T03:10:31.827150+00:00",
-   "entry_price": 0.34,
-   "shares": 294.1176,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 680.0,
-   "copy_delay_min": 11.9,
-   "best_ask": 0.34,
-   "ask_depth": 12717.32,
    "status": "open"
   },
   {
@@ -45274,6 +45252,50 @@
    "exit_price": 0.999,
    "pnl": 185.4286,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
+   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-cerund-mejia-2026-10-07",
+   "opened_at": "2026-10-08T03:10:31.827150+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 680.0,
+   "copy_delay_min": 11.9,
+   "best_ask": 0.34,
+   "ask_depth": 12717.32,
+   "status": "closed",
+   "closed_at": "2026-10-08T03:40:30.176297+00:00",
+   "exit_price": 0.32,
+   "pnl": -5.8824,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "condition_id": "0x498673588fbcc39d92a8b3023428c757bd696edbf2fa28411dc33498124c6fd2",
+   "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
+   "outcome": "Bernard Tomic",
+   "slug": "atp-tomic-arnaldi-2026-10-07",
+   "opened_at": "2026-10-08T03:00:56.473197+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 660.0,
+   "copy_delay_min": 6.2,
+   "best_ask": 0.33,
+   "ask_depth": 12513.74,
+   "status": "closed",
+   "closed_at": "2026-10-08T03:40:30.176350+00:00",
+   "exit_price": 0.32,
+   "pnl": -3.0303,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -56283,6 +56305,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T03:25:26.025219+00:00"
+ "total_pnl": -235.370099999999,
+ "last_updated": "2026-10-08T03:40:30.435794+00:00"
 }
