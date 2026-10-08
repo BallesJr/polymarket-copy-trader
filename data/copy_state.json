@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8996.3838239,
  "last_seen": {
-  "jtwyslljy": 1791453627,
+  "jtwyslljy": 1791455745,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20949,6 +20949,13 @@
    "SELL",
    3000,
    1791453627
+  ],
+  [
+   "0xe71bc7de250289a97cc838555dbdeaffb3cb3a0c2a354e1e4fc8aca20a488d7a",
+   "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "BUY",
+   5000,
+   1791455745
   ]
  ],
  "leader_pos": {
@@ -34159,10 +34166,10 @@
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
    "outcome": "Daniel Merida Aguilar",
    "slug": "atp-zandsch-aguilar-2026-10-06",
-   "shares": 0.0,
-   "cost": -775.1570999,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791453627
+   "shares": 5000.0,
+   "cost": 2200.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791455745
   },
   "jtwyslljy|19574998350268919445074942629832986883733601100524753996953789587205480035735": {
    "leader": "jtwyslljy",
@@ -56910,8 +56917,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Fabian Marozsan vs Zachary Svajda",
    "outcome": "Fabian Marozsan"
+  },
+  {
+   "at": "2026-10-08T10:45:39.866269+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T09:25:00+00:00",
+   "condition_id": "0xa27b335fa588914fcf268035580fac783a943f5955cca72f5089ed6447fabc12",
+   "asset": "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "copy_delay_min": 9.9,
+   "cf_ask": 0.05,
+   "cf_shares": 1767.0833,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0566,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
+   "outcome": "Daniel Merida Aguilar"
   }
  ],
  "total_pnl": -403.616299999999,
- "last_updated": "2026-10-08T10:15:35.531295+00:00"
+ "last_updated": "2026-10-08T10:45:40.270032+00:00"
 }
