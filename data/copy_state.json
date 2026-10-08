@@ -34355,24 +34355,6 @@
    "best_ask": 0.64,
    "ask_depth": 20289.19,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
-   "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
-   "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
-   "outcome": "Ekaterina Alexandrova",
-   "slug": "wta-alexand-andreev-2026-10-07",
-   "opened_at": "2026-10-08T08:55:30.067374+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.26,
-   "leader_cost": 2080.0,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.27,
-   "ask_depth": 15203.41,
-   "status": "open"
   }
  ],
  "closed": [
@@ -45851,6 +45833,28 @@
    "exit_price": 1.0,
    "pnl": 40.8451,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
+   "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
+   "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
+   "outcome": "Ekaterina Alexandrova",
+   "slug": "wta-alexand-andreev-2026-10-07",
+   "opened_at": "2026-10-08T08:55:30.067374+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.26,
+   "leader_cost": 2080.0,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.27,
+   "ask_depth": 15203.41,
+   "status": "lost",
+   "closed_at": "2026-10-08T13:45:34.394127+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56972,6 +56976,6 @@
    "outcome": "Daniel Merida Aguilar"
   }
  ],
- "total_pnl": -662.771199999999,
- "last_updated": "2026-10-08T13:30:51.376621+00:00"
+ "total_pnl": -762.771199999999,
+ "last_updated": "2026-10-08T13:45:34.395540+00:00"
 }
