@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8996.3838239,
+ "bankroll": 9137.2289239,
  "last_seen": {
   "jtwyslljy": 1791464781,
   "0x53757615de": 1787221213
@@ -34340,24 +34340,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "19574998350268919445074942629832986883733601100524753996953789587205480035735",
-   "condition_id": "0x24d77141ef373d25a91cab626242846097161e493683c6f91c78de26303b7139",
-   "title": "Shanghai Rolex Masters: Vit Kopriva vs Zizou Bergs",
-   "outcome": "Zizou Bergs",
-   "slug": "atp-kopriva-bergs-2026-10-06",
-   "opened_at": "2026-10-08T03:25:25.339038+00:00",
-   "entry_price": 0.71,
-   "shares": 140.8451,
-   "stake": 100.0,
-   "leader_vwap": 0.71,
-   "leader_cost": 1420.0,
-   "copy_delay_min": 10.0,
-   "best_ask": 0.71,
-   "ask_depth": 10284.32,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "70741992291656350461466773154469837079824600740215442760046055549349917391597",
    "condition_id": "0x676f9af9f38e9a0026f99be10b1318ca3c3dc7d771183611f1ee6f4ed86bfbc3",
    "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
@@ -45847,6 +45829,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19574998350268919445074942629832986883733601100524753996953789587205480035735",
+   "condition_id": "0x24d77141ef373d25a91cab626242846097161e493683c6f91c78de26303b7139",
+   "title": "Shanghai Rolex Masters: Vit Kopriva vs Zizou Bergs",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-kopriva-bergs-2026-10-06",
+   "opened_at": "2026-10-08T03:25:25.339038+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 1420.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.71,
+   "ask_depth": 10284.32,
+   "status": "won",
+   "closed_at": "2026-10-08T13:30:51.373963+00:00",
+   "exit_price": 1.0,
+   "pnl": 40.8451,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56968,6 +56972,6 @@
    "outcome": "Daniel Merida Aguilar"
   }
  ],
- "total_pnl": -703.616299999999,
- "last_updated": "2026-10-08T13:10:37.447195+00:00"
+ "total_pnl": -662.771199999999,
+ "last_updated": "2026-10-08T13:30:51.376621+00:00"
 }
