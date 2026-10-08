@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8864.6300889,
+ "bankroll": 8762.4561739,
  "last_seen": {
-  "jtwyslljy": 1791432962,
+  "jtwyslljy": 1791433481,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20711,6 +20711,62 @@
    "BUY",
    1000,
    1791432962
+  ],
+  [
+   "0x30f531a8f2fe5ebfe518b0f96ec8a41e8ac46e65b2c8bce56b9e84769c95f80f",
+   "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "SELL",
+   999.99,
+   1791433310
+  ],
+  [
+   "0x87780d2150ce0f0e03e38470e741cbdaf6fb19d0181414e163fc0181f7243134",
+   "19156567343813619315117037559347104495598090547346164216074980130763256771779",
+   "BUY",
+   2769.88,
+   1791433322
+  ],
+  [
+   "0x967751009b3e26f8c8b839fa05b373c4fc4db1b0f1c10d61803b54499f38ecad",
+   "60354912096871354985341988391168867235655468081190593397743566502680707092637",
+   "SELL",
+   500,
+   1791433375
+  ],
+  [
+   "0x0b808634dc18e38a2af8c0b4c520f0f507cae660ff53adf4f9618d9dc2e4055b",
+   "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "BUY",
+   295,
+   1791433409
+  ],
+  [
+   "0xc58baa5381dcd516bf38f5be8e09535d8fc475807b9a42c67907187f5ce16446",
+   "98531845364025137343058118759359837932568485141383211094670575721185971825650",
+   "BUY",
+   800,
+   1791433424
+  ],
+  [
+   "0xc8c8b62f1222c837b3fb4a207fae7a27d9a7cb54f5c8bf68a2ba219b63c9c5c5",
+   "68620392342690433618939636517717484234653068962722249849961863940111405624641",
+   "SELL",
+   2000,
+   1791433445
+  ],
+  [
+   "0xad966482d5467d7414ef71c497c6b173c14f3b7f52973c86d3ba053101434a88",
+   "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "SELL",
+   371.61,
+   1791433457
+  ],
+  [
+   "0xbf64260b510ed27eaff26d23ea12f3577e6fdc4742ef58ffb4885776ecb743db",
+   "93421316463169096874108041541462276602432547503536164970341332874151905492036",
+   "BUY",
+   1000,
+   1791433481
   ]
  ],
  "leader_pos": {
@@ -33837,10 +33893,10 @@
    "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
    "outcome": "Nicolas Mejia",
    "slug": "atp-cerund-mejia-2026-10-07",
-   "shares": 371.6099999999999,
-   "cost": 142.63120000000004,
+   "shares": -1.1368683772161603e-13,
+   "cost": 23.716000000000022,
    "max_shares": 1999.99,
-   "last_trade_ts": 1791430531
+   "last_trade_ts": 1791433457
   },
   "jtwyslljy|68620392342690433618939636517717484234653068962722249849961863940111405624641": {
    "leader": "jtwyslljy",
@@ -33849,10 +33905,10 @@
    "title": "Shanghai Rolex Masters: Marcos Giron vs Sebastian Baez",
    "outcome": "Marcos Giron",
    "slug": "atp-giron-baez-2026-10-06",
-   "shares": 2000.0,
-   "cost": 920.0,
+   "shares": 0.0,
+   "cost": 20.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1791428339
+   "last_trade_ts": 1791433445
   },
   "jtwyslljy|59864804555565307262745770382862938827892888426950789880767502316878824422756": {
    "leader": "jtwyslljy",
@@ -33885,10 +33941,10 @@
    "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
    "outcome": "James Duckworth",
    "slug": "atp-hurkacz-duckwor-2026-10-06",
-   "shares": 433.0,
-   "cost": 138.56,
+   "shares": -566.99,
+   "cost": -171.43689999999998,
    "max_shares": 433.0,
-   "last_trade_ts": 1791429044
+   "last_trade_ts": 1791433310
   },
   "jtwyslljy|60354912096871354985341988391168867235655468081190593397743566502680707092637": {
    "leader": "jtwyslljy",
@@ -33897,10 +33953,10 @@
    "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Hamad Medjedovic",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-tirante-medjedo-2026-10-06",
-   "shares": 500.0,
-   "cost": 285.0,
+   "shares": 0.0,
+   "cost": 5.0,
    "max_shares": 500.0,
-   "last_trade_ts": 1791429079
+   "last_trade_ts": 1791433375
   },
   "jtwyslljy|56008573281164922807045140659564581675379663396956505878439622786338744994561": {
    "leader": "jtwyslljy",
@@ -33909,10 +33965,10 @@
    "title": "Landaluce vs. Struff: Match O/U 22.5",
    "outcome": "Over",
    "slug": "atp-landalu-struff-2026-10-06",
-   "shares": 750.0,
-   "cost": 405.0,
-   "max_shares": 750.0,
-   "last_trade_ts": 1791429151
+   "shares": 1045.0,
+   "cost": 564.3,
+   "max_shares": 1045.0,
+   "last_trade_ts": 1791433409
   },
   "jtwyslljy|93421316463169096874108041541462276602432547503536164970341332874151905492036": {
    "leader": "jtwyslljy",
@@ -33921,10 +33977,10 @@
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
    "outcome": "Daniel Merida Aguilar",
    "slug": "atp-zandsch-aguilar-2026-10-06",
-   "shares": 1000.0,
-   "cost": 500.0,
-   "max_shares": 1000.0,
-   "last_trade_ts": 1791429203
+   "shares": 2000.0,
+   "cost": 1000.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791433481
   },
   "jtwyslljy|19574998350268919445074942629832986883733601100524753996953789587205480035735": {
    "leader": "jtwyslljy",
@@ -33961,6 +34017,30 @@
    "cost": 1280.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1791429307
+  },
+  "jtwyslljy|19156567343813619315117037559347104495598090547346164216074980130763256771779": {
+   "leader": "jtwyslljy",
+   "asset": "19156567343813619315117037559347104495598090547346164216074980130763256771779",
+   "condition_id": "0x586dec06d8308b7c9812c44a18c92d83c871926899e4cee279a03e145bad0b23",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-hurkacz-duckwor-2026-10-06",
+   "shares": 2769.88,
+   "cost": 1911.2171999999998,
+   "max_shares": 2769.88,
+   "last_trade_ts": 1791433322
+  },
+  "jtwyslljy|98531845364025137343058118759359837932568485141383211094670575721185971825650": {
+   "leader": "jtwyslljy",
+   "asset": "98531845364025137343058118759359837932568485141383211094670575721185971825650",
+   "condition_id": "0x8b9cf3876645246f07f3998002928c5a3038d7bc2502d68ffe6dfe56afff53fb",
+   "title": "Shanghai Rolex Masters: Martin Landaluce vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "shares": 800.0,
+   "cost": 408.0,
+   "max_shares": 800.0,
+   "last_trade_ts": 1791433424
   }
  },
  "positions": [
@@ -34016,24 +34096,6 @@
    "copy_delay_min": 3.3,
    "best_ask": 0.5,
    "ask_depth": 1455.23,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "68620392342690433618939636517717484234653068962722249849961863940111405624641",
-   "condition_id": "0x6087d53cd0f5632ff4b8320b79df1bfbd9fbdacd76629410c46703b04c1b3f9b",
-   "title": "Shanghai Rolex Masters: Marcos Giron vs Sebastian Baez",
-   "outcome": "Marcos Giron",
-   "slug": "atp-giron-baez-2026-10-06",
-   "opened_at": "2026-10-08T03:10:31.981574+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 920.0,
-   "copy_delay_min": 11.5,
-   "best_ask": 0.46,
-   "ask_depth": 11401.56,
    "status": "open"
   },
   {
@@ -34124,6 +34186,42 @@
    "copy_delay_min": 10.3,
    "best_ask": 0.64,
    "ask_depth": 20289.19,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "56008573281164922807045140659564581675379663396956505878439622786338744994561",
+   "condition_id": "0x7b5a7f336dcd1bf7d5f6c52e9280dbb8f2164b8e8b49a8bd132fcee9b55ad09f",
+   "title": "Landaluce vs. Struff: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-landalu-struff-2026-10-06",
+   "opened_at": "2026-10-08T04:30:45.616663+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 564.3,
+   "copy_delay_min": 7.3,
+   "best_ask": 0.54,
+   "ask_depth": 295.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19156567343813619315117037559347104495598090547346164216074980130763256771779",
+   "condition_id": "0x586dec06d8308b7c9812c44a18c92d83c871926899e4cee279a03e145bad0b23",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-hurkacz-duckwor-2026-10-06",
+   "opened_at": "2026-10-08T04:30:45.776230+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 1911.22,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.7,
+   "ask_depth": 2009.34,
    "status": "open"
   }
  ],
@@ -45317,6 +45415,28 @@
    "exit_price": 0.32,
    "pnl": -3.0303,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68620392342690433618939636517717484234653068962722249849961863940111405624641",
+   "condition_id": "0x6087d53cd0f5632ff4b8320b79df1bfbd9fbdacd76629410c46703b04c1b3f9b",
+   "title": "Shanghai Rolex Masters: Marcos Giron vs Sebastian Baez",
+   "outcome": "Marcos Giron",
+   "slug": "atp-giron-baez-2026-10-06",
+   "opened_at": "2026-10-08T03:10:31.981574+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 920.0,
+   "copy_delay_min": 11.5,
+   "best_ask": 0.46,
+   "ask_depth": 11401.56,
+   "status": "closed",
+   "closed_at": "2026-10-08T04:30:45.457089+00:00",
+   "exit_price": 0.45,
+   "pnl": -2.1739,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -56326,6 +56446,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -235.370099999999,
- "last_updated": "2026-10-08T04:21:12.803959+00:00"
+ "total_pnl": -237.54399999999902,
+ "last_updated": "2026-10-08T04:30:46.120483+00:00"
 }
