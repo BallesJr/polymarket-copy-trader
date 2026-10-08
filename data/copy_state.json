@@ -34402,24 +34402,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
-   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
-   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
-   "outcome": "Nicolas Mejia",
-   "slug": "atp-cerund-mejia-2026-10-07",
-   "opened_at": "2026-10-08T08:10:30.537898+00:00",
-   "entry_price": 0.3318,
-   "shares": 301.3606,
-   "stake": 100.0,
-   "leader_vwap": 0.325,
-   "leader_cost": 650.0,
-   "copy_delay_min": 3.8,
-   "best_ask": 0.33,
-   "ask_depth": 246.26,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "91731088978417931314971927133870870603248918887732622286613727248830289476249",
    "condition_id": "0xc856e5f07cf73a8a79366bcc8070fc749f821072cbcba02f84f64b7ecd7f9bde",
    "title": "China Open: Ekaterina Alexandrova vs Mirra Andreeva",
@@ -45803,6 +45785,28 @@
    "exit_price": 0.57,
    "pnl": 14.0,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
+   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-cerund-mejia-2026-10-07",
+   "opened_at": "2026-10-08T08:10:30.537898+00:00",
+   "entry_price": 0.3318,
+   "shares": 301.3606,
+   "stake": 100.0,
+   "leader_vwap": 0.325,
+   "leader_cost": 650.0,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.33,
+   "ask_depth": 246.26,
+   "status": "lost",
+   "closed_at": "2026-10-08T10:15:35.529332+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56908,6 +56912,6 @@
    "outcome": "Fabian Marozsan"
   }
  ],
- "total_pnl": -303.616299999999,
- "last_updated": "2026-10-08T10:05:28.298937+00:00"
+ "total_pnl": -403.616299999999,
+ "last_updated": "2026-10-08T10:15:35.531295+00:00"
 }
