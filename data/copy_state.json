@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791480702,
+  "jtwyslljy": 1791484565,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21124,6 +21124,20 @@
    "BUY",
    5000,
    1791480702
+  ],
+  [
+   "0x4c901631459b271f299ee459e0319ccc32ce459e75c51686eb48a1225a52a5a9",
+   "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "BUY",
+   15912.73,
+   1791484542
+  ],
+  [
+   "0x26cc3bef2f55bc69592fccbaa9452fd8582b2c5aa0ec1100b328543d046a8acf",
+   "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "BUY",
+   323.59,
+   1791484565
   ]
  ],
  "leader_pos": {
@@ -34530,6 +34544,18 @@
    "cost": 6432.4293,
    "max_shares": 15000.0,
    "last_trade_ts": 1791480702
+  },
+  "jtwyslljy|43233499534240833403890221146835236312591427282805558463052801327408512881448": {
+   "leader": "jtwyslljy",
+   "asset": "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "condition_id": "0xabdd2ce327c0b3e4faed45f8df7d0f8708748c22c802457f732bc9a8a7f72194",
+   "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
+   "outcome": "PARIVISION",
+   "slug": "dota2-pari-ty-2026-10-08",
+   "shares": 16236.32,
+   "cost": 9740.398800499093,
+   "max_shares": 16236.32,
+   "last_trade_ts": 1791484565
   }
  },
  "positions": [],
@@ -57268,8 +57294,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
    "outcome": "Team Yandex"
+  },
+  {
+   "at": "2026-10-08T18:40:36.607606+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T16:50:00+00:00",
+   "condition_id": "0xabdd2ce327c0b3e4faed45f8df7d0f8708748c22c802457f732bc9a8a7f72194",
+   "asset": "43233499534240833403890221146835236312591427282805558463052801327408512881448",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
+   "outcome": "PARIVISION"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T17:35:24.245928+00:00"
+ "last_updated": "2026-10-08T18:40:36.608308+00:00"
 }
