@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9373.5427609,
+ "bankroll": 9173.5427609,
  "last_seen": {
-  "jtwyslljy": 1791428260,
+  "jtwyslljy": 1791428401,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20557,6 +20557,27 @@
    "BUY",
    1500,
    1791428260
+  ],
+  [
+   "0x087dac006b000e8df8e3d7f5767acf35d13dda5d9f9f61e5acb6b5143b6052c3",
+   "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "BUY",
+   1999.99,
+   1791428317
+  ],
+  [
+   "0x0a6645632a1934a6288caa8f53f74cfe3cc1059d15673f682d5f2c5266e98b43",
+   "68620392342690433618939636517717484234653068962722249849961863940111405624641",
+   "BUY",
+   2000,
+   1791428339
+  ],
+  [
+   "0x4b56c59429e8c13d9675ccf3784cb2534bf23499e7859c3734546ab581155c05",
+   "59864804555565307262745770382862938827892888426950789880767502316878824422756",
+   "BUY",
+   739.98,
+   1791428401
   ]
  ],
  "leader_pos": {
@@ -33675,6 +33696,42 @@
    "cost": 997.45,
    "max_shares": 2005.0,
    "last_trade_ts": 1791428260
+  },
+  "jtwyslljy|51874606098290369415393404839059608164159786331210048070557436321438523466005": {
+   "leader": "jtwyslljy",
+   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
+   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-cerund-mejia-2026-10-07",
+   "shares": 1999.99,
+   "cost": 679.9966000000001,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1791428317
+  },
+  "jtwyslljy|68620392342690433618939636517717484234653068962722249849961863940111405624641": {
+   "leader": "jtwyslljy",
+   "asset": "68620392342690433618939636517717484234653068962722249849961863940111405624641",
+   "condition_id": "0x6087d53cd0f5632ff4b8320b79df1bfbd9fbdacd76629410c46703b04c1b3f9b",
+   "title": "Shanghai Rolex Masters: Marcos Giron vs Sebastian Baez",
+   "outcome": "Marcos Giron",
+   "slug": "atp-giron-baez-2026-10-06",
+   "shares": 2000.0,
+   "cost": 920.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791428339
+  },
+  "jtwyslljy|59864804555565307262745770382862938827892888426950789880767502316878824422756": {
+   "leader": "jtwyslljy",
+   "asset": "59864804555565307262745770382862938827892888426950789880767502316878824422756",
+   "condition_id": "0xf8b019f42a5c00949394cd623a79da79a942510247b9d2df96f54b87fac71c5f",
+   "title": "Shanghai Rolex Masters: Fabian Marozsan vs Zachary Svajda",
+   "outcome": "Fabian Marozsan",
+   "slug": "atp-marozsa-svajda-2026-10-06",
+   "shares": 739.98,
+   "cost": 406.98900000000003,
+   "max_shares": 739.98,
+   "last_trade_ts": 1791428401
   }
  },
  "positions": [
@@ -33748,6 +33805,42 @@
    "copy_delay_min": 6.2,
    "best_ask": 0.33,
    "ask_depth": 12513.74,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51874606098290369415393404839059608164159786331210048070557436321438523466005",
+   "condition_id": "0x1b7858c970a103768671d9ad7346e29ff75bd2e0f3257eef6c2bcce712a1aba5",
+   "title": "Shanghai Rolex Masters: Juan Manuel Cerundolo vs Nicolas Mejia",
+   "outcome": "Nicolas Mejia",
+   "slug": "atp-cerund-mejia-2026-10-07",
+   "opened_at": "2026-10-08T03:10:31.827150+00:00",
+   "entry_price": 0.34,
+   "shares": 294.1176,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 680.0,
+   "copy_delay_min": 11.9,
+   "best_ask": 0.34,
+   "ask_depth": 12717.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "68620392342690433618939636517717484234653068962722249849961863940111405624641",
+   "condition_id": "0x6087d53cd0f5632ff4b8320b79df1bfbd9fbdacd76629410c46703b04c1b3f9b",
+   "title": "Shanghai Rolex Masters: Marcos Giron vs Sebastian Baez",
+   "outcome": "Marcos Giron",
+   "slug": "atp-giron-baez-2026-10-06",
+   "opened_at": "2026-10-08T03:10:31.981574+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 920.0,
+   "copy_delay_min": 11.5,
+   "best_ask": 0.46,
+   "ask_depth": 11401.56,
    "status": "open"
   }
  ],
@@ -55907,5 +56000,5 @@
   }
  ],
  "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T03:00:56.774905+00:00"
+ "last_updated": "2026-10-08T03:10:32.304568+00:00"
 }
