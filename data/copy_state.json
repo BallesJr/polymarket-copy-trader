@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8973.5427609,
+ "bankroll": 8673.5427609,
  "last_seen": {
-  "jtwyslljy": 1791429203,
+  "jtwyslljy": 1791429529,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20634,6 +20634,48 @@
    "BUY",
    1000,
    1791429203
+  ],
+  [
+   "0x24b7e2f273cf0de952e3c40d9b39f7b6ed0bc812c9f0f6b563a9fba4e2063735",
+   "19574998350268919445074942629832986883733601100524753996953789587205480035735",
+   "BUY",
+   1500,
+   1791429272
+  ],
+  [
+   "0x0d1da1936e955a65476fa4f925cb0c00dc761173247bdb7c1b3588c0227c255f",
+   "101663855385691877923603929676755938963481773261983752265333869890541651841788",
+   "BUY",
+   2000,
+   1791429293
+  ],
+  [
+   "0xfb205bec90b7a00e8de4cb0d32feb065055e6b6e46d15ed6b00ad681d6ee56c1",
+   "70741992291656350461466773154469837079824600740215442760046055549349917391597",
+   "BUY",
+   2000,
+   1791429307
+  ],
+  [
+   "0xa95a2b44a91571996eae1483a55cca64258ee66d9dcadbb6c9b22f505e3a475a",
+   "19574998350268919445074942629832986883733601100524753996953789587205480035735",
+   "BUY",
+   500,
+   1791429325
+  ],
+  [
+   "0x481d01651aeeb9a6b8c1cfd5ff12646e1a008a6afa12007b4384daecacc3db35",
+   "86442538400387854439276287068614801754563759737258948316204329315060109185425",
+   "SELL",
+   1000,
+   1791429374
+  ],
+  [
+   "0x614dcaacb66a00c214e0b8882f7d48a5b6d2707a801b83e93e0c7c3f897c2249",
+   "93342182637923730937694930029081463692693317126201407655228526696177421400930",
+   "SELL",
+   1000,
+   1791429529
   ]
  ],
  "leader_pos": {
@@ -33724,10 +33766,10 @@
    "title": "Shanghai Rolex Masters: Bernard Tomic vs Matteo Arnaldi",
    "outcome": "Bernard Tomic",
    "slug": "atp-tomic-arnaldi-2026-10-07",
-   "shares": 2000.0,
-   "cost": 660.0,
+   "shares": 1000.0,
+   "cost": 340.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1791428084
+   "last_trade_ts": 1791429529
   },
   "jtwyslljy|28420942297919620130645268698322463478472002901234369918920840925778782956747": {
    "leader": "jtwyslljy",
@@ -33796,10 +33838,10 @@
    "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
    "outcome": "Nuno Borges",
    "slug": "atp-borges-acosta-2026-10-06",
-   "shares": 2000.0,
-   "cost": 1480.0,
+   "shares": 1000.0,
+   "cost": 750.0,
    "max_shares": 2000.0,
-   "last_trade_ts": 1791428977
+   "last_trade_ts": 1791429374
   },
   "jtwyslljy|81283836168289770749137385666440881460216758181263969511303365866581614543049": {
    "leader": "jtwyslljy",
@@ -33848,6 +33890,42 @@
    "cost": 500.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1791429203
+  },
+  "jtwyslljy|19574998350268919445074942629832986883733601100524753996953789587205480035735": {
+   "leader": "jtwyslljy",
+   "asset": "19574998350268919445074942629832986883733601100524753996953789587205480035735",
+   "condition_id": "0x24d77141ef373d25a91cab626242846097161e493683c6f91c78de26303b7139",
+   "title": "Shanghai Rolex Masters: Vit Kopriva vs Zizou Bergs",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-kopriva-bergs-2026-10-06",
+   "shares": 2000.0,
+   "cost": 1420.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791429325
+  },
+  "jtwyslljy|101663855385691877923603929676755938963481773261983752265333869890541651841788": {
+   "leader": "jtwyslljy",
+   "asset": "101663855385691877923603929676755938963481773261983752265333869890541651841788",
+   "condition_id": "0x82c3d42e2797373a7d5cc9446532d4f854db49f9d26ec490972a5e7504e532a4",
+   "title": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-assche-bu-2026-10-06",
+   "shares": 2000.0,
+   "cost": 860.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791429293
+  },
+  "jtwyslljy|70741992291656350461466773154469837079824600740215442760046055549349917391597": {
+   "leader": "jtwyslljy",
+   "asset": "70741992291656350461466773154469837079824600740215442760046055549349917391597",
+   "condition_id": "0x676f9af9f38e9a0026f99be10b1318ca3c3dc7d771183611f1ee6f4ed86bfbc3",
+   "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
+   "outcome": "Cameron Norrie",
+   "slug": "atp-norrie-svrcina-2026-10-07",
+   "shares": 2000.0,
+   "cost": 1280.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791429307
   }
  },
  "positions": [
@@ -33993,6 +34071,60 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.5,
    "ask_depth": 2070.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "101663855385691877923603929676755938963481773261983752265333869890541651841788",
+   "condition_id": "0x82c3d42e2797373a7d5cc9446532d4f854db49f9d26ec490972a5e7504e532a4",
+   "title": "Shanghai Rolex Masters: Luca Van Assche vs Yunchaokete Bu",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-assche-bu-2026-10-06",
+   "opened_at": "2026-10-08T03:25:25.093920+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 860.0,
+   "copy_delay_min": 10.5,
+   "best_ask": 0.43,
+   "ask_depth": 23903.8,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "19574998350268919445074942629832986883733601100524753996953789587205480035735",
+   "condition_id": "0x24d77141ef373d25a91cab626242846097161e493683c6f91c78de26303b7139",
+   "title": "Shanghai Rolex Masters: Vit Kopriva vs Zizou Bergs",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-kopriva-bergs-2026-10-06",
+   "opened_at": "2026-10-08T03:25:25.339038+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 1420.0,
+   "copy_delay_min": 10.0,
+   "best_ask": 0.71,
+   "ask_depth": 10284.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70741992291656350461466773154469837079824600740215442760046055549349917391597",
+   "condition_id": "0x676f9af9f38e9a0026f99be10b1318ca3c3dc7d771183611f1ee6f4ed86bfbc3",
+   "title": "Shanghai Rolex Masters: Cameron Norrie vs Dalibor Svrcina",
+   "outcome": "Cameron Norrie",
+   "slug": "atp-norrie-svrcina-2026-10-07",
+   "opened_at": "2026-10-08T03:25:25.552800+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 1280.0,
+   "copy_delay_min": 10.3,
+   "best_ask": 0.64,
+   "ask_depth": 20289.19,
    "status": "open"
   }
  ],
@@ -56152,5 +56284,5 @@
   }
  ],
  "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T03:20:29.995712+00:00"
+ "last_updated": "2026-10-08T03:25:26.025219+00:00"
 }
