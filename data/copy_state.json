@@ -34305,24 +34305,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "25061036197426814334069643247065211526593921921129036675963035788385525467254",
-   "condition_id": "0x4f17e230a43be5dc407f0bcdcdd44492261cf99dae1a663acff2a20f75f955aa",
-   "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
-   "outcome": "Mariano Navone",
-   "slug": "atp-navone-busta-2026-10-06",
-   "opened_at": "2026-10-08T03:00:56.173810+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 1160.0,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.58,
-   "ask_depth": 46354.16,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "93421316463169096874108041541462276602432547503536164970341332874151905492036",
    "condition_id": "0xa27b335fa588914fcf268035580fac783a943f5955cca72f5089ed6447fabc12",
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Daniel Merida Aguilar",
@@ -45788,6 +45770,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "25061036197426814334069643247065211526593921921129036675963035788385525467254",
+   "condition_id": "0x4f17e230a43be5dc407f0bcdcdd44492261cf99dae1a663acff2a20f75f955aa",
+   "title": "Shanghai Rolex Masters: Mariano Navone vs Pablo Carreno Busta",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-busta-2026-10-06",
+   "opened_at": "2026-10-08T03:00:56.173810+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 1160.0,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.58,
+   "ask_depth": 46354.16,
+   "status": "lost",
+   "closed_at": "2026-10-08T10:01:00.584709+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -56893,6 +56897,6 @@
    "outcome": "Fabian Marozsan"
   }
  ],
- "total_pnl": -217.616299999999,
- "last_updated": "2026-10-08T09:40:30.002774+00:00"
+ "total_pnl": -317.616299999999,
+ "last_updated": "2026-10-08T10:01:00.586897+00:00"
 }
