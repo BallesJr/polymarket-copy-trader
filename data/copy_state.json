@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9773.5427609,
+ "bankroll": 9673.5427609,
  "last_seen": {
-  "jtwyslljy": 1791426691,
+  "jtwyslljy": 1791427853,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20494,6 +20494,13 @@
    "SELL",
    415.42,
    1791426691
+  ],
+  [
+   "0x1cf7ddb3602fc612513ae5e830de4f2a6b3548647b8be3b91ef853428f69a027",
+   "101854609969747200267978062244676717545040187683948949245382992539524351627772",
+   "BUY",
+   1000,
+   1791427853
   ]
  ],
  "leader_pos": {
@@ -33552,9 +33559,40 @@
    "cost": 130.0025,
    "max_shares": 1000.0,
    "last_trade_ts": 1791426691
+  },
+  "jtwyslljy|101854609969747200267978062244676717545040187683948949245382992539524351627772": {
+   "leader": "jtwyslljy",
+   "asset": "101854609969747200267978062244676717545040187683948949245382992539524351627772",
+   "condition_id": "0xb7535ab333e792b35ff5cf02756dda19a24dccba833d7e4ae614250ed231ac37",
+   "title": "Shanghai Rolex Masters: Jaume Munar vs Jenson Brooksby",
+   "outcome": "Jaume Munar",
+   "slug": "atp-munar-brooksb-2026-10-06",
+   "shares": 1000.0,
+   "cost": 650.0,
+   "max_shares": 1000.0,
+   "last_trade_ts": 1791427853
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "101854609969747200267978062244676717545040187683948949245382992539524351627772",
+   "condition_id": "0xb7535ab333e792b35ff5cf02756dda19a24dccba833d7e4ae614250ed231ac37",
+   "title": "Shanghai Rolex Masters: Jaume Munar vs Jenson Brooksby",
+   "outcome": "Jaume Munar",
+   "slug": "atp-munar-brooksb-2026-10-06",
+   "opened_at": "2026-10-08T02:55:23.320709+00:00",
+   "entry_price": 0.65,
+   "shares": 153.8462,
+   "stake": 100.0,
+   "leader_vwap": 0.65,
+   "leader_cost": 650.0,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.65,
+   "ask_depth": 8916.16,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -55711,5 +55749,5 @@
   }
  ],
  "total_pnl": -226.457399999999,
- "last_updated": "2026-10-08T02:40:29.425182+00:00"
+ "last_updated": "2026-10-08T02:55:23.489305+00:00"
 }
