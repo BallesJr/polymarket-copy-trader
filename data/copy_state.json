@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8762.4561739,
  "last_seen": {
-  "jtwyslljy": 1791440008,
+  "jtwyslljy": 1791440243,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -20802,6 +20802,34 @@
    "BUY",
    1000,
    1791440008
+  ],
+  [
+   "0x6a67b62356c8301f993f67a85815273253e4a2ae916413ad3297dc7e38c75aa1",
+   "16498521169516627628869499008708625329192680141139087785714940462665595613203",
+   "BUY",
+   5,
+   1791440093
+  ],
+  [
+   "0x8efa1868e35ac93dcb5051a95aa437d425d684544cfae4643deb64c4abeca2b4",
+   "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "BUY",
+   11600,
+   1791440146
+  ],
+  [
+   "0x0c3a035abc2a80780aad6202f7fc04c992fa7eddfc7bf394669f769518c89a7c",
+   "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "BUY",
+   11400,
+   1791440185
+  ],
+  [
+   "0xfb34f317e058c851062a94c4f4fc8bee9b7b63864bb6c46eb513d94f8837cb3a",
+   "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "BUY",
+   7000,
+   1791440243
   ]
  ],
  "leader_pos": {
@@ -33976,10 +34004,10 @@
    "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
    "outcome": "James Duckworth",
    "slug": "atp-hurkacz-duckwor-2026-10-06",
-   "shares": -566.99,
-   "cost": -171.43689999999998,
-   "max_shares": 433.0,
-   "last_trade_ts": 1791433310
+   "shares": 30000.0,
+   "cost": 3900.0,
+   "max_shares": 30000.0,
+   "last_trade_ts": 1791440243
   },
   "jtwyslljy|60354912096871354985341988391168867235655468081190593397743566502680707092637": {
    "leader": "jtwyslljy",
@@ -34100,6 +34128,18 @@
    "cost": 370.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1791440008
+  },
+  "jtwyslljy|16498521169516627628869499008708625329192680141139087785714940462665595613203": {
+   "leader": "jtwyslljy",
+   "asset": "16498521169516627628869499008708625329192680141139087785714940462665595613203",
+   "condition_id": "0xaffb81fbf1b41aabd80f50a8e79843c85565d550e56b8e2ebbc42a09dc9e8646",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Ilia Simakin",
+   "outcome": "Camilo Ugo Carabelli",
+   "slug": "atp-carabel-simakin-2026-10-07",
+   "shares": 5.0,
+   "cost": 3.15,
+   "max_shares": 5.0,
+   "last_trade_ts": 1791440093
   }
  },
  "positions": [
@@ -56519,8 +56559,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Nuno Borges vs Facundo Acosta",
    "outcome": "Facundo Acosta"
+  },
+  {
+   "at": "2026-10-08T06:25:23.602878+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-08T05:45:00+00:00",
+   "condition_id": "0x586dec06d8308b7c9812c44a18c92d83c871926899e4cee279a03e145bad0b23",
+   "asset": "81283836168289770749137385666440881460216758181263969511303365866581614543049",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+   "outcome": "James Duckworth"
   }
  ],
  "total_pnl": -237.54399999999902,
- "last_updated": "2026-10-08T06:20:31.688563+00:00"
+ "last_updated": "2026-10-08T06:25:23.876010+00:00"
 }
