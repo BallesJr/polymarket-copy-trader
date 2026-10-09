@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8813.812023900002,
+ "bankroll": 8713.812023900002,
  "last_seen": {
-  "jtwyslljy": 1791540508,
+  "jtwyslljy": 1791541816,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21418,6 +21418,13 @@
    "BUY",
    4180.32,
    1791540508
+  ],
+  [
+   "0x12a040bb7f76fec97cb66094540668a0df1ab9f3192d5ac690187311bf11262d",
+   "33802591342762207744928226985516475231083694856808076261016710518307586324578",
+   "BUY",
+   5000,
+   1791541816
   ]
  ],
  "leader_pos": {
@@ -35016,6 +35023,18 @@
    "cost": 1588.5215999999998,
    "max_shares": 4180.32,
    "last_trade_ts": 1791540508
+  },
+  "jtwyslljy|33802591342762207744928226985516475231083694856808076261016710518307586324578": {
+   "leader": "jtwyslljy",
+   "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
+   "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
+   "title": "China Open: Elise Mertens vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-mertens-swiatek-2026-10-07",
+   "shares": 5000.0,
+   "cost": 4050.0000000000005,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791541816
   }
  },
  "positions": [
@@ -35071,6 +35090,24 @@
    "copy_delay_min": 9.9,
    "best_ask": 0.27,
    "ask_depth": 17467.03,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
+   "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
+   "title": "China Open: Elise Mertens vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-mertens-swiatek-2026-10-07",
+   "opened_at": "2026-10-09T10:40:33.942105+00:00",
+   "entry_price": 0.81,
+   "shares": 123.4568,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 4050.0,
+   "copy_delay_min": 10.3,
+   "best_ask": 0.81,
+   "ask_depth": 9306.65,
    "status": "open"
   }
  ],
@@ -58130,5 +58167,5 @@
   }
  ],
  "total_pnl": -886.1880999999989,
- "last_updated": "2026-10-09T10:15:33.019883+00:00"
+ "last_updated": "2026-10-09T10:40:34.294551+00:00"
 }
