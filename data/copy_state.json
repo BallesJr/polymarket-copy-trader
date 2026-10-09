@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8713.812023900002,
  "last_seen": {
-  "jtwyslljy": 1791541816,
+  "jtwyslljy": 1791542493,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21425,6 +21425,13 @@
    "BUY",
    5000,
    1791541816
+  ],
+  [
+   "0x7105a5df1afcb7b827d109ce0a87c680573a80edc9a31097b3f33c07623faafc",
+   "26358477884745984586178539430783152309818387040113291910951933346550664357486",
+   "BUY",
+   5000,
+   1791542493
   ]
  ],
  "leader_pos": {
@@ -34983,10 +34990,10 @@
    "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
    "outcome": "Roman Safiullin",
    "slug": "atp-cerundo-safiull-2026-10-09",
-   "shares": 6732.25,
-   "cost": 3456.9975,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1791538101
+   "shares": 11732.25,
+   "cost": 3806.9975,
+   "max_shares": 11732.25,
+   "last_trade_ts": 1791542493
   },
   "jtwyslljy|45871382064586259277303715290457649101961072464253178908948392093918479542112": {
    "leader": "jtwyslljy",
@@ -58167,5 +58174,5 @@
   }
  ],
  "total_pnl": -886.1880999999989,
- "last_updated": "2026-10-09T10:40:34.294551+00:00"
+ "last_updated": "2026-10-09T10:50:30.871109+00:00"
 }
