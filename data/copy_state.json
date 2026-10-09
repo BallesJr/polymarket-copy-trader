@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8666.753223900001,
+ "bankroll": 8813.812023900002,
  "last_seen": {
   "jtwyslljy": 1791538101,
   "0x53757615de": 1791535647
@@ -35046,24 +35046,6 @@
    "best_ask": 0.27,
    "ask_depth": 17467.03,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "45871382064586259277303715290457649101961072464253178908948392093918479542112",
-   "condition_id": "0x98801bbce84057653cd24b36b38b9bde8a6a414d240abdf28782f96b4a6b753e",
-   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Jenson Brooksby",
-   "outcome": "Alejandro Davidovich Fokina",
-   "slug": "atp-fokina-brooksb-2026-10-09",
-   "opened_at": "2026-10-09T07:55:23.978027+00:00",
-   "entry_price": 0.68,
-   "shares": 147.0588,
-   "stake": 100.0,
-   "leader_vwap": 0.68,
-   "leader_cost": 3060.0,
-   "copy_delay_min": 2.6,
-   "best_ask": 0.68,
-   "ask_depth": 27333.38,
-   "status": "open"
   }
  ],
  "closed": [
@@ -46674,6 +46656,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45871382064586259277303715290457649101961072464253178908948392093918479542112",
+   "condition_id": "0x98801bbce84057653cd24b36b38b9bde8a6a414d240abdf28782f96b4a6b753e",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Jenson Brooksby",
+   "outcome": "Alejandro Davidovich Fokina",
+   "slug": "atp-fokina-brooksb-2026-10-09",
+   "opened_at": "2026-10-09T07:55:23.978027+00:00",
+   "entry_price": 0.68,
+   "shares": 147.0588,
+   "stake": 100.0,
+   "leader_vwap": 0.68,
+   "leader_cost": 3060.0,
+   "copy_delay_min": 2.6,
+   "best_ask": 0.68,
+   "ask_depth": 27333.38,
+   "status": "won",
+   "closed_at": "2026-10-09T10:00:56.515435+00:00",
+   "exit_price": 1.0,
+   "pnl": 47.0588,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58083,6 +58087,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -933.246899999999,
- "last_updated": "2026-10-09T09:35:24.603219+00:00"
+ "total_pnl": -886.1880999999989,
+ "last_updated": "2026-10-09T10:00:56.517311+00:00"
 }
