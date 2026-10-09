@@ -35193,24 +35193,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
-   "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
-   "title": "China Open: Elise Mertens vs Iga Swiatek",
-   "outcome": "Iga Swiatek",
-   "slug": "wta-mertens-swiatek-2026-10-07",
-   "opened_at": "2026-10-09T10:40:33.942105+00:00",
-   "entry_price": 0.81,
-   "shares": 123.4568,
-   "stake": 100.0,
-   "leader_vwap": 0.81,
-   "leader_cost": 4050.0,
-   "copy_delay_min": 10.3,
-   "best_ask": 0.81,
-   "ask_depth": 9306.65,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "32936446024112416837152865776578206362129732297556432207971377993757792772290",
    "condition_id": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
    "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
@@ -46924,6 +46906,28 @@
    "exit_price": 1.0,
    "pnl": 44.9275,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
+   "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
+   "title": "China Open: Elise Mertens vs Iga Swiatek",
+   "outcome": "Iga Swiatek",
+   "slug": "wta-mertens-swiatek-2026-10-07",
+   "opened_at": "2026-10-09T10:40:33.942105+00:00",
+   "entry_price": 0.81,
+   "shares": 123.4568,
+   "stake": 100.0,
+   "leader_vwap": 0.81,
+   "leader_cost": 4050.0,
+   "copy_delay_min": 10.3,
+   "best_ask": 0.81,
+   "ask_depth": 9306.65,
+   "status": "lost",
+   "closed_at": "2026-10-09T13:40:30.972570+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58397,6 +58401,6 @@
    "outcome": "Team Spirit"
   }
  ],
- "total_pnl": -1041.260599999999,
- "last_updated": "2026-10-09T13:01:00.873164+00:00"
+ "total_pnl": -1141.260599999999,
+ "last_updated": "2026-10-09T13:40:30.974449+00:00"
 }
