@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791511020,
+  "jtwyslljy": 1791512969,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21194,6 +21194,20 @@
    "BUY",
    4302.35,
    1791511020
+  ],
+  [
+   "0x3a7eaad1a49dfbd401aab4f86be55bec36e72adab1c0ff7763efb965a0ac8e47",
+   "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "BUY",
+   5698,
+   1791512880
+  ],
+  [
+   "0x550594fcb5f507a2ed1e80c6c04e94fc316bfa741260b5f0add8e78a3453c3ca",
+   "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "BUY",
+   3000,
+   1791512969
   ]
  ],
  "leader_pos": {
@@ -34632,10 +34646,10 @@
    "title": "Buccaneers vs. Cowboys",
    "outcome": "Buccaneers",
    "slug": "nfl-tb-dal-2026-10-09",
-   "shares": 4302.35,
-   "cost": 1548.846,
-   "max_shares": 4302.35,
-   "last_trade_ts": 1791511020
+   "shares": 13000.35,
+   "cost": 8303.286,
+   "max_shares": 13000.35,
+   "last_trade_ts": 1791512969
   }
  },
  "positions": [],
@@ -57470,8 +57484,24 @@
    "leader": "jtwyslljy",
    "title": "Buccaneers vs. Cowboys",
    "outcome": "Buccaneers"
+  },
+  {
+   "at": "2026-10-09T02:35:28.876471+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T00:15:00+00:00",
+   "condition_id": "0xd43898f7e10c30da1adf9c23c808fc8861ec7c0a53195e4a187c199a9b19f376",
+   "asset": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.89,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Buccaneers vs. Cowboys",
+   "outcome": "Buccaneers"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-09T02:00:52.036464+00:00"
+ "last_updated": "2026-10-09T02:35:28.877136+00:00"
 }
