@@ -35124,24 +35124,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "26358477884745984586178539430783152309818387040113291910951933346550664357486",
-   "condition_id": "0x486ac50cf4831f6153c9946c8217cb94fe2b526a7c2f36657deaf4e54e58fb49",
-   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
-   "outcome": "Roman Safiullin",
-   "slug": "atp-cerundo-safiull-2026-10-09",
-   "opened_at": "2026-10-09T07:30:44.182143+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 1500.0,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.5,
-   "ask_depth": 375.9,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
    "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
    "title": "China Open: Elise Mertens vs Iga Swiatek",
@@ -46829,6 +46811,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26358477884745984586178539430783152309818387040113291910951933346550664357486",
+   "condition_id": "0x486ac50cf4831f6153c9946c8217cb94fe2b526a7c2f36657deaf4e54e58fb49",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-cerundo-safiull-2026-10-09",
+   "opened_at": "2026-10-09T07:30:44.182143+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1500.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.5,
+   "ask_depth": 375.9,
+   "status": "lost",
+   "closed_at": "2026-10-09T11:30:46.438962+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58270,6 +58274,6 @@
    "outcome": "Arthur Fery"
   }
  ],
- "total_pnl": -986.1880999999989,
- "last_updated": "2026-10-09T11:15:32.822176+00:00"
+ "total_pnl": -1086.188099999999,
+ "last_updated": "2026-10-09T11:30:46.441038+00:00"
 }
