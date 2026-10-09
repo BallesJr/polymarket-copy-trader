@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8737.2289239,
+ "bankroll": 8925.9081239,
  "last_seen": {
   "jtwyslljy": 1791522830,
   "0x53757615de": 1787221213
@@ -34775,24 +34775,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "61554820382121549064168552350983163254330556603729036707276810336823378709651",
-   "condition_id": "0xcacf19b6b88e2ba0f0a1013ac6bb31c3ab4f477ed60ff65497b460d13fa8fceb",
-   "title": "Shanghai Rolex Masters: Arthur Gea vs Ugo Humbert",
-   "outcome": "Arthur Gea",
-   "slug": "atp-gea-humbert-2026-10-09",
-   "opened_at": "2026-10-09T03:10:30.106207+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 4240.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.53,
-   "ask_depth": 42039.89,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97935615967417626590564795660802584275813322729457648916138034173921953197971",
    "condition_id": "0x885a6775e7e17591e3e3379e067c7d7dcde86d45ce15ea6bafc2ed543f4860a6",
    "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Frances Tiafoe",
@@ -46348,6 +46330,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61554820382121549064168552350983163254330556603729036707276810336823378709651",
+   "condition_id": "0xcacf19b6b88e2ba0f0a1013ac6bb31c3ab4f477ed60ff65497b460d13fa8fceb",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Ugo Humbert",
+   "outcome": "Arthur Gea",
+   "slug": "atp-gea-humbert-2026-10-09",
+   "opened_at": "2026-10-09T03:10:30.106207+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 4240.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.53,
+   "ask_depth": 42039.89,
+   "status": "won",
+   "closed_at": "2026-10-09T06:40:33.654224+00:00",
+   "exit_price": 1.0,
+   "pnl": 88.6792,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -57693,6 +57697,6 @@
    "outcome": "Rei Sakamoto"
   }
  ],
- "total_pnl": -862.771199999999,
- "last_updated": "2026-10-09T05:20:31.328442+00:00"
+ "total_pnl": -774.091999999999,
+ "last_updated": "2026-10-09T06:40:33.656101+00:00"
 }
