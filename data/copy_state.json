@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8813.812023900002,
  "last_seen": {
-  "jtwyslljy": 1791538101,
+  "jtwyslljy": 1791540043,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21404,6 +21404,13 @@
    "SELL",
    267.75,
    1791538101
+  ],
+  [
+   "0x4a29035a4acac1d82ccd557a4fa896c0245e0e9858c2fd5ff20a0882a2e50af3",
+   "44381330845445084061059330642820265490934360945925073399184243877291677526607",
+   "BUY",
+   5000,
+   1791540043
   ]
  ],
  "leader_pos": {
@@ -34950,10 +34957,10 @@
    "title": "Shanghai Rolex Masters: Miomir Kecmanovic vs Jakub Mensik",
    "outcome": "Miomir Kecmanovic",
    "slug": "atp-kecmano-mensik-2026-10-09",
-   "shares": 2999.99,
-   "cost": 801.32880004,
-   "max_shares": 2999.99,
-   "last_trade_ts": 1791530733
+   "shares": 7999.99,
+   "cost": 1301.32880004,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1791540043
   },
   "jtwyslljy|26358477884745984586178539430783152309818387040113291910951933346550664357486": {
    "leader": "jtwyslljy",
@@ -58088,5 +58095,5 @@
   }
  ],
  "total_pnl": -886.1880999999989,
- "last_updated": "2026-10-09T10:00:56.517311+00:00"
+ "last_updated": "2026-10-09T10:05:31.766579+00:00"
 }
