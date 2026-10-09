@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9258.739523900002,
  "last_seen": {
-  "jtwyslljy": 1791560776,
+  "jtwyslljy": 1791561328,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21586,6 +21586,13 @@
    "BUY",
    1262.2,
    1791560776
+  ],
+  [
+   "0x8c7d5ebd479be8627a6fcc7916dd66f46fa9e5e7d67b51fee926d55c8223b6ce",
+   "62250704303968347415799262886982713721249055221316604160496785986928036145321",
+   "BUY",
+   27.99,
+   1791561328
   ]
  ],
  "leader_pos": {
@@ -35264,10 +35271,10 @@
    "title": "Counter-Strike: FURIA vs MOUZ - Map 2 Winner",
    "outcome": "MOUZ",
    "slug": "cs2-furia-mouz-2026-10-09",
-   "shares": 3127.3,
-   "cost": 2364.126,
-   "max_shares": 3127.3,
-   "last_trade_ts": 1791560776
+   "shares": 3155.29,
+   "cost": 2384.5587,
+   "max_shares": 3155.29,
+   "last_trade_ts": 1791561328
   }
  },
  "positions": [],
@@ -58530,8 +58537,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs MOUZ - Map 2 Winner",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-10-09T16:05:26.665580+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T14:15:00+00:00",
+   "condition_id": "0x67871453326c774c60ae4ce76e8ac88093850ffd196495838fab6acafe03bd64",
+   "asset": "62250704303968347415799262886982713721249055221316604160496785986928036145321",
+   "copy_delay_min": 10.0,
+   "cf_ask": 0.99,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs MOUZ - Map 2 Winner",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -741.2605999999989,
- "last_updated": "2026-10-09T15:55:26.867153+00:00"
+ "last_updated": "2026-10-09T16:05:26.666259+00:00"
 }
