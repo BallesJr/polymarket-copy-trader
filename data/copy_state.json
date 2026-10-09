@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9158.739523900002,
  "last_seen": {
-  "jtwyslljy": 1791571313,
+  "jtwyslljy": 1791571750,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21642,6 +21642,13 @@
    "SELL",
    69.17,
    1791571313
+  ],
+  [
+   "0xc77830a66a97a7eecee99a2f21cc7e2a040841253af6edcdb9d1adbc442bf5c9",
+   "52538784910927017856130917556329158068345255120998918079109909501071194998786",
+   "SELL",
+   3000,
+   1791571750
   ]
  ],
  "leader_pos": {
@@ -35332,10 +35339,10 @@
    "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
    "outcome": "Team Falcons",
    "slug": "cs2-fal2-ts7-2026-10-09",
-   "shares": 35999.590000000004,
-   "cost": 16193.617700000003,
+   "shares": 32999.590000000004,
+   "cost": 15743.617700000003,
    "max_shares": 40598.72,
-   "last_trade_ts": 1791571313
+   "last_trade_ts": 1791571750
   }
  },
  "positions": [
@@ -58652,5 +58659,5 @@
   }
  ],
  "total_pnl": -741.2605999999989,
- "last_updated": "2026-10-09T18:45:34.002595+00:00"
+ "last_updated": "2026-10-09T18:50:32.446077+00:00"
 }
