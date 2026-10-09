@@ -34809,24 +34809,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "66013339822926180309147389600164698061007951922203188659317063123157246322637",
-   "condition_id": "0x1ac824b08f65fd7b6f4423f8a051bf1c4a6e51aecc564bb959d5d6eb22c0a80c",
-   "title": "Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli",
-   "outcome": "Flavio Cobolli",
-   "slug": "atp-mannari-cobolli-2026-10-09",
-   "opened_at": "2026-10-09T03:10:29.980734+00:00",
-   "entry_price": 0.64,
-   "shares": 156.25,
-   "stake": 100.0,
-   "leader_vwap": 0.64,
-   "leader_cost": 3784.49,
-   "copy_delay_min": 6.0,
-   "best_ask": 0.64,
-   "ask_depth": 12018.27,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97935615967417626590564795660802584275813322729457648916138034173921953197971",
    "condition_id": "0x885a6775e7e17591e3e3379e067c7d7dcde86d45ce15ea6bafc2ed543f4860a6",
    "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Frances Tiafoe",
@@ -46404,6 +46386,28 @@
    "exit_price": 1.0,
    "pnl": 88.6792,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66013339822926180309147389600164698061007951922203188659317063123157246322637",
+   "condition_id": "0x1ac824b08f65fd7b6f4423f8a051bf1c4a6e51aecc564bb959d5d6eb22c0a80c",
+   "title": "Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-mannari-cobolli-2026-10-09",
+   "opened_at": "2026-10-09T03:10:29.980734+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 3784.49,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.64,
+   "ask_depth": 12018.27,
+   "status": "lost",
+   "closed_at": "2026-10-09T07:20:32.025415+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -57797,6 +57801,6 @@
    "outcome": "Matteo Berrettini"
   }
  ],
- "total_pnl": -774.091999999999,
- "last_updated": "2026-10-09T07:10:32.826890+00:00"
+ "total_pnl": -874.091999999999,
+ "last_updated": "2026-10-09T07:20:32.027245+00:00"
 }
