@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8713.812023900002,
+ "bankroll": 8613.812023900002,
  "last_seen": {
-  "jtwyslljy": 1791544137,
+  "jtwyslljy": 1791544363,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21439,6 +21439,34 @@
    "SELL",
    3500,
    1791544137
+  ],
+  [
+   "0x6532e927995283330eff10b8b607b472177640db5b0d9dbc2ae2693d0266c81c",
+   "56728820309458487381424242875509748147340015216790176341015121384841538317507",
+   "BUY",
+   13600,
+   1791544188
+  ],
+  [
+   "0x16ef722b646a20e150cba5c3de3d8afd90c1c049e5bad1be45937b378ba11efc",
+   "32936446024112416837152865776578206362129732297556432207971377993757792772290",
+   "BUY",
+   3900,
+   1791544272
+  ],
+  [
+   "0xf5279b6de668d0114a385bee62f5cf27aaaea8b13f724a8e7cbf400369ee92d1",
+   "32936446024112416837152865776578206362129732297556432207971377993757792772290",
+   "BUY",
+   1100,
+   1791544323
+  ],
+  [
+   "0x1f50c9fff9ad18673b1ff5a08f5dcdf73f0b58c677ba77cdffcd20b57f7d4d22",
+   "56728820309458487381424242875509748147340015216790176341015121384841538317507",
+   "BUY",
+   3000,
+   1791544363
   ]
  ],
  "leader_pos": {
@@ -35049,6 +35077,30 @@
    "cost": 4050.0000000000005,
    "max_shares": 5000.0,
    "last_trade_ts": 1791541816
+  },
+  "jtwyslljy|56728820309458487381424242875509748147340015216790176341015121384841538317507": {
+   "leader": "jtwyslljy",
+   "asset": "56728820309458487381424242875509748147340015216790176341015121384841538317507",
+   "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
+   "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-khachan-fery-2026-10-09",
+   "shares": 16600.0,
+   "cost": 6926.0,
+   "max_shares": 16600.0,
+   "last_trade_ts": 1791544363
+  },
+  "jtwyslljy|32936446024112416837152865776578206362129732297556432207971377993757792772290": {
+   "leader": "jtwyslljy",
+   "asset": "32936446024112416837152865776578206362129732297556432207971377993757792772290",
+   "condition_id": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
+   "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
+   "outcome": "Yi Zhou",
+   "slug": "atp-zhou-musetti-2026-10-09",
+   "shares": 5000.0,
+   "cost": 1000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791544323
   }
  },
  "positions": [
@@ -35090,24 +35142,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "44381330845445084061059330642820265490934360945925073399184243877291677526607",
-   "condition_id": "0x8933398b25710ce976e6d1b2df92a333c0295fc167f37f59c201136d2fad3b04",
-   "title": "Shanghai Rolex Masters: Miomir Kecmanovic vs Jakub Mensik",
-   "outcome": "Miomir Kecmanovic",
-   "slug": "atp-kecmano-mensik-2026-10-09",
-   "opened_at": "2026-10-09T07:35:25.306639+00:00",
-   "entry_price": 0.27,
-   "shares": 370.3704,
-   "stake": 100.0,
-   "leader_vwap": 0.2671,
-   "leader_cost": 801.33,
-   "copy_delay_min": 9.9,
-   "best_ask": 0.27,
-   "ask_depth": 17467.03,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
    "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
    "title": "China Open: Elise Mertens vs Iga Swiatek",
@@ -35122,6 +35156,24 @@
    "copy_delay_min": 10.3,
    "best_ask": 0.81,
    "ask_depth": 9306.65,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32936446024112416837152865776578206362129732297556432207971377993757792772290",
+   "condition_id": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
+   "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
+   "outcome": "Yi Zhou",
+   "slug": "atp-zhou-musetti-2026-10-09",
+   "opened_at": "2026-10-09T11:15:32.146175+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.2,
+   "ask_depth": 2491.5,
    "status": "open"
   }
  ],
@@ -46755,6 +46807,28 @@
    "exit_price": 1.0,
    "pnl": 47.0588,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "44381330845445084061059330642820265490934360945925073399184243877291677526607",
+   "condition_id": "0x8933398b25710ce976e6d1b2df92a333c0295fc167f37f59c201136d2fad3b04",
+   "title": "Shanghai Rolex Masters: Miomir Kecmanovic vs Jakub Mensik",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-kecmano-mensik-2026-10-09",
+   "opened_at": "2026-10-09T07:35:25.306639+00:00",
+   "entry_price": 0.27,
+   "shares": 370.3704,
+   "stake": 100.0,
+   "leader_vwap": 0.2671,
+   "leader_cost": 801.33,
+   "copy_delay_min": 9.9,
+   "best_ask": 0.27,
+   "ask_depth": 17467.03,
+   "status": "lost",
+   "closed_at": "2026-10-09T11:15:32.820127+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58178,8 +58252,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Novak Djokovic vs Hubert Hurkacz",
    "outcome": "Hubert Hurkacz"
+  },
+  {
+   "at": "2026-10-09T11:15:32.282887+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T08:30:00+00:00",
+   "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
+   "asset": "56728820309458487381424242875509748147340015216790176341015121384841538317507",
+   "copy_delay_min": 2.8,
+   "cf_ask": 0.34,
+   "cf_shares": 282.6194,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3538,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
+   "outcome": "Arthur Fery"
   }
  ],
- "total_pnl": -886.1880999999989,
- "last_updated": "2026-10-09T11:10:31.207770+00:00"
+ "total_pnl": -986.1880999999989,
+ "last_updated": "2026-10-09T11:15:32.822176+00:00"
 }
