@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8758.739523900002,
+ "bankroll": 9258.739523900002,
  "last_seen": {
   "jtwyslljy": 1791555708,
   "0x53757615de": 1791535647
@@ -35209,26 +35209,7 @@
    "last_trade_ts": 1791555708
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "32936446024112416837152865776578206362129732297556432207971377993757792772290",
-   "condition_id": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
-   "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
-   "outcome": "Yi Zhou",
-   "slug": "atp-zhou-musetti-2026-10-09",
-   "opened_at": "2026-10-09T11:15:32.146175+00:00",
-   "entry_price": 0.2,
-   "shares": 500.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2,
-   "leader_cost": 1000.0,
-   "copy_delay_min": 3.5,
-   "best_ask": 0.2,
-   "ask_depth": 2491.5,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -46947,6 +46928,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32936446024112416837152865776578206362129732297556432207971377993757792772290",
+   "condition_id": "0xbbd521860f7cd81bb35333783a7d2de99ac3a89d08c90da0725c7a10b9a39ee5",
+   "title": "Shanghai Rolex Masters: Yi Zhou vs Lorenzo Musetti",
+   "outcome": "Yi Zhou",
+   "slug": "atp-zhou-musetti-2026-10-09",
+   "opened_at": "2026-10-09T11:15:32.146175+00:00",
+   "entry_price": 0.2,
+   "shares": 500.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.2,
+   "ask_depth": 2491.5,
+   "status": "won",
+   "closed_at": "2026-10-09T15:10:33.171895+00:00",
+   "exit_price": 1.0,
+   "pnl": 400.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58436,6 +58439,6 @@
    "outcome": "FURIA"
   }
  ],
- "total_pnl": -1141.260599999999,
- "last_updated": "2026-10-09T14:30:51.088803+00:00"
+ "total_pnl": -741.2605999999989,
+ "last_updated": "2026-10-09T15:10:33.173624+00:00"
 }
