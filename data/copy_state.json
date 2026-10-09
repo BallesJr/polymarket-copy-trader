@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8525.9081239,
+ "bankroll": 8666.753223900001,
  "last_seen": {
   "jtwyslljy": 1791536113,
   "0x53757615de": 1791535647
@@ -34988,42 +34988,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "97935615967417626590564795660802584275813322729457648916138034173921953197971",
-   "condition_id": "0x885a6775e7e17591e3e3379e067c7d7dcde86d45ce15ea6bafc2ed543f4860a6",
-   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Frances Tiafoe",
-   "outcome": "Frances Tiafoe",
-   "slug": "atp-hanfman-tiafoe-2026-10-09",
-   "opened_at": "2026-10-09T05:20:30.830401+00:00",
-   "entry_price": 0.71,
-   "shares": 140.8451,
-   "stake": 100.0,
-   "leader_vwap": 0.71,
-   "leader_cost": 4260.0,
-   "copy_delay_min": 6.7,
-   "best_ask": 0.71,
-   "ask_depth": 5921.86,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "14937693861747351267114335969627286939543611339455376080745157431606365293891",
-   "condition_id": "0x355527aa4ff572726a21aa4e975cc8d400bd8b2cba6bd4b48fb90169ac3adf98",
-   "title": "Shanghai Rolex Masters: Quentin Halys vs Alexander Blockx",
-   "outcome": "Alexander Blockx",
-   "slug": "atp-halys-blockx-2026-10-09",
-   "opened_at": "2026-10-09T05:20:30.990279+00:00",
-   "entry_price": 0.52,
-   "shares": 192.3077,
-   "stake": 100.0,
-   "leader_vwap": 0.52,
-   "leader_cost": 3120.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.52,
-   "ask_depth": 13316.3,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "28609671386934404100441881521005457750568966724328405695430165296910921281335",
    "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
    "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
@@ -46659,6 +46623,50 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97935615967417626590564795660802584275813322729457648916138034173921953197971",
+   "condition_id": "0x885a6775e7e17591e3e3379e067c7d7dcde86d45ce15ea6bafc2ed543f4860a6",
+   "title": "Shanghai Rolex Masters: Yannick Hanfmann vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-hanfman-tiafoe-2026-10-09",
+   "opened_at": "2026-10-09T05:20:30.830401+00:00",
+   "entry_price": 0.71,
+   "shares": 140.8451,
+   "stake": 100.0,
+   "leader_vwap": 0.71,
+   "leader_cost": 4260.0,
+   "copy_delay_min": 6.7,
+   "best_ask": 0.71,
+   "ask_depth": 5921.86,
+   "status": "won",
+   "closed_at": "2026-10-09T09:05:28.119069+00:00",
+   "exit_price": 1.0,
+   "pnl": 40.8451,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "14937693861747351267114335969627286939543611339455376080745157431606365293891",
+   "condition_id": "0x355527aa4ff572726a21aa4e975cc8d400bd8b2cba6bd4b48fb90169ac3adf98",
+   "title": "Shanghai Rolex Masters: Quentin Halys vs Alexander Blockx",
+   "outcome": "Alexander Blockx",
+   "slug": "atp-halys-blockx-2026-10-09",
+   "opened_at": "2026-10-09T05:20:30.990279+00:00",
+   "entry_price": 0.52,
+   "shares": 192.3077,
+   "stake": 100.0,
+   "leader_vwap": 0.52,
+   "leader_cost": 3120.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.52,
+   "ask_depth": 13316.3,
+   "status": "lost",
+   "closed_at": "2026-10-09T09:05:28.405635+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58068,6 +58076,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -874.091999999999,
- "last_updated": "2026-10-09T09:01:33.321538+00:00"
+ "total_pnl": -933.246899999999,
+ "last_updated": "2026-10-09T09:05:28.407744+00:00"
 }
