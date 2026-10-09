@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8813.812023900002,
  "last_seen": {
-  "jtwyslljy": 1791540043,
+  "jtwyslljy": 1791540508,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21411,6 +21411,13 @@
    "BUY",
    5000,
    1791540043
+  ],
+  [
+   "0x2c1365dc64a7022082dbec1ad475c911ca4f451b40b15c70d408dbd3d38b315d",
+   "98196254065112816341119453001174733029038512604332692082557505114808530574287",
+   "BUY",
+   4180.32,
+   1791540508
   ]
  ],
  "leader_pos": {
@@ -34997,6 +35004,18 @@
    "cost": 166.54,
    "max_shares": 757.0,
    "last_trade_ts": 1791535647
+  },
+  "jtwyslljy|98196254065112816341119453001174733029038512604332692082557505114808530574287": {
+   "leader": "jtwyslljy",
+   "asset": "98196254065112816341119453001174733029038512604332692082557505114808530574287",
+   "condition_id": "0x7c471739de3702c5edb969d31463fc94f79e75b64ed9a162c296c80ae01c5b5e",
+   "title": "Shanghai Rolex Masters: Novak Djokovic vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-djokovi-hurkacz-2026-10-09",
+   "shares": 4180.32,
+   "cost": 1588.5215999999998,
+   "max_shares": 4180.32,
+   "last_trade_ts": 1791540508
   }
  },
  "positions": [
@@ -58092,8 +58111,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Qinwen Zheng vs Elina Svitolina",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-09T10:15:32.642222+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T10:05:00+00:00",
+   "condition_id": "0x7c471739de3702c5edb969d31463fc94f79e75b64ed9a162c296c80ae01c5b5e",
+   "asset": "98196254065112816341119453001174733029038512604332692082557505114808530574287",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.49,
+   "cf_shares": 204.0816,
+   "cf_cost": 100.0,
+   "cf_entry": 0.49,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Novak Djokovic vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz"
   }
  ],
  "total_pnl": -886.1880999999989,
- "last_updated": "2026-10-09T10:05:31.766579+00:00"
+ "last_updated": "2026-10-09T10:15:33.019883+00:00"
 }
