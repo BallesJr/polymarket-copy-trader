@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9137.2289239,
+ "bankroll": 8937.2289239,
  "last_seen": {
-  "jtwyslljy": 1791512969,
+  "jtwyslljy": 1791515067,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21208,6 +21208,20 @@
    "BUY",
    3000,
    1791512969
+  ],
+  [
+   "0xe0c7e7b6b64c694e2b5e0427bc8e5c021423ebc735a865fc9ebe397ee6d8f056",
+   "61554820382121549064168552350983163254330556603729036707276810336823378709651",
+   "BUY",
+   8000,
+   1791515045
+  ],
+  [
+   "0x78554f43271f772b28e73e3a2056ed7bea522a91573696d17593b159a64e553b",
+   "66013339822926180309147389600164698061007951922203188659317063123157246322637",
+   "BUY",
+   5913.27,
+   1791515067
   ]
  ],
  "leader_pos": {
@@ -34650,9 +34664,70 @@
    "cost": 8303.286,
    "max_shares": 13000.35,
    "last_trade_ts": 1791512969
+  },
+  "jtwyslljy|61554820382121549064168552350983163254330556603729036707276810336823378709651": {
+   "leader": "jtwyslljy",
+   "asset": "61554820382121549064168552350983163254330556603729036707276810336823378709651",
+   "condition_id": "0xcacf19b6b88e2ba0f0a1013ac6bb31c3ab4f477ed60ff65497b460d13fa8fceb",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Ugo Humbert",
+   "outcome": "Arthur Gea",
+   "slug": "atp-gea-humbert-2026-10-09",
+   "shares": 8000.0,
+   "cost": 4240.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791515045
+  },
+  "jtwyslljy|66013339822926180309147389600164698061007951922203188659317063123157246322637": {
+   "leader": "jtwyslljy",
+   "asset": "66013339822926180309147389600164698061007951922203188659317063123157246322637",
+   "condition_id": "0x1ac824b08f65fd7b6f4423f8a051bf1c4a6e51aecc564bb959d5d6eb22c0a80c",
+   "title": "Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-mannari-cobolli-2026-10-09",
+   "shares": 5913.27,
+   "cost": 3784.4928000000004,
+   "max_shares": 5913.27,
+   "last_trade_ts": 1791515067
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "66013339822926180309147389600164698061007951922203188659317063123157246322637",
+   "condition_id": "0x1ac824b08f65fd7b6f4423f8a051bf1c4a6e51aecc564bb959d5d6eb22c0a80c",
+   "title": "Shanghai Rolex Masters: Adrian Mannarino vs Flavio Cobolli",
+   "outcome": "Flavio Cobolli",
+   "slug": "atp-mannari-cobolli-2026-10-09",
+   "opened_at": "2026-10-09T03:10:29.980734+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 3784.49,
+   "copy_delay_min": 6.0,
+   "best_ask": 0.64,
+   "ask_depth": 12018.27,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61554820382121549064168552350983163254330556603729036707276810336823378709651",
+   "condition_id": "0xcacf19b6b88e2ba0f0a1013ac6bb31c3ab4f477ed60ff65497b460d13fa8fceb",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Ugo Humbert",
+   "outcome": "Arthur Gea",
+   "slug": "atp-gea-humbert-2026-10-09",
+   "opened_at": "2026-10-09T03:10:30.106207+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 4240.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.53,
+   "ask_depth": 42039.89,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -57503,5 +57578,5 @@
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-09T02:35:28.877136+00:00"
+ "last_updated": "2026-10-09T03:10:30.476505+00:00"
 }
