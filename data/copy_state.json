@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9258.739523900002,
+ "bankroll": 9158.739523900002,
  "last_seen": {
-  "jtwyslljy": 1791563426,
+  "jtwyslljy": 1791564064,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21600,6 +21600,20 @@
    "BUY",
    23860.89,
    1791563426
+  ],
+  [
+   "0x6a62bbec51103bc726b62b1f4ebdd37d9139a4cbe41c82667fc95fa6f9890852",
+   "52538784910927017856130917556329158068345255120998918079109909501071194998786",
+   "BUY",
+   9100.29,
+   1791564029
+  ],
+  [
+   "0x460fe82a901bfb278e734210e6890dadb98ef63d0b9ca3bcff7ef04ecec1eb58",
+   "52538784910927017856130917556329158068345255120998918079109909501071194998786",
+   "BUY",
+   39,
+   1791564064
   ]
  ],
  "leader_pos": {
@@ -35290,13 +35304,32 @@
    "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
    "outcome": "Team Falcons",
    "slug": "cs2-fal2-ts7-2026-10-09",
-   "shares": 23860.89,
-   "cost": 10021.5738,
-   "max_shares": 23860.89,
-   "last_trade_ts": 1791563426
+   "shares": 33000.18,
+   "cost": 13860.0756,
+   "max_shares": 33000.18,
+   "last_trade_ts": 1791564064
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "52538784910927017856130917556329158068345255120998918079109909501071194998786",
+   "condition_id": "0x363c38f38536398ea3eab5f57bef48fded8c3291934060346e717f2738805e8f",
+   "title": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
+   "outcome": "Team Falcons",
+   "slug": "cs2-fal2-ts7-2026-10-09",
+   "opened_at": "2026-10-09T16:45:34.505777+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 13860.08,
+   "copy_delay_min": 4.5,
+   "best_ask": 0.42,
+   "ask_depth": 575737.3,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58591,5 +58624,5 @@
   }
  ],
  "total_pnl": -741.2605999999989,
- "last_updated": "2026-10-09T16:35:28.235908+00:00"
+ "last_updated": "2026-10-09T16:45:34.721888+00:00"
 }
