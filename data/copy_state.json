@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9137.2289239,
  "last_seen": {
-  "jtwyslljy": 1791489747,
+  "jtwyslljy": 1791511020,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21187,6 +21187,13 @@
    "BUY",
    5420.37,
    1791489747
+  ],
+  [
+   "0xa4ccd61c242b49ff634c5b1027979d363bd72c6380f393230e0d7d8596cdb8fd",
+   "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "BUY",
+   4302.35,
+   1791511020
   ]
  ],
  "leader_pos": {
@@ -34617,6 +34624,18 @@
    "cost": 10928.092209797149,
    "max_shares": 17914.34,
    "last_trade_ts": 1791489747
+  },
+  "jtwyslljy|41073895388163492044683513841262626450248745686629069268834561009386173172680": {
+   "leader": "jtwyslljy",
+   "asset": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "condition_id": "0xd43898f7e10c30da1adf9c23c808fc8861ec7c0a53195e4a187c199a9b19f376",
+   "title": "Buccaneers vs. Cowboys",
+   "outcome": "Buccaneers",
+   "slug": "nfl-tb-dal-2026-10-09",
+   "shares": 4302.35,
+   "cost": 1548.846,
+   "max_shares": 4302.35,
+   "last_trade_ts": 1791511020
   }
  },
  "positions": [],
@@ -57435,8 +57454,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: PARIVISION vs Team Yandex (BO3) - BLAST Slam Playoffs",
    "outcome": "PARIVISION"
+  },
+  {
+   "at": "2026-10-09T02:00:52.035954+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T00:15:00+00:00",
+   "condition_id": "0xd43898f7e10c30da1adf9c23c808fc8861ec7c0a53195e4a187c199a9b19f376",
+   "asset": "41073895388163492044683513841262626450248745686629069268834561009386173172680",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.35,
+   "cf_shares": 285.7143,
+   "cf_cost": 100.0,
+   "cf_entry": 0.35,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Buccaneers vs. Cowboys",
+   "outcome": "Buccaneers"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-08T20:10:32.026481+00:00"
+ "last_updated": "2026-10-09T02:00:52.036464+00:00"
 }
