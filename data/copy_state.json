@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8613.812023900002,
+ "bankroll": 8758.739523900002,
  "last_seen": {
   "jtwyslljy": 1791549495,
   "0x53757615de": 1791535647
@@ -35193,24 +35193,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "28609671386934404100441881521005457750568966724328405695430165296910921281335",
-   "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
-   "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
-   "outcome": "Karen Khachanov",
-   "slug": "atp-khachan-fery-2026-10-09",
-   "opened_at": "2026-10-09T07:30:44.032533+00:00",
-   "entry_price": 0.69,
-   "shares": 144.9275,
-   "stake": 100.0,
-   "leader_vwap": 0.6993,
-   "leader_cost": 4895.0,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.69,
-   "ask_depth": 5051.85,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "33802591342762207744928226985516475231083694856808076261016710518307586324578",
    "condition_id": "0x075c48ca38ca5f7ecd3b2e232f22708b44bf85ca675bb67346d59de0c8ca2d93",
    "title": "China Open: Elise Mertens vs Iga Swiatek",
@@ -46920,6 +46902,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28609671386934404100441881521005457750568966724328405695430165296910921281335",
+   "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
+   "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
+   "outcome": "Karen Khachanov",
+   "slug": "atp-khachan-fery-2026-10-09",
+   "opened_at": "2026-10-09T07:30:44.032533+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.6993,
+   "leader_cost": 4895.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.69,
+   "ask_depth": 5051.85,
+   "status": "won",
+   "closed_at": "2026-10-09T13:01:00.871112+00:00",
+   "exit_price": 1.0,
+   "pnl": 44.9275,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -58393,6 +58397,6 @@
    "outcome": "Team Spirit"
   }
  ],
- "total_pnl": -1086.188099999999,
- "last_updated": "2026-10-09T12:45:34.691258+00:00"
+ "total_pnl": -1041.260599999999,
+ "last_updated": "2026-10-09T13:01:00.873164+00:00"
 }
