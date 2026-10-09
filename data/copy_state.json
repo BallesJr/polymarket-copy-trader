@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8925.9081239,
  "last_seen": {
-  "jtwyslljy": 1791528984,
+  "jtwyslljy": 1791529345,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21257,6 +21257,27 @@
    "BUY",
    2855.5,
    1791528984
+  ],
+  [
+   "0xe7a7c738a30b5aa8820713e82c7d8374f18cda3018bb15ea41d322291edab039",
+   "47950318052159828168898732665308949665137993038500136498275413514648835840487",
+   "BUY",
+   811.36,
+   1791529222
+  ],
+  [
+   "0x4a7a376636d36740e9f8785535f40c2c007cfa4637b1bb0eb6ef6cde7e91a4fb",
+   "47950318052159828168898732665308949665137993038500136498275413514648835840487",
+   "BUY",
+   9189,
+   1791529261
+  ],
+  [
+   "0xb110b3c7f42c3a5a3f426ca5ce7e42ab96944ef9c903634898ac9165b2b6710c",
+   "32671806370870571517001542058242238257707359021670174461157789954691117640202",
+   "BUY",
+   30,
+   1791529345
   ]
  ],
  "leader_pos": {
@@ -34767,10 +34788,22 @@
    "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
    "outcome": "Matteo Berrettini",
    "slug": "atp-berrett-nakashi-2026-10-09",
-   "shares": 2855.5,
-   "cost": 770.985,
-   "max_shares": 2855.5,
-   "last_trade_ts": 1791528984
+   "shares": 2885.5,
+   "cost": 779.085,
+   "max_shares": 2885.5,
+   "last_trade_ts": 1791529345
+  },
+  "jtwyslljy|47950318052159828168898732665308949665137993038500136498275413514648835840487": {
+   "leader": "jtwyslljy",
+   "asset": "47950318052159828168898732665308949665137993038500136498275413514648835840487",
+   "condition_id": "0xae5d3968aa5caf9045299a864832ba6173e24afe0d8b23b1cbfa657ad9f2dfc3",
+   "title": "China Open: Qinwen Zheng vs Elina Svitolina",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-svitoli-2026-10-08",
+   "shares": 10000.36,
+   "cost": 4592.052000000001,
+   "max_shares": 10000.36,
+   "last_trade_ts": 1791529261
   }
  },
  "positions": [
@@ -57730,8 +57763,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
    "outcome": "Matteo Berrettini"
+  },
+  {
+   "at": "2026-10-09T07:10:32.156657+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T07:00:00+00:00",
+   "condition_id": "0xae5d3968aa5caf9045299a864832ba6173e24afe0d8b23b1cbfa657ad9f2dfc3",
+   "asset": "47950318052159828168898732665308949665137993038500136498275413514648835840487",
+   "copy_delay_min": 9.5,
+   "cf_ask": 0.49,
+   "cf_shares": 204.0816,
+   "cf_cost": 100.0,
+   "cf_entry": 0.49,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Qinwen Zheng vs Elina Svitolina",
+   "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-09T07:10:32.294557+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T06:00:00+00:00",
+   "condition_id": "0x69c8e1ae792e4ed0d49d171cbdc694c2e9a4d838ce3833eca2ed40aec9b774e7",
+   "asset": "32671806370870571517001542058242238257707359021670174461157789954691117640202",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
+   "outcome": "Matteo Berrettini"
   }
  ],
  "total_pnl": -774.091999999999,
- "last_updated": "2026-10-09T07:00:53.655006+00:00"
+ "last_updated": "2026-10-09T07:10:32.826890+00:00"
 }
