@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8925.9081239,
  "last_seen": {
-  "jtwyslljy": 1791522830,
+  "jtwyslljy": 1791528984,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21250,6 +21250,13 @@
    "BUY",
    6000,
    1791522830
+  ],
+  [
+   "0x167eb84b496849b0b69c2871056bdce08fd91a4360a520e54e60858700722146",
+   "32671806370870571517001542058242238257707359021670174461157789954691117640202",
+   "BUY",
+   2855.5,
+   1791528984
   ]
  ],
  "leader_pos": {
@@ -34752,6 +34759,18 @@
    "cost": 4260.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1791522830
+  },
+  "jtwyslljy|32671806370870571517001542058242238257707359021670174461157789954691117640202": {
+   "leader": "jtwyslljy",
+   "asset": "32671806370870571517001542058242238257707359021670174461157789954691117640202",
+   "condition_id": "0x69c8e1ae792e4ed0d49d171cbdc694c2e9a4d838ce3833eca2ed40aec9b774e7",
+   "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
+   "outcome": "Matteo Berrettini",
+   "slug": "atp-berrett-nakashi-2026-10-09",
+   "shares": 2855.5,
+   "cost": 770.985,
+   "max_shares": 2855.5,
+   "last_trade_ts": 1791528984
   }
  },
  "positions": [
@@ -57695,8 +57714,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Rei Sakamoto vs Andrey Rublev",
    "outcome": "Rei Sakamoto"
+  },
+  {
+   "at": "2026-10-09T07:00:53.281156+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T06:00:00+00:00",
+   "condition_id": "0x69c8e1ae792e4ed0d49d171cbdc694c2e9a4d838ce3833eca2ed40aec9b774e7",
+   "asset": "32671806370870571517001542058242238257707359021670174461157789954691117640202",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Matteo Berrettini vs Brandon Nakashima",
+   "outcome": "Matteo Berrettini"
   }
  ],
  "total_pnl": -774.091999999999,
- "last_updated": "2026-10-09T06:40:33.656101+00:00"
+ "last_updated": "2026-10-09T07:00:53.655006+00:00"
 }
