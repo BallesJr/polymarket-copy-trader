@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8925.9081239,
+ "bankroll": 8725.9081239,
  "last_seen": {
-  "jtwyslljy": 1791530371,
+  "jtwyslljy": 1791530652,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21285,6 +21285,34 @@
    "BUY",
    300,
    1791530371
+  ],
+  [
+   "0x71329bd2b2f286c83303cf34f639f0e264a170d598a4ef20c035fea37393f83b",
+   "28609671386934404100441881521005457750568966724328405695430165296910921281335",
+   "BUY",
+   200,
+   1791530433
+  ],
+  [
+   "0x9066e171b6d63bf433aea895e624ac09c104af8d40747ed8c41831ed544ec664",
+   "28609671386934404100441881521005457750568966724328405695430165296910921281335",
+   "BUY",
+   6500,
+   1791530461
+  ],
+  [
+   "0x44089e3f3fe87787e25e4b63d345df453b78b0ab8cabdd5de2597715b68d566f",
+   "44381330845445084061059330642820265490934360945925073399184243877291677526607",
+   "BUY",
+   800,
+   1791530539
+  ],
+  [
+   "0xff35afde1369bfe54fda47f9644616f6e1eea2bb12ac7375173bcd7916c0fc35",
+   "26358477884745984586178539430783152309818387040113291910951933346550664357486",
+   "BUY",
+   3000,
+   1791530652
   ]
  ],
  "leader_pos": {
@@ -34819,10 +34847,34 @@
    "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
    "outcome": "Karen Khachanov",
    "slug": "atp-khachan-fery-2026-10-09",
-   "shares": 300.0,
-   "cost": 206.99999999999997,
-   "max_shares": 300.0,
-   "last_trade_ts": 1791530371
+   "shares": 7000.0,
+   "cost": 4895.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791530461
+  },
+  "jtwyslljy|44381330845445084061059330642820265490934360945925073399184243877291677526607": {
+   "leader": "jtwyslljy",
+   "asset": "44381330845445084061059330642820265490934360945925073399184243877291677526607",
+   "condition_id": "0x8933398b25710ce976e6d1b2df92a333c0295fc167f37f59c201136d2fad3b04",
+   "title": "Shanghai Rolex Masters: Miomir Kecmanovic vs Jakub Mensik",
+   "outcome": "Miomir Kecmanovic",
+   "slug": "atp-kecmano-mensik-2026-10-09",
+   "shares": 800.0,
+   "cost": 208.0,
+   "max_shares": 800.0,
+   "last_trade_ts": 1791530539
+  },
+  "jtwyslljy|26358477884745984586178539430783152309818387040113291910951933346550664357486": {
+   "leader": "jtwyslljy",
+   "asset": "26358477884745984586178539430783152309818387040113291910951933346550664357486",
+   "condition_id": "0x486ac50cf4831f6153c9946c8217cb94fe2b526a7c2f36657deaf4e54e58fb49",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-cerundo-safiull-2026-10-09",
+   "shares": 3000.0,
+   "cost": 1500.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791530652
   }
  },
  "positions": [
@@ -34860,6 +34912,42 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.52,
    "ask_depth": 13316.3,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "28609671386934404100441881521005457750568966724328405695430165296910921281335",
+   "condition_id": "0x1930ba7903feabf1e1c1ee24c691b0998f666e14a97036accc9ccd0a0760a863",
+   "title": "Shanghai Rolex Masters: Karen Khachanov vs Arthur Fery",
+   "outcome": "Karen Khachanov",
+   "slug": "atp-khachan-fery-2026-10-09",
+   "opened_at": "2026-10-09T07:30:44.032533+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.6993,
+   "leader_cost": 4895.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.69,
+   "ask_depth": 5051.85,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "26358477884745984586178539430783152309818387040113291910951933346550664357486",
+   "condition_id": "0x486ac50cf4831f6153c9946c8217cb94fe2b526a7c2f36657deaf4e54e58fb49",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Roman Safiullin",
+   "outcome": "Roman Safiullin",
+   "slug": "atp-cerundo-safiull-2026-10-09",
+   "opened_at": "2026-10-09T07:30:44.182143+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1500.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.5,
+   "ask_depth": 375.9,
    "status": "open"
   }
  ],
@@ -57821,5 +57909,5 @@
   }
  ],
  "total_pnl": -874.091999999999,
- "last_updated": "2026-10-09T07:25:25.356335+00:00"
+ "last_updated": "2026-10-09T07:30:44.506405+00:00"
 }
