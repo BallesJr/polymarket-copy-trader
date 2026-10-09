@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9258.739523900002,
  "last_seen": {
-  "jtwyslljy": 1791555708,
+  "jtwyslljy": 1791558463,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21537,6 +21537,13 @@
    "BUY",
    6000,
    1791555708
+  ],
+  [
+   "0x50c77d41c5ece06d4264bda170977b45f9dd2c82718c03e6cce5849b114eb345",
+   "67451682280863220854460836974788598661262153169296854663676667825154634503357",
+   "BUY",
+   6000,
+   1791558463
   ]
  ],
  "leader_pos": {
@@ -35203,10 +35210,10 @@
    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
    "outcome": "FURIA",
    "slug": "cs2-furia-mouz-2026-10-09",
-   "shares": 6000.0,
-   "cost": 2192.667,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1791555708
+   "shares": 12000.0,
+   "cost": 3332.667,
+   "max_shares": 12000.0,
+   "last_trade_ts": 1791558463
   }
  },
  "positions": [],
@@ -58437,8 +58444,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
    "outcome": "FURIA"
+  },
+  {
+   "at": "2026-10-09T15:15:33.451681+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T14:15:00+00:00",
+   "condition_id": "0x2bc93d807c96538e546ead4ec53d53ca93c5b05080d263811d165fd0feb7449f",
+   "asset": "67451682280863220854460836974788598661262153169296854663676667825154634503357",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Playoffs",
+   "outcome": "FURIA"
   }
  ],
  "total_pnl": -741.2605999999989,
- "last_updated": "2026-10-09T15:10:33.173624+00:00"
+ "last_updated": "2026-10-09T15:15:33.452285+00:00"
 }
