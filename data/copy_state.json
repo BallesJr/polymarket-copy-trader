@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8937.2289239,
  "last_seen": {
-  "jtwyslljy": 1791517578,
+  "jtwyslljy": 1791518103,
   "0x53757615de": 1787221213
  },
  "seen_keys": [
@@ -21229,6 +21229,13 @@
    "BUY",
    87,
    1791517578
+  ],
+  [
+   "0xbbe99730636e87c66a687cd1a74c6b5b20de852c669ee9fe2c895754f11e376e",
+   "37471860984772518789290563086240849162819261969339823326840659583721681294515",
+   "BUY",
+   9000,
+   1791518103
   ]
  ],
  "leader_pos": {
@@ -34695,6 +34702,18 @@
    "cost": 3840.1728000000003,
    "max_shares": 6000.27,
    "last_trade_ts": 1791517578
+  },
+  "jtwyslljy|37471860984772518789290563086240849162819261969339823326840659583721681294515": {
+   "leader": "jtwyslljy",
+   "asset": "37471860984772518789290563086240849162819261969339823326840659583721681294515",
+   "condition_id": "0xdbb900a41ea07b6c8f388409b23e5d842c3405b30d8d59dd147782ce86e5bbcd",
+   "title": "Shanghai Rolex Masters: Rei Sakamoto vs Andrey Rublev",
+   "outcome": "Rei Sakamoto",
+   "slug": "atp-sakamot-rublev-2026-10-09",
+   "shares": 9000.0,
+   "cost": 2610.0,
+   "max_shares": 9000.0,
+   "last_trade_ts": 1791518103
   }
  },
  "positions": [
@@ -57582,8 +57601,24 @@
    "leader": "jtwyslljy",
    "title": "Buccaneers vs. Cowboys",
    "outcome": "Buccaneers"
+  },
+  {
+   "at": "2026-10-09T04:00:55.107705+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-09T04:00:00+00:00",
+   "condition_id": "0xdbb900a41ea07b6c8f388409b23e5d842c3405b30d8d59dd147782ce86e5bbcd",
+   "asset": "37471860984772518789290563086240849162819261969339823326840659583721681294515",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Rei Sakamoto vs Andrey Rublev",
+   "outcome": "Rei Sakamoto"
   }
  ],
  "total_pnl": -862.771199999999,
- "last_updated": "2026-10-09T03:50:34.304992+00:00"
+ "last_updated": "2026-10-09T04:00:55.401408+00:00"
 }
