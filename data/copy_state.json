@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9111.724009900001,
+ "bankroll": 9245.057309900001,
  "last_seen": {
   "jtwyslljy": 1791659506,
   "0x53757615de": 1791647418
@@ -37168,24 +37168,6 @@
   },
   {
    "leader": "0x53757615de",
-   "asset": "101238842839353909757539115744747840837916189387692959882962022170751750894507",
-   "condition_id": "0x4a60f8b5c57cada34c504dac5023c7853b16242db0d5f6004375e154270eaaa8",
-   "title": "Indiana vs. Nebraska",
-   "outcome": "Indiana",
-   "slug": "cfb-ind-nebr-2026-10-10",
-   "opened_at": "2026-10-10T15:10:31.514052+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 28540.5,
-   "copy_delay_min": 2.1,
-   "best_ask": 0.75,
-   "ask_depth": 42524.58,
-   "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
    "asset": "99718882549121666285004114852268280714470012339375348609264113328237773400914",
    "condition_id": "0x1cdcfc0dd238a1a21f187f8d5bd810abd111e2fec97adc52ffd8624d0d580550",
    "title": "Texas vs. Oklahoma",
@@ -49096,6 +49078,28 @@
    "closed_at": "2026-10-10T15:00:58.887789+00:00",
    "exit_price": 1.0,
    "pnl": 35.1351,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "101238842839353909757539115744747840837916189387692959882962022170751750894507",
+   "condition_id": "0x4a60f8b5c57cada34c504dac5023c7853b16242db0d5f6004375e154270eaaa8",
+   "title": "Indiana vs. Nebraska",
+   "outcome": "Indiana",
+   "slug": "cfb-ind-nebr-2026-10-10",
+   "opened_at": "2026-10-10T15:10:31.514052+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 28540.5,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.75,
+   "ask_depth": 42524.58,
+   "status": "won",
+   "closed_at": "2026-10-10T20:05:27.064731+00:00",
+   "exit_price": 1.0,
+   "pnl": 33.3333,
    "close_reason": "resolved"
   }
  ],
@@ -61034,6 +61038,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -588.2761999999989,
- "last_updated": "2026-10-10T19:15:32.265198+00:00"
+ "total_pnl": -554.9428999999989,
+ "last_updated": "2026-10-10T20:05:27.067077+00:00"
 }
