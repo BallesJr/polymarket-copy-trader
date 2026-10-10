@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9190.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791607314,
+  "jtwyslljy": 1791608097,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21817,6 +21817,13 @@
    "BUY",
    1291.2,
    1791607314
+  ],
+  [
+   "0x627b4be06600e3422e4016edbae78f0241fa5624729b7eeb3596219f2ea661a2",
+   "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "BUY",
+   9,
+   1791608097
   ]
  ],
  "leader_pos": {
@@ -35591,10 +35598,10 @@
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-carabel-augeral-2026-10-09",
-   "shares": 7690.5599999999995,
-   "cost": 6827.692800000001,
-   "max_shares": 7690.5599999999995,
-   "last_trade_ts": 1791607314
+   "shares": 7699.5599999999995,
+   "cost": 6833.1828000000005,
+   "max_shares": 7699.5599999999995,
+   "last_trade_ts": 1791608097
   }
  },
  "positions": [],
@@ -59083,8 +59090,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-10T05:00:53.575128+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:05:00+00:00",
+   "condition_id": "0x6b6f54830cea099bfa2b0357fe65c96a74caccf53acce8261aff367f1e791c39",
+   "asset": "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.79,
+   "cf_shares": 126.5823,
+   "cf_cost": 100.0,
+   "cf_entry": 0.79,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T04:45:30.526234+00:00"
+ "last_updated": "2026-10-10T05:00:53.575966+00:00"
 }
