@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9090.7029899,
+ "bankroll": 9198.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791622435,
+  "jtwyslljy": 1791624447,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21964,6 +21964,48 @@
    "BUY",
    531.09,
    1791622435
+  ],
+  [
+   "0xd6ecb4cb595cbf43b8a33da102dd7d4b2948a800497d0a6013296b7312851eb0",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   145,
+   1791624181
+  ],
+  [
+   "0x7d127b2deeab7cb277d0b7a93cde84016404ec1e6013ee368d77aedee4f0a2eb",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   637.79,
+   1791624193
+  ],
+  [
+   "0x12c83540bd93087c843d25d926c93c9eb04e5196b6350eb7eb7f9eb2b778ab2a",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   1006,
+   1791624235
+  ],
+  [
+   "0x172cc4475ba223169daef060a4a740b689e54df59764abbcd7c77e9358760fc2",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   1000,
+   1791624280
+  ],
+  [
+   "0x95f27f63f87d6749c2ccc548d4faa3ad3b35168fba921f717573c49253756f4f",
+   "53816403152528730533305767685914502492838093969989318940767159174562638980151",
+   "SELL",
+   3000,
+   1791624337
+  ],
+  [
+   "0x8909b67e244ae6543830e8c68b1b47a5d2bf3f7a1c255f66ae0104ed3a723f93",
+   "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "SELL",
+   5999.98,
+   1791624447
   ]
  ],
  "leader_pos": {
@@ -35762,10 +35804,10 @@
    "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry",
    "slug": "atp-svrcina-etcheve-2026-10-09",
-   "shares": 5099.700000000001,
-   "cost": 2022.841,
-   "max_shares": 5099.700000000001,
-   "last_trade_ts": 1791622368
+   "shares": 7888.490000000001,
+   "cost": 3093.1523,
+   "max_shares": 7888.490000000001,
+   "last_trade_ts": 1791624280
   },
   "jtwyslljy|53816403152528730533305767685914502492838093969989318940767159174562638980151": {
    "leader": "jtwyslljy",
@@ -35774,10 +35816,10 @@
    "title": "Shanghai Rolex Masters: Yunchaokete Bu vs Casper Ruud",
    "outcome": "Yunchaokete Bu",
    "slug": "atp-bu-ruud-2026-10-09",
-   "shares": 3000.0,
-   "cost": 1590.0,
+   "shares": 0.0,
+   "cost": 1020.0,
    "max_shares": 3000.0,
-   "last_trade_ts": 1791612064
+   "last_trade_ts": 1791624337
   },
   "jtwyslljy|4812209115863154088221560899811490592946007165187169311038370141029944429639": {
    "leader": "jtwyslljy",
@@ -35786,32 +35828,13 @@
    "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
    "outcome": "Pablo Carreno Busta",
    "slug": "atp-tabilo-busta-2026-10-09",
-   "shares": 5531.09,
-   "cost": 1972.1507,
+   "shares": -468.8899999999994,
+   "cost": -787.8401000000001,
    "max_shares": 5531.09,
-   "last_trade_ts": 1791622435
+   "last_trade_ts": 1791624447
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "4812209115863154088221560899811490592946007165187169311038370141029944429639",
-   "condition_id": "0xb32ec8061320b83ba49406d8644db72d8e42b86f438502ba0eaad8534a5cbfd5",
-   "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
-   "outcome": "Pablo Carreno Busta",
-   "slug": "atp-tabilo-busta-2026-10-09",
-   "opened_at": "2026-10-10T06:05:24.348799+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 1110.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.37,
-   "ask_depth": 18418.5,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -47640,6 +47663,28 @@
    "exit_price": 0.23,
    "pnl": -0.0,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "condition_id": "0xb32ec8061320b83ba49406d8644db72d8e42b86f438502ba0eaad8534a5cbfd5",
+   "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
+   "outcome": "Pablo Carreno Busta",
+   "slug": "atp-tabilo-busta-2026-10-09",
+   "opened_at": "2026-10-10T06:05:24.348799+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 1110.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.37,
+   "ask_depth": 18418.5,
+   "status": "closed",
+   "closed_at": "2026-10-10T09:30:49.067160+00:00",
+   "exit_price": 0.4,
+   "pnl": 8.1081,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -59399,8 +59444,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-10T09:30:49.202176+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T05:45:00+00:00",
+   "condition_id": "0x2f284fd3ec821259abd141376ab0dc07dc5c126eee289ff4f4739d2bb10a3c62",
+   "asset": "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.65,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry"
   }
  ],
- "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T08:55:26.795202+00:00"
+ "total_pnl": -801.1890999999989,
+ "last_updated": "2026-10-10T09:30:49.202894+00:00"
 }
