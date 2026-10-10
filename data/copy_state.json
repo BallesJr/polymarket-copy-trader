@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9198.811109900002,
+ "bankroll": 9098.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791626191,
+  "jtwyslljy": 1791626454,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22041,6 +22041,20 @@
    "BUY",
    351,
    1791626191
+  ],
+  [
+   "0x05f1fc4ceb0951ea77dd18c900b1db229da6f720953a071407b4f8692c17875d",
+   "53816403152528730533305767685914502492838093969989318940767159174562638980151",
+   "BUY",
+   54,
+   1791626305
+  ],
+  [
+   "0x567bd15f112708ae0f555ee3459d02f0f2fba71dca3bdcd74fbf19eb5a04a850",
+   "94198893598569514136936271667389269049104708838311723049240180718626182579511",
+   "BUY",
+   5200,
+   1791626454
   ]
  ],
  "leader_pos": {
@@ -35851,10 +35865,10 @@
    "title": "Shanghai Rolex Masters: Yunchaokete Bu vs Casper Ruud",
    "outcome": "Yunchaokete Bu",
    "slug": "atp-bu-ruud-2026-10-09",
-   "shares": 0.0,
-   "cost": 1020.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791624337
+   "shares": 54.0,
+   "cost": 10.26,
+   "max_shares": 54.0,
+   "last_trade_ts": 1791626305
   },
   "jtwyslljy|4812209115863154088221560899811490592946007165187169311038370141029944429639": {
    "leader": "jtwyslljy",
@@ -35891,9 +35905,40 @@
    "cost": 583.1800001064,
    "max_shares": 2556.0,
    "last_trade_ts": 1791626172
+  },
+  "jtwyslljy|94198893598569514136936271667389269049104708838311723049240180718626182579511": {
+   "leader": "jtwyslljy",
+   "asset": "94198893598569514136936271667389269049104708838311723049240180718626182579511",
+   "condition_id": "0x344b471f6f47081ea0125e8f0c99eb99dfc7950c864f6f7578ef6a99af8b991a",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Alex Michelsen",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-michels-2026-10-09",
+   "shares": 5200.0,
+   "cost": 1872.0,
+   "max_shares": 5200.0,
+   "last_trade_ts": 1791626454
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "94198893598569514136936271667389269049104708838311723049240180718626182579511",
+   "condition_id": "0x344b471f6f47081ea0125e8f0c99eb99dfc7950c864f6f7578ef6a99af8b991a",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Alex Michelsen",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-michels-2026-10-09",
+   "opened_at": "2026-10-10T10:05:28.834099+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 1872.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.36,
+   "ask_depth": 8463.39,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -59586,5 +59631,5 @@
   }
  ],
  "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T10:00:57.354683+00:00"
+ "last_updated": "2026-10-10T10:05:29.096160+00:00"
 }
