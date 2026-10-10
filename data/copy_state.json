@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9276.588909900001,
  "last_seen": {
-  "jtwyslljy": 1791635094,
+  "jtwyslljy": 1791643536,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22111,6 +22111,13 @@
    "BUY",
    3000,
    1791635094
+  ],
+  [
+   "0xa3db4334dd609c9426bb86ff72a1093dfbb413b1cb916163c954442ea90ab453",
+   "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "BUY",
+   20000,
+   1791643536
   ]
  ],
  "leader_pos": {
@@ -36021,6 +36028,18 @@
    "cost": 390.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1791635094
+  },
+  "jtwyslljy|111650827834542717048167262285135767187405220827204669689781764884748796110464": {
+   "leader": "jtwyslljy",
+   "asset": "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "condition_id": "0xfe14f91781fcc4aaf56763672231bd42da0c0d7b0e26e25f5ad3acbd31d864aa",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+   "outcome": "Vitality",
+   "slug": "cs2-aur1-vit-2026-10-10",
+   "shares": 20000.0,
+   "cost": 10800.0,
+   "max_shares": 20000.0,
+   "last_trade_ts": 1791643536
   }
  },
  "positions": [
@@ -59786,8 +59805,24 @@
    "leader": "jtwyslljy",
    "title": "China Open: Qinwen Zheng vs Elise Mertens",
    "outcome": "Qinwen Zheng"
+  },
+  {
+   "at": "2026-10-10T14:50:34.806693+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T13:45:00+00:00",
+   "condition_id": "0xfe14f91781fcc4aaf56763672231bd42da0c0d7b0e26e25f5ad3acbd31d864aa",
+   "asset": "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -623.4112999999988,
- "last_updated": "2026-10-10T14:05:25.844195+00:00"
+ "last_updated": "2026-10-10T14:50:35.342991+00:00"
 }
