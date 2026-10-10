@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9176.588909900001,
+ "bankroll": 9311.724009900001,
  "last_seen": {
   "jtwyslljy": 1791643536,
   "0x53757615de": 1791643926
@@ -36273,24 +36273,6 @@
  },
  "positions": [
   {
-   "leader": "jtwyslljy",
-   "asset": "93715334514821483968686936968015445197497807686006882600688115938931697946198",
-   "condition_id": "0x3c5e976b116855c013ef194de181d7c7c22db1896f4351388c9097754e119f12",
-   "title": "Shanghai Rolex Masters: Sebastian Baez vs Valentin Vacherot",
-   "outcome": "Valentin Vacherot",
-   "slug": "atp-baez-vachero-2026-10-09",
-   "opened_at": "2026-10-10T12:15:31.639225+00:00",
-   "entry_price": 0.74,
-   "shares": 135.1351,
-   "stake": 100.0,
-   "leader_vwap": 0.74,
-   "leader_cost": 3848.0,
-   "copy_delay_min": 1.6,
-   "best_ask": 0.74,
-   "ask_depth": 197.6,
-   "status": "open"
-  },
-  {
    "leader": "0x53757615de",
    "asset": "17844913919156925846573907872622878643047106739872011452123944070114978578659",
    "condition_id": "0xce1e98e4a3a85b8e031de5afa80af228c34346f7f23d0136ddde34422d174a33",
@@ -48181,6 +48163,28 @@
    "exit_price": 1.0,
    "pnl": 177.7778,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "93715334514821483968686936968015445197497807686006882600688115938931697946198",
+   "condition_id": "0x3c5e976b116855c013ef194de181d7c7c22db1896f4351388c9097754e119f12",
+   "title": "Shanghai Rolex Masters: Sebastian Baez vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-baez-vachero-2026-10-09",
+   "opened_at": "2026-10-10T12:15:31.639225+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.74,
+   "leader_cost": 3848.0,
+   "copy_delay_min": 1.6,
+   "best_ask": 0.74,
+   "ask_depth": 197.6,
+   "status": "won",
+   "closed_at": "2026-10-10T15:00:58.887789+00:00",
+   "exit_price": 1.0,
+   "pnl": 35.1351,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -60070,6 +60074,6 @@
    "outcome": "Vitality"
   }
  ],
- "total_pnl": -623.4112999999988,
- "last_updated": "2026-10-10T14:55:26.539138+00:00"
+ "total_pnl": -588.2761999999989,
+ "last_updated": "2026-10-10T15:00:58.889550+00:00"
 }
