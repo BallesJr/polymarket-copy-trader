@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9057.369659900001,
  "last_seen": {
-  "jtwyslljy": 1791604758,
+  "jtwyslljy": 1791605095,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21747,6 +21747,13 @@
    "BUY",
    6000,
    1791604758
+  ],
+  [
+   "0x398255a9d0e63ff46b785d01053b9199010c621da8cb218b6ca61656d82dffe0",
+   "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "BUY",
+   4000,
+   1791605095
   ]
  ],
  "leader_pos": {
@@ -35501,6 +35508,18 @@
    "cost": 1680.0000000000002,
    "max_shares": 6000.0,
    "last_trade_ts": 1791604758
+  },
+  "jtwyslljy|109936111236476739124278209144647596472454444762138090426692845207777452573810": {
+   "leader": "jtwyslljy",
+   "asset": "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "condition_id": "0x839e7d351b0dae6ded379be31a4dfec459589bbbbbc44022f360d8ba8d77ac5a",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-medvede-struff-2026-10-09",
+   "shares": 4000.0,
+   "cost": 600.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1791605095
   }
  },
  "positions": [
@@ -58906,8 +58925,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
    "outcome": "Nuno Borges"
+  },
+  {
+   "at": "2026-10-10T04:10:31.542860+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:00:00+00:00",
+   "condition_id": "0x839e7d351b0dae6ded379be31a4dfec459589bbbbbc44022f360d8ba8d77ac5a",
+   "asset": "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff"
   }
  ],
  "total_pnl": -842.630499999999,
- "last_updated": "2026-10-10T04:00:56.868838+00:00"
+ "last_updated": "2026-10-10T04:10:31.716143+00:00"
 }
