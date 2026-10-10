@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9190.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791605670,
+  "jtwyslljy": 1791606034,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21796,6 +21796,13 @@
    "BUY",
    5994.69,
    1791605670
+  ],
+  [
+   "0x62e7443586acc971deb493a30f67ef2e496cbc5a1d13f0448f24a404fdf8571d",
+   "94096919055436758304042256313325457137485157845882764617301478976903756403539",
+   "BUY",
+   3000,
+   1791606034
   ]
  ],
  "leader_pos": {
@@ -35522,10 +35529,10 @@
    "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Rafael Jodar",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-tirante-jodar-2026-10-09",
-   "shares": 9.38000000000011,
-   "cost": 229.27480000000014,
+   "shares": 3009.38,
+   "cost": 1669.2748000000001,
    "max_shares": 6000.0,
-   "last_trade_ts": 1791605443
+   "last_trade_ts": 1791606034
   },
   "jtwyslljy|47700478931115033879104269035723969866177535005650216307901007534907615765459": {
    "leader": "jtwyslljy",
@@ -59030,8 +59037,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-10T04:25:26.004014+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:05:00+00:00",
+   "condition_id": "0xb1893db5c25ead48e52e45c81446bce3004436a8eaaf565bf95451db0a647896",
+   "asset": "94096919055436758304042256313325457137485157845882764617301478976903756403539",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.59,
+   "cf_shares": 166.67,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Rafael Jodar",
+   "outcome": "Thiago Agustin Tirante"
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T04:20:31.612527+00:00"
+ "last_updated": "2026-10-10T04:25:26.004682+00:00"
 }
