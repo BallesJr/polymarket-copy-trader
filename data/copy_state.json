@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9111.724009900001,
  "last_seen": {
-  "jtwyslljy": 1791647527,
+  "jtwyslljy": 1791648210,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23133,6 +23133,20 @@
    "BUY",
    944,
    1791647418
+  ],
+  [
+   "0xc1a8d4342a4094c93d9d481dc79c4ba1c8ef00249d49e32d22207cfbda431848",
+   "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "SELL",
+   1116.18,
+   1791647989
+  ],
+  [
+   "0xd2947afd19c13ff472aa66cb50389ac16d24afe2ba6dab4a5514a5e80811819f",
+   "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "SELL",
+   108,
+   1791648210
   ]
  ],
  "leader_pos": {
@@ -37051,10 +37065,10 @@
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
    "outcome": "Vitality",
    "slug": "cs2-aur1-vit-2026-10-10",
-   "shares": 12000.0,
-   "cost": 5200.0,
+   "shares": 10775.82,
+   "cost": 4267.825,
    "max_shares": 20000.0,
-   "last_trade_ts": 1791647527
+   "last_trade_ts": 1791648210
   },
   "0x53757615de|17844913919156925846573907872622878643047106739872011452123944070114978578659": {
    "leader": "0x53757615de",
@@ -60946,8 +60960,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-10-10T16:05:25.611952+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T13:45:00+00:00",
+   "condition_id": "0xfe14f91781fcc4aaf56763672231bd42da0c0d7b0e26e25f5ad3acbd31d864aa",
+   "asset": "111650827834542717048167262285135767187405220827204669689781764884748796110464",
+   "copy_delay_min": 1.9,
+   "cf_ask": 0.89,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
+   "outcome": "Vitality"
   }
  ],
  "total_pnl": -588.2761999999989,
- "last_updated": "2026-10-10T15:55:26.445027+00:00"
+ "last_updated": "2026-10-10T16:05:25.815919+00:00"
 }
