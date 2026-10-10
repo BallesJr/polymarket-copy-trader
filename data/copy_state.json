@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9098.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791626454,
+  "jtwyslljy": 1791627177,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22055,6 +22055,13 @@
    "BUY",
    5200,
    1791626454
+  ],
+  [
+   "0xdb2ec9e5c4d9ec767a14f8b9c315954ae0defd91d09f3a6de4669ffa3197a45c",
+   "38090237347204134986123485968226008178575629910580038120579950487308241249687",
+   "BUY",
+   5125.17,
+   1791627177
   ]
  ],
  "leader_pos": {
@@ -35889,10 +35896,10 @@
    "title": "Shanghai Rolex Masters: Learner Tien vs Zachary Svajda",
    "outcome": "Learner Tien",
    "slug": "atp-tien-svajda-2026-10-09",
-   "shares": 6800.0,
-   "cost": 4964.0,
-   "max_shares": 6800.0,
-   "last_trade_ts": 1791625158
+   "shares": 11925.17,
+   "cost": 8295.3605,
+   "max_shares": 11925.17,
+   "last_trade_ts": 1791627177
   },
   "jtwyslljy|18930446296210588654410217560476373919118782950886015500409569578313380410607": {
    "leader": "jtwyslljy",
@@ -59628,8 +59635,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
    "outcome": "Alejandro Tabilo"
+  },
+  {
+   "at": "2026-10-10T10:20:30.468137+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T09:40:00+00:00",
+   "condition_id": "0xa1265abf491f6fc703553f6897c8ad6e6ed9e6d107d5e53a8e35f5478844d90f",
+   "asset": "38090237347204134986123485968226008178575629910580038120579950487308241249687",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.72,
+   "cf_shares": 135.0662,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7404,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Learner Tien vs Zachary Svajda",
+   "outcome": "Learner Tien"
   }
  ],
  "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T10:05:29.096160+00:00"
+ "last_updated": "2026-10-10T10:20:30.670904+00:00"
 }
