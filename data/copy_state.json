@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9098.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791627177,
+  "jtwyslljy": 1791632740,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22062,6 +22062,20 @@
    "BUY",
    5125.17,
    1791627177
+  ],
+  [
+   "0x03024b21fdfc464f05a4f586f0514543b3762310cffa1df321be096a312d659f",
+   "70402160128261951884947999140138603856473922479111717542538438575859773335844",
+   "BUY",
+   5000,
+   1791632716
+  ],
+  [
+   "0xa28ad8eb41bc3e15bf4c908da229b8fa495cce7f3cf5c8c5e3f7ccbbec39f8ee",
+   "70402160128261951884947999140138603856473922479111717542538438575859773335844",
+   "BUY",
+   1000,
+   1791632740
   ]
  ],
  "leader_pos": {
@@ -35924,6 +35938,18 @@
    "cost": 1872.0,
    "max_shares": 5200.0,
    "last_trade_ts": 1791626454
+  },
+  "jtwyslljy|70402160128261951884947999140138603856473922479111717542538438575859773335844": {
+   "leader": "jtwyslljy",
+   "asset": "70402160128261951884947999140138603856473922479111717542538438575859773335844",
+   "condition_id": "0x531cb8647bb33eaa51f674978315d3ef2998805c9aab7cacd672f0df9125f739",
+   "title": "China Open: Qinwen Zheng vs Elise Mertens",
+   "outcome": "Qinwen Zheng",
+   "slug": "wta-zhen-mertens-2026-10-10",
+   "shares": 6000.0,
+   "cost": 3540.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791632740
   }
  },
  "positions": [
@@ -59651,8 +59677,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Learner Tien vs Zachary Svajda",
    "outcome": "Learner Tien"
+  },
+  {
+   "at": "2026-10-10T11:50:35.734584+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T11:05:00+00:00",
+   "condition_id": "0x531cb8647bb33eaa51f674978315d3ef2998805c9aab7cacd672f0df9125f739",
+   "asset": "70402160128261951884947999140138603856473922479111717542538438575859773335844",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.64,
+   "cf_shares": 156.25,
+   "cf_cost": 100.0,
+   "cf_entry": 0.64,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "China Open: Qinwen Zheng vs Elise Mertens",
+   "outcome": "Qinwen Zheng"
   }
  ],
  "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T10:20:30.670904+00:00"
+ "last_updated": "2026-10-10T11:50:35.928417+00:00"
 }
