@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8990.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791612085,
+  "jtwyslljy": 1791613075,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21873,6 +21873,27 @@
    "BUY",
    3000,
    1791612085
+  ],
+  [
+   "0xd8bd732d21127ee9f39b8aa313b438302be4c6b0bdfaa8b3a5d797ea5ecf2cc3",
+   "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "SELL",
+   4874.69,
+   1791612990
+  ],
+  [
+   "0x23c4e96ed63b3ad1a04d4dfaea68f1f48d6f4748b3717911866eff2514c06ac4",
+   "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "BUY",
+   2515.7,
+   1791613027
+  ],
+  [
+   "0x542ca05cf087b640aca80aa5095341ba2783ece72013f03032229c5b2596e9d6",
+   "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "BUY",
+   2000,
+   1791613075
   ]
  ],
  "leader_pos": {
@@ -35659,10 +35680,10 @@
    "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
    "outcome": "Matteo Arnaldi",
    "slug": "atp-arnaldi-fritz-2026-10-09",
-   "shares": 7000.0,
-   "cost": 1610.0,
+   "shares": 4641.01,
+   "cost": 1116.1792,
    "max_shares": 7000.0,
-   "last_trade_ts": 1791611865
+   "last_trade_ts": 1791613027
   },
   "jtwyslljy|7535666550999685011553054513267023668598822913174334710274893943382114580017": {
    "leader": "jtwyslljy",
@@ -35695,10 +35716,10 @@
    "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
    "outcome": "Pablo Carreno Busta",
    "slug": "atp-tabilo-busta-2026-10-09",
-   "shares": 3000.0,
-   "cost": 1110.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791612085
+   "shares": 5000.0,
+   "cost": 1850.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791613075
   }
  },
  "positions": [
@@ -59291,5 +59312,5 @@
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T06:05:25.146458+00:00"
+ "last_updated": "2026-10-10T06:20:29.219414+00:00"
 }
