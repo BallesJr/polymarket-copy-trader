@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8998.811109900002,
+ "bankroll": 9276.588909900001,
  "last_seen": {
   "jtwyslljy": 1791635094,
   "0x53757615de": 1791535647
@@ -36026,24 +36026,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "94198893598569514136936271667389269049104708838311723049240180718626182579511",
-   "condition_id": "0x344b471f6f47081ea0125e8f0c99eb99dfc7950c864f6f7578ef6a99af8b991a",
-   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Alex Michelsen",
-   "outcome": "Botic van de Zandschulp",
-   "slug": "atp-zandsch-michels-2026-10-09",
-   "opened_at": "2026-10-10T10:05:28.834099+00:00",
-   "entry_price": 0.36,
-   "shares": 277.7778,
-   "stake": 100.0,
-   "leader_vwap": 0.36,
-   "leader_cost": 1872.0,
-   "copy_delay_min": 4.6,
-   "best_ask": 0.36,
-   "ask_depth": 8463.39,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "93715334514821483968686936968015445197497807686006882600688115938931697946198",
    "condition_id": "0x3c5e976b116855c013ef194de181d7c7c22db1896f4351388c9097754e119f12",
    "title": "Shanghai Rolex Masters: Sebastian Baez vs Valentin Vacherot",
@@ -47911,6 +47893,28 @@
    "exit_price": 0.4,
    "pnl": 8.1081,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94198893598569514136936271667389269049104708838311723049240180718626182579511",
+   "condition_id": "0x344b471f6f47081ea0125e8f0c99eb99dfc7950c864f6f7578ef6a99af8b991a",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Alex Michelsen",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-zandsch-michels-2026-10-09",
+   "opened_at": "2026-10-10T10:05:28.834099+00:00",
+   "entry_price": 0.36,
+   "shares": 277.7778,
+   "stake": 100.0,
+   "leader_vwap": 0.36,
+   "leader_cost": 1872.0,
+   "copy_delay_min": 4.6,
+   "best_ask": 0.36,
+   "ask_depth": 8463.39,
+   "status": "won",
+   "closed_at": "2026-10-10T14:05:25.842410+00:00",
+   "exit_price": 1.0,
+   "pnl": 177.7778,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -59784,6 +59788,6 @@
    "outcome": "Qinwen Zheng"
   }
  ],
- "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T12:25:25.644056+00:00"
+ "total_pnl": -623.4112999999988,
+ "last_updated": "2026-10-10T14:05:25.844195+00:00"
 }
