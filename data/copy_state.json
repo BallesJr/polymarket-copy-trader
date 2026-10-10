@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8958.739523900002,
+ "bankroll": 9057.369659900001,
  "last_seen": {
-  "jtwyslljy": 1791604326,
+  "jtwyslljy": 1791604758,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21733,6 +21733,20 @@
    "BUY",
    3732.02,
    1791604326
+  ],
+  [
+   "0x000e064dd3ad87e200946205608658d96b80a52bff2043e9cbb6f0c9fc5117ed",
+   "47700478931115033879104269035723969866177535005650216307901007534907615765459",
+   "SELL",
+   3750.02,
+   1791604747
+  ],
+  [
+   "0x29378449ad6ecc0825847c3ab56b9a6fa1323c7487ee039779d2d712787d0cd6",
+   "89369440168267629395392099744330040846936472172095726865011065868407614740900",
+   "BUY",
+   6000,
+   1791604758
   ]
  ],
  "leader_pos": {
@@ -35471,31 +35485,25 @@
    "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
    "outcome": "Jiri Lehecka",
    "slug": "atp-lehecka-borges-2026-10-09",
-   "shares": 3732.02,
-   "cost": 2687.0544,
+   "shares": -18.0,
+   "cost": -12.960000000000036,
    "max_shares": 3732.02,
-   "last_trade_ts": 1791604326
+   "last_trade_ts": 1791604747
+  },
+  "jtwyslljy|89369440168267629395392099744330040846936472172095726865011065868407614740900": {
+   "leader": "jtwyslljy",
+   "asset": "89369440168267629395392099744330040846936472172095726865011065868407614740900",
+   "condition_id": "0x4dd77570d07be4f7376bb0e0551f90ef78c9baeb7209abac09194d7eabdbf54e",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
+   "outcome": "Nuno Borges",
+   "slug": "atp-lehecka-borges-2026-10-09",
+   "shares": 6000.0,
+   "cost": 1680.0000000000002,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791604758
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "47700478931115033879104269035723969866177535005650216307901007534907615765459",
-   "condition_id": "0x4dd77570d07be4f7376bb0e0551f90ef78c9baeb7209abac09194d7eabdbf54e",
-   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
-   "outcome": "Jiri Lehecka",
-   "slug": "atp-lehecka-borges-2026-10-09",
-   "opened_at": "2026-10-10T03:55:22.527309+00:00",
-   "entry_price": 0.73,
-   "shares": 136.9863,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 2687.05,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.73,
-   "ask_depth": 20116.22,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "94096919055436758304042256313325457137485157845882764617301478976903756403539",
@@ -47277,6 +47285,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47700478931115033879104269035723969866177535005650216307901007534907615765459",
+   "condition_id": "0x4dd77570d07be4f7376bb0e0551f90ef78c9baeb7209abac09194d7eabdbf54e",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-borges-2026-10-09",
+   "opened_at": "2026-10-10T03:55:22.527309+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 2687.05,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.73,
+   "ask_depth": 20116.22,
+   "status": "closed",
+   "closed_at": "2026-10-10T04:00:56.447180+00:00",
+   "exit_price": 0.72,
+   "pnl": -1.3699,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -58860,8 +58890,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: LGD Gaming vs Aurora (BO3) - BLAST Slam Playoffs",
    "outcome": "LGD Gaming"
+  },
+  {
+   "at": "2026-10-10T04:00:56.656877+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:00:00+00:00",
+   "condition_id": "0x4dd77570d07be4f7376bb0e0551f90ef78c9baeb7209abac09194d7eabdbf54e",
+   "asset": "89369440168267629395392099744330040846936472172095726865011065868407614740900",
+   "copy_delay_min": 1.6,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Nuno Borges",
+   "outcome": "Nuno Borges"
   }
  ],
- "total_pnl": -841.2605999999989,
- "last_updated": "2026-10-10T03:55:23.006440+00:00"
+ "total_pnl": -842.630499999999,
+ "last_updated": "2026-10-10T04:00:56.868838+00:00"
 }
