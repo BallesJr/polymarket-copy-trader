@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8998.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791634435,
+  "jtwyslljy": 1791635094,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22097,6 +22097,20 @@
    "BUY",
    5200,
    1791634435
+  ],
+  [
+   "0x9b9a78c492a35de4a99856dca6366300cd1e3c2eaadcef6f1bfa8fcb4044dc3c",
+   "93715334514821483968686936968015445197497807686006882600688115938931697946198",
+   "BUY",
+   300,
+   1791635047
+  ],
+  [
+   "0xe9dc29dd7bbed02a3f7395b119ef24c18c3a762221530add23dc79dde2eab0f5",
+   "111730167484318829456431069328895683315468729484967509689863458086647972397242",
+   "BUY",
+   3000,
+   1791635094
   ]
  ],
  "leader_pos": {
@@ -35991,10 +36005,22 @@
    "title": "Shanghai Rolex Masters: Sebastian Baez vs Valentin Vacherot",
    "outcome": "Valentin Vacherot",
    "slug": "atp-baez-vachero-2026-10-09",
-   "shares": 5200.0,
-   "cost": 3848.0,
-   "max_shares": 5200.0,
-   "last_trade_ts": 1791634435
+   "shares": 5500.0,
+   "cost": 4070.0,
+   "max_shares": 5500.0,
+   "last_trade_ts": 1791635047
+  },
+  "jtwyslljy|111730167484318829456431069328895683315468729484967509689863458086647972397242": {
+   "leader": "jtwyslljy",
+   "asset": "111730167484318829456431069328895683315468729484967509689863458086647972397242",
+   "condition_id": "0x114addebae6165ed1800488dc74bedce2507982288725682b828e4d66c7a0aaa",
+   "title": "Shanghai Rolex Masters: Ignacio Buse vs Zizou Bergs",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-buse-bergs-2026-10-09",
+   "shares": 3000.0,
+   "cost": 390.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791635094
   }
  },
  "positions": [
@@ -59759,5 +59785,5 @@
   }
  ],
  "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T12:15:31.982342+00:00"
+ "last_updated": "2026-10-10T12:25:25.644056+00:00"
 }
