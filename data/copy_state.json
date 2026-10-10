@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9111.724009900001,
  "last_seen": {
-  "jtwyslljy": 1791648210,
+  "jtwyslljy": 1791653448,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23147,6 +23147,20 @@
    "SELL",
    108,
    1791648210
+  ],
+  [
+   "0xbd80798042e9007574c3df1f1c2bc4eabc6efb10d1347195c9844ecd79c786a4",
+   "62813604754427508641245639139740674925348067927945159093643391364730231238161",
+   "BUY",
+   5000,
+   1791653442
+  ],
+  [
+   "0x35a51315cb8d738449f3757ad82a260c2ad440e6bf157057662379ac5a91299b",
+   "62813604754427508641245639139740674925348067927945159093643391364730231238161",
+   "BUY",
+   15,
+   1791653448
   ]
  ],
  "leader_pos": {
@@ -37105,6 +37119,18 @@
    "cost": 18682.824999999993,
    "max_shares": 72421.06,
    "last_trade_ts": 1791647418
+  },
+  "jtwyslljy|62813604754427508641245639139740674925348067927945159093643391364730231238161": {
+   "leader": "jtwyslljy",
+   "asset": "62813604754427508641245639139740674925348067927945159093643391364730231238161",
+   "condition_id": "0x280c14084a09a377759f936bf7dd0af17758dde65353b3c26b42bf7bec9b1d17",
+   "title": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+   "outcome": "MOUZ",
+   "slug": "cs2-mouz-ts7-2026-10-10",
+   "shares": 5015.0,
+   "cost": 2206.6,
+   "max_shares": 5015.0,
+   "last_trade_ts": 1791653448
   }
  },
  "positions": [
@@ -60976,8 +61002,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs Vitality (BO3) - ESL Pro League Playoffs",
    "outcome": "Vitality"
+  },
+  {
+   "at": "2026-10-10T17:35:22.955722+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T17:30:00+00:00",
+   "condition_id": "0x280c14084a09a377759f936bf7dd0af17758dde65353b3c26b42bf7bec9b1d17",
+   "asset": "62813604754427508641245639139740674925348067927945159093643391364730231238161",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
+   "outcome": "MOUZ"
   }
  ],
  "total_pnl": -588.2761999999989,
- "last_updated": "2026-10-10T16:05:25.815919+00:00"
+ "last_updated": "2026-10-10T17:35:23.208647+00:00"
 }
