@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9198.811109900002,
  "last_seen": {
-  "jtwyslljy": 1791624447,
+  "jtwyslljy": 1791625158,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -22006,6 +22006,20 @@
    "SELL",
    5999.98,
    1791624447
+  ],
+  [
+   "0xb3acb48d42355aa73fa20c2c2e1b97cc8c38cf4e729b9c0687b2f63a6f7e0a0f",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   5000,
+   1791625074
+  ],
+  [
+   "0x99775426a0743ad807f6cbff1ae6993e55f3b3deac883791d808cadbc1d7f8c2",
+   "38090237347204134986123485968226008178575629910580038120579950487308241249687",
+   "BUY",
+   6800,
+   1791625158
   ]
  ],
  "leader_pos": {
@@ -35804,10 +35818,10 @@
    "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry",
    "slug": "atp-svrcina-etcheve-2026-10-09",
-   "shares": 7888.490000000001,
-   "cost": 3093.1523,
-   "max_shares": 7888.490000000001,
-   "last_trade_ts": 1791624280
+   "shares": 12888.490000000002,
+   "cost": 5393.1523,
+   "max_shares": 12888.490000000002,
+   "last_trade_ts": 1791625074
   },
   "jtwyslljy|53816403152528730533305767685914502492838093969989318940767159174562638980151": {
    "leader": "jtwyslljy",
@@ -35832,6 +35846,18 @@
    "cost": -787.8401000000001,
    "max_shares": 5531.09,
    "last_trade_ts": 1791624447
+  },
+  "jtwyslljy|38090237347204134986123485968226008178575629910580038120579950487308241249687": {
+   "leader": "jtwyslljy",
+   "asset": "38090237347204134986123485968226008178575629910580038120579950487308241249687",
+   "condition_id": "0xa1265abf491f6fc703553f6897c8ad6e6ed9e6d107d5e53a8e35f5478844d90f",
+   "title": "Shanghai Rolex Masters: Learner Tien vs Zachary Svajda",
+   "outcome": "Learner Tien",
+   "slug": "atp-tien-svajda-2026-10-09",
+   "shares": 6800.0,
+   "cost": 4964.0,
+   "max_shares": 6800.0,
+   "last_trade_ts": 1791625158
   }
  },
  "positions": [],
@@ -59460,8 +59486,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-10T09:45:30.155047+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T05:45:00+00:00",
+   "condition_id": "0x2f284fd3ec821259abd141376ab0dc07dc5c126eee289ff4f4739d2bb10a3c62",
+   "asset": "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-10T09:45:30.279266+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T09:40:00+00:00",
+   "condition_id": "0xa1265abf491f6fc703553f6897c8ad6e6ed9e6d107d5e53a8e35f5478844d90f",
+   "asset": "38090237347204134986123485968226008178575629910580038120579950487308241249687",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Learner Tien vs Zachary Svajda",
+   "outcome": "Learner Tien"
   }
  ],
  "total_pnl": -801.1890999999989,
- "last_updated": "2026-10-10T09:30:49.202894+00:00"
+ "last_updated": "2026-10-10T09:45:30.280100+00:00"
 }
