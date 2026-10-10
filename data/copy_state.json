@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8990.702991900002,
+ "bankroll": 9090.7029899,
  "last_seen": {
-  "jtwyslljy": 1791613075,
+  "jtwyslljy": 1791614962,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21894,6 +21894,13 @@
    "BUY",
    2000,
    1791613075
+  ],
+  [
+   "0x1b21589fc7b1ea0cda0639149f6ccf76624f5870daaa0763cef58d8fc5a6cbae",
+   "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "SELL",
+   4646.01,
+   1791614962
   ]
  ],
  "leader_pos": {
@@ -35680,10 +35687,10 @@
    "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
    "outcome": "Matteo Arnaldi",
    "slug": "atp-arnaldi-fritz-2026-10-09",
-   "shares": 4641.01,
-   "cost": 1116.1792,
+   "shares": -5.0,
+   "cost": 47.596900000000005,
    "max_shares": 7000.0,
-   "last_trade_ts": 1791613027
+   "last_trade_ts": 1791614962
   },
   "jtwyslljy|7535666550999685011553054513267023668598822913174334710274893943382114580017": {
    "leader": "jtwyslljy",
@@ -35723,24 +35730,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "69782607469445286458367029527707201808192551474801220590057089562318070299660",
-   "condition_id": "0x9e7cfeaa55344c4d03b09362806e8707473e1d326926a99cbd78c116af6e2291",
-   "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
-   "outcome": "Matteo Arnaldi",
-   "slug": "atp-arnaldi-fritz-2026-10-09",
-   "opened_at": "2026-10-10T06:05:24.182911+00:00",
-   "entry_price": 0.23,
-   "shares": 434.7826,
-   "stake": 100.0,
-   "leader_vwap": 0.23,
-   "leader_cost": 1610.0,
-   "copy_delay_min": 7.6,
-   "best_ask": 0.23,
-   "ask_depth": 7580.88,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "4812209115863154088221560899811490592946007165187169311038370141029944429639",
@@ -47566,6 +47555,28 @@
    "exit_price": 0.44,
    "pnl": 33.3333,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "condition_id": "0x9e7cfeaa55344c4d03b09362806e8707473e1d326926a99cbd78c116af6e2291",
+   "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-arnaldi-fritz-2026-10-09",
+   "opened_at": "2026-10-10T06:05:24.182911+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1610.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.23,
+   "ask_depth": 7580.88,
+   "status": "closed",
+   "closed_at": "2026-10-10T06:50:32.532803+00:00",
+   "exit_price": 0.23,
+   "pnl": -0.0,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -59312,5 +59323,5 @@
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T06:20:29.219414+00:00"
+ "last_updated": "2026-10-10T06:50:32.909835+00:00"
 }
