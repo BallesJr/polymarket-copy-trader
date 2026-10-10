@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9190.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791608097,
+  "jtwyslljy": 1791611461,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21824,6 +21824,20 @@
    "BUY",
    9,
    1791608097
+  ],
+  [
+   "0xd6b5479168c064a8c92a4682914d612d9e605f7610793e2c8e11cc66a78df4ec",
+   "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "SELL",
+   5994.69,
+   1791611433
+  ],
+  [
+   "0xf38b752c85c68af489b0f68f3e5d49ceabfbc97392c567b016980c5d0b40ec53",
+   "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "BUY",
+   2000,
+   1791611461
   ]
  ],
  "leader_pos": {
@@ -35586,10 +35600,10 @@
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
    "outcome": "Jan-Lennard Struff",
    "slug": "atp-medvede-struff-2026-10-09",
-   "shares": 5994.69,
-   "cost": 959.1504,
+   "shares": 0.0,
+   "cost": -479.57519999999977,
    "max_shares": 5994.69,
-   "last_trade_ts": 1791605670
+   "last_trade_ts": 1791611433
   },
   "jtwyslljy|80275418038661750151777845152608909073227377590414015573976788940301771256984": {
    "leader": "jtwyslljy",
@@ -35598,10 +35612,10 @@
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-carabel-augeral-2026-10-09",
-   "shares": 7699.5599999999995,
-   "cost": 6833.1828000000005,
-   "max_shares": 7699.5599999999995,
-   "last_trade_ts": 1791608097
+   "shares": 9699.56,
+   "cost": 8033.1828000000005,
+   "max_shares": 9699.56,
+   "last_trade_ts": 1791611461
   }
  },
  "positions": [],
@@ -59106,8 +59120,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-10T05:55:23.287563+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:05:00+00:00",
+   "condition_id": "0x6b6f54830cea099bfa2b0357fe65c96a74caccf53acce8261aff367f1e791c39",
+   "asset": "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T05:00:53.575966+00:00"
+ "last_updated": "2026-10-10T05:55:23.288247+00:00"
 }
