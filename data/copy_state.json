@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9190.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791605443,
+  "jtwyslljy": 1791605670,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21782,6 +21782,20 @@
    "SELL",
    5542.44,
    1791605443
+  ],
+  [
+   "0x61d60bac96f2da3f2db1362b735a8d5e1bb82ce3d49abe6f5bb97621940a0ee6",
+   "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "BUY",
+   6000,
+   1791605500
+  ],
+  [
+   "0xd5b9c17b285fc392ea2dbd27ec68f3320fc888ba38a9df3bfa8f3eb76b32ed90",
+   "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "BUY",
+   5994.69,
+   1791605670
   ]
  ],
  "leader_pos": {
@@ -35544,10 +35558,10 @@
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
    "outcome": "Jan-Lennard Struff",
    "slug": "atp-medvede-struff-2026-10-09",
-   "shares": 0.0,
-   "cost": 40.0,
-   "max_shares": 4000.0,
-   "last_trade_ts": 1791605364
+   "shares": 5994.69,
+   "cost": 959.1504,
+   "max_shares": 5994.69,
+   "last_trade_ts": 1791605670
   },
   "jtwyslljy|80275418038661750151777845152608909073227377590414015573976788940301771256984": {
    "leader": "jtwyslljy",
@@ -35556,10 +35570,10 @@
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-carabel-augeral-2026-10-09",
-   "shares": 399.36,
-   "cost": 351.4368,
-   "max_shares": 399.36,
-   "last_trade_ts": 1791605206
+   "shares": 6399.36,
+   "cost": 5691.4368,
+   "max_shares": 6399.36,
+   "last_trade_ts": 1791605500
   }
  },
  "positions": [],
@@ -58984,8 +58998,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
    "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-10T04:20:31.415190+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:05:00+00:00",
+   "condition_id": "0x839e7d351b0dae6ded379be31a4dfec459589bbbbbc44022f360d8ba8d77ac5a",
+   "asset": "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-10T04:20:31.611790+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T04:05:00+00:00",
+   "condition_id": "0x6b6f54830cea099bfa2b0357fe65c96a74caccf53acce8261aff367f1e791c39",
+   "asset": "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.87,
+   "cf_shares": 114.9425,
+   "cf_cost": 100.0,
+   "cf_entry": 0.87,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T04:15:34.797385+00:00"
+ "last_updated": "2026-10-10T04:20:31.612527+00:00"
 }
