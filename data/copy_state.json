@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9190.702991900002,
+ "bankroll": 8990.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791611587,
+  "jtwyslljy": 1791612085,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21845,6 +21845,34 @@
    "SELL",
    3000,
    1791611587
+  ],
+  [
+   "0xf4098bbff7e163eeea71b2234966ae2ed5d6e5a0368a21af05a1b660e2a2b5ba",
+   "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "BUY",
+   7000,
+   1791611865
+  ],
+  [
+   "0xefab8f01941de04e3dd5581672f9ea90c5fc75e0a391feff349d23bc3b46bb87",
+   "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "BUY",
+   4000,
+   1791612043
+  ],
+  [
+   "0xa43ee5e1c70a37a98b399ad05d48dc425647694b4e0cf67fe68e4012433c4e07",
+   "53816403152528730533305767685914502492838093969989318940767159174562638980151",
+   "BUY",
+   3000,
+   1791612064
+  ],
+  [
+   "0x2515e21e6958adaf767cc43b5cdd37459fa97fd11d44a3ccd97f7d6c883ea34e",
+   "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "BUY",
+   3000,
+   1791612085
   ]
  ],
  "leader_pos": {
@@ -35623,9 +35651,94 @@
    "cost": 8033.1828000000005,
    "max_shares": 9699.56,
    "last_trade_ts": 1791611461
+  },
+  "jtwyslljy|69782607469445286458367029527707201808192551474801220590057089562318070299660": {
+   "leader": "jtwyslljy",
+   "asset": "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "condition_id": "0x9e7cfeaa55344c4d03b09362806e8707473e1d326926a99cbd78c116af6e2291",
+   "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-arnaldi-fritz-2026-10-09",
+   "shares": 7000.0,
+   "cost": 1610.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791611865
+  },
+  "jtwyslljy|7535666550999685011553054513267023668598822913174334710274893943382114580017": {
+   "leader": "jtwyslljy",
+   "asset": "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "condition_id": "0x2f284fd3ec821259abd141376ab0dc07dc5c126eee289ff4f4739d2bb10a3c62",
+   "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry",
+   "slug": "atp-svrcina-etcheve-2026-10-09",
+   "shares": 4000.0,
+   "cost": 1440.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1791612043
+  },
+  "jtwyslljy|53816403152528730533305767685914502492838093969989318940767159174562638980151": {
+   "leader": "jtwyslljy",
+   "asset": "53816403152528730533305767685914502492838093969989318940767159174562638980151",
+   "condition_id": "0x6bc3fd0f782a5c8efec7a35211c5a8d69a1e0e9f27f7532cecba50d461cc5d58",
+   "title": "Shanghai Rolex Masters: Yunchaokete Bu vs Casper Ruud",
+   "outcome": "Yunchaokete Bu",
+   "slug": "atp-bu-ruud-2026-10-09",
+   "shares": 3000.0,
+   "cost": 1590.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791612064
+  },
+  "jtwyslljy|4812209115863154088221560899811490592946007165187169311038370141029944429639": {
+   "leader": "jtwyslljy",
+   "asset": "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "condition_id": "0xb32ec8061320b83ba49406d8644db72d8e42b86f438502ba0eaad8534a5cbfd5",
+   "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
+   "outcome": "Pablo Carreno Busta",
+   "slug": "atp-tabilo-busta-2026-10-09",
+   "shares": 3000.0,
+   "cost": 1110.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791612085
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "69782607469445286458367029527707201808192551474801220590057089562318070299660",
+   "condition_id": "0x9e7cfeaa55344c4d03b09362806e8707473e1d326926a99cbd78c116af6e2291",
+   "title": "Shanghai Rolex Masters: Matteo Arnaldi vs Taylor Fritz",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-arnaldi-fritz-2026-10-09",
+   "opened_at": "2026-10-10T06:05:24.182911+00:00",
+   "entry_price": 0.23,
+   "shares": 434.7826,
+   "stake": 100.0,
+   "leader_vwap": 0.23,
+   "leader_cost": 1610.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.23,
+   "ask_depth": 7580.88,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4812209115863154088221560899811490592946007165187169311038370141029944429639",
+   "condition_id": "0xb32ec8061320b83ba49406d8644db72d8e42b86f438502ba0eaad8534a5cbfd5",
+   "title": "Shanghai Rolex Masters: Alejandro Tabilo vs Pablo Carreno Busta",
+   "outcome": "Pablo Carreno Busta",
+   "slug": "atp-tabilo-busta-2026-10-09",
+   "opened_at": "2026-10-10T06:05:24.348799+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 1110.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.37,
+   "ask_depth": 18418.5,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -59143,8 +59256,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-10T06:05:24.538484+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T05:45:00+00:00",
+   "condition_id": "0x2f284fd3ec821259abd141376ab0dc07dc5c126eee289ff4f4739d2bb10a3c62",
+   "asset": "7535666550999685011553054513267023668598822913174334710274893943382114580017",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.39,
+   "cf_shares": 250.25,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3996,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Dalibor Svrcina vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-10T06:05:24.718892+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-10T06:00:00+00:00",
+   "condition_id": "0x6bc3fd0f782a5c8efec7a35211c5a8d69a1e0e9f27f7532cecba50d461cc5d58",
+   "asset": "53816403152528730533305767685914502492838093969989318940767159174562638980151",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Yunchaokete Bu vs Casper Ruud",
+   "outcome": "Yunchaokete Bu"
   }
  ],
  "total_pnl": -809.297199999999,
- "last_updated": "2026-10-10T06:00:55.927693+00:00"
+ "last_updated": "2026-10-10T06:05:25.146458+00:00"
 }
