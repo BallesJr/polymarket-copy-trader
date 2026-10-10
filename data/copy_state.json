@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9057.369659900001,
+ "bankroll": 9190.702991900002,
  "last_seen": {
-  "jtwyslljy": 1791605095,
+  "jtwyslljy": 1791605443,
   "0x53757615de": 1791535647
  },
  "seen_keys": [
@@ -21754,6 +21754,34 @@
    "BUY",
    4000,
    1791605095
+  ],
+  [
+   "0xb998f7af12c262356e3a86426165f302698f95cc0cb0b30e82d0ce38cfd7060e",
+   "94096919055436758304042256313325457137485157845882764617301478976903756403539",
+   "SELL",
+   448.18,
+   1791605169
+  ],
+  [
+   "0xa38d49be875662bc959cdd3b68873f201d3e9ee23a8cd7dd7bb90f2387dc870a",
+   "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "BUY",
+   399.36,
+   1791605206
+  ],
+  [
+   "0xb9710271ed4de237f68b1fcf451d60415d57a8963be9524226ad1e6b9f79bd7e",
+   "109936111236476739124278209144647596472454444762138090426692845207777452573810",
+   "SELL",
+   4000,
+   1791605364
+  ],
+  [
+   "0x7f01a33f31491b514b3fc0ec900b8911f22efe2ab0b6ae0712130e7940f3507b",
+   "94096919055436758304042256313325457137485157845882764617301478976903756403539",
+   "SELL",
+   5542.44,
+   1791605443
   ]
  ],
  "leader_pos": {
@@ -35480,10 +35508,10 @@
    "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Rafael Jodar",
    "outcome": "Thiago Agustin Tirante",
    "slug": "atp-tirante-jodar-2026-10-09",
-   "shares": 6000.0,
-   "cost": 1980.0,
+   "shares": 9.38000000000011,
+   "cost": 229.27480000000014,
    "max_shares": 6000.0,
-   "last_trade_ts": 1791604291
+   "last_trade_ts": 1791605443
   },
   "jtwyslljy|47700478931115033879104269035723969866177535005650216307901007534907615765459": {
    "leader": "jtwyslljy",
@@ -35516,32 +35544,25 @@
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Jan-Lennard Struff",
    "outcome": "Jan-Lennard Struff",
    "slug": "atp-medvede-struff-2026-10-09",
-   "shares": 4000.0,
-   "cost": 600.0,
+   "shares": 0.0,
+   "cost": 40.0,
    "max_shares": 4000.0,
-   "last_trade_ts": 1791605095
+   "last_trade_ts": 1791605364
+  },
+  "jtwyslljy|80275418038661750151777845152608909073227377590414015573976788940301771256984": {
+   "leader": "jtwyslljy",
+   "asset": "80275418038661750151777845152608909073227377590414015573976788940301771256984",
+   "condition_id": "0x6b6f54830cea099bfa2b0357fe65c96a74caccf53acce8261aff367f1e791c39",
+   "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime",
+   "slug": "atp-carabel-augeral-2026-10-09",
+   "shares": 399.36,
+   "cost": 351.4368,
+   "max_shares": 399.36,
+   "last_trade_ts": 1791605206
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "94096919055436758304042256313325457137485157845882764617301478976903756403539",
-   "condition_id": "0xb1893db5c25ead48e52e45c81446bce3004436a8eaaf565bf95451db0a647896",
-   "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Rafael Jodar",
-   "outcome": "Thiago Agustin Tirante",
-   "slug": "atp-tirante-jodar-2026-10-09",
-   "opened_at": "2026-10-10T03:55:22.694947+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 1980.0,
-   "copy_delay_min": 3.8,
-   "best_ask": 0.33,
-   "ask_depth": 3503.4,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -47326,6 +47347,28 @@
    "exit_price": 0.72,
    "pnl": -1.3699,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94096919055436758304042256313325457137485157845882764617301478976903756403539",
+   "condition_id": "0xb1893db5c25ead48e52e45c81446bce3004436a8eaaf565bf95451db0a647896",
+   "title": "Shanghai Rolex Masters: Thiago Agustin Tirante vs Rafael Jodar",
+   "outcome": "Thiago Agustin Tirante",
+   "slug": "atp-tirante-jodar-2026-10-09",
+   "opened_at": "2026-10-10T03:55:22.694947+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 1980.0,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.33,
+   "ask_depth": 3503.4,
+   "status": "closed",
+   "closed_at": "2026-10-10T04:15:34.796712+00:00",
+   "exit_price": 0.44,
+   "pnl": 33.3333,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -58943,6 +58986,6 @@
    "outcome": "Jan-Lennard Struff"
   }
  ],
- "total_pnl": -842.630499999999,
- "last_updated": "2026-10-10T04:10:31.716143+00:00"
+ "total_pnl": -809.297199999999,
+ "last_updated": "2026-10-10T04:15:34.797385+00:00"
 }
