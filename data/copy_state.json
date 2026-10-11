@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9129.672709900002,
+ "bankroll": 9259.542809900002,
  "last_seen": {
   "jtwyslljy": 1791697376,
   "0x53757615de": 1791647418
@@ -37277,24 +37277,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "82474351814322232584359784755658954380673347511893450826619038033147637195187",
-   "condition_id": "0xa9f978746882701ecad68d7ecad46277d93624087e77bf8d62e8750265090fb3",
-   "title": "Shanghai Rolex Masters: Karen Khachanov vs Adrian Mannarino",
-   "outcome": "Karen Khachanov",
-   "slug": "atp-khachan-mannari-2026-10-11",
-   "opened_at": "2026-10-11T03:55:25.137776+00:00",
-   "entry_price": 0.77,
-   "shares": 129.8701,
-   "stake": 100.0,
-   "leader_vwap": 0.77,
-   "leader_cost": 3003.0,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.77,
-   "ask_depth": 12111.69,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "97929994598099756144993676484219516147076896393348197089833516511924992061214",
    "condition_id": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
    "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
@@ -49308,6 +49290,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82474351814322232584359784755658954380673347511893450826619038033147637195187",
+   "condition_id": "0xa9f978746882701ecad68d7ecad46277d93624087e77bf8d62e8750265090fb3",
+   "title": "Shanghai Rolex Masters: Karen Khachanov vs Adrian Mannarino",
+   "outcome": "Karen Khachanov",
+   "slug": "atp-khachan-mannari-2026-10-11",
+   "opened_at": "2026-10-11T03:55:25.137776+00:00",
+   "entry_price": 0.77,
+   "shares": 129.8701,
+   "stake": 100.0,
+   "leader_vwap": 0.77,
+   "leader_cost": 3003.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.77,
+   "ask_depth": 12111.69,
+   "status": "won",
+   "closed_at": "2026-10-11T06:10:32.543809+00:00",
+   "exit_price": 1.0,
+   "pnl": 29.8701,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61245,6 +61249,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -370.32749999999885,
- "last_updated": "2026-10-11T05:45:34.070355+00:00"
+ "total_pnl": -340.45739999999887,
+ "last_updated": "2026-10-11T06:10:32.545665+00:00"
 }
