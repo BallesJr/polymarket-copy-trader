@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9129.672709900002,
  "last_seen": {
-  "jtwyslljy": 1791692003,
+  "jtwyslljy": 1791697376,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23217,6 +23217,13 @@
    "BUY",
    2100,
    1791692003
+  ],
+  [
+   "0x7282b62a11a6ff66893c93bc75d0da94c1af81bc3b30696f83fde1c54945c727",
+   "12582823906774896381090488322800781408146066377808087860749006323300806220924",
+   "BUY",
+   16000,
+   1791697376
   ]
  ],
  "leader_pos": {
@@ -37231,10 +37238,10 @@
    "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
    "outcome": "Brandon Nakashima",
    "slug": "atp-bublik-nakashi-2026-10-11",
-   "shares": 1988.09,
-   "cost": 1073.5686,
-   "max_shares": 1988.09,
-   "last_trade_ts": 1791691496
+   "shares": 17988.09,
+   "cost": 9553.5686,
+   "max_shares": 17988.09,
+   "last_trade_ts": 1791697376
   },
   "jtwyslljy|77902799905717129182290777674706250105220452193308937881845143950491614720048": {
    "leader": "jtwyslljy",
@@ -61239,5 +61246,5 @@
   }
  ],
  "total_pnl": -370.32749999999885,
- "last_updated": "2026-10-11T04:15:33.639803+00:00"
+ "last_updated": "2026-10-11T05:45:34.070355+00:00"
 }
