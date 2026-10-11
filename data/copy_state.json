@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9416.685709900003,
+ "bankroll": 9559.542809900002,
  "last_seen": {
-  "jtwyslljy": 1791705723,
+  "jtwyslljy": 1791705817,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23294,6 +23294,13 @@
    "BUY",
    2300,
    1791705723
+  ],
+  [
+   "0x4ac7fcaec5739c8a886e07e0933ff6c02c3ed8bc215370ec469e4e0026c1e688",
+   "36868633377226988357374540421063993474965755642867270225672173329258548755491",
+   "BUY",
+   500,
+   1791705817
   ]
  ],
  "leader_pos": {
@@ -37348,6 +37355,18 @@
    "cost": 1000.0,
    "max_shares": 2000.0,
    "last_trade_ts": 1791699300
+  },
+  "jtwyslljy|36868633377226988357374540421063993474965755642867270225672173329258548755491": {
+   "leader": "jtwyslljy",
+   "asset": "36868633377226988357374540421063993474965755642867270225672173329258548755491",
+   "condition_id": "0x9d11f795ed39b8991a0d3febc7095249ed9fa3973cbaf7b0c960fc9aa59fab8a",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs Yi Zhou",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-hurkacz-zhou-2026-10-11",
+   "shares": 500.0,
+   "cost": 325.0,
+   "max_shares": 500.0,
+   "last_trade_ts": 1791705817
   }
  },
  "positions": [
@@ -37367,24 +37386,6 @@
    "copy_delay_min": 0.4,
    "best_ask": 0.55,
    "ask_depth": 34107.9,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "77902799905717129182290777674706250105220452193308937881845143950491614720048",
-   "condition_id": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
-   "title": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
-   "outcome": "Alex de Minaur",
-   "slug": "atp-minaur-sakamot-2026-10-11",
-   "opened_at": "2026-10-11T04:15:33.180015+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.7,
-   "leader_cost": 1470.0,
-   "copy_delay_min": 2.1,
-   "best_ask": 0.7,
-   "ask_depth": 29466.25,
    "status": "open"
   },
   {
@@ -49450,6 +49451,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77902799905717129182290777674706250105220452193308937881845143950491614720048",
+   "condition_id": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-sakamot-2026-10-11",
+   "opened_at": "2026-10-11T04:15:33.180015+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 1470.0,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.7,
+   "ask_depth": 29466.25,
+   "status": "won",
+   "closed_at": "2026-10-11T08:10:30.250817+00:00",
+   "exit_price": 1.0,
+   "pnl": 42.8571,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61387,6 +61410,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -183.31449999999887,
- "last_updated": "2026-10-11T08:05:27.822068+00:00"
+ "total_pnl": -140.45739999999887,
+ "last_updated": "2026-10-11T08:10:30.252717+00:00"
 }
