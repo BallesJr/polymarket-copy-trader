@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9459.542809900002,
  "last_seen": {
-  "jtwyslljy": 1791726747,
+  "jtwyslljy": 1791728599,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23350,6 +23350,13 @@
    "BUY",
    7000,
    1791726747
+  ],
+  [
+   "0xdfa135f3004ac51dc7e075220ff4b2a50e44c36c504e221e983bb7172e66d19f",
+   "4886692327527480798273564049605718116882679086817034374906532921103159641930",
+   "SELL",
+   1186,
+   1791728599
   ]
  ],
  "leader_pos": {
@@ -37400,10 +37407,10 @@
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
    "outcome": "Frances Tiafoe",
    "slug": "atp-fokina-tiafoe-2026-10-11",
-   "shares": 5000.0,
-   "cost": 2046.1500001,
+   "shares": 3814.0,
+   "cost": 1702.2100001,
    "max_shares": 5000.0,
-   "last_trade_ts": 1791726510
+   "last_trade_ts": 1791728599
   },
   "jtwyslljy|36868633377226988357374540421063993474965755642867270225672173329258548755491": {
    "leader": "jtwyslljy",
@@ -61560,5 +61567,5 @@
   }
  ],
  "total_pnl": -340.45739999999887,
- "last_updated": "2026-10-11T13:55:24.020266+00:00"
+ "last_updated": "2026-10-11T14:30:46.484256+00:00"
 }
