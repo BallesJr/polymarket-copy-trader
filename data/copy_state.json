@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791749859,
+  "jtwyslljy": 1791750474,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23483,6 +23483,20 @@
    "SELL",
    20,
    1791749859
+  ],
+  [
+   "0x76d7f7b27e4051b7baf3d1438e8b0f3f27980c7b86d0d7729c4c86094fb1d938",
+   "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "SELL",
+   2000,
+   1791750444
+  ],
+  [
+   "0xa3d1f3c903a91c05b2e7958c117217261e12d7eb588150fa72663e31897d31d4",
+   "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "SELL",
+   500,
+   1791750474
   ]
  ],
  "leader_pos": {
@@ -37665,10 +37679,10 @@
    "title": "Giants vs. Commanders",
    "outcome": "Commanders",
    "slug": "nfl-nyg-was-2026-10-11",
-   "shares": 8162.46,
-   "cost": 4914.074120035796,
+   "shares": 5662.46,
+   "cost": 3036.823120035796,
    "max_shares": 8182.46,
-   "last_trade_ts": 1791749859
+   "last_trade_ts": 1791750474
   }
  },
  "positions": [],
@@ -61929,8 +61943,24 @@
    "leader": "jtwyslljy",
    "title": "Giants vs. Commanders",
    "outcome": "Commanders"
+  },
+  {
+   "at": "2026-10-11T20:35:27.783039+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T17:00:00+00:00",
+   "condition_id": "0x9439c48ded4ed27d043d8f6d027292a2260d7629f538a1caa8267d4f5c43f691",
+   "asset": "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.156,
+   "cf_shares": 630.1691,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1587,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Giants vs. Commanders",
+   "outcome": "Commanders"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T20:25:25.369367+00:00"
+ "last_updated": "2026-10-11T20:35:27.783871+00:00"
 }
