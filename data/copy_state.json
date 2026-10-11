@@ -37409,24 +37409,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "61813604196005368080707328318291814264983329128874839586905411126554840178205",
-   "condition_id": "0x1e5b376b81b349e454e32717a7edb35928c98ba361e1668a4c1a9d4c746747a6",
-   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik",
-   "outcome": "Francisco Cerundolo",
-   "slug": "atp-cerundo-mensik-2026-10-09",
-   "opened_at": "2026-10-11T06:20:30.723051+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 1932.0,
-   "copy_delay_min": 5.8,
-   "best_ask": 0.42,
-   "ask_depth": 34937.53,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "4886692327527480798273564049605718116882679086817034374906532921103159641930",
    "condition_id": "0xdd2979814b03d227c203fa7d4b7da232573d92451228df7112a4b60416dbf05a",
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
@@ -49492,6 +49474,28 @@
    "exit_price": 1.0,
    "pnl": 42.8571,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61813604196005368080707328318291814264983329128874839586905411126554840178205",
+   "condition_id": "0x1e5b376b81b349e454e32717a7edb35928c98ba361e1668a4c1a9d4c746747a6",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-cerundo-mensik-2026-10-09",
+   "opened_at": "2026-10-11T06:20:30.723051+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 1932.0,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.42,
+   "ask_depth": 34937.53,
+   "status": "lost",
+   "closed_at": "2026-10-11T10:35:25.108831+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61429,6 +61433,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -140.45739999999887,
- "last_updated": "2026-10-11T10:20:30.046996+00:00"
+ "total_pnl": -240.45739999999887,
+ "last_updated": "2026-10-11T10:35:25.110570+00:00"
 }
