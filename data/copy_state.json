@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791751191,
+  "jtwyslljy": 1791751600,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23504,6 +23504,20 @@
    "BUY",
    6000,
    1791751191
+  ],
+  [
+   "0x588583cecffc5ab94f646a7f2359b063681f12a88e486ae7be2890b5356d9b6b",
+   "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "SELL",
+   6000,
+   1791751359
+  ],
+  [
+   "0x53eaa9732000dad78ff481c0b271e23b7b30c18440d70be00589bc560657d96a",
+   "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "BUY",
+   5000,
+   1791751600
   ]
  ],
  "leader_pos": {
@@ -37698,10 +37712,10 @@
    "title": "Broncos vs. Chargers",
    "outcome": "Chargers",
    "slug": "nfl-den-lac-2026-10-11",
-   "shares": 6000.0,
-   "cost": 1739.9999999999998,
-   "max_shares": 6000.0,
-   "last_trade_ts": 1791751191
+   "shares": 5000.0,
+   "cost": 1450.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791751600
   }
  },
  "positions": [],
@@ -61994,8 +62008,24 @@
    "leader": "jtwyslljy",
    "title": "Broncos vs. Chargers",
    "outcome": "Chargers"
+  },
+  {
+   "at": "2026-10-11T20:50:30.635013+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T20:05:00+00:00",
+   "condition_id": "0x95532ccb25b8f75736a52837bc964b4326f4e27b45eef12d52521890207bbc78",
+   "asset": "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Broncos vs. Chargers",
+   "outcome": "Chargers"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T20:45:32.934005+00:00"
+ "last_updated": "2026-10-11T20:50:30.635735+00:00"
 }
