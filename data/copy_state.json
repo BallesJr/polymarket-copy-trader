@@ -37443,24 +37443,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "12582823906774896381090488322800781408146066377808087860749006323300806220924",
-   "condition_id": "0x892847e2eb07728f98ae110f3eb100bd48aa4e2829137c28accd21542c118fcb",
-   "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
-   "outcome": "Brandon Nakashima",
-   "slug": "atp-bublik-nakashi-2026-10-11",
-   "opened_at": "2026-10-11T04:05:23.037823+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 1073.57,
-   "copy_delay_min": 0.4,
-   "best_ask": 0.55,
-   "ask_depth": 34107.9,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "4886692327527480798273564049605718116882679086817034374906532921103159641930",
    "condition_id": "0xdd2979814b03d227c203fa7d4b7da232573d92451228df7112a4b60416dbf05a",
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
@@ -49548,6 +49530,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "12582823906774896381090488322800781408146066377808087860749006323300806220924",
+   "condition_id": "0x892847e2eb07728f98ae110f3eb100bd48aa4e2829137c28accd21542c118fcb",
+   "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
+   "outcome": "Brandon Nakashima",
+   "slug": "atp-bublik-nakashi-2026-10-11",
+   "opened_at": "2026-10-11T04:05:23.037823+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 1073.57,
+   "copy_delay_min": 0.4,
+   "best_ask": 0.55,
+   "ask_depth": 34107.9,
+   "status": "lost",
+   "closed_at": "2026-10-11T13:20:31.917011+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61511,6 +61515,6 @@
    "outcome": "Spirit"
   }
  ],
- "total_pnl": -240.45739999999887,
- "last_updated": "2026-10-11T13:00:55.871202+00:00"
+ "total_pnl": -340.45739999999887,
+ "last_updated": "2026-10-11T13:20:31.918854+00:00"
 }
