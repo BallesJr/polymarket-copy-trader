@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9245.057309900001,
+ "bankroll": 9629.672709900002,
  "last_seen": {
   "jtwyslljy": 1791659506,
   "0x53757615de": 1791647418
@@ -37165,24 +37165,6 @@
    "best_ask": 0.55,
    "ask_depth": 68060.38,
    "status": "open"
-  },
-  {
-   "leader": "0x53757615de",
-   "asset": "99718882549121666285004114852268280714470012339375348609264113328237773400914",
-   "condition_id": "0x1cdcfc0dd238a1a21f187f8d5bd810abd111e2fec97adc52ffd8624d0d580550",
-   "title": "Texas vs. Oklahoma",
-   "outcome": "Oklahoma",
-   "slug": "cfb-tx-okl-2026-10-10",
-   "opened_at": "2026-10-10T15:50:32.628184+00:00",
-   "entry_price": 0.26,
-   "shares": 384.6154,
-   "stake": 100.0,
-   "leader_vwap": 0.254,
-   "leader_cost": 6162.27,
-   "copy_delay_min": 3.5,
-   "best_ask": 0.26,
-   "ask_depth": 162185.14,
-   "status": "open"
   }
  ],
  "closed": [
@@ -49100,6 +49082,28 @@
    "closed_at": "2026-10-10T20:05:27.064731+00:00",
    "exit_price": 1.0,
    "pnl": 33.3333,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "99718882549121666285004114852268280714470012339375348609264113328237773400914",
+   "condition_id": "0x1cdcfc0dd238a1a21f187f8d5bd810abd111e2fec97adc52ffd8624d0d580550",
+   "title": "Texas vs. Oklahoma",
+   "outcome": "Oklahoma",
+   "slug": "cfb-tx-okl-2026-10-10",
+   "opened_at": "2026-10-10T15:50:32.628184+00:00",
+   "entry_price": 0.26,
+   "shares": 384.6154,
+   "stake": 100.0,
+   "leader_vwap": 0.254,
+   "leader_cost": 6162.27,
+   "copy_delay_min": 3.5,
+   "best_ask": 0.26,
+   "ask_depth": 162185.14,
+   "status": "won",
+   "closed_at": "2026-10-11T00:05:26.512565+00:00",
+   "exit_price": 1.0,
+   "pnl": 284.6154,
    "close_reason": "resolved"
   }
  ],
@@ -61038,6 +61042,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -554.9428999999989,
- "last_updated": "2026-10-10T20:05:27.067077+00:00"
+ "total_pnl": -270.32749999999885,
+ "last_updated": "2026-10-11T00:05:26.514537+00:00"
 }
