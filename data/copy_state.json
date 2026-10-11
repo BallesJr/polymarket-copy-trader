@@ -37147,26 +37147,7 @@
    "last_trade_ts": 1791659506
   }
  },
- "positions": [
-  {
-   "leader": "0x53757615de",
-   "asset": "17844913919156925846573907872622878643047106739872011452123944070114978578659",
-   "condition_id": "0xce1e98e4a3a85b8e031de5afa80af228c34346f7f23d0136ddde34422d174a33",
-   "title": "Georgia vs. Alabama",
-   "outcome": "Alabama",
-   "slug": "cfb-ga-ala-2026-10-10",
-   "opened_at": "2026-10-10T14:55:25.881801+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 22190.3,
-   "copy_delay_min": 3.3,
-   "best_ask": 0.55,
-   "ask_depth": 68060.38,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -49105,6 +49086,28 @@
    "exit_price": 1.0,
    "pnl": 284.6154,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "0x53757615de",
+   "asset": "17844913919156925846573907872622878643047106739872011452123944070114978578659",
+   "condition_id": "0xce1e98e4a3a85b8e031de5afa80af228c34346f7f23d0136ddde34422d174a33",
+   "title": "Georgia vs. Alabama",
+   "outcome": "Alabama",
+   "slug": "cfb-ga-ala-2026-10-10",
+   "opened_at": "2026-10-10T14:55:25.881801+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 22190.3,
+   "copy_delay_min": 3.3,
+   "best_ask": 0.55,
+   "ask_depth": 68060.38,
+   "status": "lost",
+   "closed_at": "2026-10-11T03:40:33.675529+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61042,6 +61045,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -270.32749999999885,
- "last_updated": "2026-10-11T00:05:26.514537+00:00"
+ "total_pnl": -370.32749999999885,
+ "last_updated": "2026-10-11T03:40:33.677386+00:00"
 }
