@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9229.672709900002,
+ "bankroll": 9129.672709900002,
  "last_seen": {
-  "jtwyslljy": 1791691496,
+  "jtwyslljy": 1791692003,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23210,6 +23210,13 @@
    "BUY",
    1988.09,
    1791691496
+  ],
+  [
+   "0x163cf8bf422551721da62736cc004998cda540829a74f2a72777a3123db5076a",
+   "77902799905717129182290777674706250105220452193308937881845143950491614720048",
+   "BUY",
+   2100,
+   1791692003
   ]
  ],
  "leader_pos": {
@@ -37228,6 +37235,18 @@
    "cost": 1073.5686,
    "max_shares": 1988.09,
    "last_trade_ts": 1791691496
+  },
+  "jtwyslljy|77902799905717129182290777674706250105220452193308937881845143950491614720048": {
+   "leader": "jtwyslljy",
+   "asset": "77902799905717129182290777674706250105220452193308937881845143950491614720048",
+   "condition_id": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-sakamot-2026-10-11",
+   "shares": 2100.0,
+   "cost": 1470.0,
+   "max_shares": 2100.0,
+   "last_trade_ts": 1791692003
   }
  },
  "positions": [
@@ -37301,6 +37320,24 @@
    "copy_delay_min": 0.4,
    "best_ask": 0.55,
    "ask_depth": 34107.9,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77902799905717129182290777674706250105220452193308937881845143950491614720048",
+   "condition_id": "0x3e00f01328c99afa810454cb971a795805493afe4a461730e554c91741a610b3",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Rei Sakamoto",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-minaur-sakamot-2026-10-11",
+   "opened_at": "2026-10-11T04:15:33.180015+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.7,
+   "leader_cost": 1470.0,
+   "copy_delay_min": 2.1,
+   "best_ask": 0.7,
+   "ask_depth": 29466.25,
    "status": "open"
   }
  ],
@@ -61202,5 +61239,5 @@
   }
  ],
  "total_pnl": -370.32749999999885,
- "last_updated": "2026-10-11T04:05:23.343175+00:00"
+ "last_updated": "2026-10-11T04:15:33.639803+00:00"
 }
