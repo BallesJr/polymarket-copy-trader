@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791750474,
+  "jtwyslljy": 1791751191,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23497,6 +23497,13 @@
    "SELL",
    500,
    1791750474
+  ],
+  [
+   "0x779a45715745bf86d2b3f4b46e42569720b8a30f395131078c6cde79f6767d45",
+   "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "BUY",
+   6000,
+   1791751191
   ]
  ],
  "leader_pos": {
@@ -37683,6 +37690,18 @@
    "cost": 3036.823120035796,
    "max_shares": 8182.46,
    "last_trade_ts": 1791750474
+  },
+  "jtwyslljy|51102114999633637413430928699806154673949360522651523449492458853304910453987": {
+   "leader": "jtwyslljy",
+   "asset": "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "condition_id": "0x95532ccb25b8f75736a52837bc964b4326f4e27b45eef12d52521890207bbc78",
+   "title": "Broncos vs. Chargers",
+   "outcome": "Chargers",
+   "slug": "nfl-den-lac-2026-10-11",
+   "shares": 6000.0,
+   "cost": 1739.9999999999998,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791751191
   }
  },
  "positions": [],
@@ -61959,8 +61978,24 @@
    "leader": "jtwyslljy",
    "title": "Giants vs. Commanders",
    "outcome": "Commanders"
+  },
+  {
+   "at": "2026-10-11T20:45:32.933283+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T20:05:00+00:00",
+   "condition_id": "0x95532ccb25b8f75736a52837bc964b4326f4e27b45eef12d52521890207bbc78",
+   "asset": "51102114999633637413430928699806154673949360522651523449492458853304910453987",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Broncos vs. Chargers",
+   "outcome": "Chargers"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T20:35:27.783871+00:00"
+ "last_updated": "2026-10-11T20:45:32.934005+00:00"
 }
