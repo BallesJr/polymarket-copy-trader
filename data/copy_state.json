@@ -37612,26 +37612,7 @@
    "last_trade_ts": 1791739189
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "47122283373499771382161294752814766398582213460485262242247405694878043003442",
-   "condition_id": "0x3943945fd82044fca981b3e7312489aeedfbca1235cdb3f1d4144fbb2a29843a",
-   "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
-   "outcome": "MOUZ",
-   "slug": "cs2-vit-mouz-2026-10-11",
-   "opened_at": "2026-10-11T13:55:23.714626+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 2450.0,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.35,
-   "ask_depth": 115903.49,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -49746,6 +49727,28 @@
    "exit_price": 0.5,
    "pnl": -0.1512,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "47122283373499771382161294752814766398582213460485262242247405694878043003442",
+   "condition_id": "0x3943945fd82044fca981b3e7312489aeedfbca1235cdb3f1d4144fbb2a29843a",
+   "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
+   "outcome": "MOUZ",
+   "slug": "cs2-vit-mouz-2026-10-11",
+   "opened_at": "2026-10-11T13:55:23.714626+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 2450.0,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.35,
+   "ask_depth": 115903.49,
+   "status": "lost",
+   "closed_at": "2026-10-11T18:55:27.883444+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61805,6 +61808,6 @@
    "outcome": "Team Spirit"
   }
  ],
- "total_pnl": -340.6085999999989,
- "last_updated": "2026-10-11T18:15:33.166209+00:00"
+ "total_pnl": -440.6085999999989,
+ "last_updated": "2026-10-11T18:55:27.885278+00:00"
 }
