@@ -3,7 +3,7 @@
  "bankroll": 9559.542809900002,
  "last_seen": {
   "jtwyslljy": 1791713558,
-  "0x53757615de": 1791647418
+  "0x53757615de": 1791717351
  },
  "seen_keys": [
   [
@@ -23308,6 +23308,13 @@
    "BUY",
    5000,
    1791713558
+  ],
+  [
+   "0x2f911fe36c572df86a47f1343667197a20f97d65e6b3485b2d097a9a8a7ae696",
+   "30185569399735937087320746507435616391440495484834791321922397093447105422689",
+   "BUY",
+   7156,
+   1791717351
   ]
  ],
  "leader_pos": {
@@ -37386,6 +37393,18 @@
    "cost": 450.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791713558
+  },
+  "0x53757615de|30185569399735937087320746507435616391440495484834791321922397093447105422689": {
+   "leader": "0x53757615de",
+   "asset": "30185569399735937087320746507435616391440495484834791321922397093447105422689",
+   "condition_id": "0x12b1b9f80d73c59de89add5800747e33a0a9ccc2b25fdc4c4c97eb75417b0da9",
+   "title": "Joshua Palmer: Receptions O/U 1.5",
+   "outcome": "Over",
+   "slug": "nfl-buf-la-2026-10-13-player-props",
+   "shares": 7156.0,
+   "cost": 894.6390002907999,
+   "max_shares": 7156.0,
+   "last_trade_ts": 1791717351
   }
  },
  "positions": [
@@ -61431,8 +61450,18 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: MOUZ vs Spirit (BO3) - ESL Pro League Playoffs",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-10-11T11:25:26.493900+00:00",
+   "reason": "thin_book",
+   "ask": 0.097,
+   "fillable_usd": 41.14,
+   "leader_vwap": 0.125,
+   "leader": "0x53757615de",
+   "title": "Joshua Palmer: Receptions O/U 1.5",
+   "outcome": "Over"
   }
  ],
  "total_pnl": -240.45739999999887,
- "last_updated": "2026-10-11T10:35:25.110570+00:00"
+ "last_updated": "2026-10-11T11:25:26.839918+00:00"
 }
