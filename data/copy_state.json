@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791731181,
+  "jtwyslljy": 1791737290,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23378,6 +23378,20 @@
    "BUY",
    5000,
    1791731181
+  ],
+  [
+   "0xb7d23e7a3ab063ec2672c1db848730060d1148e7aea316e7a8c7b404bcb6c5fe",
+   "47122283373499771382161294752814766398582213460485262242247405694878043003442",
+   "BUY",
+   4000,
+   1791737253
+  ],
+  [
+   "0xa6d972c14af855b6fd0e4afd16f0a85d22de40b8291b0ef82ec765db775429c6",
+   "98223920023499004969938803262528623903809824787277072109646809422948432299286",
+   "BUY",
+   5000,
+   1791737290
   ]
  ],
  "leader_pos": {
@@ -37488,10 +37502,10 @@
    "title": "Counter-Strike: Vitality vs MOUZ (BO5) - ESL Pro League Playoffs",
    "outcome": "MOUZ",
    "slug": "cs2-vit-mouz-2026-10-11",
-   "shares": 7000.0,
-   "cost": 2450.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1791726747
+   "shares": 11000.0,
+   "cost": 2770.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1791737253
   },
   "jtwyslljy|18309152973695655292991197090429245968983264264666695228935485263271200435551": {
    "leader": "jtwyslljy",
@@ -37504,6 +37518,18 @@
    "cost": 4570.0,
    "max_shares": 9000.0,
    "last_trade_ts": 1791731181
+  },
+  "jtwyslljy|98223920023499004969938803262528623903809824787277072109646809422948432299286": {
+   "leader": "jtwyslljy",
+   "asset": "98223920023499004969938803262528623903809824787277072109646809422948432299286",
+   "condition_id": "0xbd3588158a19dae6fde59310fafc95f0213b7d165dff9143092936bac559afa7",
+   "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+   "outcome": "Team Spirit",
+   "slug": "dota2-ty-ts8-2026-10-11",
+   "shares": 5000.0,
+   "cost": 1786.5055,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791737290
   }
  },
  "positions": [
@@ -61633,8 +61659,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
    "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-11T16:50:32.224514+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T14:00:00+00:00",
+   "condition_id": "0xbd3588158a19dae6fde59310fafc95f0213b7d165dff9143092936bac559afa7",
+   "asset": "98223920023499004969938803262528623903809824787277072109646809422948432299286",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.37,
+   "cf_shares": 270.2703,
+   "cf_cost": 100.0,
+   "cf_entry": 0.37,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+   "outcome": "Team Spirit"
   }
  ],
  "total_pnl": -340.6085999999989,
- "last_updated": "2026-10-11T15:10:30.495446+00:00"
+ "last_updated": "2026-10-11T16:50:32.367137+00:00"
 }
