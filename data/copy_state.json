@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791746580,
+  "jtwyslljy": 1791749284,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23455,6 +23455,20 @@
    "BUY",
    3300,
    1791746580
+  ],
+  [
+   "0x368ad5a94e061e6d831c6a96b61f88dac3457c9a56270c9d58943a45b6a54e1f",
+   "89512258561410869079017401781113602726305858108738797546986255416435929706702",
+   "SELL",
+   3300,
+   1791749269
+  ],
+  [
+   "0x8b66abf92465ffd90111dd1dcc26ad33d4b4f66738ce60163817c9c2e1f87825",
+   "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "BUY",
+   5182.46,
+   1791749284
   ]
  ],
  "leader_pos": {
@@ -37625,10 +37639,22 @@
    "title": "Colts vs. Steelers",
    "outcome": "Steelers",
    "slug": "nfl-ind-pit-2026-10-11",
-   "shares": 3300.0,
-   "cost": 2079.0,
+   "shares": 0.0,
+   "cost": -1217.6999999999998,
    "max_shares": 3300.0,
-   "last_trade_ts": 1791746580
+   "last_trade_ts": 1791749269
+  },
+  "jtwyslljy|114198524838144073073226441959533576879360039764482632285706050596068973760368": {
+   "leader": "jtwyslljy",
+   "asset": "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "condition_id": "0x9439c48ded4ed27d043d8f6d027292a2260d7629f538a1caa8267d4f5c43f691",
+   "title": "Giants vs. Commanders",
+   "outcome": "Commanders",
+   "slug": "nfl-nyg-was-2026-10-11",
+   "shares": 5182.46,
+   "cost": 3271.734120035796,
+   "max_shares": 5182.46,
+   "last_trade_ts": 1791749284
   }
  },
  "positions": [],
@@ -61841,8 +61867,24 @@
    "leader": "jtwyslljy",
    "title": "Colts vs. Steelers",
    "outcome": "Steelers"
+  },
+  {
+   "at": "2026-10-11T20:10:30.632445+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T17:00:00+00:00",
+   "condition_id": "0x9439c48ded4ed27d043d8f6d027292a2260d7629f538a1caa8267d4f5c43f691",
+   "asset": "114198524838144073073226441959533576879360039764482632285706050596068973760368",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.788,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Giants vs. Commanders",
+   "outcome": "Commanders"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T19:35:28.646099+00:00"
+ "last_updated": "2026-10-11T20:10:30.633124+00:00"
 }
