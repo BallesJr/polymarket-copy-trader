@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791742332,
+  "jtwyslljy": 1791746580,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23448,6 +23448,13 @@
    "BUY",
    10000,
    1791742332
+  ],
+  [
+   "0x8fe589f781690de3848dc7f2c057632f16f30b815a0e463c3c16490cb8dcaabf",
+   "89512258561410869079017401781113602726305858108738797546986255416435929706702",
+   "BUY",
+   3300,
+   1791746580
   ]
  ],
  "leader_pos": {
@@ -37610,6 +37617,18 @@
    "cost": 13214.173400341773,
    "max_shares": 38999.64,
    "last_trade_ts": 1791739189
+  },
+  "jtwyslljy|89512258561410869079017401781113602726305858108738797546986255416435929706702": {
+   "leader": "jtwyslljy",
+   "asset": "89512258561410869079017401781113602726305858108738797546986255416435929706702",
+   "condition_id": "0xf7c106f4716d0572c0f38ba02defb9417d6b56be478f668e891d3f0272f507e8",
+   "title": "Colts vs. Steelers",
+   "outcome": "Steelers",
+   "slug": "nfl-ind-pit-2026-10-11",
+   "shares": 3300.0,
+   "cost": 2079.0,
+   "max_shares": 3300.0,
+   "last_trade_ts": 1791746580
   }
  },
  "positions": [],
@@ -61806,8 +61825,24 @@
    "leader": "jtwyslljy",
    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
    "outcome": "Team Spirit"
+  },
+  {
+   "at": "2026-10-11T19:35:28.645359+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T17:00:00+00:00",
+   "condition_id": "0xf7c106f4716d0572c0f38ba02defb9417d6b56be478f668e891d3f0272f507e8",
+   "asset": "89512258561410869079017401781113602726305858108738797546986255416435929706702",
+   "copy_delay_min": 12.5,
+   "cf_ask": 0.78,
+   "cf_shares": 128.2051,
+   "cf_cost": 100.0,
+   "cf_entry": 0.78,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Colts vs. Steelers",
+   "outcome": "Steelers"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T18:55:27.885278+00:00"
+ "last_updated": "2026-10-11T19:35:28.646099+00:00"
 }
