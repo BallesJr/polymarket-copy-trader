@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9259.542809900002,
+ "bankroll": 9059.542809900002,
  "last_seen": {
-  "jtwyslljy": 1791697376,
+  "jtwyslljy": 1791699429,
   "0x53757615de": 1791647418
  },
  "seen_keys": [
@@ -23224,6 +23224,48 @@
    "BUY",
    16000,
    1791697376
+  ],
+  [
+   "0xa03d386e5748c1f3f59cc5ac536b1b7ecb4cb776866d498638adde1239952c61",
+   "61813604196005368080707328318291814264983329128874839586905411126554840178205",
+   "BUY",
+   4600,
+   1791699279
+  ],
+  [
+   "0xa8015223cf8a6970fbda5bd35c3fda39991c360f8b05ffa8ae1089be8a651342",
+   "12582823906774896381090488322800781408146066377808087860749006323300806220924",
+   "BUY",
+   4500,
+   1791699288
+  ],
+  [
+   "0x3b1fe2886770d1539c115288fb485274eb9bfa57f4c50cf824d79f73ba5ffc30",
+   "4886692327527480798273564049605718116882679086817034374906532921103159641930",
+   "BUY",
+   2000,
+   1791699300
+  ],
+  [
+   "0x519fee1cf5096aba651af1f62566ae4328206ada7e0e1dd26b4ae9ef10197dd5",
+   "97929994598099756144993676484219516147076896393348197089833516511924992061214",
+   "BUY",
+   799.99,
+   1791699395
+  ],
+  [
+   "0xd850e2a1a8e52781fbce12bf7f4c194214a197ee947ef3c04c89c13aaade84c1",
+   "97929994598099756144993676484219516147076896393348197089833516511924992061214",
+   "BUY",
+   73,
+   1791699408
+  ],
+  [
+   "0x9ece9215eb532315f23f82e828c304f54295937c72d7d3889a701b6714d0742c",
+   "50795745173027771647123610462765802298546574272260051688188881643153795447341",
+   "SELL",
+   12,
+   1791699429
   ]
  ],
  "leader_pos": {
@@ -37202,10 +37244,10 @@
    "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
    "outcome": "Ben Shelton",
    "slug": "atp-shelton-gea-2026-10-11",
-   "shares": 2926.9,
-   "cost": 2136.637,
-   "max_shares": 2926.9,
-   "last_trade_ts": 1791690675
+   "shares": 3799.8900000000003,
+   "cost": 2285.0453,
+   "max_shares": 3799.8900000000003,
+   "last_trade_ts": 1791699408
   },
   "jtwyslljy|82474351814322232584359784755658954380673347511893450826619038033147637195187": {
    "leader": "jtwyslljy",
@@ -37226,10 +37268,10 @@
    "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
    "outcome": "Arthur Gea",
    "slug": "atp-shelton-gea-2026-10-11",
-   "shares": 5627.1,
-   "cost": 1519.317,
+   "shares": 5615.1,
+   "cost": 1509.117,
    "max_shares": 5627.1,
-   "last_trade_ts": 1791690786
+   "last_trade_ts": 1791699429
   },
   "jtwyslljy|12582823906774896381090488322800781408146066377808087860749006323300806220924": {
    "leader": "jtwyslljy",
@@ -37238,10 +37280,10 @@
    "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
    "outcome": "Brandon Nakashima",
    "slug": "atp-bublik-nakashi-2026-10-11",
-   "shares": 17988.09,
-   "cost": 9553.5686,
-   "max_shares": 17988.09,
-   "last_trade_ts": 1791697376
+   "shares": 22488.09,
+   "cost": 11938.5686,
+   "max_shares": 22488.09,
+   "last_trade_ts": 1791699288
   },
   "jtwyslljy|77902799905717129182290777674706250105220452193308937881845143950491614720048": {
    "leader": "jtwyslljy",
@@ -37254,6 +37296,30 @@
    "cost": 1470.0,
    "max_shares": 2100.0,
    "last_trade_ts": 1791692003
+  },
+  "jtwyslljy|61813604196005368080707328318291814264983329128874839586905411126554840178205": {
+   "leader": "jtwyslljy",
+   "asset": "61813604196005368080707328318291814264983329128874839586905411126554840178205",
+   "condition_id": "0x1e5b376b81b349e454e32717a7edb35928c98ba361e1668a4c1a9d4c746747a6",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-cerundo-mensik-2026-10-09",
+   "shares": 4600.0,
+   "cost": 1932.0,
+   "max_shares": 4600.0,
+   "last_trade_ts": 1791699279
+  },
+  "jtwyslljy|4886692327527480798273564049605718116882679086817034374906532921103159641930": {
+   "leader": "jtwyslljy",
+   "asset": "4886692327527480798273564049605718116882679086817034374906532921103159641930",
+   "condition_id": "0xdd2979814b03d227c203fa7d4b7da232573d92451228df7112a4b60416dbf05a",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-fokina-tiafoe-2026-10-11",
+   "shares": 2000.0,
+   "cost": 1000.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1791699300
   }
  },
  "positions": [
@@ -37327,6 +37393,42 @@
    "copy_delay_min": 2.1,
    "best_ask": 0.7,
    "ask_depth": 29466.25,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "61813604196005368080707328318291814264983329128874839586905411126554840178205",
+   "condition_id": "0x1e5b376b81b349e454e32717a7edb35928c98ba361e1668a4c1a9d4c746747a6",
+   "title": "Shanghai Rolex Masters: Francisco Cerundolo vs Jakub Mensik",
+   "outcome": "Francisco Cerundolo",
+   "slug": "atp-cerundo-mensik-2026-10-09",
+   "opened_at": "2026-10-11T06:20:30.723051+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 1932.0,
+   "copy_delay_min": 5.8,
+   "best_ask": 0.42,
+   "ask_depth": 34937.53,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "4886692327527480798273564049605718116882679086817034374906532921103159641930",
+   "condition_id": "0xdd2979814b03d227c203fa7d4b7da232573d92451228df7112a4b60416dbf05a",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-fokina-tiafoe-2026-10-11",
+   "opened_at": "2026-10-11T06:20:30.855290+00:00",
+   "entry_price": 0.5008,
+   "shares": 199.6976,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.5,
+   "ask_depth": 184.58,
    "status": "open"
   }
  ],
@@ -61250,5 +61352,5 @@
   }
  ],
  "total_pnl": -340.45739999999887,
- "last_updated": "2026-10-11T06:10:32.545665+00:00"
+ "last_updated": "2026-10-11T06:20:31.124438+00:00"
 }
