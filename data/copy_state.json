@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9059.542809900002,
+ "bankroll": 9416.685709900003,
  "last_seen": {
   "jtwyslljy": 1791701435,
   "0x53757615de": 1791647418
@@ -37339,42 +37339,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "50795745173027771647123610462765802298546574272260051688188881643153795447341",
-   "condition_id": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
-   "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
-   "outcome": "Arthur Gea",
-   "slug": "atp-shelton-gea-2026-10-11",
-   "opened_at": "2026-10-11T03:55:24.950001+00:00",
-   "entry_price": 0.28,
-   "shares": 357.1429,
-   "stake": 100.0,
-   "leader_vwap": 0.27,
-   "leader_cost": 1519.32,
-   "copy_delay_min": 2.3,
-   "best_ask": 0.28,
-   "ask_depth": 18425.22,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "97929994598099756144993676484219516147076896393348197089833516511924992061214",
-   "condition_id": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
-   "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
-   "outcome": "Ben Shelton",
-   "slug": "atp-shelton-gea-2026-10-11",
-   "opened_at": "2026-10-11T03:55:25.137845+00:00",
-   "entry_price": 0.73,
-   "shares": 136.9863,
-   "stake": 100.0,
-   "leader_vwap": 0.73,
-   "leader_cost": 2136.64,
-   "copy_delay_min": 4.2,
-   "best_ask": 0.73,
-   "ask_depth": 3190.32,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "12582823906774896381090488322800781408146066377808087860749006323300806220924",
    "condition_id": "0x892847e2eb07728f98ae110f3eb100bd48aa4e2829137c28accd21542c118fcb",
    "title": "Shanghai Rolex Masters: Alexander Bublik vs Brandon Nakashima",
@@ -49428,6 +49392,50 @@
    "exit_price": 1.0,
    "pnl": 29.8701,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "50795745173027771647123610462765802298546574272260051688188881643153795447341",
+   "condition_id": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
+   "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
+   "outcome": "Arthur Gea",
+   "slug": "atp-shelton-gea-2026-10-11",
+   "opened_at": "2026-10-11T03:55:24.950001+00:00",
+   "entry_price": 0.28,
+   "shares": 357.1429,
+   "stake": 100.0,
+   "leader_vwap": 0.27,
+   "leader_cost": 1519.32,
+   "copy_delay_min": 2.3,
+   "best_ask": 0.28,
+   "ask_depth": 18425.22,
+   "status": "won",
+   "closed_at": "2026-10-11T07:15:32.399720+00:00",
+   "exit_price": 1.0,
+   "pnl": 257.1429,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "97929994598099756144993676484219516147076896393348197089833516511924992061214",
+   "condition_id": "0x8370502da1f776c9fc617d28d39ec77e788f08262feb756b7524746a88234750",
+   "title": "Shanghai Rolex Masters: Ben Shelton vs Arthur Gea",
+   "outcome": "Ben Shelton",
+   "slug": "atp-shelton-gea-2026-10-11",
+   "opened_at": "2026-10-11T03:55:25.137845+00:00",
+   "entry_price": 0.73,
+   "shares": 136.9863,
+   "stake": 100.0,
+   "leader_vwap": 0.73,
+   "leader_cost": 2136.64,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.73,
+   "ask_depth": 3190.32,
+   "status": "lost",
+   "closed_at": "2026-10-11T07:15:32.657920+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -61365,6 +61373,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -340.45739999999887,
- "last_updated": "2026-10-11T06:55:26.343742+00:00"
+ "total_pnl": -183.31449999999887,
+ "last_updated": "2026-10-11T07:15:32.659787+00:00"
 }
