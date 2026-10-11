@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791739189,
+  "jtwyslljy": 1791742332,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23441,6 +23441,13 @@
    "BUY",
    16,
    1791739189
+  ],
+  [
+   "0x26cd7146c8a8ae7281339e723410f21a64c017d7dae96a770d5c777b075a964b",
+   "98223920023499004969938803262528623903809824787277072109646809422948432299286",
+   "BUY",
+   10000,
+   1791742332
   ]
  ],
  "leader_pos": {
@@ -37575,10 +37582,10 @@
    "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
    "outcome": "Team Spirit",
    "slug": "dota2-ty-ts8-2026-10-11",
-   "shares": 5000.0,
-   "cost": 1786.5055,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1791737290
+   "shares": 15000.0,
+   "cost": 3586.5055,
+   "max_shares": 15000.0,
+   "last_trade_ts": 1791742332
   },
   "jtwyslljy|79216258135316305711557803023672391620131317040612549629193559999300974564217": {
    "leader": "jtwyslljy",
@@ -61780,8 +61787,24 @@
    "leader": "jtwyslljy",
    "title": "Bears vs. Packers",
    "outcome": "Bears"
+  },
+  {
+   "at": "2026-10-11T18:15:32.965147+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-11T14:00:00+00:00",
+   "condition_id": "0xbd3588158a19dae6fde59310fafc95f0213b7d165dff9143092936bac559afa7",
+   "asset": "98223920023499004969938803262528623903809824787277072109646809422948432299286",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.2,
+   "cf_shares": 500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Dota 2: Team Yandex vs Team Spirit (BO5) - BLAST Slam Playoffs",
+   "outcome": "Team Spirit"
   }
  ],
  "total_pnl": -340.6085999999989,
- "last_updated": "2026-10-11T17:25:25.243184+00:00"
+ "last_updated": "2026-10-11T18:15:33.166209+00:00"
 }
