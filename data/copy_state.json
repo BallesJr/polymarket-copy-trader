@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9002.2487099,
  "last_seen": {
-  "jtwyslljy": 1791792874,
+  "jtwyslljy": 1791794076,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23693,6 +23693,13 @@
    "SELL",
    2000,
    1791792874
+  ],
+  [
+   "0x76821991aa6edd81fd0e53f0b0400df854bf88949694cfd44876c0b8d400f9bb",
+   "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "SELL",
+   1000,
+   1791794076
   ]
  ],
  "leader_pos": {
@@ -37959,10 +37966,10 @@
    "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
    "outcome": "Stefanos Tsitsipas",
    "slug": "atp-tsitsip-fritz-2026-10-11",
-   "shares": 7999.64,
-   "cost": 2559.8523999999998,
+   "shares": 6999.64,
+   "cost": 1609.8523999999998,
    "max_shares": 7999.64,
-   "last_trade_ts": 1791789817
+   "last_trade_ts": 1791794076
   },
   "jtwyslljy|87312567523269754553909106447187874918169427264486136458618735521180128590231": {
    "leader": "jtwyslljy",
@@ -38072,24 +38079,6 @@
    "copy_delay_min": 3.4,
    "best_ask": 0.41,
    "ask_depth": 4450.46,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "70321939657726806579702660111950928275844056834975950594730859066309402076167",
-   "condition_id": "0xa135989bf9658ab16c96c40fc2294657093e399a8d2a00bb03f1cc8c5a971dd4",
-   "title": "Wuhan Tennis Open: Jasmine Paolini vs Sara Bejlek",
-   "outcome": "Sara Bejlek",
-   "slug": "wta-paolini-bejlek-2026-10-11",
-   "opened_at": "2026-10-12T04:45:32.525485+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.54,
-   "leader_cost": 2700.0,
-   "copy_delay_min": 10.5,
-   "best_ask": 0.54,
-   "ask_depth": 290.32,
    "status": "open"
   },
   {
@@ -50327,6 +50316,28 @@
    "exit_price": 0.4,
    "pnl": 0.0,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70321939657726806579702660111950928275844056834975950594730859066309402076167",
+   "condition_id": "0xa135989bf9658ab16c96c40fc2294657093e399a8d2a00bb03f1cc8c5a971dd4",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-paolini-bejlek-2026-10-11",
+   "opened_at": "2026-10-12T04:45:32.525485+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 2700.0,
+   "copy_delay_min": 10.5,
+   "best_ask": 0.54,
+   "ask_depth": 290.32,
+   "status": "lost",
+   "closed_at": "2026-10-12T08:40:33.339222+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -62610,6 +62621,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": -397.7514999999989,
- "last_updated": "2026-10-12T08:15:37.460717+00:00"
+ "total_pnl": -497.7514999999989,
+ "last_updated": "2026-10-12T08:40:33.341419+00:00"
 }
