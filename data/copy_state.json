@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8902.2487099,
+ "bankroll": 9002.2487099,
  "last_seen": {
-  "jtwyslljy": 1791789817,
+  "jtwyslljy": 1791792874,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23686,6 +23686,13 @@
    "BUY",
    3000,
    1791789817
+  ],
+  [
+   "0xd086450c648f500dfba2dee0d16133eb3f082478e24d7ea330122f84524581d1",
+   "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "SELL",
+   2000,
+   1791792874
   ]
  ],
  "leader_pos": {
@@ -37964,10 +37971,10 @@
    "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
    "outcome": "Rafael Jodar",
    "slug": "atp-lehecka-jodar-2026-10-11",
-   "shares": 3785.21,
-   "cost": 1564.084,
+   "shares": 1785.21,
+   "cost": 744.0840000000001,
    "max_shares": 5000.0,
-   "last_trade_ts": 1791778863
+   "last_trade_ts": 1791792874
   },
   "jtwyslljy|70321939657726806579702660111950928275844056834975950594730859066309402076167": {
    "leader": "jtwyslljy",
@@ -38065,24 +38072,6 @@
    "copy_delay_min": 3.4,
    "best_ask": 0.41,
    "ask_depth": 4450.46,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "87312567523269754553909106447187874918169427264486136458618735521180128590231",
-   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
-   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-lehecka-jodar-2026-10-11",
-   "opened_at": "2026-10-12T04:30:46.255621+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4132,
-   "leader_cost": 1564.08,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.4,
-   "ask_depth": 19202.66,
    "status": "open"
   },
   {
@@ -50316,6 +50305,28 @@
    "exit_price": 1.0,
    "pnl": 42.8571,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-lehecka-jodar-2026-10-11",
+   "opened_at": "2026-10-12T04:30:46.255621+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4132,
+   "leader_cost": 1564.08,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.4,
+   "ask_depth": 19202.66,
+   "status": "closed",
+   "closed_at": "2026-10-12T08:15:36.958109+00:00",
+   "exit_price": 0.4,
+   "pnl": 0.0,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -62600,5 +62611,5 @@
   }
  ],
  "total_pnl": -397.7514999999989,
- "last_updated": "2026-10-12T07:30:47.136920+00:00"
+ "last_updated": "2026-10-12T08:15:37.460717+00:00"
 }
