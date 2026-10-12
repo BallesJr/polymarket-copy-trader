@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9002.2487099,
+ "bankroll": 8902.2487099,
  "last_seen": {
-  "jtwyslljy": 1791787897,
+  "jtwyslljy": 1791789466,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23665,6 +23665,20 @@
    "BUY",
    10000,
    1791787897
+  ],
+  [
+   "0xc7f746837389b24793d648d3bf7a75784b3a927eb59717ced06f987a7abfbc20",
+   "70321939657726806579702660111950928275844056834975950594730859066309402076167",
+   "BUY",
+   1000,
+   1791789443
+  ],
+  [
+   "0xbd7cd33fd37f12483b6a1f575c7d1d916665796fc7c302e492dae54d31e77aee",
+   "38030954867719005978843789397039111623593544087707561988265231479828585422530",
+   "BUY",
+   10000,
+   1791789466
   ]
  ],
  "leader_pos": {
@@ -37955,10 +37969,10 @@
    "title": "Wuhan Tennis Open: Jasmine Paolini vs Sara Bejlek",
    "outcome": "Sara Bejlek",
    "slug": "wta-paolini-bejlek-2026-10-11",
-   "shares": 5000.0,
-   "cost": 2700.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1791779700
+   "shares": 6000.0,
+   "cost": 3060.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791789443
   },
   "jtwyslljy|32141312718955413812049656284733005107167991829741734400457318006200779490822": {
    "leader": "jtwyslljy",
@@ -37995,6 +38009,18 @@
    "cost": 4200.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1791787897
+  },
+  "jtwyslljy|38030954867719005978843789397039111623593544087707561988265231479828585422530": {
+   "leader": "jtwyslljy",
+   "asset": "38030954867719005978843789397039111623593544087707561988265231479828585422530",
+   "condition_id": "0x3a59a6549c3eec6ce01b976e591bd4222146a255a7870594f05785fd7ea1f221",
+   "title": "Wuhan Tennis Open: Xiyu Wang vs Xinyu Wang",
+   "outcome": "Xiyu Wang",
+   "slug": "wta-wan-wa-2026-10-11",
+   "shares": 10000.0,
+   "cost": 5300.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791789466
   }
  },
  "positions": [
@@ -38104,6 +38130,24 @@
    "copy_delay_min": 3.8,
    "best_ask": 0.42,
    "ask_depth": 78978.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "38030954867719005978843789397039111623593544087707561988265231479828585422530",
+   "condition_id": "0x3a59a6549c3eec6ce01b976e591bd4222146a255a7870594f05785fd7ea1f221",
+   "title": "Wuhan Tennis Open: Xiyu Wang vs Xinyu Wang",
+   "outcome": "Xiyu Wang",
+   "slug": "wta-wan-wa-2026-10-11",
+   "opened_at": "2026-10-12T07:25:24.714772+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5300.0,
+   "copy_delay_min": 7.6,
+   "best_ask": 0.53,
+   "ask_depth": 13002.47,
    "status": "open"
   }
  ],
@@ -62549,5 +62593,5 @@
   }
  ],
  "total_pnl": -397.7514999999989,
- "last_updated": "2026-10-12T06:55:24.668539+00:00"
+ "last_updated": "2026-10-12T07:25:25.004102+00:00"
 }
