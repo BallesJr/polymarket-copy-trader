@@ -38153,24 +38153,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "22795254201572961597166690704043761427508975203357864956203657748100766808552",
-   "condition_id": "0x5a4435fc7d1e08e40c00384cd4aeb3f0a84931f34855d0dd2a0d922aa6cccf05",
-   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina",
-   "outcome": "Dalibor Svrcina",
-   "slug": "atp-medvede-svrcina-2026-10-11",
-   "opened_at": "2026-10-12T06:55:24.131745+00:00",
-   "entry_price": 0.14,
-   "shares": 714.2857,
-   "stake": 100.0,
-   "leader_vwap": 0.14,
-   "leader_cost": 700.0,
-   "copy_delay_min": 4.9,
-   "best_ask": 0.14,
-   "ask_depth": 10388.73,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "104507009830895863065802408626260000796268220751497339660335281018968114653148",
    "condition_id": "0x252a9423152333efd2af2e025d8f5cdd6036dbc938d8ab08943cdd74c12a53ef",
    "title": "Shanghai Rolex Masters: Tommy Paul vs Valentin Vacherot",
@@ -50451,6 +50433,28 @@
    "closed_at": "2026-10-12T09:25:27.530760+00:00",
    "exit_price": 1.0,
    "pnl": 143.9024,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22795254201572961597166690704043761427508975203357864956203657748100766808552",
+   "condition_id": "0x5a4435fc7d1e08e40c00384cd4aeb3f0a84931f34855d0dd2a0d922aa6cccf05",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina",
+   "outcome": "Dalibor Svrcina",
+   "slug": "atp-medvede-svrcina-2026-10-11",
+   "opened_at": "2026-10-12T06:55:24.131745+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 700.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.14,
+   "ask_depth": 10388.73,
+   "status": "lost",
+   "closed_at": "2026-10-12T11:25:25.188281+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -62815,6 +62819,6 @@
    "outcome": "Caty McNally"
   }
  ],
- "total_pnl": -260.8875999999989,
- "last_updated": "2026-10-12T11:01:00.519975+00:00"
+ "total_pnl": -360.8875999999989,
+ "last_updated": "2026-10-12T11:25:25.190318+00:00"
 }
