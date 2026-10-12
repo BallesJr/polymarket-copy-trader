@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791776594,
+  "jtwyslljy": 1791777423,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23532,6 +23532,27 @@
    "BUY",
    5000,
    1791776594
+  ],
+  [
+   "0x3e770059caa49731c1899d427ba13fb9408edb7c38bf29abfee94b74fc0b53a8",
+   "21974721011049198592522613090480846383811061739034759693025183809739392760256",
+   "BUY",
+   3223.67,
+   1791777329
+  ],
+  [
+   "0x97bb178a4b09123d5e57efd059177f3c2dfce2f784137290dea48b2fc7dce345",
+   "21974721011049198592522613090480846383811061739034759693025183809739392760256",
+   "BUY",
+   6259.73,
+   1791777350
+  ],
+  [
+   "0x578bd7e9caa9f9dc6180a6e9cfe4454c4c8616c3aaf3e7eb023cc4361624e7bb",
+   "21974721011049198592522613090480846383811061739034759693025183809739392760256",
+   "BUY",
+   260,
+   1791777423
   ]
  ],
  "leader_pos": {
@@ -37742,6 +37763,18 @@
    "cost": 6309.3469,
    "max_shares": 13665.63,
    "last_trade_ts": 1791776594
+  },
+  "jtwyslljy|21974721011049198592522613090480846383811061739034759693025183809739392760256": {
+   "leader": "jtwyslljy",
+   "asset": "21974721011049198592522613090480846383811061739034759693025183809739392760256",
+   "condition_id": "0xa900120b6213535a8cf45b2f698ca86d89ed29df4ed68d9a88a9aeaca0d23e64",
+   "title": "Wuhan Tennis Open: Ekaterina Alexandrova vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-alexand-fernand-2026-10-11",
+   "shares": 9743.4,
+   "cost": 5438.8279,
+   "max_shares": 9743.4,
+   "last_trade_ts": 1791777423
   }
  },
  "positions": [],
@@ -62082,8 +62115,24 @@
    "leader": "jtwyslljy",
    "title": "Ravens vs. Falcons",
    "outcome": "Falcons"
+  },
+  {
+   "at": "2026-10-12T04:00:56.304622+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T03:05:00+00:00",
+   "condition_id": "0xa900120b6213535a8cf45b2f698ca86d89ed29df4ed68d9a88a9aeaca0d23e64",
+   "asset": "21974721011049198592522613090480846383811061739034759693025183809739392760256",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.59,
+   "cf_shares": 169.4915,
+   "cf_cost": 100.0,
+   "cf_entry": 0.59,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Ekaterina Alexandrova vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T03:50:28.908024+00:00"
+ "last_updated": "2026-10-12T04:00:56.305413+00:00"
 }
