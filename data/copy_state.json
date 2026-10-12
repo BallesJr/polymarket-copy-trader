@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9627.791809900002,
  "last_seen": {
-  "jtwyslljy": 1791814115,
+  "jtwyslljy": 1791814461,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23819,6 +23819,13 @@
    "SELL",
    5599.84,
    1791814115
+  ],
+  [
+   "0xe474d34579d428cdea10bdd1e37b985a2807f7ceb63c58c99754be3606b29f68",
+   "64528684667956263063183322487989775240713867584590625969578463695771450462912",
+   "BUY",
+   2164.74,
+   1791814461
   ]
  ],
  "leader_pos": {
@@ -38221,6 +38228,18 @@
    "cost": 750.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791806421
+  },
+  "jtwyslljy|64528684667956263063183322487989775240713867584590625969578463695771450462912": {
+   "leader": "jtwyslljy",
+   "asset": "64528684667956263063183322487989775240713867584590625969578463695771450462912",
+   "condition_id": "0x2debe2dbba994ac9493af851c88b9168da0255d5cc653f7fa4fb9edfbccfef20",
+   "title": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "BNK FEARX",
+   "slug": "lol-fox1-jdg-2026-10-12",
+   "shares": 2164.74,
+   "cost": 1580.2601999999997,
+   "max_shares": 2164.74,
+   "last_trade_ts": 1791814461
   }
  },
  "positions": [
@@ -62926,8 +62945,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz",
    "outcome": "Carlos Alcaraz"
+  },
+  {
+   "at": "2026-10-12T14:20:32.298686+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T10:30:00+00:00",
+   "condition_id": "0x2debe2dbba994ac9493af851c88b9168da0255d5cc653f7fa4fb9edfbccfef20",
+   "asset": "64528684667956263063183322487989775240713867584590625969578463695771450462912",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.9,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "BNK FEARX"
   }
  ],
  "total_pnl": -272.2083999999989,
- "last_updated": "2026-10-12T14:15:36.738080+00:00"
+ "last_updated": "2026-10-12T14:20:32.614355+00:00"
 }
