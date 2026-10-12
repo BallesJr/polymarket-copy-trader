@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9259.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791778863,
+  "jtwyslljy": 1791779565,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23623,6 +23623,20 @@
    "SELL",
    1214.79,
    1791778863
+  ],
+  [
+   "0xf9503f9c1186c0bee16a32d1d9e8dca91bd77d545ece53174da3092dacccaa9c",
+   "94791703179809128828558805465342959169665178218954301244415677281098970845525",
+   "SELL",
+   1500,
+   1791779550
+  ],
+  [
+   "0x09c2e6e5ef2179ec1623b9eb20d1f0ee9fd7f76d0836659e50482c9675a371bb",
+   "34405560513051467665153251418348624849220407095375396101195333964052730038440",
+   "SELL",
+   1000,
+   1791779565
   ]
  ],
  "leader_pos": {
@@ -37853,10 +37867,10 @@
    "title": "Shanghai Rolex Masters: Pablo Carreno Busta vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime",
    "slug": "atp-busta-augeral-2026-10-11",
-   "shares": 4000.0,
-   "cost": 3040.0,
+   "shares": 2500.0,
+   "cost": 1990.0,
    "max_shares": 4000.0,
-   "last_trade_ts": 1791777516
+   "last_trade_ts": 1791779550
   },
   "jtwyslljy|34405560513051467665153251418348624849220407095375396101195333964052730038440": {
    "leader": "jtwyslljy",
@@ -37865,10 +37879,10 @@
    "title": "Shanghai Rolex Masters: Learner Tien vs Casper Ruud",
    "outcome": "Learner Tien",
    "slug": "atp-tien-ruud-2026-10-11",
-   "shares": 5000.0,
-   "cost": 2950.0,
+   "shares": 4000.0,
+   "cost": 2390.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1791777602
+   "last_trade_ts": 1791779565
   },
   "jtwyslljy|70328181786359932257922147612882255167526694128596504438766954196096279676427": {
    "leader": "jtwyslljy",
@@ -62348,8 +62362,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Pablo Carreno Busta vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-12T04:40:30.507682+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T04:10:00+00:00",
+   "condition_id": "0xad68991960f7a8045546f2dbab4dfb7cf60d1a50e05df57b3669cfea9d48deb6",
+   "asset": "34405560513051467665153251418348624849220407095375396101195333964052730038440",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Learner Tien vs Casper Ruud",
+   "outcome": "Learner Tien"
+  },
+  {
+   "at": "2026-10-12T04:40:30.730925+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T04:10:00+00:00",
+   "condition_id": "0x99f960f5c9fded743feab60e5f4a5de32aac48f751ce66ce29bc9922d409a431",
+   "asset": "94791703179809128828558805465342959169665178218954301244415677281098970845525",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Pablo Carreno Busta vs Felix Auger-Aliassime",
+   "outcome": "Felix Auger-Aliassime"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T04:30:46.689921+00:00"
+ "last_updated": "2026-10-12T04:40:31.094467+00:00"
 }
