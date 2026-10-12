@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9359.391609900002,
+ "bankroll": 9259.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791778025,
+  "jtwyslljy": 1791778863,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23609,6 +23609,20 @@
    "BUY",
    428,
    1791778025
+  ],
+  [
+   "0xa18806292e9bac9fda3db8ba033a9e5399856776c667191c78642174b4c5f8eb",
+   "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "BUY",
+   5000,
+   1791778836
+  ],
+  [
+   "0x09ebc115e1f18d93e124cf6cb88d5ecc6c2711276f47e8a5dbdf68ee65fc1d43",
+   "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "SELL",
+   1214.79,
+   1791778863
   ]
  ],
  "leader_pos": {
@@ -37879,6 +37893,18 @@
    "cost": 2049.8523999999998,
    "max_shares": 4999.64,
    "last_trade_ts": 1791778025
+  },
+  "jtwyslljy|87312567523269754553909106447187874918169427264486136458618735521180128590231": {
+   "leader": "jtwyslljy",
+   "asset": "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-lehecka-jodar-2026-10-11",
+   "shares": 3785.21,
+   "cost": 1564.084,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791778863
   }
  },
  "positions": [
@@ -37916,6 +37942,24 @@
    "copy_delay_min": 3.4,
    "best_ask": 0.41,
    "ask_depth": 4450.46,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87312567523269754553909106447187874918169427264486136458618735521180128590231",
+   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-lehecka-jodar-2026-10-11",
+   "opened_at": "2026-10-12T04:30:46.255621+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4132,
+   "leader_cost": 1564.08,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.4,
+   "ask_depth": 19202.66,
    "status": "open"
   }
  ],
@@ -62307,5 +62351,5 @@
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T04:10:32.297398+00:00"
+ "last_updated": "2026-10-12T04:30:46.689921+00:00"
 }
