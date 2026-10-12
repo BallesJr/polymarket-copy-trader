@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9202.2487099,
+ "bankroll": 9002.2487099,
  "last_seen": {
-  "jtwyslljy": 1791779846,
+  "jtwyslljy": 1791787897,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23651,6 +23651,20 @@
    "BUY",
    1662.37,
    1791779846
+  ],
+  [
+   "0xfefa7a87c06e99511105153e2fe4d047bb31067a493a33bd5f5da5d1d0df5b6f",
+   "22795254201572961597166690704043761427508975203357864956203657748100766808552",
+   "BUY",
+   5000,
+   1791787832
+  ],
+  [
+   "0x4ffbbedb54464678c9e9ac6a6f607347ceee7327213576536f5a8a005f72dee0",
+   "104507009830895863065802408626260000796268220751497339660335281018968114653148",
+   "BUY",
+   10000,
+   1791787897
   ]
  ],
  "leader_pos": {
@@ -37957,6 +37971,30 @@
    "cost": 1147.0352999999998,
    "max_shares": 1662.37,
    "last_trade_ts": 1791779846
+  },
+  "jtwyslljy|22795254201572961597166690704043761427508975203357864956203657748100766808552": {
+   "leader": "jtwyslljy",
+   "asset": "22795254201572961597166690704043761427508975203357864956203657748100766808552",
+   "condition_id": "0x5a4435fc7d1e08e40c00384cd4aeb3f0a84931f34855d0dd2a0d922aa6cccf05",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina",
+   "outcome": "Dalibor Svrcina",
+   "slug": "atp-medvede-svrcina-2026-10-11",
+   "shares": 5000.0,
+   "cost": 700.0000000000001,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791787832
+  },
+  "jtwyslljy|104507009830895863065802408626260000796268220751497339660335281018968114653148": {
+   "leader": "jtwyslljy",
+   "asset": "104507009830895863065802408626260000796268220751497339660335281018968114653148",
+   "condition_id": "0x252a9423152333efd2af2e025d8f5cdd6036dbc938d8ab08943cdd74c12a53ef",
+   "title": "Shanghai Rolex Masters: Tommy Paul vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-paul-vachero-2026-10-11",
+   "shares": 10000.0,
+   "cost": 4200.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791787897
   }
  },
  "positions": [
@@ -38030,6 +38068,42 @@
    "copy_delay_min": 10.5,
    "best_ask": 0.54,
    "ask_depth": 290.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "22795254201572961597166690704043761427508975203357864956203657748100766808552",
+   "condition_id": "0x5a4435fc7d1e08e40c00384cd4aeb3f0a84931f34855d0dd2a0d922aa6cccf05",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina",
+   "outcome": "Dalibor Svrcina",
+   "slug": "atp-medvede-svrcina-2026-10-11",
+   "opened_at": "2026-10-12T06:55:24.131745+00:00",
+   "entry_price": 0.14,
+   "shares": 714.2857,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 700.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.14,
+   "ask_depth": 10388.73,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104507009830895863065802408626260000796268220751497339660335281018968114653148",
+   "condition_id": "0x252a9423152333efd2af2e025d8f5cdd6036dbc938d8ab08943cdd74c12a53ef",
+   "title": "Shanghai Rolex Masters: Tommy Paul vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-paul-vachero-2026-10-11",
+   "opened_at": "2026-10-12T06:55:24.301385+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 4200.0,
+   "copy_delay_min": 3.8,
+   "best_ask": 0.42,
+   "ask_depth": 78978.68,
    "status": "open"
   }
  ],
@@ -62475,5 +62549,5 @@
   }
  ],
  "total_pnl": -397.7514999999989,
- "last_updated": "2026-10-12T06:30:49.999828+00:00"
+ "last_updated": "2026-10-12T06:55:24.668539+00:00"
 }
