@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9459.391609900002,
+ "bankroll": 9359.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791777746,
+  "jtwyslljy": 1791778025,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23574,6 +23574,41 @@
    "BUY",
    3000,
    1791777746
+  ],
+  [
+   "0x766a8d86ad1c03885fe9bb419f1423770a23ab7127183e6e9f214ac6ca9b3480",
+   "70328181786359932257922147612882255167526694128596504438766954196096279676427",
+   "BUY",
+   197.96,
+   1791777764
+  ],
+  [
+   "0xb27eff487812c80eed25f7f51f955aa0c40f2b2cc55ce5d1d492be69932cb58d",
+   "70328181786359932257922147612882255167526694128596504438766954196096279676427",
+   "BUY",
+   200,
+   1791777768
+  ],
+  [
+   "0xd4a3f7e1699cf3f4e6ba9da9e57ddd4374809908acc0784a06b4527e5a1f8640",
+   "70328181786359932257922147612882255167526694128596504438766954196096279676427",
+   "BUY",
+   100,
+   1791777774
+  ],
+  [
+   "0xbacf818f40e83a51d12259d0e613185b854965b5b59e500a62329d62d39959b3",
+   "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "BUY",
+   4571.64,
+   1791777918
+  ],
+  [
+   "0xd3d3b4e8a3e709f3419fd1968fb3bb0e5b67899717a02365be204bdf31a973c5",
+   "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "BUY",
+   428,
+   1791778025
   ]
  ],
  "leader_pos": {
@@ -37828,10 +37863,22 @@
    "title": "Lehecka vs. Jodar: Match O/U 22.5",
    "outcome": "Over",
    "slug": "atp-lehecka-jodar-2026-10-11",
-   "shares": 3000.0,
-   "cost": 1557.3600000000001,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791777746
+   "shares": 3497.96,
+   "cost": 1811.3196,
+   "max_shares": 3497.96,
+   "last_trade_ts": 1791777774
+  },
+  "jtwyslljy|98944656274230316625973590944768960356456374762403337184251608301086427785424": {
+   "leader": "jtwyslljy",
+   "asset": "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "condition_id": "0xc5bd7a9f6abdbb3fc807a98599a08a99dd7c1ecd74ae138cd6e9a634c4f335fa",
+   "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
+   "outcome": "Stefanos Tsitsipas",
+   "slug": "atp-tsitsip-fritz-2026-10-11",
+   "shares": 4999.64,
+   "cost": 2049.8523999999998,
+   "max_shares": 4999.64,
+   "last_trade_ts": 1791778025
   }
  },
  "positions": [
@@ -37851,6 +37898,24 @@
    "copy_delay_min": 2.9,
    "best_ask": 0.51,
    "ask_depth": 34.0,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "condition_id": "0xc5bd7a9f6abdbb3fc807a98599a08a99dd7c1ecd74ae138cd6e9a634c4f335fa",
+   "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
+   "outcome": "Stefanos Tsitsipas",
+   "slug": "atp-tsitsip-fritz-2026-10-11",
+   "opened_at": "2026-10-12T04:10:31.957442+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 2049.85,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.41,
+   "ask_depth": 4450.46,
    "status": "open"
   }
  ],
@@ -62242,5 +62307,5 @@
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T04:05:24.217657+00:00"
+ "last_updated": "2026-10-12T04:10:32.297398+00:00"
 }
