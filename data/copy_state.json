@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791751600,
+  "jtwyslljy": 1791775176,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23518,6 +23518,13 @@
    "BUY",
    5000,
    1791751600
+  ],
+  [
+   "0x403ff7be4936696e74a2564962b27670ea27c5b1e39ef7a714e95aa969020bfc",
+   "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "BUY",
+   8665.63,
+   1791775176
   ]
  ],
  "leader_pos": {
@@ -37716,6 +37723,18 @@
    "cost": 1450.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791751600
+  },
+  "jtwyslljy|108622352570534381271916450643964132401769850077027305642142746550546607081595": {
+   "leader": "jtwyslljy",
+   "asset": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "condition_id": "0x82aa1f82105f9e33964821e1251a48153752a3b1c9b4a3e856fccedc490bbb12",
+   "title": "Ravens vs. Falcons",
+   "outcome": "Falcons",
+   "slug": "nfl-bal-atl-2026-10-12",
+   "shares": 8665.63,
+   "cost": 5459.3469,
+   "max_shares": 8665.63,
+   "last_trade_ts": 1791775176
   }
  },
  "positions": [],
@@ -62024,8 +62043,24 @@
    "leader": "jtwyslljy",
    "title": "Broncos vs. Chargers",
    "outcome": "Chargers"
+  },
+  {
+   "at": "2026-10-12T03:25:25.067097+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T00:20:00+00:00",
+   "condition_id": "0x82aa1f82105f9e33964821e1251a48153752a3b1c9b4a3e856fccedc490bbb12",
+   "asset": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.51,
+   "cf_shares": 196.0784,
+   "cf_cost": 100.0,
+   "cf_entry": 0.51,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ravens vs. Falcons",
+   "outcome": "Falcons"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-11T20:50:30.635735+00:00"
+ "last_updated": "2026-10-12T03:25:25.067825+00:00"
 }
