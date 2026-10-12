@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9559.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791775176,
+  "jtwyslljy": 1791776594,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23525,6 +23525,13 @@
    "BUY",
    8665.63,
    1791775176
+  ],
+  [
+   "0xc870995c6778d6584a717fa4b733fe408d1c692b21ea7e914650a82a647cc5be",
+   "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "BUY",
+   5000,
+   1791776594
   ]
  ],
  "leader_pos": {
@@ -37731,10 +37738,10 @@
    "title": "Ravens vs. Falcons",
    "outcome": "Falcons",
    "slug": "nfl-bal-atl-2026-10-12",
-   "shares": 8665.63,
-   "cost": 5459.3469,
-   "max_shares": 8665.63,
-   "last_trade_ts": 1791775176
+   "shares": 13665.63,
+   "cost": 6309.3469,
+   "max_shares": 13665.63,
+   "last_trade_ts": 1791776594
   }
  },
  "positions": [],
@@ -62059,8 +62066,24 @@
    "leader": "jtwyslljy",
    "title": "Ravens vs. Falcons",
    "outcome": "Falcons"
+  },
+  {
+   "at": "2026-10-12T03:50:28.907234+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T00:20:00+00:00",
+   "condition_id": "0x82aa1f82105f9e33964821e1251a48153752a3b1c9b4a3e856fccedc490bbb12",
+   "asset": "108622352570534381271916450643964132401769850077027305642142746550546607081595",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Ravens vs. Falcons",
+   "outcome": "Falcons"
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T03:25:25.067825+00:00"
+ "last_updated": "2026-10-12T03:50:28.908024+00:00"
 }
