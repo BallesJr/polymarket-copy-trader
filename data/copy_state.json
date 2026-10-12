@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9439.112609900001,
  "last_seen": {
-  "jtwyslljy": 1791795486,
+  "jtwyslljy": 1791800360,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23728,6 +23728,13 @@
    "BUY",
    3000,
    1791795486
+  ],
+  [
+   "0xc2adb0087856b8526b522cd71b4eef8a709241afecd8ff422b7651ef3c58f30f",
+   "104099835228022419324861146137022803027497441128991967184149516242502395064792",
+   "BUY",
+   2000,
+   1791800360
   ]
  ],
  "leader_pos": {
@@ -38090,10 +38097,10 @@
    "title": "Wuhan Tennis Open: Caty McNally vs Yulia Starodubtseva",
    "outcome": "Caty McNally",
    "slug": "wta-mcnally-starodu-2026-10-12",
-   "shares": 3000.0,
-   "cost": 1050.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1791795486
+   "shares": 5000.0,
+   "cost": 1510.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791800360
   }
  },
  "positions": [
@@ -62711,8 +62718,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Caty McNally vs Yulia Starodubtseva",
    "outcome": "Caty McNally"
+  },
+  {
+   "at": "2026-10-12T10:25:26.029510+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T08:10:00+00:00",
+   "condition_id": "0x5e25e28e4dde29cc31d6c4257c98c6890c14baf0cd75983c66dab1096eae20d3",
+   "asset": "104099835228022419324861146137022803027497441128991967184149516242502395064792",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.46,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Caty McNally vs Yulia Starodubtseva",
+   "outcome": "Caty McNally"
   }
  ],
  "total_pnl": -260.8875999999989,
- "last_updated": "2026-10-12T09:25:27.532217+00:00"
+ "last_updated": "2026-10-12T10:25:26.204110+00:00"
 }
