@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9059.391609900002,
+ "bankroll": 9202.2487099,
  "last_seen": {
   "jtwyslljy": 1791779846,
   "0x53757615de": 1791717351
@@ -38031,24 +38031,6 @@
    "best_ask": 0.54,
    "ask_depth": 290.32,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "32141312718955413812049656284733005107167991829741734400457318006200779490822",
-   "condition_id": "0x1fbbe9ce91145c087d0e0615db25fe7c675170fe1a071eedca86eb18813239b2",
-   "title": "Wuhan Tennis Open: Clara Tauson vs Marie Bouzkova",
-   "outcome": "Marie Bouzkova",
-   "slug": "wta-tauson-bouzkov-2026-10-11",
-   "opened_at": "2026-10-12T04:45:32.723755+00:00",
-   "entry_price": 0.7,
-   "shares": 142.8571,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 1147.04,
-   "copy_delay_min": 8.1,
-   "best_ask": 0.7,
-   "ask_depth": 27607.78,
-   "status": "open"
   }
  ],
  "closed": [
@@ -50186,6 +50168,28 @@
    "closed_at": "2026-10-11T18:55:27.883444+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32141312718955413812049656284733005107167991829741734400457318006200779490822",
+   "condition_id": "0x1fbbe9ce91145c087d0e0615db25fe7c675170fe1a071eedca86eb18813239b2",
+   "title": "Wuhan Tennis Open: Clara Tauson vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-tauson-bouzkov-2026-10-11",
+   "opened_at": "2026-10-12T04:45:32.723755+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 1147.04,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.7,
+   "ask_depth": 27607.78,
+   "status": "won",
+   "closed_at": "2026-10-12T06:30:49.996970+00:00",
+   "exit_price": 1.0,
+   "pnl": 42.8571,
    "close_reason": "resolved"
   }
  ],
@@ -62470,6 +62474,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T04:45:33.101019+00:00"
+ "total_pnl": -397.7514999999989,
+ "last_updated": "2026-10-12T06:30:49.999828+00:00"
 }
