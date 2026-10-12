@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9439.112609900001,
  "last_seen": {
-  "jtwyslljy": 1791804807,
+  "jtwyslljy": 1791806421,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23777,6 +23777,13 @@
    "BUY",
    5316.22,
    1791804807
+  ],
+  [
+   "0x87878a93e7195d32ac53a3d9299a75f7425e413d3253212d14003345efdfa957",
+   "1285264187681974919914192264476658029823993331519219673505310362732201740685",
+   "BUY",
+   5000,
+   1791806421
   ]
  ],
  "leader_pos": {
@@ -38167,6 +38174,18 @@
    "cost": 850.5952000000001,
    "max_shares": 5316.22,
    "last_trade_ts": 1791804807
+  },
+  "jtwyslljy|1285264187681974919914192264476658029823993331519219673505310362732201740685": {
+   "leader": "jtwyslljy",
+   "asset": "1285264187681974919914192264476658029823993331519219673505310362732201740685",
+   "condition_id": "0xe8fa1d9f09ebdeaecf43967d75cb71c7663663275362c124a134ed986be36ed2",
+   "title": "Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz",
+   "outcome": "Carlos Alcaraz",
+   "slug": "atp-bergs-alcaraz-2026-10-11",
+   "shares": 5000.0,
+   "cost": 750.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791806421
   }
  },
  "positions": [
@@ -62852,8 +62871,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
    "outcome": "JD Gaming"
+  },
+  {
+   "at": "2026-10-12T12:05:28.827452+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T10:10:00+00:00",
+   "condition_id": "0xe8fa1d9f09ebdeaecf43967d75cb71c7663663275362c124a134ed986be36ed2",
+   "asset": "1285264187681974919914192264476658029823993331519219673505310362732201740685",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.57,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Zizou Bergs vs Carlos Alcaraz",
+   "outcome": "Carlos Alcaraz"
   }
  ],
  "total_pnl": -360.8875999999989,
- "last_updated": "2026-10-12T11:40:31.409363+00:00"
+ "last_updated": "2026-10-12T12:05:29.114085+00:00"
 }
