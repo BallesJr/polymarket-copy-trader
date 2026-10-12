@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9002.2487099,
+ "bankroll": 9195.2102099,
  "last_seen": {
-  "jtwyslljy": 1791794076,
+  "jtwyslljy": 1791794269,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23700,6 +23700,13 @@
    "SELL",
    1000,
    1791794076
+  ],
+  [
+   "0x4b2a85943a4fb8ba5e8cc7ccbf77338a2a26eb1bca29a21bd7e0badae92a65b7",
+   "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "SELL",
+   1500,
+   1791794269
   ]
  ],
  "leader_pos": {
@@ -37966,10 +37973,10 @@
    "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
    "outcome": "Stefanos Tsitsipas",
    "slug": "atp-tsitsip-fritz-2026-10-11",
-   "shares": 6999.64,
-   "cost": 1609.8523999999998,
+   "shares": 5499.64,
+   "cost": 199.85239999999976,
    "max_shares": 7999.64,
-   "last_trade_ts": 1791794076
+   "last_trade_ts": 1791794269
   },
   "jtwyslljy|87312567523269754553909106447187874918169427264486136458618735521180128590231": {
    "leader": "jtwyslljy",
@@ -38045,24 +38052,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "70328181786359932257922147612882255167526694128596504438766954196096279676427",
-   "condition_id": "0x34cf10fe49d63ef74d8591971ac22dfcdebe291f42e3a4607a9ba5b41ed1d0cb",
-   "title": "Lehecka vs. Jodar: Match O/U 22.5",
-   "outcome": "Over",
-   "slug": "atp-lehecka-jodar-2026-10-11",
-   "opened_at": "2026-10-12T04:05:23.634071+00:00",
-   "entry_price": 0.5182,
-   "shares": 192.9615,
-   "stake": 100.0,
-   "leader_vwap": 0.5191,
-   "leader_cost": 1557.36,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.51,
-   "ask_depth": 34.0,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "98944656274230316625973590944768960356456374762403337184251608301086427785424",
@@ -50337,6 +50326,28 @@
    "closed_at": "2026-10-12T08:40:33.339222+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70328181786359932257922147612882255167526694128596504438766954196096279676427",
+   "condition_id": "0x34cf10fe49d63ef74d8591971ac22dfcdebe291f42e3a4607a9ba5b41ed1d0cb",
+   "title": "Lehecka vs. Jodar: Match O/U 22.5",
+   "outcome": "Over",
+   "slug": "atp-lehecka-jodar-2026-10-11",
+   "opened_at": "2026-10-12T04:05:23.634071+00:00",
+   "entry_price": 0.5182,
+   "shares": 192.9615,
+   "stake": 100.0,
+   "leader_vwap": 0.5191,
+   "leader_cost": 1557.36,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.51,
+   "ask_depth": 34.0,
+   "status": "won",
+   "closed_at": "2026-10-12T08:45:34.325865+00:00",
+   "exit_price": 1.0,
+   "pnl": 92.9615,
    "close_reason": "resolved"
   }
  ],
@@ -62621,6 +62632,6 @@
    "outcome": "Felix Auger-Aliassime"
   }
  ],
- "total_pnl": -497.7514999999989,
- "last_updated": "2026-10-12T08:40:33.341419+00:00"
+ "total_pnl": -404.7899999999989,
+ "last_updated": "2026-10-12T08:45:34.327439+00:00"
 }
