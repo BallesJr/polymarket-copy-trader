@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9259.391609900002,
+ "bankroll": 9059.391609900002,
  "last_seen": {
-  "jtwyslljy": 1791779565,
+  "jtwyslljy": 1791779846,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23637,6 +23637,20 @@
    "SELL",
    1000,
    1791779565
+  ],
+  [
+   "0xa18fcd3b28d3006ce4ad65033e945ccfd35a3f3abdf9faee990759535d8dc57a",
+   "70321939657726806579702660111950928275844056834975950594730859066309402076167",
+   "BUY",
+   5000,
+   1791779700
+  ],
+  [
+   "0x968c3f3af1e500903b8a590c695d6d40bec04ffeccd31958d2b78ddde1721bd6",
+   "32141312718955413812049656284733005107167991829741734400457318006200779490822",
+   "BUY",
+   1662.37,
+   1791779846
   ]
  ],
  "leader_pos": {
@@ -37919,6 +37933,30 @@
    "cost": 1564.084,
    "max_shares": 5000.0,
    "last_trade_ts": 1791778863
+  },
+  "jtwyslljy|70321939657726806579702660111950928275844056834975950594730859066309402076167": {
+   "leader": "jtwyslljy",
+   "asset": "70321939657726806579702660111950928275844056834975950594730859066309402076167",
+   "condition_id": "0xa135989bf9658ab16c96c40fc2294657093e399a8d2a00bb03f1cc8c5a971dd4",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-paolini-bejlek-2026-10-11",
+   "shares": 5000.0,
+   "cost": 2700.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791779700
+  },
+  "jtwyslljy|32141312718955413812049656284733005107167991829741734400457318006200779490822": {
+   "leader": "jtwyslljy",
+   "asset": "32141312718955413812049656284733005107167991829741734400457318006200779490822",
+   "condition_id": "0x1fbbe9ce91145c087d0e0615db25fe7c675170fe1a071eedca86eb18813239b2",
+   "title": "Wuhan Tennis Open: Clara Tauson vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-tauson-bouzkov-2026-10-11",
+   "shares": 1662.37,
+   "cost": 1147.0352999999998,
+   "max_shares": 1662.37,
+   "last_trade_ts": 1791779846
   }
  },
  "positions": [
@@ -37974,6 +38012,42 @@
    "copy_delay_min": 9.7,
    "best_ask": 0.4,
    "ask_depth": 19202.66,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70321939657726806579702660111950928275844056834975950594730859066309402076167",
+   "condition_id": "0xa135989bf9658ab16c96c40fc2294657093e399a8d2a00bb03f1cc8c5a971dd4",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Sara Bejlek",
+   "outcome": "Sara Bejlek",
+   "slug": "wta-paolini-bejlek-2026-10-11",
+   "opened_at": "2026-10-12T04:45:32.525485+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.54,
+   "leader_cost": 2700.0,
+   "copy_delay_min": 10.5,
+   "best_ask": 0.54,
+   "ask_depth": 290.32,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "32141312718955413812049656284733005107167991829741734400457318006200779490822",
+   "condition_id": "0x1fbbe9ce91145c087d0e0615db25fe7c675170fe1a071eedca86eb18813239b2",
+   "title": "Wuhan Tennis Open: Clara Tauson vs Marie Bouzkova",
+   "outcome": "Marie Bouzkova",
+   "slug": "wta-tauson-bouzkov-2026-10-11",
+   "opened_at": "2026-10-12T04:45:32.723755+00:00",
+   "entry_price": 0.7,
+   "shares": 142.8571,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 1147.04,
+   "copy_delay_min": 8.1,
+   "best_ask": 0.7,
+   "ask_depth": 27607.78,
    "status": "open"
   }
  ],
@@ -62397,5 +62471,5 @@
   }
  ],
  "total_pnl": -440.6085999999989,
- "last_updated": "2026-10-12T04:40:31.094467+00:00"
+ "last_updated": "2026-10-12T04:45:33.101019+00:00"
 }
