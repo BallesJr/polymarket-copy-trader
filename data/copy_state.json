@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9627.791809900002,
  "last_seen": {
-  "jtwyslljy": 1791817872,
+  "jtwyslljy": 1791817940,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23861,6 +23861,13 @@
    "BUY",
    4000,
    1791817872
+  ],
+  [
+   "0xdd4dbd0de944df8c229feb5b626e87f1855201e5e648449e0ef765d13429e0e1",
+   "50296944022375071063295302771176133803663803498263444487140405393059659881949",
+   "BUY",
+   4000,
+   1791817940
   ]
  ],
  "leader_pos": {
@@ -38283,10 +38290,10 @@
    "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
    "outcome": "Han Shi",
    "slug": "wta-eala-shi-2026-10-12",
-   "shares": 4000.0,
-   "cost": 3000.0,
-   "max_shares": 4000.0,
-   "last_trade_ts": 1791817872
+   "shares": 8000.0,
+   "cost": 6360.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791817940
   },
   "jtwyslljy|63682100923848204676232098041715529896098335523227289333094149905850824579309": {
    "leader": "jtwyslljy",
@@ -63055,8 +63062,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-12T15:20:35.778413+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T13:00:00+00:00",
+   "condition_id": "0x96e05e6907ecfda0a2462047a6802bbee7265402a183a63519b5a3359ee4727d",
+   "asset": "50296944022375071063295302771176133803663803498263444487140405393059659881949",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.82,
+   "cf_shares": 121.9512,
+   "cf_cost": 100.0,
+   "cf_entry": 0.82,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
+   "outcome": "Han Shi"
   }
  ],
  "total_pnl": -372.2083999999989,
- "last_updated": "2026-10-12T15:15:36.835696+00:00"
+ "last_updated": "2026-10-12T15:20:35.779200+00:00"
 }
