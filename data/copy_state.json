@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9195.2102099,
+ "bankroll": 9439.112609900001,
  "last_seen": {
   "jtwyslljy": 1791795486,
   "0x53757615de": 1791717351
@@ -38099,24 +38099,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "98944656274230316625973590944768960356456374762403337184251608301086427785424",
-   "condition_id": "0xc5bd7a9f6abdbb3fc807a98599a08a99dd7c1ecd74ae138cd6e9a634c4f335fa",
-   "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
-   "outcome": "Stefanos Tsitsipas",
-   "slug": "atp-tsitsip-fritz-2026-10-11",
-   "opened_at": "2026-10-12T04:10:31.957442+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 2049.85,
-   "copy_delay_min": 3.4,
-   "best_ask": 0.41,
-   "ask_depth": 4450.46,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "22795254201572961597166690704043761427508975203357864956203657748100766808552",
    "condition_id": "0x5a4435fc7d1e08e40c00384cd4aeb3f0a84931f34855d0dd2a0d922aa6cccf05",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Dalibor Svrcina",
@@ -50393,6 +50375,28 @@
    "closed_at": "2026-10-12T08:45:34.325865+00:00",
    "exit_price": 1.0,
    "pnl": 92.9615,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98944656274230316625973590944768960356456374762403337184251608301086427785424",
+   "condition_id": "0xc5bd7a9f6abdbb3fc807a98599a08a99dd7c1ecd74ae138cd6e9a634c4f335fa",
+   "title": "Shanghai Rolex Masters: Stefanos Tsitsipas vs Taylor Fritz",
+   "outcome": "Stefanos Tsitsipas",
+   "slug": "atp-tsitsip-fritz-2026-10-11",
+   "opened_at": "2026-10-12T04:10:31.957442+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 2049.85,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.41,
+   "ask_depth": 4450.46,
+   "status": "won",
+   "closed_at": "2026-10-12T09:25:27.530760+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
    "close_reason": "resolved"
   }
  ],
@@ -62709,6 +62713,6 @@
    "outcome": "Caty McNally"
   }
  ],
- "total_pnl": -404.7899999999989,
- "last_updated": "2026-10-12T09:05:27.085979+00:00"
+ "total_pnl": -260.8875999999989,
+ "last_updated": "2026-10-12T09:25:27.532217+00:00"
 }
