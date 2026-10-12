@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9195.2102099,
  "last_seen": {
-  "jtwyslljy": 1791795387,
+  "jtwyslljy": 1791795486,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23721,6 +23721,13 @@
    "BUY",
    3000,
    1791795387
+  ],
+  [
+   "0xfcd8e49888806ed54fd590a70fb32203aed80c98a6d93e0681192fd97e4136af",
+   "104099835228022419324861146137022803027497441128991967184149516242502395064792",
+   "BUY",
+   3000,
+   1791795486
   ]
  ],
  "leader_pos": {
@@ -38075,6 +38082,18 @@
    "cost": 1470.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1791795387
+  },
+  "jtwyslljy|104099835228022419324861146137022803027497441128991967184149516242502395064792": {
+   "leader": "jtwyslljy",
+   "asset": "104099835228022419324861146137022803027497441128991967184149516242502395064792",
+   "condition_id": "0x5e25e28e4dde29cc31d6c4257c98c6890c14baf0cd75983c66dab1096eae20d3",
+   "title": "Wuhan Tennis Open: Caty McNally vs Yulia Starodubtseva",
+   "outcome": "Caty McNally",
+   "slug": "wta-mcnally-starodu-2026-10-12",
+   "shares": 3000.0,
+   "cost": 1050.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791795486
   }
  },
  "positions": [
@@ -62672,8 +62691,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
    "outcome": "Jiri Lehecka"
+  },
+  {
+   "at": "2026-10-12T09:05:26.712563+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T08:10:00+00:00",
+   "condition_id": "0x5e25e28e4dde29cc31d6c4257c98c6890c14baf0cd75983c66dab1096eae20d3",
+   "asset": "104099835228022419324861146137022803027497441128991967184149516242502395064792",
+   "copy_delay_min": 7.3,
+   "cf_ask": 0.42,
+   "cf_shares": 238.0952,
+   "cf_cost": 100.0,
+   "cf_entry": 0.42,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Caty McNally vs Yulia Starodubtseva",
+   "outcome": "Caty McNally"
   }
  ],
  "total_pnl": -404.7899999999989,
- "last_updated": "2026-10-12T09:01:03.698557+00:00"
+ "last_updated": "2026-10-12T09:05:27.085979+00:00"
 }
