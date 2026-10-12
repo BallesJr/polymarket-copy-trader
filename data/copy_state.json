@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9195.2102099,
  "last_seen": {
-  "jtwyslljy": 1791794269,
+  "jtwyslljy": 1791795387,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23707,6 +23707,20 @@
    "SELL",
    1500,
    1791794269
+  ],
+  [
+   "0x4341d181a217abd379e497b9f8f5eef919bb73da4f0dcd33d4e817f72b30bb26",
+   "75557982215882607478925685954892906344124558416082850644975868015502979695985",
+   "BUY",
+   3000,
+   1791795283
+  ],
+  [
+   "0xffa5f52eea70927c81080304837e17e51e7875cc430ed6de16eb6be5e21a8870",
+   "75557982215882607478925685954892906344124558416082850644975868015502979695985",
+   "BUY",
+   3000,
+   1791795387
   ]
  ],
  "leader_pos": {
@@ -38049,6 +38063,18 @@
    "cost": 5300.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1791789466
+  },
+  "jtwyslljy|75557982215882607478925685954892906344124558416082850644975868015502979695985": {
+   "leader": "jtwyslljy",
+   "asset": "75557982215882607478925685954892906344124558416082850644975868015502979695985",
+   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-jodar-2026-10-11",
+   "shares": 6000.0,
+   "cost": 1470.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791795387
   }
  },
  "positions": [
@@ -62630,8 +62656,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Pablo Carreno Busta vs Felix Auger-Aliassime",
    "outcome": "Felix Auger-Aliassime"
+  },
+  {
+   "at": "2026-10-12T09:01:03.351112+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T06:10:00+00:00",
+   "condition_id": "0x2a7c10b99edaec933216875779ed0f0705ee8f012360d4cb0a67a9d7c3150df2",
+   "asset": "75557982215882607478925685954892906344124558416082850644975868015502979695985",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.001,
+   "cf_shares": 20156.3,
+   "cf_cost": 100.0,
+   "cf_entry": 0.005,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Jiri Lehecka vs Rafael Jodar",
+   "outcome": "Jiri Lehecka"
   }
  ],
  "total_pnl": -404.7899999999989,
- "last_updated": "2026-10-12T08:45:34.327439+00:00"
+ "last_updated": "2026-10-12T09:01:03.698557+00:00"
 }
