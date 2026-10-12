@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9627.791809900002,
  "last_seen": {
-  "jtwyslljy": 1791814973,
+  "jtwyslljy": 1791816596,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23840,6 +23840,13 @@
    "SELL",
    8000,
    1791814973
+  ],
+  [
+   "0xc6553d1cf49e58de13d12b0e9be322cb16cad2554243718f896d64bd83e2b38a",
+   "63682100923848204676232098041715529896098335523227289333094149905850824579309",
+   "BUY",
+   5000,
+   1791816596
   ]
  ],
  "leader_pos": {
@@ -38266,6 +38273,18 @@
    "cost": 160.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1791814973
+  },
+  "jtwyslljy|63682100923848204676232098041715529896098335523227289333094149905850824579309": {
+   "leader": "jtwyslljy",
+   "asset": "63682100923848204676232098041715529896098335523227289333094149905850824579309",
+   "condition_id": "0x96e05e6907ecfda0a2462047a6802bbee7265402a183a63519b5a3359ee4727d",
+   "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
+   "outcome": "Alexandra Eala",
+   "slug": "wta-eala-shi-2026-10-12",
+   "shares": 5000.0,
+   "cost": 3250.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791816596
   }
  },
  "positions": [],
@@ -62990,8 +63009,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: BNK FEARX vs JD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
    "outcome": "BNK FEARX"
+  },
+  {
+   "at": "2026-10-12T14:55:27.027101+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-12T13:00:00+00:00",
+   "condition_id": "0x96e05e6907ecfda0a2462047a6802bbee7265402a183a63519b5a3359ee4727d",
+   "asset": "63682100923848204676232098041715529896098335523227289333094149905850824579309",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.66,
+   "cf_shares": 151.5152,
+   "cf_cost": 100.0,
+   "cf_entry": 0.66,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
+   "outcome": "Alexandra Eala"
   }
  ],
  "total_pnl": -372.2083999999989,
- "last_updated": "2026-10-12T14:40:32.593496+00:00"
+ "last_updated": "2026-10-12T14:55:27.027777+00:00"
 }
