@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791883976,
+  "jtwyslljy": 1791884515,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23952,6 +23952,13 @@
    "BUY",
    10000,
    1791883976
+  ],
+  [
+   "0xa93c1e91a6add0618a86f024729ab739bd87a3b7002fea30337b23ff7bedfda6",
+   "94635803584263495031439611203031857955338789590450783575533801292094334845616",
+   "SELL",
+   10000,
+   1791884515
   ]
  ],
  "leader_pos": {
@@ -38470,10 +38477,10 @@
    "title": "Wuhan Tennis Open: Daria Kasatkina vs Jelena Ostapenko",
    "outcome": "Daria Kasatkina",
    "slug": "wta-kasatki-ostapen-2026-10-12",
-   "shares": 10000.0,
-   "cost": 1100.0,
+   "shares": 0.0,
+   "cost": 859.95001,
    "max_shares": 10000.0,
-   "last_trade_ts": 1791883976
+   "last_trade_ts": 1791884515
   }
  },
  "positions": [],
@@ -63367,5 +63374,5 @@
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T09:40:31.464992+00:00"
+ "last_updated": "2026-10-13T09:45:31.288331+00:00"
 }
