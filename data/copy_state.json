@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791886886,
+  "jtwyslljy": 1791892601,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23994,6 +23994,13 @@
    "BUY",
    15054.49,
    1791886886
+  ],
+  [
+   "0xc97df4e2b1789ba50e12929ae3dcdb0c54ef7dc9ffbd9ea758da371dbee73ee4",
+   "96149772131430493379458672204243948697778618140447191320584946736005412326696",
+   "BUY",
+   6000,
+   1791892601
   ]
  ],
  "leader_pos": {
@@ -38540,6 +38547,18 @@
    "cost": 13097.4063,
    "max_shares": 15054.49,
    "last_trade_ts": 1791886886
+  },
+  "jtwyslljy|96149772131430493379458672204243948697778618140447191320584946736005412326696": {
+   "leader": "jtwyslljy",
+   "asset": "96149772131430493379458672204243948697778618140447191320584946736005412326696",
+   "condition_id": "0x213d97ebe44b8672d2f922fc322e1ed235749b1d5b6501f86b74567bde950b33",
+   "title": "Wuhan Tennis Open: Ashlyn Krueger vs Shuai Zhang",
+   "outcome": "Ashlyn Krueger",
+   "slug": "wta-krueger-zhang-2026-10-13",
+   "shares": 6000.0,
+   "cost": 3180.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791892601
   }
  },
  "positions": [],
@@ -63494,8 +63513,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
    "outcome": "Maria Sakkari"
+  },
+  {
+   "at": "2026-10-13T12:01:03.373359+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T11:05:00+00:00",
+   "condition_id": "0x213d97ebe44b8672d2f922fc322e1ed235749b1d5b6501f86b74567bde950b33",
+   "asset": "96149772131430493379458672204243948697778618140447191320584946736005412326696",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Ashlyn Krueger vs Shuai Zhang",
+   "outcome": "Ashlyn Krueger"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T10:30:03.317150+00:00"
+ "last_updated": "2026-10-13T12:01:03.374356+00:00"
 }
