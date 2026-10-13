@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791884515,
+  "jtwyslljy": 1791885836,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23959,6 +23959,20 @@
    "SELL",
    10000,
    1791884515
+  ],
+  [
+   "0x5e2c137d9f79870b6308427a1e81da36997f385f5613799e9e4ba72d0aa14734",
+   "65727395714778276462056694413489165397339931656164624217871253423583582551514",
+   "BUY",
+   4000,
+   1791885812
+  ],
+  [
+   "0x003435b52d302a0ae674f3b027051513342856752c6d2176b8147c0813bed331",
+   "10561132850237654300871529436720518903103707580842790950264997548279521971851",
+   "BUY",
+   7999.99,
+   1791885836
   ]
  ],
  "leader_pos": {
@@ -38465,10 +38479,10 @@
    "title": "Wuhan Tennis Open: Daria Snigur vs Elise Mertens",
    "outcome": "Elise Mertens",
    "slug": "wta-snigur-mertens-2026-10-11",
-   "shares": 7000.0,
-   "cost": 2933.8200003,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1791883798
+   "shares": 11000.0,
+   "cost": 3933.8200003,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1791885812
   },
   "jtwyslljy|94635803584263495031439611203031857955338789590450783575533801292094334845616": {
    "leader": "jtwyslljy",
@@ -38481,6 +38495,18 @@
    "cost": 859.95001,
    "max_shares": 10000.0,
    "last_trade_ts": 1791884515
+  },
+  "jtwyslljy|10561132850237654300871529436720518903103707580842790950264997548279521971851": {
+   "leader": "jtwyslljy",
+   "asset": "10561132850237654300871529436720518903103707580842790950264997548279521971851",
+   "condition_id": "0x7e25271b4e59eecbe182551834dbf5554942497a19a878e23cd9e510a8f3f071",
+   "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
+   "outcome": "Marta Kostyuk",
+   "slug": "wta-sakkari-kostyuk-2026-10-13",
+   "shares": 7999.99,
+   "cost": 4479.9944000000005,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1791885836
   }
  },
  "positions": [],
@@ -63371,8 +63397,40 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Daria Kasatkina vs Jelena Ostapenko",
    "outcome": "Daria Kasatkina"
+  },
+  {
+   "at": "2026-10-13T10:05:24.587878+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T08:25:00+00:00",
+   "condition_id": "0xe26e239c6ce505e9a19d2889dbe3b5b0a8a08c2207c516e77857204c5d1e3920",
+   "asset": "65727395714778276462056694413489165397339931656164624217871253423583582551514",
+   "copy_delay_min": 1.9,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Daria Snigur vs Elise Mertens",
+   "outcome": "Elise Mertens"
+  },
+  {
+   "at": "2026-10-13T10:05:24.706204+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T08:35:00+00:00",
+   "condition_id": "0x7e25271b4e59eecbe182551834dbf5554942497a19a878e23cd9e510a8f3f071",
+   "asset": "10561132850237654300871529436720518903103707580842790950264997548279521971851",
+   "copy_delay_min": 1.5,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
+   "outcome": "Marta Kostyuk"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T09:45:31.288331+00:00"
+ "last_updated": "2026-10-13T10:05:24.707228+00:00"
 }
