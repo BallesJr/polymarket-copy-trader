@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791886081,
+  "jtwyslljy": 1791886886,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23980,6 +23980,20 @@
    "BUY",
    5000,
    1791886081
+  ],
+  [
+   "0x47c979a53d357e0bc14f195610fbddbf338c555755333c8e6cb0ac52247c718b",
+   "10561132850237654300871529436720518903103707580842790950264997548279521971851",
+   "SELL",
+   12469.36,
+   1791886877
+  ],
+  [
+   "0xdc9f4b3bdf0816487a7bf271cde47b7bedeb9a1613544c19795253ceb01accfa",
+   "111483062981134758419851627579800637661600313981033883724544337251643295538614",
+   "BUY",
+   15054.49,
+   1791886886
   ]
  ],
  "leader_pos": {
@@ -38510,10 +38524,22 @@
    "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
    "outcome": "Marta Kostyuk",
    "slug": "wta-sakkari-kostyuk-2026-10-13",
-   "shares": 12999.99,
-   "cost": 7129.9944000000005,
+   "shares": 530.6299999999992,
+   "cost": 5508.9776,
    "max_shares": 12999.99,
-   "last_trade_ts": 1791886081
+   "last_trade_ts": 1791886877
+  },
+  "jtwyslljy|111483062981134758419851627579800637661600313981033883724544337251643295538614": {
+   "leader": "jtwyslljy",
+   "asset": "111483062981134758419851627579800637661600313981033883724544337251643295538614",
+   "condition_id": "0x7e25271b4e59eecbe182551834dbf5554942497a19a878e23cd9e510a8f3f071",
+   "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
+   "outcome": "Maria Sakkari",
+   "slug": "wta-sakkari-kostyuk-2026-10-13",
+   "shares": 15054.49,
+   "cost": 13097.4063,
+   "max_shares": 15054.49,
+   "last_trade_ts": 1791886886
   }
  },
  "positions": [],
@@ -63452,8 +63478,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
    "outcome": "Marta Kostyuk"
+  },
+  {
+   "at": "2026-10-13T10:30:03.316410+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T08:35:00+00:00",
+   "condition_id": "0x7e25271b4e59eecbe182551834dbf5554942497a19a878e23cd9e510a8f3f071",
+   "asset": "111483062981134758419851627579800637661600313981033883724544337251643295538614",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.86,
+   "cf_shares": 116.2791,
+   "cf_cost": 100.0,
+   "cf_entry": 0.86,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Maria Sakkari vs Marta Kostyuk",
+   "outcome": "Maria Sakkari"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T10:10:32.769306+00:00"
+ "last_updated": "2026-10-13T10:30:03.317150+00:00"
 }
