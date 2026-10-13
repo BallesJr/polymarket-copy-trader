@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791892601,
+  "jtwyslljy": 1791893726,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24001,6 +24001,20 @@
    "BUY",
    6000,
    1791892601
+  ],
+  [
+   "0x61d9f0442d7d9b4ae06c33fdba552fd220c6fdda84d91c72d4ecbc08158411d6",
+   "35780442561011752381904068313638226548383172225076913810522057427261390019010",
+   "BUY",
+   6000,
+   1791893690
+  ],
+  [
+   "0x63404f412138c36e1ef191c49a371dfd1b55857932e5167b5bc8b1595062a35d",
+   "35780442561011752381904068313638226548383172225076913810522057427261390019010",
+   "BUY",
+   1889.26,
+   1791893726
   ]
  ],
  "leader_pos": {
@@ -38559,6 +38573,18 @@
    "cost": 3180.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1791892601
+  },
+  "jtwyslljy|35780442561011752381904068313638226548383172225076913810522057427261390019010": {
+   "leader": "jtwyslljy",
+   "asset": "35780442561011752381904068313638226548383172225076913810522057427261390019010",
+   "condition_id": "0xfe185c2a2c2f460368a7f82fbabf4e37fe90dae5a4b639bdf918b2da79b1b62a",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik",
+   "outcome": "Alexander Zverev",
+   "slug": "atp-zverev-bublik-2026-10-13",
+   "shares": 7889.26,
+   "cost": 2694.5966,
+   "max_shares": 7889.26,
+   "last_trade_ts": 1791893726
   }
  },
  "positions": [],
@@ -63529,8 +63555,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Ashlyn Krueger vs Shuai Zhang",
    "outcome": "Ashlyn Krueger"
+  },
+  {
+   "at": "2026-10-13T12:20:31.288815+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T10:05:00+00:00",
+   "condition_id": "0xfe185c2a2c2f460368a7f82fbabf4e37fe90dae5a4b639bdf918b2da79b1b62a",
+   "asset": "35780442561011752381904068313638226548383172225076913810522057427261390019010",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.55,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alexander Bublik",
+   "outcome": "Alexander Zverev"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T12:01:03.374356+00:00"
+ "last_updated": "2026-10-13T12:20:31.289538+00:00"
 }
