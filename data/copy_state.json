@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791870999,
+  "jtwyslljy": 1791881194,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23910,6 +23910,20 @@
    "BUY",
    4500,
    1791870999
+  ],
+  [
+   "0x8864ce054c81280b5a697ec60bcc978728a2103ae9b988ae3b21afcf54c2c662",
+   "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "BUY",
+   3000,
+   1791881153
+  ],
+  [
+   "0xc8e6bce039c79c148454f589f2240fab2999f4e2b966fc612d0293d0b326aad5",
+   "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "BUY",
+   5000,
+   1791881194
   ]
  ],
  "leader_pos": {
@@ -38396,6 +38410,18 @@
    "cost": 1800.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1791870999
+  },
+  "jtwyslljy|42747811725134740789728444592624994503894214297133693447929714350024052605039": {
+   "leader": "jtwyslljy",
+   "asset": "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "condition_id": "0xf54586e2e3b982439df60341ed5db6e1c8219dc1a6ba60c390e42ada011746e1",
+   "title": "Wuhan Tennis Open: Lilli Tagger vs Nikola Bartunkova",
+   "outcome": "Lilli Tagger",
+   "slug": "wta-tagger-bartunk-2026-10-11",
+   "shares": 8000.0,
+   "cost": 3680.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1791881194
   }
  },
  "positions": [],
@@ -63238,8 +63264,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Arthur Gea vs Jakub Mensik",
    "outcome": "Arthur Gea"
+  },
+  {
+   "at": "2026-10-13T08:50:32.366142+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T06:45:00+00:00",
+   "condition_id": "0xf54586e2e3b982439df60341ed5db6e1c8219dc1a6ba60c390e42ada011746e1",
+   "asset": "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.48,
+   "cf_shares": 208.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.48,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Lilli Tagger vs Nikola Bartunkova",
+   "outcome": "Lilli Tagger"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T06:01:01.119848+00:00"
+ "last_updated": "2026-10-13T08:50:32.366827+00:00"
 }
