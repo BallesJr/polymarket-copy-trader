@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791920440,
+  "jtwyslljy": 1791920548,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24078,6 +24078,13 @@
    "BUY",
    3694,
    1791920440
+  ],
+  [
+   "0x02ce9b0c51c77cb5865a56c34f937e2ea11fd603898f99bf7752224012cda1b2",
+   "60716884000558326403054270601775944949400488186409811060018867276350951277398",
+   "BUY",
+   2085,
+   1791920548
   ]
  ],
  "leader_pos": {
@@ -38692,10 +38699,10 @@
    "title": "Will Viking FK win on 2026-10-13?",
    "outcome": "Yes",
    "slug": "ucl-vf-bay-2026-10-13",
-   "shares": 6747.99,
-   "cost": 2568.0102899516,
-   "max_shares": 6747.99,
-   "last_trade_ts": 1791920440
+   "shares": 8832.99,
+   "cost": 3358.2252899516,
+   "max_shares": 8832.99,
+   "last_trade_ts": 1791920548
   }
  },
  "positions": [],
@@ -63794,8 +63801,24 @@
    "leader": "jtwyslljy",
    "title": "Will Viking FK win on 2026-10-13?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-10-13T19:50:32.153883+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T19:00:00+00:00",
+   "condition_id": "0x63157c9b3b68866390e523abaec4f1848c988b1522b6e60dff9b36a95ba397d3",
+   "asset": "60716884000558326403054270601775944949400488186409811060018867276350951277398",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Viking FK win on 2026-10-13?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T19:45:41.371089+00:00"
+ "last_updated": "2026-10-13T19:50:32.154658+00:00"
 }
