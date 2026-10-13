@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791883798,
+  "jtwyslljy": 1791883976,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23945,6 +23945,13 @@
    "BUY",
    7000,
    1791883798
+  ],
+  [
+   "0x4013fd03f2621a587efadfe392d23121f19c60953e623dbd34da14e1412ad1ca",
+   "94635803584263495031439611203031857955338789590450783575533801292094334845616",
+   "BUY",
+   10000,
+   1791883976
   ]
  ],
  "leader_pos": {
@@ -38455,6 +38462,18 @@
    "cost": 2933.8200003,
    "max_shares": 7000.0,
    "last_trade_ts": 1791883798
+  },
+  "jtwyslljy|94635803584263495031439611203031857955338789590450783575533801292094334845616": {
+   "leader": "jtwyslljy",
+   "asset": "94635803584263495031439611203031857955338789590450783575533801292094334845616",
+   "condition_id": "0xf00ea7b4ab8c6e1e8245f209485c415728a251504909350aeab7eb15ec5c9ec1",
+   "title": "Wuhan Tennis Open: Daria Kasatkina vs Jelena Ostapenko",
+   "outcome": "Daria Kasatkina",
+   "slug": "wta-kasatki-ostapen-2026-10-12",
+   "shares": 10000.0,
+   "cost": 1100.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1791883976
   }
  },
  "positions": [],
@@ -63329,8 +63348,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Daria Snigur vs Elise Mertens",
    "outcome": "Elise Mertens"
+  },
+  {
+   "at": "2026-10-13T09:40:31.464289+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T08:50:00+00:00",
+   "condition_id": "0xf00ea7b4ab8c6e1e8245f209485c415728a251504909350aeab7eb15ec5c9ec1",
+   "asset": "94635803584263495031439611203031857955338789590450783575533801292094334845616",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.03,
+   "cf_shares": 3333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.03,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Daria Kasatkina vs Jelena Ostapenko",
+   "outcome": "Daria Kasatkina"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T09:30:49.075258+00:00"
+ "last_updated": "2026-10-13T09:40:31.464992+00:00"
 }
