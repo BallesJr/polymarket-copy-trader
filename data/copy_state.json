@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9527.791809900002,
+ "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791860075,
+  "jtwyslljy": 1791867036,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23882,6 +23882,27 @@
    "BUY",
    4000,
    1791860075
+  ],
+  [
+   "0xdbe37a4ea92edef23127758de99cf51e65b06b229c6bb77f7dafb30550d7206c",
+   "82901017934108958646337044836572097384559931656490866339235605055707207539049",
+   "SELL",
+   1726.08,
+   1791866970
+  ],
+  [
+   "0x3301fd82f01adf9151a4677e512de66f0ba4c614a83475154a979012a840e017",
+   "82901017934108958646337044836572097384559931656490866339235605055707207539049",
+   "SELL",
+   2242.38,
+   1791866996
+  ],
+  [
+   "0xedae2900787ac5952670d06b687e5b63ef701ea5b1ee9b41471c1558d3d5392d",
+   "114908823033191490012845630750258427875708420674996371737271730525787704948414",
+   "BUY",
+   3000,
+   1791867036
   ]
  ],
  "leader_pos": {
@@ -38340,32 +38361,25 @@
    "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
    "outcome": "Karen Khachanov",
    "slug": "atp-minaur-khachan-2026-10-13",
-   "shares": 4000.0,
-   "cost": 1840.0,
+   "shares": 31.539999999999964,
+   "cost": 1068.7318,
    "max_shares": 4000.0,
-   "last_trade_ts": 1791860075
-  }
- },
- "positions": [
-  {
+   "last_trade_ts": 1791866996
+  },
+  "jtwyslljy|114908823033191490012845630750258427875708420674996371737271730525787704948414": {
    "leader": "jtwyslljy",
-   "asset": "82901017934108958646337044836572097384559931656490866339235605055707207539049",
+   "asset": "114908823033191490012845630750258427875708420674996371737271730525787704948414",
    "condition_id": "0xe3f35d8785787a7c48b8ea84f5fa6ba4d1f193f567cd3997f57be27a8a1a0f01",
    "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
-   "outcome": "Karen Khachanov",
+   "outcome": "Alex de Minaur",
    "slug": "atp-minaur-khachan-2026-10-13",
-   "opened_at": "2026-10-13T03:01:04.293934+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 1840.0,
-   "copy_delay_min": 6.5,
-   "best_ask": 0.46,
-   "ask_depth": 13137.39,
-   "status": "open"
+   "shares": 3000.0,
+   "cost": 2458.1358999000004,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791867036
   }
- ],
+ },
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -50678,6 +50692,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82901017934108958646337044836572097384559931656490866339235605055707207539049",
+   "condition_id": "0xe3f35d8785787a7c48b8ea84f5fa6ba4d1f193f567cd3997f57be27a8a1a0f01",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
+   "outcome": "Karen Khachanov",
+   "slug": "atp-minaur-khachan-2026-10-13",
+   "opened_at": "2026-10-13T03:01:04.293934+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 1840.0,
+   "copy_delay_min": 6.5,
+   "best_ask": 0.46,
+   "ask_depth": 13137.39,
+   "status": "closed",
+   "closed_at": "2026-10-13T04:55:24.725396+00:00",
+   "exit_price": 0.1568,
+   "pnl": -65.9172,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -63151,8 +63187,24 @@
    "leader": "jtwyslljy",
    "title": "Bills vs. Rams",
    "outcome": "Bills"
+  },
+  {
+   "at": "2026-10-13T04:55:24.890860+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T04:10:00+00:00",
+   "condition_id": "0xe3f35d8785787a7c48b8ea84f5fa6ba4d1f193f567cd3997f57be27a8a1a0f01",
+   "asset": "114908823033191490012845630750258427875708420674996371737271730525787704948414",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.84,
+   "cf_shares": 119.0476,
+   "cf_cost": 100.0,
+   "cf_entry": 0.84,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
+   "outcome": "Alex de Minaur"
   }
  ],
- "total_pnl": -372.2083999999989,
- "last_updated": "2026-10-13T03:01:04.466007+00:00"
+ "total_pnl": -438.1255999999989,
+ "last_updated": "2026-10-13T04:55:24.891662+00:00"
 }
