@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9627.791809900002,
  "last_seen": {
-  "jtwyslljy": 1791817940,
+  "jtwyslljy": 1791857327,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23868,6 +23868,13 @@
    "BUY",
    4000,
    1791817940
+  ],
+  [
+   "0x22c46e4b1857f800dcbf829e0d4b46eaacf3a3424ab85191aa3af705cebca4b4",
+   "62947499320390431651528838662673965097490542171836453297585075709612395925534",
+   "BUY",
+   5000,
+   1791857327
   ]
  ],
  "leader_pos": {
@@ -38306,6 +38313,18 @@
    "cost": 2000.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791817806
+  },
+  "jtwyslljy|62947499320390431651528838662673965097490542171836453297585075709612395925534": {
+   "leader": "jtwyslljy",
+   "asset": "62947499320390431651528838662673965097490542171836453297585075709612395925534",
+   "condition_id": "0x587a72a6a00a6e395178fcab9bf4398f5f15bb9b87c25c0dc3e1aef342c4f125",
+   "title": "Bills vs. Rams",
+   "outcome": "Bills",
+   "slug": "nfl-buf-la-2026-10-13",
+   "shares": 5000.0,
+   "cost": 1850.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791857327
   }
  },
  "positions": [],
@@ -63078,8 +63097,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-13T02:15:32.415237+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T00:15:00+00:00",
+   "condition_id": "0x587a72a6a00a6e395178fcab9bf4398f5f15bb9b87c25c0dc3e1aef342c4f125",
+   "asset": "62947499320390431651528838662673965097490542171836453297585075709612395925534",
+   "copy_delay_min": 6.7,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Bills vs. Rams",
+   "outcome": "Bills"
   }
  ],
  "total_pnl": -372.2083999999989,
- "last_updated": "2026-10-12T15:20:35.779200+00:00"
+ "last_updated": "2026-10-13T02:15:32.415912+00:00"
 }
