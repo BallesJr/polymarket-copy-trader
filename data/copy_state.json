@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791900313,
+  "jtwyslljy": 1791900412,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24036,6 +24036,20 @@
    "BUY",
    3500,
    1791900313
+  ],
+  [
+   "0x29a69b53e876c05df60aefb403993f5ac1bdb71b3564c158392c3ca4ae3b3930",
+   "99590186350403656013839269965895850088392118262351013918041570341173332160763",
+   "BUY",
+   2771.64,
+   1791900394
+  ],
+  [
+   "0x7116d5e1f2549f21bc3ffab672de733166fc2692818cb47485d915854d17d269",
+   "99590186350403656013839269965895850088392118262351013918041570341173332160763",
+   "BUY",
+   4226.44,
+   1791900412
   ]
  ],
  "leader_pos": {
@@ -38618,6 +38632,18 @@
    "cost": 3002.5402000000004,
    "max_shares": 5994.13,
    "last_trade_ts": 1791900313
+  },
+  "jtwyslljy|99590186350403656013839269965895850088392118262351013918041570341173332160763": {
+   "leader": "jtwyslljy",
+   "asset": "99590186350403656013839269965895850088392118262351013918041570341173332160763",
+   "condition_id": "0xad1b8d62b56ecb237784a351a8471481266b7182fb909518e46d3c4af6809ffc",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina",
+   "outcome": "Alejandro Davidovich Fokina",
+   "slug": "atp-hurkacz-fokina-2026-10-13",
+   "shares": 6998.08,
+   "cost": 1484.1448,
+   "max_shares": 6998.08,
+   "last_trade_ts": 1791900412
   }
  },
  "positions": [],
@@ -63652,8 +63678,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang",
    "outcome": "Xiyu Wang"
+  },
+  {
+   "at": "2026-10-13T14:15:38.470358+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T13:05:00+00:00",
+   "condition_id": "0xad1b8d62b56ecb237784a351a8471481266b7182fb909518e46d3c4af6809ffc",
+   "asset": "99590186350403656013839269965895850088392118262351013918041570341173332160763",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.46,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina",
+   "outcome": "Alejandro Davidovich Fokina"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T14:10:33.950267+00:00"
+ "last_updated": "2026-10-13T14:15:38.471236+00:00"
 }
