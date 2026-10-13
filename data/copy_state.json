@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791867036,
+  "jtwyslljy": 1791870999,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23903,6 +23903,13 @@
    "BUY",
    3000,
    1791867036
+  ],
+  [
+   "0xeb2df2a98323ca889e7dfa360fd2057e0303a3328b896985112672e6b9c4276b",
+   "18937264600976646320154936572517088224322854600856366590206396438046471434492",
+   "BUY",
+   4500,
+   1791870999
   ]
  ],
  "leader_pos": {
@@ -38377,6 +38384,18 @@
    "cost": 2458.1358999000004,
    "max_shares": 3000.0,
    "last_trade_ts": 1791867036
+  },
+  "jtwyslljy|18937264600976646320154936572517088224322854600856366590206396438046471434492": {
+   "leader": "jtwyslljy",
+   "asset": "18937264600976646320154936572517088224322854600856366590206396438046471434492",
+   "condition_id": "0xa01c50482d7787ab543d82d4cdc470bb2077e2d9b54e8f7499d50d98a82009e9",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Jakub Mensik",
+   "outcome": "Arthur Gea",
+   "slug": "atp-gea-mensik-2026-10-13",
+   "shares": 4500.0,
+   "cost": 1800.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1791870999
   }
  },
  "positions": [],
@@ -63203,8 +63222,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
    "outcome": "Alex de Minaur"
+  },
+  {
+   "at": "2026-10-13T06:01:01.119051+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T05:55:00+00:00",
+   "condition_id": "0xa01c50482d7787ab543d82d4cdc470bb2077e2d9b54e8f7499d50d98a82009e9",
+   "asset": "18937264600976646320154936572517088224322854600856366590206396438046471434492",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.36,
+   "cf_shares": 276.0805,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3622,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Jakub Mensik",
+   "outcome": "Arthur Gea"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T04:55:24.891662+00:00"
+ "last_updated": "2026-10-13T06:01:01.119848+00:00"
 }
