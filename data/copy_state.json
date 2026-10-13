@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791900412,
+  "jtwyslljy": 1791919836,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24050,6 +24050,13 @@
    "BUY",
    4226.44,
    1791900412
+  ],
+  [
+   "0xa0156a7a49c5875956f3536673d2ab0d6b5830c9e76c367915c3c61149869971",
+   "61481175352753841630138779747165992619221387214770182925968973970556253581746",
+   "BUY",
+   27750,
+   1791919836
   ]
  ],
  "leader_pos": {
@@ -38644,6 +38651,18 @@
    "cost": 1484.1448,
    "max_shares": 6998.08,
    "last_trade_ts": 1791900412
+  },
+  "jtwyslljy|61481175352753841630138779747165992619221387214770182925968973970556253581746": {
+   "leader": "jtwyslljy",
+   "asset": "61481175352753841630138779747165992619221387214770182925968973970556253581746",
+   "condition_id": "0x70a0337d92965e925c36bf4d50a944a22914f25e9984a5080ffcf58326c467e5",
+   "title": "Will FC Barcelona win on 2026-10-13?",
+   "outcome": "No",
+   "slug": "ucl-gal-fcb-2026-10-13",
+   "shares": 27750.0,
+   "cost": 12598.408899525,
+   "max_shares": 27750.0,
+   "last_trade_ts": 1791919836
   }
  },
  "positions": [],
@@ -63694,8 +63713,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Hubert Hurkacz vs Alejandro Davidovich Fokina",
    "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-13T19:30:55.556643+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T19:00:00+00:00",
+   "condition_id": "0x70a0337d92965e925c36bf4d50a944a22914f25e9984a5080ffcf58326c467e5",
+   "asset": "61481175352753841630138779747165992619221387214770182925968973970556253581746",
+   "copy_delay_min": 0.3,
+   "cf_ask": 0.43,
+   "cf_shares": 231.5843,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4318,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will FC Barcelona win on 2026-10-13?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T14:15:38.471236+00:00"
+ "last_updated": "2026-10-13T19:30:55.557414+00:00"
 }
