@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9561.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791881194,
+  "jtwyslljy": 1791883798,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -23924,6 +23924,27 @@
    "BUY",
    5000,
    1791881194
+  ],
+  [
+   "0x05879f56d690247dd96bffefbd8dd3d9223e00a8a5dd9bbc324243b1ebb7e86a",
+   "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "BUY",
+   3000,
+   1791883373
+  ],
+  [
+   "0x73af19227197dc2129af178112a9f3e24196ca913f377cd33d0bc2794484f64b",
+   "42747811725134740789728444592624994503894214297133693447929714350024052605039",
+   "SELL",
+   11000,
+   1791883700
+  ],
+  [
+   "0xa9b5ec898a3096569144a5702110b7bec9df4ccda6fd51081c127056fb43fb44",
+   "65727395714778276462056694413489165397339931656164624217871253423583582551514",
+   "BUY",
+   7000,
+   1791883798
   ]
  ],
  "leader_pos": {
@@ -38418,10 +38439,22 @@
    "title": "Wuhan Tennis Open: Lilli Tagger vs Nikola Bartunkova",
    "outcome": "Lilli Tagger",
    "slug": "wta-tagger-bartunk-2026-10-11",
-   "shares": 8000.0,
-   "cost": 3680.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1791881194
+   "shares": 0.0,
+   "cost": 3970.0,
+   "max_shares": 11000.0,
+   "last_trade_ts": 1791883700
+  },
+  "jtwyslljy|65727395714778276462056694413489165397339931656164624217871253423583582551514": {
+   "leader": "jtwyslljy",
+   "asset": "65727395714778276462056694413489165397339931656164624217871253423583582551514",
+   "condition_id": "0xe26e239c6ce505e9a19d2889dbe3b5b0a8a08c2207c516e77857204c5d1e3920",
+   "title": "Wuhan Tennis Open: Daria Snigur vs Elise Mertens",
+   "outcome": "Elise Mertens",
+   "slug": "wta-snigur-mertens-2026-10-11",
+   "shares": 7000.0,
+   "cost": 2933.8200003,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791883798
   }
  },
  "positions": [],
@@ -63280,8 +63313,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Lilli Tagger vs Nikola Bartunkova",
    "outcome": "Lilli Tagger"
+  },
+  {
+   "at": "2026-10-13T09:30:49.074552+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-13T08:25:00+00:00",
+   "condition_id": "0xe26e239c6ce505e9a19d2889dbe3b5b0a8a08c2207c516e77857204c5d1e3920",
+   "asset": "65727395714778276462056694413489165397339931656164624217871253423583582551514",
+   "copy_delay_min": 0.8,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Daria Snigur vs Elise Mertens",
+   "outcome": "Elise Mertens"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-13T08:50:32.366827+00:00"
+ "last_updated": "2026-10-13T09:30:49.075258+00:00"
 }
