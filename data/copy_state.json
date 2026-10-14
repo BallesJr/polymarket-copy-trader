@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791979848,
+  "jtwyslljy": 1791983229,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24211,6 +24211,34 @@
    "BUY",
    2233.09,
    1791979848
+  ],
+  [
+   "0x35dabb065d061643a5857f360bbbb995044d4a1231417c27356b0178c880091a",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   335,
+   1791983054
+  ],
+  [
+   "0xffd9f00201a5c921552c4888d1cad17903cd29e816f3f0094360877c18825436",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   400,
+   1791983096
+  ],
+  [
+   "0x1e15adb8ed66de585edce11c547706e6fd06f005febe22d0378d881438519f5d",
+   "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "BUY",
+   3644.33,
+   1791983157
+  ],
+  [
+   "0x30ff0df862c39449854999209df420eac97e34a1fc66f7ed45a3b36d923761d2",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   5000,
+   1791983229
   ]
  ],
  "leader_pos": {
@@ -38957,10 +38985,22 @@
    "title": "Shanghai Rolex Masters: Tommy Paul vs Zizou Bergs",
    "outcome": "Zizou Bergs",
    "slug": "atp-paul-bergs-2026-10-13",
-   "shares": 2293.09,
-   "cost": 824.9124,
-   "max_shares": 2293.09,
-   "last_trade_ts": 1791979848
+   "shares": 5937.42,
+   "cost": 1175.4197000524541,
+   "max_shares": 5937.42,
+   "last_trade_ts": 1791983157
+  },
+  "jtwyslljy|63652740973624085233760525581713845068683930332621707211404109818158238611278": {
+   "leader": "jtwyslljy",
+   "asset": "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "condition_id": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
+   "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
+   "outcome": "Aryna Sabalenka",
+   "slug": "wta-sabalen-annli-2026-10-14",
+   "shares": 5735.0,
+   "cost": 1839.1,
+   "max_shares": 5735.0,
+   "last_trade_ts": 1791983229
   }
  },
  "positions": [],
@@ -64289,8 +64329,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Tommy Paul vs Zizou Bergs",
    "outcome": "Zizou Bergs"
+  },
+  {
+   "at": "2026-10-14T13:10:30.918613+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:55:00+00:00",
+   "condition_id": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
+   "asset": "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.11,
+   "cf_shares": 909.0909,
+   "cf_cost": 100.0,
+   "cf_entry": 0.11,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Tommy Paul vs Zizou Bergs",
+   "outcome": "Zizou Bergs"
+  },
+  {
+   "at": "2026-10-14T13:10:31.058020+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:10:00+00:00",
+   "condition_id": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
+   "asset": "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.17,
+   "cf_shares": 588.2353,
+   "cf_cost": 100.0,
+   "cf_entry": 0.17,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
+   "outcome": "Aryna Sabalenka"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T12:15:39.111134+00:00"
+ "last_updated": "2026-10-14T13:10:31.058930+00:00"
 }
