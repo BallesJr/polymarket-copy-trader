@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9361.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791986100,
+  "jtwyslljy": 1791986690,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24337,6 +24337,27 @@
    "BUY",
    7000,
    1791986100
+  ],
+  [
+   "0x63bc5c5dfc19d530fd66c2a08136a38b0d2a624a0bb1208a50ffb9b62adb850f",
+   "79598941252682908737882163457127891877040689398140724065493119821139456907736",
+   "SELL",
+   1204.04,
+   1791986652
+  ],
+  [
+   "0x50e5a105cec426dd4054652c10236e8ba07f6c8f1f9f88651dd4953228e8c2b7",
+   "79598941252682908737882163457127891877040689398140724065493119821139456907736",
+   "SELL",
+   5692.51,
+   1791986667
+  ],
+  [
+   "0x76a5f96996faabe1da354df75c0a570aa1fa867ef5dff11bc25c038ff8d1d3b4",
+   "64102789677539747160509516358862027936744546703294270019379136292690697216848",
+   "BUY",
+   3000,
+   1791986690
   ]
  ],
  "leader_pos": {
@@ -39131,10 +39152,22 @@
    "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
    "outcome": "Han Shi",
    "slug": "wta-shi-fernand-2026-10-13",
-   "shares": 7000.0,
-   "cost": 2029.9999999999998,
+   "shares": 103.44999999999982,
+   "cost": 86.92559999999958,
    "max_shares": 7000.0,
-   "last_trade_ts": 1791986100
+   "last_trade_ts": 1791986667
+  },
+  "jtwyslljy|64102789677539747160509516358862027936744546703294270019379136292690697216848": {
+   "leader": "jtwyslljy",
+   "asset": "64102789677539747160509516358862027936744546703294270019379136292690697216848",
+   "condition_id": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
+   "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-shi-fernand-2026-10-13",
+   "shares": 3000.0,
+   "cost": 2160.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1791986690
   }
  },
  "positions": [
@@ -64562,8 +64595,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Aryna Sabalenka"
+  },
+  {
+   "at": "2026-10-14T14:10:33.182571+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T14:10:00+00:00",
+   "condition_id": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
+   "asset": "64102789677539747160509516358862027936744546703294270019379136292690697216848",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T14:01:06.752293+00:00"
+ "last_updated": "2026-10-14T14:10:33.381201+00:00"
 }
