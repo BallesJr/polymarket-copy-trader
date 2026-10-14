@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791979770,
+  "jtwyslljy": 1791979848,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24197,6 +24197,20 @@
    "BUY",
    1679.95,
    1791979770
+  ],
+  [
+   "0xf757a2d92853d28c94285983cb3f33551c1781dbed883d3024bb4b3f26f84474",
+   "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "BUY",
+   60,
+   1791979844
+  ],
+  [
+   "0x33a2e92f1c5c301f823255e6b440f6e6c5e5bde4033e8c90581d605aa2d4e1ab",
+   "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "BUY",
+   2233.09,
+   1791979848
   ]
  ],
  "leader_pos": {
@@ -38935,6 +38949,18 @@
    "cost": 940.7720000000002,
    "max_shares": 1679.95,
    "last_trade_ts": 1791979770
+  },
+  "jtwyslljy|90829607686250150979842012594486347137355724488951821555898854952319777365696": {
+   "leader": "jtwyslljy",
+   "asset": "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "condition_id": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
+   "title": "Shanghai Rolex Masters: Tommy Paul vs Zizou Bergs",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-paul-bergs-2026-10-13",
+   "shares": 2293.09,
+   "cost": 824.9124,
+   "max_shares": 2293.09,
+   "last_trade_ts": 1791979848
   }
  },
  "positions": [],
@@ -64247,8 +64273,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Ashlyn Krueger vs Lanlana Tararudee",
    "outcome": "Ashlyn Krueger"
+  },
+  {
+   "at": "2026-10-14T12:15:39.110437+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:55:00+00:00",
+   "condition_id": "0xe9cef9f7cf235ab346b7e8deabd6a19041c93a8d326d99c2b574e9d0823ae699",
+   "asset": "90829607686250150979842012594486347137355724488951821555898854952319777365696",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.35,
+   "cf_shares": 280.8333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3561,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Tommy Paul vs Zizou Bergs",
+   "outcome": "Zizou Bergs"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T12:10:31.217675+00:00"
+ "last_updated": "2026-10-14T12:15:39.111134+00:00"
 }
