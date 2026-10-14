@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791950066,
+  "jtwyslljy": 1791950101,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24120,6 +24120,13 @@
    "BUY",
    2234.3,
    1791950066
+  ],
+  [
+   "0x500115288305e533095ea655edd0c1624d1ed8ba1532f198ab474f21040e3926",
+   "111604895023945586131347056735055755045144911035533662522113104033631415600585",
+   "BUY",
+   3513.47,
+   1791950101
   ]
  ],
  "leader_pos": {
@@ -38758,10 +38765,10 @@
    "title": "Wuhan Tennis Open: Marie Bouzkova vs Maja Chwalinska",
    "outcome": "Maja Chwalinska",
    "slug": "wta-bouzkov-chwalin-2026-10-13",
-   "shares": 7999.99,
-   "cost": 2159.9973,
-   "max_shares": 7999.99,
-   "last_trade_ts": 1791947575
+   "shares": 11513.46,
+   "cost": 2650.883100033417,
+   "max_shares": 11513.46,
+   "last_trade_ts": 1791950101
   },
   "jtwyslljy|74069997017904559510427510758605204242446584315227683916442199751547369239719": {
    "leader": "jtwyslljy",
@@ -63967,8 +63974,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Sonay Kartal vs Belinda Bencic",
    "outcome": "Belinda Bencic"
+  },
+  {
+   "at": "2026-10-14T04:05:25.625586+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T03:05:00+00:00",
+   "condition_id": "0xf64593cb800b3be3ae86b63af78fca5ebbe8ee6218fac85e71789900491835b6",
+   "asset": "111604895023945586131347056735055755045144911035533662522113104033631415600585",
+   "copy_delay_min": 10.4,
+   "cf_ask": 0.24,
+   "cf_shares": 416.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.24,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Marie Bouzkova vs Maja Chwalinska",
+   "outcome": "Maja Chwalinska"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T04:00:55.310259+00:00"
+ "last_updated": "2026-10-14T04:05:25.841274+00:00"
 }
