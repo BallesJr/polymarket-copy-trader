@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791961624,
+  "jtwyslljy": 1791964745,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24148,6 +24148,13 @@
    "BUY",
    5000,
    1791961624
+  ],
+  [
+   "0xbf3348b40474746338fd83f485595f446ff0ed8cfd42609dbb6b3b23af317b41",
+   "73021333414311452376022570861715656380152349535991467973828246345340124985549",
+   "SELL",
+   2000,
+   1791964745
   ]
  ],
  "leader_pos": {
@@ -38834,10 +38841,10 @@
    "title": "Wuhan Tennis Open: Karolina Muchova vs Caty McNally",
    "outcome": "Karolina Muchova",
    "slug": "wta-muchova-mcnally-2026-10-13",
-   "shares": 5100.0,
-   "cost": 2193.0,
+   "shares": 3100.0,
+   "cost": 353.0,
    "max_shares": 5100.0,
-   "last_trade_ts": 1791957397
+   "last_trade_ts": 1791964745
   }
  },
  "positions": [
@@ -64070,5 +64077,5 @@
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T07:15:36.776031+00:00"
+ "last_updated": "2026-10-14T08:01:00.015159+00:00"
 }
