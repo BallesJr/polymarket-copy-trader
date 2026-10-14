@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791966818,
+  "jtwyslljy": 1791971287,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24162,6 +24162,13 @@
    "BUY",
    5000,
    1791966818
+  ],
+  [
+   "0xfc9479ba7958c5b60c4592ed9eae764530e0faad7886d0a08721d4ede96a523a",
+   "50002644695948603592767138100676465395101268054177414977194190748962081838971",
+   "SELL",
+   5000,
+   1791971287
   ]
  ],
  "leader_pos": {
@@ -38860,10 +38867,10 @@
    "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
    "outcome": "Katie Volynets",
    "slug": "wta-volynet-guo-2026-10-13",
-   "shares": 5000.0,
-   "cost": 2100.0,
+   "shares": 0.0,
+   "cost": -100.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1791966818
+   "last_trade_ts": 1791971287
   }
  },
  "positions": [],
@@ -64115,5 +64122,5 @@
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T08:40:30.495961+00:00"
+ "last_updated": "2026-10-14T09:50:29.357718+00:00"
 }
