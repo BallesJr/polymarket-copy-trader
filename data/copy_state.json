@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9361.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791990553,
+  "jtwyslljy": 1791995502,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24393,6 +24393,13 @@
    "BUY",
    2650,
    1791990553
+  ],
+  [
+   "0x2b1b2eaf82fd91180e0d7a3f96894a49f290d03b0ab4242addac46dfdb29ff98",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "BUY",
+   515.78,
+   1791995502
   ]
  ],
  "leader_pos": {
@@ -39175,10 +39182,10 @@
    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
    "outcome": "PARIVISION",
    "slug": "cs2-lgc-prv-2026-10-14",
-   "shares": 7200.0,
-   "cost": 3024.0,
-   "max_shares": 7200.0,
-   "last_trade_ts": 1791986069
+   "shares": 7715.78,
+   "cost": 3137.4716,
+   "max_shares": 7715.78,
+   "last_trade_ts": 1791995502
   },
   "jtwyslljy|79598941252682908737882163457127891877040689398140724065493119821139456907736": {
    "leader": "jtwyslljy",
@@ -64697,5 +64704,5 @@
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T15:15:34.677159+00:00"
+ "last_updated": "2026-10-14T16:40:33.215021+00:00"
 }
