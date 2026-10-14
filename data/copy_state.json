@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9261.874604900002,
+ "bankroll": 9274.490210100003,
  "last_seen": {
-  "jtwyslljy": 1791996514,
+  "jtwyslljy": 1791999087,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24414,6 +24414,48 @@
    "BUY",
    6000,
    1791996514
+  ],
+  [
+   "0x1787c9b5b4ae5e02ecb438adac56642aa83878616988b3c239c5576f1f115076",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   3132.67,
+   1791998932
+  ],
+  [
+   "0x2e749a3dae76d2c4e73fa576d399b6b07e39cd829b0d2845b04a93eac4dd5e6b",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   2640.67,
+   1791998962
+  ],
+  [
+   "0x452d603f17ff5466bbceec49292c9b64ef89563274a0569899647ac0f31a4c6c",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   1705.53,
+   1791999013
+  ],
+  [
+   "0xd21bd7dcfea322752b75714fa0b206595c1311683709554fbed249d7e0e95d47",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   5,
+   1791999027
+  ],
+  [
+   "0x5db6df6282be7f011491d325c3ab5cfb075ce10cc767db43ea3a3c7e01a99f17",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   651.28,
+   1791999043
+  ],
+  [
+   "0x84039154a71a7012b98bcc5d22e2d5db7d113f170504240dad59b9971a16423d",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "SELL",
+   2047.98,
+   1791999087
   ]
  ],
  "leader_pos": {
@@ -39196,10 +39238,10 @@
    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
    "outcome": "PARIVISION",
    "slug": "cs2-lgc-prv-2026-10-14",
-   "shares": 12773.779999999999,
-   "cost": 4047.9116,
+   "shares": 2590.649999999999,
+   "cost": 3724.363029961046,
    "max_shares": 12773.779999999999,
-   "last_trade_ts": 1791996408
+   "last_trade_ts": 1791999087
   },
   "jtwyslljy|79598941252682908737882163457127891877040689398140724065493119821139456907736": {
    "leader": "jtwyslljy",
@@ -39239,24 +39281,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "113146431540923687925537394606693608066920895709095428270229152175756129903173",
-   "condition_id": "0x50e435d442ea913e9e5c7cc1b03aaf1343b4bf51b77d3d3597cd20692438e56a",
-   "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
-   "outcome": "PARIVISION",
-   "slug": "cs2-lgc-prv-2026-10-14",
-   "opened_at": "2026-10-14T14:01:06.578746+00:00",
-   "entry_price": 0.42,
-   "shares": 238.0952,
-   "stake": 100.0,
-   "leader_vwap": 0.42,
-   "leader_cost": 3024.0,
-   "copy_delay_min": 6.6,
-   "best_ask": 0.42,
-   "ask_depth": 139903.2,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "107395718280278792721927308706756148752190284115412335473833589866347403819487",
@@ -51632,6 +51656,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "condition_id": "0x50e435d442ea913e9e5c7cc1b03aaf1343b4bf51b77d3d3597cd20692438e56a",
+   "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-lgc-prv-2026-10-14",
+   "opened_at": "2026-10-14T14:01:06.578746+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 3024.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.42,
+   "ask_depth": 139903.2,
+   "status": "closed",
+   "closed_at": "2026-10-14T17:35:29.026599+00:00",
+   "exit_price": 0.053,
+   "pnl": -87.3844,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -64747,6 +64793,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T16:55:24.531269+00:00"
+ "total_pnl": -625.509999999999,
+ "last_updated": "2026-10-14T17:35:29.372221+00:00"
 }
