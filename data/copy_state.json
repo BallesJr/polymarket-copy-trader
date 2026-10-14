@@ -38847,26 +38847,7 @@
    "last_trade_ts": 1791964745
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "74069997017904559510427510758605204242446584315227683916442199751547369239719",
-   "condition_id": "0x8fc59475b3a324c632c648ea56dd245ddd25f523b06fe32606c2599996ce3d86",
-   "title": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
-   "outcome": "Nikola Bartunkova",
-   "slug": "wta-paolini-bartunk-2026-10-13",
-   "opened_at": "2026-10-14T03:35:23.697064+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
-   "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 1995.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.57,
-   "ask_depth": 13115.58,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -51201,6 +51182,28 @@
    "exit_price": 0.1568,
    "pnl": -65.9172,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74069997017904559510427510758605204242446584315227683916442199751547369239719",
+   "condition_id": "0x8fc59475b3a324c632c648ea56dd245ddd25f523b06fe32606c2599996ce3d86",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-paolini-bartunk-2026-10-13",
+   "opened_at": "2026-10-14T03:35:23.697064+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1995.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.57,
+   "ask_depth": 13115.58,
+   "status": "lost",
+   "closed_at": "2026-10-14T08:10:36.561630+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -64076,6 +64079,6 @@
    "outcome": "Karolina Muchova"
   }
  ],
- "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T08:01:00.015159+00:00"
+ "total_pnl": -538.1255999999989,
+ "last_updated": "2026-10-14T08:10:36.563713+00:00"
 }
