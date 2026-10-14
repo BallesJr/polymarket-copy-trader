@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791976100,
+  "jtwyslljy": 1791979770,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24190,6 +24190,13 @@
    "BUY",
    1143,
    1791976100
+  ],
+  [
+   "0xb3c192dd38d2af10a15aa1bb86ea69eb961add0a6097f2c3df06128e25b2b879",
+   "107279718635549123532972512490718273517693799004401876168098249365683309046930",
+   "BUY",
+   1679.95,
+   1791979770
   ]
  ],
  "leader_pos": {
@@ -38916,6 +38923,18 @@
    "cost": 2331.3723999999997,
    "max_shares": 14499.64,
    "last_trade_ts": 1791976100
+  },
+  "jtwyslljy|107279718635549123532972512490718273517693799004401876168098249365683309046930": {
+   "leader": "jtwyslljy",
+   "asset": "107279718635549123532972512490718273517693799004401876168098249365683309046930",
+   "condition_id": "0x19b161b3a88502554f4b04dac773ff87738ceddcb96e4e8200b7ce3386262f8f",
+   "title": "Wuhan Tennis Open: Ashlyn Krueger vs Lanlana Tararudee",
+   "outcome": "Ashlyn Krueger",
+   "slug": "wta-krueger-tararud-2026-10-14",
+   "shares": 1679.95,
+   "cost": 940.7720000000002,
+   "max_shares": 1679.95,
+   "last_trade_ts": 1791979770
   }
  },
  "positions": [],
@@ -64212,8 +64231,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
    "outcome": "Stefanos Tsitsipas"
+  },
+  {
+   "at": "2026-10-14T12:10:31.217001+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:05:00+00:00",
+   "condition_id": "0x19b161b3a88502554f4b04dac773ff87738ceddcb96e4e8200b7ce3386262f8f",
+   "asset": "107279718635549123532972512490718273517693799004401876168098249365683309046930",
+   "copy_delay_min": 1.0,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Ashlyn Krueger vs Lanlana Tararudee",
+   "outcome": "Ashlyn Krueger"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T11:10:32.043601+00:00"
+ "last_updated": "2026-10-14T12:10:31.217675+00:00"
 }
