@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9461.874604900002,
+ "bankroll": 9361.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791985761,
+  "jtwyslljy": 1791986100,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24316,6 +24316,27 @@
    "BUY",
    854.41,
    1791985761
+  ],
+  [
+   "0xc9bfa3f1314d6714a7cccf13adc00052e6db0374dd7911ee4647e9b9c892b127",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   19.59,
+   1791985899
+  ],
+  [
+   "0x4cbed1ac120390f31b7bc7e1327a96a0df8dcda276536e6f6c15b758ba5e9a3f",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "BUY",
+   7200,
+   1791986069
+  ],
+  [
+   "0xf0e6418a55f3b4d14f93bb9e451ad384fc9d79ec1dff951202af9e2122189a1a",
+   "79598941252682908737882163457127891877040689398140724065493119821139456907736",
+   "BUY",
+   7000,
+   1791986100
   ]
  ],
  "leader_pos": {
@@ -39074,10 +39095,10 @@
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Aryna Sabalenka",
    "slug": "wta-sabalen-annli-2026-10-14",
-   "shares": 3854.41,
-   "cost": 1729.96275,
-   "max_shares": 3854.41,
-   "last_trade_ts": 1791985761
+   "shares": 3874.0,
+   "cost": 1733.0971499999998,
+   "max_shares": 3874.0,
+   "last_trade_ts": 1791985899
   },
   "jtwyslljy|39083478162071096572728915541021483798291772445978733644640969282371139122418": {
    "leader": "jtwyslljy",
@@ -39090,9 +39111,52 @@
    "cost": -769.1305200238,
    "max_shares": 1000.0,
    "last_trade_ts": 1791985589
+  },
+  "jtwyslljy|113146431540923687925537394606693608066920895709095428270229152175756129903173": {
+   "leader": "jtwyslljy",
+   "asset": "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "condition_id": "0x50e435d442ea913e9e5c7cc1b03aaf1343b4bf51b77d3d3597cd20692438e56a",
+   "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-lgc-prv-2026-10-14",
+   "shares": 7200.0,
+   "cost": 3024.0,
+   "max_shares": 7200.0,
+   "last_trade_ts": 1791986069
+  },
+  "jtwyslljy|79598941252682908737882163457127891877040689398140724065493119821139456907736": {
+   "leader": "jtwyslljy",
+   "asset": "79598941252682908737882163457127891877040689398140724065493119821139456907736",
+   "condition_id": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
+   "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
+   "outcome": "Han Shi",
+   "slug": "wta-shi-fernand-2026-10-13",
+   "shares": 7000.0,
+   "cost": 2029.9999999999998,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1791986100
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "condition_id": "0x50e435d442ea913e9e5c7cc1b03aaf1343b4bf51b77d3d3597cd20692438e56a",
+   "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-lgc-prv-2026-10-14",
+   "opened_at": "2026-10-14T14:01:06.578746+00:00",
+   "entry_price": 0.42,
+   "shares": 238.0952,
+   "stake": 100.0,
+   "leader_vwap": 0.42,
+   "leader_cost": 3024.0,
+   "copy_delay_min": 6.6,
+   "best_ask": 0.42,
+   "ask_depth": 139903.2,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -64466,8 +64530,40 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Aryna Sabalenka"
+  },
+  {
+   "at": "2026-10-14T14:01:06.124908+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T13:55:00+00:00",
+   "condition_id": "0x411307c341b65f94c064209b7a52f7ece441d3b9dbbc89b7336f144cd55e49cb",
+   "asset": "79598941252682908737882163457127891877040689398140724065493119821139456907736",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.29,
+   "cf_shares": 333.6227,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2997,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
+   "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-14T14:01:06.320437+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:10:00+00:00",
+   "condition_id": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
+   "asset": "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "copy_delay_min": 9.4,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
+   "outcome": "Aryna Sabalenka"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T13:55:26.497554+00:00"
+ "last_updated": "2026-10-14T14:01:06.752293+00:00"
 }
