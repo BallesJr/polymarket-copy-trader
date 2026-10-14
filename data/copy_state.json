@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791971287,
+  "jtwyslljy": 1791973394,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24169,6 +24169,13 @@
    "SELL",
    5000,
    1791971287
+  ],
+  [
+   "0xad9716842cc45c68486c471d0416df8da93bb4512320a7ce9d330e4895edd6d9",
+   "114492672295394863958930490663111290713247337676290371316255243540513065179998",
+   "BUY",
+   6284.98,
+   1791973394
   ]
  ],
  "leader_pos": {
@@ -38871,6 +38878,18 @@
    "cost": -100.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1791971287
+  },
+  "jtwyslljy|114492672295394863958930490663111290713247337676290371316255243540513065179998": {
+   "leader": "jtwyslljy",
+   "asset": "114492672295394863958930490663111290713247337676290371316255243540513065179998",
+   "condition_id": "0x707c103c88cbf1fc12db3fa893818a9911be320c736c1292258f479e7a478ac0",
+   "title": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
+   "outcome": "Jessica Pegula",
+   "slug": "wta-ostapen-pegula-2026-10-13",
+   "shares": 6284.98,
+   "cost": 2519.413959856794,
+   "max_shares": 6284.98,
+   "last_trade_ts": 1791973394
   }
  },
  "positions": [],
@@ -64119,8 +64138,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
    "outcome": "Katie Volynets"
+  },
+  {
+   "at": "2026-10-14T10:30:52.552428+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T08:15:00+00:00",
+   "condition_id": "0x707c103c88cbf1fc12db3fa893818a9911be320c736c1292258f479e7a478ac0",
+   "asset": "114492672295394863958930490663111290713247337676290371316255243540513065179998",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.489,
+   "cf_shares": 204.499,
+   "cf_cost": 100.0,
+   "cf_entry": 0.489,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
+   "outcome": "Jessica Pegula"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T09:50:29.357718+00:00"
+ "last_updated": "2026-10-14T10:30:52.553307+00:00"
 }
