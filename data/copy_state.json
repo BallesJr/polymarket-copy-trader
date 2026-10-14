@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9561.874604900002,
+ "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791947575,
+  "jtwyslljy": 1791948515,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24106,6 +24106,13 @@
    "BUY",
    7999.99,
    1791947575
+  ],
+  [
+   "0xa1a91adcea78f1a33b37d83ff05e4df9a6005789b6da591074894ef7c606b625",
+   "74069997017904559510427510758605204242446584315227683916442199751547369239719",
+   "BUY",
+   3500,
+   1791948515
   ]
  ],
  "leader_pos": {
@@ -38748,9 +38755,40 @@
    "cost": 2159.9973,
    "max_shares": 7999.99,
    "last_trade_ts": 1791947575
+  },
+  "jtwyslljy|74069997017904559510427510758605204242446584315227683916442199751547369239719": {
+   "leader": "jtwyslljy",
+   "asset": "74069997017904559510427510758605204242446584315227683916442199751547369239719",
+   "condition_id": "0x8fc59475b3a324c632c648ea56dd245ddd25f523b06fe32606c2599996ce3d86",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-paolini-bartunk-2026-10-13",
+   "shares": 3500.0,
+   "cost": 1994.9999999999998,
+   "max_shares": 3500.0,
+   "last_trade_ts": 1791948515
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "74069997017904559510427510758605204242446584315227683916442199751547369239719",
+   "condition_id": "0x8fc59475b3a324c632c648ea56dd245ddd25f523b06fe32606c2599996ce3d86",
+   "title": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
+   "outcome": "Nikola Bartunkova",
+   "slug": "wta-paolini-bartunk-2026-10-13",
+   "opened_at": "2026-10-14T03:35:23.697064+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 1995.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.57,
+   "ask_depth": 13115.58,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -63897,5 +63935,5 @@
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T03:20:33.011603+00:00"
+ "last_updated": "2026-10-14T03:35:23.885738+00:00"
 }
