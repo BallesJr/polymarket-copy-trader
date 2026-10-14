@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791954935,
+  "jtwyslljy": 1791957397,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24134,6 +24134,13 @@
    "BUY",
    5500,
    1791954935
+  ],
+  [
+   "0xbaf47eb23e261dc830a61b1d739d37f8bb461455dbef7162561ea9545c8bc9b3",
+   "73021333414311452376022570861715656380152349535991467973828246345340124985549",
+   "BUY",
+   5100,
+   1791957397
   ]
  ],
  "leader_pos": {
@@ -38812,6 +38819,18 @@
    "cost": 2310.0,
    "max_shares": 5500.0,
    "last_trade_ts": 1791954935
+  },
+  "jtwyslljy|73021333414311452376022570861715656380152349535991467973828246345340124985549": {
+   "leader": "jtwyslljy",
+   "asset": "73021333414311452376022570861715656380152349535991467973828246345340124985549",
+   "condition_id": "0x17c6f2a5466c411f7061b797818e6ef58e41495ba4503128780c98d7d531d2fd",
+   "title": "Wuhan Tennis Open: Karolina Muchova vs Caty McNally",
+   "outcome": "Karolina Muchova",
+   "slug": "wta-muchova-mcnally-2026-10-13",
+   "shares": 5100.0,
+   "cost": 2193.0,
+   "max_shares": 5100.0,
+   "last_trade_ts": 1791957397
   }
  },
  "positions": [
@@ -64025,8 +64044,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
    "outcome": "Rafael Jodar"
+  },
+  {
+   "at": "2026-10-14T06:05:25.720288+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T05:10:00+00:00",
+   "condition_id": "0x17c6f2a5466c411f7061b797818e6ef58e41495ba4503128780c98d7d531d2fd",
+   "asset": "73021333414311452376022570861715656380152349535991467973828246345340124985549",
+   "copy_delay_min": 8.8,
+   "cf_ask": 0.29,
+   "cf_shares": 336.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.297,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Karolina Muchova vs Caty McNally",
+   "outcome": "Karolina Muchova"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T05:20:32.178590+00:00"
+ "last_updated": "2026-10-14T06:05:25.906510+00:00"
 }
