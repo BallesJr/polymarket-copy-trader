@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791964745,
+  "jtwyslljy": 1791966818,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24155,6 +24155,13 @@
    "SELL",
    2000,
    1791964745
+  ],
+  [
+   "0xc17dda03d01e41da9fc2dd2bb8b78aab14e25f57cc2c76322fe62ebf5279e25b",
+   "50002644695948603592767138100676465395101268054177414977194190748962081838971",
+   "BUY",
+   5000,
+   1791966818
   ]
  ],
  "leader_pos": {
@@ -38845,6 +38852,18 @@
    "cost": 353.0,
    "max_shares": 5100.0,
    "last_trade_ts": 1791964745
+  },
+  "jtwyslljy|50002644695948603592767138100676465395101268054177414977194190748962081838971": {
+   "leader": "jtwyslljy",
+   "asset": "50002644695948603592767138100676465395101268054177414977194190748962081838971",
+   "condition_id": "0x86208891b063874eab32e69b6ffa54a442a2809c0ffab8688ece4a7a4a2540cb",
+   "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
+   "outcome": "Katie Volynets",
+   "slug": "wta-volynet-guo-2026-10-13",
+   "shares": 5000.0,
+   "cost": 2100.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1791966818
   }
  },
  "positions": [],
@@ -64077,8 +64096,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Karolina Muchova vs Caty McNally",
    "outcome": "Karolina Muchova"
+  },
+  {
+   "at": "2026-10-14T08:40:30.494979+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T07:45:00+00:00",
+   "condition_id": "0x86208891b063874eab32e69b6ffa54a442a2809c0ffab8688ece4a7a4a2540cb",
+   "asset": "50002644695948603592767138100676465395101268054177414977194190748962081838971",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
+   "outcome": "Katie Volynets"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T08:10:36.563713+00:00"
+ "last_updated": "2026-10-14T08:40:30.495961+00:00"
 }
