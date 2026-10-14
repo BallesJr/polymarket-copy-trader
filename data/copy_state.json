@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9361.874604900002,
+ "bankroll": 9261.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791995502,
+  "jtwyslljy": 1791996514,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24400,6 +24400,20 @@
    "BUY",
    515.78,
    1791995502
+  ],
+  [
+   "0xd101a9760f0cf5c0b89b7ea1a9ca1c3796fc97c144a2a6a0e9b9f707d7ce5e30",
+   "113146431540923687925537394606693608066920895709095428270229152175756129903173",
+   "BUY",
+   5058,
+   1791996408
+  ],
+  [
+   "0x1cc3cd97f18f538444601e02a4dbf7f4d0249a913683acc5c24294d907eb830a",
+   "107395718280278792721927308706756148752190284115412335473833589866347403819487",
+   "BUY",
+   6000,
+   1791996514
   ]
  ],
  "leader_pos": {
@@ -39182,10 +39196,10 @@
    "title": "Counter-Strike: Legacy vs PARIVISION (BO3) - Thunderpick World Championship Group B",
    "outcome": "PARIVISION",
    "slug": "cs2-lgc-prv-2026-10-14",
-   "shares": 7715.78,
-   "cost": 3137.4716,
-   "max_shares": 7715.78,
-   "last_trade_ts": 1791995502
+   "shares": 12773.779999999999,
+   "cost": 4047.9116,
+   "max_shares": 12773.779999999999,
+   "last_trade_ts": 1791996408
   },
   "jtwyslljy|79598941252682908737882163457127891877040689398140724065493119821139456907736": {
    "leader": "jtwyslljy",
@@ -39210,6 +39224,18 @@
    "cost": 13362.0803,
    "max_shares": 18500.11,
    "last_trade_ts": 1791990553
+  },
+  "jtwyslljy|107395718280278792721927308706756148752190284115412335473833589866347403819487": {
+   "leader": "jtwyslljy",
+   "asset": "107395718280278792721927308706756148752190284115412335473833589866347403819487",
+   "condition_id": "0xbd85291fb88f2b70c55d4cd215171c043dde87de3401bb74b1da2fbb87e583d3",
+   "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
+   "outcome": "Yes",
+   "slug": "ucl-bog-bvb-2026-10-14",
+   "shares": 6000.0,
+   "cost": 1980.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1791996514
   }
  },
  "positions": [
@@ -39229,6 +39255,24 @@
    "copy_delay_min": 6.6,
    "best_ask": 0.42,
    "ask_depth": 139903.2,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107395718280278792721927308706756148752190284115412335473833589866347403819487",
+   "condition_id": "0xbd85291fb88f2b70c55d4cd215171c043dde87de3401bb74b1da2fbb87e583d3",
+   "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
+   "outcome": "Yes",
+   "slug": "ucl-bog-bvb-2026-10-14",
+   "opened_at": "2026-10-14T16:55:24.223725+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 1980.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.33,
+   "ask_depth": 83235.69,
    "status": "open"
   }
  ],
@@ -64704,5 +64748,5 @@
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T16:40:33.215021+00:00"
+ "last_updated": "2026-10-14T16:55:24.531269+00:00"
 }
