@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791975859,
+  "jtwyslljy": 1791976100,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24183,6 +24183,13 @@
    "BUY",
    13356.64,
    1791975859
+  ],
+  [
+   "0x29b6b99cf277d06e3308957f87342c5d77597b3db797c4ee59494a2fb8b78771",
+   "3534730292991791514009382078457990496923305010880422055229721647892945518729",
+   "BUY",
+   1143,
+   1791976100
   ]
  ],
  "leader_pos": {
@@ -38905,10 +38912,10 @@
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
    "outcome": "Stefanos Tsitsipas",
    "slug": "atp-medvede-tsitsip-2026-10-13",
-   "shares": 13356.64,
-   "cost": 2137.0624,
-   "max_shares": 13356.64,
-   "last_trade_ts": 1791975859
+   "shares": 14499.64,
+   "cost": 2331.3723999999997,
+   "max_shares": 14499.64,
+   "last_trade_ts": 1791976100
   }
  },
  "positions": [],
@@ -64189,8 +64196,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
    "outcome": "Stefanos Tsitsipas"
+  },
+  {
+   "at": "2026-10-14T11:10:32.042833+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T10:10:00+00:00",
+   "condition_id": "0xd8ed079e5b6bfaf0b8c39e422020887e1323177e3c544ec9b47e5bcaee411287",
+   "asset": "3534730292991791514009382078457990496923305010880422055229721647892945518729",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Daniil Medvedev vs Stefanos Tsitsipas",
+   "outcome": "Stefanos Tsitsipas"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T11:05:23.727567+00:00"
+ "last_updated": "2026-10-14T11:10:32.043601+00:00"
 }
