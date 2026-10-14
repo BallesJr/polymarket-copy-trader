@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9274.490210100003,
+ "bankroll": 9577.520510100003,
  "last_seen": {
   "jtwyslljy": 1791999180,
   "0x53757615de": 1791717351
@@ -39287,26 +39287,7 @@
    "last_trade_ts": 1791999180
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "107395718280278792721927308706756148752190284115412335473833589866347403819487",
-   "condition_id": "0xbd85291fb88f2b70c55d4cd215171c043dde87de3401bb74b1da2fbb87e583d3",
-   "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
-   "outcome": "Yes",
-   "slug": "ucl-bog-bvb-2026-10-14",
-   "opened_at": "2026-10-14T16:55:24.223725+00:00",
-   "entry_price": 0.33,
-   "shares": 303.0303,
-   "stake": 100.0,
-   "leader_vwap": 0.33,
-   "leader_cost": 1980.0,
-   "copy_delay_min": 6.8,
-   "best_ask": 0.33,
-   "ask_depth": 83235.69,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -51685,6 +51666,28 @@
    "exit_price": 0.053,
    "pnl": -87.3844,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "107395718280278792721927308706756148752190284115412335473833589866347403819487",
+   "condition_id": "0xbd85291fb88f2b70c55d4cd215171c043dde87de3401bb74b1da2fbb87e583d3",
+   "title": "Will FK Bod\u00f8/Glimt win on 2026-10-14?",
+   "outcome": "Yes",
+   "slug": "ucl-bog-bvb-2026-10-14",
+   "opened_at": "2026-10-14T16:55:24.223725+00:00",
+   "entry_price": 0.33,
+   "shares": 303.0303,
+   "stake": 100.0,
+   "leader_vwap": 0.33,
+   "leader_cost": 1980.0,
+   "copy_delay_min": 6.8,
+   "best_ask": 0.33,
+   "ask_depth": 83235.69,
+   "status": "won",
+   "closed_at": "2026-10-14T21:25:29.312811+00:00",
+   "exit_price": 1.0,
+   "pnl": 203.0303,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -64800,6 +64803,6 @@
    "outcome": "Leylah Fernandez"
   }
  ],
- "total_pnl": -625.509999999999,
- "last_updated": "2026-10-14T17:40:30.277818+00:00"
+ "total_pnl": -422.47969999999896,
+ "last_updated": "2026-10-14T21:25:29.314844+00:00"
 }
