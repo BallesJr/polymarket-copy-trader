@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791950101,
+  "jtwyslljy": 1791954935,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24127,6 +24127,13 @@
    "BUY",
    3513.47,
    1791950101
+  ],
+  [
+   "0x327df1e672cb4a43ecd3cee7c2a6c0f6c6d3cbb060f8c14b3aa66eaed8b4f120",
+   "17148589210713963656464053375996611755285505279414384223767307184234690638094",
+   "BUY",
+   5500,
+   1791954935
   ]
  ],
  "leader_pos": {
@@ -38793,6 +38800,18 @@
    "cost": 737.3190000000001,
    "max_shares": 2234.3,
    "last_trade_ts": 1791950066
+  },
+  "jtwyslljy|17148589210713963656464053375996611755285505279414384223767307184234690638094": {
+   "leader": "jtwyslljy",
+   "asset": "17148589210713963656464053375996611755285505279414384223767307184234690638094",
+   "condition_id": "0x3c177594dfd342341fffd71d4c3613713d4a3172a49a8a0895e02f6650327576",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-zandsch-jodar-2026-10-13",
+   "shares": 5500.0,
+   "cost": 2310.0,
+   "max_shares": 5500.0,
+   "last_trade_ts": 1791954935
   }
  },
  "positions": [
@@ -63990,8 +64009,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Marie Bouzkova vs Maja Chwalinska",
    "outcome": "Maja Chwalinska"
+  },
+  {
+   "at": "2026-10-14T05:20:31.992977+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T04:00:00+00:00",
+   "condition_id": "0x3c177594dfd342341fffd71d4c3613713d4a3172a49a8a0895e02f6650327576",
+   "asset": "17148589210713963656464053375996611755285505279414384223767307184234690638094",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Botic van de Zandschulp vs Rafael Jodar",
+   "outcome": "Rafael Jodar"
   }
  ],
  "total_pnl": -438.1255999999989,
- "last_updated": "2026-10-14T04:05:25.841274+00:00"
+ "last_updated": "2026-10-14T05:20:32.178590+00:00"
 }
