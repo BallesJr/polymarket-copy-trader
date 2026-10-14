@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9461.874604900002,
  "last_seen": {
-  "jtwyslljy": 1791985242,
+  "jtwyslljy": 1791985761,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24281,6 +24281,41 @@
    "BUY",
    500,
    1791985242
+  ],
+  [
+   "0x07040c6c4ecd4948f4769af8c189a6c56c70688f3b75b7b0f8fbad9b153ebd5b",
+   "39083478162071096572728915541021483798291772445978733644640969282371139122418",
+   "SELL",
+   287,
+   1791985575
+  ],
+  [
+   "0xf773e8142f5e7f6cfb1ea2392404e8843cc926dcb660b2757048953dd3dba1e2",
+   "39083478162071096572728915541021483798291772445978733644640969282371139122418",
+   "SELL",
+   3713,
+   1791985589
+  ],
+  [
+   "0x4d676c0b22370626f32b4716b31ad8320520b2a49ab6fdc616903fd7c6868e1e",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   1000,
+   1791985710
+  ],
+  [
+   "0x2df5512c7707e76bca228a1cdc781d8ac249b2274f88bd0cea132f01fded8a68",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   2000,
+   1791985727
+  ],
+  [
+   "0x1f3e941b714c61d648657e748539c0b4ff25eac389304c8732a3e5cef449e910",
+   "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "BUY",
+   854.41,
+   1791985761
   ]
  ],
  "leader_pos": {
@@ -39039,10 +39074,10 @@
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Aryna Sabalenka",
    "slug": "wta-sabalen-annli-2026-10-14",
-   "shares": -2712.0199999999995,
-   "cost": -1181.158080021796,
-   "max_shares": 5735.0,
-   "last_trade_ts": 1791985016
+   "shares": 3854.41,
+   "cost": 1729.96275,
+   "max_shares": 3854.41,
+   "last_trade_ts": 1791985761
   },
   "jtwyslljy|39083478162071096572728915541021483798291772445978733644640969282371139122418": {
    "leader": "jtwyslljy",
@@ -39051,10 +39086,10 @@
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Ann Li",
    "slug": "wta-sabalen-annli-2026-10-14",
-   "shares": 1000.0,
-   "cost": 399.49482,
+   "shares": -3000.0,
+   "cost": -769.1305200238,
    "max_shares": 1000.0,
-   "last_trade_ts": 1791985242
+   "last_trade_ts": 1791985589
   }
  },
  "positions": [],
@@ -64415,8 +64450,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
    "outcome": "Aryna Sabalenka"
+  },
+  {
+   "at": "2026-10-14T13:55:26.496844+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-14T11:10:00+00:00",
+   "condition_id": "0x34ed824d03febbdb0c2abd5068768ebcc7d1b7d392668207e871ff83a2665151",
+   "asset": "63652740973624085233760525581713845068683930332621707211404109818158238611278",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Aryna Sabalenka vs Ann Li",
+   "outcome": "Aryna Sabalenka"
   }
  ],
  "total_pnl": -538.1255999999989,
- "last_updated": "2026-10-14T13:50:31.937263+00:00"
+ "last_updated": "2026-10-14T13:55:26.497554+00:00"
 }
