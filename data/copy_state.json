@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9406.795510100003,
+ "bankroll": 9306.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792063254,
+  "jtwyslljy": 1792067669,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24610,6 +24610,20 @@
    "BUY",
    10000,
    1792063254
+  ],
+  [
+   "0xd9a0fe7658f0afb7cc9c42c2a99c9304495a4c33e40c6e189182312d15374fa4",
+   "84521883170903066571871390686795662888375682008031741599979833022948519248586",
+   "BUY",
+   1999.99,
+   1792067566
+  ],
+  [
+   "0x2d6a41b472fd9a2f1e2372c8edc3e42d4cdb34a60dcc5b4bf2e49263043819d2",
+   "76239182401190883259173108268223966508640262075475936164578146388262766613917",
+   "BUY",
+   5228.19,
+   1792067669
   ]
  ],
  "leader_pos": {
@@ -39516,6 +39530,30 @@
    "cost": 175.7885,
    "max_shares": 1034.05,
    "last_trade_ts": 1792060555
+  },
+  "jtwyslljy|84521883170903066571871390686795662888375682008031741599979833022948519248586": {
+   "leader": "jtwyslljy",
+   "asset": "84521883170903066571871390686795662888375682008031741599979833022948519248586",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "shares": 1999.99,
+   "cost": 1339.9933,
+   "max_shares": 1999.99,
+   "last_trade_ts": 1792067566
+  },
+  "jtwyslljy|76239182401190883259173108268223966508640262075475936164578146388262766613917": {
+   "leader": "jtwyslljy",
+   "asset": "76239182401190883259173108268223966508640262075475936164578146388262766613917",
+   "condition_id": "0xde50a145b8e5f7a84c367a307f9708600a724ae9f2760e304daf6e1334568637",
+   "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "Team WE",
+   "slug": "lol-we-bro2-2026-10-15",
+   "shares": 5228.19,
+   "cost": 2509.5312,
+   "max_shares": 5228.19,
+   "last_trade_ts": 1792067669
   }
  },
  "positions": [
@@ -39535,6 +39573,24 @@
    "copy_delay_min": 7.0,
    "best_ask": 0.35,
    "ask_depth": 12366.94,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84521883170903066571871390686795662888375682008031741599979833022948519248586",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "opened_at": "2026-10-15T12:40:34.713238+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 1339.99,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.67,
+   "ask_depth": 4986.68,
    "status": "open"
   }
  ],
@@ -65201,8 +65257,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Leylah Fernandez vs Jelena Ostapenko",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-15T12:40:34.513187+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T09:00:00+00:00",
+   "condition_id": "0xde50a145b8e5f7a84c367a307f9708600a724ae9f2760e304daf6e1334568637",
+   "asset": "76239182401190883259173108268223966508640262075475936164578146388262766613917",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.37,
+   "cf_shares": 270.2703,
+   "cf_cost": 100.0,
+   "cf_entry": 0.37,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "Team WE"
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T11:25:25.743268+00:00"
+ "last_updated": "2026-10-15T12:40:34.889807+00:00"
 }
