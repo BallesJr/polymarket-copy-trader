@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9506.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792047934,
+  "jtwyslljy": 1792052434,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24547,6 +24547,27 @@
    "BUY",
    3000,
    1792047934
+  ],
+  [
+   "0x4ce87a2ddba8cb267d63c8904e5774e44a34a6270f62065802e4945b25626edc",
+   "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "BUY",
+   1479.52,
+   1792052354
+  ],
+  [
+   "0xd07ac9b6b99079aa9465deb7e20519aa74060676bc6f27976c884b95f8e700b8",
+   "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "BUY",
+   5000,
+   1792052375
+  ],
+  [
+   "0x98ff70e23f85bdad4213b3b14072eeb5ee38cf0a1279204364badec4c329f037",
+   "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "BUY",
+   9,
+   1792052434
   ]
  ],
  "leader_pos": {
@@ -39417,6 +39438,18 @@
    "cost": 960.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1792047934
+  },
+  "jtwyslljy|105737234162618123278055074572604520321696071384238415637140094486060406570784": {
+   "leader": "jtwyslljy",
+   "asset": "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "condition_id": "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957",
+   "title": "Wuhan Tennis Open: Leylah Fernandez vs Jelena Ostapenko",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-fernand-ostapen-2026-10-15",
+   "shares": 6488.52,
+   "cost": 1514.463499930976,
+   "max_shares": 6488.52,
+   "last_trade_ts": 1792052434
   }
  },
  "positions": [],
@@ -65051,8 +65084,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
    "outcome": "Iva Jovic"
+  },
+  {
+   "at": "2026-10-15T08:30:49.176820+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T07:40:00+00:00",
+   "condition_id": "0x5698980050a118397e8f1b8c6b0a8d5de6aecdb25f582e23ec83b9021dbf8957",
+   "asset": "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.5,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Leylah Fernandez vs Jelena Ostapenko",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T07:10:37.529559+00:00"
+ "last_updated": "2026-10-15T08:30:49.177704+00:00"
 }
