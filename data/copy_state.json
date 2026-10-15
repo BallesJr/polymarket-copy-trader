@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9506.795510100003,
+ "bankroll": 9406.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792056694,
+  "jtwyslljy": 1792059829,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24582,6 +24582,13 @@
    "BUY",
    4000,
    1792056694
+  ],
+  [
+   "0x1f10efa0ee8f46f4b26dd40a7cb8a741d5900db02802b10c6454b459b9910511",
+   "77523548439004351477836636023889036452870699573786326479102797129928986575283",
+   "BUY",
+   19000,
+   1792059829
   ]
  ],
  "leader_pos": {
@@ -39464,9 +39471,40 @@
    "cost": 760.0,
    "max_shares": 4000.0,
    "last_trade_ts": 1792056694
+  },
+  "jtwyslljy|77523548439004351477836636023889036452870699573786326479102797129928986575283": {
+   "leader": "jtwyslljy",
+   "asset": "77523548439004351477836636023889036452870699573786326479102797129928986575283",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "shares": 19000.0,
+   "cost": 6460.000000000001,
+   "max_shares": 19000.0,
+   "last_trade_ts": 1792059829
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "77523548439004351477836636023889036452870699573786326479102797129928986575283",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "opened_at": "2026-10-15T10:30:50.872988+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 6460.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.35,
+   "ask_depth": 12366.94,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -65133,5 +65171,5 @@
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T09:40:30.596731+00:00"
+ "last_updated": "2026-10-15T10:30:51.202769+00:00"
 }
