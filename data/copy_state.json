@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9477.520510100003,
  "last_seen": {
-  "jtwyslljy": 1792045855,
+  "jtwyslljy": 1792047131,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24498,6 +24498,13 @@
    "BUY",
    5000,
    1792045855
+  ],
+  [
+   "0x09e28d7287f53cfe1f67629e83d707be8680acec0da787177b784cb0d80713ab",
+   "76354666545439402305136200279561612861585975662446084721656267353679915353680",
+   "BUY",
+   57.99,
+   1792047131
   ]
  ],
  "leader_pos": {
@@ -39340,10 +39347,10 @@
    "title": "Shanghai Rolex Masters: Arthur Gea vs Alejandro Davidovich Fokina",
    "outcome": "Alejandro Davidovich Fokina",
    "slug": "atp-gea-fokina-2026-10-15",
-   "shares": 7915.1900000000005,
-   "cost": 3849.2911999999997,
-   "max_shares": 7915.1900000000005,
-   "last_trade_ts": 1792045855
+   "shares": 7973.18,
+   "cost": 3888.1445,
+   "max_shares": 7973.18,
+   "last_trade_ts": 1792047131
   }
  },
  "positions": [
@@ -64911,8 +64918,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Arthur Gea vs Alejandro Davidovich Fokina",
    "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-15T06:55:29.578414+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T06:35:00+00:00",
+   "condition_id": "0xc5a44a22f4282b6e9251fb7e746990180c04e3ec70851537d5c31e9d7b728724",
+   "asset": "76354666545439402305136200279561612861585975662446084721656267353679915353680",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.7,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Arthur Gea vs Alejandro Davidovich Fokina",
+   "outcome": "Alejandro Davidovich Fokina"
   }
  ],
  "total_pnl": -422.47969999999896,
- "last_updated": "2026-10-15T06:40:31.883806+00:00"
+ "last_updated": "2026-10-15T06:55:29.771771+00:00"
 }
