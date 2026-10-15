@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9306.795510100003,
+ "bankroll": 9206.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792070540,
+  "jtwyslljy": 1792075000,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24687,6 +24687,20 @@
    "BUY",
    3338.06,
    1792070540
+  ],
+  [
+   "0xfe9bb39d42e5dcd79ad616801ab33c29e9d3fc658885c27b11000cf7bd365d86",
+   "110342411017016947113059583160953719902779542778615840581247521389530031190858",
+   "BUY",
+   8053.82,
+   1792074908
+  ],
+  [
+   "0xb255668479404a62abc4522259d542d2becdd9b4cf190db8e3efeb3ee5dfd851",
+   "110342411017016947113059583160953719902779542778615840581247521389530031190858",
+   "BUY",
+   1846,
+   1792075000
   ]
  ],
  "leader_pos": {
@@ -39653,6 +39667,18 @@
    "cost": 1702.4106,
    "max_shares": 3338.06,
    "last_trade_ts": 1792070540
+  },
+  "jtwyslljy|110342411017016947113059583160953719902779542778615840581247521389530031190858": {
+   "leader": "jtwyslljy",
+   "asset": "110342411017016947113059583160953719902779542778615840581247521389530031190858",
+   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-prv-bb3-2026-10-15",
+   "shares": 9899.82,
+   "cost": 5246.9046,
+   "max_shares": 9899.82,
+   "last_trade_ts": 1792075000
   }
  },
  "positions": [
@@ -39690,6 +39716,24 @@
    "copy_delay_min": 7.8,
    "best_ask": 0.67,
    "ask_depth": 4986.68,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110342411017016947113059583160953719902779542778615840581247521389530031190858",
+   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-prv-bb3-2026-10-15",
+   "opened_at": "2026-10-15T14:40:35.724993+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5246.9,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.53,
+   "ask_depth": 10356.3,
    "status": "open"
   }
  ],
@@ -65423,5 +65467,5 @@
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T13:30:49.925988+00:00"
+ "last_updated": "2026-10-15T14:40:36.128814+00:00"
 }
