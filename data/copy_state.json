@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9206.795510100003,
+ "bankroll": 9356.049210100002,
  "last_seen": {
   "jtwyslljy": 1792075000,
   "0x53757615de": 1791717351
@@ -39684,42 +39684,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "77523548439004351477836636023889036452870699573786326479102797129928986575283",
-   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
-   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
-   "outcome": "Janice Tjen",
-   "slug": "wta-annli-tjen-2026-10-15",
-   "opened_at": "2026-10-15T10:30:50.872988+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.34,
-   "leader_cost": 6460.0,
-   "copy_delay_min": 7.0,
-   "best_ask": 0.35,
-   "ask_depth": 12366.94,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "84521883170903066571871390686795662888375682008031741599979833022948519248586",
-   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
-   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
-   "outcome": "Ann Li",
-   "slug": "wta-annli-tjen-2026-10-15",
-   "opened_at": "2026-10-15T12:40:34.713238+00:00",
-   "entry_price": 0.67,
-   "shares": 149.2537,
-   "stake": 100.0,
-   "leader_vwap": 0.67,
-   "leader_cost": 1339.99,
-   "copy_delay_min": 7.8,
-   "best_ask": 0.67,
-   "ask_depth": 4986.68,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "110342411017016947113059583160953719902779542778615840581247521389530031190858",
    "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
@@ -52159,6 +52123,50 @@
    "exit_price": 0.0937,
    "pnl": -70.725,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "77523548439004351477836636023889036452870699573786326479102797129928986575283",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "opened_at": "2026-10-15T10:30:50.872988+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.34,
+   "leader_cost": 6460.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.35,
+   "ask_depth": 12366.94,
+   "status": "lost",
+   "closed_at": "2026-10-15T15:35:25.328617+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "84521883170903066571871390686795662888375682008031741599979833022948519248586",
+   "condition_id": "0xbc381682f953f631a2090b55d1d5e3b43527bd183dc468f70443e0c780e671bb",
+   "title": "Wuhan Tennis Open: Ann Li vs Janice Tjen",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-tjen-2026-10-15",
+   "opened_at": "2026-10-15T12:40:34.713238+00:00",
+   "entry_price": 0.67,
+   "shares": 149.2537,
+   "stake": 100.0,
+   "leader_vwap": 0.67,
+   "leader_cost": 1339.99,
+   "copy_delay_min": 7.8,
+   "best_ask": 0.67,
+   "ask_depth": 4986.68,
+   "status": "won",
+   "closed_at": "2026-10-15T15:35:25.589846+00:00",
+   "exit_price": 1.0,
+   "pnl": 49.2537,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -65466,6 +65474,6 @@
    "outcome": "Matilde Jorge"
   }
  ],
- "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T14:40:36.128814+00:00"
+ "total_pnl": -543.950999999999,
+ "last_updated": "2026-10-15T15:35:25.591917+00:00"
 }
