@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9477.520510100003,
  "last_seen": {
-  "jtwyslljy": 1792047131,
+  "jtwyslljy": 1792047515,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24505,6 +24505,27 @@
    "BUY",
    57.99,
    1792047131
+  ],
+  [
+   "0xf31e83e5e1a83cdbf6b764d13854e749504d073de6d138885a5305fc0895001f",
+   "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "BUY",
+   359,
+   1792047340
+  ],
+  [
+   "0xeb11ae30b682ce46337b80770d7792b5cb9dd8eaee5209b92c1c626e4045fb71",
+   "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "BUY",
+   12000,
+   1792047472
+  ],
+  [
+   "0x177ea9218a663405e09fa1aa773be07f639af1f797bc78c50ef628a6421d71c1",
+   "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "BUY",
+   341,
+   1792047515
   ]
  ],
  "leader_pos": {
@@ -39351,6 +39372,18 @@
    "cost": 3888.1445,
    "max_shares": 7973.18,
    "last_trade_ts": 1792047131
+  },
+  "jtwyslljy|16571870397624565424934229572020362511386987953296375178175303124362054560849": {
+   "leader": "jtwyslljy",
+   "asset": "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "condition_id": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "outcome": "Iva Jovic",
+   "slug": "wta-jovic-chwalin-2026-10-14",
+   "shares": 12700.0,
+   "cost": 9892.0,
+   "max_shares": 12700.0,
+   "last_trade_ts": 1792047515
   }
  },
  "positions": [
@@ -64934,8 +64967,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Arthur Gea vs Alejandro Davidovich Fokina",
    "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-15T07:00:59.416309+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T06:30:00+00:00",
+   "condition_id": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "asset": "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "outcome": "Iva Jovic"
   }
  ],
  "total_pnl": -422.47969999999896,
- "last_updated": "2026-10-15T06:55:29.771771+00:00"
+ "last_updated": "2026-10-15T07:00:59.608302+00:00"
 }
