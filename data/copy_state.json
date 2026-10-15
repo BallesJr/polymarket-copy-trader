@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9577.520510100003,
  "last_seen": {
-  "jtwyslljy": 1791999180,
+  "jtwyslljy": 1792036621,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24463,6 +24463,13 @@
    "BUY",
    6000,
    1791999180
+  ],
+  [
+   "0xff03ab37233ee0bda9814ab0f6efb9aec8ce5d0cf60784cb664e297f37db8154",
+   "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "BUY",
+   5498.47,
+   1792036621
   ]
  ],
  "leader_pos": {
@@ -39285,6 +39292,18 @@
    "cost": 3960.0,
    "max_shares": 12000.0,
    "last_trade_ts": 1791999180
+  },
+  "jtwyslljy|87189690518792278639850698386227557163313391615556518592314283508350764284685": {
+   "leader": "jtwyslljy",
+   "asset": "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "condition_id": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
+   "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
+   "outcome": "Mia Pohankova",
+   "slug": "wta-pohanko-sakkari-2026-10-14",
+   "shares": 5498.47,
+   "cost": 1704.5257000000001,
+   "max_shares": 5498.47,
+   "last_trade_ts": 1792036621
   }
  },
  "positions": [],
@@ -64801,8 +64820,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-15T04:01:00.848028+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T04:00:00+00:00",
+   "condition_id": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
+   "asset": "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.32,
+   "cf_shares": 312.5,
+   "cf_cost": 100.0,
+   "cf_entry": 0.32,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
+   "outcome": "Mia Pohankova"
   }
  ],
  "total_pnl": -422.47969999999896,
- "last_updated": "2026-10-14T21:25:29.314844+00:00"
+ "last_updated": "2026-10-15T04:01:00.848827+00:00"
 }
