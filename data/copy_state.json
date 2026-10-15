@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9356.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792079648,
+  "jtwyslljy": 1792080707,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24750,6 +24750,13 @@
    "BUY",
    97,
    1792079648
+  ],
+  [
+   "0xe27d1d8eb1f6bd9f567dcf9c0e8685cbc2ff40ff4fcf81ca747ced7c19a3987c",
+   "70886351612245413991712556231047775675997278788809014654606949121686394108170",
+   "BUY",
+   596.51,
+   1792080707
   ]
  ],
  "leader_pos": {
@@ -39748,10 +39755,10 @@
    "title": "Counter-Strike: PARIVISION vs BetBoom Team - Map 1 Winner",
    "outcome": "BetBoom Team",
    "slug": "cs2-prv-bb3-2026-10-15",
-   "shares": 4500.07,
-   "cost": 3090.3224999999998,
-   "max_shares": 4500.07,
-   "last_trade_ts": 1792079648
+   "shares": 5096.58,
+   "cost": 3149.3347000059925,
+   "max_shares": 5096.58,
+   "last_trade_ts": 1792080707
   }
  },
  "positions": [
@@ -65577,8 +65584,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs BetBoom Team - Map 1 Winner",
    "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-15T16:15:36.949134+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T15:10:00+00:00",
+   "condition_id": "0xe2f4183464b6e50d6f9e8ed308130a52d4ac0c84838ff20ca31602098699d811",
+   "asset": "70886351612245413991712556231047775675997278788809014654606949121686394108170",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team - Map 1 Winner",
+   "outcome": "BetBoom Team"
   }
  ],
  "total_pnl": -543.950999999999,
- "last_updated": "2026-10-15T16:01:03.505087+00:00"
+ "last_updated": "2026-10-15T16:15:37.103971+00:00"
 }
