@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9306.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792070027,
+  "jtwyslljy": 1792070252,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24666,6 +24666,20 @@
    "BUY",
    1000,
    1792070027
+  ],
+  [
+   "0x17b418669fedce59b791d245f4f70483084d0ca70970875db0a3c7b280810930",
+   "87448142192904136116668608423442493851355800819650207693722904040262775327419",
+   "BUY",
+   6,
+   1792070243
+  ],
+  [
+   "0x29432505d02dfd4bebc164b744e16ed731002033c7c65627a16c6fdb4452e3d9",
+   "87448142192904136116668608423442493851355800819650207693722904040262775327419",
+   "BUY",
+   3000,
+   1792070252
   ]
  ],
  "leader_pos": {
@@ -39608,6 +39622,18 @@
    "cost": 348.6605999999997,
    "max_shares": 4180.94,
    "last_trade_ts": 1792069250
+  },
+  "jtwyslljy|87448142192904136116668608423442493851355800819650207693722904040262775327419": {
+   "leader": "jtwyslljy",
+   "asset": "87448142192904136116668608423442493851355800819650207693722904040262775327419",
+   "condition_id": "0x4a9d38b04d25269090aa6f6a6a43194f2531e10b2a2fe330eda1a68fbcfae3d9",
+   "title": "Olbia: Dimitar Kuzmanov vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-kuzmano-dzumhur-2026-10-15",
+   "shares": 3006.0,
+   "cost": 2074.02,
+   "max_shares": 3006.0,
+   "last_trade_ts": 1792070252
   }
  },
  "positions": [
@@ -65343,8 +65369,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
    "outcome": "Team WE"
+  },
+  {
+   "at": "2026-10-15T13:25:26.615978+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T11:30:00+00:00",
+   "condition_id": "0x4a9d38b04d25269090aa6f6a6a43194f2531e10b2a2fe330eda1a68fbcfae3d9",
+   "asset": "87448142192904136116668608423442493851355800819650207693722904040262775327419",
+   "copy_delay_min": 7.9,
+   "cf_ask": 0.87,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Olbia: Dimitar Kuzmanov vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T13:20:34.395042+00:00"
+ "last_updated": "2026-10-15T13:25:26.843994+00:00"
 }
