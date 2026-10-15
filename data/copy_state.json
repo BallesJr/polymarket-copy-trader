@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9356.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792081064,
+  "jtwyslljy": 1792081214,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24785,6 +24785,20 @@
    "SELL",
    10,
    1792081064
+  ],
+  [
+   "0xd79fb9bef0d3cd249cb2421582365b863c001abc32639be41ca15c8ba65b0615",
+   "4265288352144685544885136094753666222719346522411998952752038160755800854785",
+   "SELL",
+   2305,
+   1792081087
+  ],
+  [
+   "0xfaa0ba08e0f73c43493b00b99f5c0d52e986fb4b681addd438ae4877b1fb69ba",
+   "107637228360044167890739311925870166626885237268808710173013731243393212306798",
+   "BUY",
+   8762.89,
+   1792081214
   ]
  ],
  "leader_pos": {
@@ -39795,10 +39809,22 @@
    "title": "Maia: Tristan Boyer vs Vilius Gaubas",
    "outcome": "Vilius Gaubas",
    "slug": "atp-boyer-gaubas-2026-10-15",
-   "shares": 9304.59,
-   "cost": 4563.549099998,
+   "shares": 6999.59,
+   "cost": 3295.799099998,
    "max_shares": 9314.59,
-   "last_trade_ts": 1792081064
+   "last_trade_ts": 1792081087
+  },
+  "jtwyslljy|107637228360044167890739311925870166626885237268808710173013731243393212306798": {
+   "leader": "jtwyslljy",
+   "asset": "107637228360044167890739311925870166626885237268808710173013731243393212306798",
+   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "BetBoom Team",
+   "slug": "cs2-prv-bb3-2026-10-15",
+   "shares": 8762.89,
+   "cost": 2453.6092,
+   "max_shares": 8762.89,
+   "last_trade_ts": 1792081214
   }
  },
  "positions": [
@@ -65656,8 +65682,40 @@
    "leader": "jtwyslljy",
    "title": "Maia: Tristan Boyer vs Vilius Gaubas",
    "outcome": "Vilius Gaubas"
+  },
+  {
+   "at": "2026-10-15T16:25:27.263097+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T15:10:00+00:00",
+   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
+   "asset": "107637228360044167890739311925870166626885237268808710173013731243393212306798",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-15T16:25:27.443125+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T14:00:00+00:00",
+   "condition_id": "0xe8c9beab822f7f0825776ab634aa51069dcfcfe6a0fc227f7837ce117500d111",
+   "asset": "4265288352144685544885136094753666222719346522411998952752038160755800854785",
+   "copy_delay_min": 7.3,
+   "cf_ask": 0.52,
+   "cf_shares": 188.7872,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5297,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Maia: Tristan Boyer vs Vilius Gaubas",
+   "outcome": "Vilius Gaubas"
   }
  ],
  "total_pnl": -543.950999999999,
- "last_updated": "2026-10-15T16:20:35.481491+00:00"
+ "last_updated": "2026-10-15T16:25:27.614815+00:00"
 }
