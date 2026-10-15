@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9477.520510100003,
+ "bankroll": 9506.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792047515,
+  "jtwyslljy": 1792047934,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24526,6 +24526,27 @@
    "BUY",
    341,
    1792047515
+  ],
+  [
+   "0xb55227babf0adacdded7df223188005a4ae085877182831a43320440557b7abf",
+   "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "BUY",
+   7600,
+   1792047682
+  ],
+  [
+   "0xee8711cd2bbe5c126aa09e6d15ef345189d2708d6d7490f5d03ebd4d4ee57d1b",
+   "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "SELL",
+   6600.47,
+   1792047727
+  ],
+  [
+   "0xc484cb938f53c4b8ba6aaf89b22763a20deac6a03ad6b7d4b58fcbe92d41f088",
+   "73448888682466207561044737841311378912892864975914145303906335138111641257502",
+   "BUY",
+   3000,
+   1792047934
   ]
  ],
  "leader_pos": {
@@ -39356,10 +39377,10 @@
    "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
    "outcome": "Mia Pohankova",
    "slug": "wta-pohanko-sakkari-2026-10-14",
-   "shares": 6600.47,
-   "cost": 2057.1657000000005,
+   "shares": 0.0,
+   "cost": 1727.1422000000005,
    "max_shares": 6600.47,
-   "last_trade_ts": 1792041584
+   "last_trade_ts": 1792047727
   },
   "jtwyslljy|76354666545439402305136200279561612861585975662446084721656267353679915353680": {
    "leader": "jtwyslljy",
@@ -39380,32 +39401,25 @@
    "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
    "outcome": "Iva Jovic",
    "slug": "wta-jovic-chwalin-2026-10-14",
-   "shares": 12700.0,
-   "cost": 9892.0,
-   "max_shares": 12700.0,
-   "last_trade_ts": 1792047515
+   "shares": 20300.0,
+   "cost": 15364.0,
+   "max_shares": 20300.0,
+   "last_trade_ts": 1792047682
+  },
+  "jtwyslljy|73448888682466207561044737841311378912892864975914145303906335138111641257502": {
+   "leader": "jtwyslljy",
+   "asset": "73448888682466207561044737841311378912892864975914145303906335138111641257502",
+   "condition_id": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-jovic-chwalin-2026-10-14",
+   "shares": 3000.0,
+   "cost": 960.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1792047934
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "87189690518792278639850698386227557163313391615556518592314283508350764284685",
-   "condition_id": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
-   "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
-   "outcome": "Mia Pohankova",
-   "slug": "wta-pohanko-sakkari-2026-10-14",
-   "opened_at": "2026-10-15T05:19:13.531537+00:00",
-   "entry_price": 0.32,
-   "shares": 312.5,
-   "stake": 100.0,
-   "leader_vwap": 0.3102,
-   "leader_cost": 1737.17,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.32,
-   "ask_depth": 11881.24,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -51806,6 +51820,28 @@
    "exit_price": 1.0,
    "pnl": 203.0303,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "condition_id": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
+   "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
+   "outcome": "Mia Pohankova",
+   "slug": "wta-pohanko-sakkari-2026-10-14",
+   "opened_at": "2026-10-15T05:19:13.531537+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.3102,
+   "leader_cost": 1737.17,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.32,
+   "ask_depth": 11881.24,
+   "status": "closed",
+   "closed_at": "2026-10-15T07:10:37.344885+00:00",
+   "exit_price": 0.0937,
+   "pnl": -70.725,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -64983,8 +65019,40 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
    "outcome": "Iva Jovic"
+  },
+  {
+   "at": "2026-10-15T07:10:37.528776+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T06:30:00+00:00",
+   "condition_id": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "asset": "73448888682466207561044737841311378912892864975914145303906335138111641257502",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "outcome": "Maja Chwalinska"
+  },
+  {
+   "at": "2026-10-15T07:10:37.528840+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T06:30:00+00:00",
+   "condition_id": "0xebc8c8abb05720ff23becfa758ea03d3e13d1d568b1d597d7a6bc13a6018b161",
+   "asset": "16571870397624565424934229572020362511386987953296375178175303124362054560849",
+   "copy_delay_min": 9.2,
+   "cf_ask": 0.76,
+   "cf_shares": 131.5789,
+   "cf_cost": 100.0,
+   "cf_entry": 0.76,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Iva Jovic vs Maja Chwalinska",
+   "outcome": "Iva Jovic"
   }
  ],
- "total_pnl": -422.47969999999896,
- "last_updated": "2026-10-15T07:00:59.608302+00:00"
+ "total_pnl": -493.204699999999,
+ "last_updated": "2026-10-15T07:10:37.529559+00:00"
 }
