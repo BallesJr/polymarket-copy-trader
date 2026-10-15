@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9506.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792052434,
+  "jtwyslljy": 1792056524,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24568,6 +24568,13 @@
    "BUY",
    9,
    1792052434
+  ],
+  [
+   "0x9a15b403d7737cd0522971bc7393a7d9c9b41e4d51b631b7e0dac35dd20b9da0",
+   "105737234162618123278055074572604520321696071384238415637140094486060406570784",
+   "SELL",
+   6500.05,
+   1792056524
   ]
  ],
  "leader_pos": {
@@ -39446,10 +39453,10 @@
    "title": "Wuhan Tennis Open: Leylah Fernandez vs Jelena Ostapenko",
    "outcome": "Leylah Fernandez",
    "slug": "wta-fernand-ostapen-2026-10-15",
-   "shares": 6488.52,
-   "cost": 1514.463499930976,
+   "shares": -11.529999999999745,
+   "cost": 84.45249993097605,
    "max_shares": 6488.52,
-   "last_trade_ts": 1792052434
+   "last_trade_ts": 1792056524
   }
  },
  "positions": [],
@@ -65103,5 +65110,5 @@
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T08:30:49.177704+00:00"
+ "last_updated": "2026-10-15T09:35:24.651945+00:00"
 }
