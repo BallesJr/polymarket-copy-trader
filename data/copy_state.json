@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9306.795510100003,
  "last_seen": {
-  "jtwyslljy": 1792067669,
+  "jtwyslljy": 1792067966,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24624,6 +24624,13 @@
    "BUY",
    5228.19,
    1792067669
+  ],
+  [
+   "0xc7e4b990c1840ea7057bfee7899d041bdb7cacfe2fd7514ad2be42aa74339967",
+   "76239182401190883259173108268223966508640262075475936164578146388262766613917",
+   "BUY",
+   3000,
+   1792067966
   ]
  ],
  "leader_pos": {
@@ -39550,10 +39557,10 @@
    "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
    "outcome": "Team WE",
    "slug": "lol-we-bro2-2026-10-15",
-   "shares": 5228.19,
-   "cost": 2509.5312,
-   "max_shares": 5228.19,
-   "last_trade_ts": 1792067669
+   "shares": 8228.189999999999,
+   "cost": 3829.5312,
+   "max_shares": 8228.189999999999,
+   "last_trade_ts": 1792067966
   }
  },
  "positions": [
@@ -65273,8 +65280,24 @@
    "leader": "jtwyslljy",
    "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
    "outcome": "Team WE"
+  },
+  {
+   "at": "2026-10-15T12:45:38.786017+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-15T09:00:00+00:00",
+   "condition_id": "0xde50a145b8e5f7a84c367a307f9708600a724ae9f2760e304daf6e1334568637",
+   "asset": "76239182401190883259173108268223966508640262075475936164578146388262766613917",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.49,
+   "cf_shares": 204.0816,
+   "cf_cost": 100.0,
+   "cf_entry": 0.49,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "Team WE"
   }
  ],
  "total_pnl": -493.204699999999,
- "last_updated": "2026-10-15T12:40:34.889807+00:00"
+ "last_updated": "2026-10-15T12:45:38.973232+00:00"
 }
