@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9577.520510100003,
+ "bankroll": 9477.520510100003,
  "last_seen": {
-  "jtwyslljy": 1792036621,
+  "jtwyslljy": 1792041266,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24470,6 +24470,13 @@
    "BUY",
    5498.47,
    1792036621
+  ],
+  [
+   "0x8fe47a176c924be9d263c534738b75d0b624254ee219aa7c1b7624c5cc74bde3",
+   "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "BUY",
+   102,
+   1792041266
   ]
  ],
  "leader_pos": {
@@ -39300,13 +39307,32 @@
    "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
    "outcome": "Mia Pohankova",
    "slug": "wta-pohanko-sakkari-2026-10-14",
-   "shares": 5498.47,
-   "cost": 1704.5257000000001,
-   "max_shares": 5498.47,
-   "last_trade_ts": 1792036621
+   "shares": 5600.47,
+   "cost": 1737.1657000000002,
+   "max_shares": 5600.47,
+   "last_trade_ts": 1792041266
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "87189690518792278639850698386227557163313391615556518592314283508350764284685",
+   "condition_id": "0xa504db7c98c90ad1e39d12a3209513efd955a540e6975851d126627b3affaa84",
+   "title": "Wuhan Tennis Open: Mia Pohankova vs Maria Sakkari",
+   "outcome": "Mia Pohankova",
+   "slug": "wta-pohanko-sakkari-2026-10-14",
+   "opened_at": "2026-10-15T05:19:13.531537+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.3102,
+   "leader_cost": 1737.17,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.32,
+   "ask_depth": 11881.24,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -64839,5 +64865,5 @@
   }
  ],
  "total_pnl": -422.47969999999896,
- "last_updated": "2026-10-15T04:01:00.848827+00:00"
+ "last_updated": "2026-10-15T05:19:13.685481+00:00"
 }
