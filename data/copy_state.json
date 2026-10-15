@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9356.049210100002,
+ "bankroll": 9256.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792086496,
+  "jtwyslljy": 1792088107,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24834,6 +24834,13 @@
    "BUY",
    1185,
    1792086496
+  ],
+  [
+   "0xd27a063d8ac39e808b70c36406eabaaaef37cb78fe6adbe4fc94bf01cc43bf45",
+   "104033719924346752532083749781260306692003581700979106198713183641239015608702",
+   "BUY",
+   13500,
+   1792088107
   ]
  ],
  "leader_pos": {
@@ -39860,6 +39867,18 @@
    "cost": 3495.865800001,
    "max_shares": 9947.89,
    "last_trade_ts": 1792086496
+  },
+  "jtwyslljy|104033719924346752532083749781260306692003581700979106198713183641239015608702": {
+   "leader": "jtwyslljy",
+   "asset": "104033719924346752532083749781260306692003581700979106198713183641239015608702",
+   "condition_id": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-furia-2026-10-15",
+   "shares": 13500.0,
+   "cost": 5940.0,
+   "max_shares": 13500.0,
+   "last_trade_ts": 1792088107
   }
  },
  "positions": [
@@ -39879,6 +39898,24 @@
    "copy_delay_min": 3.9,
    "best_ask": 0.53,
    "ask_depth": 10356.3,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104033719924346752532083749781260306692003581700979106198713183641239015608702",
+   "condition_id": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-furia-2026-10-15",
+   "opened_at": "2026-10-15T18:20:32.947649+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 5940.0,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.43,
+   "ask_depth": 252.31,
    "status": "open"
   }
  ],
@@ -65768,5 +65805,5 @@
   }
  ],
  "total_pnl": -543.950999999999,
- "last_updated": "2026-10-15T17:55:30.182816+00:00"
+ "last_updated": "2026-10-15T18:20:33.268485+00:00"
 }
