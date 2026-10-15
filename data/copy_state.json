@@ -39884,24 +39884,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "110342411017016947113059583160953719902779542778615840581247521389530031190858",
-   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-   "outcome": "PARIVISION",
-   "slug": "cs2-prv-bb3-2026-10-15",
-   "opened_at": "2026-10-15T14:40:35.724993+00:00",
-   "entry_price": 0.53,
-   "shares": 188.6792,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 5246.9,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.53,
-   "ask_depth": 10356.3,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "104033719924346752532083749781260306692003581700979106198713183641239015608702",
    "condition_id": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
    "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
@@ -52384,6 +52366,28 @@
    "closed_at": "2026-10-15T15:35:25.589846+00:00",
    "exit_price": 1.0,
    "pnl": 49.2537,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "110342411017016947113059583160953719902779542778615840581247521389530031190858",
+   "condition_id": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
+   "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "PARIVISION",
+   "slug": "cs2-prv-bb3-2026-10-15",
+   "opened_at": "2026-10-15T14:40:35.724993+00:00",
+   "entry_price": 0.53,
+   "shares": 188.6792,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 5246.9,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.53,
+   "ask_depth": 10356.3,
+   "status": "lost",
+   "closed_at": "2026-10-15T18:40:31.514542+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -65804,6 +65808,6 @@
    "outcome": "BetBoom Team"
   }
  ],
- "total_pnl": -543.950999999999,
- "last_updated": "2026-10-15T18:20:33.268485+00:00"
+ "total_pnl": -643.950999999999,
+ "last_updated": "2026-10-15T18:40:31.516733+00:00"
 }
