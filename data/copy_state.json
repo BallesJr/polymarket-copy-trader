@@ -39881,26 +39881,7 @@
    "last_trade_ts": 1792088107
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "104033719924346752532083749781260306692003581700979106198713183641239015608702",
-   "condition_id": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
-   "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
-   "outcome": "Legacy",
-   "slug": "cs2-lgc-furia-2026-10-15",
-   "opened_at": "2026-10-15T18:20:32.947649+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 5940.0,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.43,
-   "ask_depth": 252.31,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -52386,6 +52367,28 @@
    "ask_depth": 10356.3,
    "status": "lost",
    "closed_at": "2026-10-15T18:40:31.514542+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "104033719924346752532083749781260306692003581700979106198713183641239015608702",
+   "condition_id": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
+   "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-furia-2026-10-15",
+   "opened_at": "2026-10-15T18:20:32.947649+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 5940.0,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.43,
+   "ask_depth": 252.31,
+   "status": "lost",
+   "closed_at": "2026-10-15T22:35:28.011091+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
@@ -65808,6 +65811,6 @@
    "outcome": "BetBoom Team"
   }
  ],
- "total_pnl": -643.950999999999,
- "last_updated": "2026-10-15T18:40:31.516733+00:00"
+ "total_pnl": -743.950999999999,
+ "last_updated": "2026-10-15T22:35:28.013007+00:00"
 }
