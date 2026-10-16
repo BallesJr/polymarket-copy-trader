@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792155252,
+  "jtwyslljy": 1792164181,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25149,6 +25149,13 @@
    "BUY",
    84.36,
    1792155252
+  ],
+  [
+   "0xc66dc35a7514e876dcd2b51e9ece780ea797cdd2398e8582d877ffc5d154fd93",
+   "773046305496941355931256210613926858794988843177648888627004067835396134332",
+   "BUY",
+   6999.99,
+   1792164181
   ]
  ],
  "leader_pos": {
@@ -40295,6 +40302,18 @@
    "cost": 58.2084,
    "max_shares": 84.36,
    "last_trade_ts": 1792155252
+  },
+  "jtwyslljy|773046305496941355931256210613926858794988843177648888627004067835396134332": {
+   "leader": "jtwyslljy",
+   "asset": "773046305496941355931256210613926858794988843177648888627004067835396134332",
+   "condition_id": "0xbc11925d2e4ea932447cc60859cce46d4c6bed66506864dc009aa1f61da21455",
+   "title": "Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A",
+   "outcome": "9z",
+   "slug": "cs2-aur1-9z-2026-10-16",
+   "shares": 6999.99,
+   "cost": 1189.9983,
+   "max_shares": 6999.99,
+   "last_trade_ts": 1792164181
   }
  },
  "positions": [],
@@ -66515,8 +66534,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Daniil Medvedev vs Tommy Paul",
    "outcome": "Tommy Paul"
+  },
+  {
+   "at": "2026-10-16T15:30:49.241931+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T14:10:00+00:00",
+   "condition_id": "0xbc11925d2e4ea932447cc60859cce46d4c6bed66506864dc009aa1f61da21455",
+   "asset": "773046305496941355931256210613926858794988843177648888627004067835396134332",
+   "copy_delay_min": 7.8,
+   "cf_ask": 0.15,
+   "cf_shares": 629.375,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1589,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A",
+   "outcome": "9z"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-16T13:30:49.054053+00:00"
+ "last_updated": "2026-10-16T15:30:49.242674+00:00"
 }
