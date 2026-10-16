@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9056.049210100002,
+ "bankroll": 9157.901070100002,
  "last_seen": {
-  "jtwyslljy": 1792134036,
+  "jtwyslljy": 1792134133,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24974,6 +24974,20 @@
    "SELL",
    3000,
    1792134036
+  ],
+  [
+   "0xc151ac1ceb9283c7b91981dc591a376694c8ce87d2f5cc6ed00f45c0b72d7dae",
+   "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "SELL",
+   2286,
+   1792134102
+  ],
+  [
+   "0x747355072716f12e7e425077fadde22d8e1ddc000e5be56cd160441760c1e089",
+   "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "SELL",
+   7649.9,
+   1792134133
   ]
  ],
  "leader_pos": {
@@ -40068,10 +40082,10 @@
    "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
    "outcome": "Rafael Jodar",
    "slug": "atp-jodar-ruud-2026-10-15",
-   "shares": 12000.0,
-   "cost": 6540.0,
+   "shares": 2064.1000000000004,
+   "cost": 1725.0480000000002,
    "max_shares": 12000.0,
-   "last_trade_ts": 1792132240
+   "last_trade_ts": 1792134133
   }
  },
  "positions": [
@@ -40091,24 +40105,6 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.35,
    "ask_depth": 8338.59,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "66113875190170226473012259011244027547973275560934538266639659375119082613403",
-   "condition_id": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
-   "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
-   "outcome": "Rafael Jodar",
-   "slug": "atp-jodar-ruud-2026-10-15",
-   "opened_at": "2026-10-16T06:30:46.395030+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 3300.0,
-   "copy_delay_min": 9.6,
-   "best_ask": 0.54,
-   "ask_depth": 5459.04,
    "status": "open"
   }
  ],
@@ -52622,6 +52618,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "condition_id": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-ruud-2026-10-15",
+   "opened_at": "2026-10-16T06:30:46.395030+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.54,
+   "ask_depth": 5459.04,
+   "status": "closed",
+   "closed_at": "2026-10-16T07:10:31.602725+00:00",
+   "exit_price": 0.55,
+   "pnl": 1.8519,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -66153,6 +66171,6 @@
    "outcome": "Elina Svitolina"
   }
  ],
- "total_pnl": -743.950999999999,
- "last_updated": "2026-10-16T07:05:27.667918+00:00"
+ "total_pnl": -742.099099999999,
+ "last_updated": "2026-10-16T07:10:31.833686+00:00"
 }
