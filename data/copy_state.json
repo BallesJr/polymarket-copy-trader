@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9256.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792115674,
+  "jtwyslljy": 1792120219,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24848,6 +24848,13 @@
    "BUY",
    19402.47,
    1792115674
+  ],
+  [
+   "0x89ba9f7d5a949e01375501a1fa4396a3f7d92d92fd10370a19ace7d5ccf4419a",
+   "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "SELL",
+   402,
+   1792120219
   ]
  ],
  "leader_pos": {
@@ -39894,10 +39901,10 @@
    "title": "Seahawks vs. Broncos",
    "outcome": "Broncos",
    "slug": "nfl-sea-den-2026-10-16",
-   "shares": 19402.47,
-   "cost": 14357.827800000001,
+   "shares": 19000.47,
+   "cost": 14000.0478,
    "max_shares": 19402.47,
-   "last_trade_ts": 1792115674
+   "last_trade_ts": 1792120219
   }
  },
  "positions": [],
@@ -65844,8 +65851,24 @@
    "leader": "jtwyslljy",
    "title": "Seahawks vs. Broncos",
    "outcome": "Broncos"
+  },
+  {
+   "at": "2026-10-16T03:20:31.063530+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T00:15:00+00:00",
+   "condition_id": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+   "asset": "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Seahawks vs. Broncos",
+   "outcome": "Broncos"
   }
  ],
  "total_pnl": -743.950999999999,
- "last_updated": "2026-10-16T01:55:43.158399+00:00"
+ "last_updated": "2026-10-16T03:20:31.064313+00:00"
 }
