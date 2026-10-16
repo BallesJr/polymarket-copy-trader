@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9156.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792126102,
+  "jtwyslljy": 1792126512,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24925,6 +24925,13 @@
    "BUY",
    10000,
    1792126102
+  ],
+  [
+   "0xdedae2e741a411a368d140dd1d58bc17a808b53e2e830c52720be03cf70c0736",
+   "17933533992460099789577349379251523311973150458573362884804116185832501873323",
+   "BUY",
+   1500,
+   1792126512
   ]
  ],
  "leader_pos": {
@@ -39995,10 +40002,10 @@
    "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
    "outcome": "Sonay Kartal",
    "slug": "wta-svitoli-kartal-2026-10-16",
-   "shares": 10000.0,
-   "cost": 3500.0,
-   "max_shares": 10000.0,
-   "last_trade_ts": 1792126102
+   "shares": 11500.0,
+   "cost": 4025.0,
+   "max_shares": 11500.0,
+   "last_trade_ts": 1792126512
   }
  },
  "positions": [
@@ -66031,5 +66038,5 @@
   }
  ],
  "total_pnl": -743.950999999999,
- "last_updated": "2026-10-16T04:55:26.221214+00:00"
+ "last_updated": "2026-10-16T05:01:01.547616+00:00"
 }
