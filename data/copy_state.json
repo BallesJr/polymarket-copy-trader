@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9443.615370100002,
+ "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792146072,
+  "jtwyslljy": 1792146199,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25121,6 +25121,20 @@
    "BUY",
    22,
    1792146072
+  ],
+  [
+   "0xf81856b25e28e411f8c2978a889126c5c89782a7ccd3d66f1017963d7199eca1",
+   "106125097224468314854735396846847687146390451657491579076290992776743470515052",
+   "BUY",
+   3800,
+   1792146159
+  ],
+  [
+   "0xab0a608245cadba4f0427e1c2b459a15c5b6fa13ff0fe4dd4061a1a1ecd03f9c",
+   "106125097224468314854735396846847687146390451657491579076290992776743470515052",
+   "BUY",
+   2500,
+   1792146199
   ]
  ],
  "leader_pos": {
@@ -40243,9 +40257,40 @@
    "cost": 4052.8702,
    "max_shares": 12795.73,
    "last_trade_ts": 1792146072
+  },
+  "jtwyslljy|106125097224468314854735396846847687146390451657491579076290992776743470515052": {
+   "leader": "jtwyslljy",
+   "asset": "106125097224468314854735396846847687146390451657491579076290992776743470515052",
+   "condition_id": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
+   "title": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-swiatek-2026-10-16",
+   "shares": 6300.0,
+   "cost": 1386.0,
+   "max_shares": 6300.0,
+   "last_trade_ts": 1792146199
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "106125097224468314854735396846847687146390451657491579076290992776743470515052",
+   "condition_id": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
+   "title": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-swiatek-2026-10-16",
+   "opened_at": "2026-10-16T10:30:50.367621+00:00",
+   "entry_price": 0.22,
+   "shares": 454.5455,
+   "stake": 100.0,
+   "leader_vwap": 0.22,
+   "leader_cost": 1386.0,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.22,
+   "ask_depth": 18715.89,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -66444,5 +66489,5 @@
   }
  ],
  "total_pnl": -556.384799999999,
- "last_updated": "2026-10-16T10:25:26.113480+00:00"
+ "last_updated": "2026-10-16T10:30:50.599918+00:00"
 }
