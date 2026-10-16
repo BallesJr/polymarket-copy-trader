@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9443.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792135747,
+  "jtwyslljy": 1792144507,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25044,6 +25044,20 @@
    "BUY",
    10000,
    1792135747
+  ],
+  [
+   "0x90b97b4e1f530cda949a554113c778dc996dc68a5a4acbbd6bfdc7083767d200",
+   "96714080190709461636887424255735458377764363302400838369215797910327323620076",
+   "SELL",
+   2849,
+   1792144503
+  ],
+  [
+   "0x33b731bc93ce4b99a6a23b5b59ccbb28885706cf790d108f4f8fb28fd2596dc0",
+   "96714080190709461636887424255735458377764363302400838369215797910327323620076",
+   "SELL",
+   3000,
+   1792144507
   ]
  ],
  "leader_pos": {
@@ -40150,10 +40164,10 @@
    "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
    "outcome": "Maja Chwalinska",
    "slug": "wta-chwalin-sakkari-2026-10-15",
-   "shares": 20274.34,
-   "cost": 9628.9398,
+   "shares": 14425.34,
+   "cost": 5855.5797999999995,
    "max_shares": 20274.34,
-   "last_trade_ts": 1792135747
+   "last_trade_ts": 1792144507
   }
  },
  "positions": [],
@@ -66304,8 +66318,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
    "outcome": "Maja Chwalinska"
+  },
+  {
+   "at": "2026-10-16T10:01:09.767955+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T07:30:00+00:00",
+   "condition_id": "0x36e95fdc10fb98ca9c098f280e92dc334bbdf3f19e3ab5867e098d89bea97aef",
+   "asset": "96714080190709461636887424255735458377764363302400838369215797910327323620076",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.63,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
+   "outcome": "Maja Chwalinska"
   }
  ],
  "total_pnl": -556.384799999999,
- "last_updated": "2026-10-16T07:55:24.084544+00:00"
+ "last_updated": "2026-10-16T10:01:09.768652+00:00"
 }
