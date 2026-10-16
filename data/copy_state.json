@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9157.901070100002,
  "last_seen": {
-  "jtwyslljy": 1792134133,
+  "jtwyslljy": 1792134843,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24988,6 +24988,34 @@
    "SELL",
    7649.9,
    1792134133
+  ],
+  [
+   "0x9e5c7851e016177ea5d0fbe3ba1fd52b33ea92905e1eaed41a8ee4279e01e567",
+   "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "BUY",
+   7500,
+   1792134643
+  ],
+  [
+   "0x76e01b8fcf667835ad00e6b304a11abeb16a8a5e3e2d31090e3a5b4c2eb9286c",
+   "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "BUY",
+   2500,
+   1792134660
+  ],
+  [
+   "0x856d1d01ddaae26809da8df1b5ff85baa2bb72843b794f302ebad60c6fb9cd03",
+   "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "BUY",
+   5500,
+   1792134702
+  ],
+  [
+   "0xda9430d0a387cc6b07032b6f2cb227736cae6b2c71771e8a50db13bb7f7614e7",
+   "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "BUY",
+   1081.29,
+   1792134843
   ]
  ],
  "leader_pos": {
@@ -40070,10 +40098,10 @@
    "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
    "outcome": "Elina Svitolina",
    "slug": "wta-svitoli-kartal-2026-10-16",
-   "shares": 11500.0,
-   "cost": 5106.219099999999,
-   "max_shares": 18378.09,
-   "last_trade_ts": 1792130790
+   "shares": 28081.29,
+   "cost": 13030.115699999998,
+   "max_shares": 28081.29,
+   "last_trade_ts": 1792134843
   },
   "jtwyslljy|66113875190170226473012259011244027547973275560934538266639659375119082613403": {
    "leader": "jtwyslljy",
@@ -66169,8 +66197,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
    "outcome": "Elina Svitolina"
+  },
+  {
+   "at": "2026-10-16T07:15:32.229605+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T05:10:00+00:00",
+   "condition_id": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a",
+   "asset": "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "copy_delay_min": 1.5,
+   "cf_ask": 0.01,
+   "cf_shares": 10000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.01,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+   "outcome": "Elina Svitolina"
   }
  ],
  "total_pnl": -742.099099999999,
- "last_updated": "2026-10-16T07:10:31.833686+00:00"
+ "last_updated": "2026-10-16T07:15:32.418403+00:00"
 }
