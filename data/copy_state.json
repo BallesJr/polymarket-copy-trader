@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792174422,
+  "jtwyslljy": 1792175304,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25205,6 +25205,13 @@
    "BUY",
    1681.96,
    1792174422
+  ],
+  [
+   "0xa734eea97adad5bf2818bbfd51679bb514537e2d717bccf8ff28dc5fd8366872",
+   "16826792563180462106458200878401984526758091253108502626381642546183435292943",
+   "BUY",
+   13,
+   1792175304
   ]
  ],
  "leader_pos": {
@@ -40383,10 +40390,10 @@
    "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
    "outcome": "Legacy",
    "slug": "cs2-lgc-bb3-2026-10-16",
-   "shares": 33168.87,
-   "cost": 15156.921800115528,
-   "max_shares": 33168.87,
-   "last_trade_ts": 1792174422
+   "shares": 33181.87,
+   "cost": 15161.471800115527,
+   "max_shares": 33181.87,
+   "last_trade_ts": 1792175304
   }
  },
  "positions": [],
@@ -66671,8 +66678,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
    "outcome": "Legacy"
+  },
+  {
+   "at": "2026-10-16T18:35:28.086853+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T17:00:00+00:00",
+   "condition_id": "0x7d00c9b03fe35eae03b9f76f72606865543bbba2ee4d7a88b124bf7e6b586acd",
+   "asset": "16826792563180462106458200878401984526758091253108502626381642546183435292943",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.21,
+   "cf_shares": 476.1905,
+   "cf_cost": 100.0,
+   "cf_entry": 0.21,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-16T18:15:40.048831+00:00"
+ "last_updated": "2026-10-16T18:35:28.087627+00:00"
 }
