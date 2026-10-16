@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792167970,
+  "jtwyslljy": 1792172004,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25184,6 +25184,13 @@
    "BUY",
    291.4,
    1792167970
+  ],
+  [
+   "0x59d13103d19a137bc7239c656d0f339b501049a24d0433144cfc4859dd7f9e2c",
+   "16826792563180462106458200878401984526758091253108502626381642546183435292943",
+   "BUY",
+   7186.91,
+   1792172004
   ]
  ],
  "leader_pos": {
@@ -40354,6 +40361,18 @@
    "cost": 12229.6145,
    "max_shares": 25941.21,
    "last_trade_ts": 1792167970
+  },
+  "jtwyslljy|16826792563180462106458200878401984526758091253108502626381642546183435292943": {
+   "leader": "jtwyslljy",
+   "asset": "16826792563180462106458200878401984526758091253108502626381642546183435292943",
+   "condition_id": "0x7d00c9b03fe35eae03b9f76f72606865543bbba2ee4d7a88b124bf7e6b586acd",
+   "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy",
+   "slug": "cs2-lgc-bb3-2026-10-16",
+   "shares": 7186.91,
+   "cost": 5023.957400115527,
+   "max_shares": 7186.91,
+   "last_trade_ts": 1792172004
   }
  },
  "positions": [],
@@ -66606,8 +66625,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
    "outcome": "Astralis"
+  },
+  {
+   "at": "2026-10-16T17:40:34.032641+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T17:00:00+00:00",
+   "condition_id": "0x7d00c9b03fe35eae03b9f76f72606865543bbba2ee4d7a88b124bf7e6b586acd",
+   "asset": "16826792563180462106458200878401984526758091253108502626381642546183435292943",
+   "copy_delay_min": 7.2,
+   "cf_ask": 0.8,
+   "cf_shares": 125.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.8,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
+   "outcome": "Legacy"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-16T16:30:50.812550+00:00"
+ "last_updated": "2026-10-16T17:40:34.033314+00:00"
 }
