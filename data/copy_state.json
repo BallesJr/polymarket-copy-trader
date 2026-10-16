@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9156.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792126512,
+  "jtwyslljy": 1792130511,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24932,6 +24932,13 @@
    "BUY",
    1500,
    1792126512
+  ],
+  [
+   "0xee19cd12996c531ac153d6424fec4a5dfb7711c06c0d72f95070dabf4028d12d",
+   "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "BUY",
+   18378.09,
+   1792130511
   ]
  ],
  "leader_pos": {
@@ -40006,6 +40013,18 @@
    "cost": 4025.0,
    "max_shares": 11500.0,
    "last_trade_ts": 1792126512
+  },
+  "jtwyslljy|107072913953604272549270458692717134545779476002729746194430144731261787640058": {
+   "leader": "jtwyslljy",
+   "asset": "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "condition_id": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a",
+   "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+   "outcome": "Elina Svitolina",
+   "slug": "wta-svitoli-kartal-2026-10-16",
+   "shares": 18378.09,
+   "cost": 8270.1405,
+   "max_shares": 18378.09,
+   "last_trade_ts": 1792130511
   }
  },
  "positions": [
@@ -66035,8 +66054,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko",
    "outcome": "Diana Shnaider"
+  },
+  {
+   "at": "2026-10-16T06:10:29.110820+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T05:10:00+00:00",
+   "condition_id": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a",
+   "asset": "107072913953604272549270458692717134545779476002729746194430144731261787640058",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.51,
+   "cf_shares": 196.0784,
+   "cf_cost": 100.0,
+   "cf_entry": 0.51,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+   "outcome": "Elina Svitolina"
   }
  ],
  "total_pnl": -743.950999999999,
- "last_updated": "2026-10-16T05:01:01.547616+00:00"
+ "last_updated": "2026-10-16T06:10:29.305817+00:00"
 }
