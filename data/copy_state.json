@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9157.901070100002,
+ "bankroll": 9443.615370100002,
  "last_seen": {
   "jtwyslljy": 1792135747,
   "0x53757615de": 1791717351
@@ -40156,26 +40156,7 @@
    "last_trade_ts": 1792135747
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "17933533992460099789577349379251523311973150458573362884804116185832501873323",
-   "condition_id": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a",
-   "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
-   "outcome": "Sonay Kartal",
-   "slug": "wta-svitoli-kartal-2026-10-16",
-   "opened_at": "2026-10-16T04:55:26.017217+00:00",
-   "entry_price": 0.35,
-   "shares": 285.7143,
-   "stake": 100.0,
-   "leader_vwap": 0.35,
-   "leader_cost": 3500.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.35,
-   "ask_depth": 8338.59,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -52708,6 +52689,28 @@
    "exit_price": 0.55,
    "pnl": 1.8519,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "17933533992460099789577349379251523311973150458573362884804116185832501873323",
+   "condition_id": "0xd5f52155cd4caa160a679992c25179bc073a635b0f8bbc59827a921329ec3f7a",
+   "title": "Wuhan Tennis Open: Elina Svitolina vs Sonay Kartal",
+   "outcome": "Sonay Kartal",
+   "slug": "wta-svitoli-kartal-2026-10-16",
+   "opened_at": "2026-10-16T04:55:26.017217+00:00",
+   "entry_price": 0.35,
+   "shares": 285.7143,
+   "stake": 100.0,
+   "leader_vwap": 0.35,
+   "leader_cost": 3500.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.35,
+   "ask_depth": 8338.59,
+   "status": "won",
+   "closed_at": "2026-10-16T07:55:24.082651+00:00",
+   "exit_price": 1.0,
+   "pnl": 185.7143,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -66303,6 +66306,6 @@
    "outcome": "Maja Chwalinska"
   }
  ],
- "total_pnl": -742.099099999999,
- "last_updated": "2026-10-16T07:35:25.365276+00:00"
+ "total_pnl": -556.384799999999,
+ "last_updated": "2026-10-16T07:55:24.084544+00:00"
 }
