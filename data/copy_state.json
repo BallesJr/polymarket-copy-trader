@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9256.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792088107,
+  "jtwyslljy": 1792115674,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24841,6 +24841,13 @@
    "BUY",
    13500,
    1792088107
+  ],
+  [
+   "0xe412662b1ba346b4b2fb0b58f9e6ed7db4dfd080e28bc55e735acd83fd08d222",
+   "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "BUY",
+   19402.47,
+   1792115674
   ]
  ],
  "leader_pos": {
@@ -39879,6 +39886,18 @@
    "cost": 5940.0,
    "max_shares": 13500.0,
    "last_trade_ts": 1792088107
+  },
+  "jtwyslljy|78653414984017864835330593213700943479354040352698721042453780387223265497055": {
+   "leader": "jtwyslljy",
+   "asset": "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "condition_id": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+   "title": "Seahawks vs. Broncos",
+   "outcome": "Broncos",
+   "slug": "nfl-sea-den-2026-10-16",
+   "shares": 19402.47,
+   "cost": 14357.827800000001,
+   "max_shares": 19402.47,
+   "last_trade_ts": 1792115674
   }
  },
  "positions": [],
@@ -65809,8 +65828,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
    "outcome": "BetBoom Team"
+  },
+  {
+   "at": "2026-10-16T01:55:43.157661+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T00:15:00+00:00",
+   "condition_id": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+   "asset": "78653414984017864835330593213700943479354040352698721042453780387223265497055",
+   "copy_delay_min": 1.0,
+   "cf_ask": 0.75,
+   "cf_shares": 133.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.75,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Seahawks vs. Broncos",
+   "outcome": "Broncos"
   }
  ],
  "total_pnl": -743.950999999999,
- "last_updated": "2026-10-15T22:35:28.013007+00:00"
+ "last_updated": "2026-10-16T01:55:43.158399+00:00"
 }
