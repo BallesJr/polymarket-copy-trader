@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792166782,
+  "jtwyslljy": 1792167970,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25163,6 +25163,27 @@
    "BUY",
    401,
    1792166782
+  ],
+  [
+   "0x92a8c8a0750883a0aeafcf840ad64cabba9c76b7c90a0d6ae4ef611dfb1ea8be",
+   "78375709349390362396705836138040366448567989574607141941303213545950025063685",
+   "BUY",
+   25154.92,
+   1792167439
+  ],
+  [
+   "0x51741ff69c3aa6bfee921ce85c224d27ffcf42c2cbe14eb8be7847abf9f8dca2",
+   "78375709349390362396705836138040366448567989574607141941303213545950025063685",
+   "BUY",
+   93.89,
+   1792167832
+  ],
+  [
+   "0x0473d1ab2e1190dae5061ea97c21eb03344e8a9b6e827b504bbf6f9c6610f41a",
+   "78375709349390362396705836138040366448567989574607141941303213545950025063685",
+   "BUY",
+   291.4,
+   1792167970
   ]
  ],
  "leader_pos": {
@@ -40329,10 +40350,10 @@
    "title": "Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
    "outcome": "Astralis",
    "slug": "cs2-ast10-mibr-2026-10-16",
-   "shares": 401.0,
-   "cost": 232.57999999999998,
-   "max_shares": 401.0,
-   "last_trade_ts": 1792166782
+   "shares": 25941.21,
+   "cost": 12229.6145,
+   "max_shares": 25941.21,
+   "last_trade_ts": 1792167970
   }
  },
  "positions": [],
@@ -66569,8 +66590,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Aurora Gaming vs 9z (BO3) - Thunderpick World Championship Group A",
    "outcome": "9z"
+  },
+  {
+   "at": "2026-10-16T16:30:50.811687+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-16T14:00:00+00:00",
+   "condition_id": "0xf13f3625c6396b305d811886f7e720333bf5ab3699393bdb66737bee8427c2cb",
+   "asset": "78375709349390362396705836138040366448567989574607141941303213545950025063685",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.31,
+   "cf_shares": 322.5806,
+   "cf_cost": 100.0,
+   "cf_entry": 0.31,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Counter-Strike: Astralis vs MIBR (BO3) - Stake Pulse Beat III Playoffs",
+   "outcome": "Astralis"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-16T16:15:36.991211+00:00"
+ "last_updated": "2026-10-16T16:30:50.812550+00:00"
 }
