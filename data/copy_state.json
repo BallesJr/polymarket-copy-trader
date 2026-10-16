@@ -40297,26 +40297,7 @@
    "last_trade_ts": 1792155252
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "106125097224468314854735396846847687146390451657491579076290992776743470515052",
-   "condition_id": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
-   "title": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
-   "outcome": "Ann Li",
-   "slug": "wta-annli-swiatek-2026-10-16",
-   "opened_at": "2026-10-16T10:30:50.367621+00:00",
-   "entry_price": 0.22,
-   "shares": 454.5455,
-   "stake": 100.0,
-   "leader_vwap": 0.22,
-   "leader_cost": 1386.0,
-   "copy_delay_min": 7.5,
-   "best_ask": 0.22,
-   "ask_depth": 18715.89,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -52870,6 +52851,28 @@
    "closed_at": "2026-10-16T07:55:24.082651+00:00",
    "exit_price": 1.0,
    "pnl": 185.7143,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "106125097224468314854735396846847687146390451657491579076290992776743470515052",
+   "condition_id": "0xd48d8575d2fb40074ce8026209e747c136c333d6781ae1f7968f0577a514f1bc",
+   "title": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
+   "outcome": "Ann Li",
+   "slug": "wta-annli-swiatek-2026-10-16",
+   "opened_at": "2026-10-16T10:30:50.367621+00:00",
+   "entry_price": 0.22,
+   "shares": 454.5455,
+   "stake": 100.0,
+   "leader_vwap": 0.22,
+   "leader_cost": 1386.0,
+   "copy_delay_min": 7.5,
+   "best_ask": 0.22,
+   "ask_depth": 18715.89,
+   "status": "lost",
+   "closed_at": "2026-10-16T13:30:49.052091+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -66514,6 +66517,6 @@
    "outcome": "Tommy Paul"
   }
  ],
- "total_pnl": -556.384799999999,
- "last_updated": "2026-10-16T13:01:05.914916+00:00"
+ "total_pnl": -656.384799999999,
+ "last_updated": "2026-10-16T13:30:49.054053+00:00"
 }
