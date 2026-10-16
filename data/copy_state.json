@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9156.049210100002,
+ "bankroll": 9056.049210100002,
  "last_seen": {
-  "jtwyslljy": 1792130799,
+  "jtwyslljy": 1792131672,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -24953,6 +24953,13 @@
    "BUY",
    3000,
    1792130799
+  ],
+  [
+   "0x5a161a3571e449f17a43be51dd476966a5e57614bacbda3c0cc8b7ede23ae065",
+   "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "BUY",
+   6000,
+   1792131672
   ]
  ],
  "leader_pos": {
@@ -40039,6 +40046,18 @@
    "cost": 5106.219099999999,
    "max_shares": 18378.09,
    "last_trade_ts": 1792130790
+  },
+  "jtwyslljy|66113875190170226473012259011244027547973275560934538266639659375119082613403": {
+   "leader": "jtwyslljy",
+   "asset": "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "condition_id": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-ruud-2026-10-15",
+   "shares": 6000.0,
+   "cost": 3300.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1792131672
   }
  },
  "positions": [
@@ -40058,6 +40077,24 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.35,
    "ask_depth": 8338.59,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "66113875190170226473012259011244027547973275560934538266639659375119082613403",
+   "condition_id": "0xf01ebec40a1f4aa902a8c9fb317b226697a20ba6567ed7f3f16f65a1bd17d8f2",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Casper Ruud",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-ruud-2026-10-15",
+   "opened_at": "2026-10-16T06:30:46.395030+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 9.6,
+   "best_ask": 0.54,
+   "ask_depth": 5459.04,
    "status": "open"
   }
  ],
@@ -66103,5 +66140,5 @@
   }
  ],
  "total_pnl": -743.950999999999,
- "last_updated": "2026-10-16T06:15:31.783819+00:00"
+ "last_updated": "2026-10-16T06:30:46.649719+00:00"
 }
