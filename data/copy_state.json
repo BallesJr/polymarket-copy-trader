@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792252352,
+  "jtwyslljy": 1792252925,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25394,6 +25394,13 @@
    "BUY",
    103,
    1792252352
+  ],
+  [
+   "0x68578de143fb03ef78108e652bd30740c394065ecd93362a971d663577300e1b",
+   "112344191525191066281683860580568524796454999901523938039925007337385882476155",
+   "BUY",
+   5493.72,
+   1792252925
   ]
  ],
  "leader_pos": {
@@ -40708,6 +40715,18 @@
    "cost": 24838.346900225988,
    "max_shares": 43642.42999999999,
    "last_trade_ts": 1792251452
+  },
+  "jtwyslljy|112344191525191066281683860580568524796454999901523938039925007337385882476155": {
+   "leader": "jtwyslljy",
+   "asset": "112344191525191066281683860580568524796454999901523938039925007337385882476155",
+   "condition_id": "0xdcb3d823bd6217e2ebab6ec1b443b93899ed5e4e074910a85b9361406d5791f6",
+   "title": "Will Villarreal CF vs. Elche CF end in a draw?",
+   "outcome": "No",
+   "slug": "lal-vil-elc-2026-10-17",
+   "shares": 5493.72,
+   "cost": 1591.471400168736,
+   "max_shares": 5493.72,
+   "last_trade_ts": 1792252925
   }
  },
  "positions": [],
@@ -67222,8 +67241,24 @@
    "leader": "jtwyslljy",
    "title": "Roanne: Nicolai Budkov Kjaer vs Matteo Martineau",
    "outcome": "Matteo Martineau"
+  },
+  {
+   "at": "2026-10-17T16:05:25.248218+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T14:15:00+00:00",
+   "condition_id": "0xdcb3d823bd6217e2ebab6ec1b443b93899ed5e4e074910a85b9361406d5791f6",
+   "asset": "112344191525191066281683860580568524796454999901523938039925007337385882476155",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.23,
+   "cf_shares": 434.7826,
+   "cf_cost": 100.0,
+   "cf_entry": 0.23,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Villarreal CF vs. Elche CF end in a draw?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T15:54:43.551077+00:00"
+ "last_updated": "2026-10-17T16:05:25.249029+00:00"
 }
