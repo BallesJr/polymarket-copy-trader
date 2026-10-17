@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792251452,
+  "jtwyslljy": 1792252352,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25387,6 +25387,13 @@
    "BUY",
    9582.6,
    1792251452
+  ],
+  [
+   "0x65f54a9d2b6490f9d3d5cabe8a628f5d8e1801800e9bcb635e77c1b96492ea68",
+   "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "BUY",
+   103,
+   1792252352
   ]
  ],
  "leader_pos": {
@@ -40685,10 +40692,10 @@
    "title": "Roanne: Nicolai Budkov Kjaer vs Matteo Martineau",
    "outcome": "Matteo Martineau",
    "slug": "atp-kjaer-martin-2026-10-17",
-   "shares": 4597.3,
-   "cost": 2374.623,
-   "max_shares": 4597.3,
-   "last_trade_ts": 1792251110
+   "shares": 4700.3,
+   "cost": 2441.573,
+   "max_shares": 4700.3,
+   "last_trade_ts": 1792252352
   },
   "jtwyslljy|106621898261842945808023228777382153330691240538830393783463641665469101628542": {
    "leader": "jtwyslljy",
@@ -67199,8 +67206,24 @@
    "leader": "jtwyslljy",
    "title": "Will Paris Saint-Germain FC win on 2026-10-17?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-17T15:54:43.550324+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T14:50:00+00:00",
+   "condition_id": "0xd4d0fd6343819e9f3090aac98c2ab3c2a97f58583b426f540054566e1b2cc8e9",
+   "asset": "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.76,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Roanne: Nicolai Budkov Kjaer vs Matteo Martineau",
+   "outcome": "Matteo Martineau"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T15:40:30.957539+00:00"
+ "last_updated": "2026-10-17T15:54:43.551077+00:00"
 }
