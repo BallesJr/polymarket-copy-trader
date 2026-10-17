@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792205312,
+  "jtwyslljy": 1792210797,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25254,6 +25254,27 @@
    "SELL",
    6000,
    1792205312
+  ],
+  [
+   "0xa6d8812f335955eb03783deabe81ae7d410507f0bcf7b9222d56762c5f8c2dd5",
+   "95027013240618224220022030591590628088492021155108989907427906671962873820320",
+   "BUY",
+   2165.61,
+   1792210767
+  ],
+  [
+   "0x4c7af55df42e28734bf4f50b26487dc9df626fc18636f82e26b1e9109b8fe070",
+   "95027013240618224220022030591590628088492021155108989907427906671962873820320",
+   "BUY",
+   2000,
+   1792210790
+  ],
+  [
+   "0x2679a832c39149d0e68dc9730fb563d6e7a8f376bd99d04a506eeb8acd9355e8",
+   "95027013240618224220022030591590628088492021155108989907427906671962873820320",
+   "BUY",
+   34,
+   1792210797
   ]
  ],
  "leader_pos": {
@@ -40460,6 +40481,18 @@
    "cost": 600.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1792205312
+  },
+  "jtwyslljy|95027013240618224220022030591590628088492021155108989907427906671962873820320": {
+   "leader": "jtwyslljy",
+   "asset": "95027013240618224220022030591590628088492021155108989907427906671962873820320",
+   "condition_id": "0x26ecff706e3b0c088672803227303f2a45e01e49aa2289a827e2f53c5783cb00",
+   "title": "Ningbo Open, Qualification: Katarzyna Kawa vs Katie Volynets",
+   "outcome": "Katarzyna Kawa",
+   "slug": "wta-kawa-volynet-2026-10-16",
+   "shares": 4199.610000000001,
+   "cost": 1469.8635,
+   "max_shares": 4199.610000000001,
+   "last_trade_ts": 1792210797
   }
  },
  "positions": [],
@@ -66792,8 +66825,24 @@
    "leader": "jtwyslljy",
    "title": "Washington vs. Purdue",
    "outcome": "Purdue"
+  },
+  {
+   "at": "2026-10-17T04:25:25.031133+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T03:00:00+00:00",
+   "condition_id": "0x26ecff706e3b0c088672803227303f2a45e01e49aa2289a827e2f53c5783cb00",
+   "asset": "95027013240618224220022030591590628088492021155108989907427906671962873820320",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open, Qualification: Katarzyna Kawa vs Katie Volynets",
+   "outcome": "Katarzyna Kawa"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T02:55:22.910730+00:00"
+ "last_updated": "2026-10-17T04:25:25.031865+00:00"
 }
