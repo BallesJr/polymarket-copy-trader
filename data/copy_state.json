@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792238037,
+  "jtwyslljy": 1792251110,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25345,6 +25345,20 @@
    "BUY",
    10000,
    1792238037
+  ],
+  [
+   "0xea72f198d1f78d2778768a4ab6f4b88266413ba56c12e5aa6af487b80d75252b",
+   "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "BUY",
+   1597.3,
+   1792251092
+  ],
+  [
+   "0x13a62bc70cdf049fd89887ef83e5c73a2e31d193cff753b4e2c6b6cd50c89350",
+   "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "BUY",
+   3000,
+   1792251110
   ]
  ],
  "leader_pos": {
@@ -40635,6 +40649,18 @@
    "cost": 6000.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1792238037
+  },
+  "jtwyslljy|1690930376460041097708910118630260672768773479812469197372354270410105975141": {
+   "leader": "jtwyslljy",
+   "asset": "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "condition_id": "0xd4d0fd6343819e9f3090aac98c2ab3c2a97f58583b426f540054566e1b2cc8e9",
+   "title": "Roanne: Nicolai Budkov Kjaer vs Matteo Martineau",
+   "outcome": "Matteo Martineau",
+   "slug": "atp-kjaer-martin-2026-10-17",
+   "shares": 4597.3,
+   "cost": 2374.623,
+   "max_shares": 4597.3,
+   "last_trade_ts": 1792251110
   }
  },
  "positions": [],
@@ -67101,8 +67127,24 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev",
    "outcome": "Rafael Jodar"
+  },
+  {
+   "at": "2026-10-17T15:35:24.434625+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T14:50:00+00:00",
+   "condition_id": "0xd4d0fd6343819e9f3090aac98c2ab3c2a97f58583b426f540054566e1b2cc8e9",
+   "asset": "1690930376460041097708910118630260672768773479812469197372354270410105975141",
+   "copy_delay_min": 3.6,
+   "cf_ask": 0.59,
+   "cf_shares": 155.5231,
+   "cf_cost": 100.0,
+   "cf_entry": 0.643,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Roanne: Nicolai Budkov Kjaer vs Matteo Martineau",
+   "outcome": "Matteo Martineau"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T12:00:58.223335+00:00"
+ "last_updated": "2026-10-17T15:35:24.435307+00:00"
 }
