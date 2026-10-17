@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792175304,
+  "jtwyslljy": 1792203786,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25212,6 +25212,34 @@
    "BUY",
    13,
    1792175304
+  ],
+  [
+   "0x7a97a6d10d06e20176fd69da6678b034d540ef2dd8d3eec9a42160818f0f0c0c",
+   "84292576989906155759138654092157995150945177571889099986009368949505751981990",
+   "BUY",
+   206.24,
+   1792203663
+  ],
+  [
+   "0x8275fecb97e9f2ded3436c85afe880c8dd2f3ef508d32eb6b6e6791478e55fc6",
+   "84292576989906155759138654092157995150945177571889099986009368949505751981990",
+   "BUY",
+   2427.63,
+   1792203672
+  ],
+  [
+   "0x5564931fc5edb5c0978e357e15da03721c199dd2d415729fb722315394b89dd5",
+   "4776731924444382828475245090128796293254843819404364763834717961691999482615",
+   "BUY",
+   6000,
+   1792203746
+  ],
+  [
+   "0x68ada3da0efff147f721c784d880e268be9b01b2857cd23d6caeab176c5adc6a",
+   "84292576989906155759138654092157995150945177571889099986009368949505751981990",
+   "BUY",
+   46,
+   1792203786
   ]
  ],
  "leader_pos": {
@@ -40394,6 +40422,30 @@
    "cost": 15161.471800115527,
    "max_shares": 33181.87,
    "last_trade_ts": 1792175304
+  },
+  "jtwyslljy|84292576989906155759138654092157995150945177571889099986009368949505751981990": {
+   "leader": "jtwyslljy",
+   "asset": "84292576989906155759138654092157995150945177571889099986009368949505751981990",
+   "condition_id": "0x2e80aaee234ad0ca2472130b6c6c4cb83d254acbdf97f97d85f35dc01d49f80d",
+   "title": "Appalachian State vs. Coastal Carolina",
+   "outcome": "Appalachian State",
+   "slug": "cfb-applst-coast-2026-10-16",
+   "shares": 2679.87,
+   "cost": 1098.3019,
+   "max_shares": 2679.87,
+   "last_trade_ts": 1792203786
+  },
+  "jtwyslljy|4776731924444382828475245090128796293254843819404364763834717961691999482615": {
+   "leader": "jtwyslljy",
+   "asset": "4776731924444382828475245090128796293254843819404364763834717961691999482615",
+   "condition_id": "0x0f8bf625028dea9ec21ca93371b49a9c7481661b0f63331b872cd13c57b4c3db",
+   "title": "Washington vs. Purdue",
+   "outcome": "Purdue",
+   "slug": "cfb-wash-pur-2026-10-16",
+   "shares": 6000.0,
+   "cost": 1500.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1792203746
   }
  },
  "positions": [],
@@ -66694,8 +66746,40 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Legacy vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
    "outcome": "Legacy"
+  },
+  {
+   "at": "2026-10-17T02:25:25.431625+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T00:00:00+00:00",
+   "condition_id": "0x2e80aaee234ad0ca2472130b6c6c4cb83d254acbdf97f97d85f35dc01d49f80d",
+   "asset": "84292576989906155759138654092157995150945177571889099986009368949505751981990",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Appalachian State vs. Coastal Carolina",
+   "outcome": "Appalachian State"
+  },
+  {
+   "at": "2026-10-17T02:25:25.629516+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T00:00:00+00:00",
+   "condition_id": "0x0f8bf625028dea9ec21ca93371b49a9c7481661b0f63331b872cd13c57b4c3db",
+   "asset": "4776731924444382828475245090128796293254843819404364763834717961691999482615",
+   "copy_delay_min": 3.0,
+   "cf_ask": 0.42,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Washington vs. Purdue",
+   "outcome": "Purdue"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-16T18:35:28.087627+00:00"
+ "last_updated": "2026-10-17T02:25:25.630285+00:00"
 }
