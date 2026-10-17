@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792232222,
+  "jtwyslljy": 1792232768,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25296,6 +25296,34 @@
    "BUY",
    10000,
    1792232222
+  ],
+  [
+   "0x4585f13db6580c656fc92e0c2ce302c1cdfa90a69870284402c8acdc93431139",
+   "46049784180999836737839437245870284365436369706462218564892694632755296187339",
+   "SELL",
+   565.8,
+   1792232633
+  ],
+  [
+   "0x7401bd555cbe9e9f6ff805f0f01b7dcfb1246037f54140b61af69610205b09ab",
+   "46049784180999836737839437245870284365436369706462218564892694632755296187339",
+   "SELL",
+   3941.08,
+   1792232655
+  ],
+  [
+   "0xe174f8b60c14482fff889338212e900f64a6e35becb7f3eb9a2b92ab4e86ca56",
+   "72565514497798979720449361823019799795497871263294142867011340633962382063648",
+   "BUY",
+   5000,
+   1792232684
+  ],
+  [
+   "0xcd1f9ae4d66db2acc1e6dd0d723484c0c61c6b6e0a2211ca2c8cb3598f6c17fe",
+   "43604388199676433343759924158996024795979856377076641260336225815320589217750",
+   "BUY",
+   3897.76,
+   1792232768
   ]
  ],
  "leader_pos": {
@@ -40534,10 +40562,34 @@
    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
    "outcome": "Alexander Zverev",
    "slug": "atp-zverev-fokina-2026-10-16",
-   "shares": 10000.0,
-   "cost": 5800.0,
+   "shares": 5493.120000000001,
+   "cost": 4847.8972,
    "max_shares": 10000.0,
-   "last_trade_ts": 1792232222
+   "last_trade_ts": 1792232655
+  },
+  "jtwyslljy|72565514497798979720449361823019799795497871263294142867011340633962382063648": {
+   "leader": "jtwyslljy",
+   "asset": "72565514497798979720449361823019799795497871263294142867011340633962382063648",
+   "condition_id": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
+   "outcome": "Alejandro Davidovich Fokina",
+   "slug": "atp-zverev-fokina-2026-10-16",
+   "shares": 5000.0,
+   "cost": 4000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792232684
+  },
+  "jtwyslljy|43604388199676433343759924158996024795979856377076641260336225815320589217750": {
+   "leader": "jtwyslljy",
+   "asset": "43604388199676433343759924158996024795979856377076641260336225815320589217750",
+   "condition_id": "0x0d355f77bae87c474f052bf2cca4e71275a5a9c532d431e72433930e33aff788",
+   "title": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
+   "outcome": "Jelena Ostapenko",
+   "slug": "wta-kartal-ostapen-2026-10-16",
+   "shares": 3897.76,
+   "cost": 1091.3728,
+   "max_shares": 3897.76,
+   "last_trade_ts": 1792232768
   }
  },
  "positions": [],
@@ -66924,8 +66976,56 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
    "outcome": "Alexander Zverev"
+  },
+  {
+   "at": "2026-10-17T10:30:43.247321+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T08:30:00+00:00",
+   "condition_id": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
+   "asset": "46049784180999836737839437245870284365436369706462218564892694632755296187339",
+   "copy_delay_min": 6.5,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
+   "outcome": "Alexander Zverev"
+  },
+  {
+   "at": "2026-10-17T10:30:43.247382+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T08:30:00+00:00",
+   "condition_id": "0xbb7b81204e4d4d78bcd2e220236ca4d1c104d50e4a30fbe65b3e07abb09de3e7",
+   "asset": "72565514497798979720449361823019799795497871263294142867011340633962382063648",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.86,
+   "cf_shares": 116.2791,
+   "cf_cost": 100.0,
+   "cf_entry": 0.86,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina",
+   "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-17T10:30:43.362274+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T09:05:00+00:00",
+   "condition_id": "0x0d355f77bae87c474f052bf2cca4e71275a5a9c532d431e72433930e33aff788",
+   "asset": "43604388199676433343759924158996024795979856377076641260336225815320589217750",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.45,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
+   "outcome": "Jelena Ostapenko"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T10:25:25.231032+00:00"
+ "last_updated": "2026-10-17T10:30:43.363042+00:00"
 }
