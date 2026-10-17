@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792236843,
+  "jtwyslljy": 1792238037,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25338,6 +25338,13 @@
    "BUY",
    255,
    1792236843
+  ],
+  [
+   "0x6f6059d55112b5fd6e91d7fd001594ca65038a23ec17a82551192b2d214970bc",
+   "93691562407064903277875067693144693261758771217101336105536876121028085431254",
+   "BUY",
+   10000,
+   1792238037
   ]
  ],
  "leader_pos": {
@@ -40616,6 +40623,18 @@
    "cost": 779.0266,
    "max_shares": 3541.03,
    "last_trade_ts": 1792236843
+  },
+  "jtwyslljy|93691562407064903277875067693144693261758771217101336105536876121028085431254": {
+   "leader": "jtwyslljy",
+   "asset": "93691562407064903277875067693144693261758771217101336105536876121028085431254",
+   "condition_id": "0xf0bcb2c342ff81a657231e85df5b68f82b25e1764cd07f27611617e429fb7b20",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev",
+   "outcome": "Rafael Jodar",
+   "slug": "atp-jodar-medvede-2026-10-17",
+   "shares": 10000.0,
+   "cost": 6000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1792238037
   }
  },
  "positions": [],
@@ -67066,8 +67085,24 @@
    "leader": "jtwyslljy",
    "title": "Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska",
    "outcome": "Maja Chwalinska"
+  },
+  {
+   "at": "2026-10-17T12:00:58.222681+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-17T11:10:00+00:00",
+   "condition_id": "0xf0bcb2c342ff81a657231e85df5b68f82b25e1764cd07f27611617e429fb7b20",
+   "asset": "93691562407064903277875067693144693261758771217101336105536876121028085431254",
+   "copy_delay_min": 7.0,
+   "cf_ask": 0.59,
+   "cf_shares": 169.4915,
+   "cf_cost": 100.0,
+   "cf_entry": 0.59,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev",
+   "outcome": "Rafael Jodar"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T11:40:39.155201+00:00"
+ "last_updated": "2026-10-17T12:00:58.223335+00:00"
 }
