@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9343.615370100002,
+ "bankroll": 9243.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792210797,
+  "jtwyslljy": 1792222638,
   "0x53757615de": 1791717351
  },
  "seen_keys": [
@@ -25275,6 +25275,13 @@
    "BUY",
    34,
    1792210797
+  ],
+  [
+   "0xb754b1dbcbceb0b192ce19c8830466bd313bca4698302d93400e5c60bd95d076",
+   "104774082147964807252759405111605874812477807901209387780273091846637072590632",
+   "BUY",
+   10000,
+   1792222638
   ]
  ],
  "leader_pos": {
@@ -40493,9 +40500,40 @@
    "cost": 1469.8635,
    "max_shares": 4199.610000000001,
    "last_trade_ts": 1792210797
+  },
+  "jtwyslljy|104774082147964807252759405111605874812477807901209387780273091846637072590632": {
+   "leader": "jtwyslljy",
+   "asset": "104774082147964807252759405111605874812477807901209387780273091846637072590632",
+   "condition_id": "0x73c5a95224628de2930ddd7527e5708e7eae9bc9a2f6458d736bfbeb255bbfad",
+   "title": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "Team WE",
+   "slug": "lol-fox1-we-2026-10-17",
+   "shares": 10000.0,
+   "cost": 3200.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1792222638
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "104774082147964807252759405111605874812477807901209387780273091846637072590632",
+   "condition_id": "0x73c5a95224628de2930ddd7527e5708e7eae9bc9a2f6458d736bfbeb255bbfad",
+   "title": "LoL: BNK FEARX vs Team WE (BO5) - Demacia Cup Global Invitational Playoffs",
+   "outcome": "Team WE",
+   "slug": "lol-fox1-we-2026-10-17",
+   "opened_at": "2026-10-17T07:50:32.869742+00:00",
+   "entry_price": 0.32,
+   "shares": 312.5,
+   "stake": 100.0,
+   "leader_vwap": 0.32,
+   "leader_cost": 3200.0,
+   "copy_delay_min": 13.2,
+   "best_ask": 0.32,
+   "ask_depth": 26212.67,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -66844,5 +66882,5 @@
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-17T04:25:25.031865+00:00"
+ "last_updated": "2026-10-17T07:50:33.028360+00:00"
 }
