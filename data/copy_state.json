@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792338200,
+  "jtwyslljy": 1792340577,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25814,6 +25814,20 @@
    "BUY",
    7608.96,
    1792338200
+  ],
+  [
+   "0xa72907173cbd60f03d20d04472a36515d6838ce61e39af17686c925e2ae285f7",
+   "23731465618636982271474456232437862434006178325273382285042706888502737721801",
+   "SELL",
+   2307,
+   1792340450
+  ],
+  [
+   "0x0ebda93de0ea894d1a1452f72be810bc46fe09bb00ae186326aa06f58ec84bf6",
+   "23731465618636982271474456232437862434006178325273382285042706888502737721801",
+   "SELL",
+   2000,
+   1792340577
   ]
  ],
  "leader_pos": {
@@ -41244,10 +41258,10 @@
    "title": "Lyon Open, Qualification: Valentin Royer vs Clement Tabur",
    "outcome": "Clement Tabur",
    "slug": "atp-royer-tabur-2026-10-18",
-   "shares": 9966.96,
-   "cost": 7152.6312,
+   "shares": 5659.959999999999,
+   "cost": 3759.3112,
    "max_shares": 9966.96,
-   "last_trade_ts": 1792338200
+   "last_trade_ts": 1792340577
   }
  },
  "positions": [],
@@ -68050,8 +68064,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open, Qualification: Valentin Royer vs Clement Tabur",
    "outcome": "Clement Tabur"
+  },
+  {
+   "at": "2026-10-18T16:25:26.070253+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T13:25:00+00:00",
+   "condition_id": "0xfd15a39517dff76eda7b0ede3371bd7fa6eada4d04a39497e64e300933147b43",
+   "asset": "23731465618636982271474456232437862434006178325273382285042706888502737721801",
+   "copy_delay_min": 2.5,
+   "cf_ask": 0.76,
+   "cf_shares": 131.5789,
+   "cf_cost": 100.0,
+   "cf_entry": 0.76,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open, Qualification: Valentin Royer vs Clement Tabur",
+   "outcome": "Clement Tabur"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T15:50:31.980472+00:00"
+ "last_updated": "2026-10-18T16:25:26.071068+00:00"
 }
