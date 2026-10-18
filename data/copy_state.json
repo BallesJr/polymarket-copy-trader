@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792312809,
+  "jtwyslljy": 1792314819,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25709,6 +25709,27 @@
    "BUY",
    5804.87,
    1792312809
+  ],
+  [
+   "0xcf6aa2384b14f76e4605c4709e0cd97d8e725beb44a7c211c6dfca69c5b094d9",
+   "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "BUY",
+   2270,
+   1792314735
+  ],
+  [
+   "0xdb30dd586d94198a2aabc3941da0f1627387517b2e8b3aefb39a07d3ff452f84",
+   "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "SELL",
+   4000,
+   1792314812
+  ],
+  [
+   "0xb7bd504f617935de9cdbecaebb34cece3a0cb1820500ebc3daaddb9b61beea56",
+   "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "SELL",
+   331,
+   1792314819
   ]
  ],
  "leader_pos": {
@@ -41067,10 +41088,10 @@
    "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
    "outcome": "Tatiana Prozorova",
    "slug": "wta-prozoro-rakhimo-2026-10-18",
-   "shares": 18413.06,
-   "cost": 8390.08620008694,
+   "shares": 14082.060000000001,
+   "cost": 6484.44620008694,
    "max_shares": 18413.06,
-   "last_trade_ts": 1792312233
+   "last_trade_ts": 1792314819
   },
   "jtwyslljy|106448868825612452254152479424741985744229567647353000179590710816248334277513": {
    "leader": "jtwyslljy",
@@ -41079,10 +41100,10 @@
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar",
    "outcome": "Alejandro Davidovich Fokina",
    "slug": "atp-fokina-jodar-2026-10-18",
-   "shares": 7937.95,
-   "cost": 3709.5057,
-   "max_shares": 7937.95,
-   "last_trade_ts": 1792312809
+   "shares": 10207.95,
+   "cost": 4208.9057,
+   "max_shares": 10207.95,
+   "last_trade_ts": 1792314735
   }
  },
  "positions": [],
@@ -67725,8 +67746,40 @@
    "leader": "jtwyslljy",
    "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar",
    "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-18T09:15:31.507830+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T08:40:00+00:00",
+   "condition_id": "0x8f25a41e19d8347078fd2917f826958a5ba1721aa4f417ef6f5f475b6f196a0c",
+   "asset": "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.2,
+   "cf_shares": 500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar",
+   "outcome": "Alejandro Davidovich Fokina"
+  },
+  {
+   "at": "2026-10-18T09:15:31.659216+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T06:35:00+00:00",
+   "condition_id": "0x3da73a5d52aae39d04ecf1caa586804c1b30138daa7a5fc2e3cbb19e4240049d",
+   "asset": "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "copy_delay_min": 1.9,
+   "cf_ask": 0.49,
+   "cf_shares": 204.0816,
+   "cf_cost": 100.0,
+   "cf_entry": 0.49,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
+   "outcome": "Tatiana Prozorova"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T08:45:30.602955+00:00"
+ "last_updated": "2026-10-18T09:15:31.659977+00:00"
 }
