@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792340889,
+  "jtwyslljy": 1792344450,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25842,6 +25842,13 @@
    "SELL",
    2000,
    1792340889
+  ],
+  [
+   "0xa8957c89d98b2abe1be52943bf8125962401f1c32aa041ab4b62e242dafff05d",
+   "9967932858388223541493973634685981203561705592783906524711827335965147813954",
+   "BUY",
+   4500,
+   1792344450
   ]
  ],
  "leader_pos": {
@@ -41276,6 +41283,18 @@
    "cost": 459.3112000000001,
    "max_shares": 9966.96,
    "last_trade_ts": 1792340889
+  },
+  "jtwyslljy|9967932858388223541493973634685981203561705592783906524711827335965147813954": {
+   "leader": "jtwyslljy",
+   "asset": "9967932858388223541493973634685981203561705592783906524711827335965147813954",
+   "condition_id": "0xf79e06eb0729a35901f5f9c68344a7311c9c0ffcb7528bb2d9ecb4d1e06e1f2a",
+   "title": "European Open, Qualification: Martin Damm vs Andrea Guerrieri",
+   "outcome": "Andrea Guerrieri",
+   "slug": "atp-damm-guerrie-2026-10-18",
+   "shares": 4500.0,
+   "cost": 1980.0,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1792344450
   }
  },
  "positions": [],
@@ -68094,8 +68113,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open, Qualification: Valentin Royer vs Clement Tabur",
    "outcome": "Clement Tabur"
+  },
+  {
+   "at": "2026-10-18T17:30:49.190870+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T15:25:00+00:00",
+   "condition_id": "0xf79e06eb0729a35901f5f9c68344a7311c9c0ffcb7528bb2d9ecb4d1e06e1f2a",
+   "asset": "9967932858388223541493973634685981203561705592783906524711827335965147813954",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.61,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "European Open, Qualification: Martin Damm vs Andrea Guerrieri",
+   "outcome": "Andrea Guerrieri"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T16:30:29.766505+00:00"
+ "last_updated": "2026-10-18T17:30:49.191736+00:00"
 }
