@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792324508,
+  "jtwyslljy": 1792324889,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25758,6 +25758,13 @@
    "SELL",
    200,
    1792324508
+  ],
+  [
+   "0x8099b8ec50dbd274dc4d9f6845189df5ba9051d8ff4ed0488b24b8e9aca22eb2",
+   "91859064962896231356401750648585584617753417668625863455416419064316327309630",
+   "BUY",
+   6484.83,
+   1792324889
   ]
  ],
  "leader_pos": {
@@ -41144,6 +41151,18 @@
    "cost": 3395.2359999983,
    "max_shares": 5000.0,
    "last_trade_ts": 1792324508
+  },
+  "jtwyslljy|91859064962896231356401750648585584617753417668625863455416419064316327309630": {
+   "leader": "jtwyslljy",
+   "asset": "91859064962896231356401750648585584617753417668625863455416419064316327309630",
+   "condition_id": "0x9ce673cd9b762f7db412e786d2e3d2c46a98b5bbd4c43fa71aef9310302b20ff",
+   "title": "Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal",
+   "outcome": "Maja Chwalinska",
+   "slug": "wta-chwalin-kartal-2026-10-18",
+   "shares": 6484.83,
+   "cost": 2334.5388,
+   "max_shares": 6484.83,
+   "last_trade_ts": 1792324889
   }
  },
  "positions": [],
@@ -67866,8 +67885,24 @@
    "leader": "jtwyslljy",
    "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
    "outcome": "Remy Bertola"
+  },
+  {
+   "at": "2026-10-18T12:10:31.757970+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T10:40:00+00:00",
+   "condition_id": "0x9ce673cd9b762f7db412e786d2e3d2c46a98b5bbd4c43fa71aef9310302b20ff",
+   "asset": "91859064962896231356401750648585584617753417668625863455416419064316327309630",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.35,
+   "cf_shares": 279.0278,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3584,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal",
+   "outcome": "Maja Chwalinska"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T12:00:56.380806+00:00"
+ "last_updated": "2026-10-18T12:10:31.758721+00:00"
 }
