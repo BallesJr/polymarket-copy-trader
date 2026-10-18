@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792325585,
+  "jtwyslljy": 1792336929,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25779,6 +25779,13 @@
    "BUY",
    2000,
    1792325585
+  ],
+  [
+   "0x01688e6163b2d8d4834c155bebae93482fc4bd9c9675e6e8c1254b210c3683a8",
+   "23518484553745251422306265581229711614662979603008750083801240352761935901850",
+   "BUY",
+   8320.87,
+   1792336929
   ]
  ],
  "leader_pos": {
@@ -41177,6 +41184,18 @@
    "cost": 2334.5388,
    "max_shares": 6484.83,
    "last_trade_ts": 1792324889
+  },
+  "jtwyslljy|23518484553745251422306265581229711614662979603008750083801240352761935901850": {
+   "leader": "jtwyslljy",
+   "asset": "23518484553745251422306265581229711614662979603008750083801240352761935901850",
+   "condition_id": "0x4601923a5734a2d01f7d68ab47bb13202555e6c4e2c1c11c07b3aea6e4a37e70",
+   "title": "Roanne: Matteo Martineau vs Mika Brunold",
+   "outcome": "Matteo Martineau",
+   "slug": "atp-martin-brunold-2026-10-18",
+   "shares": 8320.87,
+   "cost": 3910.8089,
+   "max_shares": 8320.87,
+   "last_trade_ts": 1792336929
   }
  },
  "positions": [],
@@ -67931,8 +67950,24 @@
    "leader": "jtwyslljy",
    "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
    "outcome": "Remy Bertola"
+  },
+  {
+   "at": "2026-10-18T15:30:46.958971+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T13:10:00+00:00",
+   "condition_id": "0x4601923a5734a2d01f7d68ab47bb13202555e6c4e2c1c11c07b3aea6e4a37e70",
+   "asset": "23518484553745251422306265581229711614662979603008750083801240352761935901850",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.1,
+   "cf_shares": 1000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.1,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Roanne: Matteo Martineau vs Mika Brunold",
+   "outcome": "Matteo Martineau"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T12:20:29.528622+00:00"
+ "last_updated": "2026-10-18T15:30:46.959718+00:00"
 }
