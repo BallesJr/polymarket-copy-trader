@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792322492,
+  "jtwyslljy": 1792323879,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25737,6 +25737,13 @@
    "BUY",
    5000,
    1792322492
+  ],
+  [
+   "0x8e7bd7bed7aaa88955f2f3312a85f980d60b251a696e5c5b9b1d31068bb4b0d5",
+   "53503987340238025299839386351320508002790597413792033053610237141952626810565",
+   "SELL",
+   67,
+   1792323879
   ]
  ],
  "leader_pos": {
@@ -41119,10 +41126,10 @@
    "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
    "outcome": "Remy Bertola",
    "slug": "atp-bertola-cina-2026-10-18",
-   "shares": 5000.0,
-   "cost": 3600.0,
+   "shares": 4933.0,
+   "cost": 3536.9259999983,
    "max_shares": 5000.0,
-   "last_trade_ts": 1792322492
+   "last_trade_ts": 1792323879
   }
  },
  "positions": [],
@@ -67813,8 +67820,24 @@
    "leader": "jtwyslljy",
    "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
    "outcome": "Remy Bertola"
+  },
+  {
+   "at": "2026-10-18T11:45:32.308562+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T10:40:00+00:00",
+   "condition_id": "0x1ecb1897b9b5cfa1093a4e4c38c966f1244c9cb798901a0e2813d6c05d698c35",
+   "asset": "53503987340238025299839386351320508002790597413792033053610237141952626810565",
+   "copy_delay_min": 0.9,
+   "cf_ask": 0.833,
+   "cf_shares": 120.048,
+   "cf_cost": 100.0,
+   "cf_entry": 0.833,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open, Qualification: Remy Bertola vs Federico Cina",
+   "outcome": "Remy Bertola"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T11:25:23.069679+00:00"
+ "last_updated": "2026-10-18T11:45:32.309192+00:00"
 }
