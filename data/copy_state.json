@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792252925,
+  "jtwyslljy": 1792306434,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25681,6 +25681,13 @@
    "BUY",
    3086,
    1792290584
+  ],
+  [
+   "0xbf5ee6643de923204145467409be771ec57c81ffddc2ef943473fe35e83e201a",
+   "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "BUY",
+   13153.04,
+   1792306434
   ]
  ],
  "leader_pos": {
@@ -41031,6 +41038,18 @@
    "cost": 30056.379300056178,
    "max_shares": 43831.92,
    "last_trade_ts": 1792290584
+  },
+  "jtwyslljy|69167514223967732331508138701046600343720280164128129562909146078488355937691": {
+   "leader": "jtwyslljy",
+   "asset": "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "condition_id": "0x3da73a5d52aae39d04ecf1caa586804c1b30138daa7a5fc2e3cbb19e4240049d",
+   "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
+   "outcome": "Tatiana Prozorova",
+   "slug": "wta-prozoro-rakhimo-2026-10-18",
+   "shares": 13153.04,
+   "cost": 7497.2328,
+   "max_shares": 13153.04,
+   "last_trade_ts": 1792306434
   }
  },
  "positions": [],
@@ -67625,8 +67644,24 @@
    "leader": "0x53757615de",
    "title": "Florida State vs. Miami (FL)",
    "outcome": "Miami (FL)"
+  },
+  {
+   "at": "2026-10-18T07:00:58.027623+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T06:35:00+00:00",
+   "condition_id": "0x3da73a5d52aae39d04ecf1caa586804c1b30138daa7a5fc2e3cbb19e4240049d",
+   "asset": "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
+   "outcome": "Tatiana Prozorova"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T02:40:31.620420+00:00"
+ "last_updated": "2026-10-18T07:00:58.028516+00:00"
 }
