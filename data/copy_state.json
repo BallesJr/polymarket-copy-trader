@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792312233,
+  "jtwyslljy": 1792312809,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25695,6 +25695,20 @@
    "BUY",
    5260.02,
    1792312233
+  ],
+  [
+   "0x1240cef3b7de3a0dbbf7393edf4fa2b81f48cc6f67d4689c2b73774c31ea1771",
+   "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "BUY",
+   2133.08,
+   1792312797
+  ],
+  [
+   "0x6bdfd86e780577ee67c661874d1049239d5e272b4e3c0c48ce7d89114bac354b",
+   "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "BUY",
+   5804.87,
+   1792312809
   ]
  ],
  "leader_pos": {
@@ -41057,6 +41071,18 @@
    "cost": 8390.08620008694,
    "max_shares": 18413.06,
    "last_trade_ts": 1792312233
+  },
+  "jtwyslljy|106448868825612452254152479424741985744229567647353000179590710816248334277513": {
+   "leader": "jtwyslljy",
+   "asset": "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "condition_id": "0x8f25a41e19d8347078fd2917f826958a5ba1721aa4f417ef6f5f475b6f196a0c",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar",
+   "outcome": "Alejandro Davidovich Fokina",
+   "slug": "atp-fokina-jodar-2026-10-18",
+   "shares": 7937.95,
+   "cost": 3709.5057,
+   "max_shares": 7937.95,
+   "last_trade_ts": 1792312809
   }
  },
  "positions": [],
@@ -67683,8 +67709,24 @@
    "leader": "jtwyslljy",
    "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
    "outcome": "Tatiana Prozorova"
+  },
+  {
+   "at": "2026-10-18T08:45:30.602267+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T08:40:00+00:00",
+   "condition_id": "0x8f25a41e19d8347078fd2917f826958a5ba1721aa4f417ef6f5f475b6f196a0c",
+   "asset": "106448868825612452254152479424741985744229567647353000179590710816248334277513",
+   "copy_delay_min": 5.3,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar",
+   "outcome": "Alejandro Davidovich Fokina"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T08:35:28.302564+00:00"
+ "last_updated": "2026-10-18T08:45:30.602955+00:00"
 }
