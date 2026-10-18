@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792336929,
+  "jtwyslljy": 1792337981,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25786,6 +25786,20 @@
    "BUY",
    8320.87,
    1792336929
+  ],
+  [
+   "0xfbbed545e7eef53e3eeae14c3ce94416457cfca46a139ebed20584e4baafed2d",
+   "61232613039754087438777476814661291001480699773850207806826955800803421118509",
+   "BUY",
+   4089.55,
+   1792337877
+  ],
+  [
+   "0xea09279023e98326ab9b9e25a1dc9284aca586fc0835c342daad5caaaaecbf19",
+   "61232613039754087438777476814661291001480699773850207806826955800803421118509",
+   "BUY",
+   3000,
+   1792337981
   ]
  ],
  "leader_pos": {
@@ -41196,6 +41210,18 @@
    "cost": 3910.8089,
    "max_shares": 8320.87,
    "last_trade_ts": 1792336929
+  },
+  "jtwyslljy|61232613039754087438777476814661291001480699773850207806826955800803421118509": {
+   "leader": "jtwyslljy",
+   "asset": "61232613039754087438777476814661291001480699773850207806826955800803421118509",
+   "condition_id": "0x48148e612fd44a58e34e4ced6808e10c377188c5ff09ce5d44acc072cbbfa747",
+   "title": "Lyon Open, Qualification: Francesco Maestrelli vs Borna Gojo",
+   "outcome": "Francesco Maestrelli",
+   "slug": "atp-maestre-gojo-2026-10-18",
+   "shares": 7089.55,
+   "cost": 4782.5355,
+   "max_shares": 7089.55,
+   "last_trade_ts": 1792337981
   }
  },
  "positions": [],
@@ -67966,8 +67992,24 @@
    "leader": "jtwyslljy",
    "title": "Roanne: Matteo Martineau vs Mika Brunold",
    "outcome": "Matteo Martineau"
+  },
+  {
+   "at": "2026-10-18T15:45:30.979480+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T13:35:00+00:00",
+   "condition_id": "0x48148e612fd44a58e34e4ced6808e10c377188c5ff09ce5d44acc072cbbfa747",
+   "asset": "61232613039754087438777476814661291001480699773850207806826955800803421118509",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open, Qualification: Francesco Maestrelli vs Borna Gojo",
+   "outcome": "Francesco Maestrelli"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T15:30:46.959718+00:00"
+ "last_updated": "2026-10-18T15:45:30.980158+00:00"
 }
