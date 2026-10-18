@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792306434,
+  "jtwyslljy": 1792312233,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25688,6 +25688,13 @@
    "BUY",
    13153.04,
    1792306434
+  ],
+  [
+   "0x2469f523377caa8411efc3f2291347e989007902c9b9564604997207792d185f",
+   "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "BUY",
+   5260.02,
+   1792312233
   ]
  ],
  "leader_pos": {
@@ -41046,10 +41053,10 @@
    "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
    "outcome": "Tatiana Prozorova",
    "slug": "wta-prozoro-rakhimo-2026-10-18",
-   "shares": 13153.04,
-   "cost": 7497.2328,
-   "max_shares": 13153.04,
-   "last_trade_ts": 1792306434
+   "shares": 18413.06,
+   "cost": 8390.08620008694,
+   "max_shares": 18413.06,
+   "last_trade_ts": 1792312233
   }
  },
  "positions": [],
@@ -67660,8 +67667,24 @@
    "leader": "jtwyslljy",
    "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
    "outcome": "Tatiana Prozorova"
+  },
+  {
+   "at": "2026-10-18T08:35:28.301812+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-18T06:35:00+00:00",
+   "condition_id": "0x3da73a5d52aae39d04ecf1caa586804c1b30138daa7a5fc2e3cbb19e4240049d",
+   "asset": "69167514223967732331508138701046600343720280164128129562909146078488355937691",
+   "copy_delay_min": 4.9,
+   "cf_ask": 0.25,
+   "cf_shares": 400.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.25,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open, Qualification: Tatiana Prozorova vs Kamilla Rakhimova",
+   "outcome": "Tatiana Prozorova"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T07:00:58.028516+00:00"
+ "last_updated": "2026-10-18T08:35:28.302564+00:00"
 }
