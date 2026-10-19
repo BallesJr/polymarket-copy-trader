@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792416699,
+  "jtwyslljy": 1792417140,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25898,6 +25898,13 @@
    "BUY",
    2011,
    1792416699
+  ],
+  [
+   "0x58ce3b3bb95c08e7f7c4c54269771cecdda813c621f91fa3d28fb8b2e5d8c4a4",
+   "71106376333308642399953663244503157320505067549496764751680703359664852303595",
+   "SELL",
+   28,
+   1792417140
   ]
  ],
  "leader_pos": {
@@ -41400,10 +41407,10 @@
    "title": "Lyon Open: Jaime Faria vs Felix Balshaw",
    "outcome": "Felix Balshaw",
    "slug": "atp-faria-balshaw-2026-10-19",
-   "shares": 2869.9,
-   "cost": 1546.5852,
+   "shares": 2841.9,
+   "cost": 1526.9852,
    "max_shares": 2869.9,
-   "last_trade_ts": 1792416699
+   "last_trade_ts": 1792417140
   }
  },
  "positions": [],
@@ -68318,8 +68325,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Jaime Faria vs Felix Balshaw",
    "outcome": "Felix Balshaw"
+  },
+  {
+   "at": "2026-10-19T13:45:36.131127+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-19T13:10:00+00:00",
+   "condition_id": "0xebf4b20adb5fdabed20ea05d25c268fc5b9a4d42fb10625389e272607b912295",
+   "asset": "71106376333308642399953663244503157320505067549496764751680703359664852303595",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Jaime Faria vs Felix Balshaw",
+   "outcome": "Felix Balshaw"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-19T13:40:32.159886+00:00"
+ "last_updated": "2026-10-19T13:45:36.131900+00:00"
 }
