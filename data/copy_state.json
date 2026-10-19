@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792426074,
+  "jtwyslljy": 1792426137,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25933,6 +25933,13 @@
    "BUY",
    289.63,
    1792426074
+  ],
+  [
+   "0x4d433ac4f9a0283ba9a1bbbe1a032ad7ca93b5d392e164f6bc5823ed6174c8e3",
+   "50172488310650305005909485654587468865126367898681452213918681139594394198178",
+   "BUY",
+   3000,
+   1792426137
   ]
  ],
  "leader_pos": {
@@ -41447,10 +41454,10 @@
    "title": "Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis",
    "outcome": "Mikhail Kukushkin",
    "slug": "atp-kukushk-sakella-2026-10-19",
-   "shares": 2289.63,
-   "cost": 1076.1261,
-   "max_shares": 2289.63,
-   "last_trade_ts": 1792426074
+   "shares": 5289.63,
+   "cost": 2486.1261,
+   "max_shares": 5289.63,
+   "last_trade_ts": 1792426137
   }
  },
  "positions": [],
@@ -68413,8 +68420,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis",
    "outcome": "Mikhail Kukushkin"
+  },
+  {
+   "at": "2026-10-19T16:15:31.732915+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-19T14:40:00+00:00",
+   "condition_id": "0x76a7b37b0897c0e3d9775fad0dd51a4a01a27e7d1c08b0a54d4b3e7c1dda2aef",
+   "asset": "50172488310650305005909485654587468865126367898681452213918681139594394198178",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.43,
+   "cf_shares": 230.2045,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4344,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Mikhail Kukushkin vs Stefanos Sakellaridis",
+   "outcome": "Mikhail Kukushkin"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-19T16:10:31.475674+00:00"
+ "last_updated": "2026-10-19T16:15:31.733743+00:00"
 }
