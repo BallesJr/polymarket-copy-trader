@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792394273,
+  "jtwyslljy": 1792396989,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25863,6 +25863,13 @@
    "BUY",
    5000,
    1792394273
+  ],
+  [
+   "0x75e45bb14d873e2da852c87a43124983113fcb748c45e50eb80ddd5ab1e137f4",
+   "63691817691858003859704252266798871796237920855291386268224934410940613860104",
+   "BUY",
+   5000,
+   1792396989
   ]
  ],
  "leader_pos": {
@@ -41333,6 +41340,18 @@
    "cost": 3449.9999999999995,
    "max_shares": 5000.0,
    "last_trade_ts": 1792394273
+  },
+  "jtwyslljy|63691817691858003859704252266798871796237920855291386268224934410940613860104": {
+   "leader": "jtwyslljy",
+   "asset": "63691817691858003859704252266798871796237920855291386268224934410940613860104",
+   "condition_id": "0x8fa09a37b2e11493479f50871c0bf159e1ed619ac6d320186a0b7d6d9fd319c7",
+   "title": "Ningbo Open: Sorana Cirstea vs Han Shi",
+   "outcome": "Han Shi",
+   "slug": "wta-cirstea-shi-2026-10-19",
+   "shares": 5000.0,
+   "cost": 550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792396989
   }
  },
  "positions": [],
@@ -68199,8 +68218,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Miomir Kecmanovic vs James Duckworth",
    "outcome": "James Duckworth"
+  },
+  {
+   "at": "2026-10-19T08:05:24.656341+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-19T07:15:00+00:00",
+   "condition_id": "0x8fa09a37b2e11493479f50871c0bf159e1ed619ac6d320186a0b7d6d9fd319c7",
+   "asset": "63691817691858003859704252266798871796237920855291386268224934410940613860104",
+   "copy_delay_min": 2.2,
+   "cf_ask": 0.13,
+   "cf_shares": 769.2308,
+   "cf_cost": 100.0,
+   "cf_entry": 0.13,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open: Sorana Cirstea vs Han Shi",
+   "outcome": "Han Shi"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-19T07:25:24.795334+00:00"
+ "last_updated": "2026-10-19T08:05:24.657118+00:00"
 }
