@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792416419,
+  "jtwyslljy": 1792416699,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25884,6 +25884,20 @@
    "BUY",
    251.18,
    1792416419
+  ],
+  [
+   "0x66ffb50f47579aed72467e4544e1fbd964baa6ef7fb420b817dbf27448d81fee",
+   "71106376333308642399953663244503157320505067549496764751680703359664852303595",
+   "BUY",
+   607.72,
+   1792416684
+  ],
+  [
+   "0x056f94e511673ddd06033c1ada4e855452eb8364c8f9cbd80828252bfef4e086",
+   "71106376333308642399953663244503157320505067549496764751680703359664852303595",
+   "BUY",
+   2011,
+   1792416699
   ]
  ],
  "leader_pos": {
@@ -41386,10 +41400,10 @@
    "title": "Lyon Open: Jaime Faria vs Felix Balshaw",
    "outcome": "Felix Balshaw",
    "slug": "atp-faria-balshaw-2026-10-19",
-   "shares": 251.18,
-   "cost": 150.708,
-   "max_shares": 251.18,
-   "last_trade_ts": 1792416419
+   "shares": 2869.9,
+   "cost": 1546.5852,
+   "max_shares": 2869.9,
+   "last_trade_ts": 1792416699
   }
  },
  "positions": [],
@@ -68288,8 +68302,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open, Qualification: Pierre-Hugues Herbert vs Maxim Mrva",
    "outcome": "Maxim Mrva"
+  },
+  {
+   "at": "2026-10-19T13:40:32.159124+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-19T13:10:00+00:00",
+   "condition_id": "0xebf4b20adb5fdabed20ea05d25c268fc5b9a4d42fb10625389e272607b912295",
+   "asset": "71106376333308642399953663244503157320505067549496764751680703359664852303595",
+   "copy_delay_min": 8.9,
+   "cf_ask": 0.69,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Jaime Faria vs Felix Balshaw",
+   "outcome": "Felix Balshaw"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-19T13:35:26.879926+00:00"
+ "last_updated": "2026-10-19T13:40:32.159886+00:00"
 }
