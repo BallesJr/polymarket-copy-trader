@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792344450,
+  "jtwyslljy": 1792390952,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -25849,6 +25849,13 @@
    "BUY",
    4500,
    1792344450
+  ],
+  [
+   "0xe42a787dd6115580f121eb1057ddadcc9862002be76e0511b8b2f48439646df5",
+   "36228410005709180607878816037420297120525993697566271100427688314060118916578",
+   "BUY",
+   3000,
+   1792390952
   ]
  ],
  "leader_pos": {
@@ -41295,6 +41302,18 @@
    "cost": 1980.0,
    "max_shares": 4500.0,
    "last_trade_ts": 1792344450
+  },
+  "jtwyslljy|36228410005709180607878816037420297120525993697566271100427688314060118916578": {
+   "leader": "jtwyslljy",
+   "asset": "36228410005709180607878816037420297120525993697566271100427688314060118916578",
+   "condition_id": "0xb188e013be53f0c1f709ba85bc9a87727d4c676f493a922aed392d7454aee524",
+   "title": "Ningbo Open: Elise Mertens vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-mertens-fernand-2026-10-18",
+   "shares": 3000.0,
+   "cost": 1020.0000000000001,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1792390952
   }
  },
  "positions": [],
@@ -68129,8 +68148,24 @@
    "leader": "jtwyslljy",
    "title": "European Open, Qualification: Martin Damm vs Andrea Guerrieri",
    "outcome": "Andrea Guerrieri"
+  },
+  {
+   "at": "2026-10-19T06:30:45.786744+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-19T04:05:00+00:00",
+   "condition_id": "0xb188e013be53f0c1f709ba85bc9a87727d4c676f493a922aed392d7454aee524",
+   "asset": "36228410005709180607878816037420297120525993697566271100427688314060118916578",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.48,
+   "cf_shares": 208.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.48,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open: Elise Mertens vs Leylah Fernandez",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-18T17:30:49.191736+00:00"
+ "last_updated": "2026-10-19T06:30:45.787595+00:00"
 }
