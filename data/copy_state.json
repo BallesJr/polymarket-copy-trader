@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792498989,
+  "jtwyslljy": 1792499196,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26108,6 +26108,20 @@
    "BUY",
    15917.66,
    1792498989
+  ],
+  [
+   "0xf78093b9b93c20edc2ddafc7d22b623ff6bc087c0556d95c538f6818fe08089e",
+   "98439694266918361732858673535979934748198560209070899720619181217825675288299",
+   "BUY",
+   4000,
+   1792499144
+  ],
+  [
+   "0xffc1aec850d5fde3a10f15e3e6f3551c2e94889fbee139593e15b96177dc47ae",
+   "113380707872916367711027515157873699644913603842607817871414534084869918087373",
+   "BUY",
+   15500,
+   1792499196
   ]
  ],
  "leader_pos": {
@@ -41710,6 +41724,30 @@
    "cost": 5412.004400000001,
    "max_shares": 15917.66,
    "last_trade_ts": 1792498989
+  },
+  "jtwyslljy|98439694266918361732858673535979934748198560209070899720619181217825675288299": {
+   "leader": "jtwyslljy",
+   "asset": "98439694266918361732858673535979934748198560209070899720619181217825675288299",
+   "condition_id": "0x1b150843b335473a857cec289132af2217c9c4d496f8ac349ea99ebb8965fb4e",
+   "title": "European Open: Botic van de Zandschulp vs Clement Chidekh",
+   "outcome": "Clement Chidekh",
+   "slug": "atp-zandsch-chidekh-2026-10-20",
+   "shares": 4000.0,
+   "cost": 2760.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1792499144
+  },
+  "jtwyslljy|113380707872916367711027515157873699644913603842607817871414534084869918087373": {
+   "leader": "jtwyslljy",
+   "asset": "113380707872916367711027515157873699644913603842607817871414534084869918087373",
+   "condition_id": "0x1de874951552550d173b2d9f8067807b8fa981289cf72931e28a8aece9ae48a5",
+   "title": "European Open: Jan-Lennard Struff vs Marcos Giron",
+   "outcome": "Marcos Giron",
+   "slug": "atp-struff-giron-2026-10-19",
+   "shares": 15500.0,
+   "cost": 5106.3533994,
+   "max_shares": 15500.0,
+   "last_trade_ts": 1792499196
   }
  },
  "positions": [],
@@ -68848,8 +68886,40 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Arthur Fery vs Borna Gojo",
    "outcome": "Arthur Fery"
+  },
+  {
+   "at": "2026-10-20T12:35:32.212753+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:00:00+00:00",
+   "condition_id": "0x1de874951552550d173b2d9f8067807b8fa981289cf72931e28a8aece9ae48a5",
+   "asset": "113380707872916367711027515157873699644913603842607817871414534084869918087373",
+   "copy_delay_min": 8.9,
+   "cf_ask": 0.12,
+   "cf_shares": 833.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.12,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Jan-Lennard Struff vs Marcos Giron",
+   "outcome": "Marcos Giron"
+  },
+  {
+   "at": "2026-10-20T12:35:32.350566+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:10:00+00:00",
+   "condition_id": "0x1b150843b335473a857cec289132af2217c9c4d496f8ac349ea99ebb8965fb4e",
+   "asset": "98439694266918361732858673535979934748198560209070899720619181217825675288299",
+   "copy_delay_min": 9.8,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Botic van de Zandschulp vs Clement Chidekh",
+   "outcome": "Clement Chidekh"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T12:30:51.739602+00:00"
+ "last_updated": "2026-10-20T12:35:32.351384+00:00"
 }
