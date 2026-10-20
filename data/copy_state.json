@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792501047,
+  "jtwyslljy": 1792505648,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26150,6 +26150,13 @@
    "SELL",
    2000,
    1792501047
+  ],
+  [
+   "0xf730f6bee978b62fdd84a687079cfb8c601551f6e70860b666f9b80e02f87936",
+   "107174226832219656934997058583300223458840539645348957994956789434834317021790",
+   "BUY",
+   3000,
+   1792505648
   ]
  ],
  "leader_pos": {
@@ -41796,10 +41803,10 @@
    "title": "Lyon Open: Ugo Humbert vs Corentin Moutet",
    "outcome": "Corentin Moutet",
    "slug": "atp-humbert-moutet-2026-10-19",
-   "shares": 2000.0,
-   "cost": 1320.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1792501029
+   "shares": 5000.0,
+   "cost": 2250.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792505648
   }
  },
  "positions": [],
@@ -69018,8 +69025,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Ugo Humbert vs Corentin Moutet",
    "outcome": "Corentin Moutet"
+  },
+  {
+   "at": "2026-10-20T14:20:32.538376+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:05:00+00:00",
+   "condition_id": "0x5e8735d73f5766735d9eefe2dd6c56cb3b59d13c5a9b82670cfdead7927a1f2b",
+   "asset": "107174226832219656934997058583300223458840539645348957994956789434834317021790",
+   "copy_delay_min": 6.4,
+   "cf_ask": 0.33,
+   "cf_shares": 303.0303,
+   "cf_cost": 100.0,
+   "cf_entry": 0.33,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Ugo Humbert vs Corentin Moutet",
+   "outcome": "Corentin Moutet"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T13:01:01.183268+00:00"
+ "last_updated": "2026-10-20T14:20:32.539184+00:00"
 }
