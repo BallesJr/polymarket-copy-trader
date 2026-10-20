@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792499196,
+  "jtwyslljy": 1792500381,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26122,6 +26122,20 @@
    "BUY",
    15500,
    1792499196
+  ],
+  [
+   "0x75d9ea477bbb3fef803f86107298d8c0a2b8d89d6813e2e2b1a0080d619d4473",
+   "102349346640614814717754046780251403295145026712275833247031295472571957711352",
+   "BUY",
+   14000,
+   1792500324
+  ],
+  [
+   "0x0c4a7d4154350b7583b53747dba8cab91083eff0176479daaa04115bd7f98e22",
+   "102349346640614814717754046780251403295145026712275833247031295472571957711352",
+   "BUY",
+   1750,
+   1792500381
   ]
  ],
  "leader_pos": {
@@ -41748,6 +41762,18 @@
    "cost": 5106.3533994,
    "max_shares": 15500.0,
    "last_trade_ts": 1792499196
+  },
+  "jtwyslljy|102349346640614814717754046780251403295145026712275833247031295472571957711352": {
+   "leader": "jtwyslljy",
+   "asset": "102349346640614814717754046780251403295145026712275833247031295472571957711352",
+   "condition_id": "0x5e8735d73f5766735d9eefe2dd6c56cb3b59d13c5a9b82670cfdead7927a1f2b",
+   "title": "Lyon Open: Ugo Humbert vs Corentin Moutet",
+   "outcome": "Ugo Humbert",
+   "slug": "atp-humbert-moutet-2026-10-19",
+   "shares": 15750.0,
+   "cost": 7682.19999995,
+   "max_shares": 15750.0,
+   "last_trade_ts": 1792500381
   }
  },
  "positions": [],
@@ -68918,8 +68944,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Botic van de Zandschulp vs Clement Chidekh",
    "outcome": "Clement Chidekh"
+  },
+  {
+   "at": "2026-10-20T12:50:32.350655+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:05:00+00:00",
+   "condition_id": "0x5e8735d73f5766735d9eefe2dd6c56cb3b59d13c5a9b82670cfdead7927a1f2b",
+   "asset": "102349346640614814717754046780251403295145026712275833247031295472571957711352",
+   "copy_delay_min": 4.2,
+   "cf_ask": 0.45,
+   "cf_shares": 222.2222,
+   "cf_cost": 100.0,
+   "cf_entry": 0.45,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Ugo Humbert vs Corentin Moutet",
+   "outcome": "Ugo Humbert"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T12:35:32.351384+00:00"
+ "last_updated": "2026-10-20T12:50:32.351427+00:00"
 }
