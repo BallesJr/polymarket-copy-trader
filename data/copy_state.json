@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792492020,
+  "jtwyslljy": 1792492178,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26059,6 +26059,20 @@
    "BUY",
    3000,
    1792492020
+  ],
+  [
+   "0xee8c25afd0de868e9ee3d724b4eccef7cdae24359f5bc0c4e6b339e56485268c",
+   "1599762063829936566669532150831312756341598347976379419424682168307696305385",
+   "BUY",
+   11900,
+   1792492140
+  ],
+  [
+   "0xe6b01fa0b638b6bcb43b9cd92f0bfd9f3cc334a8de22dc9ca13cd4548f2e2284",
+   "1599762063829936566669532150831312756341598347976379419424682168307696305385",
+   "BUY",
+   3400,
+   1792492178
   ]
  ],
  "leader_pos": {
@@ -41613,6 +41627,18 @@
    "cost": 2121.33,
    "max_shares": 3599.0,
    "last_trade_ts": 1792492020
+  },
+  "jtwyslljy|1599762063829936566669532150831312756341598347976379419424682168307696305385": {
+   "leader": "jtwyslljy",
+   "asset": "1599762063829936566669532150831312756341598347976379419424682168307696305385",
+   "condition_id": "0x652b787d72b7eafc6b7415d1751c4b727e49e2fffab15c21a099e6a817bf0de0",
+   "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
+   "outcome": "Mariano Navone",
+   "slug": "atp-navone-cerund-2026-10-19",
+   "shares": 15300.0,
+   "cost": 6426.0,
+   "max_shares": 15300.0,
+   "last_trade_ts": 1792492178
   }
  },
  "positions": [],
@@ -68687,8 +68713,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
    "outcome": "Juan Manuel Cerundolo"
+  },
+  {
+   "at": "2026-10-20T10:35:26.920688+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T09:30:00+00:00",
+   "condition_id": "0x652b787d72b7eafc6b7415d1751c4b727e49e2fffab15c21a099e6a817bf0de0",
+   "asset": "1599762063829936566669532150831312756341598347976379419424682168307696305385",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
+   "outcome": "Mariano Navone"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T10:30:45.268053+00:00"
+ "last_updated": "2026-10-20T10:35:26.921457+00:00"
 }
