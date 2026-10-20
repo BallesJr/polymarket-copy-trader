@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792484006,
+  "jtwyslljy": 1792484680,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26010,6 +26010,27 @@
    "BUY",
    5401,
    1792484006
+  ],
+  [
+   "0xca77c5dd97e3c31763768d5fa8a29415480263e90e75207ad2eda4546ce092b1",
+   "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "BUY",
+   16900,
+   1792484417
+  ],
+  [
+   "0xc877ce343a39ec76b0f48dd4809fe10f6df5562242d591f2afac96da499a7e33",
+   "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "BUY",
+   2000,
+   1792484606
+  ],
+  [
+   "0xdc05a5e3a723d6bc544fa30901479742789cce1850a947054abbb20b7e05b3ec",
+   "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "BUY",
+   1000,
+   1792484680
   ]
  ],
  "leader_pos": {
@@ -41536,10 +41557,10 @@
    "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
    "outcome": "Sho Shimabukuro",
    "slug": "atp-shimabu-safiull-2026-10-20",
-   "shares": 32154.14,
-   "cost": 7443.006110404006,
-   "max_shares": 32154.14,
-   "last_trade_ts": 1792484006
+   "shares": 52054.14,
+   "cost": 13324.196360504005,
+   "max_shares": 52054.14,
+   "last_trade_ts": 1792484680
   }
  },
  "positions": [],
@@ -68582,8 +68603,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
    "outcome": "Sho Shimabukuro"
+  },
+  {
+   "at": "2026-10-20T08:30:44.820984+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T06:30:00+00:00",
+   "condition_id": "0xa412b3ab435244ee3fc4762343dec1e78db33eba0866099b3eb0fddb94015a3f",
+   "asset": "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.767,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
+   "outcome": "Sho Shimabukuro"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T08:20:33.157666+00:00"
+ "last_updated": "2026-10-20T08:30:44.821837+00:00"
 }
