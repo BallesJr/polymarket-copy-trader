@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792492178,
+  "jtwyslljy": 1792494185,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26073,6 +26073,20 @@
    "BUY",
    3400,
    1792492178
+  ],
+  [
+   "0xbc8bfaca9a62a3a28bca1c30471d17af99f779f7284a7705c2d6638470bf6c05",
+   "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "BUY",
+   2000,
+   1792494173
+  ],
+  [
+   "0xf0d39fcd4839950ae379c54d8fcda7c0105078c909c5a49991a45e1a8f0866cf",
+   "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "BUY",
+   1500,
+   1792494185
   ]
  ],
  "leader_pos": {
@@ -41623,10 +41637,10 @@
    "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
    "outcome": "Juan Manuel Cerundolo",
    "slug": "atp-navone-cerund-2026-10-19",
-   "shares": 3599.0,
-   "cost": 2121.33,
-   "max_shares": 3599.0,
-   "last_trade_ts": 1792492020
+   "shares": 7099.0,
+   "cost": 2961.33,
+   "max_shares": 7099.0,
+   "last_trade_ts": 1792494185
   },
   "jtwyslljy|1599762063829936566669532150831312756341598347976379419424682168307696305385": {
    "leader": "jtwyslljy",
@@ -68729,8 +68743,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
    "outcome": "Mariano Navone"
+  },
+  {
+   "at": "2026-10-20T11:10:34.923072+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T09:30:00+00:00",
+   "condition_id": "0x652b787d72b7eafc6b7415d1751c4b727e49e2fffab15c21a099e6a817bf0de0",
+   "asset": "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
+   "outcome": "Juan Manuel Cerundolo"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T10:35:26.921457+00:00"
+ "last_updated": "2026-10-20T11:10:34.923737+00:00"
 }
