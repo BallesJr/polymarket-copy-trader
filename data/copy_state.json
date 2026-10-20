@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792495524,
+  "jtwyslljy": 1792498989,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26094,6 +26094,20 @@
    "BUY",
    1000,
    1792495524
+  ],
+  [
+   "0xd29a7c8e8f51556746e4aa7e205bb215505726431d8c262d87b028e90bbf2539",
+   "9764520796006132742656710007739289509650132239882233545079748147205200444579",
+   "BUY",
+   5000,
+   1792498971
+  ],
+  [
+   "0xaeb5dec2cd5a99d5a2400dab549b08f0aaf44fcaef1e1a835a6586e8c58c1bb1",
+   "72696974390417508260142680339126217479941478411417610334549326950862400903795",
+   "BUY",
+   15917.66,
+   1792498989
   ]
  ],
  "leader_pos": {
@@ -41672,6 +41686,30 @@
    "cost": 286.2253,
    "max_shares": 1000.0,
    "last_trade_ts": 1792495524
+  },
+  "jtwyslljy|9764520796006132742656710007739289509650132239882233545079748147205200444579": {
+   "leader": "jtwyslljy",
+   "asset": "9764520796006132742656710007739289509650132239882233545079748147205200444579",
+   "condition_id": "0x6184a1b90ae6a6e7a7c7deda8ece6af563b9227a3f1d650b39a308589c7ba46f",
+   "title": "Lyon Open: Arthur Fery vs Borna Gojo",
+   "outcome": "Borna Gojo",
+   "slug": "atp-fery-gojo-2026-10-20",
+   "shares": 5000.0,
+   "cost": 3350.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792498971
+  },
+  "jtwyslljy|72696974390417508260142680339126217479941478411417610334549326950862400903795": {
+   "leader": "jtwyslljy",
+   "asset": "72696974390417508260142680339126217479941478411417610334549326950862400903795",
+   "condition_id": "0x6184a1b90ae6a6e7a7c7deda8ece6af563b9227a3f1d650b39a308589c7ba46f",
+   "title": "Lyon Open: Arthur Fery vs Borna Gojo",
+   "outcome": "Arthur Fery",
+   "slug": "atp-fery-gojo-2026-10-20",
+   "shares": 15917.66,
+   "cost": 5412.004400000001,
+   "max_shares": 15917.66,
+   "last_trade_ts": 1792498989
   }
  },
  "positions": [],
@@ -68778,8 +68816,40 @@
    "leader": "jtwyslljy",
    "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
    "outcome": "Juan Manuel Cerundolo"
+  },
+  {
+   "at": "2026-10-20T12:30:51.738649+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:00:00+00:00",
+   "condition_id": "0x6184a1b90ae6a6e7a7c7deda8ece6af563b9227a3f1d650b39a308589c7ba46f",
+   "asset": "9764520796006132742656710007739289509650132239882233545079748147205200444579",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Arthur Fery vs Borna Gojo",
+   "outcome": "Borna Gojo"
+  },
+  {
+   "at": "2026-10-20T12:30:51.738725+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T12:00:00+00:00",
+   "condition_id": "0x6184a1b90ae6a6e7a7c7deda8ece6af563b9227a3f1d650b39a308589c7ba46f",
+   "asset": "72696974390417508260142680339126217479941478411417610334549326950862400903795",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Arthur Fery vs Borna Gojo",
+   "outcome": "Arthur Fery"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T11:35:25.550347+00:00"
+ "last_updated": "2026-10-20T12:30:51.739602+00:00"
 }
