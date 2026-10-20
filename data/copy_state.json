@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792489785,
+  "jtwyslljy": 1792492020,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26038,6 +26038,27 @@
    "BUY",
    1000,
    1792489785
+  ],
+  [
+   "0x61403916981546d5e0fed4ce32636048206263393a68da334bd95edea9c68d95",
+   "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "BUY",
+   99,
+   1792491815
+  ],
+  [
+   "0xfb3d41299afa6f971b692372e9a5e8c0484910f3e61d635a6208c723d335c1a7",
+   "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "BUY",
+   500,
+   1792491840
+  ],
+  [
+   "0x68e0da6f075e248b93dbcbcded5f4a8ee2cbfe688883bdc10fc135d3320f5e41",
+   "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "BUY",
+   3000,
+   1792492020
   ]
  ],
  "leader_pos": {
@@ -41580,6 +41601,18 @@
    "cost": 360.0,
    "max_shares": 1000.0,
    "last_trade_ts": 1792489785
+  },
+  "jtwyslljy|64749931331494151467527137065029556416900199729117591143335462553659697096212": {
+   "leader": "jtwyslljy",
+   "asset": "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "condition_id": "0x652b787d72b7eafc6b7415d1751c4b727e49e2fffab15c21a099e6a817bf0de0",
+   "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-navone-cerund-2026-10-19",
+   "shares": 3599.0,
+   "cost": 2121.33,
+   "max_shares": 3599.0,
+   "last_trade_ts": 1792492020
   }
  },
  "positions": [],
@@ -68638,8 +68671,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
    "outcome": "Sho Shimabukuro"
+  },
+  {
+   "at": "2026-10-20T10:30:45.267407+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T09:30:00+00:00",
+   "condition_id": "0x652b787d72b7eafc6b7415d1751c4b727e49e2fffab15c21a099e6a817bf0de0",
+   "asset": "64749931331494151467527137065029556416900199729117591143335462553659697096212",
+   "copy_delay_min": 3.7,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Mariano Navone vs Juan Manuel Cerundolo",
+   "outcome": "Juan Manuel Cerundolo"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T09:50:30.739470+00:00"
+ "last_updated": "2026-10-20T10:30:45.268053+00:00"
 }
