@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792483232,
+  "jtwyslljy": 1792484006,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26003,6 +26003,13 @@
    "BUY",
    10,
    1792483232
+  ],
+  [
+   "0xc7fc890d973714661d6c7d5a8301c8a42828cc83657e7facc271128f41b96f3f",
+   "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "BUY",
+   5401,
+   1792484006
   ]
  ],
  "leader_pos": {
@@ -41529,10 +41536,10 @@
    "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
    "outcome": "Sho Shimabukuro",
    "slug": "atp-shimabu-safiull-2026-10-20",
-   "shares": 26753.14,
-   "cost": 6163.551110281806,
-   "max_shares": 26753.14,
-   "last_trade_ts": 1792483232
+   "shares": 32154.14,
+   "cost": 7443.006110404006,
+   "max_shares": 32154.14,
+   "last_trade_ts": 1792484006
   }
  },
  "positions": [],
@@ -68559,8 +68566,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
    "outcome": "Sho Shimabukuro"
+  },
+  {
+   "at": "2026-10-20T08:20:33.156944+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-20T06:30:00+00:00",
+   "condition_id": "0xa412b3ab435244ee3fc4762343dec1e78db33eba0866099b3eb0fddb94015a3f",
+   "asset": "89857273782022878856466360455325876665887730317308501754988459150138313777722",
+   "copy_delay_min": 7.1,
+   "cf_ask": 0.236,
+   "cf_shares": 422.3245,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2368,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Sho Shimabukuro vs Roman Safiullin",
+   "outcome": "Sho Shimabukuro"
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T08:05:27.300475+00:00"
+ "last_updated": "2026-10-20T08:20:33.157666+00:00"
 }
