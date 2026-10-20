@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9343.615370100002,
+ "bankroll": 9243.615370100002,
  "last_seen": {
-  "jtwyslljy": 1792512216,
+  "jtwyslljy": 1792514693,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26255,6 +26255,13 @@
    "BUY",
    868.59,
    1792512216
+  ],
+  [
+   "0x7ea7eb034acf6be6f8e4644e8878fcc4a87072b5e65af4cf87ed4bd5876530a1",
+   "35772838963935585792839997134197060501925727691916538220111436124788169722819",
+   "BUY",
+   8200,
+   1792514693
   ]
  ],
  "leader_pos": {
@@ -41917,9 +41924,40 @@
    "cost": 434.191910006106,
    "max_shares": 868.59,
    "last_trade_ts": 1792512216
+  },
+  "jtwyslljy|35772838963935585792839997134197060501925727691916538220111436124788169722819": {
+   "leader": "jtwyslljy",
+   "asset": "35772838963935585792839997134197060501925727691916538220111436124788169722819",
+   "condition_id": "0x130d93a16ff24b39208e549bb9581ff4f7f600248b2dc71fff9a8bed860648cf",
+   "title": "Will FC Barcelona win on 2026-10-20?",
+   "outcome": "No",
+   "slug": "ucl-psg-fcb-2026-10-20",
+   "shares": 8200.0,
+   "cost": 4920.0,
+   "max_shares": 8200.0,
+   "last_trade_ts": 1792514693
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "35772838963935585792839997134197060501925727691916538220111436124788169722819",
+   "condition_id": "0x130d93a16ff24b39208e549bb9581ff4f7f600248b2dc71fff9a8bed860648cf",
+   "title": "Will FC Barcelona win on 2026-10-20?",
+   "outcome": "No",
+   "slug": "ucl-psg-fcb-2026-10-20",
+   "opened_at": "2026-10-20T16:50:30.250784+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 4920.0,
+   "copy_delay_min": 5.6,
+   "best_ask": 0.6,
+   "ask_depth": 69098.43,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -69282,5 +69320,5 @@
   }
  ],
  "total_pnl": -656.384799999999,
- "last_updated": "2026-10-20T16:05:23.588894+00:00"
+ "last_updated": "2026-10-20T16:50:30.425373+00:00"
 }
