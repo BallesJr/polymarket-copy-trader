@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792597434,
+  "jtwyslljy": 1792600143,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26535,6 +26535,20 @@
    "BUY",
    3999.99,
    1792597434
+  ],
+  [
+   "0x56227b4ee1bb56d8a05224112d17ab72db81618d915d1ca13f8f8d168d346261",
+   "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "BUY",
+   3000,
+   1792600131
+  ],
+  [
+   "0x868ca3ecca5e63d69fd08b49e5c07c6d4bcc64c523037cede64fa8b174bff9aa",
+   "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "BUY",
+   3000,
+   1792600143
   ]
  ],
  "leader_pos": {
@@ -42325,10 +42339,10 @@
    "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
    "outcome": "Felix Balshaw",
    "slug": "atp-moutet-balshaw-2026-10-21",
-   "shares": 32999.99,
-   "cost": 10377.666000275007,
-   "max_shares": 32999.99,
-   "last_trade_ts": 1792597434
+   "shares": 38999.99,
+   "cost": 10677.666000275007,
+   "max_shares": 38999.99,
+   "last_trade_ts": 1792600143
   }
  },
  "positions": [],
@@ -70017,8 +70031,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
    "outcome": "Felix Balshaw"
+  },
+  {
+   "at": "2026-10-21T16:30:54.359657+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T15:15:00+00:00",
+   "condition_id": "0x155e1e4cde0e612e3deea1e5d5c1ce9ffe83891e2c2a985f5148375e27514370",
+   "asset": "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "copy_delay_min": 1.8,
+   "cf_ask": 0.06,
+   "cf_shares": 1666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.06,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
+   "outcome": "Felix Balshaw"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T15:50:33.243944+00:00"
+ "last_updated": "2026-10-21T16:30:54.360510+00:00"
 }
