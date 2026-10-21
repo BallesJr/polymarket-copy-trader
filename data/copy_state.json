@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9310.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792601310,
+  "jtwyslljy": 1792605995,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26584,6 +26584,13 @@
    "BUY",
    10000,
    1792601310
+  ],
+  [
+   "0x199401129b62ca9cb98ee88b3b7abebec8fea91ae3786333a962bb66f970f986",
+   "59657599388591570174959624581974863437621699644245904814852408116989295307462",
+   "BUY",
+   8175.81,
+   1792605995
   ]
  ],
  "leader_pos": {
@@ -42414,6 +42421,18 @@
    "cost": 1500.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1792601310
+  },
+  "jtwyslljy|59657599388591570174959624581974863437621699644245904814852408116989295307462": {
+   "leader": "jtwyslljy",
+   "asset": "59657599388591570174959624581974863437621699644245904814852408116989295307462",
+   "condition_id": "0x8397f9d64af0f538b3ac39b3bedb1ee838c6d33e399cd1a77f16447264dfc91c",
+   "title": "Will Galatasaray SK win on 2026-10-21?",
+   "outcome": "No",
+   "slug": "ucl-lil-gal-2026-10-21",
+   "shares": 8175.81,
+   "cost": 817.5810000000001,
+   "max_shares": 8175.81,
+   "last_trade_ts": 1792605995
   }
  },
  "positions": [
@@ -70169,8 +70188,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: David Goffin vs Remy Bertola",
    "outcome": "David Goffin"
+  },
+  {
+   "at": "2026-10-21T18:15:35.039799+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T16:45:00+00:00",
+   "condition_id": "0x8397f9d64af0f538b3ac39b3bedb1ee838c6d33e399cd1a77f16447264dfc91c",
+   "asset": "59657599388591570174959624581974863437621699644245904814852408116989295307462",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.07,
+   "cf_shares": 1428.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.07,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Galatasaray SK win on 2026-10-21?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T16:55:26.453615+00:00"
+ "last_updated": "2026-10-21T18:15:35.291496+00:00"
 }
