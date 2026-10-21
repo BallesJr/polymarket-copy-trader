@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792574073,
+  "jtwyslljy": 1792575392,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26325,6 +26325,20 @@
    "BUY",
    5000,
    1792574073
+  ],
+  [
+   "0x63bde80b82b0c28e9d3f45a6a79eaea174c7fe5c4319101ea2bd0dfce578c92b",
+   "58890809632658395924990990758729028799342656320972030616861020373241237836383",
+   "SELL",
+   5000,
+   1792575374
+  ],
+  [
+   "0x51cc4655964c7e8756f033467652db2cef6fa5c47945c0e6ad55a024b655a8da",
+   "11773431328958336727915524273875162774982668904720243674515014004278293167159",
+   "BUY",
+   4000,
+   1792575392
   ]
  ],
  "leader_pos": {
@@ -42031,10 +42045,22 @@
    "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
    "outcome": "Leylah Fernandez",
    "slug": "wta-fernand-sasnovi-2026-10-20",
-   "shares": 5000.0,
-   "cost": 3250.0,
+   "shares": 0.0,
+   "cost": 600.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1792574073
+   "last_trade_ts": 1792575374
+  },
+  "jtwyslljy|11773431328958336727915524273875162774982668904720243674515014004278293167159": {
+   "leader": "jtwyslljy",
+   "asset": "11773431328958336727915524273875162774982668904720243674515014004278293167159",
+   "condition_id": "0x0dfb495f9dcec981679d9caa8ba4e8177c3cd1f96b1de947adcfcad3f8606678",
+   "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
+   "outcome": "Aliaksandra Sasnovich",
+   "slug": "wta-fernand-sasnovi-2026-10-20",
+   "shares": 4000.0,
+   "cost": 1880.0,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1792575392
   }
  },
  "positions": [],
@@ -69467,8 +69493,24 @@
    "leader": "jtwyslljy",
    "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-21T09:40:32.513502+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T07:20:00+00:00",
+   "condition_id": "0x0dfb495f9dcec981679d9caa8ba4e8177c3cd1f96b1de947adcfcad3f8606678",
+   "asset": "11773431328958336727915524273875162774982668904720243674515014004278293167159",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
+   "outcome": "Aliaksandra Sasnovich"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T09:20:34.386658+00:00"
+ "last_updated": "2026-10-21T09:40:32.514316+00:00"
 }
