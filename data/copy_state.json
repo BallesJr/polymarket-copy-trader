@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792572435,
+  "jtwyslljy": 1792574073,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26318,6 +26318,13 @@
    "BUY",
    4000,
    1792572435
+  ],
+  [
+   "0x1d0813e49e9bc18349d531964e290603a0e40c536e8e52e52c0f8ad1dbdf86e8",
+   "58890809632658395924990990758729028799342656320972030616861020373241237836383",
+   "BUY",
+   5000,
+   1792574073
   ]
  ],
  "leader_pos": {
@@ -42016,6 +42023,18 @@
    "cost": 10922.57,
    "max_shares": 23907.0,
    "last_trade_ts": 1792572435
+  },
+  "jtwyslljy|58890809632658395924990990758729028799342656320972030616861020373241237836383": {
+   "leader": "jtwyslljy",
+   "asset": "58890809632658395924990990758729028799342656320972030616861020373241237836383",
+   "condition_id": "0x0dfb495f9dcec981679d9caa8ba4e8177c3cd1f96b1de947adcfcad3f8606678",
+   "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
+   "outcome": "Leylah Fernandez",
+   "slug": "wta-fernand-sasnovi-2026-10-20",
+   "shares": 5000.0,
+   "cost": 3250.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792574073
   }
  },
  "positions": [],
@@ -69432,8 +69451,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Mattia Bellucci vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-21T09:20:34.385808+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T07:20:00+00:00",
+   "condition_id": "0x0dfb495f9dcec981679d9caa8ba4e8177c3cd1f96b1de947adcfcad3f8606678",
+   "asset": "58890809632658395924990990758729028799342656320972030616861020373241237836383",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.83,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
+   "outcome": "Leylah Fernandez"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T08:55:25.898712+00:00"
+ "last_updated": "2026-10-21T09:20:34.386658+00:00"
 }
