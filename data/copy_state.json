@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792585802,
+  "jtwyslljy": 1792587468,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26430,6 +26430,13 @@
    "BUY",
    1000,
    1792585802
+  ],
+  [
+   "0x60247ca8ca4f9359a06b703e1a20664cf72abadb952731d8c5282a8ef3b05fa4",
+   "57284425179321604226512753457636717868074091980648639009189119103726759476648",
+   "BUY",
+   9256.19,
+   1792587468
   ]
  ],
  "leader_pos": {
@@ -42188,6 +42195,18 @@
    "cost": 2460.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1792585802
+  },
+  "jtwyslljy|57284425179321604226512753457636717868074091980648639009189119103726759476648": {
+   "leader": "jtwyslljy",
+   "asset": "57284425179321604226512753457636717868074091980648639009189119103726759476648",
+   "condition_id": "0xcebbee7973586505da164bc21426a5a086ae9d619d14f4bc229710c017a34611",
+   "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
+   "outcome": "Stan Wawrinka",
+   "slug": "atp-wawrink-landalu-2026-10-19",
+   "shares": 9256.19,
+   "cost": 6664.4568,
+   "max_shares": 9256.19,
+   "last_trade_ts": 1792587468
   }
  },
  "positions": [],
@@ -69780,8 +69799,24 @@
    "leader": "jtwyslljy",
    "title": "Ningbo Open: Sorana Cirstea vs Sara Bejlek",
    "outcome": "Sorana Cirstea"
+  },
+  {
+   "at": "2026-10-21T13:01:08.320660+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T12:05:00+00:00",
+   "condition_id": "0xcebbee7973586505da164bc21426a5a086ae9d619d14f4bc229710c017a34611",
+   "asset": "57284425179321604226512753457636717868074091980648639009189119103726759476648",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.66,
+   "cf_shares": 151.5152,
+   "cf_cost": 100.0,
+   "cf_entry": 0.66,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
+   "outcome": "Stan Wawrinka"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T12:30:54.632060+00:00"
+ "last_updated": "2026-10-21T13:01:08.321412+00:00"
 }
