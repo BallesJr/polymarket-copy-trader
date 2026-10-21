@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792569393,
+  "jtwyslljy": 1792572435,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26311,6 +26311,13 @@
    "BUY",
    13000,
    1792569393
+  ],
+  [
+   "0x210cd3627858118ec6d4f53934bdf364d7046d35d63bb8e819bbcd46e8be120c",
+   "79821566169564644121933321027665819588942403050038851107996420947452538126579",
+   "BUY",
+   4000,
+   1792572435
   ]
  ],
  "leader_pos": {
@@ -42005,10 +42012,10 @@
    "title": "Almaty Open: Mattia Bellucci vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry",
    "slug": "atp-bellucc-etcheve-2026-10-19",
-   "shares": 19907.0,
-   "cost": 10282.57,
-   "max_shares": 19907.0,
-   "last_trade_ts": 1792569393
+   "shares": 23907.0,
+   "cost": 10922.57,
+   "max_shares": 23907.0,
+   "last_trade_ts": 1792572435
   }
  },
  "positions": [],
@@ -69409,8 +69416,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Mattia Bellucci vs Tomas Etcheverry",
    "outcome": "Tomas Etcheverry"
+  },
+  {
+   "at": "2026-10-21T08:55:25.897918+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T06:35:00+00:00",
+   "condition_id": "0x0490d157675147d73da0fa12d59766fe7c6ca05029aece2b93b9ed1f4ae22bc1",
+   "asset": "79821566169564644121933321027665819588942403050038851107996420947452538126579",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Mattia Bellucci vs Tomas Etcheverry",
+   "outcome": "Tomas Etcheverry"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T08:05:25.734658+00:00"
+ "last_updated": "2026-10-21T08:55:25.898712+00:00"
 }
