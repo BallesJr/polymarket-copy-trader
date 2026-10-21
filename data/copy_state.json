@@ -42506,26 +42506,7 @@
    "last_trade_ts": 1792606964
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "95964689339190880556446151671347153950760435609238655442923745072813680158280",
-   "condition_id": "0x43fb61c4cd1ae680381ef1a6f7abc67fc5c08d876b41f55f3dfedc48e32e4b4e",
-   "title": "Will Sporting CP win on 2026-10-21?",
-   "outcome": "Yes",
-   "slug": "ucl-spo-lin2-2026-10-21",
-   "opened_at": "2026-10-21T18:30:53.319235+00:00",
-   "entry_price": 0.75,
-   "shares": 133.3333,
-   "stake": 100.0,
-   "leader_vwap": 0.75,
-   "leader_cost": 2250.0,
-   "copy_delay_min": 8.2,
-   "best_ask": 0.75,
-   "ask_depth": 98142.45,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -55211,6 +55192,28 @@
    "closed_at": "2026-10-21T21:20:37.036660+00:00",
    "exit_price": 1.0,
    "pnl": 25.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "95964689339190880556446151671347153950760435609238655442923745072813680158280",
+   "condition_id": "0x43fb61c4cd1ae680381ef1a6f7abc67fc5c08d876b41f55f3dfedc48e32e4b4e",
+   "title": "Will Sporting CP win on 2026-10-21?",
+   "outcome": "Yes",
+   "slug": "ucl-spo-lin2-2026-10-21",
+   "opened_at": "2026-10-21T18:30:53.319235+00:00",
+   "entry_price": 0.75,
+   "shares": 133.3333,
+   "stake": 100.0,
+   "leader_vwap": 0.75,
+   "leader_cost": 2250.0,
+   "copy_delay_min": 8.2,
+   "best_ask": 0.75,
+   "ask_depth": 98142.45,
+   "status": "lost",
+   "closed_at": "2026-10-21T21:45:32.354047+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -70343,6 +70346,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -507.14229999999907,
- "last_updated": "2026-10-21T21:20:37.038617+00:00"
+ "total_pnl": -607.1422999999991,
+ "last_updated": "2026-10-21T21:45:32.356141+00:00"
 }
