@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792587468,
+  "jtwyslljy": 1792590284,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26437,6 +26437,13 @@
    "BUY",
    9256.19,
    1792587468
+  ],
+  [
+   "0xe1cae7872b5d9b7da5504b5d2f1e3e02c4288ca90dd32e32d458f6e85f785b24",
+   "57284425179321604226512753457636717868074091980648639009189119103726759476648",
+   "BUY",
+   3744,
+   1792590284
   ]
  ],
  "leader_pos": {
@@ -42203,10 +42210,10 @@
    "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
    "outcome": "Stan Wawrinka",
    "slug": "atp-wawrink-landalu-2026-10-19",
-   "shares": 9256.19,
-   "cost": 6664.4568,
-   "max_shares": 9256.19,
-   "last_trade_ts": 1792587468
+   "shares": 13000.19,
+   "cost": 8087.1768,
+   "max_shares": 13000.19,
+   "last_trade_ts": 1792590284
   }
  },
  "positions": [],
@@ -69815,8 +69822,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
    "outcome": "Stan Wawrinka"
+  },
+  {
+   "at": "2026-10-21T13:50:34.354988+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T12:05:00+00:00",
+   "condition_id": "0xcebbee7973586505da164bc21426a5a086ae9d619d14f4bc229710c017a34611",
+   "asset": "57284425179321604226512753457636717868074091980648639009189119103726759476648",
+   "copy_delay_min": 5.8,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
+   "outcome": "Stan Wawrinka"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T13:01:08.321412+00:00"
+ "last_updated": "2026-10-21T13:50:34.355754+00:00"
 }
