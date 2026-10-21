@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9101.191150100001,
+ "bankroll": 9267.857850100001,
  "last_seen": {
   "jtwyslljy": 1792606964,
   "0x53757615de": 1792290584
@@ -42509,24 +42509,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "5261741566386136630503430790123537544925969719805425529373566539868070168195",
-   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
-   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
-   "outcome": "No",
-   "slug": "ucl-bay-ars-2026-10-21",
-   "opened_at": "2026-10-21T18:30:52.880374+00:00",
-   "entry_price": 0.6,
-   "shares": 166.6667,
-   "stake": 100.0,
-   "leader_vwap": 0.6,
-   "leader_cost": 1800.0,
-   "copy_delay_min": 8.7,
-   "best_ask": 0.6,
-   "ask_depth": 1285932.1,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "15885560241097622535264338144890047731133154375347138376456109346405645834931",
    "condition_id": "0x1644efa8f27cc1ccfc7ab097031a22f24ccaf3d244a188484e5473bc7524bf8b",
    "title": "Will Real Madrid CF win on 2026-10-21?",
@@ -55204,6 +55186,28 @@
    "exit_price": 0.4,
    "pnl": -9.0909,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5261741566386136630503430790123537544925969719805425529373566539868070168195",
+   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+   "outcome": "No",
+   "slug": "ucl-bay-ars-2026-10-21",
+   "opened_at": "2026-10-21T18:30:52.880374+00:00",
+   "entry_price": 0.6,
+   "shares": 166.6667,
+   "stake": 100.0,
+   "leader_vwap": 0.6,
+   "leader_cost": 1800.0,
+   "copy_delay_min": 8.7,
+   "best_ask": 0.6,
+   "ask_depth": 1285932.1,
+   "status": "won",
+   "closed_at": "2026-10-21T21:15:33.928347+00:00",
+   "exit_price": 1.0,
+   "pnl": 66.6667,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -70335,6 +70339,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -598.8089999999991,
- "last_updated": "2026-10-21T18:30:53.679875+00:00"
+ "total_pnl": -532.1422999999991,
+ "last_updated": "2026-10-21T21:15:33.930269+00:00"
 }
