@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9310.282070100002,
+ "bankroll": 9401.191150100001,
  "last_seen": {
-  "jtwyslljy": 1792606301,
+  "jtwyslljy": 1792606733,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26598,6 +26598,13 @@
    "SELL",
    5817.3,
    1792606301
+  ],
+  [
+   "0x153e50baca6854fca8231efb1df031210dcfb62bb1b6ee5271a5789b8bb7891d",
+   "82853722658173342238781948595880114932844211419294037056959735369523146454820",
+   "SELL",
+   10000,
+   1792606733
   ]
  ],
  "leader_pos": {
@@ -42412,10 +42419,10 @@
    "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
    "outcome": "Yes",
    "slug": "ucl-bay-ars-2026-10-21",
-   "shares": 10000.0,
-   "cost": 4400.0,
+   "shares": 0.0,
+   "cost": 400.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1792600926
+   "last_trade_ts": 1792606733
   },
   "jtwyslljy|106934958428815899823022665834696523335644345068398914352548217739479739657966": {
    "leader": "jtwyslljy",
@@ -42442,26 +42449,7 @@
    "last_trade_ts": 1792605995
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "82853722658173342238781948595880114932844211419294037056959735369523146454820",
-   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
-   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
-   "outcome": "Yes",
-   "slug": "ucl-bay-ars-2026-10-21",
-   "opened_at": "2026-10-21T16:50:32.934481+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 4400.0,
-   "copy_delay_min": 8.4,
-   "best_ask": 0.44,
-   "ask_depth": 224737.77,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -55082,6 +55070,28 @@
    "exit_price": 1.0,
    "pnl": 66.6667,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "82853722658173342238781948595880114932844211419294037056959735369523146454820",
+   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+   "outcome": "Yes",
+   "slug": "ucl-bay-ars-2026-10-21",
+   "opened_at": "2026-10-21T16:50:32.934481+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 4400.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.44,
+   "ask_depth": 224737.77,
+   "status": "closed",
+   "closed_at": "2026-10-21T18:25:28.264503+00:00",
+   "exit_price": 0.4,
+   "pnl": -9.0909,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -70213,6 +70223,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T18:20:32.466332+00:00"
+ "total_pnl": -598.8089999999991,
+ "last_updated": "2026-10-21T18:25:28.265247+00:00"
 }
