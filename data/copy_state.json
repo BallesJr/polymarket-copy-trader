@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792582749,
+  "jtwyslljy": 1792583090,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26381,6 +26381,13 @@
    "BUY",
    3000,
    1792582749
+  ],
+  [
+   "0xc5b24b73a554699c34af610652e0d72b4272c3a86456e73194732fc693e89987",
+   "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "BUY",
+   17782.73,
+   1792583090
   ]
  ],
  "leader_pos": {
@@ -42123,10 +42130,10 @@
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev",
    "slug": "atp-mannari-rublev-2026-10-21",
-   "shares": 3000.0,
-   "cost": 1950.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1792582749
+   "shares": 20782.73,
+   "cost": 10841.365,
+   "max_shares": 20782.73,
+   "last_trade_ts": 1792583090
   }
  },
  "positions": [],
@@ -69655,8 +69662,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Dino Prizmic vs Damir Dzumhur",
    "outcome": "Damir Dzumhur"
+  },
+  {
+   "at": "2026-10-21T11:50:34.762088+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T10:05:00+00:00",
+   "condition_id": "0xbadf0d9449844f65408e9b7aefd4090fb78ff0795529165bb32ed55d6bd12b7b",
+   "asset": "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "copy_delay_min": 5.7,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T11:45:35.818217+00:00"
+ "last_updated": "2026-10-21T11:50:34.762874+00:00"
 }
