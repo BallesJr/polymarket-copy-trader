@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792583555,
+  "jtwyslljy": 1792585802,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26416,6 +26416,20 @@
    "SELL",
    2991,
    1792583555
+  ],
+  [
+   "0x4672dba13a49e41fc8a0ca34b79b0ea50f5b4fbfd1508c5eb62f061e63772d26",
+   "91413873607308352678065634112004604453195826908845605387052528279350238967863",
+   "BUY",
+   6000,
+   1792585595
+  ],
+  [
+   "0x218318fb47dea525661e9cf4b85546353bcea3cf9334162ec792aaf6f5181cb1",
+   "91413873607308352678065634112004604453195826908845605387052528279350238967863",
+   "BUY",
+   1000,
+   1792585802
   ]
  ],
  "leader_pos": {
@@ -42162,6 +42176,18 @@
    "cost": 6482.071100006263,
    "max_shares": 20782.73,
    "last_trade_ts": 1792583555
+  },
+  "jtwyslljy|91413873607308352678065634112004604453195826908845605387052528279350238967863": {
+   "leader": "jtwyslljy",
+   "asset": "91413873607308352678065634112004604453195826908845605387052528279350238967863",
+   "condition_id": "0x201a3abc01dce10ca76f8ec87a36f9170791b87258036c1b4e874f9ff9685ef8",
+   "title": "Ningbo Open: Sorana Cirstea vs Sara Bejlek",
+   "outcome": "Sorana Cirstea",
+   "slug": "wta-cirstea-bejlek-2026-10-20",
+   "shares": 7000.0,
+   "cost": 2460.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1792585802
   }
  },
  "positions": [],
@@ -69738,8 +69764,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-21T12:30:54.631289+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T10:45:00+00:00",
+   "condition_id": "0x201a3abc01dce10ca76f8ec87a36f9170791b87258036c1b4e874f9ff9685ef8",
+   "asset": "91413873607308352678065634112004604453195826908845605387052528279350238967863",
+   "copy_delay_min": 0.9,
+   "cf_ask": 0.31,
+   "cf_shares": 322.5806,
+   "cf_cost": 100.0,
+   "cf_entry": 0.31,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Ningbo Open: Sorana Cirstea vs Sara Bejlek",
+   "outcome": "Sorana Cirstea"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T12:01:07.365353+00:00"
+ "last_updated": "2026-10-21T12:30:54.632060+00:00"
 }
