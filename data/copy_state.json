@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792594388,
+  "jtwyslljy": 1792597266,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26521,6 +26521,13 @@
    "SELL",
    2000,
    1792594388
+  ],
+  [
+   "0x7ee9aab5fdbdd8aefdbef60c037ea6a71ec5e97e06a2e656e0e3737c242f89da",
+   "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "BUY",
+   29000,
+   1792597266
   ]
  ],
  "leader_pos": {
@@ -42303,6 +42310,18 @@
    "cost": -2256.6853,
    "max_shares": 602.27,
    "last_trade_ts": 1792593197
+  },
+  "jtwyslljy|28513547412966435738393651492106736762290081243391062460041243566833914196829": {
+   "leader": "jtwyslljy",
+   "asset": "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "condition_id": "0x155e1e4cde0e612e3deea1e5d5c1ce9ffe83891e2c2a985f5148375e27514370",
+   "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
+   "outcome": "Felix Balshaw",
+   "slug": "atp-moutet-balshaw-2026-10-21",
+   "shares": 29000.0,
+   "cost": 9258.8188002,
+   "max_shares": 29000.0,
+   "last_trade_ts": 1792597266
   }
  },
  "positions": [],
@@ -69959,8 +69978,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Stan Wawrinka vs Martin Landaluce",
    "outcome": "Stan Wawrinka"
+  },
+  {
+   "at": "2026-10-21T15:45:34.539799+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T15:15:00+00:00",
+   "condition_id": "0x155e1e4cde0e612e3deea1e5d5c1ce9ffe83891e2c2a985f5148375e27514370",
+   "asset": "28513547412966435738393651492106736762290081243391062460041243566833914196829",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.3,
+   "cf_shares": 333.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.3,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
+   "outcome": "Felix Balshaw"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T14:55:26.097181+00:00"
+ "last_updated": "2026-10-21T15:45:34.540500+00:00"
 }
