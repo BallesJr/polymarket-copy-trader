@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792600143,
+  "jtwyslljy": 1792600766,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26549,6 +26549,27 @@
    "BUY",
    3000,
    1792600143
+  ],
+  [
+   "0x735445834f35947303bb2a2240d8d37b13b7508bc22f063f3d8db2bf76a371a6",
+   "98730156690723391363577596260133986242109765933910353468713438924217750542648",
+   "BUY",
+   3000,
+   1792600739
+  ],
+  [
+   "0xd7b33eec6810b3e2295f17576ecafe50e38c4920b2c495b134e0ff80ade9a12a",
+   "98730156690723391363577596260133986242109765933910353468713438924217750542648",
+   "BUY",
+   3000,
+   1792600742
+  ],
+  [
+   "0xcce1b019611ea6496baadeaed839e14db22ff0e70aff514ed3b5193bba7512df",
+   "98730156690723391363577596260133986242109765933910353468713438924217750542648",
+   "BUY",
+   3998.99,
+   1792600766
   ]
  ],
  "leader_pos": {
@@ -42343,6 +42364,18 @@
    "cost": 10677.666000275007,
    "max_shares": 38999.99,
    "last_trade_ts": 1792600143
+  },
+  "jtwyslljy|98730156690723391363577596260133986242109765933910353468713438924217750542648": {
+   "leader": "jtwyslljy",
+   "asset": "98730156690723391363577596260133986242109765933910353468713438924217750542648",
+   "condition_id": "0x997ef77988c99c5260b01e60115687d48cbb27d803b319d0dd59281d400d73c9",
+   "title": "Lisbon: Matej Dodig vs Marco Cecchinato",
+   "outcome": "Marco Cecchinato",
+   "slug": "atp-dodig-cecchin-2026-10-21",
+   "shares": 9998.99,
+   "cost": 759.9293,
+   "max_shares": 9998.99,
+   "last_trade_ts": 1792600766
   }
  },
  "positions": [],
@@ -70047,8 +70080,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Corentin Moutet vs Felix Balshaw",
    "outcome": "Felix Balshaw"
+  },
+  {
+   "at": "2026-10-21T16:45:41.929957+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T14:55:00+00:00",
+   "condition_id": "0x997ef77988c99c5260b01e60115687d48cbb27d803b319d0dd59281d400d73c9",
+   "asset": "98730156690723391363577596260133986242109765933910353468713438924217750542648",
+   "copy_delay_min": 6.3,
+   "cf_ask": 0.04,
+   "cf_shares": 2500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.04,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lisbon: Matej Dodig vs Marco Cecchinato",
+   "outcome": "Marco Cecchinato"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T16:30:54.360510+00:00"
+ "last_updated": "2026-10-21T16:45:41.930687+00:00"
 }
