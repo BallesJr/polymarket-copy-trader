@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9410.282070100002,
+ "bankroll": 9310.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792600766,
+  "jtwyslljy": 1792600926,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26570,6 +26570,13 @@
    "BUY",
    3998.99,
    1792600766
+  ],
+  [
+   "0x40048f906dcc8e8581a530674671cd6b46e77f69a925880fbacaa2415841d8fb",
+   "82853722658173342238781948595880114932844211419294037056959735369523146454820",
+   "BUY",
+   10000,
+   1792600926
   ]
  ],
  "leader_pos": {
@@ -42376,9 +42383,40 @@
    "cost": 759.9293,
    "max_shares": 9998.99,
    "last_trade_ts": 1792600766
+  },
+  "jtwyslljy|82853722658173342238781948595880114932844211419294037056959735369523146454820": {
+   "leader": "jtwyslljy",
+   "asset": "82853722658173342238781948595880114932844211419294037056959735369523146454820",
+   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+   "outcome": "Yes",
+   "slug": "ucl-bay-ars-2026-10-21",
+   "shares": 10000.0,
+   "cost": 4400.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1792600926
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "82853722658173342238781948595880114932844211419294037056959735369523146454820",
+   "condition_id": "0x6c99b60b726fcb7e4fdeecc1b4fbbd467fef8e984dfc6642abd0b675629a7eb3",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-21?",
+   "outcome": "Yes",
+   "slug": "ucl-bay-ars-2026-10-21",
+   "opened_at": "2026-10-21T16:50:32.934481+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 4400.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.44,
+   "ask_depth": 224737.77,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -70099,5 +70137,5 @@
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T16:45:41.930687+00:00"
+ "last_updated": "2026-10-21T16:50:33.112258+00:00"
 }
