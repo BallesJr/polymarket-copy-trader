@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792583498,
+  "jtwyslljy": 1792583555,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26409,6 +26409,13 @@
    "SELL",
    1923,
    1792583498
+  ],
+  [
+   "0x2e2aebbc0f18998c03923749f15b48462cdda7f08afcbc680e3683f72f59f373",
+   "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "SELL",
+   2991,
+   1792583555
   ]
  ],
  "leader_pos": {
@@ -42151,10 +42158,10 @@
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev",
    "slug": "atp-mannari-rublev-2026-10-21",
-   "shares": 16076.739999999998,
-   "cost": 8186.941100006263,
+   "shares": 13085.739999999998,
+   "cost": 6482.071100006263,
    "max_shares": 20782.73,
-   "last_trade_ts": 1792583498
+   "last_trade_ts": 1792583555
   }
  },
  "positions": [],
@@ -69715,8 +69722,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-21T12:01:07.364561+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T10:05:00+00:00",
+   "condition_id": "0xbadf0d9449844f65408e9b7aefd4090fb78ff0795529165bb32ed55d6bd12b7b",
+   "asset": "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T11:55:27.168469+00:00"
+ "last_updated": "2026-10-21T12:01:07.365353+00:00"
 }
