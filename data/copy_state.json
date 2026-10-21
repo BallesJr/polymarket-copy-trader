@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9310.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792600926,
+  "jtwyslljy": 1792601310,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26577,6 +26577,13 @@
    "BUY",
    10000,
    1792600926
+  ],
+  [
+   "0x73bc2ffee95d7251b0e71f0d844f4602848fe44b471ef04f07515e1a34eff879",
+   "106934958428815899823022665834696523335644345068398914352548217739479739657966",
+   "BUY",
+   10000,
+   1792601310
   ]
  ],
  "leader_pos": {
@@ -42395,6 +42402,18 @@
    "cost": 4400.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1792600926
+  },
+  "jtwyslljy|106934958428815899823022665834696523335644345068398914352548217739479739657966": {
+   "leader": "jtwyslljy",
+   "asset": "106934958428815899823022665834696523335644345068398914352548217739479739657966",
+   "condition_id": "0xdeb94bbc18aeb2d42da38d38e06baf77efd4e82eb47c6cb4b2ad531fdcba5ff4",
+   "title": "European Open: David Goffin vs Remy Bertola",
+   "outcome": "David Goffin",
+   "slug": "atp-goffin-bertola-2026-10-20",
+   "shares": 10000.0,
+   "cost": 1500.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1792601310
   }
  },
  "positions": [
@@ -70134,8 +70153,24 @@
    "leader": "jtwyslljy",
    "title": "Lisbon: Matej Dodig vs Marco Cecchinato",
    "outcome": "Marco Cecchinato"
+  },
+  {
+   "at": "2026-10-21T16:55:26.262444+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T16:10:00+00:00",
+   "condition_id": "0xdeb94bbc18aeb2d42da38d38e06baf77efd4e82eb47c6cb4b2ad531fdcba5ff4",
+   "asset": "106934958428815899823022665834696523335644345068398914352548217739479739657966",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.2,
+   "cf_shares": 500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: David Goffin vs Remy Bertola",
+   "outcome": "David Goffin"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T16:50:33.112258+00:00"
+ "last_updated": "2026-10-21T16:55:26.453615+00:00"
 }
