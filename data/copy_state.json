@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792575902,
+  "jtwyslljy": 1792582502,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26360,6 +26360,13 @@
    "BUY",
    6000,
    1792575902
+  ],
+  [
+   "0x7e832a06df9fdd72d1f4d15c4d09bc7ec7f325b5cde71fcb683ff95d65ff4503",
+   "78256537690316982514022860830627095450221114961290641669604068154439488879498",
+   "BUY",
+   4673.81,
+   1792582502
   ]
  ],
  "leader_pos": {
@@ -42082,6 +42089,18 @@
    "cost": 1000.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1792575855
+  },
+  "jtwyslljy|78256537690316982514022860830627095450221114961290641669604068154439488879498": {
+   "leader": "jtwyslljy",
+   "asset": "78256537690316982514022860830627095450221114961290641669604068154439488879498",
+   "condition_id": "0x37e90a0ed209d2d4528213b3c2c19c98adce3706c3c57879f802217ac9a7c62c",
+   "title": "European Open: Dino Prizmic vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-prizmic-dzumhur-2026-10-19",
+   "shares": 4673.81,
+   "cost": 1916.2621000000001,
+   "max_shares": 4673.81,
+   "last_trade_ts": 1792582502
   }
  },
  "positions": [],
@@ -69562,8 +69581,24 @@
    "leader": "jtwyslljy",
    "title": "Ningbo Open: Leylah Fernandez vs Aliaksandra Sasnovich",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-10-21T11:40:34.379325+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T09:35:00+00:00",
+   "condition_id": "0x37e90a0ed209d2d4528213b3c2c19c98adce3706c3c57879f802217ac9a7c62c",
+   "asset": "78256537690316982514022860830627095450221114961290641669604068154439488879498",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.4,
+   "cf_shares": 250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Dino Prizmic vs Damir Dzumhur",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T09:50:35.783753+00:00"
+ "last_updated": "2026-10-21T11:40:34.380123+00:00"
 }
