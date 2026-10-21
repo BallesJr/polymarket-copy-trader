@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9410.282070100002,
  "last_seen": {
-  "jtwyslljy": 1792583090,
+  "jtwyslljy": 1792583498,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26388,6 +26388,27 @@
    "BUY",
    17782.73,
    1792583090
+  ],
+  [
+   "0x155e207d2c18ec1a25bc79d0d7db7d1c91346afb463bc7ffdb57c058b2b4ad8d",
+   "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "SELL",
+   333.99,
+   1792583195
+  ],
+  [
+   "0x9d489bf2080c551fe71788406448b73cb4861c59d02547c6bdc445be38463c8e",
+   "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "SELL",
+   2449,
+   1792583217
+  ],
+  [
+   "0x1592065c307aea44cdb896612d9a37e9ab6a1d33037e8964955ad0aa6659652c",
+   "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "SELL",
+   1923,
+   1792583498
   ]
  ],
  "leader_pos": {
@@ -42130,10 +42151,10 @@
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev",
    "slug": "atp-mannari-rublev-2026-10-21",
-   "shares": 20782.73,
-   "cost": 10841.365,
+   "shares": 16076.739999999998,
+   "cost": 8186.941100006263,
    "max_shares": 20782.73,
-   "last_trade_ts": 1792583090
+   "last_trade_ts": 1792583498
   }
  },
  "positions": [],
@@ -69678,8 +69699,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-21T11:55:27.167686+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-21T10:05:00+00:00",
+   "condition_id": "0xbadf0d9449844f65408e9b7aefd4090fb78ff0795529165bb32ed55d6bd12b7b",
+   "asset": "20307454668797704096361815669317126767500557862370014359812929553536611835284",
+   "copy_delay_min": 3.8,
+   "cf_ask": 0.57,
+   "cf_shares": 175.4386,
+   "cf_cost": 100.0,
+   "cf_entry": 0.57,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Adrian Mannarino vs Andrey Rublev",
+   "outcome": "Andrey Rublev"
   }
  ],
  "total_pnl": -589.718099999999,
- "last_updated": "2026-10-21T11:50:34.762874+00:00"
+ "last_updated": "2026-10-21T11:55:27.168469+00:00"
 }
