@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9339.916650100002,
  "last_seen": {
-  "jtwyslljy": 1792667043,
+  "jtwyslljy": 1792677027,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26745,6 +26745,20 @@
    "BUY",
    1000,
    1792667043
+  ],
+  [
+   "0x43144b6aa5fe8d8352853ae181011908e9cf536fe4e6927f4548141b5c74c1fe",
+   "916154151591694451641687900655788572080871706609442187843374412922706645840",
+   "BUY",
+   3999.99,
+   1792677017
+  ],
+  [
+   "0xdd6e1b67c28b17b10a8ab9d3b36d47959c41ff4ecfd9af7d6030ac3792044923",
+   "916154151591694451641687900655788572080871706609442187843374412922706645840",
+   "BUY",
+   15,
+   1792677027
   ]
  ],
  "leader_pos": {
@@ -42707,6 +42721,18 @@
    "cost": 1236.2161,
    "max_shares": 2522.8900000000003,
    "last_trade_ts": 1792667043
+  },
+  "jtwyslljy|916154151591694451641687900655788572080871706609442187843374412922706645840": {
+   "leader": "jtwyslljy",
+   "asset": "916154151591694451641687900655788572080871706609442187843374412922706645840",
+   "condition_id": "0x2d984510710e08b475df252db27bb876b9a6f5830116e350ada66a1e771bed0b",
+   "title": "Lyon Open: Valentin Vacherot vs Luca Van Assche",
+   "outcome": "Luca Van Assche",
+   "slug": "atp-vachero-assche-2026-10-22",
+   "shares": 4014.99,
+   "cost": 3171.8421,
+   "max_shares": 4014.99,
+   "last_trade_ts": 1792677027
   }
  },
  "positions": [
@@ -70716,8 +70742,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
    "outcome": "Terence Atmane"
+  },
+  {
+   "at": "2026-10-22T14:01:06.506255+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-22T12:05:00+00:00",
+   "condition_id": "0x2d984510710e08b475df252db27bb876b9a6f5830116e350ada66a1e771bed0b",
+   "asset": "916154151591694451641687900655788572080871706609442187843374412922706645840",
+   "copy_delay_min": 10.6,
+   "cf_ask": 0.89,
+   "cf_shares": 112.3596,
+   "cf_cost": 100.0,
+   "cf_entry": 0.89,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Valentin Vacherot vs Luca Van Assche",
+   "outcome": "Luca Van Assche"
   }
  ],
  "total_pnl": -560.083499999999,
- "last_updated": "2026-10-22T11:10:33.297606+00:00"
+ "last_updated": "2026-10-22T14:01:06.777028+00:00"
 }
