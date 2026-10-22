@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9339.916650100002,
+ "bankroll": 9239.916650100002,
  "last_seen": {
-  "jtwyslljy": 1792677027,
+  "jtwyslljy": 1792685775,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26759,6 +26759,34 @@
    "BUY",
    15,
    1792677027
+  ],
+  [
+   "0x1e90ef0585ef8af6c2f203d99c23bdd071a28124587cadeb0be5a0c07b268d4c",
+   "101685852141592111787765126562011047478316447119286306483665850123903923036495",
+   "BUY",
+   3000,
+   1792685549
+  ],
+  [
+   "0xf385101e1e9b59ea2253e5a051a0e5b1adcce3ec63826ac0284b5b1b84f7bd17",
+   "101685852141592111787765126562011047478316447119286306483665850123903923036495",
+   "BUY",
+   1200,
+   1792685553
+  ],
+  [
+   "0xf409a83fc998061c878e28a90089b8b9342f6ceb80d9a6a516cd709347c03fbc",
+   "111267160934453625621901840786949845318460854035483463785885674325761164822431",
+   "BUY",
+   1500,
+   1792685583
+  ],
+  [
+   "0xf1f83523a461461eaf47ca4c34591fb938cc7eae37a056484b0740178f5056ad",
+   "35776555000935872340613533625797435002672080143372901514908301259717821955328",
+   "BUY",
+   5000,
+   1792685775
   ]
  ],
  "leader_pos": {
@@ -42717,10 +42745,10 @@
    "title": "Will Olympique de Marseille win on 2026-10-22?",
    "outcome": "No",
    "slug": "uel-stu1-olm-2026-10-22",
-   "shares": 2522.8900000000003,
-   "cost": 1236.2161,
-   "max_shares": 2522.8900000000003,
-   "last_trade_ts": 1792667043
+   "shares": 4022.8900000000003,
+   "cost": 2091.2161,
+   "max_shares": 4022.8900000000003,
+   "last_trade_ts": 1792685583
   },
   "jtwyslljy|916154151591694451641687900655788572080871706609442187843374412922706645840": {
    "leader": "jtwyslljy",
@@ -42733,6 +42761,30 @@
    "cost": 3171.8421,
    "max_shares": 4014.99,
    "last_trade_ts": 1792677027
+  },
+  "jtwyslljy|101685852141592111787765126562011047478316447119286306483665850123903923036495": {
+   "leader": "jtwyslljy",
+   "asset": "101685852141592111787765126562011047478316447119286306483665850123903923036495",
+   "condition_id": "0x0e85ae0b5471f461951f40199c7215861a0352d01533d335031ada2074cccc09",
+   "title": "European Open: Damir Dzumhur vs Zizou Bergs",
+   "outcome": "Damir Dzumhur",
+   "slug": "atp-dzumhur-bergs-2026-10-22",
+   "shares": 4200.0,
+   "cost": 546.0,
+   "max_shares": 4200.0,
+   "last_trade_ts": 1792685553
+  },
+  "jtwyslljy|35776555000935872340613533625797435002672080143372901514908301259717821955328": {
+   "leader": "jtwyslljy",
+   "asset": "35776555000935872340613533625797435002672080143372901514908301259717821955328",
+   "condition_id": "0xc042b75f679abcc3ae4e201de7e295a628c4298eb49534bb126bc25dae8fdf5c",
+   "title": "Will Bayer 04 Leverkusen win on 2026-10-22?",
+   "outcome": "No",
+   "slug": "uel-ofi-lev-2026-10-22",
+   "shares": 5000.0,
+   "cost": 950.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792685775
   }
  },
  "positions": [
@@ -42752,6 +42804,24 @@
    "copy_delay_min": 4.4,
    "best_ask": 0.49,
    "ask_depth": 19849.25,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35776555000935872340613533625797435002672080143372901514908301259717821955328",
+   "condition_id": "0xc042b75f679abcc3ae4e201de7e295a628c4298eb49534bb126bc25dae8fdf5c",
+   "title": "Will Bayer 04 Leverkusen win on 2026-10-22?",
+   "outcome": "No",
+   "slug": "uel-ofi-lev-2026-10-22",
+   "opened_at": "2026-10-22T16:25:25.566676+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 950.0,
+   "copy_delay_min": 9.2,
+   "best_ask": 0.19,
+   "ask_depth": 14899.52,
    "status": "open"
   }
  ],
@@ -70758,8 +70828,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Valentin Vacherot vs Luca Van Assche",
    "outcome": "Luca Van Assche"
+  },
+  {
+   "at": "2026-10-22T16:25:25.402929+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-22T15:10:00+00:00",
+   "condition_id": "0x0e85ae0b5471f461951f40199c7215861a0352d01533d335031ada2074cccc09",
+   "asset": "101685852141592111787765126562011047478316447119286306483665850123903923036495",
+   "copy_delay_min": 12.9,
+   "cf_ask": 0.13,
+   "cf_shares": 769.2308,
+   "cf_cost": 100.0,
+   "cf_entry": 0.13,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Damir Dzumhur vs Zizou Bergs",
+   "outcome": "Damir Dzumhur"
   }
  ],
  "total_pnl": -560.083499999999,
- "last_updated": "2026-10-22T14:01:06.777028+00:00"
+ "last_updated": "2026-10-22T16:25:25.952732+00:00"
 }
