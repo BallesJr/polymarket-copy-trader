@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9139.916650100002,
+ "bankroll": 9343.998250100001,
  "last_seen": {
   "jtwyslljy": 1792700807,
   "0x53757615de": 1792290584
@@ -42837,42 +42837,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "111267160934453625621901840786949845318460854035483463785885674325761164822431",
-   "condition_id": "0xb439d990f78490533353080cb2c3d4f548193480bd4484411aa90fa68ceee44d",
-   "title": "Will Olympique de Marseille win on 2026-10-22?",
-   "outcome": "No",
-   "slug": "uel-stu1-olm-2026-10-22",
-   "opened_at": "2026-10-22T10:45:32.975009+00:00",
-   "entry_price": 0.49,
-   "shares": 204.0816,
-   "stake": 100.0,
-   "leader_vwap": 0.49,
-   "leader_cost": 746.22,
-   "copy_delay_min": 4.4,
-   "best_ask": 0.49,
-   "ask_depth": 19849.25,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "35776555000935872340613533625797435002672080143372901514908301259717821955328",
-   "condition_id": "0xc042b75f679abcc3ae4e201de7e295a628c4298eb49534bb126bc25dae8fdf5c",
-   "title": "Will Bayer 04 Leverkusen win on 2026-10-22?",
-   "outcome": "No",
-   "slug": "uel-ofi-lev-2026-10-22",
-   "opened_at": "2026-10-22T16:25:25.566676+00:00",
-   "entry_price": 0.19,
-   "shares": 526.3158,
-   "stake": 100.0,
-   "leader_vwap": 0.19,
-   "leader_cost": 950.0,
-   "copy_delay_min": 9.2,
-   "best_ask": 0.19,
-   "ask_depth": 14899.52,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "16976537001203541193755528971395328342072478570030203717272542262202963006536",
    "condition_id": "0xd2b27717e24011c651658cfe10e7c3e8a0c1b08e3c54bc1e8cdcfff6894f5407",
    "title": "Will Sport Lisboa e Benfica win on 2026-10-22?",
@@ -55619,6 +55583,50 @@
    "closed_at": "2026-10-22T05:00:55.278946+00:00",
    "exit_price": 1.0,
    "pnl": 47.0588,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "111267160934453625621901840786949845318460854035483463785885674325761164822431",
+   "condition_id": "0xb439d990f78490533353080cb2c3d4f548193480bd4484411aa90fa68ceee44d",
+   "title": "Will Olympique de Marseille win on 2026-10-22?",
+   "outcome": "No",
+   "slug": "uel-stu1-olm-2026-10-22",
+   "opened_at": "2026-10-22T10:45:32.975009+00:00",
+   "entry_price": 0.49,
+   "shares": 204.0816,
+   "stake": 100.0,
+   "leader_vwap": 0.49,
+   "leader_cost": 746.22,
+   "copy_delay_min": 4.4,
+   "best_ask": 0.49,
+   "ask_depth": 19849.25,
+   "status": "won",
+   "closed_at": "2026-10-22T20:45:31.567504+00:00",
+   "exit_price": 1.0,
+   "pnl": 104.0816,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "35776555000935872340613533625797435002672080143372901514908301259717821955328",
+   "condition_id": "0xc042b75f679abcc3ae4e201de7e295a628c4298eb49534bb126bc25dae8fdf5c",
+   "title": "Will Bayer 04 Leverkusen win on 2026-10-22?",
+   "outcome": "No",
+   "slug": "uel-ofi-lev-2026-10-22",
+   "opened_at": "2026-10-22T16:25:25.566676+00:00",
+   "entry_price": 0.19,
+   "shares": 526.3158,
+   "stake": 100.0,
+   "leader_vwap": 0.19,
+   "leader_cost": 950.0,
+   "copy_delay_min": 9.2,
+   "best_ask": 0.19,
+   "ask_depth": 14899.52,
+   "status": "lost",
+   "closed_at": "2026-10-22T20:45:31.828687+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -70911,6 +70919,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -560.083499999999,
- "last_updated": "2026-10-22T20:30:49.498286+00:00"
+ "total_pnl": -556.0018999999991,
+ "last_updated": "2026-10-22T20:45:31.831394+00:00"
 }
