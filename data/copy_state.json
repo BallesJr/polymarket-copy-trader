@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9439.916650100002,
  "last_seen": {
-  "jtwyslljy": 1792650226,
+  "jtwyslljy": 1792652183,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26682,6 +26682,27 @@
    "BUY",
    1000,
    1792650226
+  ],
+  [
+   "0xcd2908a9369b3b98585cd94e27dd5fb0fcfb48ca60b2f4bb62eaa3efb2c06b3f",
+   "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "BUY",
+   26000,
+   1792652133
+  ],
+  [
+   "0x92dcc5ce53a017ee135ee76aa489a424449aa3d1b09c5bd02288ea6200c14f5b",
+   "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "BUY",
+   9100,
+   1792652154
+  ],
+  [
+   "0x6e03ba3d557a0326cd6817d7e1053c16a89ea8896d7a41cadbf969a1771efe22",
+   "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "BUY",
+   5850,
+   1792652183
   ]
  ],
  "leader_pos": {
@@ -42620,6 +42641,18 @@
    "cost": 320.0,
    "max_shares": 3000.0,
    "last_trade_ts": 1792650226
+  },
+  "jtwyslljy|74719096004138347728408064911984709154362473564036344125926433434409191353279": {
+   "leader": "jtwyslljy",
+   "asset": "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "condition_id": "0x4aa4952b25c75717516e531555fba4c7487c378d68079a9f70f7b14f956865c2",
+   "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
+   "outcome": "Terence Atmane",
+   "slug": "atp-atmane-bellucc-2026-10-22",
+   "shares": 40950.0,
+   "cost": 8933.8738008,
+   "max_shares": 40950.0,
+   "last_trade_ts": 1792652183
   }
  },
  "positions": [],
@@ -70530,8 +70563,24 @@
    "leader": "jtwyslljy",
    "title": "Pacers vs. Pelicans",
    "outcome": "Pacers"
+  },
+  {
+   "at": "2026-10-22T07:05:24.862618+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-22T06:35:00+00:00",
+   "condition_id": "0x4aa4952b25c75717516e531555fba4c7487c378d68079a9f70f7b14f956865c2",
+   "asset": "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.22,
+   "cf_shares": 454.5455,
+   "cf_cost": 100.0,
+   "cf_entry": 0.22,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
+   "outcome": "Terence Atmane"
   }
  ],
  "total_pnl": -560.083499999999,
- "last_updated": "2026-10-22T06:30:45.795998+00:00"
+ "last_updated": "2026-10-22T07:05:24.863415+00:00"
 }
