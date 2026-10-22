@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9292.857850100001,
  "last_seen": {
-  "jtwyslljy": 1792633742,
+  "jtwyslljy": 1792635180,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26654,6 +26654,13 @@
    "BUY",
    2000,
    1792633742
+  ],
+  [
+   "0x2c81c37313acb90a6800cf9247c68144df7c8694b858269326351f6772df08f0",
+   "79113085505766518662127377485187921541630763377385828811087128160824652816998",
+   "BUY",
+   1000,
+   1792635180
   ]
  ],
  "leader_pos": {
@@ -42576,10 +42583,10 @@
    "title": "Pacers vs. Pelicans",
    "outcome": "Pacers",
    "slug": "nba-ind-nop-2026-10-21",
-   "shares": 2000.0,
-   "cost": 780.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1792633742
+   "shares": 3000.0,
+   "cost": 1270.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1792635180
   }
  },
  "positions": [
@@ -70471,8 +70478,24 @@
    "leader": "jtwyslljy",
    "title": "Pacers vs. Pelicans",
    "outcome": "Pacers"
+  },
+  {
+   "at": "2026-10-22T02:20:31.684607+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-22T00:00:00+00:00",
+   "condition_id": "0x24bab815e0e348358839f3bcf9d962b702610256b189506c9ef6197640d463e6",
+   "asset": "79113085505766518662127377485187921541630763377385828811087128160824652816998",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.7,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Pacers vs. Pelicans",
+   "outcome": "Pacers"
   }
  ],
  "total_pnl": -607.1422999999991,
- "last_updated": "2026-10-22T02:00:58.249475+00:00"
+ "last_updated": "2026-10-22T02:20:31.985028+00:00"
 }
