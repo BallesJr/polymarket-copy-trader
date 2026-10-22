@@ -42834,26 +42834,7 @@
    "last_trade_ts": 1792700807
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "16976537001203541193755528971395328342072478570030203717272542262202963006536",
-   "condition_id": "0xd2b27717e24011c651658cfe10e7c3e8a0c1b08e3c54bc1e8cdcfff6894f5407",
-   "title": "Will Sport Lisboa e Benfica win on 2026-10-22?",
-   "outcome": "No",
-   "slug": "uel-omo-ben-2026-10-22",
-   "opened_at": "2026-10-22T18:45:33.612847+00:00",
-   "entry_price": 0.25,
-   "shares": 400.0,
-   "stake": 100.0,
-   "leader_vwap": 0.2494,
-   "leader_cost": 748.18,
-   "copy_delay_min": 5.5,
-   "best_ask": 0.25,
-   "ask_depth": 31788.93,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -55625,6 +55606,28 @@
    "ask_depth": 14899.52,
    "status": "lost",
    "closed_at": "2026-10-22T20:45:31.828687+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16976537001203541193755528971395328342072478570030203717272542262202963006536",
+   "condition_id": "0xd2b27717e24011c651658cfe10e7c3e8a0c1b08e3c54bc1e8cdcfff6894f5407",
+   "title": "Will Sport Lisboa e Benfica win on 2026-10-22?",
+   "outcome": "No",
+   "slug": "uel-omo-ben-2026-10-22",
+   "opened_at": "2026-10-22T18:45:33.612847+00:00",
+   "entry_price": 0.25,
+   "shares": 400.0,
+   "stake": 100.0,
+   "leader_vwap": 0.2494,
+   "leader_cost": 748.18,
+   "copy_delay_min": 5.5,
+   "best_ask": 0.25,
+   "ask_depth": 31788.93,
+   "status": "lost",
+   "closed_at": "2026-10-22T23:15:32.874525+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
@@ -70919,6 +70922,6 @@
    "outcome": "Damir Dzumhur"
   }
  ],
- "total_pnl": -556.0018999999991,
- "last_updated": "2026-10-22T20:45:31.831394+00:00"
+ "total_pnl": -656.0018999999991,
+ "last_updated": "2026-10-22T23:15:32.876350+00:00"
 }
