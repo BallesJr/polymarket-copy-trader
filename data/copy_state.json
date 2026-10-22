@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9439.916650100002,
  "last_seen": {
-  "jtwyslljy": 1792652487,
+  "jtwyslljy": 1792660763,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26710,6 +26710,13 @@
    "SELL",
    5850,
    1792652487
+  ],
+  [
+   "0x36bb16cac538a23fd945cfaa0f18df9e4ee5d884a233642879b111459c431b36",
+   "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "BUY",
+   1016.92,
+   1792660763
   ]
  ],
  "leader_pos": {
@@ -42656,10 +42663,10 @@
    "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
    "outcome": "Terence Atmane",
    "slug": "atp-atmane-bellucc-2026-10-22",
-   "shares": 35100.0,
-   "cost": 7705.3738008,
+   "shares": 36116.92,
+   "cost": 8323.215800787691,
    "max_shares": 40950.0,
-   "last_trade_ts": 1792652487
+   "last_trade_ts": 1792660763
   }
  },
  "positions": [],
@@ -70602,8 +70609,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
    "outcome": "Terence Atmane"
+  },
+  {
+   "at": "2026-10-22T09:25:26.043505+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-22T06:35:00+00:00",
+   "condition_id": "0x4aa4952b25c75717516e531555fba4c7487c378d68079a9f70f7b14f956865c2",
+   "asset": "74719096004138347728408064911984709154362473564036344125926433434409191353279",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.95,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
+   "outcome": "Terence Atmane"
   }
  ],
  "total_pnl": -560.083499999999,
- "last_updated": "2026-10-22T07:10:34.693624+00:00"
+ "last_updated": "2026-10-22T09:25:26.044359+00:00"
 }
