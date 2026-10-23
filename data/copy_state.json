@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.998250100001,
  "last_seen": {
-  "jtwyslljy": 1792700807,
+  "jtwyslljy": 1792762086,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26822,6 +26822,20 @@
    "BUY",
    423.66,
    1792700807
+  ],
+  [
+   "0x5cf02f379948a5f85d52551a006233b2a7fc3ace72757a614e0ad9e583de2a49",
+   "19788857392079118152900554530900384620522962134965595544488046161328491828498",
+   "BUY",
+   572.72,
+   1792762079
+  ],
+  [
+   "0x2a09191e80f6bf301b84b01f8c3bb3fbcc194890ca56a44aae7518cfba90d5bb",
+   "19788857392079118152900554530900384620522962134965595544488046161328491828498",
+   "BUY",
+   3000,
+   1792762086
   ]
  ],
  "leader_pos": {
@@ -42832,6 +42846,18 @@
    "cost": 59.31240000000001,
    "max_shares": 423.66,
    "last_trade_ts": 1792700807
+  },
+  "jtwyslljy|19788857392079118152900554530900384620522962134965595544488046161328491828498": {
+   "leader": "jtwyslljy",
+   "asset": "19788857392079118152900554530900384620522962134965595544488046161328491828498",
+   "condition_id": "0x3abec0d0f411a096b7163b28c22f8693fe3f76fb6f69ebc6df11b43973e9a953",
+   "title": "Lyon Open: Corentin Moutet vs Tommy Paul",
+   "outcome": "Corentin Moutet",
+   "slug": "atp-moutet-paul-2026-10-23",
+   "shares": 3572.7200000000003,
+   "cost": 958.9072,
+   "max_shares": 3572.7200000000003,
+   "last_trade_ts": 1792762086
   }
  },
  "positions": [],
@@ -70920,8 +70946,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Damir Dzumhur vs Zizou Bergs",
    "outcome": "Damir Dzumhur"
+  },
+  {
+   "at": "2026-10-23T13:35:33.200563+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T12:05:00+00:00",
+   "condition_id": "0x3abec0d0f411a096b7163b28c22f8693fe3f76fb6f69ebc6df11b43973e9a953",
+   "asset": "19788857392079118152900554530900384620522962134965595544488046161328491828498",
+   "copy_delay_min": 7.4,
+   "cf_ask": 0.25,
+   "cf_shares": 377.9867,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2646,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lyon Open: Corentin Moutet vs Tommy Paul",
+   "outcome": "Corentin Moutet"
   }
  ],
  "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-22T23:15:32.876350+00:00"
+ "last_updated": "2026-10-23T13:35:33.201352+00:00"
 }
