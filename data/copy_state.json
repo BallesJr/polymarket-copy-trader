@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9300.894804100002,
  "last_seen": {
-  "jtwyslljy": 1792782897,
+  "jtwyslljy": 1792783706,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26934,6 +26934,27 @@
    "BUY",
    3000,
    1792782897
+  ],
+  [
+   "0xc60560f4adcf81fa6ae6e163568f8a739298e48e91b1d3282ebe07d336baf759",
+   "33625723802314239535610504053804773433766116808038859037938413941676969822422",
+   "SELL",
+   3000,
+   1792783632
+  ],
+  [
+   "0xe7ad4449c11f126f64b8a8f07ebac754891cc8a0b5c715283a74936dfd240101",
+   "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "BUY",
+   3000,
+   1792783649
+  ],
+  [
+   "0x08863482c5c0f176caf07e47e84a7bfbc78da27405bbcc9fc08263372f123807",
+   "99200773505710549983358119162500601327044006694048336305035218373368421360681",
+   "BUY",
+   5000,
+   1792783706
   ]
  ],
  "leader_pos": {
@@ -43000,10 +43021,10 @@
    "title": "Will Nottingham Forest FC win on 2026-10-23?",
    "outcome": "No",
    "slug": "epl-ips-not-2026-10-23",
-   "shares": 784.4899999999998,
-   "cost": 1202.7266,
+   "shares": 3784.49,
+   "cost": 2252.7266,
    "max_shares": 3900.0,
-   "last_trade_ts": 1792782872
+   "last_trade_ts": 1792783649
   },
   "jtwyslljy|111706511472919434084963857740209873433915519363046416982507976126674260142072": {
    "leader": "jtwyslljy",
@@ -43024,10 +43045,22 @@
    "title": "Will Nottingham Forest FC win on 2026-10-23?",
    "outcome": "Yes",
    "slug": "epl-ips-not-2026-10-23",
-   "shares": 3000.0,
-   "cost": 2009.9499999000002,
+   "shares": 0.0,
+   "cost": 59.94999990000019,
    "max_shares": 3000.0,
-   "last_trade_ts": 1792782897
+   "last_trade_ts": 1792783632
+  },
+  "jtwyslljy|99200773505710549983358119162500601327044006694048336305035218373368421360681": {
+   "leader": "jtwyslljy",
+   "asset": "99200773505710549983358119162500601327044006694048336305035218373368421360681",
+   "condition_id": "0x2638e77ab7bbf3f51f8577f49d24e805fcd51a631625b1146fb572c4795fb3d1",
+   "title": "Will VfB Stuttgart win on 2026-10-23?",
+   "outcome": "Yes",
+   "slug": "bun-stu-moe-2026-10-23",
+   "shares": 5000.0,
+   "cost": 2900.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792783706
   }
  },
  "positions": [],
@@ -71266,8 +71299,40 @@
    "leader": "jtwyslljy",
    "title": "Will Nottingham Forest FC win on 2026-10-23?",
    "outcome": "Yes"
+  },
+  {
+   "at": "2026-10-23T19:30:49.740528+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T19:00:00+00:00",
+   "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
+   "asset": "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Nottingham Forest FC win on 2026-10-23?",
+   "outcome": "No"
+  },
+  {
+   "at": "2026-10-23T19:30:49.946254+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T18:30:00+00:00",
+   "condition_id": "0x2638e77ab7bbf3f51f8577f49d24e805fcd51a631625b1146fb572c4795fb3d1",
+   "asset": "99200773505710549983358119162500601327044006694048336305035218373368421360681",
+   "copy_delay_min": 2.4,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will VfB Stuttgart win on 2026-10-23?",
+   "outcome": "Yes"
   }
  ],
  "total_pnl": -699.105299999999,
- "last_updated": "2026-10-23T19:15:36.209459+00:00"
+ "last_updated": "2026-10-23T19:30:49.947038+00:00"
 }
