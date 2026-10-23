@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9243.998250100001,
+ "bankroll": 9300.894804100002,
  "last_seen": {
-  "jtwyslljy": 1792779884,
+  "jtwyslljy": 1792782897,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26913,6 +26913,27 @@
    "BUY",
    5,
    1792779884
+  ],
+  [
+   "0xb066aa0b3bbc53df481795510f36ac2b7839bd02af6fe03ddf6adfd37536520a",
+   "16480129954385730930720112051773593007944614584123746633964427285480678593241",
+   "SELL",
+   3818.95,
+   1792782786
+  ],
+  [
+   "0x4f9934c1f84cbf9d3ba0aceae77732fae93c1c980b84df318a956086763cd9a2",
+   "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "SELL",
+   3115.51,
+   1792782872
+  ],
+  [
+   "0x5fb9811dbe754e373f557d5fef1b53e37add7a06cbc54a7ff0e5b1f8cd0f1b98",
+   "33625723802314239535610504053804773433766116808038859037938413941676969822422",
+   "BUY",
+   3000,
+   1792782897
   ]
  ],
  "leader_pos": {
@@ -42967,10 +42988,10 @@
    "title": "Lyon Open: Flavio Cobolli vs Brandon Nakashima",
    "outcome": "Flavio Cobolli",
    "slug": "atp-cobolli-nakashi-2026-10-23",
-   "shares": 10000.0,
-   "cost": 3300.0,
+   "shares": 6181.05,
+   "cost": 15.70300000000043,
    "max_shares": 10000.0,
-   "last_trade_ts": 1792775657
+   "last_trade_ts": 1792782786
   },
   "jtwyslljy|16184544049659977053169174035215616142238221505653753038774483731435897645665": {
    "leader": "jtwyslljy",
@@ -42979,10 +43000,10 @@
    "title": "Will Nottingham Forest FC win on 2026-10-23?",
    "outcome": "No",
    "slug": "epl-ips-not-2026-10-23",
-   "shares": 3900.0,
-   "cost": 2262.0,
+   "shares": 784.4899999999998,
+   "cost": 1202.7266,
    "max_shares": 3900.0,
-   "last_trade_ts": 1792779396
+   "last_trade_ts": 1792782872
   },
   "jtwyslljy|111706511472919434084963857740209873433915519363046416982507976126674260142072": {
    "leader": "jtwyslljy",
@@ -42995,28 +43016,21 @@
    "cost": 1041.8149699332441,
    "max_shares": 4177.03,
    "last_trade_ts": 1792779884
-  }
- },
- "positions": [
-  {
+  },
+  "jtwyslljy|33625723802314239535610504053804773433766116808038859037938413941676969822422": {
    "leader": "jtwyslljy",
-   "asset": "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "asset": "33625723802314239535610504053804773433766116808038859037938413941676969822422",
    "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
    "title": "Will Nottingham Forest FC win on 2026-10-23?",
-   "outcome": "No",
+   "outcome": "Yes",
    "slug": "epl-ips-not-2026-10-23",
-   "opened_at": "2026-10-23T18:20:35.212730+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.58,
-   "leader_cost": 2262.0,
-   "copy_delay_min": 4.0,
-   "best_ask": 0.58,
-   "ask_depth": 1164300.51,
-   "status": "open"
+   "shares": 3000.0,
+   "cost": 2009.9499999000002,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1792782897
   }
- ],
+ },
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -55813,6 +55827,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
+   "title": "Will Nottingham Forest FC win on 2026-10-23?",
+   "outcome": "No",
+   "slug": "epl-ips-not-2026-10-23",
+   "opened_at": "2026-10-23T18:20:35.212730+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 2262.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.58,
+   "ask_depth": 1164300.51,
+   "status": "closed",
+   "closed_at": "2026-10-23T19:15:36.075805+00:00",
+   "exit_price": 0.33,
+   "pnl": -43.1034,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -71214,8 +71250,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Arthur Fils vs Alex Michelsen",
    "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-10-23T19:15:36.208590+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T19:00:00+00:00",
+   "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
+   "asset": "33625723802314239535610504053804773433766116808038859037938413941676969822422",
+   "copy_delay_min": 0.6,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Nottingham Forest FC win on 2026-10-23?",
+   "outcome": "Yes"
   }
  ],
- "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-23T18:30:50.475093+00:00"
+ "total_pnl": -699.105299999999,
+ "last_updated": "2026-10-23T19:15:36.209459+00:00"
 }
