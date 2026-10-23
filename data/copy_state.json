@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.998250100001,
  "last_seen": {
-  "jtwyslljy": 1792767993,
+  "jtwyslljy": 1792771655,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26850,6 +26850,13 @@
    "BUY",
    243.99,
    1792767993
+  ],
+  [
+   "0x0bf6f413d9a706618af20acc627f0d769ecb802537744a31d93955065dbd2890",
+   "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "BUY",
+   3000,
+   1792771655
   ]
  ],
  "leader_pos": {
@@ -42880,10 +42887,10 @@
    "title": "Almaty Open: Alexander Bublik vs Karen Khachanov",
    "outcome": "Karen Khachanov",
    "slug": "atp-bublik-khachan-2026-10-23",
-   "shares": 4999.99,
-   "cost": 3297.5535,
-   "max_shares": 4999.99,
-   "last_trade_ts": 1792767993
+   "shares": 7999.99,
+   "cost": 4737.5535,
+   "max_shares": 7999.99,
+   "last_trade_ts": 1792771655
   }
  },
  "positions": [],
@@ -71004,8 +71011,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Alexander Bublik vs Karen Khachanov",
    "outcome": "Karen Khachanov"
+  },
+  {
+   "at": "2026-10-23T16:15:37.520661+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T14:30:00+00:00",
+   "condition_id": "0xb053a82af4529781662a5e53ff37ca1e8df97c9d01badf85c100453a017f3517",
+   "asset": "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Alexander Bublik vs Karen Khachanov",
+   "outcome": "Karen Khachanov"
   }
  ],
  "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-23T15:15:35.585872+00:00"
+ "last_updated": "2026-10-23T16:15:37.521577+00:00"
 }
