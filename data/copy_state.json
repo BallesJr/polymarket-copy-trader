@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9343.998250100001,
  "last_seen": {
-  "jtwyslljy": 1792762086,
+  "jtwyslljy": 1792767993,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26836,6 +26836,20 @@
    "BUY",
    3000,
    1792762086
+  ],
+  [
+   "0xb47ffe6d5a2d1db18b8c76c38446136c3991dd92802d9a7a235763d7bb935588",
+   "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "BUY",
+   4756,
+   1792767977
+  ],
+  [
+   "0xb3fc81de51a627ad07045c47beef0538577f005a30863482b792ae62b6290484",
+   "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "BUY",
+   243.99,
+   1792767993
   ]
  ],
  "leader_pos": {
@@ -42858,6 +42872,18 @@
    "cost": 958.9072,
    "max_shares": 3572.7200000000003,
    "last_trade_ts": 1792762086
+  },
+  "jtwyslljy|90708506304568741773189337853240923420975300532272239814371290176016737228752": {
+   "leader": "jtwyslljy",
+   "asset": "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "condition_id": "0xb053a82af4529781662a5e53ff37ca1e8df97c9d01badf85c100453a017f3517",
+   "title": "Almaty Open: Alexander Bublik vs Karen Khachanov",
+   "outcome": "Karen Khachanov",
+   "slug": "atp-bublik-khachan-2026-10-23",
+   "shares": 4999.99,
+   "cost": 3297.5535,
+   "max_shares": 4999.99,
+   "last_trade_ts": 1792767993
   }
  },
  "positions": [],
@@ -70962,8 +70988,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Corentin Moutet vs Tommy Paul",
    "outcome": "Corentin Moutet"
+  },
+  {
+   "at": "2026-10-23T15:15:35.585062+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T14:30:00+00:00",
+   "condition_id": "0xb053a82af4529781662a5e53ff37ca1e8df97c9d01badf85c100453a017f3517",
+   "asset": "90708506304568741773189337853240923420975300532272239814371290176016737228752",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Alexander Bublik vs Karen Khachanov",
+   "outcome": "Karen Khachanov"
   }
  ],
  "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-23T13:35:33.201352+00:00"
+ "last_updated": "2026-10-23T15:15:35.585872+00:00"
 }
