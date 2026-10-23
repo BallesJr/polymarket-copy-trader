@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9243.998250100001,
  "last_seen": {
-  "jtwyslljy": 1792779396,
+  "jtwyslljy": 1792779860,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26878,6 +26878,34 @@
    "BUY",
    3900,
    1792779396
+  ],
+  [
+   "0x790cf13c8f17a2d7fcb23b57ad76a8079b659cd5103e4efd862877687dd4e6db",
+   "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "BUY",
+   2577.48,
+   1792779690
+  ],
+  [
+   "0x9bd07195f5204917f0c3d1d532d24c2048a395e2405c1fcbbdfb5c623af1c0af",
+   "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "BUY",
+   10.56,
+   1792779708
+  ],
+  [
+   "0xceb1ad639efa30de9fb19910f0b085cd46ead7c06bac728fbc1f4c0499e20a55",
+   "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "BUY",
+   350.99,
+   1792779836
+  ],
+  [
+   "0xd1abfc5988d38132e895a7667c030cb4da097da34ba4eb6d442672c1206402e1",
+   "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "BUY",
+   1233,
+   1792779860
   ]
  ],
  "leader_pos": {
@@ -42948,6 +42976,18 @@
    "cost": 2262.0,
    "max_shares": 3900.0,
    "last_trade_ts": 1792779396
+  },
+  "jtwyslljy|111706511472919434084963857740209873433915519363046416982507976126674260142072": {
+   "leader": "jtwyslljy",
+   "asset": "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "condition_id": "0xc0a6fdda5a02a2466cb8a8688efb06f3c0d1d60bb85a1e2ccd164aa15bff5881",
+   "title": "European Open: Arthur Fils vs Alex Michelsen",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-fils-michels-2026-10-23",
+   "shares": 4172.03,
+   "cost": 1040.654969933244,
+   "max_shares": 4172.03,
+   "last_trade_ts": 1792779860
   }
  },
  "positions": [
@@ -71135,8 +71175,24 @@
    "leader": "jtwyslljy",
    "title": "Lyon Open: Flavio Cobolli vs Brandon Nakashima",
    "outcome": "Flavio Cobolli"
+  },
+  {
+   "at": "2026-10-23T18:25:24.952705+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T16:45:00+00:00",
+   "condition_id": "0xc0a6fdda5a02a2466cb8a8688efb06f3c0d1d60bb85a1e2ccd164aa15bff5881",
+   "asset": "111706511472919434084963857740209873433915519363046416982507976126674260142072",
+   "copy_delay_min": 1.1,
+   "cf_ask": 0.18,
+   "cf_shares": 552.5414,
+   "cf_cost": 100.0,
+   "cf_entry": 0.181,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Arthur Fils vs Alex Michelsen",
+   "outcome": "Alex Michelsen"
   }
  ],
  "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-23T18:20:35.565247+00:00"
+ "last_updated": "2026-10-23T18:25:25.285987+00:00"
 }
