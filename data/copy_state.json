@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9300.894804100002,
  "last_seen": {
-  "jtwyslljy": 1792785114,
+  "jtwyslljy": 1792787325,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27025,6 +27025,13 @@
    "BUY",
    1000,
    1792785114
+  ],
+  [
+   "0x77988bcebd7fadea1d73ab1966295cfae92c9291e424b7026e2a5112b6d8a3d2",
+   "23955979572880676342599571261653983373247155102327519350013802115844694523209",
+   "BUY",
+   1000,
+   1792787325
   ]
  ],
  "leader_pos": {
@@ -43139,10 +43146,10 @@
    "title": "European Open: Jan-Lennard Struff vs Zizou Bergs",
    "outcome": "Jan-Lennard Struff",
    "slug": "atp-struff-bergs-2026-10-23",
-   "shares": 4282.44,
-   "cost": 2444.2157999999995,
-   "max_shares": 4282.44,
-   "last_trade_ts": 1792784981
+   "shares": 5282.44,
+   "cost": 3064.2157999999995,
+   "max_shares": 5282.44,
+   "last_trade_ts": 1792787325
   },
   "jtwyslljy|65339062191803905733432449696641732830445872708419254696744470435300770788429": {
    "leader": "jtwyslljy",
@@ -71457,8 +71464,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Jan-Lennard Struff vs Zizou Bergs",
    "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-23T20:35:24.987148+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-23T18:55:00+00:00",
+   "condition_id": "0x764f41e7ed026922343c64deaff7373fddf445af800caccd38e6dd82a6ff1ca8",
+   "asset": "23955979572880676342599571261653983373247155102327519350013802115844694523209",
+   "copy_delay_min": 6.7,
+   "cf_ask": 0.84,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "European Open: Jan-Lennard Struff vs Zizou Bergs",
+   "outcome": "Jan-Lennard Struff"
   }
  ],
  "total_pnl": -699.105299999999,
- "last_updated": "2026-10-23T19:55:25.377340+00:00"
+ "last_updated": "2026-10-23T20:35:24.987921+00:00"
 }
