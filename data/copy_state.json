@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9343.998250100001,
+ "bankroll": 9243.998250100001,
  "last_seen": {
-  "jtwyslljy": 1792775657,
+  "jtwyslljy": 1792779396,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -26871,6 +26871,13 @@
    "BUY",
    10000,
    1792775657
+  ],
+  [
+   "0x92c141e21a5b7345ac04a1c12fc1d2ef44e8379160dda442ea59e683fabaf498",
+   "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "BUY",
+   3900,
+   1792779396
   ]
  ],
  "leader_pos": {
@@ -42929,9 +42936,40 @@
    "cost": 3300.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1792775657
+  },
+  "jtwyslljy|16184544049659977053169174035215616142238221505653753038774483731435897645665": {
+   "leader": "jtwyslljy",
+   "asset": "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
+   "title": "Will Nottingham Forest FC win on 2026-10-23?",
+   "outcome": "No",
+   "slug": "epl-ips-not-2026-10-23",
+   "shares": 3900.0,
+   "cost": 2262.0,
+   "max_shares": 3900.0,
+   "last_trade_ts": 1792779396
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "16184544049659977053169174035215616142238221505653753038774483731435897645665",
+   "condition_id": "0x30732b795229725c03d38902994107fb21a3b358d94ca05f9ff9dd855d02591f",
+   "title": "Will Nottingham Forest FC win on 2026-10-23?",
+   "outcome": "No",
+   "slug": "epl-ips-not-2026-10-23",
+   "opened_at": "2026-10-23T18:20:35.212730+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.58,
+   "leader_cost": 2262.0,
+   "copy_delay_min": 4.0,
+   "best_ask": 0.58,
+   "ask_depth": 1164300.51,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -71100,5 +71138,5 @@
   }
  ],
  "total_pnl": -656.0018999999991,
- "last_updated": "2026-10-23T17:25:26.407031+00:00"
+ "last_updated": "2026-10-23T18:20:35.565247+00:00"
 }
