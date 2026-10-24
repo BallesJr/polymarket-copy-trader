@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792862649,
+  "jtwyslljy": 1792864194,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27186,6 +27186,13 @@
    "SELL",
    2000,
    1792862649
+  ],
+  [
+   "0xce2f8bbad294dd283d310757ed99d12fb8ef2b10d425fea65e1460e02725cfd7",
+   "79870535198453873524169202963659583179039989574712770453035527100221750591619",
+   "BUY",
+   5000,
+   1792864194
   ]
  ],
  "leader_pos": {
@@ -43412,6 +43419,18 @@
    "cost": 13189.2634,
    "max_shares": 32501.23,
    "last_trade_ts": 1792862490
+  },
+  "jtwyslljy|79870535198453873524169202963659583179039989574712770453035527100221750591619": {
+   "leader": "jtwyslljy",
+   "asset": "79870535198453873524169202963659583179039989574712770453035527100221750591619",
+   "condition_id": "0x59d4686a0e96b928d1753cce07d056fe3344d66d975c36c9de57d3d0c18b2b97",
+   "title": "Will Chelsea FC win on 2026-10-24?",
+   "outcome": "No",
+   "slug": "epl-che-tot-2026-10-24",
+   "shares": 5000.0,
+   "cost": 3500.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792864194
   }
  },
  "positions": [],
@@ -71944,8 +71963,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open, Qualification: Thiago Agustin Tirante vs Adrian Mannarino",
    "outcome": "Adrian Mannarino"
+  },
+  {
+   "at": "2026-10-24T17:55:24.710724+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T16:30:00+00:00",
+   "condition_id": "0x59d4686a0e96b928d1753cce07d056fe3344d66d975c36c9de57d3d0c18b2b97",
+   "asset": "79870535198453873524169202963659583179039989574712770453035527100221750591619",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Chelsea FC win on 2026-10-24?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T17:30:46.077043+00:00"
+ "last_updated": "2026-10-24T17:55:24.711540+00:00"
 }
