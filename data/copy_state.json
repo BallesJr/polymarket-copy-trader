@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792854449,
+  "jtwyslljy": 1792858589,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27137,6 +27137,13 @@
    "BUY",
    5000,
    1792854449
+  ],
+  [
+   "0x80af2a5bf2e5115c77eb66b6f7e26d0f2ed8a4cbd8def4e649452d1e40ba9c67",
+   "106876663850741044253142526943570722384439480707156617481746763731537310778003",
+   "BUY",
+   5000,
+   1792858589
   ]
  ],
  "leader_pos": {
@@ -43327,6 +43334,18 @@
    "cost": 3424.4800000000005,
    "max_shares": 5036.0,
    "last_trade_ts": 1792854449
+  },
+  "jtwyslljy|106876663850741044253142526943570722384439480707156617481746763731537310778003": {
+   "leader": "jtwyslljy",
+   "asset": "106876663850741044253142526943570722384439480707156617481746763731537310778003",
+   "condition_id": "0x0270f922cf8c47b37548c1dffc3f50a2db8fb15d1b99c558e9e931a6d7d3f789",
+   "title": "European Open: Francisco Cerundolo vs Tallon Griekspoor",
+   "outcome": "Tallon Griekspoor",
+   "slug": "atp-cerundo-grieksp-2026-10-24",
+   "shares": 5000.0,
+   "cost": 3697.5385,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792858589
   }
  },
  "positions": [],
@@ -71795,8 +71814,24 @@
    "leader": "jtwyslljy",
    "title": "Will FC Augsburg win on 2026-10-24?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-24T16:25:23.454957+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T14:05:00+00:00",
+   "condition_id": "0x0270f922cf8c47b37548c1dffc3f50a2db8fb15d1b99c558e9e931a6d7d3f789",
+   "asset": "106876663850741044253142526943570722384439480707156617481746763731537310778003",
+   "copy_delay_min": 8.9,
+   "cf_ask": null,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "European Open: Francisco Cerundolo vs Tallon Griekspoor",
+   "outcome": "Tallon Griekspoor"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T15:10:34.570162+00:00"
+ "last_updated": "2026-10-24T16:25:23.455695+00:00"
 }
