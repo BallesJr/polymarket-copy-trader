@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9200.894804100002,
  "last_seen": {
-  "jtwyslljy": 1792842168,
+  "jtwyslljy": 1792842944,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27053,6 +27053,13 @@
    "BUY",
    1000,
    1792842168
+  ],
+  [
+   "0x84e7b18868c334778d48b444e1ce5489c80f20b5f33457505073a267f69ae62c",
+   "21083038423197870438821146239694766565414441952379705637747271437396377898162",
+   "BUY",
+   2000,
+   1792842944
   ]
  ],
  "leader_pos": {
@@ -43203,10 +43210,10 @@
    "title": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
    "outcome": "Nikoloz Basilashvili",
    "slug": "atp-basilas-tsitsip-2026-10-24",
-   "shares": 5000.0,
-   "cost": 3050.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1792841954
+   "shares": 7000.0,
+   "cost": 3870.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1792842944
   }
  },
  "positions": [
@@ -71560,8 +71567,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
    "outcome": "Nikoloz Basilashvili"
+  },
+  {
+   "at": "2026-10-24T12:00:59.347613+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T10:00:00+00:00",
+   "condition_id": "0x401c1c0ef39f384fcda0d2371c94ccab64dfed5be0548bbc9c0df31a8898f61b",
+   "asset": "21083038423197870438821146239694766565414441952379705637747271437396377898162",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.41,
+   "cf_shares": 243.9024,
+   "cf_cost": 100.0,
+   "cf_entry": 0.41,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
+   "outcome": "Nikoloz Basilashvili"
   }
  ],
  "total_pnl": -699.105299999999,
- "last_updated": "2026-10-24T11:50:29.135723+00:00"
+ "last_updated": "2026-10-24T12:00:59.568635+00:00"
 }
