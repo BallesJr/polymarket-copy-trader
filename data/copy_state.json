@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792850859,
+  "jtwyslljy": 1792851138,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27095,6 +27095,13 @@
    "SELL",
    5376.63,
    1792850859
+  ],
+  [
+   "0x33b8c5039f4befb2d3343e9664620943413de98894968e65d49dbfe85448599a",
+   "52190663479358380109809995259418885336351954369476284005358482158834907750418",
+   "BUY",
+   896.03,
+   1792851138
   ]
  ],
  "leader_pos": {
@@ -43257,10 +43264,10 @@
    "title": "Will Arsenal FC win on 2026-10-24?",
    "outcome": "No",
    "slug": "epl-ars-eve-2026-10-24",
-   "shares": 41592.46000000001,
-   "cost": 12389.6964002,
+   "shares": 42488.490000000005,
+   "cost": 12506.1803002,
    "max_shares": 46969.090000000004,
-   "last_trade_ts": 1792850859
+   "last_trade_ts": 1792851138
   }
  },
  "positions": [],
@@ -71665,8 +71672,24 @@
    "leader": "jtwyslljy",
    "title": "Will Arsenal FC win on 2026-10-24?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-24T14:15:35.421269+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T14:00:00+00:00",
+   "condition_id": "0x33a835240ed22c5ef25d3fff2cf5d21fca053a141a7529488a2396cd78f90e2e",
+   "asset": "52190663479358380109809995259418885336351954369476284005358482158834907750418",
+   "copy_delay_min": 3.3,
+   "cf_ask": 0.14,
+   "cf_shares": 714.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.14,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Arsenal FC win on 2026-10-24?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T14:10:33.356446+00:00"
+ "last_updated": "2026-10-24T14:15:35.421912+00:00"
 }
