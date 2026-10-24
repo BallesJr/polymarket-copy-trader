@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792862490,
+  "jtwyslljy": 1792862649,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27179,6 +27179,13 @@
    "BUY",
    3938.57,
    1792862490
+  ],
+  [
+   "0xe8b87d4217c0913a4d80ab3ca7ac15a72ec5c7f141f59a1b76af2c022e0fd64b",
+   "42984848599805116771769077080241864267464232159117265941612198796282605479482",
+   "SELL",
+   2000,
+   1792862649
   ]
  ],
  "leader_pos": {
@@ -43389,10 +43396,10 @@
    "title": "Erste Bank Open, Qualification: Thiago Agustin Tirante vs Adrian Mannarino",
    "outcome": "Adrian Mannarino",
    "slug": "atp-tirante-mannari-2026-10-24",
-   "shares": 5000.0,
-   "cost": 3300.0,
+   "shares": 3000.0,
+   "cost": 2160.0,
    "max_shares": 5000.0,
-   "last_trade_ts": 1792862099
+   "last_trade_ts": 1792862649
   },
   "jtwyslljy|84193204627749194209112149002275837362290856860043692133518037142442275772035": {
    "leader": "jtwyslljy",
@@ -71921,8 +71928,24 @@
    "leader": "jtwyslljy",
    "title": "Will BV Borussia 09 Dortmund win on 2026-10-24?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-24T17:30:46.076296+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T16:45:00+00:00",
+   "condition_id": "0x365a957b3c6f03d39a94080c547c31c56c177c3761599c65574921ff9ee858a2",
+   "asset": "42984848599805116771769077080241864267464232159117265941612198796282605479482",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.69,
+   "cf_shares": 144.9275,
+   "cf_cost": 100.0,
+   "cf_entry": 0.69,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open, Qualification: Thiago Agustin Tirante vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T17:25:25.444230+00:00"
+ "last_updated": "2026-10-24T17:30:46.077043+00:00"
 }
