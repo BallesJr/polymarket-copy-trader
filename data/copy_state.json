@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792851416,
+  "jtwyslljy": 1792852151,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27109,6 +27109,13 @@
    "BUY",
    67.21,
    1792851416
+  ],
+  [
+   "0x9c88ed950edd7c4d7970b262c67789acb9a62f301d74e4a1afbd977c58137f11",
+   "101481000770941142818371203579557015738024051362366445727889837251374919083425",
+   "BUY",
+   3814,
+   1792852151
   ]
  ],
  "leader_pos": {
@@ -43283,10 +43290,10 @@
    "title": "Will 1. FSV Mainz 05 win on 2026-10-24?",
    "outcome": "No",
    "slug": "bun-mai-wer-2026-10-24",
-   "shares": 67.21,
-   "cost": 51.0796,
-   "max_shares": 67.21,
-   "last_trade_ts": 1792851416
+   "shares": 3881.21,
+   "cost": 2987.8596000000002,
+   "max_shares": 3881.21,
+   "last_trade_ts": 1792852151
   }
  },
  "positions": [],
@@ -71707,8 +71714,24 @@
    "leader": "jtwyslljy",
    "title": "Will Arsenal FC win on 2026-10-24?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-24T14:35:24.609695+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T13:30:00+00:00",
+   "condition_id": "0xb0d5c3058849a9904ccead32d14fa68cccd40410f0971a6ae9d87b5b400cb60f",
+   "asset": "101481000770941142818371203579557015738024051362366445727889837251374919083425",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.77,
+   "cf_shares": 129.8701,
+   "cf_cost": 100.0,
+   "cf_entry": 0.77,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will 1. FSV Mainz 05 win on 2026-10-24?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T14:20:34.283105+00:00"
+ "last_updated": "2026-10-24T14:35:24.610561+00:00"
 }
