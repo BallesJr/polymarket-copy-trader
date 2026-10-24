@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9300.894804100002,
+ "bankroll": 9200.894804100002,
  "last_seen": {
-  "jtwyslljy": 1792787325,
+  "jtwyslljy": 1792834679,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27032,6 +27032,13 @@
    "BUY",
    1000,
    1792787325
+  ],
+  [
+   "0x3f17470de81e168fdac4f0f48ebb8c42df1eb18e5668a3067387d76d0a62d678",
+   "100920169451292576103130633720495717660915651319945170184093661888065161149746",
+   "BUY",
+   4481.38,
+   1792834679
   ]
  ],
  "leader_pos": {
@@ -43162,9 +43169,40 @@
    "cost": 4560.0,
    "max_shares": 6000.0,
    "last_trade_ts": 1792785114
+  },
+  "jtwyslljy|100920169451292576103130633720495717660915651319945170184093661888065161149746": {
+   "leader": "jtwyslljy",
+   "asset": "100920169451292576103130633720495717660915651319945170184093661888065161149746",
+   "condition_id": "0xffc7e0860548bde97021f7b513722efa232ec4dda714e5c02d575c00b015d638",
+   "title": "Will Manchester City FC win on 2026-10-24?",
+   "outcome": "No",
+   "slug": "epl-ast-mac-2026-10-24",
+   "shares": 4481.38,
+   "cost": 1792.5520000000001,
+   "max_shares": 4481.38,
+   "last_trade_ts": 1792834679
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "100920169451292576103130633720495717660915651319945170184093661888065161149746",
+   "condition_id": "0xffc7e0860548bde97021f7b513722efa232ec4dda714e5c02d575c00b015d638",
+   "title": "Will Manchester City FC win on 2026-10-24?",
+   "outcome": "No",
+   "slug": "epl-ast-mac-2026-10-24",
+   "opened_at": "2026-10-24T09:40:30.076976+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1792.55,
+   "copy_delay_min": 2.5,
+   "best_ask": 0.41,
+   "ask_depth": 83238.58,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -71483,5 +71521,5 @@
   }
  ],
  "total_pnl": -699.105299999999,
- "last_updated": "2026-10-23T20:35:24.987921+00:00"
+ "last_updated": "2026-10-24T09:40:30.383455+00:00"
 }
