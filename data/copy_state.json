@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9444.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792842944,
+  "jtwyslljy": 1792850490,
   "0x53757615de": 1792290584
  },
  "seen_keys": [
@@ -27060,6 +27060,13 @@
    "BUY",
    2000,
    1792842944
+  ],
+  [
+   "0xfac849fef141483fcdf004a6af37a962016a86f8ac4234f902e5e293322a5b24",
+   "52190663479358380109809995259418885336351954369476284005358482158834907750418",
+   "BUY",
+   20032.22,
+   1792850490
   ]
  ],
  "leader_pos": {
@@ -43214,6 +43221,18 @@
    "cost": 3870.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1792842944
+  },
+  "jtwyslljy|52190663479358380109809995259418885336351954369476284005358482158834907750418": {
+   "leader": "jtwyslljy",
+   "asset": "52190663479358380109809995259418885336351954369476284005358482158834907750418",
+   "condition_id": "0x33a835240ed22c5ef25d3fff2cf5d21fca053a141a7529488a2396cd78f90e2e",
+   "title": "Will Arsenal FC win on 2026-10-24?",
+   "outcome": "No",
+   "slug": "epl-ars-eve-2026-10-24",
+   "shares": 20032.22,
+   "cost": 5609.021600000001,
+   "max_shares": 20032.22,
+   "last_trade_ts": 1792850490
   }
  },
  "positions": [],
@@ -71586,8 +71605,24 @@
    "leader": "jtwyslljy",
    "title": "Almaty Open: Nikoloz Basilashvili vs Stefanos Tsitsipas",
    "outcome": "Nikoloz Basilashvili"
+  },
+  {
+   "at": "2026-10-24T14:05:25.192581+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-24T14:00:00+00:00",
+   "condition_id": "0x33a835240ed22c5ef25d3fff2cf5d21fca053a141a7529488a2396cd78f90e2e",
+   "asset": "52190663479358380109809995259418885336351954369476284005358482158834907750418",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.28,
+   "cf_shares": 357.1429,
+   "cf_cost": 100.0,
+   "cf_entry": 0.28,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Arsenal FC win on 2026-10-24?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T13:45:36.005170+00:00"
+ "last_updated": "2026-10-24T14:05:25.193343+00:00"
 }
