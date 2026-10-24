@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9200.894804100002,
+ "bankroll": 9444.797204100003,
  "last_seen": {
   "jtwyslljy": 1792842944,
   "0x53757615de": 1792290584
@@ -43216,26 +43216,7 @@
    "last_trade_ts": 1792842944
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "100920169451292576103130633720495717660915651319945170184093661888065161149746",
-   "condition_id": "0xffc7e0860548bde97021f7b513722efa232ec4dda714e5c02d575c00b015d638",
-   "title": "Will Manchester City FC win on 2026-10-24?",
-   "outcome": "No",
-   "slug": "epl-ast-mac-2026-10-24",
-   "opened_at": "2026-10-24T09:40:30.076976+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 1792.55,
-   "copy_delay_min": 2.5,
-   "best_ask": 0.41,
-   "ask_depth": 83238.58,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -56054,6 +56035,28 @@
    "exit_price": 0.33,
    "pnl": -43.1034,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "100920169451292576103130633720495717660915651319945170184093661888065161149746",
+   "condition_id": "0xffc7e0860548bde97021f7b513722efa232ec4dda714e5c02d575c00b015d638",
+   "title": "Will Manchester City FC win on 2026-10-24?",
+   "outcome": "No",
+   "slug": "epl-ast-mac-2026-10-24",
+   "opened_at": "2026-10-24T09:40:30.076976+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1792.55,
+   "copy_delay_min": 2.5,
+   "best_ask": 0.41,
+   "ask_depth": 83238.58,
+   "status": "won",
+   "closed_at": "2026-10-24T13:45:36.003303+00:00",
+   "exit_price": 1.0,
+   "pnl": 143.9024,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -71585,6 +71588,6 @@
    "outcome": "Nikoloz Basilashvili"
   }
  ],
- "total_pnl": -699.105299999999,
- "last_updated": "2026-10-24T12:00:59.568635+00:00"
+ "total_pnl": -555.2028999999991,
+ "last_updated": "2026-10-24T13:45:36.005170+00:00"
 }
