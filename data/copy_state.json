@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792945466,
+  "jtwyslljy": 1792947848,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27760,6 +27760,20 @@
    "BUY",
    5000,
    1792945466
+  ],
+  [
+   "0x520ed1373386fb0b952cd95f479a9f4b4d9cdec4ca65f8416347171159f0f076",
+   "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "BUY",
+   1000,
+   1792947821
+  ],
+  [
+   "0xb03cdf918579669756771307b641f28da25563c6301087fd720db8d3ef67ffe4",
+   "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "BUY",
+   1500,
+   1792947848
   ]
  ],
  "leader_pos": {
@@ -44066,10 +44080,10 @@
    "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
    "outcome": "Jan-Lennard Struff",
    "slug": "atp-struff-grieksp-2026-10-25",
-   "shares": 5000.0,
-   "cost": 3382.6305,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1792945466
+   "shares": 7500.0,
+   "cost": 4432.6305,
+   "max_shares": 7500.0,
+   "last_trade_ts": 1792947848
   }
  },
  "positions": [
@@ -72717,8 +72731,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
    "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-25T17:15:33.293784+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-25T15:30:00+00:00",
+   "condition_id": "0x3d5fd9d109b92a1f58ba82cba3f2139cd259ea960286813991029608f367e8d7",
+   "asset": "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "copy_delay_min": 11.4,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
+   "outcome": "Jan-Lennard Struff"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-25T16:35:25.782459+00:00"
+ "last_updated": "2026-10-25T17:15:33.490157+00:00"
 }
