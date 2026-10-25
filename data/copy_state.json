@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792950849,
+  "jtwyslljy": 1792951469,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27851,6 +27851,13 @@
    "BUY",
    10000,
    1792950849
+  ],
+  [
+   "0x70c35876f01fcb875f6b5c534f742c92ad1789ef902ad3a8175f4f60610ff819",
+   "53964270837579321506711388093377576472143529066572796063562745329479315410099",
+   "BUY",
+   20000,
+   1792951469
   ]
  ],
  "leader_pos": {
@@ -44205,10 +44212,10 @@
    "title": "49ers vs. Falcons",
    "outcome": "Falcons",
    "slug": "nfl-sf-atl-2026-10-25",
-   "shares": 30000.0,
-   "cost": 9800.0,
-   "max_shares": 30000.0,
-   "last_trade_ts": 1792950849
+   "shares": 50000.0,
+   "cost": 17400.0,
+   "max_shares": 50000.0,
+   "last_trade_ts": 1792951469
   }
  },
  "positions": [
@@ -72952,8 +72959,24 @@
    "leader": "jtwyslljy",
    "title": "49ers vs. Falcons",
    "outcome": "Falcons"
+  },
+  {
+   "at": "2026-10-25T18:10:33.632319+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-25T17:00:00+00:00",
+   "condition_id": "0x045d47e4eed1d18edd237ce94db4591ad917967da67131c7f2a74f8bd012ccba",
+   "asset": "53964270837579321506711388093377576472143529066572796063562745329479315410099",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.41,
+   "cf_shares": 239.2857,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4179,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "49ers vs. Falcons",
+   "outcome": "Falcons"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-25T18:00:56.949783+00:00"
+ "last_updated": "2026-10-25T18:10:34.072568+00:00"
 }
