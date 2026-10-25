@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792947848,
+  "jtwyslljy": 1792948284,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27774,6 +27774,13 @@
    "BUY",
    1500,
    1792947848
+  ],
+  [
+   "0x323d23c34e72ec5d79f10eaad429e202a91c94c83291f04ce73a87d469068e23",
+   "46892845728220670287107462308943570199705502885479387753657974620295537306055",
+   "BUY",
+   3000,
+   1792948284
   ]
  ],
  "leader_pos": {
@@ -44084,6 +44091,18 @@
    "cost": 4432.6305,
    "max_shares": 7500.0,
    "last_trade_ts": 1792947848
+  },
+  "jtwyslljy|46892845728220670287107462308943570199705502885479387753657974620295537306055": {
+   "leader": "jtwyslljy",
+   "asset": "46892845728220670287107462308943570199705502885479387753657974620295537306055",
+   "condition_id": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+   "title": "Buccaneers vs. Panthers",
+   "outcome": "Buccaneers",
+   "slug": "nfl-tb-car-2026-10-25",
+   "shares": 3000.0,
+   "cost": 1560.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1792948284
   }
  },
  "positions": [
@@ -72747,8 +72766,24 @@
    "leader": "jtwyslljy",
    "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
    "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-25T17:20:35.167819+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-25T17:00:00+00:00",
+   "condition_id": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+   "asset": "46892845728220670287107462308943570199705502885479387753657974620295537306055",
+   "copy_delay_min": 9.2,
+   "cf_ask": 0.61,
+   "cf_shares": 163.9344,
+   "cf_cost": 100.0,
+   "cf_entry": 0.61,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Buccaneers vs. Panthers",
+   "outcome": "Buccaneers"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-25T17:15:33.490157+00:00"
+ "last_updated": "2026-10-25T17:20:35.355683+00:00"
 }
