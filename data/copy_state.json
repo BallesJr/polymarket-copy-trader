@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792938692,
+  "jtwyslljy": 1792945466,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27753,6 +27753,13 @@
    "BUY",
    5000,
    1792938692
+  ],
+  [
+   "0x4c25b16fe835fe8152cbb2c72b4d680d00d5c5d901f368f6ce853a5d7cae8346",
+   "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "BUY",
+   5000,
+   1792945466
   ]
  ],
  "leader_pos": {
@@ -44051,6 +44058,18 @@
    "cost": 3550.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1792938692
+  },
+  "jtwyslljy|43750901533018072262012452198294670652936865677546836086736506317299773103689": {
+   "leader": "jtwyslljy",
+   "asset": "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "condition_id": "0x3d5fd9d109b92a1f58ba82cba3f2139cd259ea960286813991029608f367e8d7",
+   "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-grieksp-2026-10-25",
+   "shares": 5000.0,
+   "cost": 3382.6305,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792945466
   }
  },
  "positions": [
@@ -72682,8 +72701,24 @@
    "leader": "jtwyslljy",
    "title": "Will Brentford FC win on 2026-10-25?",
    "outcome": "No"
+  },
+  {
+   "at": "2026-10-25T16:35:25.607375+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-25T15:30:00+00:00",
+   "condition_id": "0x3d5fd9d109b92a1f58ba82cba3f2139cd259ea960286813991029608f367e8d7",
+   "asset": "43750901533018072262012452198294670652936865677546836086736506317299773103689",
+   "copy_delay_min": 11.0,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "European Open: Jan-Lennard Struff vs Tallon Griekspoor",
+   "outcome": "Jan-Lennard Struff"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-25T14:40:33.435504+00:00"
+ "last_updated": "2026-10-25T16:35:25.782459+00:00"
 }
