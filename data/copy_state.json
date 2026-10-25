@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792934861,
+  "jtwyslljy": 1792938692,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27746,6 +27746,13 @@
    "BUY",
    50.31,
    1792934861
+  ],
+  [
+   "0xf6e34ba7210649b638f9fe10ab6580c096c2f870ab61bd79af562e6accf7893e",
+   "73459927506919014997226036992525507221515088948215078046414177992852744012914",
+   "BUY",
+   5000,
+   1792938692
   ]
  ],
  "leader_pos": {
@@ -44032,6 +44039,18 @@
    "cost": 38.452999999635,
    "max_shares": 50.31,
    "last_trade_ts": 1792934861
+  },
+  "jtwyslljy|73459927506919014997226036992525507221515088948215078046414177992852744012914": {
+   "leader": "jtwyslljy",
+   "asset": "73459927506919014997226036992525507221515088948215078046414177992852744012914",
+   "condition_id": "0x0d5924adef874b020d887e70c273f44c6d5f9741e1405c5631956e5cf0092007",
+   "title": "Will Brentford FC win on 2026-10-25?",
+   "outcome": "No",
+   "slug": "epl-hul-bre-2026-10-25",
+   "shares": 5000.0,
+   "cost": 3550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1792938692
   }
  },
  "positions": [
@@ -72647,8 +72666,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel, Qualification: Juan Manuel Cerundolo vs Daniel Altmaier",
    "outcome": "Juan Manuel Cerundolo"
+  },
+  {
+   "at": "2026-10-25T14:40:33.093745+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-25T14:00:00+00:00",
+   "condition_id": "0x0d5924adef874b020d887e70c273f44c6d5f9741e1405c5631956e5cf0092007",
+   "asset": "73459927506919014997226036992525507221515088948215078046414177992852744012914",
+   "copy_delay_min": 9.0,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Brentford FC win on 2026-10-25?",
+   "outcome": "No"
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-25T13:30:46.532208+00:00"
+ "last_updated": "2026-10-25T14:40:33.435504+00:00"
 }
