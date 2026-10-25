@@ -1,8 +1,8 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9444.797204100003,
+ "bankroll": 9344.797204100003,
  "last_seen": {
-  "jtwyslljy": 1792864194,
+  "jtwyslljy": 1792926678,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27725,6 +27725,13 @@
    "BUY",
    764,
    1792870439
+  ],
+  [
+   "0x8e03035dad5f226700c36a62e50004e0a864db466f403b0cf3607669eb609d9d",
+   "109168252092497936376876223694539453159121662334506104487078389394998179082853",
+   "BUY",
+   3600,
+   1792926678
   ]
  ],
  "leader_pos": {
@@ -43975,9 +43982,40 @@
    "cost": 32823.6,
    "max_shares": 64360.0,
    "last_trade_ts": 1792870439
+  },
+  "jtwyslljy|109168252092497936376876223694539453159121662334506104487078389394998179082853": {
+   "leader": "jtwyslljy",
+   "asset": "109168252092497936376876223694539453159121662334506104487078389394998179082853",
+   "condition_id": "0xf0e0241c227f0f3165d8777f50426ca8fd50bda9c60a3d8cb59f807cfae52163",
+   "title": "Will Leeds United FC win on 2026-10-25?",
+   "outcome": "No",
+   "slug": "epl-sun-lee-2026-10-25",
+   "shares": 3600.0,
+   "cost": 2304.0,
+   "max_shares": 3600.0,
+   "last_trade_ts": 1792926678
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "109168252092497936376876223694539453159121662334506104487078389394998179082853",
+   "condition_id": "0xf0e0241c227f0f3165d8777f50426ca8fd50bda9c60a3d8cb59f807cfae52163",
+   "title": "Will Leeds United FC win on 2026-10-25?",
+   "outcome": "No",
+   "slug": "epl-sun-lee-2026-10-25",
+   "opened_at": "2026-10-25T11:15:33.799056+00:00",
+   "entry_price": 0.64,
+   "shares": 156.25,
+   "stake": 100.0,
+   "leader_vwap": 0.64,
+   "leader_cost": 2304.0,
+   "copy_delay_min": 4.2,
+   "best_ask": 0.64,
+   "ask_depth": 52493.61,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -72558,5 +72596,5 @@
   }
  ],
  "total_pnl": -555.2028999999991,
- "last_updated": "2026-10-24T19:40:32.045250+00:00"
+ "last_updated": "2026-10-25T11:15:33.985600+00:00"
 }
