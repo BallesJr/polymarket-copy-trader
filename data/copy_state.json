@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793029868,
+  "jtwyslljy": 1793031563,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27956,6 +27956,13 @@
    "BUY",
    1500,
    1793029868
+  ],
+  [
+   "0xd8491bce8368b99fe63e5d99fb4abdd0d34a5e2c7461f675eb1def4e8348ef7a",
+   "60146108840699909675368206362196997407659850521374545667869495462217916840777",
+   "BUY",
+   4000,
+   1793031563
   ]
  ],
  "leader_pos": {
@@ -44350,6 +44357,18 @@
    "cost": 2417.0512,
    "max_shares": 4362.58,
    "last_trade_ts": 1793029868
+  },
+  "jtwyslljy|60146108840699909675368206362196997407659850521374545667869495462217916840777": {
+   "leader": "jtwyslljy",
+   "asset": "60146108840699909675368206362196997407659850521374545667869495462217916840777",
+   "condition_id": "0xa0d41d54b534e3962d16ae1ed7b7b0873c824574972c6b5428aade73ff329dec",
+   "title": "Swiss Indoors Basel: Daniel Altmaier vs Juan Manuel Cerundolo",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-cerund-2026-10-26",
+   "shares": 4000.0,
+   "cost": 2037.7342,
+   "max_shares": 4000.0,
+   "last_trade_ts": 1793031563
   }
  },
  "positions": [],
@@ -73208,8 +73227,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-10-26T16:20:31.974313+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-26T14:00:00+00:00",
+   "condition_id": "0xa0d41d54b534e3962d16ae1ed7b7b0873c824574972c6b5428aade73ff329dec",
+   "asset": "60146108840699909675368206362196997407659850521374545667869495462217916840777",
+   "copy_delay_min": 1.1,
+   "cf_ask": 0.51,
+   "cf_shares": 195.9708,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5103,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Daniel Altmaier vs Juan Manuel Cerundolo",
+   "outcome": "Daniel Altmaier"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-26T15:55:28.402827+00:00"
+ "last_updated": "2026-10-26T16:20:31.975220+00:00"
 }
