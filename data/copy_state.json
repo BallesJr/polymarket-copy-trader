@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793026581,
+  "jtwyslljy": 1793029868,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27949,6 +27949,13 @@
    "BUY",
    2862.58,
    1793026581
+  ],
+  [
+   "0x3d356a6525e71af855728ff92481c7badc9c06cef3f1ea4a7f2e61fb154608ec",
+   "354229775489741166113422123732056862764996626130085034405793244839414048711",
+   "BUY",
+   1500,
+   1793029868
   ]
  ],
  "leader_pos": {
@@ -44339,10 +44346,10 @@
    "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
    "outcome": "Tomas Machac",
    "slug": "atp-machac-minaur-2026-10-26",
-   "shares": 2862.58,
-   "cost": 1832.0511999999999,
-   "max_shares": 2862.58,
-   "last_trade_ts": 1793026581
+   "shares": 4362.58,
+   "cost": 2417.0512,
+   "max_shares": 4362.58,
+   "last_trade_ts": 1793029868
   }
  },
  "positions": [],
@@ -73185,8 +73192,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
    "outcome": "Tomas Machac"
+  },
+  {
+   "at": "2026-10-26T15:55:28.402058+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-26T14:25:00+00:00",
+   "condition_id": "0xd669976916d8ad0eb3cf82d7399e92f1242bc8e5b4c4c7f49816d00906f28670",
+   "asset": "354229775489741166113422123732056862764996626130085034405793244839414048711",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Tomas Machac vs Alex de Minaur",
+   "outcome": "Tomas Machac"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-26T15:05:26.954060+00:00"
+ "last_updated": "2026-10-26T15:55:28.402827+00:00"
 }
