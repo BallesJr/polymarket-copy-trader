@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1792955129,
+  "jtwyslljy": 1792984262,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27935,6 +27935,13 @@
    "BUY",
    6600,
    1792955129
+  ],
+  [
+   "0x891fd4c5d4e40ed60ed1f7ffd4a0d395674b78f3e76a36858d3d3e0c4f6cc880",
+   "51977761926656720879542604376212176637582402196707804095192632291942111953413",
+   "BUY",
+   2373.19,
+   1792984262
   ]
  ],
  "leader_pos": {
@@ -44305,6 +44312,18 @@
    "cost": 6684.0,
    "max_shares": 12600.0,
    "last_trade_ts": 1792955129
+  },
+  "jtwyslljy|51977761926656720879542604376212176637582402196707804095192632291942111953413": {
+   "leader": "jtwyslljy",
+   "asset": "51977761926656720879542604376212176637582402196707804095192632291942111953413",
+   "condition_id": "0x801561a0810c3ec27b046068244cccd5320256146c151a9b3cf785c23979345f",
+   "title": "Grizzlies vs. Kings",
+   "outcome": "Grizzlies",
+   "slug": "nba-mem-sac-2026-10-25",
+   "shares": 2373.19,
+   "cost": 1447.412500085966,
+   "max_shares": 2373.19,
+   "last_trade_ts": 1792984262
   }
  },
  "positions": [],
@@ -73115,8 +73134,24 @@
    "leader": "jtwyslljy",
    "title": "Bengals vs. Ravens",
    "outcome": "Bengals"
+  },
+  {
+   "at": "2026-10-26T03:20:30.959869+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-26T01:00:00+00:00",
+   "condition_id": "0x801561a0810c3ec27b046068244cccd5320256146c151a9b3cf785c23979345f",
+   "asset": "51977761926656720879542604376212176637582402196707804095192632291942111953413",
+   "copy_delay_min": 9.5,
+   "cf_ask": 0.95,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Grizzlies vs. Kings",
+   "outcome": "Grizzlies"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-25T19:10:33.103080+00:00"
+ "last_updated": "2026-10-26T03:20:30.960640+00:00"
 }
