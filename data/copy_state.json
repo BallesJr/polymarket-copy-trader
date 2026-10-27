@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793117115,
+  "jtwyslljy": 1793117816,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xa5029676f2fdbcd665a5b0f2c3f20310004cace669f53e9f1dc6eb7e8ffa34ef",
-   "45415751658241142530386585138386640503488308219341470020075667342738719018629",
-   "BUY",
-   1323,
-   1783086431
-  ],
   [
    "0xcd9fa3ffcc0729e60505ee32e509f4518e35c03b4a5b545aac7d4817bd699689",
    "51911548599887870208512834589104874988746646324647658251485676564237334602135",
@@ -28005,6 +27998,13 @@
    "BUY",
    10,
    1793117115
+  ],
+  [
+   "0x800e5f6e0150503c55f6ab407d515a1a5494eb8bcf4a5b7c08736f03029ace36",
+   "65449758681940649292489264021385425262015875622142628646861889607974415063295",
+   "BUY",
+   1490,
+   1793117816
   ]
  ],
  "leader_pos": {
@@ -44467,10 +44467,10 @@
    "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
    "outcome": "Alex Michelsen",
    "slug": "atp-michels-zandsch-2026-10-27",
-   "shares": 1509.85,
-   "cost": 905.9100000000001,
-   "max_shares": 1509.85,
-   "last_trade_ts": 1793114573
+   "shares": 2999.85,
+   "cost": 1785.01,
+   "max_shares": 2999.85,
+   "last_trade_ts": 1793117816
   }
  },
  "positions": [],
@@ -73489,8 +73489,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
    "outcome": "Ignacio Buse"
+  },
+  {
+   "at": "2026-10-27T16:25:26.999859+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T15:25:00+00:00",
+   "condition_id": "0x24a87b34cce5f89efc395311eb3939d5c045da251e9aa956015f311658918514",
+   "asset": "65449758681940649292489264021385425262015875622142628646861889607974415063295",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.54,
+   "cf_shares": 185.1852,
+   "cf_cost": 100.0,
+   "cf_entry": 0.54,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
+   "outcome": "Alex Michelsen"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T16:10:31.870475+00:00"
+ "last_updated": "2026-10-27T16:25:27.000645+00:00"
 }
