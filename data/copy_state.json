@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793125008,
+  "jtwyslljy": 1793125581,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xd384244db88f82a760b3315f3e53736540700b1d3356ea650b850455c562ed31",
-   "19171061343208772111851927480340573360751298088758580868237825961777374803797",
-   "BUY",
-   563,
-   1783134923
-  ],
   [
    "0x34a9017c06dfbf8882697b0e4200213803fbaabc7d6094c4b3bd143c815ac83f",
    "19171061343208772111851927480340573360751298088758580868237825961777374803797",
@@ -28005,6 +27998,13 @@
    "BUY",
    2000,
    1793125008
+  ],
+  [
+   "0x3442b805451ad2525241096a9ade91a5a5761416881ae8e48ef45e536207cbb7",
+   "53128672516495598030785219797309276836331743159429183763311707625390503114819",
+   "BUY",
+   3000,
+   1793125581
   ]
  ],
  "leader_pos": {
@@ -44515,10 +44515,10 @@
    "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
    "outcome": "Cameron Norrie",
    "slug": "atp-norrie-cerundo-2026-10-27",
-   "shares": 7000.0,
-   "cost": 4180.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1793125008
+   "shares": 10000.0,
+   "cost": 6400.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793125581
   },
   "jtwyslljy|110436235741890728192405405650404192778559231291344130652831864140873154881285": {
    "leader": "jtwyslljy",
@@ -73757,8 +73757,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
    "outcome": "Cameron Norrie"
+  },
+  {
+   "at": "2026-10-27T18:30:49.746053+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T17:15:00+00:00",
+   "condition_id": "0xf7adcbdc870f3329a2e23c7d2859cd5ba462fdd4a9d301fc4125a5e056668eae",
+   "asset": "53128672516495598030785219797309276836331743159429183763311707625390503114819",
+   "copy_delay_min": 4.5,
+   "cf_ask": 0.67,
+   "cf_shares": 147.1324,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6797,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
+   "outcome": "Cameron Norrie"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T18:20:32.946199+00:00"
+ "last_updated": "2026-10-27T18:30:49.746910+00:00"
 }
