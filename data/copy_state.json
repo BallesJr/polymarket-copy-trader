@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793103341,
+  "jtwyslljy": 1793104283,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27991,6 +27991,20 @@
    "BUY",
    618.77,
    1793103341
+  ],
+  [
+   "0xd061ae31970ea56f8286e7c2c480e310bd48d8c3614c68f1a9cebce8fa897dc3",
+   "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "SELL",
+   3000,
+   1793104277
+  ],
+  [
+   "0x9a5f0e542ab67644f90125b26ddc01677d5c85e7d993ce84b1cf6f3b32606e36",
+   "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "SELL",
+   1500,
+   1793104283
   ]
  ],
  "leader_pos": {
@@ -44405,10 +44419,10 @@
    "title": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
    "outcome": "Zizou Bergs",
    "slug": "atp-hurkacz-bergs-2026-10-27",
-   "shares": 9455.49,
-   "cost": 6325.0407,
+   "shares": 4955.49,
+   "cost": 3220.0406999999996,
    "max_shares": 9455.49,
-   "last_trade_ts": 1793103341
+   "last_trade_ts": 1793104283
   }
  },
  "positions": [],
@@ -73331,8 +73345,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
    "outcome": "Zizou Bergs"
+  },
+  {
+   "at": "2026-10-27T12:35:25.090547+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T11:10:00+00:00",
+   "condition_id": "0xf727b968b43a15dd4c6c9315b8add0c0d6a9299a91538e63930b21a9ca04eab7",
+   "asset": "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "copy_delay_min": 4.0,
+   "cf_ask": 0.32,
+   "cf_shares": 312.5,
+   "cf_cost": 100.0,
+   "cf_entry": 0.32,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
+   "outcome": "Zizou Bergs"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T12:20:32.232599+00:00"
+ "last_updated": "2026-10-27T12:35:25.091299+00:00"
 }
