@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793119311,
+  "jtwyslljy": 1793120783,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x37ebcddecd266a104714709822a99fd6becfafadde676c45f9aa84ca99b99c7c",
-   "23976899029372612411179615612002806886244417426760648939324643077044857820249",
-   "BUY",
-   446.01,
-   1783104130
-  ],
-  [
-   "0x8231b49b12e4952414886bc527dfa0e548abfbf848fd9d8ef1e1605655eb582c",
-   "23976899029372612411179615612002806886244417426760648939324643077044857820249",
-   "BUY",
-   7067.56,
-   1783104301
-  ],
   [
    "0x91cd6c5d246ba14ad54765853726d4c3bfd66adf365c6ac23b0d1f61b83f7fc9",
    "23976899029372612411179615612002806886244417426760648939324643077044857820249",
@@ -28005,6 +27991,20 @@
    "SELL",
    1071,
    1793119311
+  ],
+  [
+   "0xcf9f59fe1ac2aec9afeddc360eaa05bbbabc162f1adf7c6c27c259440390657a",
+   "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "BUY",
+   4000,
+   1793120748
+  ],
+  [
+   "0x2f046d1a8975a8ddf6ca158d47d2f6f4988c4761f3ca503c1968b9f58019fe74",
+   "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "BUY",
+   20000,
+   1793120783
   ]
  ],
  "leader_pos": {
@@ -44479,10 +44479,10 @@
    "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
    "outcome": "Botic van de Zandschulp",
    "slug": "atp-michels-zandsch-2026-10-27",
-   "shares": 9999.939999999999,
-   "cost": 7022.860599999999,
-   "max_shares": 9999.939999999999,
-   "last_trade_ts": 1793119086
+   "shares": 33999.94,
+   "cost": 17582.8606,
+   "max_shares": 33999.94,
+   "last_trade_ts": 1793120783
   },
   "jtwyslljy|57020198978562095448809925247929741973013391011537999487615157362846350631295": {
    "leader": "jtwyslljy",
@@ -73625,8 +73625,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
    "outcome": "Adrian Mannarino"
+  },
+  {
+   "at": "2026-10-27T17:10:32.554095+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T15:25:00+00:00",
+   "condition_id": "0x24a87b34cce5f89efc395311eb3939d5c045da251e9aa956015f311658918514",
+   "asset": "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "copy_delay_min": 4.1,
+   "cf_ask": 0.41,
+   "cf_shares": 243.9024,
+   "cf_cost": 100.0,
+   "cf_entry": 0.41,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T16:50:33.912916+00:00"
+ "last_updated": "2026-10-27T17:10:32.554927+00:00"
 }
