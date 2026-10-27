@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793119086,
+  "jtwyslljy": 1793119311,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x8518a89618ce1b0de3e27a7e0b24491738421a49c53e7cf4f6ccad2aca2f619a",
-   "16415698089039949586017363680723942925804323821468440204688782253022929472043",
-   "BUY",
-   1706.83,
-   1783098472
-  ],
-  [
-   "0x27364a00cbe73f66a2df7d4f51a0897ece89af52b84b209813d32d21c7a1f16b",
-   "23976899029372612411179615612002806886244417426760648939324643077044857820249",
-   "BUY",
-   11208.07,
-   1783103876
-  ],
-  [
-   "0x0bbb022e582ccaa3df1974eb304756e5aed7ee9d3689067505dd3960fa193b8a",
-   "23976899029372612411179615612002806886244417426760648939324643077044857820249",
-   "BUY",
-   7664.95,
-   1783103900
-  ],
   [
    "0x37ebcddecd266a104714709822a99fd6becfafadde676c45f9aa84ca99b99c7c",
    "23976899029372612411179615612002806886244417426760648939324643077044857820249",
@@ -28005,6 +27984,27 @@
    "BUY",
    3500,
    1793119086
+  ],
+  [
+   "0x2384a954738382d1accbef8ebbfc037475f8aac48a78d89175f2ed65c10e5d46",
+   "57020198978562095448809925247929741973013391011537999487615157362846350631295",
+   "BUY",
+   3000,
+   1793119250
+  ],
+  [
+   "0xa4b0748543702d5a55e318f9216b484a0bb4c9c371c23665e87bbee756ca4fca",
+   "65449758681940649292489264021385425262015875622142628646861889607974415063295",
+   "BUY",
+   1071,
+   1793119281
+  ],
+  [
+   "0x3bca95b2825c2304207a1f2cd4851f5bef3936ad61f8401d313039db352bad2e",
+   "65449758681940649292489264021385425262015875622142628646861889607974415063295",
+   "SELL",
+   1071,
+   1793119311
   ]
  ],
  "leader_pos": {
@@ -44468,9 +44468,9 @@
    "outcome": "Alex Michelsen",
    "slug": "atp-michels-zandsch-2026-10-27",
    "shares": 2999.85,
-   "cost": 1785.01,
-   "max_shares": 2999.85,
-   "last_trade_ts": 1793117816
+   "cost": 1806.4299999999998,
+   "max_shares": 4070.85,
+   "last_trade_ts": 1793119311
   },
   "jtwyslljy|34680528041231927617280082089459957617661721536750056286298029711154734499633": {
    "leader": "jtwyslljy",
@@ -44491,10 +44491,10 @@
    "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
    "outcome": "Adrian Mannarino",
    "slug": "atp-mannari-buse-2026-10-27",
-   "shares": 5000.0,
-   "cost": 4400.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1793118932
+   "shares": 8000.0,
+   "cost": 7190.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1793119250
   }
  },
  "positions": [],
@@ -73593,8 +73593,40 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
    "outcome": "Adrian Mannarino"
+  },
+  {
+   "at": "2026-10-27T16:50:33.712770+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T15:25:00+00:00",
+   "condition_id": "0x24a87b34cce5f89efc395311eb3939d5c045da251e9aa956015f311658918514",
+   "asset": "65449758681940649292489264021385425262015875622142628646861889607974415063295",
+   "copy_delay_min": 8.7,
+   "cf_ask": 0.2,
+   "cf_shares": 500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
+   "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-10-27T16:50:33.912024+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T14:25:00+00:00",
+   "condition_id": "0x05f1c66eedbc09df2e9a6b9aff79ffaad0ce71f998694bc242f0385afda1cbc5",
+   "asset": "57020198978562095448809925247929741973013391011537999487615157362846350631295",
+   "copy_delay_min": 9.7,
+   "cf_ask": 0.76,
+   "cf_shares": 131.5789,
+   "cf_cost": 100.0,
+   "cf_entry": 0.76,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
+   "outcome": "Adrian Mannarino"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T16:47:09.164927+00:00"
+ "last_updated": "2026-10-27T16:50:33.912916+00:00"
 }
