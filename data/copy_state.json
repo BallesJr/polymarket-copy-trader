@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793121201,
+  "jtwyslljy": 1793124767,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x0bd9882f0109b068ec7fadab9c6fbbacf1282bd23ddca542b7043ef2da05599f",
-   "106615017457167129492162812091830726976608496381860608097147553973652508823565",
-   "BUY",
-   13847.98,
-   1783130089
-  ],
-  [
-   "0x8267baff6551082f0ee9d8b8de9bdad929a3e43823acc78e451408d7691b522b",
-   "18812649149814341758733697580460697418474693998558159483117100240528657629879",
-   "BUY",
-   5114,
-   1783131712
-  ],
   [
    "0x71f7bfdd8adfc1ff8f6203e7c4629fe083f81431c6fddd6a7bc51151a1381c98",
    "19171061343208772111851927480340573360751298088758580868237825961777374803797",
@@ -28005,6 +27991,20 @@
    "BUY",
    140,
    1793121201
+  ],
+  [
+   "0x3543dab7c0906c61d61f42f3545670502910f7f5b6217d8bfb5202636118109b",
+   "53128672516495598030785219797309276836331743159429183763311707625390503114819",
+   "BUY",
+   5000,
+   1793124701
+  ],
+  [
+   "0x7261d49fb41892a188f8ade0c390f8a54787f2e228ef4a8d1e20222984a1ebcf",
+   "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+   "BUY",
+   8000,
+   1793124767
   ]
  ],
  "leader_pos": {
@@ -44507,6 +44507,30 @@
    "cost": 7502.0283,
    "max_shares": 43238.990000000005,
    "last_trade_ts": 1793121201
+  },
+  "jtwyslljy|53128672516495598030785219797309276836331743159429183763311707625390503114819": {
+   "leader": "jtwyslljy",
+   "asset": "53128672516495598030785219797309276836331743159429183763311707625390503114819",
+   "condition_id": "0xf7adcbdc870f3329a2e23c7d2859cd5ba462fdd4a9d301fc4125a5e056668eae",
+   "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
+   "outcome": "Cameron Norrie",
+   "slug": "atp-norrie-cerundo-2026-10-27",
+   "shares": 5000.0,
+   "cost": 3000.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1793124701
+  },
+  "jtwyslljy|110436235741890728192405405650404192778559231291344130652831864140873154881285": {
+   "leader": "jtwyslljy",
+   "asset": "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+   "condition_id": "0x9df74cb293333dd8b3d2b0c6a186bc3385ac41203f9cdf6d2888c1d89257c749",
+   "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
+   "outcome": "Martin Landaluce",
+   "slug": "atp-zverev-landalu-2026-10-27",
+   "shares": 8000.0,
+   "cost": 1600.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1793124767
   }
  },
  "positions": [],
@@ -73685,8 +73709,40 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Ben Shelton vs Aleksandar Kovacevic",
    "outcome": "Aleksandar Kovacevic"
+  },
+  {
+   "at": "2026-10-27T18:15:33.280213+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T17:15:00+00:00",
+   "condition_id": "0xf7adcbdc870f3329a2e23c7d2859cd5ba462fdd4a9d301fc4125a5e056668eae",
+   "asset": "53128672516495598030785219797309276836331743159429183763311707625390503114819",
+   "copy_delay_min": 3.9,
+   "cf_ask": 0.58,
+   "cf_shares": 172.4138,
+   "cf_cost": 100.0,
+   "cf_entry": 0.58,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
+   "outcome": "Cameron Norrie"
+  },
+  {
+   "at": "2026-10-27T18:15:33.416145+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T16:55:00+00:00",
+   "condition_id": "0x9df74cb293333dd8b3d2b0c6a186bc3385ac41203f9cdf6d2888c1d89257c749",
+   "asset": "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+   "copy_delay_min": 2.8,
+   "cf_ask": 0.2,
+   "cf_shares": 500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.2,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
+   "outcome": "Martin Landaluce"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T17:15:33.135373+00:00"
+ "last_updated": "2026-10-27T18:15:33.416966+00:00"
 }
