@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793110122,
+  "jtwyslljy": 1793113062,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x424601f4e5afc3e7a4caec1564d2df0f408e787634f93f11d3ff02f8d8df6dee",
-   "30431643017166592030847362766058192620147083287695752275013317610723972957831",
-   "BUY",
-   10000,
-   1783083496
-  ],
   [
    "0x32122755b44eef93912f7a23f8742890a11460455fb2972ee4aceaea28371594",
    "30431643017166592030847362766058192620147083287695752275013317610723972957831",
@@ -28005,6 +27998,13 @@
    "BUY",
    3337.4,
    1793110122
+  ],
+  [
+   "0x83ebc067a23775eed47fef40627b9fcf30398df7f3cb70f761c6283e2b2656cb",
+   "25801194999004365103717821516996629654633878610692592358841670893307230380738",
+   "BUY",
+   7000,
+   1793113062
   ]
  ],
  "leader_pos": {
@@ -44447,6 +44447,18 @@
    "cost": 1702.074,
    "max_shares": 3337.4,
    "last_trade_ts": 1793110122
+  },
+  "jtwyslljy|25801194999004365103717821516996629654633878610692592358841670893307230380738": {
+   "leader": "jtwyslljy",
+   "asset": "25801194999004365103717821516996629654633878610692592358841670893307230380738",
+   "condition_id": "0x05f1c66eedbc09df2e9a6b9aff79ffaad0ce71f998694bc242f0385afda1cbc5",
+   "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
+   "outcome": "Ignacio Buse",
+   "slug": "atp-mannari-buse-2026-10-27",
+   "shares": 7000.0,
+   "cost": 4340.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1793113062
   }
  },
  "positions": [],
@@ -73417,8 +73429,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Jerome Kym vs Arthur Rinderknech",
    "outcome": "Jerome Kym"
+  },
+  {
+   "at": "2026-10-27T15:10:33.124431+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T14:25:00+00:00",
+   "condition_id": "0x05f1c66eedbc09df2e9a6b9aff79ffaad0ce71f998694bc242f0385afda1cbc5",
+   "asset": "25801194999004365103717821516996629654633878610692592358841670893307230380738",
+   "copy_delay_min": 12.8,
+   "cf_ask": 0.53,
+   "cf_shares": 188.6792,
+   "cf_cost": 100.0,
+   "cf_entry": 0.53,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
+   "outcome": "Ignacio Buse"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T14:10:32.962733+00:00"
+ "last_updated": "2026-10-27T15:10:33.125294+00:00"
 }
