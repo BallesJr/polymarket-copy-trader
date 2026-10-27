@@ -2,7 +2,7 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793031627,
+  "jtwyslljy": 1793101329,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
@@ -27970,6 +27970,20 @@
    "BUY",
    3000,
    1793031627
+  ],
+  [
+   "0xb94a897e72e6f0cb9d407c88f4a318013c01819964336413de38ba5cf5a7c66c",
+   "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "BUY",
+   3836.72,
+   1793101326
+  ],
+  [
+   "0x9b4300b614ff136a9b0e064c4731be3bace0c6dabba5e822501fb843c04c078d",
+   "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "BUY",
+   5000,
+   1793101329
   ]
  ],
  "leader_pos": {
@@ -44376,6 +44390,18 @@
    "cost": 3591.7375,
    "max_shares": 7000.0,
    "last_trade_ts": 1793031627
+  },
+  "jtwyslljy|107986316093533556889376752984014335660266079578698902473777921053902700958962": {
+   "leader": "jtwyslljy",
+   "asset": "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "condition_id": "0xf727b968b43a15dd4c6c9315b8add0c0d6a9299a91538e63930b21a9ca04eab7",
+   "title": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
+   "outcome": "Zizou Bergs",
+   "slug": "atp-hurkacz-bergs-2026-10-27",
+   "shares": 8836.72,
+   "cost": 6058.969599999999,
+   "max_shares": 8836.72,
+   "last_trade_ts": 1793101329
   }
  },
  "positions": [],
@@ -73266,8 +73292,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Daniel Altmaier vs Juan Manuel Cerundolo",
    "outcome": "Daniel Altmaier"
+  },
+  {
+   "at": "2026-10-27T11:45:34.965627+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T11:10:00+00:00",
+   "condition_id": "0xf727b968b43a15dd4c6c9315b8add0c0d6a9299a91538e63930b21a9ca04eab7",
+   "asset": "107986316093533556889376752984014335660266079578698902473777921053902700958962",
+   "copy_delay_min": 3.4,
+   "cf_ask": 0.68,
+   "cf_shares": 147.0588,
+   "cf_cost": 100.0,
+   "cf_entry": 0.68,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Hubert Hurkacz vs Zizou Bergs",
+   "outcome": "Zizou Bergs"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-26T16:25:28.930291+00:00"
+ "last_updated": "2026-10-27T11:45:34.966547+00:00"
 }
