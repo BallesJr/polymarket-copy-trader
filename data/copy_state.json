@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793117816,
+  "jtwyslljy": 1793118561,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xcd9fa3ffcc0729e60505ee32e509f4518e35c03b4a5b545aac7d4817bd699689",
-   "51911548599887870208512834589104874988746646324647658251485676564237334602135",
-   "BUY",
-   29375,
-   1783086530
-  ],
-  [
-   "0x475f407a3ddf137af69ff115bf8af8dc52463cbbc0dcf4d84a1342661137952c",
-   "85980654132312686246086834758692867239223848885154876906708533217968355155422",
-   "BUY",
-   5000,
-   1783091000
-  ],
-  [
-   "0xbca0631c18238dd9d774418a49249e74f5a6563f85a212490885d37e18cf2470",
-   "114074169337917217166213136744416799070410173143335793826021594453627489092182",
-   "BUY",
-   5923.39,
-   1783095772
-  ],
   [
    "0xde452a12b323e86505c3ce20ed4f816c0f8dc22b8bc1ed97b718cf2ff88dd511",
    "114074169337917217166213136744416799070410173143335793826021594453627489092182",
@@ -28005,6 +27984,27 @@
    "BUY",
    1490,
    1793117816
+  ],
+  [
+   "0xf00f7c35bc9c7e10e1e5d673a1e7bc49d7c98529e813ca7eb13776f4253ae052",
+   "25801194999004365103717821516996629654633878610692592358841670893307230380738",
+   "BUY",
+   4000,
+   1793118353
+  ],
+  [
+   "0x61dac0c9426ec0bdda6ca1bfa72ee6c4c06d57c3e7472236dc4de1e0ec03fefc",
+   "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "BUY",
+   1209.74,
+   1793118549
+  ],
+  [
+   "0xe48b8431715946bbe175cba74221d602ae054fcefdaef6456c5eaad1ffea4414",
+   "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "BUY",
+   5290.2,
+   1793118561
   ]
  ],
  "leader_pos": {
@@ -44455,10 +44455,10 @@
    "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
    "outcome": "Ignacio Buse",
    "slug": "atp-mannari-buse-2026-10-27",
-   "shares": 11699.8,
-   "cost": 5387.7519999999995,
-   "max_shares": 11699.8,
-   "last_trade_ts": 1793117115
+   "shares": 15699.8,
+   "cost": 6147.7519999999995,
+   "max_shares": 15699.8,
+   "last_trade_ts": 1793118353
   },
   "jtwyslljy|65449758681940649292489264021385425262015875622142628646861889607974415063295": {
    "leader": "jtwyslljy",
@@ -44471,6 +44471,18 @@
    "cost": 1785.01,
    "max_shares": 2999.85,
    "last_trade_ts": 1793117816
+  },
+  "jtwyslljy|34680528041231927617280082089459957617661721536750056286298029711154734499633": {
+   "leader": "jtwyslljy",
+   "asset": "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "condition_id": "0x24a87b34cce5f89efc395311eb3939d5c045da251e9aa956015f311658918514",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-michels-zandsch-2026-10-27",
+   "shares": 6499.94,
+   "cost": 4537.860599999999,
+   "max_shares": 6499.94,
+   "last_trade_ts": 1793118561
   }
  },
  "positions": [],
@@ -73505,8 +73517,40 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
    "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-10-27T16:31:50.588495+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T14:25:00+00:00",
+   "condition_id": "0x05f1c66eedbc09df2e9a6b9aff79ffaad0ce71f998694bc242f0385afda1cbc5",
+   "asset": "25801194999004365103717821516996629654633878610692592358841670893307230380738",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.15,
+   "cf_shares": 666.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.15,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Adrian Mannarino vs Ignacio Buse",
+   "outcome": "Ignacio Buse"
+  },
+  {
+   "at": "2026-10-27T16:31:50.740274+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T15:25:00+00:00",
+   "condition_id": "0x24a87b34cce5f89efc395311eb3939d5c045da251e9aa956015f311658918514",
+   "asset": "34680528041231927617280082089459957617661721536750056286298029711154734499633",
+   "copy_delay_min": 2.5,
+   "cf_ask": 0.73,
+   "cf_shares": 136.9863,
+   "cf_cost": 100.0,
+   "cf_entry": 0.73,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T16:25:27.000645+00:00"
+ "last_updated": "2026-10-27T16:31:50.741116+00:00"
 }
