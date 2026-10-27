@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793125581,
+  "jtwyslljy": 1793130696,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x34a9017c06dfbf8882697b0e4200213803fbaabc7d6094c4b3bd143c815ac83f",
-   "19171061343208772111851927480340573360751298088758580868237825961777374803797",
-   "BUY",
-   468,
-   1783134928
-  ],
   [
    "0xc5c8947c01eab6cc24a35a1f552d66edfe23cfac330ef589ea8073db8ffaac42",
    "19171061343208772111851927480340573360751298088758580868237825961777374803797",
@@ -28005,6 +27998,13 @@
    "BUY",
    3000,
    1793125581
+  ],
+  [
+   "0x4cd7fe049b15f17648eb83167c5cc3d7995fa06650600a4aa9d2845b6e3037aa",
+   "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+   "BUY",
+   2000,
+   1793130696
   ]
  ],
  "leader_pos": {
@@ -44527,10 +44527,10 @@
    "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
    "outcome": "Martin Landaluce",
    "slug": "atp-zverev-landalu-2026-10-27",
-   "shares": 8000.0,
-   "cost": 1600.0,
-   "max_shares": 8000.0,
-   "last_trade_ts": 1793124767
+   "shares": 10000.0,
+   "cost": 3200.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793130696
   }
  },
  "positions": [],
@@ -73773,8 +73773,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Cameron Norrie vs Francisco Cerundolo",
    "outcome": "Cameron Norrie"
+  },
+  {
+   "at": "2026-10-27T20:00:57.587686+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T16:55:00+00:00",
+   "condition_id": "0x9df74cb293333dd8b3d2b0c6a186bc3385ac41203f9cdf6d2888c1d89257c749",
+   "asset": "110436235741890728192405405650404192778559231291344130652831864140873154881285",
+   "copy_delay_min": 9.3,
+   "cf_ask": 0.47,
+   "cf_shares": 15.0,
+   "cf_cost": 7.05,
+   "cf_entry": 0.47,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Alexander Zverev vs Martin Landaluce",
+   "outcome": "Martin Landaluce"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T18:30:49.746910+00:00"
+ "last_updated": "2026-10-27T20:00:57.588402+00:00"
 }
