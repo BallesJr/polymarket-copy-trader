@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793107680,
+  "jtwyslljy": 1793110122,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xc9e7b4bd20d48e38f4cd0802265061a8906607e0f323a88dbb2679ec8c6dbbb4",
-   "85980654132312686246086834758692867239223848885154876906708533217968355155422",
-   "BUY",
-   6000,
-   1783074121
-  ],
   [
    "0x424601f4e5afc3e7a4caec1564d2df0f408e787634f93f11d3ff02f8d8df6dee",
    "30431643017166592030847362766058192620147083287695752275013317610723972957831",
@@ -28005,6 +27998,13 @@
    "SELL",
    5000,
    1793107680
+  ],
+  [
+   "0x38fad84fada538389ae186661e6de6a5f00bbc8119e3036203ff84a26985fa7e",
+   "89822245232395393067906360510666132232663941434929483236972763736119674370078",
+   "BUY",
+   3337.4,
+   1793110122
   ]
  ],
  "leader_pos": {
@@ -44435,6 +44435,18 @@
    "cost": 1150.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1793107680
+  },
+  "jtwyslljy|89822245232395393067906360510666132232663941434929483236972763736119674370078": {
+   "leader": "jtwyslljy",
+   "asset": "89822245232395393067906360510666132232663941434929483236972763736119674370078",
+   "condition_id": "0xab3d1d40dc9361f9981a3b0419480760e09e0e0027657bf647202344c1452824",
+   "title": "Swiss Indoors Basel: Jerome Kym vs Arthur Rinderknech",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-rinderk-2026-10-27",
+   "shares": 3337.4,
+   "cost": 1702.074,
+   "max_shares": 3337.4,
+   "last_trade_ts": 1793110122
   }
  },
  "positions": [],
@@ -73389,8 +73401,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Tommy Paul vs Andrey Rublev",
    "outcome": "Andrey Rublev"
+  },
+  {
+   "at": "2026-10-27T14:10:32.961841+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-27T13:20:00+00:00",
+   "condition_id": "0xab3d1d40dc9361f9981a3b0419480760e09e0e0027657bf647202344c1452824",
+   "asset": "89822245232395393067906360510666132232663941434929483236972763736119674370078",
+   "copy_delay_min": 1.8,
+   "cf_ask": 0.5,
+   "cf_shares": 200.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.5,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Jerome Kym vs Arthur Rinderknech",
+   "outcome": "Jerome Kym"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-27T13:35:27.254067+00:00"
+ "last_updated": "2026-10-27T14:10:32.962733+00:00"
 }
