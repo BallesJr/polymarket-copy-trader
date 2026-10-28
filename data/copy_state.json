@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793195824,
+  "jtwyslljy": 1793199331,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x7777dcb793806f4be142d04b5cd5b98028a2990563fa9b67da12daf7933188a5",
-   "23002723169104136639915491237010657526244120849292927113741289325188054448157",
-   "SELL",
-   4000,
-   1783182253
-  ],
   [
    "0xf4c03ad3c78bb0fb312bef9d6fbf702a09f8a587e4dea0ca186bd6989c023c16",
    "102051736436656560797672629859737891705962543111476656351708851920203673046762",
@@ -28005,6 +27998,13 @@
    "SELL",
    1000,
    1793195824
+  ],
+  [
+   "0xc7c3a8853ca3692fad8a094dad9bc1677e60f109d41a6c036908b1bb62d1c5c7",
+   "8091218663316781082962036789012436536739992429318730533853822486951107605621",
+   "BUY",
+   8000,
+   1793199331
   ]
  ],
  "leader_pos": {
@@ -44663,6 +44663,18 @@
    "cost": 5328.1705,
    "max_shares": 11999.95,
    "last_trade_ts": 1793195824
+  },
+  "jtwyslljy|8091218663316781082962036789012436536739992429318730533853822486951107605621": {
+   "leader": "jtwyslljy",
+   "asset": "8091218663316781082962036789012436536739992429318730533853822486951107605621",
+   "condition_id": "0xf55f2a93d156ae767d276a9c56d93b8e43fff09d422045227fcb5c4bf4f99e5d",
+   "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe",
+   "slug": "atp-musetti-tiafoe-2026-10-27",
+   "shares": 8000.0,
+   "cost": 3943.8472,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1793199331
   }
  },
  "positions": [],
@@ -74193,8 +74205,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Tallon Griekspoor vs Brandon Nakashima",
    "outcome": "Tallon Griekspoor"
+  },
+  {
+   "at": "2026-10-28T15:01:04.860710+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T14:30:00+00:00",
+   "condition_id": "0xf55f2a93d156ae767d276a9c56d93b8e43fff09d422045227fcb5c4bf4f99e5d",
+   "asset": "8091218663316781082962036789012436536739992429318730533853822486951107605621",
+   "copy_delay_min": 5.5,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
+   "outcome": "Frances Tiafoe"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T14:05:25.355546+00:00"
+ "last_updated": "2026-10-28T15:01:04.861550+00:00"
 }
