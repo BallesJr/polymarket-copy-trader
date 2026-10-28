@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793209294,
+  "jtwyslljy": 1793211149,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xdf111eac75bdf0ef2825aba621d244d30dbe138ccf482648983ce104e2b601e8",
-   "102051736436656560797672629859737891705962543111476656351708851920203673046762",
-   "SELL",
-   2418,
-   1783183760
-  ],
   [
    "0x788edd04af5e73398546dc89fcf2140097d84818670f039af4490274b9535809",
    "102051736436656560797672629859737891705962543111476656351708851920203673046762",
@@ -28005,6 +27998,13 @@
    "BUY",
    20000,
    1793209294
+  ],
+  [
+   "0x2ab00f7e9cc414975518c9c76779cfb91d1ade990179987f8c04966e27cc1da0",
+   "70026625436932027854024597157135023392435572937846466007347445293658035206738",
+   "BUY",
+   10000,
+   1793211149
   ]
  ],
  "leader_pos": {
@@ -44723,6 +44723,18 @@
    "cost": 9973.5083,
    "max_shares": 20000.0,
    "last_trade_ts": 1793209294
+  },
+  "jtwyslljy|70026625436932027854024597157135023392435572937846466007347445293658035206738": {
+   "leader": "jtwyslljy",
+   "asset": "70026625436932027854024597157135023392435572937846466007347445293658035206738",
+   "condition_id": "0x693c206729fea44421e75006bb56c77fe91087599185e619f5d19277caf8fe55",
+   "title": "Erste Bank Open: Jakub Mensik vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino",
+   "slug": "atp-mensik-mannari-2026-10-28",
+   "shares": 10000.0,
+   "cost": 8100.000000000001,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793211149
   }
  },
  "positions": [],
@@ -74397,8 +74409,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Jakub Mensik vs Adrian Mannarino",
    "outcome": "Jakub Mensik"
+  },
+  {
+   "at": "2026-10-28T18:15:34.846418+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T16:45:00+00:00",
+   "condition_id": "0x693c206729fea44421e75006bb56c77fe91087599185e619f5d19277caf8fe55",
+   "asset": "70026625436932027854024597157135023392435572937846466007347445293658035206738",
+   "copy_delay_min": 3.1,
+   "cf_ask": 0.52,
+   "cf_shares": 192.3077,
+   "cf_cost": 100.0,
+   "cf_entry": 0.52,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Jakub Mensik vs Adrian Mannarino",
+   "outcome": "Adrian Mannarino"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T17:45:36.043201+00:00"
+ "last_updated": "2026-10-28T18:15:34.847299+00:00"
 }
