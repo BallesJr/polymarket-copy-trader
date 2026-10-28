@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793169043,
+  "jtwyslljy": 1793169566,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xad8b6da0a69b8e717aeb52ecbda0390eba14472a3377a579c358491170a9962e",
-   "78445016912927581544221773923179351342190133315196059885423504269357501820486",
-   "BUY",
-   975,
-   1783135069
-  ],
-  [
-   "0x58edf9f4044cb4465f27396957932d5a4990a4545af457f30e6137d8d6a928a6",
-   "19171061343208772111851927480340573360751298088758580868237825961777374803797",
-   "BUY",
-   367,
-   1783135072
-  ],
-  [
-   "0xdedd9837ba1a417c8054ba4100a33692e95fddcb30d793ba1cde48973e1e00e3",
-   "78445016912927581544221773923179351342190133315196059885423504269357501820486",
-   "BUY",
-   987,
-   1783135072
-  ],
   [
    "0x2e4203130b46e9fca483f39467a2af643bece88fb62f1bf5cbaa8d9af063401d",
    "78445016912927581544221773923179351342190133315196059885423504269357501820486",
@@ -28005,6 +27984,27 @@
    "BUY",
    2278,
    1793169043
+  ],
+  [
+   "0xb9a6b29dc94be3c0144463775681386392bc4cd8aa29e3ed9dc6aad2dde8dcec",
+   "15509251832371625451373321183559852096228723403408679576198403794191427878397",
+   "SELL",
+   5500.05,
+   1793169502
+  ],
+  [
+   "0x299f5cefbe8105bd9d5c24c1f5bff2e8b6734b5171a14641e03f7d9ba20bf098",
+   "17372387140695023253234119215856879381471110022762558374041659102836339857501",
+   "BUY",
+   947.01,
+   1793169550
+  ],
+  [
+   "0x16a1318bd29816eea1ac125bb4fdc210dd64f62768bc8a9fd67ebdc21fd65fb1",
+   "17372387140695023253234119215856879381471110022762558374041659102836339857501",
+   "BUY",
+   2797.91,
+   1793169566
   ]
  ],
  "leader_pos": {
@@ -44575,10 +44575,22 @@
    "title": "Guangzhou Open: Katerina Siniakova vs Lanlana Tararudee",
    "outcome": "Lanlana Tararudee",
    "slug": "wta-siniako-tararud-2026-10-26",
-   "shares": 4411.37,
-   "cost": 1788.875799997,
+   "shares": -1088.6800000000003,
+   "cost": 1128.869799997,
    "max_shares": 4411.37,
-   "last_trade_ts": 1793169043
+   "last_trade_ts": 1793169502
+  },
+  "jtwyslljy|17372387140695023253234119215856879381471110022762558374041659102836339857501": {
+   "leader": "jtwyslljy",
+   "asset": "17372387140695023253234119215856879381471110022762558374041659102836339857501",
+   "condition_id": "0xe7736f070cd62ed0d2d656552a77f1ad303492e742011a0cab869db5d1e4a5d8",
+   "title": "Guangzhou Open: Katerina Siniakova vs Lanlana Tararudee",
+   "outcome": "Katerina Siniakova",
+   "slug": "wta-siniako-tararud-2026-10-26",
+   "shares": 3744.92,
+   "cost": 3407.8772,
+   "max_shares": 3744.92,
+   "last_trade_ts": 1793169566
   }
  },
  "positions": [],
@@ -73933,8 +73945,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Katerina Siniakova vs Lanlana Tararudee",
    "outcome": "Lanlana Tararudee"
+  },
+  {
+   "at": "2026-10-28T06:45:32.057040+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T05:05:00+00:00",
+   "condition_id": "0xe7736f070cd62ed0d2d656552a77f1ad303492e742011a0cab869db5d1e4a5d8",
+   "asset": "17372387140695023253234119215856879381471110022762558374041659102836339857501",
+   "copy_delay_min": 6.1,
+   "cf_ask": 0.99,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Katerina Siniakova vs Lanlana Tararudee",
+   "outcome": "Katerina Siniakova"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T06:35:29.453732+00:00"
+ "last_updated": "2026-10-28T06:45:32.057901+00:00"
 }
