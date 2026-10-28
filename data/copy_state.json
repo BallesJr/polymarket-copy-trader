@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793157438,
+  "jtwyslljy": 1793166248,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xae63219732a37b7d198435855b38dfa0c07fbab0d065db661429de8c4dceb58a",
-   "19171061343208772111851927480340573360751298088758580868237825961777374803797",
-   "BUY",
-   370,
-   1783135057
-  ],
   [
    "0x2d408f57ff8f570986cdd5f574ca76d876e539f2fdbe36b6669d069117309c3f",
    "19171061343208772111851927480340573360751298088758580868237825961777374803797",
@@ -28005,6 +27998,13 @@
    "BUY",
    3000,
    1793157438
+  ],
+  [
+   "0xf330f63cb102af1580a164ec4203bd0fe30ddee62fec9c037010c14d4c3c1170",
+   "98698264443464749785742107658929915438492662265238782654487644537186874617787",
+   "BUY",
+   999.41,
+   1793166248
   ]
  ],
  "leader_pos": {
@@ -44551,10 +44551,10 @@
    "title": "Trail Blazers vs. Lakers",
    "outcome": "Lakers",
    "slug": "nba-por-lal-2026-10-27",
-   "shares": 3000.0,
-   "cost": 1800.0,
-   "max_shares": 3000.0,
-   "last_trade_ts": 1793157438
+   "shares": 3999.41,
+   "cost": 2163.357599956575,
+   "max_shares": 3999.41,
+   "last_trade_ts": 1793166248
   }
  },
  "positions": [],
@@ -73845,8 +73845,24 @@
    "leader": "jtwyslljy",
    "title": "Trail Blazers vs. Lakers",
    "outcome": "Lakers"
+  },
+  {
+   "at": "2026-10-28T05:45:34.728642+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T03:00:00+00:00",
+   "condition_id": "0xb5b924c7aac7e2d6fa01afd2a9b7e1504c648facbbf8fc6d9b3160ed9bce890c",
+   "asset": "98698264443464749785742107658929915438492662265238782654487644537186874617787",
+   "copy_delay_min": 1.4,
+   "cf_ask": 0.48,
+   "cf_shares": 200.4902,
+   "cf_cost": 100.0,
+   "cf_entry": 0.4988,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Trail Blazers vs. Lakers",
+   "outcome": "Lakers"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T03:25:23.930455+00:00"
+ "last_updated": "2026-10-28T05:45:34.729448+00:00"
 }
