@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793188304,
+  "jtwyslljy": 1793188606,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xb9b0197a9faed3910eb6c47a472febf18b4e9c2b18c1731b1c54fe831d41e745",
-   "88405196969316843821453254374990609840780732394161782141651809067667941950810",
-   "BUY",
-   43,
-   1783174657
-  ],
   [
    "0x90528869d0fb6712d0c9f57906a666a01e4dcb23acdb244fa644f9177522525b",
    "97603640949200961937864972493579324959456055546123409145665200185996019277523",
@@ -28005,6 +27998,13 @@
    "BUY",
    5000,
    1793188304
+  ],
+  [
+   "0x8befb5a9478e445059609e7a350e72be555961a07d269ae3ea64441e6349e64b",
+   "9256480692721491645966497108705261456246281957488072545161562653331534570675",
+   "BUY",
+   1500,
+   1793188606
   ]
  ],
  "leader_pos": {
@@ -44647,10 +44647,10 @@
    "title": "Guangzhou Open: Han Shi vs Dayana Yastremska",
    "outcome": "Han Shi",
    "slug": "wta-shi-yastrem-2026-10-27",
-   "shares": 5000.0,
-   "cost": 2849.9999999999995,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1793188304
+   "shares": 6500.0,
+   "cost": 3449.9999999999995,
+   "max_shares": 6500.0,
+   "last_trade_ts": 1793188606
   }
  },
  "positions": [],
@@ -74117,8 +74117,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Han Shi vs Dayana Yastremska",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-28T12:01:00.636561+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T11:25:00+00:00",
+   "condition_id": "0x2dd1b4e93c835e7423f75949eccb5a69c0ab20bbe9589facc0843611c955c03f",
+   "asset": "9256480692721491645966497108705261456246281957488072545161562653331534570675",
+   "copy_delay_min": 4.2,
+   "cf_ask": 0.46,
+   "cf_shares": 217.3913,
+   "cf_cost": 100.0,
+   "cf_entry": 0.46,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Han Shi vs Dayana Yastremska",
+   "outcome": "Han Shi"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T11:55:25.738824+00:00"
+ "last_updated": "2026-10-28T12:01:00.637429+00:00"
 }
