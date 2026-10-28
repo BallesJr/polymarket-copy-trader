@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793199331,
+  "jtwyslljy": 1793201764,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xf4c03ad3c78bb0fb312bef9d6fbf702a09f8a587e4dea0ca186bd6989c023c16",
-   "102051736436656560797672629859737891705962543111476656351708851920203673046762",
-   "BUY",
-   20000,
-   1783178048
-  ],
-  [
-   "0x88f7f2f86741fc0e5907f6d36245d987f3119f309fe36027f0cb6f28b17da8ec",
-   "23002723169104136639915491237010657526244120849292927113741289325188054448157",
-   "SELL",
-   5000,
-   1783182928
-  ],
   [
    "0x71b390e0dc2afb8db15068e2610232a11bc7b37f9de98db808410ae7f07a8cc7",
    "23002723169104136639915491237010657526244120849292927113741289325188054448157",
@@ -28005,6 +27991,20 @@
    "BUY",
    8000,
    1793199331
+  ],
+  [
+   "0x62cf7cc4d39975c096273c43967bb504a44d0ee12cc153de290b18350f56338d",
+   "37241621811313904233526783736454507681344120956347503665349258600124650740705",
+   "BUY",
+   10000,
+   1793201731
+  ],
+  [
+   "0xcba1201352d87510fab63c165f8fc0abfd667b98fa43f4a1af95149f08b26937",
+   "21831103501179191688982427950584377703915343493076521989274564205325008980263",
+   "BUY",
+   10000,
+   1793201764
   ]
  ],
  "leader_pos": {
@@ -44675,6 +44675,30 @@
    "cost": 3943.8472,
    "max_shares": 8000.0,
    "last_trade_ts": 1793199331
+  },
+  "jtwyslljy|37241621811313904233526783736454507681344120956347503665349258600124650740705": {
+   "leader": "jtwyslljy",
+   "asset": "37241621811313904233526783736454507681344120956347503665349258600124650740705",
+   "condition_id": "0xd79f06ff095d015851ddb5d517cd257e0c5437b3abb01c36dcf62f9f7272cd1f",
+   "title": "Swiss Indoors Basel: Novak Djokovic vs Ugo Humbert",
+   "outcome": "Novak Djokovic",
+   "slug": "atp-djokovi-humbert-2026-10-27",
+   "shares": 10000.0,
+   "cost": 5591.553,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793201731
+  },
+  "jtwyslljy|21831103501179191688982427950584377703915343493076521989274564205325008980263": {
+   "leader": "jtwyslljy",
+   "asset": "21831103501179191688982427950584377703915343493076521989274564205325008980263",
+   "condition_id": "0xf55f2a93d156ae767d276a9c56d93b8e43fff09d422045227fcb5c4bf4f99e5d",
+   "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-musetti-tiafoe-2026-10-27",
+   "shares": 10000.0,
+   "cost": 6800.000000000001,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793201764
   }
  },
  "positions": [],
@@ -74221,8 +74245,40 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
    "outcome": "Frances Tiafoe"
+  },
+  {
+   "at": "2026-10-28T15:45:40.633326+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T14:30:00+00:00",
+   "condition_id": "0xf55f2a93d156ae767d276a9c56d93b8e43fff09d422045227fcb5c4bf4f99e5d",
+   "asset": "21831103501179191688982427950584377703915343493076521989274564205325008980263",
+   "copy_delay_min": 9.6,
+   "cf_ask": 0.76,
+   "cf_shares": 131.5789,
+   "cf_cost": 100.0,
+   "cf_entry": 0.76,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Lorenzo Musetti vs Frances Tiafoe",
+   "outcome": "Lorenzo Musetti"
+  },
+  {
+   "at": "2026-10-28T15:45:40.799459+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T15:15:00+00:00",
+   "condition_id": "0xd79f06ff095d015851ddb5d517cd257e0c5437b3abb01c36dcf62f9f7272cd1f",
+   "asset": "37241621811313904233526783736454507681344120956347503665349258600124650740705",
+   "copy_delay_min": 10.1,
+   "cf_ask": 0.48,
+   "cf_shares": 208.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.48,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Novak Djokovic vs Ugo Humbert",
+   "outcome": "Novak Djokovic"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T15:01:04.861550+00:00"
+ "last_updated": "2026-10-28T15:45:40.800425+00:00"
 }
