@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793169566,
+  "jtwyslljy": 1793170844,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x2e4203130b46e9fca483f39467a2af643bece88fb62f1bf5cbaa8d9af063401d",
-   "78445016912927581544221773923179351342190133315196059885423504269357501820486",
-   "BUY",
-   1862,
-   1783135078
-  ],
   [
    "0x3416f94016823350a5fe26d32725f8d41e244f6685170bfb72bbd6f9a3c2cbe6",
    "78445016912927581544221773923179351342190133315196059885423504269357501820486",
@@ -28005,6 +27998,13 @@
    "BUY",
    2797.91,
    1793169566
+  ],
+  [
+   "0xd79e8d23001115f9b82059e5ced72ae4adc1c6a18e39da53f79c7cc5b9ba51c2",
+   "58478306907470330250011640358636488869626783767612621480561709217768334990117",
+   "BUY",
+   5602.7,
+   1793170844
   ]
  ],
  "leader_pos": {
@@ -44591,6 +44591,18 @@
    "cost": 3407.8772,
    "max_shares": 3744.92,
    "last_trade_ts": 1793169566
+  },
+  "jtwyslljy|58478306907470330250011640358636488869626783767612621480561709217768334990117": {
+   "leader": "jtwyslljy",
+   "asset": "58478306907470330250011640358636488869626783767612621480561709217768334990117",
+   "condition_id": "0xdbc015ef102c32caa20b1cfd81e0b953e55e63a1e47df8988f40fc376af7a74c",
+   "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Diana Shnaider",
+   "outcome": "Aliaksandra Sasnovich",
+   "slug": "wta-sasnovi-shnaide-2026-10-28",
+   "shares": 5602.7,
+   "cost": 1559.4147000894197,
+   "max_shares": 5602.7,
+   "last_trade_ts": 1793170844
   }
  },
  "positions": [],
@@ -73961,8 +73973,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Katerina Siniakova vs Lanlana Tararudee",
    "outcome": "Katerina Siniakova"
+  },
+  {
+   "at": "2026-10-28T07:05:26.045955+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T06:55:00+00:00",
+   "condition_id": "0xdbc015ef102c32caa20b1cfd81e0b953e55e63a1e47df8988f40fc376af7a74c",
+   "asset": "58478306907470330250011640358636488869626783767612621480561709217768334990117",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.24,
+   "cf_shares": 416.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.24,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Diana Shnaider",
+   "outcome": "Aliaksandra Sasnovich"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T06:45:32.057901+00:00"
+ "last_updated": "2026-10-28T07:05:26.046913+00:00"
 }
