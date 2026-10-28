@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793170844,
+  "jtwyslljy": 1793172154,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x3416f94016823350a5fe26d32725f8d41e244f6685170bfb72bbd6f9a3c2cbe6",
-   "78445016912927581544221773923179351342190133315196059885423504269357501820486",
-   "BUY",
-   134,
-   1783135084
-  ],
   [
    "0xa5b2596f5bb24de1ade942afffb3da12b7ec72960d52bd311d24f35de8db7862",
    "78445016912927581544221773923179351342190133315196059885423504269357501820486",
@@ -28005,6 +27998,13 @@
    "BUY",
    5602.7,
    1793170844
+  ],
+  [
+   "0x199721b1c1c672f3e60a46bd99490d1c1861d7d3d26c7626b2432340f798e93a",
+   "103235143034304295774855957736370173915597963478451385988090994075616762507158",
+   "BUY",
+   3555.09,
+   1793172154
   ]
  ],
  "leader_pos": {
@@ -44603,6 +44603,18 @@
    "cost": 1559.4147000894197,
    "max_shares": 5602.7,
    "last_trade_ts": 1793170844
+  },
+  "jtwyslljy|103235143034304295774855957736370173915597963478451385988090994075616762507158": {
+   "leader": "jtwyslljy",
+   "asset": "103235143034304295774855957736370173915597963478451385988090994075616762507158",
+   "condition_id": "0xd47a3c5af477bbe1a41e8bf85091e378eed3837271f02c9dc3143462bd014131",
+   "title": "Guangzhou Open: Paula Badosa vs Sinja Kraus",
+   "outcome": "Paula Badosa",
+   "slug": "wta-badosa-kraus-2026-10-27",
+   "shares": 3555.09,
+   "cost": 2417.4612,
+   "max_shares": 3555.09,
+   "last_trade_ts": 1793172154
   }
  },
  "positions": [],
@@ -73989,8 +74001,24 @@
    "leader": "jtwyslljy",
    "title": "Pan Pacific Open: Aliaksandra Sasnovich vs Diana Shnaider",
    "outcome": "Aliaksandra Sasnovich"
+  },
+  {
+   "at": "2026-10-28T07:25:29.351550+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T07:25:00+00:00",
+   "condition_id": "0xd47a3c5af477bbe1a41e8bf85091e378eed3837271f02c9dc3143462bd014131",
+   "asset": "103235143034304295774855957736370173915597963478451385988090994075616762507158",
+   "copy_delay_min": 2.9,
+   "cf_ask": 0.76,
+   "cf_shares": 130.3247,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7673,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Paula Badosa vs Sinja Kraus",
+   "outcome": "Paula Badosa"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T07:05:26.046913+00:00"
+ "last_updated": "2026-10-28T07:25:29.352415+00:00"
 }
