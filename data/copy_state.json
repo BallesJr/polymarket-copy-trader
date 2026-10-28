@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793178223,
+  "jtwyslljy": 1793181283,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x7e87684f0d91a5daf7dd844802ffc68f0eaa7ee5872a31c2eb95c2352c4130a9",
-   "62084735331273717448771183986515479149280784400903153357300304679343623869619",
-   "BUY",
-   86741.51,
-   1783162640
-  ],
   [
    "0xa15dd8926101d3c4847afd275b585fad95d0abdec8ea106683b7e1193ad86b7a",
    "62084735331273717448771183986515479149280784400903153357300304679343623869619",
@@ -28005,6 +27998,13 @@
    "SELL",
    1356.1,
    1793178223
+  ],
+  [
+   "0xdc13f69d804a9ec8743bb27bc557f8a8646d1bc46bab5421934b95ff94c6d0ec",
+   "97436557936584920926249660640068920805074657694840043726067251022744908677377",
+   "BUY",
+   11794.13,
+   1793181283
   ]
  ],
  "leader_pos": {
@@ -44615,6 +44615,18 @@
    "cost": 2417.4612,
    "max_shares": 3555.09,
    "last_trade_ts": 1793172154
+  },
+  "jtwyslljy|97436557936584920926249660640068920805074657694840043726067251022744908677377": {
+   "leader": "jtwyslljy",
+   "asset": "97436557936584920926249660640068920805074657694840043726067251022744908677377",
+   "condition_id": "0xd83ee3f278a2e74870bb9f9a5bc736907d2fcbc7f8fa6f7f5a9aea178513c33a",
+   "title": "Guangzhou Open: Harriet Dart vs Janice Tjen",
+   "outcome": "Janice Tjen",
+   "slug": "wta-dart-tjen-2026-10-27",
+   "shares": 11794.13,
+   "cost": 5295.414400560572,
+   "max_shares": 11794.13,
+   "last_trade_ts": 1793181283
   }
  },
  "positions": [],
@@ -74017,8 +74029,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Paula Badosa vs Sinja Kraus",
    "outcome": "Paula Badosa"
+  },
+  {
+   "at": "2026-10-28T10:00:59.752188+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T08:55:00+00:00",
+   "condition_id": "0xd83ee3f278a2e74870bb9f9a5bc736907d2fcbc7f8fa6f7f5a9aea178513c33a",
+   "asset": "97436557936584920926249660640068920805074657694840043726067251022744908677377",
+   "copy_delay_min": 6.3,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Harriet Dart vs Janice Tjen",
+   "outcome": "Janice Tjen"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T09:05:26.597671+00:00"
+ "last_updated": "2026-10-28T10:00:59.752994+00:00"
 }
