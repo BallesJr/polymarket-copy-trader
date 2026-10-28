@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9500.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793203732,
+  "jtwyslljy": 1793203859,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x79cfbcee419d13f909c7587062904a9655d593f554b59280feb52dcd8bfa09e7",
-   "56292828273428899260365455682186850383967622513477170366683867650416440166282",
-   "BUY",
-   15000,
-   1783184987
-  ],
   [
    "0x94665846c7208905080aa4cf759cb81c4ed5fb6afe29ea94fd0e7e39db969a02",
    "56292828273428899260365455682186850383967622513477170366683867650416440166282",
@@ -28005,6 +27998,13 @@
    "BUY",
    2722.3,
    1793203732
+  ],
+  [
+   "0x7d8f4ff5e287db38a3fda5a844e0fb4e83246cf12a980b4f4dfb2b66bdc0ef24",
+   "17262122244498929022343599977171010027384027342841651658056579762109642285055",
+   "BUY",
+   2450,
+   1793203859
   ]
  ],
  "leader_pos": {
@@ -44707,10 +44707,10 @@
    "title": "Swiss Indoors Basel: Novak Djokovic vs Ugo Humbert",
    "outcome": "Ugo Humbert",
    "slug": "atp-djokovi-humbert-2026-10-27",
-   "shares": 12772.3,
-   "cost": 8629.218,
-   "max_shares": 12772.3,
-   "last_trade_ts": 1793203732
+   "shares": 15222.3,
+   "cost": 10172.718,
+   "max_shares": 15222.3,
+   "last_trade_ts": 1793203859
   }
  },
  "positions": [],
@@ -74337,8 +74337,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Novak Djokovic vs Ugo Humbert",
    "outcome": "Ugo Humbert"
+  },
+  {
+   "at": "2026-10-28T16:15:35.780327+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-28T15:15:00+00:00",
+   "condition_id": "0xd79f06ff095d015851ddb5d517cd257e0c5437b3abb01c36dcf62f9f7272cd1f",
+   "asset": "17262122244498929022343599977171010027384027342841651658056579762109642285055",
+   "copy_delay_min": 4.6,
+   "cf_ask": 0.59,
+   "cf_shares": 169.4915,
+   "cf_cost": 100.0,
+   "cf_entry": 0.59,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Novak Djokovic vs Ugo Humbert",
+   "outcome": "Ugo Humbert"
   }
  ],
  "total_pnl": -499.1090999999991,
- "last_updated": "2026-10-28T16:10:40.251506+00:00"
+ "last_updated": "2026-10-28T16:15:35.781195+00:00"
 }
