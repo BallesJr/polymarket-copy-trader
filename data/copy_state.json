@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9438.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793292031,
+  "jtwyslljy": 1793293403,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x8ffd8c2a474e92630a7c9538390c66aeae0426fab250e9436f2d1335e1e7e442",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   280,
-   1783291882
-  ],
-  [
-   "0x110137dc66176fa1f8a4ace7693423f214c0ab24edba203008bdc60990a8a115",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   288,
-   1783291885
-  ],
   [
    "0x7fa2719f79ccffe8898d5ba9013d934a7327c6a4e2caaad455fdb7aac3207e55",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    10000,
    1793292031
+  ],
+  [
+   "0x4fdd69e569b5187a4c5c3c5c2a6d85ffcb8db6e21849477ff8df27d3726e0ee5",
+   "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "BUY",
+   1147.72,
+   1793293391
+  ],
+  [
+   "0x71c609db6283db8a1b82aaa47fb4f1e9d8c2f115bd92a24c2ab6c36c51e8fbf7",
+   "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "BUY",
+   2000,
+   1793293403
   ]
  ],
  "leader_pos": {
@@ -44947,10 +44947,10 @@
    "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
    "outcome": "Lorenzo Musetti",
    "slug": "atp-fery-musetti-2026-10-29",
-   "shares": 5000.0,
-   "cost": 3449.9999999999995,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1793291101
+   "shares": 8147.72,
+   "cost": 4980.9056,
+   "max_shares": 8147.72,
+   "last_trade_ts": 1793293403
   },
   "jtwyslljy|12162034366494393351129771634622046599664272069346419052121233276565419214080": {
    "leader": "jtwyslljy",
@@ -75148,8 +75148,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Daniel Altmaier vs Jiri Lehecka",
    "outcome": "Daniel Altmaier"
+  },
+  {
+   "at": "2026-10-29T17:05:26.040934+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T16:05:00+00:00",
+   "condition_id": "0x17a795e08470a4380701c7fad23171af6103f3e4dc394a7d3fdd5f869ed19a9d",
+   "asset": "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "copy_delay_min": 2.0,
+   "cf_ask": 0.55,
+   "cf_shares": 181.8182,
+   "cf_cost": 100.0,
+   "cf_entry": 0.55,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T16:45:35.315079+00:00"
+ "last_updated": "2026-10-29T17:05:26.364092+00:00"
 }
