@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9538.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793284075,
+  "jtwyslljy": 1793284243,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x53d60675e3d5fa74170cf05c11b210dd6fee09448f58a02d3830b712b60acc22",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   307,
-   1783291846
-  ],
   [
    "0xf7be6aba7b83353fda0c4bf4239e1fadfe29f92a2f3e9df612e866d21210f160",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    4000,
    1793284075
+  ],
+  [
+   "0x50fc05600379551ea5a9763f0808657b700cb5b905df44ffb72adb61b8f34175",
+   "58136261951862175445102504706114328750592831258270726886149303130354737708456",
+   "BUY",
+   3000,
+   1793284243
   ]
  ],
  "leader_pos": {
@@ -44911,10 +44911,10 @@
    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
    "outcome": "Daniil Medvedev",
    "slug": "atp-norrie-medvede-2026-10-29",
-   "shares": 11572.09,
-   "cost": 9111.4658,
-   "max_shares": 13000.0,
-   "last_trade_ts": 1793284075
+   "shares": 14572.09,
+   "cost": 11121.4658,
+   "max_shares": 14572.09,
+   "last_trade_ts": 1793284243
   },
   "jtwyslljy|25246715609387061972950869014119387565389752125295647214738884295302570347092": {
    "leader": "jtwyslljy",
@@ -74997,8 +74997,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
    "outcome": "Daniil Medvedev"
+  },
+  {
+   "at": "2026-10-29T14:35:27.780065+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T12:35:00+00:00",
+   "condition_id": "0x0efee97b59ef3e825377994e3097d487e1f615567d06cf9e18be4c4c4279a7d4",
+   "asset": "58136261951862175445102504706114328750592831258270726886149303130354737708456",
+   "copy_delay_min": 4.7,
+   "cf_ask": 0.72,
+   "cf_shares": 138.8889,
+   "cf_cost": 100.0,
+   "cf_entry": 0.72,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
+   "outcome": "Daniil Medvedev"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T14:30:51.872036+00:00"
+ "last_updated": "2026-10-29T14:35:27.781020+00:00"
 }
