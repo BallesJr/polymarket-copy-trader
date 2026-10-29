@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9538.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793280853,
+  "jtwyslljy": 1793280974,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xf5a000dcf537fa61a32d89b4570d500ff13a78c7f925fee4423a9ba8be706937",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   332,
-   1783291816
-  ],
-  [
-   "0xa278df1d389655f80bae169f729c70e163c924ac199d84096eb37a54ef3e58c5",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   387,
-   1783291820
-  ],
   [
    "0xd5f07bb496eca4826a0756c5dad78133f55091f9201858ee5b77dc385952bde7",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "SELL",
    3000,
    1793280853
+  ],
+  [
+   "0x35bebea4013186579c0437f583c0cbe2621c97e03e4f05cd4cf3bf9736b4dd4a",
+   "110252630062649395455940961558961485733509745500549110334095526308398695825990",
+   "SELL",
+   3800,
+   1793280898
+  ],
+  [
+   "0x980e64daa04176a38055eb879910fb1f4e887c273431f389ad090b18e43772f0",
+   "70446941351927652306032466860961096211715050393512356163949143397275076029350",
+   "BUY",
+   3000,
+   1793280974
   ]
  ],
  "leader_pos": {
@@ -44887,10 +44887,22 @@
    "title": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
    "outcome": "Rafael Jodar",
    "slug": "atp-vachero-jodar-2026-10-29",
-   "shares": 3800.0,
-   "cost": 1006.0,
+   "shares": 0.0,
+   "cost": -1160.0,
    "max_shares": 10000.0,
-   "last_trade_ts": 1793280853
+   "last_trade_ts": 1793280898
+  },
+  "jtwyslljy|70446941351927652306032466860961096211715050393512356163949143397275076029350": {
+   "leader": "jtwyslljy",
+   "asset": "70446941351927652306032466860961096211715050393512356163949143397275076029350",
+   "condition_id": "0x158cbf6c6341adf3b0fc56c6f7123c806568d3ab7333a8d10f5f06151eaf3fd8",
+   "title": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-vachero-jodar-2026-10-29",
+   "shares": 3000.0,
+   "cost": 1230.0,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1793280974
   }
  },
  "positions": [],
@@ -74865,8 +74877,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
    "outcome": "Rafael Jodar"
+  },
+  {
+   "at": "2026-10-29T13:40:36.201464+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T11:05:00+00:00",
+   "condition_id": "0x158cbf6c6341adf3b0fc56c6f7123c806568d3ab7333a8d10f5f06151eaf3fd8",
+   "asset": "70446941351927652306032466860961096211715050393512356163949143397275076029350",
+   "copy_delay_min": 4.4,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Valentin Vacherot vs Rafael Jodar",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T13:35:27.080417+00:00"
+ "last_updated": "2026-10-29T13:40:36.202276+00:00"
 }
