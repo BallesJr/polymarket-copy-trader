@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9438.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793291101,
+  "jtwyslljy": 1793292031,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xb6def3c0ac8e053142af70525a0eac12722d2eb2643d66942f5a0a125686656d",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   289,
-   1783291879
-  ],
   [
    "0x8ffd8c2a474e92630a7c9538390c66aeae0426fab250e9436f2d1335e1e7e442",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    5000,
    1793291101
+  ],
+  [
+   "0xbcb4fcd3ba5af7650a929a0eda5ae36b256091f6974e1980a577ec0ad0a4f57d",
+   "12162034366494393351129771634622046599664272069346419052121233276565419214080",
+   "BUY",
+   10000,
+   1793292031
   ]
  ],
  "leader_pos": {
@@ -44951,6 +44951,18 @@
    "cost": 3449.9999999999995,
    "max_shares": 5000.0,
    "last_trade_ts": 1793291101
+  },
+  "jtwyslljy|12162034366494393351129771634622046599664272069346419052121233276565419214080": {
+   "leader": "jtwyslljy",
+   "asset": "12162034366494393351129771634622046599664272069346419052121233276565419214080",
+   "condition_id": "0x1094615700b9e475fa203131cee499f3640c3a561a944d89dc3f67211e9f40a9",
+   "title": "Swiss Indoors Basel: Daniel Altmaier vs Jiri Lehecka",
+   "outcome": "Daniel Altmaier",
+   "slug": "atp-altmaie-lehecka-2026-10-29",
+   "shares": 10000.0,
+   "cost": 1000.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793292031
   }
  },
  "positions": [
@@ -75120,8 +75132,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
    "outcome": "Lorenzo Musetti"
+  },
+  {
+   "at": "2026-10-29T16:45:35.096067+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T16:15:00+00:00",
+   "condition_id": "0x1094615700b9e475fa203131cee499f3640c3a561a944d89dc3f67211e9f40a9",
+   "asset": "12162034366494393351129771634622046599664272069346419052121233276565419214080",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.08,
+   "cf_shares": 1250.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.08,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Daniel Altmaier vs Jiri Lehecka",
+   "outcome": "Daniel Altmaier"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T16:30:53.889494+00:00"
+ "last_updated": "2026-10-29T16:45:35.315079+00:00"
 }
