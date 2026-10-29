@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9438.748058900002,
+ "bankroll": 9441.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793295005,
+  "jtwyslljy": 1793295869,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xfa85946fc36edbe73b47c7fe6228b86b52de6d35112092e19dffaa9cc60d5d51",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   313,
-   1783291901
-  ],
-  [
-   "0xb92ac1ebed2c5cab07e51ece653ab941b0f859d19e8e9a31d4e6b4884f8e0688",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   294,
-   1783291904
-  ],
   [
    "0x3c9e56ceb1c1116916316b55b3729ae061e75c7a1b2b22dbdaa112c3921ad188",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    3143.72,
    1793295005
+  ],
+  [
+   "0xc86200c0513733aabf855aed283098cb3bf8b5b85d23583fafb814904003afe6",
+   "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "SELL",
+   5000,
+   1793295869
+  ],
+  [
+   "0x7365842db20e5c7bef42da0790e2847b2229a77f8524bcf2ddd36ab938429221",
+   "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "SELL",
+   6331.17,
+   1793295869
   ]
  ],
  "leader_pos": {
@@ -44935,10 +44935,10 @@
    "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
    "outcome": "Denis Shapovalov",
    "slug": "atp-fritz-shapova-2026-10-29",
-   "shares": 3143.72,
-   "cost": 471.55799999999994,
+   "shares": -1856.2800000000002,
+   "cost": -78.44200000000006,
    "max_shares": 3143.72,
-   "last_trade_ts": 1793295005
+   "last_trade_ts": 1793295869
   },
   "jtwyslljy|20028135673640289636419675613776653557926609097369215460380311399157122152206": {
    "leader": "jtwyslljy",
@@ -44947,10 +44947,10 @@
    "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
    "outcome": "Lorenzo Musetti",
    "slug": "atp-fery-musetti-2026-10-29",
-   "shares": 4478.92,
-   "cost": 3155.96960015888,
+   "shares": -1852.25,
+   "cost": 53.69630015888015,
    "max_shares": 8147.72,
-   "last_trade_ts": 1793294921
+   "last_trade_ts": 1793295869
   },
   "jtwyslljy|12162034366494393351129771634622046599664272069346419052121233276565419214080": {
    "leader": "jtwyslljy",
@@ -44965,26 +44965,7 @@
    "last_trade_ts": 1793294921
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "20795814066628496724681730701084509947746332173794034095057074232304378607525",
-   "condition_id": "0xb2c5e06e0999b17c4fc747dd7139f2fe4fbb3c7c481c651f03ea1faddae01143",
-   "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
-   "outcome": "Denis Shapovalov",
-   "slug": "atp-fritz-shapova-2026-10-29",
-   "opened_at": "2026-10-29T16:30:53.634334+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 3700.0,
-   "copy_delay_min": 6.4,
-   "best_ask": 0.37,
-   "ask_depth": 18796.39,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -57890,6 +57871,28 @@
    "closed_at": "2026-10-29T10:00:59.608477+00:00",
    "exit_price": 0.999,
    "pnl": 137.8571,
+   "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "condition_id": "0xb2c5e06e0999b17c4fc747dd7139f2fe4fbb3c7c481c651f03ea1faddae01143",
+   "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-fritz-shapova-2026-10-29",
+   "opened_at": "2026-10-29T16:30:53.634334+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 3700.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.37,
+   "ask_depth": 18796.39,
+   "status": "closed",
+   "closed_at": "2026-10-29T17:50:31.118276+00:00",
+   "exit_price": 0.01,
+   "pnl": -97.2973,
    "close_reason": "leader_exit"
   }
  ],
@@ -75182,6 +75185,6 @@
    "outcome": "Lorenzo Musetti"
   }
  ],
- "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T17:35:27.414507+00:00"
+ "total_pnl": -558.5492999999991,
+ "last_updated": "2026-10-29T17:50:31.118947+00:00"
 }
