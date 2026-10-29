@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9300.890954100003,
  "last_seen": {
-  "jtwyslljy": 1793254250,
+  "jtwyslljy": 1793255152,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x919923b5597d95bbb68ec59301d2c77934f8500f6e39da1d54270e1774fac706",
-   "31440557388819303417770669910859849927103241821910890816434841754857815797471",
-   "SELL",
-   2003,
-   1783274128
-  ],
   [
    "0x3a86b0fa5765a3d70f1b8eee40437284c218dbd7f2f1289a7f116ad5ee026c24",
    "31440557388819303417770669910859849927103241821910890816434841754857815797471",
@@ -28005,6 +27998,13 @@
    "BUY",
    11210.67,
    1793254250
+  ],
+  [
+   "0xd766b6d5253b72917918010237a3ef337493d6f7c04f9d8a2db2d3ddfafb2b59",
+   "76762604279426341355270226197817938648839535555691800453327269697153522910585",
+   "BUY",
+   12000,
+   1793255152
   ]
  ],
  "leader_pos": {
@@ -44851,10 +44851,10 @@
    "title": "Pan Pacific Open: Naomi Osaka vs Mia Pohankova",
    "outcome": "Naomi Osaka",
    "slug": "wta-osaka-pohanko-2026-10-27",
-   "shares": 4545.62,
-   "cost": 3636.496,
-   "max_shares": 4545.62,
-   "last_trade_ts": 1793251502
+   "shares": 16545.62,
+   "cost": 8916.496,
+   "max_shares": 16545.62,
+   "last_trade_ts": 1793255152
   },
   "jtwyslljy|8381495119448202083906299168798407467592825616935336121485771395659087983773": {
    "leader": "jtwyslljy",
@@ -74758,8 +74758,24 @@
    "leader": "jtwyslljy",
    "title": "Pan Pacific Open: Naomi Osaka vs Mia Pohankova",
    "outcome": "Naomi Osaka"
+  },
+  {
+   "at": "2026-10-29T06:30:51.443672+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T05:45:00+00:00",
+   "condition_id": "0x1810dd86bb7d6edef605e108b590de957b10754b616e25f0cf874fa8db2aee5c",
+   "asset": "76762604279426341355270226197817938648839535555691800453327269697153522910585",
+   "copy_delay_min": 5.0,
+   "cf_ask": 0.39,
+   "cf_shares": 256.4103,
+   "cf_cost": 100.0,
+   "cf_entry": 0.39,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Pan Pacific Open: Naomi Osaka vs Mia Pohankova",
+   "outcome": "Naomi Osaka"
   }
  ],
  "total_pnl": -599.1090999999991,
- "last_updated": "2026-10-29T06:15:32.860018+00:00"
+ "last_updated": "2026-10-29T06:30:51.669981+00:00"
 }
