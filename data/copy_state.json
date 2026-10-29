@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9538.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793283329,
+  "jtwyslljy": 1793283731,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x2d245886bca8486fc2d94edb8f4fe4062144649c104e9541d6a929d84ac82947",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   288,
-   1783291829
-  ],
-  [
-   "0x939975e91a7fae528e44b335c46bb1bb52bb3911ad2e8ff46c414a18254962ed",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   279,
-   1783291832
-  ],
   [
    "0x3a83d63a0f0dbf5fa086b191323aa4cbe7986defc00828ce06ff19d1c789af30",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    3000,
    1793283329
+  ],
+  [
+   "0x3ddea40398d0e4166e5c44666d70f4865b44c0d589148e189445e3f5164d77ad",
+   "25246715609387061972950869014119387565389752125295647214738884295302570347092",
+   "BUY",
+   6000,
+   1793283622
+  ],
+  [
+   "0xae4381792ecc6d9edfb357233498cc3addb4f6b0b757995f1291566bb355a7c2",
+   "58136261951862175445102504706114328750592831258270726886149303130354737708456",
+   "SELL",
+   10427.91,
+   1793283731
   ]
  ],
  "leader_pos": {
@@ -44911,10 +44911,22 @@
    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
    "outcome": "Daniil Medvedev",
    "slug": "atp-norrie-medvede-2026-10-29",
-   "shares": 13000.0,
-   "cost": 8730.0,
+   "shares": 2572.09,
+   "cost": 5393.0688,
    "max_shares": 13000.0,
-   "last_trade_ts": 1793283329
+   "last_trade_ts": 1793283731
+  },
+  "jtwyslljy|25246715609387061972950869014119387565389752125295647214738884295302570347092": {
+   "leader": "jtwyslljy",
+   "asset": "25246715609387061972950869014119387565389752125295647214738884295302570347092",
+   "condition_id": "0x5e076ba43fad448621221110d3468bc84079e9c7215baef8223564ef7ee7a86b",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Arthur Fils",
+   "outcome": "Alex Michelsen",
+   "slug": "atp-michels-fils-2026-10-29",
+   "shares": 6000.0,
+   "cost": 1980.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1793283622
   }
  },
  "positions": [],
@@ -74937,8 +74949,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Cameron Norrie vs Daniil Medvedev",
    "outcome": "Daniil Medvedev"
+  },
+  {
+   "at": "2026-10-29T14:25:27.646084+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T14:00:00+00:00",
+   "condition_id": "0x5e076ba43fad448621221110d3468bc84079e9c7215baef8223564ef7ee7a86b",
+   "asset": "25246715609387061972950869014119387565389752125295647214738884295302570347092",
+   "copy_delay_min": 5.1,
+   "cf_ask": 0.36,
+   "cf_shares": 277.7778,
+   "cf_cost": 100.0,
+   "cf_entry": 0.36,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Alex Michelsen vs Arthur Fils",
+   "outcome": "Alex Michelsen"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T14:20:35.233132+00:00"
+ "last_updated": "2026-10-29T14:25:27.646776+00:00"
 }
