@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9538.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793290531,
+  "jtwyslljy": 1793290618,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x8b9cc8b630ffad3668eb0de960bf70755509f3e92a18e202f231bb5192722c65",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   288,
-   1783291865
-  ],
-  [
-   "0xc1d872f248d4fbcd940c8dbcc546210045d81806a1dc7fc5487d203943fb2a31",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   289,
-   1783291868
-  ],
   [
    "0x3cfd27f4ffcd8fadf69f03ec9062040e5055bf6b7a8e1b56c1518db4bd999613",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "SELL",
    3000,
    1793290531
+  ],
+  [
+   "0x717b6b14cf2cd7f0f77ab2e71ce4e2d3354b7dca0183d96ae8eeaa64a9cea054",
+   "25246715609387061972950869014119387565389752125295647214738884295302570347092",
+   "SELL",
+   2000,
+   1793290537
+  ],
+  [
+   "0x8bc2cf1618761d058be30d08cdf3386a2cd252fd9db2c606905d082d0cc7eabe",
+   "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "BUY",
+   5000,
+   1793290618
   ]
  ],
  "leader_pos": {
@@ -44923,10 +44923,22 @@
    "title": "Swiss Indoors Basel: Alex Michelsen vs Arthur Fils",
    "outcome": "Alex Michelsen",
    "slug": "atp-michels-fils-2026-10-29",
-   "shares": 12525.76,
-   "cost": 746.5920000000001,
+   "shares": 10525.76,
+   "cost": -133.4079999999999,
    "max_shares": 20000.0,
-   "last_trade_ts": 1793290531
+   "last_trade_ts": 1793290537
+  },
+  "jtwyslljy|20795814066628496724681730701084509947746332173794034095057074232304378607525": {
+   "leader": "jtwyslljy",
+   "asset": "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "condition_id": "0xb2c5e06e0999b17c4fc747dd7139f2fe4fbb3c7c481c651f03ea1faddae01143",
+   "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-fritz-shapova-2026-10-29",
+   "shares": 5000.0,
+   "cost": 1850.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1793290618
   }
  },
  "positions": [],
@@ -75045,8 +75057,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Alex Michelsen vs Arthur Fils",
    "outcome": "Alex Michelsen"
+  },
+  {
+   "at": "2026-10-29T16:25:26.091090+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T16:15:00+00:00",
+   "condition_id": "0xb2c5e06e0999b17c4fc747dd7139f2fe4fbb3c7c481c651f03ea1faddae01143",
+   "asset": "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.37,
+   "cf_shares": 270.2703,
+   "cf_cost": 100.0,
+   "cf_entry": 0.37,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T16:15:39.911671+00:00"
+ "last_updated": "2026-10-29T16:25:26.092071+00:00"
 }
