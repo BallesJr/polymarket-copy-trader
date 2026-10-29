@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9538.748058900002,
+ "bankroll": 9438.748058900002,
  "last_seen": {
-  "jtwyslljy": 1793290618,
+  "jtwyslljy": 1793291101,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x3cfd27f4ffcd8fadf69f03ec9062040e5055bf6b7a8e1b56c1518db4bd999613",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   338,
-   1783291873
-  ],
-  [
-   "0xeaff26f6011e6c4fa0873a5d00384b8bcefacfb898d85cc780f9f7c972867a97",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   292,
-   1783291876
-  ],
   [
    "0xb6def3c0ac8e053142af70525a0eac12722d2eb2643d66942f5a0a125686656d",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    5000,
    1793290618
+  ],
+  [
+   "0x35d3e8f4674eb18097c2f7f7581a54c64819307b7e9b8a2aed0738e2c2ef23fd",
+   "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "BUY",
+   5000,
+   1793291068
+  ],
+  [
+   "0x52110fae1e4f5aaa1e00aa86beff3e1973c7a70b23455e7cdf61325e54478121",
+   "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "BUY",
+   5000,
+   1793291101
   ]
  ],
  "leader_pos": {
@@ -44935,13 +44935,44 @@
    "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
    "outcome": "Denis Shapovalov",
    "slug": "atp-fritz-shapova-2026-10-29",
+   "shares": 10000.0,
+   "cost": 3700.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793291068
+  },
+  "jtwyslljy|20028135673640289636419675613776653557926609097369215460380311399157122152206": {
+   "leader": "jtwyslljy",
+   "asset": "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "condition_id": "0x17a795e08470a4380701c7fad23171af6103f3e4dc394a7d3fdd5f869ed19a9d",
+   "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti",
+   "slug": "atp-fery-musetti-2026-10-29",
    "shares": 5000.0,
-   "cost": 1850.0,
+   "cost": 3449.9999999999995,
    "max_shares": 5000.0,
-   "last_trade_ts": 1793290618
+   "last_trade_ts": 1793291101
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "20795814066628496724681730701084509947746332173794034095057074232304378607525",
+   "condition_id": "0xb2c5e06e0999b17c4fc747dd7139f2fe4fbb3c7c481c651f03ea1faddae01143",
+   "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-fritz-shapova-2026-10-29",
+   "opened_at": "2026-10-29T16:30:53.634334+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 3700.0,
+   "copy_delay_min": 6.4,
+   "best_ask": 0.37,
+   "ask_depth": 18796.39,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -75073,8 +75104,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Taylor Fritz vs Denis Shapovalov",
    "outcome": "Denis Shapovalov"
+  },
+  {
+   "at": "2026-10-29T16:30:53.449922+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-29T16:05:00+00:00",
+   "condition_id": "0x17a795e08470a4380701c7fad23171af6103f3e4dc394a7d3fdd5f869ed19a9d",
+   "asset": "20028135673640289636419675613776653557926609097369215460380311399157122152206",
+   "copy_delay_min": 5.9,
+   "cf_ask": 0.75,
+   "cf_shares": 132.8289,
+   "cf_cost": 100.0,
+   "cf_entry": 0.7528,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
+   "outcome": "Lorenzo Musetti"
   }
  ],
  "total_pnl": -461.2519999999991,
- "last_updated": "2026-10-29T16:25:26.092071+00:00"
+ "last_updated": "2026-10-29T16:30:53.889494+00:00"
 }
