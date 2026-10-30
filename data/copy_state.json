@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9491.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793372685,
+  "jtwyslljy": 1793373799,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x0341af8c5bee8008e6a2a6a0d598c4296a526b7d85afff46b453188976f1e6b4",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   306,
-   1783292042
-  ],
   [
    "0x427539c7b7b6fccfe64b9467ddb2d622a5f50f478cce089bb7f4d978de5b0f6e",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "SELL",
    3000,
    1793372685
+  ],
+  [
+   "0xf3c2d1e5454db01f77109d62169667617095829d53c55932dd163c9c3c77dc7e",
+   "17545478527551634752537262860884372127908463029530080258607914390011112991742",
+   "BUY",
+   4100,
+   1793373799
   ]
  ],
  "leader_pos": {
@@ -45043,10 +45043,10 @@
    "title": "Erste Bank Open: Tommy Paul vs Carlos Alcaraz",
    "outcome": "Tommy Paul",
    "slug": "atp-paul-alcaraz-2026-10-30",
-   "shares": 8879.32,
-   "cost": 1927.0708,
-   "max_shares": 8879.32,
-   "last_trade_ts": 1793371174
+   "shares": 12979.32,
+   "cost": 2460.0708,
+   "max_shares": 12979.32,
+   "last_trade_ts": 1793373799
   }
  },
  "positions": [],
@@ -75519,8 +75519,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Lilli Tagger vs Han Shi",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-30T15:30:49.885501+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-30T14:30:00+00:00",
+   "condition_id": "0xd288c64a9aa3d8b8d20369745b813236ba47e66d2b2c4593449e60b65bad070b",
+   "asset": "17545478527551634752537262860884372127908463029530080258607914390011112991742",
+   "copy_delay_min": 7.5,
+   "cf_ask": 0.11,
+   "cf_shares": 909.0909,
+   "cf_cost": 100.0,
+   "cf_entry": 0.11,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Erste Bank Open: Tommy Paul vs Carlos Alcaraz",
+   "outcome": "Tommy Paul"
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T15:10:34.405776+00:00"
+ "last_updated": "2026-10-30T15:30:49.887332+00:00"
 }
