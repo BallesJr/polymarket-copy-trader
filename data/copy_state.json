@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9191.450761900003,
+ "bankroll": 9091.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793383332,
+  "jtwyslljy": 1793383834,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xb54e45b9b7f3d628dc1eac04df02a6f8781f304eb6875106b9afe4e671e30273",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   300,
-   1783292065
-  ],
   [
    "0x66b8baba4064b29a4dd645e7cdf4c815ce5ea43bc006e198150c04962fa0aaba",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    4500,
    1793383332
+  ],
+  [
+   "0x5801ee887d76cc972d33b98549c6ca75e615f21397efba7eb672dc0c1ba00a95",
+   "98096190147393613490475336726431781710691811164056354124697622291687340891414",
+   "BUY",
+   6000,
+   1793383834
   ]
  ],
  "leader_pos": {
@@ -45095,6 +45095,18 @@
    "cost": 3104.9999999999995,
    "max_shares": 4500.0,
    "last_trade_ts": 1793383332
+  },
+  "jtwyslljy|98096190147393613490475336726431781710691811164056354124697622291687340891414": {
+   "leader": "jtwyslljy",
+   "asset": "98096190147393613490475336726431781710691811164056354124697622291687340891414",
+   "condition_id": "0xb5dbb0c08e5c15f06113eabbbd906c042ce7797c8e86b135b0f43eb3a8f959d9",
+   "title": "Swiss Indoors Basel: Jan-Lennard Struff vs Nuno Borges",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-borges-2026-10-30",
+   "shares": 6000.0,
+   "cost": 3300.0000000000005,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1793383834
   }
  },
  "positions": [
@@ -45150,6 +45162,24 @@
    "copy_delay_min": 8.4,
    "best_ask": 0.69,
    "ask_depth": 25521.97,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98096190147393613490475336726431781710691811164056354124697622291687340891414",
+   "condition_id": "0xb5dbb0c08e5c15f06113eabbbd906c042ce7797c8e86b135b0f43eb3a8f959d9",
+   "title": "Swiss Indoors Basel: Jan-Lennard Struff vs Nuno Borges",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-borges-2026-10-30",
+   "opened_at": "2026-10-30T18:15:32.478732+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.55,
+   "ask_depth": 18000.94,
    "status": "open"
   }
  ],
@@ -75657,5 +75687,5 @@
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T18:10:35.146209+00:00"
+ "last_updated": "2026-10-30T18:15:32.889379+00:00"
 }
