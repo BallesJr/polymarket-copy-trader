@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9241.450761900003,
+ "bankroll": 9491.450761900003,
  "last_seen": {
   "jtwyslljy": 1793357610,
   "0x53757615de": 1792870439
@@ -45013,26 +45013,7 @@
    "last_trade_ts": 1793354940
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "99515824564819017897479498710080784543788953498107306912305712220529333757728",
-   "condition_id": "0x25d2041a4ee26dd34d19026429f994d1e3d2194ecd4ebb783bc00a304565a456",
-   "title": "Guangzhou Open: Xinran Sun vs Claire Liu",
-   "outcome": "Xinran Sun",
-   "slug": "wta-su-liu-2026-10-29",
-   "opened_at": "2026-10-30T08:05:27.311658+00:00",
-   "entry_price": 0.4,
-   "shares": 250.0,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 2501.57,
-   "copy_delay_min": 4.8,
-   "best_ask": 0.4,
-   "ask_depth": 5237.53,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -57982,6 +57963,28 @@
    "closed_at": "2026-10-30T10:20:34.378337+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "99515824564819017897479498710080784543788953498107306912305712220529333757728",
+   "condition_id": "0x25d2041a4ee26dd34d19026429f994d1e3d2194ecd4ebb783bc00a304565a456",
+   "title": "Guangzhou Open: Xinran Sun vs Claire Liu",
+   "outcome": "Xinran Sun",
+   "slug": "wta-su-liu-2026-10-29",
+   "opened_at": "2026-10-30T08:05:27.311658+00:00",
+   "entry_price": 0.4,
+   "shares": 250.0,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 2501.57,
+   "copy_delay_min": 4.8,
+   "best_ask": 0.4,
+   "ask_depth": 5237.53,
+   "status": "won",
+   "closed_at": "2026-10-30T12:40:33.767263+00:00",
+   "exit_price": 1.0,
+   "pnl": 150.0,
    "close_reason": "resolved"
   }
  ],
@@ -75386,6 +75389,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -658.5492999999991,
- "last_updated": "2026-10-30T11:01:05.068776+00:00"
+ "total_pnl": -508.5492999999991,
+ "last_updated": "2026-10-30T12:40:33.769081+00:00"
 }
