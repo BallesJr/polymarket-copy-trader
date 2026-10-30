@@ -45016,24 +45016,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "51231510082131114703662769018655696300642310062467060348233015801654387227149",
-   "condition_id": "0x89414c49b03045dc32ab066c46761baa45fb04696d9216ddd66d641b0cea89d0",
-   "title": "Guangzhou Open: Kaitlin Quevedo vs Jil Teichmann",
-   "outcome": "Jil Teichmann",
-   "slug": "wta-quevedo-teichma-2026-10-30",
-   "opened_at": "2026-10-30T06:00:59.798895+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.4233,
-   "leader_cost": 2367.63,
-   "copy_delay_min": 2.2,
-   "best_ask": 0.43,
-   "ask_depth": 1564.07,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "99515824564819017897479498710080784543788953498107306912305712220529333757728",
    "condition_id": "0x25d2041a4ee26dd34d19026429f994d1e3d2194ecd4ebb783bc00a304565a456",
    "title": "Guangzhou Open: Xinran Sun vs Claire Liu",
@@ -57979,6 +57961,28 @@
    "exit_price": 0.01,
    "pnl": -97.2973,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "51231510082131114703662769018655696300642310062467060348233015801654387227149",
+   "condition_id": "0x89414c49b03045dc32ab066c46761baa45fb04696d9216ddd66d641b0cea89d0",
+   "title": "Guangzhou Open: Kaitlin Quevedo vs Jil Teichmann",
+   "outcome": "Jil Teichmann",
+   "slug": "wta-quevedo-teichma-2026-10-30",
+   "opened_at": "2026-10-30T06:00:59.798895+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.4233,
+   "leader_cost": 2367.63,
+   "copy_delay_min": 2.2,
+   "best_ask": 0.43,
+   "ask_depth": 1564.07,
+   "status": "lost",
+   "closed_at": "2026-10-30T10:20:34.378337+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -75366,6 +75370,6 @@
    "outcome": "Diana Shnaider"
   }
  ],
- "total_pnl": -558.5492999999991,
- "last_updated": "2026-10-30T10:10:32.323416+00:00"
+ "total_pnl": -658.5492999999991,
+ "last_updated": "2026-10-30T10:20:34.380368+00:00"
 }
