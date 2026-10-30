@@ -45112,24 +45112,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "69196043866501672494239633531729883324775631730282303665741256300298315107358",
-   "condition_id": "0x7c86f62f337eec8f65e94ee960f92f0e6fc576dc68784cc830501178a4bba1ad",
-   "title": "Swiss Indoors Basel: Jerome Kym vs Jiri Lehecka",
-   "outcome": "Jerome Kym",
-   "slug": "atp-kym-lehecka-2026-10-30",
-   "opened_at": "2026-10-30T16:50:34.509291+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 2175.0,
-   "copy_delay_min": 6.9,
-   "best_ask": 0.29,
-   "ask_depth": 5884.39,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "7005023138114687472651467162660971909914125927709736833740654062097682890248",
    "condition_id": "0xdf64572186bac73ceb23860398727f63a4e0fb9b2d635b2da07d68aabe3ec0e7",
    "title": "Erste Bank Open: Matteo Berrettini vs Alex de Minaur",
@@ -58156,6 +58138,28 @@
    "ask_depth": 594.87,
    "status": "lost",
    "closed_at": "2026-10-30T18:30:53.154142+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69196043866501672494239633531729883324775631730282303665741256300298315107358",
+   "condition_id": "0x7c86f62f337eec8f65e94ee960f92f0e6fc576dc68784cc830501178a4bba1ad",
+   "title": "Swiss Indoors Basel: Jerome Kym vs Jiri Lehecka",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-lehecka-2026-10-30",
+   "opened_at": "2026-10-30T16:50:34.509291+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2175.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.29,
+   "ask_depth": 5884.39,
+   "status": "lost",
+   "closed_at": "2026-10-30T19:10:33.571252+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
@@ -75690,6 +75694,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -608.5492999999991,
- "last_updated": "2026-10-30T19:01:01.468229+00:00"
+ "total_pnl": -708.5492999999991,
+ "last_updated": "2026-10-30T19:10:33.573125+00:00"
 }
