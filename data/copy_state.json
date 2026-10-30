@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9491.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793370823,
+  "jtwyslljy": 1793370981,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x2d86f12cc6191993ea01e8e777462358b124ca518554af6ab3fc10c67b417b40",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   364,
-   1783292021
-  ],
   [
    "0xc1904c7d40a1c9aa6061b453b119bb7a2f816b36f2c8d581870f1fe9b102af8e",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    242.74,
    1793370823
+  ],
+  [
+   "0xe8cc1c4de987fd1e93458ce375a15f5c6785ea7521affdadb72d2abb54aafd1d",
+   "24010189412137762649463133182344763434287762974117972864136048088780413855111",
+   "BUY",
+   1000,
+   1793370981
   ]
  ],
  "leader_pos": {
@@ -45019,10 +45019,10 @@
    "title": "Swiss Indoors Basel: Holger Rune vs Valentin Vacherot",
    "outcome": "Valentin Vacherot",
    "slug": "atp-rune-vachero-2026-10-30",
-   "shares": 5000.0,
-   "cost": 2200.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1793364876
+   "shares": 6000.0,
+   "cost": 2640.0,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1793370981
   },
   "jtwyslljy|71403535398975187984617757142734354632040681367850905905255932607823162015611": {
    "leader": "jtwyslljy",
@@ -75459,8 +75459,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Lilli Tagger vs Han Shi",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-30T14:45:35.311984+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-30T13:05:00+00:00",
+   "condition_id": "0x869505c6c8d7571a55b42f81afe125d41306cf7ad5b8f7c8cac0169f980cd3db",
+   "asset": "24010189412137762649463133182344763434287762974117972864136048088780413855111",
+   "copy_delay_min": 9.2,
+   "cf_ask": 0.44,
+   "cf_shares": 227.2727,
+   "cf_cost": 100.0,
+   "cf_entry": 0.44,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Holger Rune vs Valentin Vacherot",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T14:40:33.103579+00:00"
+ "last_updated": "2026-10-30T14:45:35.312756+00:00"
 }
