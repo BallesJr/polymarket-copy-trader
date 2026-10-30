@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9291.450761900003,
+ "bankroll": 9191.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793383014,
+  "jtwyslljy": 1793383332,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x2dc8e4dd89c8a7d0ae3e0809f834f5983bcfd2cb064bef3dff436189285b5931",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   317,
-   1783292062
-  ],
   [
    "0xb54e45b9b7f3d628dc1eac04df02a6f8781f304eb6875106b9afe4e671e30273",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    5000,
    1793383014
+  ],
+  [
+   "0x456a569b6523a9c5b61f172b1325a1d499b551f7f81c14cab96e72e42f09c8b8",
+   "7005023138114687472651467162660971909914125927709736833740654062097682890248",
+   "BUY",
+   4500,
+   1793383332
   ]
  ],
  "leader_pos": {
@@ -45083,6 +45083,18 @@
    "cost": 2089.1259,
    "max_shares": 5644.92,
    "last_trade_ts": 1793380603
+  },
+  "jtwyslljy|7005023138114687472651467162660971909914125927709736833740654062097682890248": {
+   "leader": "jtwyslljy",
+   "asset": "7005023138114687472651467162660971909914125927709736833740654062097682890248",
+   "condition_id": "0xdf64572186bac73ceb23860398727f63a4e0fb9b2d635b2da07d68aabe3ec0e7",
+   "title": "Erste Bank Open: Matteo Berrettini vs Alex de Minaur",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-berrett-minaur-2026-10-30",
+   "shares": 4500.0,
+   "cost": 3104.9999999999995,
+   "max_shares": 4500.0,
+   "last_trade_ts": 1793383332
   }
  },
  "positions": [
@@ -45120,6 +45132,24 @@
    "copy_delay_min": 6.9,
    "best_ask": 0.29,
    "ask_depth": 5884.39,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7005023138114687472651467162660971909914125927709736833740654062097682890248",
+   "condition_id": "0xdf64572186bac73ceb23860398727f63a4e0fb9b2d635b2da07d68aabe3ec0e7",
+   "title": "Erste Bank Open: Matteo Berrettini vs Alex de Minaur",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-berrett-minaur-2026-10-30",
+   "opened_at": "2026-10-30T18:10:34.753504+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 3105.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.69,
+   "ask_depth": 25521.97,
    "status": "open"
   }
  ],
@@ -75627,5 +75657,5 @@
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T18:05:25.668940+00:00"
+ "last_updated": "2026-10-30T18:10:35.146209+00:00"
 }
