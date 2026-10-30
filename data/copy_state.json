@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9091.450761900003,
+ "bankroll": 9273.268961900003,
  "last_seen": {
   "jtwyslljy": 1793386488,
   "0x53757615de": 1792870439
@@ -45127,24 +45127,6 @@
    "best_ask": 0.69,
    "ask_depth": 25521.97,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "98096190147393613490475336726431781710691811164056354124697622291687340891414",
-   "condition_id": "0xb5dbb0c08e5c15f06113eabbbd906c042ce7797c8e86b135b0f43eb3a8f959d9",
-   "title": "Swiss Indoors Basel: Jan-Lennard Struff vs Nuno Borges",
-   "outcome": "Jan-Lennard Struff",
-   "slug": "atp-struff-borges-2026-10-30",
-   "opened_at": "2026-10-30T18:15:32.478732+00:00",
-   "entry_price": 0.55,
-   "shares": 181.8182,
-   "stake": 100.0,
-   "leader_vwap": 0.55,
-   "leader_cost": 3300.0,
-   "copy_delay_min": 5.0,
-   "best_ask": 0.55,
-   "ask_depth": 18000.94,
-   "status": "open"
   }
  ],
  "closed": [
@@ -58162,6 +58144,28 @@
    "closed_at": "2026-10-30T19:10:33.571252+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "98096190147393613490475336726431781710691811164056354124697622291687340891414",
+   "condition_id": "0xb5dbb0c08e5c15f06113eabbbd906c042ce7797c8e86b135b0f43eb3a8f959d9",
+   "title": "Swiss Indoors Basel: Jan-Lennard Struff vs Nuno Borges",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-struff-borges-2026-10-30",
+   "opened_at": "2026-10-30T18:15:32.478732+00:00",
+   "entry_price": 0.55,
+   "shares": 181.8182,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 3300.0,
+   "copy_delay_min": 5.0,
+   "best_ask": 0.55,
+   "ask_depth": 18000.94,
+   "status": "won",
+   "closed_at": "2026-10-30T20:25:27.059039+00:00",
+   "exit_price": 1.0,
+   "pnl": 81.8182,
    "close_reason": "resolved"
   }
  ],
@@ -75694,6 +75698,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -708.5492999999991,
- "last_updated": "2026-10-30T19:10:33.573125+00:00"
+ "total_pnl": -626.7310999999991,
+ "last_updated": "2026-10-30T20:25:27.061122+00:00"
 }
