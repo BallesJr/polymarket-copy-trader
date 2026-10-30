@@ -45112,24 +45112,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "109469744879282947728687230525798437138390477179505415269494612391256184818420",
-   "condition_id": "0x6e08600162b2aa94bc9df9f189c6002af804c9186ea76af9d2da54adf6265249",
-   "title": "Erste Bank Open: Alexander Zverev vs Arthur Fery",
-   "outcome": "Arthur Fery",
-   "slug": "atp-zverev-fery-2026-10-30",
-   "opened_at": "2026-10-30T16:05:25.782555+00:00",
-   "entry_price": 0.1416,
-   "shares": 706.3247,
-   "stake": 100.0,
-   "leader_vwap": 0.14,
-   "leader_cost": 686.0,
-   "copy_delay_min": 3.7,
-   "best_ask": 0.14,
-   "ask_depth": 594.87,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "69196043866501672494239633531729883324775631730282303665741256300298315107358",
    "condition_id": "0x7c86f62f337eec8f65e94ee960f92f0e6fc576dc68784cc830501178a4bba1ad",
    "title": "Swiss Indoors Basel: Jerome Kym vs Jiri Lehecka",
@@ -58154,6 +58136,28 @@
    "closed_at": "2026-10-30T12:40:33.767263+00:00",
    "exit_price": 1.0,
    "pnl": 150.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "109469744879282947728687230525798437138390477179505415269494612391256184818420",
+   "condition_id": "0x6e08600162b2aa94bc9df9f189c6002af804c9186ea76af9d2da54adf6265249",
+   "title": "Erste Bank Open: Alexander Zverev vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-zverev-fery-2026-10-30",
+   "opened_at": "2026-10-30T16:05:25.782555+00:00",
+   "entry_price": 0.1416,
+   "shares": 706.3247,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 686.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.14,
+   "ask_depth": 594.87,
+   "status": "lost",
+   "closed_at": "2026-10-30T18:30:53.154142+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -75686,6 +75690,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T18:15:32.889379+00:00"
+ "total_pnl": -608.5492999999991,
+ "last_updated": "2026-10-30T18:30:53.156307+00:00"
 }
