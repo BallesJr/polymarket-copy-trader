@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9273.268961900003,
+ "bankroll": 9418.196461900003,
  "last_seen": {
   "jtwyslljy": 1793386488,
   "0x53757615de": 1792870439
@@ -45109,26 +45109,7 @@
    "last_trade_ts": 1793386452
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "7005023138114687472651467162660971909914125927709736833740654062097682890248",
-   "condition_id": "0xdf64572186bac73ceb23860398727f63a4e0fb9b2d635b2da07d68aabe3ec0e7",
-   "title": "Erste Bank Open: Matteo Berrettini vs Alex de Minaur",
-   "outcome": "Alex de Minaur",
-   "slug": "atp-berrett-minaur-2026-10-30",
-   "opened_at": "2026-10-30T18:10:34.753504+00:00",
-   "entry_price": 0.69,
-   "shares": 144.9275,
-   "stake": 100.0,
-   "leader_vwap": 0.69,
-   "leader_cost": 3105.0,
-   "copy_delay_min": 8.4,
-   "best_ask": 0.69,
-   "ask_depth": 25521.97,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58166,6 +58147,28 @@
    "closed_at": "2026-10-30T20:25:27.059039+00:00",
    "exit_price": 1.0,
    "pnl": 81.8182,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "7005023138114687472651467162660971909914125927709736833740654062097682890248",
+   "condition_id": "0xdf64572186bac73ceb23860398727f63a4e0fb9b2d635b2da07d68aabe3ec0e7",
+   "title": "Erste Bank Open: Matteo Berrettini vs Alex de Minaur",
+   "outcome": "Alex de Minaur",
+   "slug": "atp-berrett-minaur-2026-10-30",
+   "opened_at": "2026-10-30T18:10:34.753504+00:00",
+   "entry_price": 0.69,
+   "shares": 144.9275,
+   "stake": 100.0,
+   "leader_vwap": 0.69,
+   "leader_cost": 3105.0,
+   "copy_delay_min": 8.4,
+   "best_ask": 0.69,
+   "ask_depth": 25521.97,
+   "status": "won",
+   "closed_at": "2026-10-30T21:40:35.293351+00:00",
+   "exit_price": 1.0,
+   "pnl": 44.9275,
    "close_reason": "resolved"
   }
  ],
@@ -75698,6 +75701,6 @@
    "outcome": "MOUZ"
   }
  ],
- "total_pnl": -626.7310999999991,
- "last_updated": "2026-10-30T20:25:27.061122+00:00"
+ "total_pnl": -581.803599999999,
+ "last_updated": "2026-10-30T21:40:35.295495+00:00"
 }
