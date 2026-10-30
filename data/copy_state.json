@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9491.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793369521,
+  "jtwyslljy": 1793370823,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x6e5a4b589c542aab33cc34793df85f846d72d6eca1b906ea5e9706a2e46cb9fe",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   310,
-   1783292017
-  ],
   [
    "0x2d86f12cc6191993ea01e8e777462358b124ca518554af6ab3fc10c67b417b40",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    199.99,
    1793369521
+  ],
+  [
+   "0x3aca82c3f8c7f2a2dbb8916b40f98e14f42bf1cab30a46d4185621fbbf50f5a6",
+   "71403535398975187984617757142734354632040681367850905905255932607823162015611",
+   "BUY",
+   242.74,
+   1793370823
   ]
  ],
  "leader_pos": {
@@ -45031,10 +45031,10 @@
    "title": "Guangzhou Open: Lilli Tagger vs Han Shi",
    "outcome": "Han Shi",
    "slug": "wta-tagger-shi-2026-10-30",
-   "shares": 14699.99,
-   "cost": 5580.4966,
-   "max_shares": 14699.99,
-   "last_trade_ts": 1793369521
+   "shares": 14942.73,
+   "cost": 5682.4474,
+   "max_shares": 14942.73,
+   "last_trade_ts": 1793370823
   }
  },
  "positions": [],
@@ -75443,8 +75443,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Lilli Tagger vs Han Shi",
    "outcome": "Han Shi"
+  },
+  {
+   "at": "2026-10-30T14:40:33.102781+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-30T12:20:00+00:00",
+   "condition_id": "0x529672c3da5fd16e76430b2270eb7c5b65e6bd3b20b7b96d9a5ee369518ac76c",
+   "asset": "71403535398975187984617757142734354632040681367850905905255932607823162015611",
+   "copy_delay_min": 6.8,
+   "cf_ask": 0.35,
+   "cf_shares": 285.7143,
+   "cf_cost": 100.0,
+   "cf_entry": 0.35,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Lilli Tagger vs Han Shi",
+   "outcome": "Han Shi"
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T14:15:36.218844+00:00"
+ "last_updated": "2026-10-30T14:40:33.103579+00:00"
 }
