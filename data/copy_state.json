@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9391.450761900003,
+ "bankroll": 9291.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793376102,
+  "jtwyslljy": 1793378622,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x145ff92b2fa4df27206186fc759b99f66932d4ca3704abd7c58fe5715549fc33",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   282,
-   1783292048
-  ],
   [
    "0x9c7aaca44e808fb5856dc2b722d02af0ee0e96a63252bb6871bea7a72e9f306b",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    4900,
    1793376102
+  ],
+  [
+   "0xce6e282a548cc49c05ed5a836f61cbe1fad2d4fd60640a766b929d531aa60677",
+   "69196043866501672494239633531729883324775631730282303665741256300298315107358",
+   "BUY",
+   7500,
+   1793378622
   ]
  ],
  "leader_pos": {
@@ -45059,6 +45059,18 @@
    "cost": 686.0000000000001,
    "max_shares": 4900.0,
    "last_trade_ts": 1793376102
+  },
+  "jtwyslljy|69196043866501672494239633531729883324775631730282303665741256300298315107358": {
+   "leader": "jtwyslljy",
+   "asset": "69196043866501672494239633531729883324775631730282303665741256300298315107358",
+   "condition_id": "0x7c86f62f337eec8f65e94ee960f92f0e6fc576dc68784cc830501178a4bba1ad",
+   "title": "Swiss Indoors Basel: Jerome Kym vs Jiri Lehecka",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-lehecka-2026-10-30",
+   "shares": 7500.0,
+   "cost": 2175.0,
+   "max_shares": 7500.0,
+   "last_trade_ts": 1793378622
   }
  },
  "positions": [
@@ -45078,6 +45090,24 @@
    "copy_delay_min": 3.7,
    "best_ask": 0.14,
    "ask_depth": 594.87,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "69196043866501672494239633531729883324775631730282303665741256300298315107358",
+   "condition_id": "0x7c86f62f337eec8f65e94ee960f92f0e6fc576dc68784cc830501178a4bba1ad",
+   "title": "Swiss Indoors Basel: Jerome Kym vs Jiri Lehecka",
+   "outcome": "Jerome Kym",
+   "slug": "atp-kym-lehecka-2026-10-30",
+   "opened_at": "2026-10-30T16:50:34.509291+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 2175.0,
+   "copy_delay_min": 6.9,
+   "best_ask": 0.29,
+   "ask_depth": 5884.39,
    "status": "open"
   }
  ],
@@ -75569,5 +75599,5 @@
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T16:05:26.081024+00:00"
+ "last_updated": "2026-10-30T16:50:34.868945+00:00"
 }
