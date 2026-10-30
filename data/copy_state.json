@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9491.450761900003,
+ "bankroll": 9391.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793373799,
+  "jtwyslljy": 1793376102,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x427539c7b7b6fccfe64b9467ddb2d622a5f50f478cce089bb7f4d978de5b0f6e",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   317,
-   1783292045
-  ],
   [
    "0x145ff92b2fa4df27206186fc759b99f66932d4ca3704abd7c58fe5715549fc33",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    4100,
    1793373799
+  ],
+  [
+   "0xbcc29921d7ed2f8339f61df55a1d070e4747886ea7e70c6874efe6ba2817e154",
+   "109469744879282947728687230525798437138390477179505415269494612391256184818420",
+   "BUY",
+   4900,
+   1793376102
   ]
  ],
  "leader_pos": {
@@ -45047,9 +45047,40 @@
    "cost": 2460.0708,
    "max_shares": 12979.32,
    "last_trade_ts": 1793373799
+  },
+  "jtwyslljy|109469744879282947728687230525798437138390477179505415269494612391256184818420": {
+   "leader": "jtwyslljy",
+   "asset": "109469744879282947728687230525798437138390477179505415269494612391256184818420",
+   "condition_id": "0x6e08600162b2aa94bc9df9f189c6002af804c9186ea76af9d2da54adf6265249",
+   "title": "Erste Bank Open: Alexander Zverev vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-zverev-fery-2026-10-30",
+   "shares": 4900.0,
+   "cost": 686.0000000000001,
+   "max_shares": 4900.0,
+   "last_trade_ts": 1793376102
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "109469744879282947728687230525798437138390477179505415269494612391256184818420",
+   "condition_id": "0x6e08600162b2aa94bc9df9f189c6002af804c9186ea76af9d2da54adf6265249",
+   "title": "Erste Bank Open: Alexander Zverev vs Arthur Fery",
+   "outcome": "Arthur Fery",
+   "slug": "atp-zverev-fery-2026-10-30",
+   "opened_at": "2026-10-30T16:05:25.782555+00:00",
+   "entry_price": 0.1416,
+   "shares": 706.3247,
+   "stake": 100.0,
+   "leader_vwap": 0.14,
+   "leader_cost": 686.0,
+   "copy_delay_min": 3.7,
+   "best_ask": 0.14,
+   "ask_depth": 594.87,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -75538,5 +75569,5 @@
   }
  ],
  "total_pnl": -508.5492999999991,
- "last_updated": "2026-10-30T15:30:49.887332+00:00"
+ "last_updated": "2026-10-30T16:05:26.081024+00:00"
 }
