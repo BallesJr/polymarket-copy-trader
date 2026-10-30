@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9441.450761900003,
  "last_seen": {
-  "jtwyslljy": 1793326905,
+  "jtwyslljy": 1793333251,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x8abd6235ad381f6ab2e2d5f51c907461397217d6944b385447af49de3c325aa8",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   287,
-   1783291921
-  ],
   [
    "0xec07e2ad900eb8017bb31673360b5d7baaa8d5f54c48a290945fca9539184aaf",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    500,
    1793326905
+  ],
+  [
+   "0x5c5f4ba5242f5895edc4f66bb40dd7c81f27b204543fea7682665b54d2fa37e4",
+   "35346859677939318338606964160955984199233179420085472825878475888972590806058",
+   "BUY",
+   5000,
+   1793333251
   ]
  ],
  "leader_pos": {
@@ -44971,10 +44971,10 @@
    "title": "Grizzlies vs. Trail Blazers",
    "outcome": "Trail Blazers",
    "slug": "nba-mem-por-2026-10-29",
-   "shares": 500.0,
-   "cost": 355.0,
-   "max_shares": 500.0,
-   "last_trade_ts": 1793326905
+   "shares": 5500.0,
+   "cost": 796.2052000000001,
+   "max_shares": 5500.0,
+   "last_trade_ts": 1793333251
   }
  },
  "positions": [],
@@ -75211,8 +75211,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Arthur Fery vs Lorenzo Musetti",
    "outcome": "Lorenzo Musetti"
+  },
+  {
+   "at": "2026-10-30T04:15:36.098113+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-30T02:00:00+00:00",
+   "condition_id": "0x92c9c48af78d045a419a6e08b1affb483ff5732cfc89902d84103f0c0ff01811",
+   "asset": "35346859677939318338606964160955984199233179420085472825878475888972590806058",
+   "copy_delay_min": 8.1,
+   "cf_ask": 0.001,
+   "cf_shares": 100000.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.001,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Grizzlies vs. Trail Blazers",
+   "outcome": "Trail Blazers"
   }
  ],
  "total_pnl": -558.5492999999991,
- "last_updated": "2026-10-30T02:30:46.873704+00:00"
+ "last_updated": "2026-10-30T04:15:36.098934+00:00"
 }
