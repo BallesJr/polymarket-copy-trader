@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9063.024049900003,
+ "bankroll": 9201.912949900003,
  "last_seen": {
   "jtwyslljy": 1793462938,
   "0x53757615de": 1792870439
@@ -45325,26 +45325,7 @@
    "last_trade_ts": 1793462938
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "94960740020264981590012022899893864496604124627910796103355635873071417184903",
-   "condition_id": "0x89318e31453b84f24b5c14ea7aa3524c6eb91b92af4665c766af734c8de7890f",
-   "title": "Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs",
-   "outcome": "FURIA",
-   "slug": "cs2-nemi1-furia-2026-10-31",
-   "opened_at": "2026-10-31T10:50:33.784881+00:00",
-   "entry_price": 0.72,
-   "shares": 138.8889,
-   "stake": 100.0,
-   "leader_vwap": 0.72,
-   "leader_cost": 3600.0,
-   "copy_delay_min": 9.7,
-   "best_ask": 0.72,
-   "ask_depth": 6469.97,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58471,6 +58452,28 @@
    "exit_price": 0.26,
    "pnl": -55.1724,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "94960740020264981590012022899893864496604124627910796103355635873071417184903",
+   "condition_id": "0x89318e31453b84f24b5c14ea7aa3524c6eb91b92af4665c766af734c8de7890f",
+   "title": "Counter-Strike: Nemiga vs FURIA (BO5) - PGL Masters Bucharest Playoffs",
+   "outcome": "FURIA",
+   "slug": "cs2-nemi1-furia-2026-10-31",
+   "opened_at": "2026-10-31T10:50:33.784881+00:00",
+   "entry_price": 0.72,
+   "shares": 138.8889,
+   "stake": 100.0,
+   "leader_vwap": 0.72,
+   "leader_cost": 3600.0,
+   "copy_delay_min": 9.7,
+   "best_ask": 0.72,
+   "ask_depth": 6469.97,
+   "status": "won",
+   "closed_at": "2026-10-31T16:20:32.647344+00:00",
+   "exit_price": 1.0,
+   "pnl": 38.8889,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -76306,6 +76309,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -836.9759999999991,
- "last_updated": "2026-10-31T16:15:34.922019+00:00"
+ "total_pnl": -798.087099999999,
+ "last_updated": "2026-10-31T16:20:32.648994+00:00"
 }
