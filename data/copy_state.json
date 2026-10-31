@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9218.196461900003,
+ "bankroll": 9118.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793446062,
+  "jtwyslljy": 1793446896,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xa6a54ad4c4754d2409d00f7bdaa0723185fc113d885065fff4ab02f6e464f4a5",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   311,
-   1783292150
-  ],
   [
    "0xeed3d4df7133d90e17a62a34657ed14f3881f51656c55fc351215024e7642364",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    10000,
    1793446062
+  ],
+  [
+   "0xd4e32debc60ba2412c37f7cda9afa90a956deb72296e65ced7b38ee2496effb4",
+   "102490352960826289878203626922376022882491041625339900488317693005473902922874",
+   "BUY",
+   10000,
+   1793446896
   ]
  ],
  "leader_pos": {
@@ -45227,27 +45227,21 @@
    "cost": 3600.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1793446062
+  },
+  "jtwyslljy|102490352960826289878203626922376022882491041625339900488317693005473902922874": {
+   "leader": "jtwyslljy",
+   "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
+   "condition_id": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
+   "title": "Will Chelsea FC win on 2026-10-31?",
+   "outcome": "No",
+   "slug": "epl-che-mun-2026-10-31",
+   "shares": 10000.0,
+   "cost": 5699.999999999999,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793446896
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "115671307019083540807667441208040633598817316765699474714051531895554431440708",
-   "condition_id": "0x5588cf7a6da29ed363916c7b4eea96b36a7a19f1539307f78ad50bce629e0201",
-   "title": "Guangzhou Open: Xinran Sun vs Harriet Dart",
-   "outcome": "Xinran Sun",
-   "slug": "wta-su-dart-2026-10-31",
-   "opened_at": "2026-10-31T08:00:55.992013+00:00",
-   "entry_price": 0.54,
-   "shares": 185.1852,
-   "stake": 100.0,
-   "leader_vwap": 0.53,
-   "leader_cost": 4240.0,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.54,
-   "ask_depth": 22806.37,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "94960740020264981590012022899893864496604124627910796103355635873071417184903",
@@ -45264,6 +45258,24 @@
    "copy_delay_min": 9.7,
    "best_ask": 0.72,
    "ask_depth": 6469.97,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
+   "condition_id": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
+   "title": "Will Chelsea FC win on 2026-10-31?",
+   "outcome": "No",
+   "slug": "epl-che-mun-2026-10-31",
+   "opened_at": "2026-10-31T11:45:32.284715+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 5700.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.57,
+   "ask_depth": 45486.42,
    "status": "open"
   }
  ],
@@ -58326,6 +58338,28 @@
    "closed_at": "2026-10-30T21:40:35.293351+00:00",
    "exit_price": 1.0,
    "pnl": 44.9275,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "115671307019083540807667441208040633598817316765699474714051531895554431440708",
+   "condition_id": "0x5588cf7a6da29ed363916c7b4eea96b36a7a19f1539307f78ad50bce629e0201",
+   "title": "Guangzhou Open: Xinran Sun vs Harriet Dart",
+   "outcome": "Xinran Sun",
+   "slug": "wta-su-dart-2026-10-31",
+   "opened_at": "2026-10-31T08:00:55.992013+00:00",
+   "entry_price": 0.54,
+   "shares": 185.1852,
+   "stake": 100.0,
+   "leader_vwap": 0.53,
+   "leader_cost": 4240.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.54,
+   "ask_depth": 22806.37,
+   "status": "lost",
+   "closed_at": "2026-10-31T11:45:32.895459+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -76034,6 +76068,6 @@
    "outcome": "Kaitlin Quevedo"
   }
  ],
- "total_pnl": -581.803599999999,
- "last_updated": "2026-10-31T11:35:27.623818+00:00"
+ "total_pnl": -681.803599999999,
+ "last_updated": "2026-10-31T11:45:32.897447+00:00"
 }
