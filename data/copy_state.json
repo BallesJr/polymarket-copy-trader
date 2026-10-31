@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9218.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793445619,
+  "jtwyslljy": 1793446062,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xd28fbce885951191adb2e6edad77fbd89cf87c0fa10b8d756e11d2eea9e3c457",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   287,
-   1783292147
-  ],
   [
    "0xa6a54ad4c4754d2409d00f7bdaa0723185fc113d885065fff4ab02f6e464f4a5",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    3000,
    1793445619
+  ],
+  [
+   "0xc62a6550746a3f7cff7b574d345d5ffe3bb847f745296f15ba89c09b765fd881",
+   "2715971171562113503056763629082555895210326613758684826016279290291867571872",
+   "BUY",
+   10000,
+   1793446062
   ]
  ],
  "leader_pos": {
@@ -45215,6 +45215,18 @@
    "cost": 5220.0,
    "max_shares": 8000.0,
    "last_trade_ts": 1793445619
+  },
+  "jtwyslljy|2715971171562113503056763629082555895210326613758684826016279290291867571872": {
+   "leader": "jtwyslljy",
+   "asset": "2715971171562113503056763629082555895210326613758684826016279290291867571872",
+   "condition_id": "0x88643b477ef4d2041dfbb7224459fa5dd10cd51e08a74b1d0ffb5acb30ef4eaa",
+   "title": "Guangzhou Open: Kaitlin Quevedo vs Lilli Tagger",
+   "outcome": "Kaitlin Quevedo",
+   "slug": "wta-quevedo-tagger-2026-10-31",
+   "shares": 10000.0,
+   "cost": 3600.0,
+   "max_shares": 10000.0,
+   "last_trade_ts": 1793446062
   }
  },
  "positions": [
@@ -76004,8 +76016,24 @@
    "leader": "jtwyslljy",
    "title": "Counter-Strike: Vitality vs MOUZ (BO3) - PGL Masters Bucharest Playoffs",
    "outcome": "MOUZ"
+  },
+  {
+   "at": "2026-10-31T11:35:27.443079+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T11:25:00+00:00",
+   "condition_id": "0x88643b477ef4d2041dfbb7224459fa5dd10cd51e08a74b1d0ffb5acb30ef4eaa",
+   "asset": "2715971171562113503056763629082555895210326613758684826016279290291867571872",
+   "copy_delay_min": 7.7,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Kaitlin Quevedo vs Lilli Tagger",
+   "outcome": "Kaitlin Quevedo"
   }
  ],
  "total_pnl": -581.803599999999,
- "last_updated": "2026-10-31T11:25:24.424368+00:00"
+ "last_updated": "2026-10-31T11:35:27.623818+00:00"
 }
