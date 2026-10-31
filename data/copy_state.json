@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9018.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793461624,
+  "jtwyslljy": 1793462368,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xb911775285639d317df95fb2bf9166eb1982738bba8f809f6613e1ae329a2227",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   301,
-   1783292234
-  ],
   [
    "0xa02525f757bd1623e3feb867c63e3673400b13b442e3502e04e38d31f619672d",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "SELL",
    1344,
    1793461624
+  ],
+  [
+   "0x1e6dcb24979a81950245890b682fc6be0facdc3a5b77f82ba18c9d66a593ac07",
+   "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "BUY",
+   7045.88,
+   1793462368
   ]
  ],
  "leader_pos": {
@@ -45287,6 +45287,18 @@
    "cost": 7538.2040000000015,
    "max_shares": 21924.89,
    "last_trade_ts": 1793461624
+  },
+  "jtwyslljy|4044287794946028473448566471265607108750056473962317964994672334125508458480": {
+   "leader": "jtwyslljy",
+   "asset": "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "condition_id": "0xdf2536133063b0baead4e1f5278393093a94fdaf097e7e3d0c8475c0be1d321b",
+   "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
+   "outcome": "Nuno Borges",
+   "slug": "atp-borges-mannari-2026-10-31",
+   "shares": 7045.88,
+   "cost": 4227.528,
+   "max_shares": 7045.88,
+   "last_trade_ts": 1793462368
   }
  },
  "positions": [
@@ -76200,8 +76212,24 @@
    "leader": "jtwyslljy",
    "title": "Erste Bank Open: Daniil Medvedev vs Carlos Alcaraz",
    "outcome": "Daniil Medvedev"
+  },
+  {
+   "at": "2026-10-31T16:05:27.211878+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T15:25:00+00:00",
+   "condition_id": "0xdf2536133063b0baead4e1f5278393093a94fdaf097e7e3d0c8475c0be1d321b",
+   "asset": "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.31,
+   "cf_shares": 312.5109,
+   "cf_cost": 100.0,
+   "cf_entry": 0.32,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
+   "outcome": "Nuno Borges"
   }
  ],
  "total_pnl": -781.803599999999,
- "last_updated": "2026-10-31T15:50:36.555156+00:00"
+ "last_updated": "2026-10-31T16:05:27.542221+00:00"
 }
