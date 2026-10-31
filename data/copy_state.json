@@ -2,38 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9018.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793462368,
+  "jtwyslljy": 1793462718,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xa02525f757bd1623e3feb867c63e3673400b13b442e3502e04e38d31f619672d",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   307,
-   1783292237
-  ],
-  [
-   "0xc63b96e8c2c96f4a85c6af6ed030b98507deca5217e2498d54ab0f98431d8b99",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   305,
-   1783292240
-  ],
-  [
-   "0x9a9d530692a8884fd9692d1a430dab8bd3ba0ddbf423b89452b1f7f21a30fafd",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   303,
-   1783292243
-  ],
-  [
-   "0x6e0ca6ae5253c8b9ed94c546fced0c806921c85d9f6566b677b0f047dd322c16",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   305,
-   1783292248
-  ],
   [
    "0x2c9b1cf52ac631b6aa491141777675b95e3f9df01e617a2d58a678574fc18d22",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27977,34 @@
    "BUY",
    7045.88,
    1793462368
+  ],
+  [
+   "0xbfafeeba6e6eb79f2fa61a2a0383ad98746af5d500d2e00eeda85ba6199e825e",
+   "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "SELL",
+   46,
+   1793462479
+  ],
+  [
+   "0xa56d8751fedd526f9bf56834f2ed9e3ef460d97b473defab510e524551f885bd",
+   "37705399809322796527356392732905675814217972867116098745044566235417511329579",
+   "BUY",
+   5091.47,
+   1793462499
+  ],
+  [
+   "0x78c5b9015dba38f75662eacbd0b34aa4b53f8f4af3a969faa753fa045d790c9e",
+   "37705399809322796527356392732905675814217972867116098745044566235417511329579",
+   "BUY",
+   4651,
+   1793462698
+  ],
+  [
+   "0x9e6cd6f5ddf5489a53dbd0e593422d19ff217754a7519ce5c85880459b89731b",
+   "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "BUY",
+   8000,
+   1793462718
   ]
  ],
  "leader_pos": {
@@ -45295,10 +45295,22 @@
    "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
    "outcome": "Nuno Borges",
    "slug": "atp-borges-mannari-2026-10-31",
-   "shares": 7045.88,
-   "cost": 4227.528,
-   "max_shares": 7045.88,
-   "last_trade_ts": 1793462368
+   "shares": 14999.880000000001,
+   "cost": 6682.688,
+   "max_shares": 14999.880000000001,
+   "last_trade_ts": 1793462718
+  },
+  "jtwyslljy|37705399809322796527356392732905675814217972867116098745044566235417511329579": {
+   "leader": "jtwyslljy",
+   "asset": "37705399809322796527356392732905675814217972867116098745044566235417511329579",
+   "condition_id": "0x927971dca48bd2094c0c545c49d5c4c63950d0d120a4a2d646cb703d550745f1",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff",
+   "slug": "atp-lehecka-struff-2026-10-31",
+   "shares": 9742.470000000001,
+   "cost": 3553.7992,
+   "max_shares": 9742.470000000001,
+   "last_trade_ts": 1793462698
   }
  },
  "positions": [
@@ -76228,8 +76240,40 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
    "outcome": "Nuno Borges"
+  },
+  {
+   "at": "2026-10-31T16:10:32.431178+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T16:05:00+00:00",
+   "condition_id": "0x927971dca48bd2094c0c545c49d5c4c63950d0d120a4a2d646cb703d550745f1",
+   "asset": "37705399809322796527356392732905675814217972867116098745044566235417511329579",
+   "copy_delay_min": 5.6,
+   "cf_ask": 0.43,
+   "cf_shares": 232.5581,
+   "cf_cost": 100.0,
+   "cf_entry": 0.43,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Jan-Lennard Struff",
+   "outcome": "Jan-Lennard Struff"
+  },
+  {
+   "at": "2026-10-31T16:10:32.552000+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T15:25:00+00:00",
+   "condition_id": "0xdf2536133063b0baead4e1f5278393093a94fdaf097e7e3d0c8475c0be1d321b",
+   "asset": "4044287794946028473448566471265607108750056473962317964994672334125508458480",
+   "copy_delay_min": 5.2,
+   "cf_ask": 0.29,
+   "cf_shares": 344.8276,
+   "cf_cost": 100.0,
+   "cf_entry": 0.29,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
+   "outcome": "Nuno Borges"
   }
  ],
  "total_pnl": -781.803599999999,
- "last_updated": "2026-10-31T16:05:27.542221+00:00"
+ "last_updated": "2026-10-31T16:10:32.830181+00:00"
 }
