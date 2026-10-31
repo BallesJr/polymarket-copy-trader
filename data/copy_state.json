@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9118.196461900003,
+ "bankroll": 9018.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793455972,
+  "jtwyslljy": 1793457909,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x69ab324be729d6c61c499081fbb5c7a9b857f6f9851ddf9ae1e9c0b3024e73fc",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   276,
-   1783292213
-  ],
   [
    "0x00dc1e5fb0c48ce94e0fb43ccaf9307058e7e2610c513a2296cde56cf8f52838",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    4400,
    1793455972
+  ],
+  [
+   "0x3b3f4c352d563988235d00a91f99aab7deb120968faf016d8230c25d48f36d79",
+   "70643168695352331628859643545797103428052773564724041626328118889047522809081",
+   "BUY",
+   12396.89,
+   1793457909
   ]
  ],
  "leader_pos": {
@@ -45275,6 +45275,18 @@
    "cost": 3098.4159,
    "max_shares": 9994.89,
    "last_trade_ts": 1793455972
+  },
+  "jtwyslljy|70643168695352331628859643545797103428052773564724041626328118889047522809081": {
+   "leader": "jtwyslljy",
+   "asset": "70643168695352331628859643545797103428052773564724041626328118889047522809081",
+   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
+   "title": "Will Manchester City FC win on 2026-10-31?",
+   "outcome": "Yes",
+   "slug": "epl-mac-bri-2026-10-31",
+   "shares": 12396.89,
+   "cost": 6942.258400000001,
+   "max_shares": 12396.89,
+   "last_trade_ts": 1793457909
   }
  },
  "positions": [
@@ -45298,20 +45310,20 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
-   "condition_id": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
-   "title": "Will Chelsea FC win on 2026-10-31?",
-   "outcome": "No",
-   "slug": "epl-che-mun-2026-10-31",
-   "opened_at": "2026-10-31T11:45:32.284715+00:00",
-   "entry_price": 0.57,
-   "shares": 175.4386,
+   "asset": "70643168695352331628859643545797103428052773564724041626328118889047522809081",
+   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
+   "title": "Will Manchester City FC win on 2026-10-31?",
+   "outcome": "Yes",
+   "slug": "epl-mac-bri-2026-10-31",
+   "opened_at": "2026-10-31T14:50:31.884780+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
    "stake": 100.0,
-   "leader_vwap": 0.57,
-   "leader_cost": 5700.0,
-   "copy_delay_min": 3.9,
-   "best_ask": 0.57,
-   "ask_depth": 45486.42,
+   "leader_vwap": 0.56,
+   "leader_cost": 6942.26,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.58,
+   "ask_depth": 222721.65,
    "status": "open"
   }
  ],
@@ -58394,6 +58406,28 @@
    "ask_depth": 22806.37,
    "status": "lost",
    "closed_at": "2026-10-31T11:45:32.895459+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
+   "condition_id": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
+   "title": "Will Chelsea FC win on 2026-10-31?",
+   "outcome": "No",
+   "slug": "epl-che-mun-2026-10-31",
+   "opened_at": "2026-10-31T11:45:32.284715+00:00",
+   "entry_price": 0.57,
+   "shares": 175.4386,
+   "stake": 100.0,
+   "leader_vwap": 0.57,
+   "leader_cost": 5700.0,
+   "copy_delay_min": 3.9,
+   "best_ask": 0.57,
+   "ask_depth": 45486.42,
+   "status": "lost",
+   "closed_at": "2026-10-31T14:50:32.365380+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
@@ -76152,6 +76186,6 @@
    "outcome": "Daniil Medvedev"
   }
  ],
- "total_pnl": -681.803599999999,
- "last_updated": "2026-10-31T14:20:32.934922+00:00"
+ "total_pnl": -781.803599999999,
+ "last_updated": "2026-10-31T14:50:32.367502+00:00"
 }
