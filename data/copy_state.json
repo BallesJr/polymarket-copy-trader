@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9418.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793419450,
+  "jtwyslljy": 1793419962,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x36519d0294b8300b8967b694ec54f612cf6e0f35ed8b74a067861a5ae1f3dc1e",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   314,
-   1783292117
-  ],
   [
    "0x05f23ba5357d5b8088ac428b17ab63b489e72c872bdf8d65059da13dd6b5e152",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27998,13 @@
    "BUY",
    500,
    1793419450
+  ],
+  [
+   "0x341485dcda7a01ab7972ecbde5f57354a0890f0255388612751370be01adf35f",
+   "85921297981817702986653745699455190096018462238288914108740735739471619391902",
+   "BUY",
+   3000,
+   1793419962
   ]
  ],
  "leader_pos": {
@@ -45151,10 +45151,10 @@
    "title": "Lakers vs. Warriors",
    "outcome": "Lakers",
    "slug": "nba-lal-gsw-2026-10-30",
-   "shares": 3045.0,
-   "cost": 2466.4500000000003,
-   "max_shares": 3045.0,
-   "last_trade_ts": 1793413936
+   "shares": 6045.0,
+   "cost": 3516.4500000000003,
+   "max_shares": 6045.0,
+   "last_trade_ts": 1793419962
   },
   "jtwyslljy|85419537579233934735254497832735814229632979966165840913851771064462602278316": {
    "leader": "jtwyslljy",
@@ -75871,8 +75871,24 @@
    "leader": "jtwyslljy",
    "title": "Pan Pacific Open: Leylah Fernandez vs Kamilla Rakhimova",
    "outcome": "Kamilla Rakhimova"
+  },
+  {
+   "at": "2026-10-31T04:25:25.760763+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T02:00:00+00:00",
+   "condition_id": "0xed91f2fcaaaa61ab7f6f0dace4892b2724660998e64fdbe86f6b8c10c0bcd20d",
+   "asset": "85921297981817702986653745699455190096018462238288914108740735739471619391902",
+   "copy_delay_min": 12.7,
+   "cf_ask": 0.04,
+   "cf_shares": 2500.0,
+   "cf_cost": 100.0,
+   "cf_entry": 0.04,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lakers vs. Warriors",
+   "outcome": "Lakers"
   }
  ],
  "total_pnl": -581.803599999999,
- "last_updated": "2026-10-31T04:15:34.043992+00:00"
+ "last_updated": "2026-10-31T04:25:25.761639+00:00"
 }
