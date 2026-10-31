@@ -45349,26 +45349,7 @@
    "last_trade_ts": 1793469213
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "45562040058682188027121607007691459970586262720986622074840135686774235478250",
-   "condition_id": "0x89f55a4e1aeece4495ea1f6bf58a4edf789513ddbf8e74783f08d30159d7858a",
-   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-31?",
-   "outcome": "Yes",
-   "slug": "bun-bay-dor-2026-10-31",
-   "opened_at": "2026-10-31T16:55:26.793256+00:00",
-   "entry_price": 0.74,
-   "shares": 135.1351,
-   "stake": 100.0,
-   "leader_vwap": 0.74,
-   "leader_cost": 3700.0,
-   "copy_delay_min": 7.0,
-   "best_ask": 0.74,
-   "ask_depth": 46506.35,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58516,6 +58497,28 @@
    "closed_at": "2026-10-31T16:20:32.647344+00:00",
    "exit_price": 1.0,
    "pnl": 38.8889,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "45562040058682188027121607007691459970586262720986622074840135686774235478250",
+   "condition_id": "0x89f55a4e1aeece4495ea1f6bf58a4edf789513ddbf8e74783f08d30159d7858a",
+   "title": "Will FC Bayern M\u00fcnchen win on 2026-10-31?",
+   "outcome": "Yes",
+   "slug": "bun-bay-dor-2026-10-31",
+   "opened_at": "2026-10-31T16:55:26.793256+00:00",
+   "entry_price": 0.74,
+   "shares": 135.1351,
+   "stake": 100.0,
+   "leader_vwap": 0.74,
+   "leader_cost": 3700.0,
+   "copy_delay_min": 7.0,
+   "best_ask": 0.74,
+   "ask_depth": 46506.35,
+   "status": "lost",
+   "closed_at": "2026-10-31T19:55:25.480363+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -76400,6 +76403,6 @@
    "outcome": "No"
   }
  ],
- "total_pnl": -798.087099999999,
- "last_updated": "2026-10-31T19:35:27.208945+00:00"
+ "total_pnl": -898.087099999999,
+ "last_updated": "2026-10-31T19:55:25.482198+00:00"
 }
