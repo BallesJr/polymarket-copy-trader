@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9118.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793454015,
+  "jtwyslljy": 1793455221,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x09598e3164b3a6ed7abef8db4cde1ccc4478cdaa955cfafbda6865c86150b241",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   309,
-   1783292197
-  ],
-  [
-   "0x248cb3031fb2a11f085e106d5f7d1507eba545adf1f98a2e309ae11e81c1c494",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   306,
-   1783292200
-  ],
   [
    "0x68b20052eea32c5b0ce75293cca6ebba4337982a2da9f07f0130a8711fa85f6e",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    3000,
    1793454015
+  ],
+  [
+   "0xbadc0db3f311b401a8a74de77edb58a2a3c9d07ce79f810adb3ee8f0fb867132",
+   "109029684102721244882597673792858670530079106647792804765344403768726780562671",
+   "BUY",
+   9400,
+   1793455194
+  ],
+  [
+   "0x53f8f35f09ee4d77ac9f136bc9db8ba0945470ef3c77792694ae8fff60d9afe0",
+   "109029684102721244882597673792858670530079106647792804765344403768726780562671",
+   "BUY",
+   1500,
+   1793455221
   ]
  ],
  "leader_pos": {
@@ -45251,6 +45251,18 @@
    "cost": 9000.0,
    "max_shares": 10000.0,
    "last_trade_ts": 1793447482
+  },
+  "jtwyslljy|109029684102721244882597673792858670530079106647792804765344403768726780562671": {
+   "leader": "jtwyslljy",
+   "asset": "109029684102721244882597673792858670530079106647792804765344403768726780562671",
+   "condition_id": "0xc0a25d72caf5ddb235764fd78cfd60641ef4ea086d09fe4ddd2139abc4cb09d7",
+   "title": "Swiss Indoors Basel: Valentin Vacherot vs Taylor Fritz",
+   "outcome": "Valentin Vacherot",
+   "slug": "atp-vachero-fritz-2026-10-31",
+   "shares": 10900.0,
+   "cost": 3052.0000000000005,
+   "max_shares": 10900.0,
+   "last_trade_ts": 1793455221
   }
  },
  "positions": [
@@ -76094,8 +76106,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Kaitlin Quevedo vs Lilli Tagger",
    "outcome": "Lilli Tagger"
+  },
+  {
+   "at": "2026-10-31T14:10:32.429413+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T14:10:00+00:00",
+   "condition_id": "0xc0a25d72caf5ddb235764fd78cfd60641ef4ea086d09fe4ddd2139abc4cb09d7",
+   "asset": "109029684102721244882597673792858670530079106647792804765344403768726780562671",
+   "copy_delay_min": 10.2,
+   "cf_ask": 0.27,
+   "cf_shares": 370.3704,
+   "cf_cost": 100.0,
+   "cf_entry": 0.27,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Valentin Vacherot vs Taylor Fritz",
+   "outcome": "Valentin Vacherot"
   }
  ],
  "total_pnl": -681.803599999999,
- "last_updated": "2026-10-31T13:45:31.814505+00:00"
+ "last_updated": "2026-10-31T14:10:32.737101+00:00"
 }
