@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9018.196461900003,
+ "bankroll": 9063.024049900003,
  "last_seen": {
-  "jtwyslljy": 1793462718,
+  "jtwyslljy": 1793462938,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0x2c9b1cf52ac631b6aa491141777675b95e3f9df01e617a2d58a678574fc18d22",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   314,
-   1783292251
-  ],
-  [
-   "0x63c0b97c5193f1303351e577c76a9ef06fcd0406bcecb8724fecb36f34e77bca",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   304,
-   1783292254
-  ],
   [
    "0xb7db658e785751bc54d00bcd6bd4f0c3cfa99b66444020a8e1b9685f3a2cd3fa",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    8000,
    1793462718
+  ],
+  [
+   "0xe38668ec3b6c9110ef7c6c007802226af77f2eca045f27695845c05f7ae662a9",
+   "70643168695352331628859643545797103428052773564724041626328118889047522809081",
+   "SELL",
+   11999.94,
+   1793462925
+  ],
+  [
+   "0xaef89525e881b695f4a43c87f94ffcd5c58a150ebe94f5d6705a72c5e9eff47d",
+   "46103138124807222988368747699018366887325664789505067847216734645265540633572",
+   "BUY",
+   8374.15,
+   1793462938
   ]
  ],
  "leader_pos": {
@@ -45283,10 +45283,10 @@
    "title": "Will Manchester City FC win on 2026-10-31?",
    "outcome": "Yes",
    "slug": "epl-mac-bri-2026-10-31",
-   "shares": 11924.970000000001,
-   "cost": 7538.2040000000015,
+   "shares": -74.96999999999935,
+   "cost": 4225.956700519306,
    "max_shares": 21924.89,
-   "last_trade_ts": 1793461624
+   "last_trade_ts": 1793462925
   },
   "jtwyslljy|4044287794946028473448566471265607108750056473962317964994672334125508458480": {
    "leader": "jtwyslljy",
@@ -45311,6 +45311,18 @@
    "cost": 3553.7992,
    "max_shares": 9742.470000000001,
    "last_trade_ts": 1793462698
+  },
+  "jtwyslljy|46103138124807222988368747699018366887325664789505067847216734645265540633572": {
+   "leader": "jtwyslljy",
+   "asset": "46103138124807222988368747699018366887325664789505067847216734645265540633572",
+   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
+   "title": "Will Manchester City FC win on 2026-10-31?",
+   "outcome": "No",
+   "slug": "epl-mac-bri-2026-10-31",
+   "shares": 8374.15,
+   "cost": 6029.388,
+   "max_shares": 8374.15,
+   "last_trade_ts": 1793462938
   }
  },
  "positions": [
@@ -45330,24 +45342,6 @@
    "copy_delay_min": 9.7,
    "best_ask": 0.72,
    "ask_depth": 6469.97,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "70643168695352331628859643545797103428052773564724041626328118889047522809081",
-   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
-   "title": "Will Manchester City FC win on 2026-10-31?",
-   "outcome": "Yes",
-   "slug": "epl-mac-bri-2026-10-31",
-   "opened_at": "2026-10-31T14:50:31.884780+00:00",
-   "entry_price": 0.58,
-   "shares": 172.4138,
-   "stake": 100.0,
-   "leader_vwap": 0.56,
-   "leader_cost": 6942.26,
-   "copy_delay_min": 5.4,
-   "best_ask": 0.58,
-   "ask_depth": 222721.65,
    "status": "open"
   }
  ],
@@ -58455,6 +58449,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "70643168695352331628859643545797103428052773564724041626328118889047522809081",
+   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
+   "title": "Will Manchester City FC win on 2026-10-31?",
+   "outcome": "Yes",
+   "slug": "epl-mac-bri-2026-10-31",
+   "opened_at": "2026-10-31T14:50:31.884780+00:00",
+   "entry_price": 0.58,
+   "shares": 172.4138,
+   "stake": 100.0,
+   "leader_vwap": 0.56,
+   "leader_cost": 6942.26,
+   "copy_delay_min": 5.4,
+   "best_ask": 0.58,
+   "ask_depth": 222721.65,
+   "status": "closed",
+   "closed_at": "2026-10-31T16:15:34.538690+00:00",
+   "exit_price": 0.26,
+   "pnl": -55.1724,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -76272,8 +76288,24 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters, Qualification: Nuno Borges vs Adrian Mannarino",
    "outcome": "Nuno Borges"
+  },
+  {
+   "at": "2026-10-31T16:15:34.735417+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T15:00:00+00:00",
+   "condition_id": "0xca1390ebe138f4c2d052b570ec3167d1592ea0e31e0ccaa425385f24a99196b3",
+   "asset": "46103138124807222988368747699018366887325664789505067847216734645265540633572",
+   "copy_delay_min": 6.6,
+   "cf_ask": 0.74,
+   "cf_shares": 135.1351,
+   "cf_cost": 100.0,
+   "cf_entry": 0.74,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Will Manchester City FC win on 2026-10-31?",
+   "outcome": "No"
   }
  ],
- "total_pnl": -781.803599999999,
- "last_updated": "2026-10-31T16:10:32.830181+00:00"
+ "total_pnl": -836.9759999999991,
+ "last_updated": "2026-10-31T16:15:34.922019+00:00"
 }
