@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9418.196461900003,
  "last_seen": {
-  "jtwyslljy": 1793413708,
+  "jtwyslljy": 1793413972,
   "0x53757615de": 1792870439
  },
  "seen_keys": [
-  [
-   "0xc7a7abe0692d03f0ebdeeb72dffdc18196ac5b64895f403624cd57821b264688",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   295,
-   1783292102
-  ],
-  [
-   "0x980df79dc5f9de65507fb54c790469f8116bf618ccc6fc0ae41eb104c9458ccc",
-   "52829060093743254042234603512332936547129220805985508234067296771074898627599",
-   "BUY",
-   346,
-   1783292105
-  ],
   [
    "0x6a830ef9c8405ce4531a6e20e22a9a75f3927b528bc62b3a15f798c585182e50",
    "52829060093743254042234603512332936547129220805985508234067296771074898627599",
@@ -28005,6 +27991,20 @@
    "BUY",
    2000,
    1793413708
+  ],
+  [
+   "0x1546f04ead47c7c53dba9ed4dd13f27b6a3b930c147f6e01f0da1924c36cd8f1",
+   "85921297981817702986653745699455190096018462238288914108740735739471619391902",
+   "BUY",
+   3045,
+   1793413936
+  ],
+  [
+   "0xd42fededd56932c26e849aff1efab893e4df5ddbf407537471167a7ca7105cde",
+   "12815722275323975189503676548002595839458576656110031404623264114557933347009",
+   "BUY",
+   1000,
+   1793413972
   ]
  ],
  "leader_pos": {
@@ -45139,10 +45139,22 @@
    "title": "Rockets vs. Mavericks",
    "outcome": "Mavericks",
    "slug": "nba-hou-dal-2026-10-30",
-   "shares": 2000.0,
-   "cost": 1760.0,
-   "max_shares": 2000.0,
-   "last_trade_ts": 1793413708
+   "shares": 3000.0,
+   "cost": 2353.5291,
+   "max_shares": 3000.0,
+   "last_trade_ts": 1793413972
+  },
+  "jtwyslljy|85921297981817702986653745699455190096018462238288914108740735739471619391902": {
+   "leader": "jtwyslljy",
+   "asset": "85921297981817702986653745699455190096018462238288914108740735739471619391902",
+   "condition_id": "0xed91f2fcaaaa61ab7f6f0dace4892b2724660998e64fdbe86f6b8c10c0bcd20d",
+   "title": "Lakers vs. Warriors",
+   "outcome": "Lakers",
+   "slug": "nba-lal-gsw-2026-10-30",
+   "shares": 3045.0,
+   "cost": 2466.4500000000003,
+   "max_shares": 3045.0,
+   "last_trade_ts": 1793413936
   }
  },
  "positions": [],
@@ -75799,8 +75811,40 @@
    "leader": "jtwyslljy",
    "title": "Rockets vs. Mavericks",
    "outcome": "Mavericks"
+  },
+  {
+   "at": "2026-10-31T02:40:31.780428+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T00:00:00+00:00",
+   "condition_id": "0xe1ec65a06032e9c2b0955d3e623dba44279ccb5f82079a36ad93654a92b28daa",
+   "asset": "12815722275323975189503676548002595839458576656110031404623264114557933347009",
+   "copy_delay_min": 7.6,
+   "cf_ask": 0.95,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Rockets vs. Mavericks",
+   "outcome": "Mavericks"
+  },
+  {
+   "at": "2026-10-31T02:40:32.001484+00:00",
+   "reason": "in_play",
+   "game_start": "2026-10-31T02:00:00+00:00",
+   "condition_id": "0xed91f2fcaaaa61ab7f6f0dace4892b2724660998e64fdbe86f6b8c10c0bcd20d",
+   "asset": "85921297981817702986653745699455190096018462238288914108740735739471619391902",
+   "copy_delay_min": 8.2,
+   "cf_ask": 0.88,
+   "cf_shares": 113.6364,
+   "cf_cost": 100.0,
+   "cf_entry": 0.88,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Lakers vs. Warriors",
+   "outcome": "Lakers"
   }
  ],
  "total_pnl": -581.803599999999,
- "last_updated": "2026-10-31T02:30:47.469121+00:00"
+ "last_updated": "2026-10-31T02:40:32.002251+00:00"
 }
