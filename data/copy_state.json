@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8827.229409900003,
  "last_seen": {
-  "jtwyslljy": 1793529573,
+  "jtwyslljy": 1793529754,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xa165fd62f6794a5d84dc3ef9363acddcab2efd92c6af071085f2a18e0d593eb2",
-   "81863514924581626881498280694949562980370687822125904618870423302869920064489",
-   "BUY",
-   5565.22,
-   1783345490
-  ],
   [
    "0x783e63ea6c8c45cf8c6e370f15fde7b28b71fbb1ac38df3ea3830fd8b6afe21d",
    "81863514924581626881498280694949562980370687822125904618870423302869920064489",
@@ -28005,6 +27998,13 @@
    "BUY",
    9046.44,
    1793529573
+  ],
+  [
+   "0x63d55e399434581d9ff109184ac854c08e09bab98742bad99b5e7e73263755b9",
+   "21959830497809485944334977358669130062319795504817158952553573627659682689075",
+   "BUY",
+   54,
+   1793529754
   ]
  ],
  "leader_pos": {
@@ -45475,10 +45475,10 @@
    "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
    "outcome": "Harriet Dart",
    "slug": "wta-tagger-dart-2026-11-01",
-   "shares": 9046.44,
-   "cost": 5831.659699900632,
-   "max_shares": 9046.44,
-   "last_trade_ts": 1793529573
+   "shares": 9100.44,
+   "cost": 5864.599699900632,
+   "max_shares": 9100.44,
+   "last_trade_ts": 1793529754
   }
  },
  "positions": [
@@ -76756,8 +76756,24 @@
    "leader": "jtwyslljy",
    "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
    "outcome": "Harriet Dart"
+  },
+  {
+   "at": "2026-11-01T10:50:33.430010+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T08:40:00+00:00",
+   "condition_id": "0xf1a11f19d5177be0e94ef6e63fd2fc96b45ccdd827fd41f23da3c1c99f52b8b8",
+   "asset": "21959830497809485944334977358669130062319795504817158952553573627659682689075",
+   "copy_delay_min": 8.0,
+   "cf_ask": 0.71,
+   "cf_shares": 140.8451,
+   "cf_cost": 100.0,
+   "cf_entry": 0.71,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
+   "outcome": "Harriet Dart"
   }
  ],
  "total_pnl": -1072.7705999999991,
- "last_updated": "2026-11-01T10:45:31.406037+00:00"
+ "last_updated": "2026-11-01T10:50:33.698775+00:00"
 }
