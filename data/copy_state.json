@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8905.800809900004,
  "last_seen": {
-  "jtwyslljy": 1793547952,
+  "jtwyslljy": 1793548921,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xc2bbe197e95fbe5db3bd2bdd6612f1fb24d275269728cd52ad86bebf7f5744f5",
-   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
-   "BUY",
-   34000,
-   1783352051
-  ],
   [
    "0xd36307a35e4e39446047d850d8310f4245ce4ebf903e80c22fdb4aa79d125ecf",
    "108427942320631849914145123235056068576324740783556588710634234679971098502341",
@@ -28005,6 +27998,13 @@
    "BUY",
    6000,
    1793547952
+  ],
+  [
+   "0x752550ff8cf18f20547fe278477a72834ac965838d24bb502cfb4a1eff265b76",
+   "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "BUY",
+   1500,
+   1793548921
   ]
  ],
  "leader_pos": {
@@ -45499,10 +45499,10 @@
    "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Jiri Lehecka",
    "slug": "atp-lehecka-vachero-2026-11-01",
-   "shares": 6000.15,
-   "cost": 3750.093,
-   "max_shares": 6000.15,
-   "last_trade_ts": 1793544193
+   "shares": 7500.15,
+   "cost": 4770.093,
+   "max_shares": 7500.15,
+   "last_trade_ts": 1793548921
   },
   "jtwyslljy|21929609586675447635543518173635572267199885529188781972167891802928119718524": {
    "leader": "jtwyslljy",
@@ -76894,8 +76894,24 @@
    "leader": "jtwyslljy",
    "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Jiri Lehecka"
+  },
+  {
+   "at": "2026-11-01T16:10:34.411103+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T14:30:00+00:00",
+   "condition_id": "0xb254553c6bbabe6046d5f2448ae614dcbb60334a74b2cb3dae14de290345b166",
+   "asset": "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "copy_delay_min": 8.5,
+   "cf_ask": 0.26,
+   "cf_shares": 384.6154,
+   "cf_cost": 100.0,
+   "cf_entry": 0.26,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Jiri Lehecka"
   }
  ],
  "total_pnl": -994.1991999999991,
- "last_updated": "2026-11-01T15:50:35.898466+00:00"
+ "last_updated": "2026-11-01T16:10:34.781394+00:00"
 }
