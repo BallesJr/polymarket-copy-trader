@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9101.912949900003,
  "last_seen": {
-  "jtwyslljy": 1793510743,
+  "jtwyslljy": 1793510769,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xd0eb9c02c1e9b22afab8014855ecccca31300b3f1cb14b41675b3ef861b3fb8e",
-   "2291750774192576197344440913463596564881206145267152350886975296763990714853",
-   "BUY",
-   32777.13,
-   1783302388
-  ],
   [
    "0x1338b85cfede050fc9017124c73fc13ef902ef3faeb1df150b3b0f8cf5212b25",
    "54741386735818005359869467082735102788384221777750947775402548962451819470129",
@@ -28005,6 +27998,13 @@
    "BUY",
    999.1,
    1793510743
+  ],
+  [
+   "0x2a7a60bddb44e3e1cd4220430bb9536232c980d0081a62393239b0a703d24b98",
+   "43905432552353829923193564899142498835384940871174233075076026026347653229523",
+   "BUY",
+   9526.47,
+   1793510769
   ]
  ],
  "leader_pos": {
@@ -45427,10 +45427,10 @@
    "title": "Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina",
    "outcome": "Himeno Sakatsume",
    "slug": "wta-sakatsu-pridank-2026-10-31",
-   "shares": 999.1,
-   "cost": 616.4182999814201,
-   "max_shares": 999.1,
-   "last_trade_ts": 1793510743
+   "shares": 10525.57,
+   "cost": 6713.35909998142,
+   "max_shares": 10525.57,
+   "last_trade_ts": 1793510769
   }
  },
  "positions": [],
@@ -76613,8 +76613,24 @@
    "leader": "jtwyslljy",
    "title": "Pan Pacific Open: Leylah Fernandez vs Diana Shnaider",
    "outcome": "Leylah Fernandez"
+  },
+  {
+   "at": "2026-11-01T05:35:27.092432+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T03:35:00+00:00",
+   "condition_id": "0x040026246c535511f57924007a507a57739c7f0cc907e601df9115baa46c8093",
+   "asset": "43905432552353829923193564899142498835384940871174233075076026026347653229523",
+   "copy_delay_min": 9.3,
+   "cf_ask": 0.67,
+   "cf_shares": 149.2537,
+   "cf_cost": 100.0,
+   "cf_entry": 0.67,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina",
+   "outcome": "Himeno Sakatsume"
   }
  ],
  "total_pnl": -898.087099999999,
- "last_updated": "2026-11-01T05:30:42.798563+00:00"
+ "last_updated": "2026-11-01T05:35:27.093244+00:00"
 }
