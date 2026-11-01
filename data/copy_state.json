@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9005.800809900004,
  "last_seen": {
-  "jtwyslljy": 1793542164,
+  "jtwyslljy": 1793544193,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xa662d12e2ab89f9896bcb628a4249227d7ee1fd2088d7a25ee78b02d2f23961b",
-   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
-   "BUY",
-   35000,
-   1783351517
-  ],
   [
    "0x1551c5abd6428b58df977fcc5ce59e8b4db3f1bcf2c46bfe281f76feb14f6e29",
    "108427942320631849914145123235056068576324740783556588710634234679971098502341",
@@ -28005,6 +27998,13 @@
    "BUY",
    4500,
    1793542164
+  ],
+  [
+   "0x66b4b6c8b6b12c223f3ea4d7ac247d30a7e2c870b2f469d99480cb2a32811259",
+   "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "BUY",
+   1450,
+   1793544193
   ]
  ],
  "leader_pos": {
@@ -45499,10 +45499,10 @@
    "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
    "outcome": "Jiri Lehecka",
    "slug": "atp-lehecka-vachero-2026-11-01",
-   "shares": 4550.15,
-   "cost": 2851.093,
-   "max_shares": 4550.15,
-   "last_trade_ts": 1793542119
+   "shares": 6000.15,
+   "cost": 3750.093,
+   "max_shares": 6000.15,
+   "last_trade_ts": 1793544193
   }
  },
  "positions": [],
@@ -76847,8 +76847,24 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters, Qualification: Adolfo Vallejo vs Lorenzo Sonego",
    "outcome": "Adolfo Vallejo"
+  },
+  {
+   "at": "2026-11-01T14:45:34.425747+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T14:30:00+00:00",
+   "condition_id": "0xb254553c6bbabe6046d5f2448ae614dcbb60334a74b2cb3dae14de290345b166",
+   "asset": "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "copy_delay_min": 2.3,
+   "cf_ask": 0.62,
+   "cf_shares": 161.2903,
+   "cf_cost": 100.0,
+   "cf_entry": 0.62,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Jiri Lehecka"
   }
  ],
  "total_pnl": -994.1991999999991,
- "last_updated": "2026-11-01T14:20:34.910826+00:00"
+ "last_updated": "2026-11-01T14:45:34.427121+00:00"
 }
