@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8905.800809900004,
+ "bankroll": 9123.192109900003,
  "last_seen": {
-  "jtwyslljy": 1793558083,
+  "jtwyslljy": 1793558221,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xc52ba78f26f88ecfe9ebedc1c4834e90e516ebd98004fcbb4e59a3c9344e391f",
-   "72273965743195513601095648483797897394949144487270051776341140940023990397513",
-   "BUY",
-   142,
-   1783426898
-  ],
-  [
-   "0xd4fdd168bb752b5b9dfc2430968d64b5fab34fea645b0b5eaffe4b63a1dc09bc",
-   "54551929971639567652760292845050128526612133168530742431256378445803119599070",
-   "BUY",
-   52500,
-   1783437632
-  ],
   [
    "0x33f3a4b4b307b7aad03b367d0b0f22c37b02fe973f706171584f9692c1754999",
    "32416183037253537110250743714067621855761298044523860318616963052023268394995",
@@ -28005,6 +27991,20 @@
    "BUY",
    25760,
    1793558083
+  ],
+  [
+   "0xf30fc106236691e8f035503002e866a81a5915ee3d04e5e649cf62f001c5b6a6",
+   "20148701274307262079511920329845847090507417100785010730185222912814646865955",
+   "SELL",
+   25760,
+   1793558152
+  ],
+  [
+   "0xa0cdafebd5845d4d9585d1279cf758b18f076a9f2bc17cf1fb324939fb76c307",
+   "87881068487186518530196839128470034973648781402245794625441156242313277222362",
+   "BUY",
+   25000,
+   1793558221
   ]
  ],
  "leader_pos": {
@@ -45523,32 +45523,25 @@
    "title": "Ravens vs. Bills",
    "outcome": "Ravens",
    "slug": "nfl-bal-buf-2026-11-01",
-   "shares": 25760.0,
-   "cost": 2833.6,
+   "shares": 0.0,
+   "cost": -1637.0068999199998,
    "max_shares": 25760.0,
-   "last_trade_ts": 1793558083
+   "last_trade_ts": 1793558152
+  },
+  "jtwyslljy|87881068487186518530196839128470034973648781402245794625441156242313277222362": {
+   "leader": "jtwyslljy",
+   "asset": "87881068487186518530196839128470034973648781402245794625441156242313277222362",
+   "condition_id": "0x30f229859063d63de00bdc5e4eec148d74556c8e748c4073fbdf7d9c4e43a6e5",
+   "title": "Cardinals vs. Cowboys",
+   "outcome": "Cardinals",
+   "slug": "nfl-ari-dal-2026-11-01",
+   "shares": 25000.0,
+   "cost": 3750.0,
+   "max_shares": 25000.0,
+   "last_trade_ts": 1793558221
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "21929609586675447635543518173635572267199885529188781972167891802928119718524",
-   "condition_id": "0x9ac8d9b54d33a605d98a2dcfb3273507f38ec9f5ad7ca7baa69a2ea11f9f1a8a",
-   "title": "Liverpool FC vs. Arsenal FC: O/U 2.5",
-   "outcome": "Under",
-   "slug": "epl-liv-ars-2026-11-01-more-markets",
-   "opened_at": "2026-11-01T15:50:35.708028+00:00",
-   "entry_price": 0.46,
-   "shares": 217.3913,
-   "stake": 100.0,
-   "leader_vwap": 0.46,
-   "leader_cost": 2760.0,
-   "copy_delay_min": 4.7,
-   "best_ask": 0.46,
-   "ask_depth": 306867.47,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58784,6 +58777,28 @@
    "closed_at": "2026-11-01T14:20:34.908648+00:00",
    "exit_price": 1.0,
    "pnl": 78.5714,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "21929609586675447635543518173635572267199885529188781972167891802928119718524",
+   "condition_id": "0x9ac8d9b54d33a605d98a2dcfb3273507f38ec9f5ad7ca7baa69a2ea11f9f1a8a",
+   "title": "Liverpool FC vs. Arsenal FC: O/U 2.5",
+   "outcome": "Under",
+   "slug": "epl-liv-ars-2026-11-01-more-markets",
+   "opened_at": "2026-11-01T15:50:35.708028+00:00",
+   "entry_price": 0.46,
+   "shares": 217.3913,
+   "stake": 100.0,
+   "leader_vwap": 0.46,
+   "leader_cost": 2760.0,
+   "copy_delay_min": 4.7,
+   "best_ask": 0.46,
+   "ask_depth": 306867.47,
+   "status": "won",
+   "closed_at": "2026-11-01T18:45:35.695738+00:00",
+   "exit_price": 1.0,
+   "pnl": 117.3913,
    "close_reason": "resolved"
   }
  ],
@@ -76938,8 +76953,24 @@
    "leader": "jtwyslljy",
    "title": "Ravens vs. Bills",
    "outcome": "Ravens"
+  },
+  {
+   "at": "2026-11-01T18:45:35.303536+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T18:00:00+00:00",
+   "condition_id": "0x30f229859063d63de00bdc5e4eec148d74556c8e748c4073fbdf7d9c4e43a6e5",
+   "asset": "87881068487186518530196839128470034973648781402245794625441156242313277222362",
+   "copy_delay_min": 8.6,
+   "cf_ask": 0.19,
+   "cf_shares": 526.3158,
+   "cf_cost": 100.0,
+   "cf_entry": 0.19,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Cardinals vs. Cowboys",
+   "outcome": "Cardinals"
   }
  ],
- "total_pnl": -994.1991999999991,
- "last_updated": "2026-11-01T18:40:32.684326+00:00"
+ "total_pnl": -876.8078999999991,
+ "last_updated": "2026-11-01T18:45:35.698111+00:00"
 }
