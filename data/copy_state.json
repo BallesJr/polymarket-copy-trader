@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8901.912949900003,
+ "bankroll": 8801.912949900003,
  "last_seen": {
-  "jtwyslljy": 1793529013,
+  "jtwyslljy": 1793529264,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xce4ebce96b75b9ef28fd0bd59ac593fec539a534e6913098b136fe66220ac2a1",
-   "81863514924581626881498280694949562980370687822125904618870423302869920064489",
-   "BUY",
-   27000,
-   1783345310
-  ],
-  [
-   "0xeb5a047fabf7c3b7519c017caea85d96a372d41fd8ca3b809a0e4e662e194233",
-   "81863514924581626881498280694949562980370687822125904618870423302869920064489",
-   "BUY",
-   40500,
-   1783345343
-  ],
   [
    "0xa9d5f3820cce66f779d4f2a4da0fb30472d1c482a486d1320d6ecf1c5dd62dc5",
    "81863514924581626881498280694949562980370687822125904618870423302869920064489",
@@ -28005,6 +27991,20 @@
    "SELL",
    1000,
    1793529013
+  ],
+  [
+   "0x833cc6ef6004bb8ecf586fc9459e0dbfdbf027b6b3c83044548c8c410f74311b",
+   "24567809770248307142390745203793185461011215963466258408326764079809082996458",
+   "BUY",
+   12300,
+   1793529094
+  ],
+  [
+   "0xe1a9318a6343c935a38191b1147ba821e024ffc35f81bd4b10500cb2e96c8cd3",
+   "5868922368483377766034990236506277773601359864979626750813743297585728901121",
+   "SELL",
+   1500,
+   1793529264
   ]
  ],
  "leader_pos": {
@@ -45451,10 +45451,22 @@
    "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
    "outcome": "Lilli Tagger",
    "slug": "wta-tagger-dart-2026-11-01",
-   "shares": 14263.23,
-   "cost": 9825.830099999997,
+   "shares": 12763.23,
+   "cost": 8865.830099999997,
    "max_shares": 16253.75,
-   "last_trade_ts": 1793529013
+   "last_trade_ts": 1793529264
+  },
+  "jtwyslljy|24567809770248307142390745203793185461011215963466258408326764079809082996458": {
+   "leader": "jtwyslljy",
+   "asset": "24567809770248307142390745203793185461011215963466258408326764079809082996458",
+   "condition_id": "0x14833cab92ba986cb78635684a7a5be0f9e180cde4d5cf497b450e414842ee7a",
+   "title": "Rolex Paris Masters, Qualification: Benjamin Bonzi vs Yannick Hanfmann",
+   "outcome": "Benjamin Bonzi",
+   "slug": "atp-bonzi-hanfman-2026-11-01",
+   "shares": 12300.0,
+   "cost": 6877.79609958,
+   "max_shares": 12300.0,
+   "last_trade_ts": 1793529094
   }
  },
  "positions": [
@@ -45474,6 +45486,24 @@
    "copy_delay_min": 9.5,
    "best_ask": 0.79,
    "ask_depth": 4048.63,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24567809770248307142390745203793185461011215963466258408326764079809082996458",
+   "condition_id": "0x14833cab92ba986cb78635684a7a5be0f9e180cde4d5cf497b450e414842ee7a",
+   "title": "Rolex Paris Masters, Qualification: Benjamin Bonzi vs Yannick Hanfmann",
+   "outcome": "Benjamin Bonzi",
+   "slug": "atp-bonzi-hanfman-2026-11-01",
+   "opened_at": "2026-11-01T10:40:34.846362+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.5592,
+   "leader_cost": 6877.8,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.56,
+   "ask_depth": 6966.12,
    "status": "open"
   }
  ],
@@ -76697,5 +76727,5 @@
   }
  ],
  "total_pnl": -998.087099999999,
- "last_updated": "2026-11-01T10:35:27.601499+00:00"
+ "last_updated": "2026-11-01T10:40:35.192622+00:00"
 }
