@@ -1,25 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8801.912949900003,
+ "bankroll": 8827.229409900003,
  "last_seen": {
-  "jtwyslljy": 1793529264,
+  "jtwyslljy": 1793529573,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xa9d5f3820cce66f779d4f2a4da0fb30472d1c482a486d1320d6ecf1c5dd62dc5",
-   "81863514924581626881498280694949562980370687822125904618870423302869920064489",
-   "BUY",
-   40500,
-   1783345360
-  ],
-  [
-   "0xca38cc7365c5b53fe90a113b1d52f32acaf8d5eb44ea1c8834dbf02ed4ef2c97",
-   "81863514924581626881498280694949562980370687822125904618870423302869920064489",
-   "BUY",
-   13500,
-   1783345418
-  ],
   [
    "0xa165fd62f6794a5d84dc3ef9363acddcab2efd92c6af071085f2a18e0d593eb2",
    "81863514924581626881498280694949562980370687822125904618870423302869920064489",
@@ -28005,6 +27991,20 @@
    "SELL",
    1500,
    1793529264
+  ],
+  [
+   "0x572df7cb1d434e0df0aa03e5c6a01111ac06d9a3ecfbafc0b76952b87c720d72",
+   "5868922368483377766034990236506277773601359864979626750813743297585728901121",
+   "SELL",
+   13499.63,
+   1793529541
+  ],
+  [
+   "0x5c1964ed22c3e53d115c826f52e9146110aa8b3f9bbba2ab70c749d94723cd38",
+   "21959830497809485944334977358669130062319795504817158952553573627659682689075",
+   "BUY",
+   9046.44,
+   1793529573
   ]
  ],
  "leader_pos": {
@@ -45451,10 +45451,10 @@
    "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
    "outcome": "Lilli Tagger",
    "slug": "wta-tagger-dart-2026-11-01",
-   "shares": 12763.23,
-   "cost": 8865.830099999997,
+   "shares": -736.3999999999996,
+   "cost": 4059.2386002721187,
    "max_shares": 16253.75,
-   "last_trade_ts": 1793529264
+   "last_trade_ts": 1793529541
   },
   "jtwyslljy|24567809770248307142390745203793185461011215963466258408326764079809082996458": {
    "leader": "jtwyslljy",
@@ -45467,27 +45467,21 @@
    "cost": 6877.79609958,
    "max_shares": 12300.0,
    "last_trade_ts": 1793529094
+  },
+  "jtwyslljy|21959830497809485944334977358669130062319795504817158952553573627659682689075": {
+   "leader": "jtwyslljy",
+   "asset": "21959830497809485944334977358669130062319795504817158952553573627659682689075",
+   "condition_id": "0xf1a11f19d5177be0e94ef6e63fd2fc96b45ccdd827fd41f23da3c1c99f52b8b8",
+   "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
+   "outcome": "Harriet Dart",
+   "slug": "wta-tagger-dart-2026-11-01",
+   "shares": 9046.44,
+   "cost": 5831.659699900632,
+   "max_shares": 9046.44,
+   "last_trade_ts": 1793529573
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "5868922368483377766034990236506277773601359864979626750813743297585728901121",
-   "condition_id": "0xf1a11f19d5177be0e94ef6e63fd2fc96b45ccdd827fd41f23da3c1c99f52b8b8",
-   "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
-   "outcome": "Lilli Tagger",
-   "slug": "wta-tagger-dart-2026-11-01",
-   "opened_at": "2026-11-01T07:55:25.724850+00:00",
-   "entry_price": 0.79,
-   "shares": 126.5823,
-   "stake": 100.0,
-   "leader_vwap": 0.79,
-   "leader_cost": 3950.0,
-   "copy_delay_min": 9.5,
-   "best_ask": 0.79,
-   "ask_depth": 4048.63,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "24567809770248307142390745203793185461011215963466258408326764079809082996458",
@@ -58699,6 +58693,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "5868922368483377766034990236506277773601359864979626750813743297585728901121",
+   "condition_id": "0xf1a11f19d5177be0e94ef6e63fd2fc96b45ccdd827fd41f23da3c1c99f52b8b8",
+   "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
+   "outcome": "Lilli Tagger",
+   "slug": "wta-tagger-dart-2026-11-01",
+   "opened_at": "2026-11-01T07:55:25.724850+00:00",
+   "entry_price": 0.79,
+   "shares": 126.5823,
+   "stake": 100.0,
+   "leader_vwap": 0.79,
+   "leader_cost": 3950.0,
+   "copy_delay_min": 9.5,
+   "best_ask": 0.79,
+   "ask_depth": 4048.63,
+   "status": "closed",
+   "closed_at": "2026-11-01T10:45:31.011078+00:00",
+   "exit_price": 0.2,
+   "pnl": -74.6835,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -76724,8 +76740,24 @@
    "leader": "jtwyslljy",
    "title": "Prudential Hong Kong Tennis Open, Qualification: Himeno Sakatsume vs Elena Pridankina",
    "outcome": "Himeno Sakatsume"
+  },
+  {
+   "at": "2026-11-01T10:45:31.169099+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T08:40:00+00:00",
+   "condition_id": "0xf1a11f19d5177be0e94ef6e63fd2fc96b45ccdd827fd41f23da3c1c99f52b8b8",
+   "asset": "21959830497809485944334977358669130062319795504817158952553573627659682689075",
+   "copy_delay_min": 6.0,
+   "cf_ask": 0.8,
+   "cf_shares": 0.0,
+   "cf_cost": 0.0,
+   "cf_entry": null,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Guangzhou Open: Lilli Tagger vs Harriet Dart",
+   "outcome": "Harriet Dart"
   }
  ],
- "total_pnl": -998.087099999999,
- "last_updated": "2026-11-01T10:40:35.192622+00:00"
+ "total_pnl": -1072.7705999999991,
+ "last_updated": "2026-11-01T10:45:31.406037+00:00"
 }
