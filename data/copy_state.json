@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8827.229409900003,
  "last_seen": {
-  "jtwyslljy": 1793541702,
+  "jtwyslljy": 1793542164,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x63fb74378c4289e27d45189faa883f20a5d415f9a48922de8f86bd8d5c39e70c",
-   "73711621858902064712097950660165124764538868847768643916388595021121152606046",
-   "BUY",
-   3630.32,
-   1783347115
-  ],
-  [
-   "0xdce28e078dac824e49b9996e64e3e330a630165e6b9b9f2cea0f487959395625",
-   "85258469184279046487012000385739590612417313123739073554013691504231776870728",
-   "SELL",
-   5000,
-   1783348487
-  ],
-  [
-   "0x4fd735cacf564e5a999fa34fc04fb8a06d8a3e8fc0ead3e5154678bb7c3c7b53",
-   "108427942320631849914145123235056068576324740783556588710634234679971098502341",
-   "BUY",
-   25559.19,
-   1783351499
-  ],
   [
    "0xa662d12e2ab89f9896bcb628a4249227d7ee1fd2088d7a25ee78b02d2f23961b",
    "108427942320631849914145123235056068576324740783556588710634234679971098502341",
@@ -28005,6 +27984,27 @@
    "BUY",
    161,
    1793541702
+  ],
+  [
+   "0xa8d46082fac071a1aff5528b6e1a7f6c833d74d20b37b147194663bdad9221d7",
+   "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "BUY",
+   1550.15,
+   1793542102
+  ],
+  [
+   "0xed94a8007192f554c56172ac9981c4cf1375d116c3754bd920772a98cdc35929",
+   "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "BUY",
+   3000,
+   1793542119
+  ],
+  [
+   "0xdaaa1d9364b05a29e8d85c273143d42efc91e6e9eccaa451beee8543d26c2bff",
+   "58315079502032750323777946717061347988232723634854062096768919242758886102479",
+   "BUY",
+   4500,
+   1793542164
   ]
  ],
  "leader_pos": {
@@ -45487,10 +45487,22 @@
    "title": "Rolex Paris Masters, Qualification: Adolfo Vallejo vs Lorenzo Sonego",
    "outcome": "Adolfo Vallejo",
    "slug": "atp-vallejo-sonego-2026-11-01",
-   "shares": 3591.0,
-   "cost": 1302.87,
-   "max_shares": 3591.0,
-   "last_trade_ts": 1793541702
+   "shares": 8091.0,
+   "cost": 2157.87,
+   "max_shares": 8091.0,
+   "last_trade_ts": 1793542164
+  },
+  "jtwyslljy|100323418690479875533215542474412934329615356266740641102312800923368890251781": {
+   "leader": "jtwyslljy",
+   "asset": "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "condition_id": "0xb254553c6bbabe6046d5f2448ae614dcbb60334a74b2cb3dae14de290345b166",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Jiri Lehecka",
+   "slug": "atp-lehecka-vachero-2026-11-01",
+   "shares": 4550.15,
+   "cost": 2851.093,
+   "max_shares": 4550.15,
+   "last_trade_ts": 1793542119
   }
  },
  "positions": [
@@ -76800,8 +76812,40 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters, Qualification: Adolfo Vallejo vs Lorenzo Sonego",
    "outcome": "Adolfo Vallejo"
+  },
+  {
+   "at": "2026-11-01T14:15:34.016113+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T14:15:00+00:00",
+   "condition_id": "0xb254553c6bbabe6046d5f2448ae614dcbb60334a74b2cb3dae14de290345b166",
+   "asset": "100323418690479875533215542474412934329615356266740641102312800923368890251781",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.63,
+   "cf_shares": 158.7302,
+   "cf_cost": 100.0,
+   "cf_entry": 0.63,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Swiss Indoors Basel: Jiri Lehecka vs Valentin Vacherot",
+   "outcome": "Jiri Lehecka"
+  },
+  {
+   "at": "2026-11-01T14:15:34.182684+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-01T13:40:00+00:00",
+   "condition_id": "0x7e1e8ce54c1f4302a05e0ab1187615681b8f608ae3e79a511d579d33b6b7fee0",
+   "asset": "58315079502032750323777946717061347988232723634854062096768919242758886102479",
+   "copy_delay_min": 6.2,
+   "cf_ask": 0.12,
+   "cf_shares": 833.3333,
+   "cf_cost": 100.0,
+   "cf_entry": 0.12,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters, Qualification: Adolfo Vallejo vs Lorenzo Sonego",
+   "outcome": "Adolfo Vallejo"
   }
  ],
  "total_pnl": -1072.7705999999991,
- "last_updated": "2026-11-01T14:05:29.884496+00:00"
+ "last_updated": "2026-11-01T14:15:34.457130+00:00"
 }
