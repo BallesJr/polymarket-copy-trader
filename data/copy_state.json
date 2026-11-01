@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8827.229409900003,
+ "bankroll": 9005.800809900004,
  "last_seen": {
   "jtwyslljy": 1793542164,
   "0x53757615de": 1793492473
@@ -45505,26 +45505,7 @@
    "last_trade_ts": 1793542119
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "24567809770248307142390745203793185461011215963466258408326764079809082996458",
-   "condition_id": "0x14833cab92ba986cb78635684a7a5be0f9e180cde4d5cf497b450e414842ee7a",
-   "title": "Rolex Paris Masters, Qualification: Benjamin Bonzi vs Yannick Hanfmann",
-   "outcome": "Benjamin Bonzi",
-   "slug": "atp-bonzi-hanfman-2026-11-01",
-   "opened_at": "2026-11-01T10:40:34.846362+00:00",
-   "entry_price": 0.56,
-   "shares": 178.5714,
-   "stake": 100.0,
-   "leader_vwap": 0.5592,
-   "leader_cost": 6877.8,
-   "copy_delay_min": 9.0,
-   "best_ask": 0.56,
-   "ask_depth": 6966.12,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -58739,6 +58720,28 @@
    "exit_price": 0.2,
    "pnl": -74.6835,
    "close_reason": "leader_exit"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "24567809770248307142390745203793185461011215963466258408326764079809082996458",
+   "condition_id": "0x14833cab92ba986cb78635684a7a5be0f9e180cde4d5cf497b450e414842ee7a",
+   "title": "Rolex Paris Masters, Qualification: Benjamin Bonzi vs Yannick Hanfmann",
+   "outcome": "Benjamin Bonzi",
+   "slug": "atp-bonzi-hanfman-2026-11-01",
+   "opened_at": "2026-11-01T10:40:34.846362+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.5592,
+   "leader_cost": 6877.8,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.56,
+   "ask_depth": 6966.12,
+   "status": "won",
+   "closed_at": "2026-11-01T14:20:34.908648+00:00",
+   "exit_price": 1.0,
+   "pnl": 78.5714,
+   "close_reason": "resolved"
   }
  ],
  "skips": [
@@ -76846,6 +76849,6 @@
    "outcome": "Adolfo Vallejo"
   }
  ],
- "total_pnl": -1072.7705999999991,
- "last_updated": "2026-11-01T14:15:34.457130+00:00"
+ "total_pnl": -994.1991999999991,
+ "last_updated": "2026-11-01T14:20:34.910826+00:00"
 }
