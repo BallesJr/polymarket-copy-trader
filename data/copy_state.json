@@ -45664,24 +45664,6 @@
  "positions": [
   {
    "leader": "jtwyslljy",
-   "asset": "53702047202705899788993572970356925301504868081142233756972910282977489479715",
-   "condition_id": "0x4b25bfc6028dcf60cf353d93bf737e5559d9b11897d01adf49bbaa64dac45468",
-   "title": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
-   "outcome": "Hubert Hurkacz",
-   "slug": "atp-musetti-hurkacz-2026-11-02",
-   "opened_at": "2026-11-02T09:40:40.303632+00:00",
-   "entry_price": 0.5,
-   "shares": 200.0,
-   "stake": 100.0,
-   "leader_vwap": 0.5,
-   "leader_cost": 1000.0,
-   "copy_delay_min": 2.0,
-   "best_ask": 0.5,
-   "ask_depth": 8400.53,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "74460587157353753955243709041286802427024006989005176836923256152674579353147",
    "condition_id": "0x23ca5fba3cac278c4386d78f3d2cee4a50d69b12095d881dffdf3488d988dc85",
    "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
@@ -59050,6 +59032,28 @@
    "closed_at": "2026-11-02T10:55:26.830282+00:00",
    "exit_price": 0.5,
    "pnl": 16.279,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "53702047202705899788993572970356925301504868081142233756972910282977489479715",
+   "condition_id": "0x4b25bfc6028dcf60cf353d93bf737e5559d9b11897d01adf49bbaa64dac45468",
+   "title": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-musetti-hurkacz-2026-11-02",
+   "opened_at": "2026-11-02T09:40:40.303632+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 2.0,
+   "best_ask": 0.5,
+   "ask_depth": 8400.53,
+   "status": "lost",
+   "closed_at": "2026-11-02T12:30:50.167909+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -77254,6 +77258,6 @@
    "outcome": "Viktorija Golubic"
   }
  ],
- "total_pnl": -860.5288999999991,
- "last_updated": "2026-11-02T12:10:38.624612+00:00"
+ "total_pnl": -960.5288999999991,
+ "last_updated": "2026-11-02T12:30:50.169854+00:00"
 }
