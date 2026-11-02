@@ -2,24 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 9123.192109900003,
  "last_seen": {
-  "jtwyslljy": 1793558862,
+  "jtwyslljy": 1793606221,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x807ad1132e727ba67beecedb727ab9b7324f49d20a73c422aff400fd6df764b2",
-   "32416183037253537110250743714067621855761298044523860318616963052023268394995",
-   "BUY",
-   8161.32,
-   1783438555
-  ],
-  [
-   "0xb105e15a286a9f0a0278af6837ebb898ca35489d9e775fe0d04d148e56a92847",
-   "32416183037253537110250743714067621855761298044523860318616963052023268394995",
-   "BUY",
-   28000,
-   1783438586
-  ],
   [
    "0xe583c04b0ac0d22d0ffce4320121446b8f0bf0dfa51618f203600dca70ede8c9",
    "32416183037253537110250743714067621855761298044523860318616963052023268394995",
@@ -28005,6 +27991,20 @@
    "BUY",
    500,
    1793558862
+  ],
+  [
+   "0x0bee04288f5e1de18c6ba4401c35af3b292548d4b1c38a21385d9c40da13de92",
+   "114170079219807790430677418377480582303745147570784647805320007055818130386907",
+   "BUY",
+   6000,
+   1793606065
+  ],
+  [
+   "0x511a857bffb3ca3cea758154b767285abf0fbfadf9bef6efc26f055fa4e10d60",
+   "23143802963033619885223728697414774404484954074315252396326888290119234073735",
+   "BUY",
+   5000,
+   1793606221
   ]
  ],
  "leader_pos": {
@@ -45551,6 +45551,30 @@
    "cost": 285.0,
    "max_shares": 500.0,
    "last_trade_ts": 1793558862
+  },
+  "jtwyslljy|114170079219807790430677418377480582303745147570784647805320007055818130386907": {
+   "leader": "jtwyslljy",
+   "asset": "114170079219807790430677418377480582303745147570784647805320007055818130386907",
+   "condition_id": "0x5a64eb53086ca8a33777fd98d950eaf87b8c8f5091add0eb0c66efc5560395ef",
+   "title": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+   "outcome": "Viktorija Golubic",
+   "slug": "wta-golubic-boulter-2026-11-01",
+   "shares": 6000.0,
+   "cost": 562.9775099999999,
+   "max_shares": 6000.0,
+   "last_trade_ts": 1793606065
+  },
+  "jtwyslljy|23143802963033619885223728697414774404484954074315252396326888290119234073735": {
+   "leader": "jtwyslljy",
+   "asset": "23143802963033619885223728697414774404484954074315252396326888290119234073735",
+   "condition_id": "0x1a6f58871c250805ed53269bc5df608207fa57280f85b65dfc4fa0226ac24f5c",
+   "title": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+   "outcome": "Aliaksandra Sasnovich",
+   "slug": "wta-volynet-sasnovi-2026-11-02",
+   "shares": 5000.0,
+   "cost": 2889.4857,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1793606221
   }
  },
  "positions": [],
@@ -76981,8 +77005,40 @@
    "leader": "jtwyslljy",
    "title": "Cardinals vs. Cowboys",
    "outcome": "Cardinals"
+  },
+  {
+   "at": "2026-11-02T08:01:18.799529+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-02T07:55:00+00:00",
+   "condition_id": "0x1a6f58871c250805ed53269bc5df608207fa57280f85b65dfc4fa0226ac24f5c",
+   "asset": "23143802963033619885223728697414774404484954074315252396326888290119234073735",
+   "copy_delay_min": 4.3,
+   "cf_ask": 0.6,
+   "cf_shares": 166.6667,
+   "cf_cost": 100.0,
+   "cf_entry": 0.6,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Prudential Hong Kong Tennis Open: Katie Volynets vs Aliaksandra Sasnovich",
+   "outcome": "Aliaksandra Sasnovich"
+  },
+  {
+   "at": "2026-11-02T08:01:18.929759+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-02T06:10:00+00:00",
+   "condition_id": "0x5a64eb53086ca8a33777fd98d950eaf87b8c8f5091add0eb0c66efc5560395ef",
+   "asset": "114170079219807790430677418377480582303745147570784647805320007055818130386907",
+   "copy_delay_min": 6.9,
+   "cf_ask": 0.001,
+   "cf_shares": 88054.39,
+   "cf_cost": 100.0,
+   "cf_entry": 0.0011,
+   "cf_would_enter": false,
+   "leader": "jtwyslljy",
+   "title": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
+   "outcome": "Viktorija Golubic"
   }
  ],
  "total_pnl": -876.8078999999991,
- "last_updated": "2026-11-01T18:55:27.689782+00:00"
+ "last_updated": "2026-11-02T08:01:18.930666+00:00"
 }
