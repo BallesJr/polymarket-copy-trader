@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8738.367787900002,
+ "bankroll": 8965.640487900002,
  "last_seen": {
   "jtwyslljy": 1793646441,
   "0x53757615de": 1793492473
@@ -45727,24 +45727,6 @@
    "best_ask": 0.41,
    "ask_depth": 5689.28,
    "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "3035757407688259493867268412581757640639217649143462150042214926221807116407",
-   "condition_id": "0x87d90f7efca50abb749ab56e191faf4c700d5c27290ca65f2ec434cf470ebb6d",
-   "title": "Newcastle United FC vs. Everton FC: O/U 2.5",
-   "outcome": "Under",
-   "slug": "epl-new-eve-2026-11-02-more-markets",
-   "opened_at": "2026-11-02T16:10:36.892372+00:00",
-   "entry_price": 0.44,
-   "shares": 227.2727,
-   "stake": 100.0,
-   "leader_vwap": 0.44,
-   "leader_cost": 3080.0,
-   "copy_delay_min": 7.1,
-   "best_ask": 0.44,
-   "ask_depth": 6103.12,
-   "status": "open"
   }
  ],
  "closed": [
@@ -59158,6 +59140,28 @@
    "closed_at": "2026-11-02T20:25:26.255566+00:00",
    "exit_price": 1.0,
    "pnl": 78.5714,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3035757407688259493867268412581757640639217649143462150042214926221807116407",
+   "condition_id": "0x87d90f7efca50abb749ab56e191faf4c700d5c27290ca65f2ec434cf470ebb6d",
+   "title": "Newcastle United FC vs. Everton FC: O/U 2.5",
+   "outcome": "Under",
+   "slug": "epl-new-eve-2026-11-02-more-markets",
+   "opened_at": "2026-11-02T16:10:36.892372+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 3080.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.44,
+   "ask_depth": 6103.12,
+   "status": "won",
+   "closed_at": "2026-11-02T22:15:33.362134+00:00",
+   "exit_price": 1.0,
+   "pnl": 127.2727,
    "close_reason": "resolved"
   }
  ],
@@ -77426,6 +77430,6 @@
    "outcome": "Denis Shapovalov"
   }
  ],
- "total_pnl": -1061.632299999999,
- "last_updated": "2026-11-02T20:25:26.257539+00:00"
+ "total_pnl": -934.3595999999991,
+ "last_updated": "2026-11-02T22:15:33.363614+00:00"
 }
