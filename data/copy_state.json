@@ -45730,24 +45730,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "41016414248602616919251339155490326461016886103378579120049127846125355884138",
-   "condition_id": "0xda193d84c33d51f5c6586f08eca819e438b70f69d20da82291b1b881e540fb14",
-   "title": "Rolex Paris Masters: Kyrian Jacquet vs Tomas Machac",
-   "outcome": "Kyrian Jacquet",
-   "slug": "atp-jacquet-machac-2026-11-02",
-   "opened_at": "2026-11-02T09:45:38.360513+00:00",
-   "entry_price": 0.37,
-   "shares": 270.2703,
-   "stake": 100.0,
-   "leader_vwap": 0.37,
-   "leader_cost": 2590.0,
-   "copy_delay_min": 3.4,
-   "best_ask": 0.37,
-   "ask_depth": 6374.14,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "65081821838943073948399842094919914668294229989066017476026417271041661614972",
    "condition_id": "0x395223faa4bd0468a2c44fe8ba6ff0ef0ea5a98f2dc09cb68dd4d0a1a1c5bccc",
    "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
@@ -59144,6 +59126,28 @@
    "ask_depth": 8464.66,
    "status": "lost",
    "closed_at": "2026-11-02T15:35:28.613534+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "41016414248602616919251339155490326461016886103378579120049127846125355884138",
+   "condition_id": "0xda193d84c33d51f5c6586f08eca819e438b70f69d20da82291b1b881e540fb14",
+   "title": "Rolex Paris Masters: Kyrian Jacquet vs Tomas Machac",
+   "outcome": "Kyrian Jacquet",
+   "slug": "atp-jacquet-machac-2026-11-02",
+   "opened_at": "2026-11-02T09:45:38.360513+00:00",
+   "entry_price": 0.37,
+   "shares": 270.2703,
+   "stake": 100.0,
+   "leader_vwap": 0.37,
+   "leader_cost": 2590.0,
+   "copy_delay_min": 3.4,
+   "best_ask": 0.37,
+   "ask_depth": 6374.14,
+   "status": "lost",
+   "closed_at": "2026-11-02T17:50:36.702578+00:00",
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
@@ -77398,6 +77402,6 @@
    "outcome": "Alex Molcan"
   }
  ],
- "total_pnl": -993.8621999999991,
- "last_updated": "2026-11-02T17:15:35.116838+00:00"
+ "total_pnl": -1093.8621999999991,
+ "last_updated": "2026-11-02T17:50:36.704574+00:00"
 }
