@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8559.796387900002,
  "last_seen": {
-  "jtwyslljy": 1793645229,
+  "jtwyslljy": 1793646441,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x7df30146401b4e5854bd08661ad6814ab7443a55989b0f518135384e2e12b6e3",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   3000,
-   1783446622
-  ],
   [
    "0x12e83f69e4e3efff2733487e812b35da5b40c08109fc2be99c4965158ad62f9f",
    "64593944346848778245789712692688533311339927421171538909039643128610895892365",
@@ -28005,6 +27998,13 @@
    "SELL",
    8000,
    1793645229
+  ],
+  [
+   "0xb9dad2483b6d528f620b5b5ae60d5b2df967deb55d78379f33580cd87a4f2e37",
+   "74460587157353753955243709041286802427024006989005176836923256152674579353147",
+   "BUY",
+   5112.97,
+   1793646441
   ]
  ],
  "leader_pos": {
@@ -45643,10 +45643,10 @@
    "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
    "outcome": "Denis Shapovalov",
    "slug": "atp-shapova-khachan-2026-11-02",
-   "shares": -1711.62,
-   "cost": 885.3519999999999,
-   "max_shares": 6288.38,
-   "last_trade_ts": 1793645229
+   "shares": 5112.97,
+   "cost": 1994.0583000000001,
+   "max_shares": 5112.97,
+   "last_trade_ts": 1793646441
   },
   "jtwyslljy|65081821838943073948399842094919914668294229989066017476026417271041661614972": {
    "leader": "jtwyslljy",
@@ -77404,8 +77404,24 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters: Alex Molcan vs Titouan Droguet",
    "outcome": "Alex Molcan"
+  },
+  {
+   "at": "2026-11-02T19:10:33.486973+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-02T18:05:00+00:00",
+   "condition_id": "0x23ca5fba3cac278c4386d78f3d2cee4a50d69b12095d881dffdf3488d988dc85",
+   "asset": "74460587157353753955243709041286802427024006989005176836923256152674579353147",
+   "copy_delay_min": 3.2,
+   "cf_ask": 0.34,
+   "cf_shares": 294.1176,
+   "cf_cost": 100.0,
+   "cf_entry": 0.34,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
+   "outcome": "Denis Shapovalov"
   }
  ],
  "total_pnl": -1140.2036999999991,
- "last_updated": "2026-11-02T18:50:34.599437+00:00"
+ "last_updated": "2026-11-02T19:10:33.865261+00:00"
 }
