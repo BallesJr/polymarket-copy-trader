@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8606.137859900002,
+ "bankroll": 8506.137859900002,
  "last_seen": {
-  "jtwyslljy": 1793638710,
+  "jtwyslljy": 1793639197,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x7606fea43b48bb4ec9ca433e1a47bf185281b41c1406989e9cb54699d79e686a",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   34107.52,
-   1783445519
-  ],
   [
    "0x3e3efe2c4d7129d63993e8c081dfc8f67ec28cbfb401da2e964febc840c9fb74",
    "62322024443983575289896387710034399425619931224187000571202629586505505867789",
@@ -28005,6 +27998,13 @@
    "BUY",
    3999.99,
    1793638710
+  ],
+  [
+   "0x59e9997bd00225bf7628f640fd8bc4e0935c873c9fab45b716af3a3cfa92d8b3",
+   "59250924952396840935954487143252126572665956729407499663398603926457024990151",
+   "BUY",
+   999.99,
+   1793639197
   ]
  ],
  "leader_pos": {
@@ -45703,10 +45703,10 @@
    "title": "Rolex Paris Masters: Alex Molcan vs Titouan Droguet",
    "outcome": "Alex Molcan",
    "slug": "atp-molcan-droguet-2026-11-02",
-   "shares": 3999.99,
-   "cost": 2199.9945000000002,
-   "max_shares": 3999.99,
-   "last_trade_ts": 1793638710
+   "shares": 4999.98,
+   "cost": 2749.9890000000005,
+   "max_shares": 4999.98,
+   "last_trade_ts": 1793639197
   }
  },
  "positions": [
@@ -45780,6 +45780,24 @@
    "copy_delay_min": 7.1,
    "best_ask": 0.44,
    "ask_depth": 6103.12,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "59250924952396840935954487143252126572665956729407499663398603926457024990151",
+   "condition_id": "0xfab80dfaf38e45822c2e348122a1a3aa5f978f707e04e38edb5873bfb22d23f5",
+   "title": "Rolex Paris Masters: Alex Molcan vs Titouan Droguet",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-droguet-2026-11-02",
+   "opened_at": "2026-11-02T17:15:34.873285+00:00",
+   "entry_price": 0.56,
+   "shares": 178.5714,
+   "stake": 100.0,
+   "leader_vwap": 0.55,
+   "leader_cost": 2749.99,
+   "copy_delay_min": 9.0,
+   "best_ask": 0.56,
+   "ask_depth": 9531.24,
    "status": "open"
   }
  ],
@@ -77381,5 +77399,5 @@
   }
  ],
  "total_pnl": -993.8621999999991,
- "last_updated": "2026-11-02T17:01:04.045710+00:00"
+ "last_updated": "2026-11-02T17:15:35.116838+00:00"
 }
