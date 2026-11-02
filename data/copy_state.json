@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8606.137859900002,
  "last_seen": {
-  "jtwyslljy": 1793635411,
+  "jtwyslljy": 1793638710,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xa031bf61e8faecb61bd4dda373db3a7bc7f451b5820792e84c451fefc2248aa1",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   500,
-   1783444237
-  ],
-  [
-   "0x1adf641ffed1f5e489f3ed028483b6d9aa6f1f2c0e8a8af4c13acbba686e808d",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   1000,
-   1783444885
-  ],
-  [
-   "0xb40fccfd96f4a677f80910dfd44be541b10b9bdb9e964b90ef3087ae9386e70d",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   3000,
-   1783445239
-  ],
   [
    "0x7606fea43b48bb4ec9ca433e1a47bf185281b41c1406989e9cb54699d79e686a",
    "62322024443983575289896387710034399425619931224187000571202629586505505867789",
@@ -28005,6 +27984,27 @@
    "BUY",
    7000,
    1793635411
+  ],
+  [
+   "0x69033ed53e7b574bad703ed1e7157a521c9126b8f5c2845fe83edb071d69e2d2",
+   "41016414248602616919251339155490326461016886103378579120049127846125355884138",
+   "BUY",
+   3000,
+   1793638678
+  ],
+  [
+   "0x31359cd3b17e0241b71dad4a6b2e70de0c80d97adac8fec80eb0331d896db2ff",
+   "41016414248602616919251339155490326461016886103378579120049127846125355884138",
+   "BUY",
+   1500,
+   1793638687
+  ],
+  [
+   "0x39b4d5884d00c6ba1359cc0d32b12f2f14d1202e4e4608717b3590b80cc2cf0e",
+   "59250924952396840935954487143252126572665956729407499663398603926457024990151",
+   "BUY",
+   3999.99,
+   1793638710
   ]
  ],
  "leader_pos": {
@@ -45631,10 +45631,10 @@
    "title": "Rolex Paris Masters: Kyrian Jacquet vs Tomas Machac",
    "outcome": "Kyrian Jacquet",
    "slug": "atp-jacquet-machac-2026-11-02",
-   "shares": 8500.0,
-   "cost": 3100.0,
-   "max_shares": 8500.0,
-   "last_trade_ts": 1793633637
+   "shares": 13000.0,
+   "cost": 3820.0,
+   "max_shares": 13000.0,
+   "last_trade_ts": 1793638687
   },
   "jtwyslljy|74460587157353753955243709041286802427024006989005176836923256152674579353147": {
    "leader": "jtwyslljy",
@@ -45695,6 +45695,18 @@
    "cost": 3080.0,
    "max_shares": 7000.0,
    "last_trade_ts": 1793635411
+  },
+  "jtwyslljy|59250924952396840935954487143252126572665956729407499663398603926457024990151": {
+   "leader": "jtwyslljy",
+   "asset": "59250924952396840935954487143252126572665956729407499663398603926457024990151",
+   "condition_id": "0xfab80dfaf38e45822c2e348122a1a3aa5f978f707e04e38edb5873bfb22d23f5",
+   "title": "Rolex Paris Masters: Alex Molcan vs Titouan Droguet",
+   "outcome": "Alex Molcan",
+   "slug": "atp-molcan-droguet-2026-11-02",
+   "shares": 3999.99,
+   "cost": 2199.9945000000002,
+   "max_shares": 3999.99,
+   "last_trade_ts": 1793638710
   }
  },
  "positions": [
@@ -77350,8 +77362,24 @@
    "leader": "jtwyslljy",
    "title": "Rolex Paris Masters: Cameron Norrie vs Matteo Arnaldi",
    "outcome": "Matteo Arnaldi"
+  },
+  {
+   "at": "2026-11-02T17:01:03.706149+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-02T17:00:00+00:00",
+   "condition_id": "0xfab80dfaf38e45822c2e348122a1a3aa5f978f707e04e38edb5873bfb22d23f5",
+   "asset": "59250924952396840935954487143252126572665956729407499663398603926457024990151",
+   "copy_delay_min": 2.5,
+   "cf_ask": 0.56,
+   "cf_shares": 178.5714,
+   "cf_cost": 100.0,
+   "cf_entry": 0.56,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters: Alex Molcan vs Titouan Droguet",
+   "outcome": "Alex Molcan"
   }
  ],
  "total_pnl": -993.8621999999991,
- "last_updated": "2026-11-02T16:10:37.179696+00:00"
+ "last_updated": "2026-11-02T17:01:04.045710+00:00"
 }
