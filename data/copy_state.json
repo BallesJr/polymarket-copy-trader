@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8506.137859900002,
+ "bankroll": 8559.796387900002,
  "last_seen": {
-  "jtwyslljy": 1793644167,
+  "jtwyslljy": 1793645229,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x0edc0a6cdf2240f7ceab037e782c9ce9b142366f938b9e28ce63929a6bd048a1",
-   "62322024443983575289896387710034399425619931224187000571202629586505505867789",
-   "BUY",
-   112,
-   1783445785
-  ],
   [
    "0x7df30146401b4e5854bd08661ad6814ab7443a55989b0f518135384e2e12b6e3",
    "62322024443983575289896387710034399425619931224187000571202629586505505867789",
@@ -28005,6 +27998,13 @@
    "BUY",
    5000,
    1793644167
+  ],
+  [
+   "0x7ee57198d9af793ad91976919f7ef25a3e20f69ddd0340190f110204eb792c4d",
+   "74460587157353753955243709041286802427024006989005176836923256152674579353147",
+   "SELL",
+   8000,
+   1793645229
   ]
  ],
  "leader_pos": {
@@ -45643,10 +45643,10 @@
    "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
    "outcome": "Denis Shapovalov",
    "slug": "atp-shapova-khachan-2026-11-02",
-   "shares": 6288.38,
-   "cost": 2485.352,
+   "shares": -1711.62,
+   "cost": 885.3519999999999,
    "max_shares": 6288.38,
-   "last_trade_ts": 1793633644
+   "last_trade_ts": 1793645229
   },
   "jtwyslljy|65081821838943073948399842094919914668294229989066017476026417271041661614972": {
    "leader": "jtwyslljy",
@@ -45710,24 +45710,6 @@
   }
  },
  "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "74460587157353753955243709041286802427024006989005176836923256152674579353147",
-   "condition_id": "0x23ca5fba3cac278c4386d78f3d2cee4a50d69b12095d881dffdf3488d988dc85",
-   "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
-   "outcome": "Denis Shapovalov",
-   "slug": "atp-shapova-khachan-2026-11-02",
-   "opened_at": "2026-11-02T09:45:38.123191+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.4,
-   "leader_cost": 1315.35,
-   "copy_delay_min": 2.9,
-   "best_ask": 0.41,
-   "ask_depth": 8100.33,
-   "status": "open"
-  },
   {
    "leader": "jtwyslljy",
    "asset": "65081821838943073948399842094919914668294229989066017476026417271041661614972",
@@ -59151,6 +59133,28 @@
    "exit_price": 0.0,
    "pnl": -100.0,
    "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "74460587157353753955243709041286802427024006989005176836923256152674579353147",
+   "condition_id": "0x23ca5fba3cac278c4386d78f3d2cee4a50d69b12095d881dffdf3488d988dc85",
+   "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
+   "outcome": "Denis Shapovalov",
+   "slug": "atp-shapova-khachan-2026-11-02",
+   "opened_at": "2026-11-02T09:45:38.123191+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.4,
+   "leader_cost": 1315.35,
+   "copy_delay_min": 2.9,
+   "best_ask": 0.41,
+   "ask_depth": 8100.33,
+   "status": "closed",
+   "closed_at": "2026-11-02T18:50:34.239039+00:00",
+   "exit_price": 0.22,
+   "pnl": -46.3415,
+   "close_reason": "leader_exit"
   }
  ],
  "skips": [
@@ -77402,6 +77406,6 @@
    "outcome": "Alex Molcan"
   }
  ],
- "total_pnl": -1093.8621999999991,
- "last_updated": "2026-11-02T18:35:28.012216+00:00"
+ "total_pnl": -1140.2036999999991,
+ "last_updated": "2026-11-02T18:50:34.599437+00:00"
 }
