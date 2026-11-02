@@ -1,6 +1,6 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8423.192109900003,
+ "bankroll": 8539.471159900002,
  "last_seen": {
   "jtwyslljy": 1793612622,
   "0x53757615de": 1793492473
@@ -45718,24 +45718,6 @@
   },
   {
    "leader": "jtwyslljy",
-   "asset": "39696294069404794274862997220980196853030740429459384018418443691288432873974",
-   "condition_id": "0x1623fe580adb4bab3e8a9bca1a1b50000bf38308ee4c96257305836c73d5856a",
-   "title": "Rolex Paris Masters: Daniel Merida Aguilar vs Alexander Blockx",
-   "outcome": "Daniel Merida Aguilar",
-   "slug": "atp-aguilar-blockx-2026-11-02",
-   "opened_at": "2026-11-02T09:45:38.599181+00:00",
-   "entry_price": 0.43,
-   "shares": 232.5581,
-   "stake": 100.0,
-   "leader_vwap": 0.43,
-   "leader_cost": 2580.0,
-   "copy_delay_min": 4.9,
-   "best_ask": 0.43,
-   "ask_depth": 3656.47,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
    "asset": "42540830115914669267165129459126011878282134653227231539407127061183659447006",
    "condition_id": "0xfc641ff551069c20ce9347e4f7d0682f466ff7e560ac99c3a714020fa4b4eb88",
    "title": "Rolex Paris Masters: Luca Van Assche vs Mariano Navone",
@@ -59046,6 +59028,28 @@
    "closed_at": "2026-11-01T18:45:35.695738+00:00",
    "exit_price": 1.0,
    "pnl": 117.3913,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "39696294069404794274862997220980196853030740429459384018418443691288432873974",
+   "condition_id": "0x1623fe580adb4bab3e8a9bca1a1b50000bf38308ee4c96257305836c73d5856a",
+   "title": "Rolex Paris Masters: Daniel Merida Aguilar vs Alexander Blockx",
+   "outcome": "Daniel Merida Aguilar",
+   "slug": "atp-aguilar-blockx-2026-11-02",
+   "opened_at": "2026-11-02T09:45:38.599181+00:00",
+   "entry_price": 0.43,
+   "shares": 232.5581,
+   "stake": 100.0,
+   "leader_vwap": 0.43,
+   "leader_cost": 2580.0,
+   "copy_delay_min": 4.9,
+   "best_ask": 0.43,
+   "ask_depth": 3656.47,
+   "status": "refund",
+   "closed_at": "2026-11-02T10:55:26.830282+00:00",
+   "exit_price": 0.5,
+   "pnl": 16.279,
    "close_reason": "resolved"
   }
  ],
@@ -77250,6 +77254,6 @@
    "outcome": "Viktorija Golubic"
   }
  ],
- "total_pnl": -876.8078999999991,
- "last_updated": "2026-11-02T09:45:39.713811+00:00"
+ "total_pnl": -860.5288999999991,
+ "last_updated": "2026-11-02T10:55:26.832477+00:00"
 }
