@@ -2,17 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8706.137859900002,
  "last_seen": {
-  "jtwyslljy": 1793621254,
+  "jtwyslljy": 1793631382,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xb444f54e288eb776fbfe9d25a6443751455c62878bafb9950e4962529c107bc4",
-   "58122658949528625969997762521882250242419994390297679466470136147073681953861",
-   "BUY",
-   167,
-   1783440769
-  ],
   [
    "0xdfbe456a5c1676c4c8e980737e0581bd44aa9efeb391a84f867d0c4fbaff3db0",
    "108484238848648074372041518363480249254156420448181302544958828959135013838825",
@@ -28005,6 +27998,13 @@
    "BUY",
    999.99,
    1793621254
+  ],
+  [
+   "0xf5fb9b662248902f5a6a7e79f90101c7cd48befef685d7494e1db25af5d1fee0",
+   "3655098939612670129356270330909287704771569510636706344982204898494670129412",
+   "BUY",
+   5000,
+   1793631382
   ]
  ],
  "leader_pos": {
@@ -45659,6 +45659,18 @@
    "cost": 2050.0,
    "max_shares": 5000.0,
    "last_trade_ts": 1793612622
+  },
+  "jtwyslljy|3655098939612670129356270330909287704771569510636706344982204898494670129412": {
+   "leader": "jtwyslljy",
+   "asset": "3655098939612670129356270330909287704771569510636706344982204898494670129412",
+   "condition_id": "0xad9fe7f750e025423ea982f3a7e6da301c6ef14ba52486404269c501df3d36e0",
+   "title": "Rolex Paris Masters: Cameron Norrie vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi",
+   "slug": "atp-norrie-arnaldi-2026-11-02",
+   "shares": 5000.0,
+   "cost": 2550.0,
+   "max_shares": 5000.0,
+   "last_trade_ts": 1793631382
   }
  },
  "positions": [
@@ -77260,8 +77272,24 @@
    "leader": "jtwyslljy",
    "title": "Prudential Hong Kong Tennis Open: Viktorija Golubic vs Katie Boulter",
    "outcome": "Viktorija Golubic"
+  },
+  {
+   "at": "2026-11-02T15:01:08.235750+00:00",
+   "reason": "in_play",
+   "game_start": "2026-11-02T13:50:00+00:00",
+   "condition_id": "0xad9fe7f750e025423ea982f3a7e6da301c6ef14ba52486404269c501df3d36e0",
+   "asset": "3655098939612670129356270330909287704771569510636706344982204898494670129412",
+   "copy_delay_min": 4.8,
+   "cf_ask": 0.47,
+   "cf_shares": 212.766,
+   "cf_cost": 100.0,
+   "cf_entry": 0.47,
+   "cf_would_enter": true,
+   "leader": "jtwyslljy",
+   "title": "Rolex Paris Masters: Cameron Norrie vs Matteo Arnaldi",
+   "outcome": "Matteo Arnaldi"
   }
  ],
  "total_pnl": -893.8621999999991,
- "last_updated": "2026-11-02T14:05:35.045923+00:00"
+ "last_updated": "2026-11-02T15:01:08.633369+00:00"
 }
