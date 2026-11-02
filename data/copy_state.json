@@ -2,31 +2,10 @@
  "created_at": "2026-07-03T14:51:38.407713+00:00",
  "bankroll": 8706.137859900002,
  "last_seen": {
-  "jtwyslljy": 1793633257,
+  "jtwyslljy": 1793633652,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0x9c96906b201ff136a9199a828a9e5c011bbebda6a6086f9135e0a6d6e53e72a4",
-   "108484238848648074372041518363480249254156420448181302544958828959135013838825",
-   "BUY",
-   21000,
-   1783440842
-  ],
-  [
-   "0x52c728ea0389fce496dfff2689f12087a60d0de4ed6140a7ce805329e0b1ee34",
-   "83177786221987399266027702528594386022641819645587568014461911704819388964343",
-   "BUY",
-   4587.25,
-   1783441808
-  ],
-  [
-   "0x21d1833e28aeed0c315a5f542a0c8bd3fa491589947905b066b1b3b5f1d036c0",
-   "83177786221987399266027702528594386022641819645587568014461911704819388964343",
-   "BUY",
-   9600,
-   1783441864
-  ],
   [
    "0xd0a49203026735cd9285116b2de4f2563500e2bcd65560bb2917addc19b0daa6",
    "65153945878003754040337604701661751644439825992768932338975436339166807792069",
@@ -28005,6 +27984,27 @@
    "BUY",
    5000,
    1793633257
+  ],
+  [
+   "0xd8ecbc8c92e8b00c29dbfb58b832048cac41299619f6eb973664b972e0b7b29b",
+   "41016414248602616919251339155490326461016886103378579120049127846125355884138",
+   "BUY",
+   1500,
+   1793633637
+  ],
+  [
+   "0x973291d3dbdd502575121e94d94eba95e231d977bebac0c5810c7fb51312cf7f",
+   "74460587157353753955243709041286802427024006989005176836923256152674579353147",
+   "BUY",
+   3000,
+   1793633644
+  ],
+  [
+   "0x5b58396dae030cee952736f33e148eed7747b3ab93db1a110eef0bf2b94d2184",
+   "65081821838943073948399842094919914668294229989066017476026417271041661614972",
+   "BUY",
+   3000,
+   1793633652
   ]
  ],
  "leader_pos": {
@@ -45631,10 +45631,10 @@
    "title": "Rolex Paris Masters: Kyrian Jacquet vs Tomas Machac",
    "outcome": "Kyrian Jacquet",
    "slug": "atp-jacquet-machac-2026-11-02",
-   "shares": 7000.0,
-   "cost": 2590.0,
-   "max_shares": 7000.0,
-   "last_trade_ts": 1793612530
+   "shares": 8500.0,
+   "cost": 3100.0,
+   "max_shares": 8500.0,
+   "last_trade_ts": 1793633637
   },
   "jtwyslljy|74460587157353753955243709041286802427024006989005176836923256152674579353147": {
    "leader": "jtwyslljy",
@@ -45643,10 +45643,10 @@
    "title": "Rolex Paris Masters: Denis Shapovalov vs Karen Khachanov",
    "outcome": "Denis Shapovalov",
    "slug": "atp-shapova-khachan-2026-11-02",
-   "shares": 3288.38,
-   "cost": 1315.352,
-   "max_shares": 3288.38,
-   "last_trade_ts": 1793612565
+   "shares": 6288.38,
+   "cost": 2485.352,
+   "max_shares": 6288.38,
+   "last_trade_ts": 1793633644
   },
   "jtwyslljy|65081821838943073948399842094919914668294229989066017476026417271041661614972": {
    "leader": "jtwyslljy",
@@ -45655,10 +45655,10 @@
    "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
    "outcome": "Botic van de Zandschulp",
    "slug": "atp-humbert-zandsch-2026-11-02",
-   "shares": 5000.0,
-   "cost": 2050.0,
-   "max_shares": 5000.0,
-   "last_trade_ts": 1793612622
+   "shares": 8000.0,
+   "cost": 3220.0,
+   "max_shares": 8000.0,
+   "last_trade_ts": 1793633652
   },
   "jtwyslljy|3655098939612670129356270330909287704771569510636706344982204898494670129412": {
    "leader": "jtwyslljy",
@@ -45708,24 +45708,6 @@
    "copy_delay_min": 3.4,
    "best_ask": 0.37,
    "ask_depth": 6374.14,
-   "status": "open"
-  },
-  {
-   "leader": "jtwyslljy",
-   "asset": "1959187036525406979997234332266825716113510025906798134889033414273918010832",
-   "condition_id": "0x15aacea1ff95940366ebf7846b8f37c68d1a10d7ac350b467fa241b8dc94aa7e",
-   "title": "Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo",
-   "outcome": "Juan Manuel Cerundolo",
-   "slug": "atp-ruud-cerund-2026-11-02",
-   "opened_at": "2026-11-02T09:45:39.057117+00:00",
-   "entry_price": 0.29,
-   "shares": 344.8276,
-   "stake": 100.0,
-   "leader_vwap": 0.29,
-   "leader_cost": 1450.0,
-   "copy_delay_min": 4.3,
-   "best_ask": 0.29,
-   "ask_depth": 8464.66,
    "status": "open"
   },
   {
@@ -59070,6 +59052,28 @@
    "closed_at": "2026-11-02T14:05:35.044086+00:00",
    "exit_price": 1.0,
    "pnl": 66.6667,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "1959187036525406979997234332266825716113510025906798134889033414273918010832",
+   "condition_id": "0x15aacea1ff95940366ebf7846b8f37c68d1a10d7ac350b467fa241b8dc94aa7e",
+   "title": "Rolex Paris Masters: Casper Ruud vs Juan Manuel Cerundolo",
+   "outcome": "Juan Manuel Cerundolo",
+   "slug": "atp-ruud-cerund-2026-11-02",
+   "opened_at": "2026-11-02T09:45:39.057117+00:00",
+   "entry_price": 0.29,
+   "shares": 344.8276,
+   "stake": 100.0,
+   "leader_vwap": 0.29,
+   "leader_cost": 1450.0,
+   "copy_delay_min": 4.3,
+   "best_ask": 0.29,
+   "ask_depth": 8464.66,
+   "status": "lost",
+   "closed_at": "2026-11-02T15:35:28.613534+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -77306,6 +77310,6 @@
    "outcome": "Matteo Arnaldi"
   }
  ],
- "total_pnl": -893.8621999999991,
- "last_updated": "2026-11-02T15:30:52.932015+00:00"
+ "total_pnl": -993.8621999999991,
+ "last_updated": "2026-11-02T15:35:28.615480+00:00"
 }
