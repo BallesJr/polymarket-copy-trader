@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 8706.137859900002,
+ "bankroll": 8606.137859900002,
  "last_seen": {
-  "jtwyslljy": 1793634429,
+  "jtwyslljy": 1793635411,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xa09f6879bfe989197af90329e9f314f9ac6b8b8f4d3bc51b72bb1aff73027f8d",
-   "110840959246266592933614123098645754584062212686156145110406273513724979218376",
-   "BUY",
-   120000,
-   1783444018
-  ],
   [
    "0xa031bf61e8faecb61bd4dda373db3a7bc7f451b5820792e84c451fefc2248aa1",
    "62322024443983575289896387710034399425619931224187000571202629586505505867789",
@@ -28005,6 +27998,13 @@
    "BUY",
    500,
    1793634429
+  ],
+  [
+   "0x3ea2f55d4830dcd25e8d39c42b88a6099132ccbd00dcf505b3b8e6ad5e07d2d5",
+   "3035757407688259493867268412581757640639217649143462150042214926221807116407",
+   "BUY",
+   7000,
+   1793635411
   ]
  ],
  "leader_pos": {
@@ -45683,6 +45683,18 @@
    "cost": 330.0,
    "max_shares": 500.0,
    "last_trade_ts": 1793634429
+  },
+  "jtwyslljy|3035757407688259493867268412581757640639217649143462150042214926221807116407": {
+   "leader": "jtwyslljy",
+   "asset": "3035757407688259493867268412581757640639217649143462150042214926221807116407",
+   "condition_id": "0x87d90f7efca50abb749ab56e191faf4c700d5c27290ca65f2ec434cf470ebb6d",
+   "title": "Newcastle United FC vs. Everton FC: O/U 2.5",
+   "outcome": "Under",
+   "slug": "epl-new-eve-2026-11-02-more-markets",
+   "shares": 7000.0,
+   "cost": 3080.0,
+   "max_shares": 7000.0,
+   "last_trade_ts": 1793635411
   }
  },
  "positions": [
@@ -45738,6 +45750,24 @@
    "copy_delay_min": 1.9,
    "best_ask": 0.41,
    "ask_depth": 5689.28,
+   "status": "open"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "3035757407688259493867268412581757640639217649143462150042214926221807116407",
+   "condition_id": "0x87d90f7efca50abb749ab56e191faf4c700d5c27290ca65f2ec434cf470ebb6d",
+   "title": "Newcastle United FC vs. Everton FC: O/U 2.5",
+   "outcome": "Under",
+   "slug": "epl-new-eve-2026-11-02-more-markets",
+   "opened_at": "2026-11-02T16:10:36.892372+00:00",
+   "entry_price": 0.44,
+   "shares": 227.2727,
+   "stake": 100.0,
+   "leader_vwap": 0.44,
+   "leader_cost": 3080.0,
+   "copy_delay_min": 7.1,
+   "best_ask": 0.44,
+   "ask_depth": 6103.12,
    "status": "open"
   }
  ],
@@ -77323,5 +77353,5 @@
   }
  ],
  "total_pnl": -993.8621999999991,
- "last_updated": "2026-11-02T15:55:27.026970+00:00"
+ "last_updated": "2026-11-02T16:10:37.179696+00:00"
 }
