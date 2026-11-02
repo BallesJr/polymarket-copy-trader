@@ -1,18 +1,11 @@
 {
  "created_at": "2026-07-03T14:51:38.407713+00:00",
- "bankroll": 9123.192109900003,
+ "bankroll": 9023.192109900003,
  "last_seen": {
-  "jtwyslljy": 1793606221,
+  "jtwyslljy": 1793612322,
   "0x53757615de": 1793492473
  },
  "seen_keys": [
-  [
-   "0xe583c04b0ac0d22d0ffce4320121446b8f0bf0dfa51618f203600dca70ede8c9",
-   "32416183037253537110250743714067621855761298044523860318616963052023268394995",
-   "BUY",
-   724,
-   1783438622
-  ],
   [
    "0x9cb3dfef0256872c7bd2d60cebbb725d3a352dfe99971514493b5f9fa27d53c0",
    "32416183037253537110250743714067621855761298044523860318616963052023268394995",
@@ -28005,6 +27998,13 @@
    "BUY",
    5000,
    1793606221
+  ],
+  [
+   "0x1129dd8f4c5e4319b6ae63e94266bfa4e6d4e580f03cddf62db7f9b888a1f3e4",
+   "53702047202705899788993572970356925301504868081142233756972910282977489479715",
+   "BUY",
+   2000,
+   1793612322
   ]
  ],
  "leader_pos": {
@@ -45575,9 +45575,40 @@
    "cost": 2889.4857,
    "max_shares": 5000.0,
    "last_trade_ts": 1793606221
+  },
+  "jtwyslljy|53702047202705899788993572970356925301504868081142233756972910282977489479715": {
+   "leader": "jtwyslljy",
+   "asset": "53702047202705899788993572970356925301504868081142233756972910282977489479715",
+   "condition_id": "0x4b25bfc6028dcf60cf353d93bf737e5559d9b11897d01adf49bbaa64dac45468",
+   "title": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-musetti-hurkacz-2026-11-02",
+   "shares": 2000.0,
+   "cost": 1000.0,
+   "max_shares": 2000.0,
+   "last_trade_ts": 1793612322
   }
  },
- "positions": [],
+ "positions": [
+  {
+   "leader": "jtwyslljy",
+   "asset": "53702047202705899788993572970356925301504868081142233756972910282977489479715",
+   "condition_id": "0x4b25bfc6028dcf60cf353d93bf737e5559d9b11897d01adf49bbaa64dac45468",
+   "title": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
+   "outcome": "Hubert Hurkacz",
+   "slug": "atp-musetti-hurkacz-2026-11-02",
+   "opened_at": "2026-11-02T09:40:40.303632+00:00",
+   "entry_price": 0.5,
+   "shares": 200.0,
+   "stake": 100.0,
+   "leader_vwap": 0.5,
+   "leader_cost": 1000.0,
+   "copy_delay_min": 2.0,
+   "best_ask": 0.5,
+   "ask_depth": 8400.53,
+   "status": "open"
+  }
+ ],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -77040,5 +77071,5 @@
   }
  ],
  "total_pnl": -876.8078999999991,
- "last_updated": "2026-11-02T08:01:18.930666+00:00"
+ "last_updated": "2026-11-02T09:40:40.542060+00:00"
 }
