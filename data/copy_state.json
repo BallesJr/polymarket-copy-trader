@@ -45709,26 +45709,7 @@
    "last_trade_ts": 1793644167
   }
  },
- "positions": [
-  {
-   "leader": "jtwyslljy",
-   "asset": "65081821838943073948399842094919914668294229989066017476026417271041661614972",
-   "condition_id": "0x395223faa4bd0468a2c44fe8ba6ff0ef0ea5a98f2dc09cb68dd4d0a1a1c5bccc",
-   "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
-   "outcome": "Botic van de Zandschulp",
-   "slug": "atp-humbert-zandsch-2026-11-02",
-   "opened_at": "2026-11-02T09:45:39.287083+00:00",
-   "entry_price": 0.41,
-   "shares": 243.9024,
-   "stake": 100.0,
-   "leader_vwap": 0.41,
-   "leader_cost": 2050.0,
-   "copy_delay_min": 1.9,
-   "best_ask": 0.41,
-   "ask_depth": 5689.28,
-   "status": "open"
-  }
- ],
+ "positions": [],
  "closed": [
   {
    "leader": "jtwyslljy",
@@ -59162,6 +59143,28 @@
    "closed_at": "2026-11-02T22:15:33.362134+00:00",
    "exit_price": 1.0,
    "pnl": 127.2727,
+   "close_reason": "resolved"
+  },
+  {
+   "leader": "jtwyslljy",
+   "asset": "65081821838943073948399842094919914668294229989066017476026417271041661614972",
+   "condition_id": "0x395223faa4bd0468a2c44fe8ba6ff0ef0ea5a98f2dc09cb68dd4d0a1a1c5bccc",
+   "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
+   "outcome": "Botic van de Zandschulp",
+   "slug": "atp-humbert-zandsch-2026-11-02",
+   "opened_at": "2026-11-02T09:45:39.287083+00:00",
+   "entry_price": 0.41,
+   "shares": 243.9024,
+   "stake": 100.0,
+   "leader_vwap": 0.41,
+   "leader_cost": 2050.0,
+   "copy_delay_min": 1.9,
+   "best_ask": 0.41,
+   "ask_depth": 5689.28,
+   "status": "lost",
+   "closed_at": "2026-11-03T00:10:36.511485+00:00",
+   "exit_price": 0.0,
+   "pnl": -100.0,
    "close_reason": "resolved"
   }
  ],
@@ -77430,6 +77433,6 @@
    "outcome": "Denis Shapovalov"
   }
  ],
- "total_pnl": -934.3595999999991,
- "last_updated": "2026-11-02T22:15:33.363614+00:00"
+ "total_pnl": -1034.359599999999,
+ "last_updated": "2026-11-03T00:10:36.513606+00:00"
 }
